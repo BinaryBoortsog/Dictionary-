@@ -76,9 +76,15 @@ export default function DictionaryPage() {
       <main className="container margin-vert--xl">
         <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
           <h1 style={{ fontSize: '3rem', fontWeight: '800' }}>
-            <span style={{ color: '#004777' }}>koo</span>
-            <span style={{ color: '#ef4444' }}>OKIE</span>
+            
           </h1>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 12, marginBottom: 8 }}>
+              <img src="/img/logo.png" alt="koookie logo" style={{ width: 72, height: 72, objectFit: 'contain', borderRadius: 8 }} />
+              <h1 style={{ fontSize: '3.5rem', fontWeight: 'bold', margin: 0 }}>
+                <span style={{ color: '#004777' }}>koo</span>
+                <span style={{ color: '#ef4444' }}>OKIE</span>
+              </h1>
+            </div>
           <input
             type="text"
             placeholder="Type Korean or Mongolian..."

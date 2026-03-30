@@ -5,27 +5,33 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'kooOKIE',
+  tagline: 'KO-MGL words',
   favicon: 'img/logo.png',
+  url: 'https://BinaryBoortsog.github.io',
+  baseUrl: '/Dictionary-/',
+  organizationName: 'BinaryBoortsog',
+  projectName: 'Dictionary-',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false, // Remove trailing slash from URLs
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  // Include third-party scripts (GitHub Buttons)
+  scripts: [
+    {
+      src: 'https://buttons.github.io/buttons.js',
+      async: true,
+      defer: true,
+    },
+  ],
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -99,46 +105,39 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Repository',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
+              // enhanced footer profile block (avatar, username, actions)
+              html: `
+                <div class="footer-profile">
+                  <a href="https://github.com/BinaryBoortsog" target="_blank" rel="noopener noreferrer" class="footer-profile-link">
+                    <img src="https://github.com/BinaryBoortsog.png" alt="BinaryBoortsog" class="footer-avatar" />
+                    <div class="footer-username-wrap">
+                      <div class="footer-username">BinaryBoortsog</div>
+                      <div class="footer-sub">Creator · Maintainer</div>
+                      <p class="footer-desc">Энэхүү толь нь Солонгос–Монгол хэлний үгсийн хайлт хийхэд зориулагдсан. Үг эсвэл орчуулгыг оруулан хайхад холбогдох тайлбар, ангилал, CEFR түвшинг харна.</p>
+                    </div>
+                  </a>
+                  <div class="footer-actions">
+                    <a href="https://github.com/BinaryBoortsog/Dictionary-" class="footer-btn" target="_blank" rel="noopener noreferrer">View Repo</a>
+                    <a href="https://github.com/BinaryBoortsog/Dictionary-/stargazers" class="footer-btn footer-btn--ghost" target="_blank" rel="noopener noreferrer">Star</a>
+                  </div>
+                </div>
+              `,
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Repository: BinaryBoortsog/Dictionary-',
+              href: 'https://github.com/BinaryBoortsog/Dictionary-',
+            },
+            {
+              label: 'Stargazers',
+              href: 'https://github.com/BinaryBoortsog/Dictionary-/stargazers',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} BinaryBoortsog.`,
     },
     prism: {
       theme: prismThemes.github,

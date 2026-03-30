@@ -1,0 +1,366 @@
+[
+  {
+    "word": "커",
+    "translation": "том",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "커나다",
+    "translation": "ургах, өсөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "커널",
+    "translation": "цөм (компьютерийн)",
+    "hanja": "커널",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "커넥션",
+    "translation": "холбоо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "커넥터",
+    "translation": "Холбогч (connector)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "커넥톰",
+    "translation": "коннектом",
+    "hanja": "커넥톰",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "커닝",
+    "translation": "хуулах (шалгалтанд)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "커닝엄",
+    "translation": "Каннингем",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "커닝하다",
+    "translation": "хуулах, хуулбарлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "커닝햄",
+    "translation": "Каннингем",
+    "hanja": "Cunningham",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "커다",
+    "translation": "том",
+    "hanja": "커다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "커다랗다",
+    "translation": "том",
+    "hanja": "커다랗다",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "커드",
+    "translation": "зуслангийн бяслаг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "커리",
+    "translation": "карри",
+    "hanja": "커리",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "커리어",
+    "translation": "ажлын замнал",
+    "hanja": "career",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "커리큘럼",
+    "translation": "Сургалтын хөтөлбөр",
+    "hanja": "curriculum",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "커맨드",
+    "translation": "тушаал, команд",
+    "hanja": "command",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "커뮤니케이션",
+    "translation": "харилцаа холбоо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "커뮤니티",
+    "translation": "нийгэмлэг",
+    "hanja": "커뮤니티",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "커미션",
+    "translation": "комисс, хураамж",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "커밋",
+    "translation": "Кермит",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "커밍스",
+    "translation": "Каммингс (нэр)",
+    "hanja": "커밍스",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "커밍아웃",
+    "translation": "Ил гарах (бэлгийн чиг хандлага)",
+    "hanja": "coming out",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "커버",
+    "translation": "Хавтас, бүрхүүл",
+    "hanja": "커버",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "커버넌트",
+    "translation": "гэрээ, батламж",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "커버링",
+    "translation": "бүрхэлт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "커버하다",
+    "translation": "бүрхэх",
+    "hanja": "None",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "커브",
+    "translation": "эргэлт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "커스터드",
+    "translation": "Кастэрд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "커스터마이즈",
+    "translation": "хувийн тохиргоо хийх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "커스터마이징",
+    "translation": "тохируулга хийх",
+    "hanja": "customizing",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "커스틴",
+    "translation": "Кирстен (нэр)",
+    "hanja": "커스틴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "커엽다",
+    "translation": "хөөрхөн, өхөөрдөм",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "커즌",
+    "translation": "үеэл",
+    "hanja": null,
+    "pos": "м.н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "커크",
+    "translation": "сүм",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "커터",
+    "translation": "хутга, таслагч",
+    "hanja": "cutter",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "커텐",
+    "translation": "хөшиг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "커트",
+    "translation": "тайралт",
+    "hanja": "cut",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "커트하다",
+    "translation": "хасах, тайрах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "커튼",
+    "translation": "хөшиг",
+    "hanja": "curtain",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "커틀릿",
+    "translation": "котлет",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "커티스",
+    "translation": "Куртис",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "커프",
+    "translation": "Ханцуйны үзүүр, бугуйвч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "커프스",
+    "translation": "ханцуйвч",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "커플",
+    "translation": "хос",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "커플링",
+    "translation": "хосын бөгж",
+    "hanja": "coupling",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "커피",
+    "translation": "кофе",
+    "hanja": "Coffee",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "커피믹스",
+    "translation": "кофе микс",
+    "hanja": "coffee mix",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "커피숍",
+    "translation": "кофе шоп",
+    "hanja": "coffee shop",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "커피콩",
+    "translation": "кофены шош",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "커피포트",
+    "translation": "кофены данх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "커핑",
+    "translation": "кофе амтлах (cupping)",
+    "hanja": "커핑",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

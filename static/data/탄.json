@@ -1,0 +1,401 @@
+[
+  {
+    "word": "탄",
+    "translation": "нүүрс",
+    "hanja": "炭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄광",
+    "translation": "хүрэн нүүрсний уурхай",
+    "hanja": "炭鑛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄광촌",
+    "translation": "Уурхайн тосгон",
+    "hanja": "炭鑛村",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄금",
+    "translation": "Ятга тоглуулах",
+    "hanja": "彈琴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "탄내",
+    "translation": "түлэгдсэн үнэр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "탄닌",
+    "translation": "Таннин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄도",
+    "translation": "траектори, нислэгийн зам",
+    "hanja": "彈道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄두",
+    "translation": "Сумны толгой",
+    "hanja": "彈頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄두리치킨",
+    "translation": "Тандури тахиа",
+    "hanja": "탄두리치킨",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "탄력",
+    "translation": "уян хатан чанар",
+    "hanja": "彈力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄력성",
+    "translation": "уян хатан чанар",
+    "hanja": "彈力性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄력적",
+    "translation": "уян хатан",
+    "hanja": "彈力的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄로",
+    "translation": "илчлэгдэх",
+    "hanja": "綻露",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄막",
+    "translation": "сумны хана, сумны хөшиг",
+    "hanja": "彈幕",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄복하다",
+    "translation": "бишрэх",
+    "hanja": "歎服하다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "탄사",
+    "translation": "уян хатан утас, сунах",
+    "hanja": "彈絲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄산",
+    "translation": "хүчиллэг",
+    "hanja": "炭酸",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "탄산음료",
+    "translation": "хийтэй ундаа",
+    "hanja": "炭酸飲料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "탄생",
+    "translation": "төрөлт, үүсэл",
+    "hanja": "誕生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄생되다",
+    "translation": "төрөх, үүсэх",
+    "hanja": "誕生되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄생석",
+    "translation": "төрсөн чулуу",
+    "hanja": "誕生石",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "탄생시키다",
+    "translation": "төрүүлэх",
+    "hanja": "誕生시키다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄생일",
+    "translation": "төрсөн өдөр",
+    "hanja": "誕生日",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "탄생하다",
+    "translation": "төрөх, үүсэх",
+    "hanja": "誕生하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄성",
+    "translation": "уян хатан чанар",
+    "hanja": "彈性",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄소",
+    "translation": "Нүүрстөрөгч",
+    "hanja": "炭素",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄수화물",
+    "translation": "нүүрс ус",
+    "hanja": "炭水化物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄식",
+    "translation": "санаа алдах",
+    "hanja": "歎息(탄식)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄식하다",
+    "translation": "Уйтгарлах",
+    "hanja": "歎息하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄신",
+    "translation": "төрсний ой, мэндэлсэн өдөр",
+    "hanja": "誕辰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄알",
+    "translation": "сум, үсэрдэг хор",
+    "hanja": "彈丸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "탄압",
+    "translation": "дарлал, цуцлах",
+    "hanja": "彈壓",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄압하다",
+    "translation": "хавчих",
+    "hanja": "彈壓하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄약",
+    "translation": "сум",
+    "hanja": "彈藥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄원",
+    "translation": "өршөөл гуйх",
+    "hanja": "嘆願",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄원서",
+    "translation": "өргөдөл, хүсэлт",
+    "hanja": "歎願書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄원하다",
+    "translation": "гомдол гаргах",
+    "hanja": "歎願하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄일",
+    "translation": "төрсөн өдөр",
+    "hanja": "誕日",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄자니아",
+    "translation": "Танзани",
+    "hanja": "坦桑尼亚",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "탄젠트",
+    "translation": "тангенс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄착",
+    "translation": "буудалтын цэг, буух цэг",
+    "hanja": "彈着",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄창",
+    "translation": "сумны хайрцаг",
+    "hanja": "彈倉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄천",
+    "translation": "Танчон",
+    "hanja": "炭川",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄탄",
+    "translation": "бат бөх, найдвартай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄탄대로",
+    "translation": "дардан зам",
+    "hanja": "坦坦大路",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄탄하다",
+    "translation": "бат бөх, баттай",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄탄히",
+    "translation": "бөх бат, бат бөх",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄탈럼",
+    "translation": "тантал",
+    "hanja": "탄탈럼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄통",
+    "translation": "Сумын хайрцаг",
+    "hanja": "彈筒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄피",
+    "translation": "Сумны хоосон хайрцаг",
+    "hanja": "弾皮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄핵",
+    "translation": "импичмент",
+    "hanja": "彈劾",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "탄핵하다",
+    "translation": "импичмент хийх",
+    "hanja": "彈劾하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄현",
+    "translation": "Татамдах",
+    "hanja": "彈絃",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄호이저",
+    "translation": "Танхойзер (дуурь)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄화",
+    "translation": "Нүүрсжих",
+    "hanja": "炭化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탄환",
+    "translation": "сум",
+    "hanja": "彈丸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄흔",
+    "translation": "сумны мөр",
+    "hanja": "彈痕",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

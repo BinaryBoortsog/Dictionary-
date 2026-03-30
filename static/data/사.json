@@ -1,0 +1,3334 @@
+[
+  {
+    "word": "사",
+    "translation": "Саармаг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사가",
+    "translation": "хувийн гэр",
+    "hanja": "私家",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사각거리다",
+    "translation": "Хяхтнаж дуугарах",
+    "hanja": "사각거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사각사각",
+    "translation": "шажигнах дуу (жимс гэх мэт идэх үед)",
+    "hanja": "사각사각",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "사각사각하다",
+    "translation": "шажигнах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사각지대",
+    "translation": "сохор бүс",
+    "hanja": "死角地帶",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "사각형",
+    "translation": "Дөрвөлжин хэлбэр",
+    "hanja": "四角形",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사감",
+    "translation": "сургуулийн захирал",
+    "hanja": "舍監",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사게",
+    "translation": "Хямд үнээр",
+    "hanja": null,
+    "pos": "Дайвар үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "사격하다",
+    "translation": "буудах",
+    "hanja": "射擊하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사견",
+    "translation": "хувийн бодол",
+    "hanja": "私見",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사계",
+    "translation": "дөрвөн улирал",
+    "hanja": "四季",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사계절",
+    "translation": "дөрвөн улирал",
+    "hanja": "四季節",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "사고",
+    "translation": "Осол, бодол",
+    "hanja": "事故",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사고당하다",
+    "translation": "осолд орох",
+    "hanja": "事故當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사고력",
+    "translation": "сэтгэх чадвар",
+    "hanja": "思考力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사고방식",
+    "translation": "сэтгэхүй",
+    "hanja": "思考方式",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사고팔다",
+    "translation": "худалдаж авах, зарах",
+    "hanja": "買고 팔다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사고하다",
+    "translation": "бодож эргэцүүлэх",
+    "hanja": "思考하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사골",
+    "translation": "ясны шөл",
+    "hanja": "사골(四骨)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사과",
+    "translation": "алим; уучлал",
+    "hanja": "沙果; 謝過",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사과나무",
+    "translation": "Алимны мод",
+    "hanja": "沙果나무",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사과드리다",
+    "translation": "уучлалт гуйх",
+    "hanja": "謝過드리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사과문",
+    "translation": "Уучлалт гуйх бичиг",
+    "hanja": "謝過文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사과하다",
+    "translation": "уучлалт гуйх",
+    "hanja": "謝過하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사관생도",
+    "translation": "Цэргийн академийн сурагч, офицерын сурагч",
+    "hanja": "士官生徒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사교계",
+    "translation": "нийгмийн хүрээлэн",
+    "hanja": "社交界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사교성",
+    "translation": "нийтэч байдал",
+    "hanja": "社交性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사교육비",
+    "translation": "Хувийн сургалтын зардал",
+    "hanja": "私教育費",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사교장",
+    "translation": "нийгмийн газар",
+    "hanja": "社交場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사교적",
+    "translation": "нийтэч",
+    "hanja": "社交的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사군자",
+    "translation": "дөрвөн хийцтэй ургамал",
+    "hanja": "四君子",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "사귀",
+    "translation": "Чөтгөр, сүнс",
+    "hanja": "邪鬼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사귀다",
+    "translation": "найзлах",
+    "hanja": "사귀다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사규",
+    "translation": "компанийн дүрэм журам",
+    "hanja": "社規",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사그",
+    "translation": "цавчийх чимээ",
+    "hanja": "No Hanja",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사그라들다",
+    "translation": "буурах, багасах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사그라지다",
+    "translation": "устах, алга болох",
+    "hanja": "―",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "사극",
+    "translation": "Түүхэн жүжиг/кино",
+    "hanja": "史劇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사근사근",
+    "translation": "Зөөлөн, уян хатан",
+    "hanja": "사근사근",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사근사근하다",
+    "translation": "уян зөөлөн, найрсаг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사글세",
+    "translation": "сар бүрийн түрээс",
+    "hanja": "사글貰",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사금",
+    "translation": "элсний алт",
+    "hanja": "砂金",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사금파리",
+    "translation": "Хугархай шил, шаазангийн хэлтэрхий",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사기극",
+    "translation": "хууран мэхлэх жүжиг",
+    "hanja": "詐欺劇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사기꾼",
+    "translation": "залилагч",
+    "hanja": "詐欺꾼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사기다",
+    "translation": "найзлах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "사기당하다",
+    "translation": "залилуулсан",
+    "hanja": "詐欺當-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사기사",
+    "translation": "хууран мэхлэх мэргэжилтэн",
+    "hanja": "詐欺師",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사기업",
+    "translation": "хувийн компани",
+    "hanja": "私企業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사기죄",
+    "translation": "залилангийн хэрэг",
+    "hanja": "詐欺罪",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사기하다",
+    "translation": "Залилах, мэхлэх",
+    "hanja": "詐欺하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사나",
+    "translation": "эрэгтэй хүн, эр",
+    "hanja": "사나(士那)",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "사나흘",
+    "translation": "Гурваас дөрвөн өдөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사납금",
+    "translation": "хүлээлгэн өгөх мөнгө",
+    "hanja": "社納金",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사납다",
+    "translation": "архирах",
+    "hanja": "",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "사내대장부",
+    "translation": "жинхэнэ эр хүн, баатар эр",
+    "hanja": "社內大丈夫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사내아이",
+    "translation": "хүү",
+    "hanja": "사내아이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사내애",
+    "translation": "хүү",
+    "hanja": "社內애",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "사냥",
+    "translation": "ан",
+    "hanja": "사냥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사냥감",
+    "translation": "ангийн амьтан",
+    "hanja": "사냥감",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사냥개",
+    "translation": "анчин нохой, гөрөөчин нохой",
+    "hanja": "사냥개",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사냥꾼",
+    "translation": "Анчин",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사냥터",
+    "translation": "ан хийх газар",
+    "hanja": "狩獵터",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사냥하다",
+    "translation": "ан хийх",
+    "hanja": "---하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사념",
+    "translation": "муу санаа",
+    "hanja": "邪念",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사노",
+    "translation": "Сано",
+    "hanja": "佐野",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사녹",
+    "translation": "урьдчилан бичлэг хийх (нүдэн дээр)",
+    "hanja": "사녹",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사농공상",
+    "translation": "Эрдэмтэн, тариачин, урлаач, худалдаачин",
+    "hanja": "士農工商",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "사다",
+    "translation": "худалдаж авах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사다리",
+    "translation": "Шат",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "사다리차",
+    "translation": "шатаар өргөгч машин",
+    "hanja": "사다리車",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사다이진",
+    "translation": "Садайдзин",
+    "hanja": "左大臣",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사닥다리",
+    "translation": "шат",
+    "hanja": "사닥다리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사담",
+    "translation": "хувийн яриа",
+    "hanja": "私談",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사대문",
+    "translation": "дөрвөн том хаалга",
+    "hanja": "四大門",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사대부",
+    "translation": "янбан (феодалын үеийн давхарга)",
+    "hanja": "士大夫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사대주의",
+    "translation": "их гүрнийг шүтэх үзэл",
+    "hanja": "事大主義",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "사독",
+    "translation": "хор",
+    "hanja": "蛇毒",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사돈댁",
+    "translation": "худагийн гэр",
+    "hanja": "査頓宅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사돈어른",
+    "translation": "худ ураг",
+    "hanja": "査頓어른",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "사돈지간",
+    "translation": "худ ургийн харилцаа",
+    "hanja": "査頓之間",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사드",
+    "translation": "СААД (пуужингийн систем)",
+    "hanja": "THAAD",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사들이다",
+    "translation": "худалдаж авах",
+    "hanja": "사들이다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "사디스트",
+    "translation": "садист",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사디즘",
+    "translation": "Садизм",
+    "hanja": "사디즘",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사또",
+    "translation": "сато (эртний албан тушаал)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사라고사",
+    "translation": "Сарагоса",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사라다",
+    "translation": "салат",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사라락",
+    "translation": "дугтуйны чимээ (нимгэн зүйл с эргэлдэх)",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "사라사",
+    "translation": "сараса (торгоны нэг төрөл)",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "사라사테",
+    "translation": "Сарасатэ (хөгжмийн зохиолч)",
+    "hanja": "사라사테",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사라센",
+    "translation": "Сарацин",
+    "hanja": "사라센",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사라예보",
+    "translation": "Сараево",
+    "hanja": "Sarajevo",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사라왁",
+    "translation": "Саравак (Малайз улсын муж)",
+    "hanja": "사라왁",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사락사락",
+    "translation": "шар шар хийх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사란",
+    "translation": "Сарран",
+    "hanja": "沙蘭",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사람",
+    "translation": "хүн",
+    "hanja": "人",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "사람대접하다",
+    "translation": "хүн шиг хандах",
+    "hanja": "사람待接하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사람살이",
+    "translation": "хүний амьдрал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사랑",
+    "translation": "хайр",
+    "hanja": "사랑",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "사랑니",
+    "translation": "Ухаан араа",
+    "hanja": "사랑니",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사랑둥이",
+    "translation": "Хайртай нэгэн",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사랑방",
+    "translation": "айлчдын өрөө",
+    "hanja": "舍廊房",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사랑스럽다",
+    "translation": "хайр татам",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "사랑싸움하다",
+    "translation": "хайрын маргаан хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사랑앓이",
+    "translation": "Хайрын зовлон",
+    "hanja": "사랑앓이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사랑하다",
+    "translation": "хайрлах",
+    "hanja": "사랑하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사략",
+    "translation": "дээрэмчин",
+    "hanja": "私掠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사레들리다",
+    "translation": "хахах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사려",
+    "translation": "тооцох",
+    "hanja": "思慮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사려하다",
+    "translation": "Бодох, эргэцүүлэх",
+    "hanja": "思慮하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사력",
+    "translation": "бүх хүч",
+    "hanja": "死力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사령탑",
+    "translation": "командын төв",
+    "hanja": "司令塔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사례",
+    "translation": "Жишээ",
+    "hanja": "事例",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사례금",
+    "translation": "Шагнал, талархлын мөнгө",
+    "hanja": "謝禮金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사례하다",
+    "translation": "талархах, шагнах",
+    "hanja": "謝禮-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사로",
+    "translation": "эрхэм зам",
+    "hanja": "絲路",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사로스",
+    "translation": "сарос",
+    "hanja": "사로스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사로잡다",
+    "translation": "барих",
+    "hanja": "사로잡다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "사로잡히다",
+    "translation": "баригдах",
+    "hanja": "사로잡히다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사론",
+    "translation": "хувийн санал",
+    "hanja": "私論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사롱",
+    "translation": "Саронг (хувцас)",
+    "hanja": "사롱",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사료",
+    "translation": "Тэжээл",
+    "hanja": "飼料",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사료되다",
+    "translation": "тооцогдох",
+    "hanja": "思料되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "사룟값",
+    "translation": "тэжээлийн үнэ",
+    "hanja": "飼料값",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사루",
+    "translation": "сару (Японы сармагчин)",
+    "hanja": "사루",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사루비아",
+    "translation": "Сальвиа",
+    "hanja": "salvia",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사륜",
+    "translation": "дөрвөн дугуй",
+    "hanja": "四輪",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사르곤",
+    "translation": "Саргон",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사르다",
+    "translation": "шатаах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사르다르",
+    "translation": "Сардар",
+    "hanja": "Sardar",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사르데냐",
+    "translation": "Сардин",
+    "hanja": "사르데냐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사르디스",
+    "translation": "Сардис (хот)",
+    "hanja": "사르디스",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사르르",
+    "translation": "аажмаар хайлах, зөөлөн",
+    "hanja": "사르르",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사르륵",
+    "translation": "зөөлөн",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사르트르",
+    "translation": "Сартр",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사름",
+    "translation": "хүн",
+    "hanja": "사름",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "사릉",
+    "translation": "Шарын",
+    "hanja": "思陵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사리다",
+    "translation": "нугалах, хумхилах",
+    "hanja": "NaN",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "사리사욕",
+    "translation": "хувийн ашиг сонирхол",
+    "hanja": "私利私慾",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "사리푸트라",
+    "translation": "Шарипутра",
+    "hanja": "舍利弗",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사린",
+    "translation": "сарин",
+    "hanja": "사린",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "사립대",
+    "translation": "хувийн их сургууль",
+    "hanja": "私立大",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사립문",
+    "translation": "зэгсэн хаалга",
+    "hanja": "柴扉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사마귀",
+    "translation": "царцаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사마르칸트",
+    "translation": "Самарканд",
+    "hanja": "사마르칸트",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사마리아",
+    "translation": "Самари",
+    "hanja": "사마리아",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사마타",
+    "translation": "самаха",
+    "hanja": "奢摩他",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사막화되다",
+    "translation": "Цөлжих",
+    "hanja": "砂漠化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사망",
+    "translation": "Нас баралт",
+    "hanja": "死亡",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사망자",
+    "translation": "нас барсан хүн",
+    "hanja": "死亡者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사망하다",
+    "translation": "нас барах",
+    "hanja": "死亡하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사면",
+    "translation": "өршөөл",
+    "hanja": "赦免",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사면되다",
+    "translation": "өгшөөгдөх",
+    "hanja": "赦免되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사면초가",
+    "translation": "бүх талаараа дайсагнасан байдал",
+    "hanja": "四面楚歌",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사면하다",
+    "translation": "өршөөх",
+    "hanja": "赦免하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사멸",
+    "translation": "мөхөл",
+    "hanja": "死滅",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사멸되다",
+    "translation": "мөхөх",
+    "hanja": "死滅되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "사멸하다",
+    "translation": "мөхөх, устах",
+    "hanja": "死滅하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사명감",
+    "translation": "Эрхэм зорилго",
+    "hanja": "使命感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사모님",
+    "translation": "хатагтай (хүндэтгэлийн)",
+    "hanja": "師母님",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사모아",
+    "translation": "Самоа",
+    "hanja": "사모아",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사모예드",
+    "translation": "самоед нохой",
+    "hanja": "사모예드",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사모하다",
+    "translation": "бишрэх",
+    "hanja": "思慕하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사무라이",
+    "translation": "Самурай",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사무소",
+    "translation": "Албан газар",
+    "hanja": "事務所",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "사무실",
+    "translation": "оффис",
+    "hanja": "事務室",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "사무엘",
+    "translation": "Самуэль (нэр)",
+    "hanja": "Samuel",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사무용",
+    "translation": "Оффис",
+    "hanja": "事務用",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "사무원",
+    "translation": "албан хаагч",
+    "hanja": "事務員",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사무적",
+    "translation": "албан ёсны, хэрэг хэлбэрийн",
+    "hanja": "事務的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사무직",
+    "translation": "албан конторын ажилтан",
+    "hanja": "事務職",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사무직원",
+    "translation": "оффисын ажилтан",
+    "hanja": "事務職員",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사무처장",
+    "translation": "тамгын газрын дарга",
+    "hanja": "事務處長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사무총장",
+    "translation": "ерөнхий нарийн бичгийн дарга",
+    "hanja": "事務總長",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사무치다",
+    "translation": "хүчтэй нөлөөлөх",
+    "hanja": "事務치다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사문화되다",
+    "translation": "үхсэн хууль болох",
+    "hanja": "死文化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사물놀이",
+    "translation": "самулнори (уламжлалт хөгжмийн төрөл)",
+    "hanja": "四物놀이",
+    "pos": "мüns",
+    "cefr": "B2"
+  },
+  {
+    "word": "사물함",
+    "translation": "Хадгалах шүүгээ, хайрцаг",
+    "hanja": "事物函",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "사미인곡",
+    "translation": "Самиингок (сонгодог яруу найраг)",
+    "hanja": "思美人曲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사민",
+    "translation": "иргэд",
+    "hanja": "士民",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사바",
+    "translation": "Дэлхий ертөнц",
+    "hanja": "娑婆",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사바나",
+    "translation": "саванна",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사바사",
+    "translation": "хүн бүр өөр, хүнээс хамаарна (slang)",
+    "hanja": "사바사",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사바스",
+    "translation": "Бямба гараг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사바테",
+    "translation": "Саватэ",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사박사박",
+    "translation": "сүрчигтэй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사방치기",
+    "translation": "саван тавих",
+    "hanja": "四方치기",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "사방팔방",
+    "translation": "бүх зүг чигт",
+    "hanja": "四方八方",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사법권",
+    "translation": "шүүх эрх мэдэл",
+    "hanja": "司法權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사법부",
+    "translation": "шүүх засаглал",
+    "hanja": "司法府",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사변",
+    "translation": "Онцгой байдал, үйл явдал",
+    "hanja": "事變",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사변적",
+    "translation": "Эргэцүүлэн бодох",
+    "hanja": "思辨的",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "사별",
+    "translation": "үхлээр сала)",
+    "hanja": "死別",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사별하다",
+    "translation": "ханьтайгаа хагацах",
+    "hanja": "死別하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사보나롤라",
+    "translation": "Савонарола",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사보타주",
+    "translation": "Хорлон сүйтгэх ажиллагаа",
+    "hanja": "사보타주",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사봉",
+    "translation": "хууль зөрчих",
+    "hanja": "私封",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사부님",
+    "translation": "багш (үндэсний тулаан, урлагт)",
+    "hanja": "師父님",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사부아",
+    "translation": "савой",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "사부작사부작",
+    "translation": "аажуухан, бага багаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사부작사부작하다",
+    "translation": "Аажимхнаар хийх, ажил хийх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사북",
+    "translation": "тэнхлэг",
+    "hanja": "斜腹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사분기",
+    "translation": "дөрөвний нэг",
+    "hanja": "四分期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사브",
+    "translation": "Сааб",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사브레",
+    "translation": "сабрэ (сэлэм)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사브르",
+    "translation": "цавчуур илд",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사비",
+    "translation": "Хувийн зардал",
+    "hanja": "私費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사비다",
+    "translation": "сабида (нэр)",
+    "hanja": "―",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사빈",
+    "translation": "элсэрхэг эрэг",
+    "hanja": "沙濱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사뿐사뿐",
+    "translation": "зөөлөн, хөнгөн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사뿐하다",
+    "translation": "хөнгөн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사뿐히",
+    "translation": "хөнгөн, зөөлөн",
+    "hanja": "사뿐히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사사건건",
+    "translation": "хэрэг болгон",
+    "hanja": "事事件件",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사사로이",
+    "translation": "хувиараа, хувьдаа",
+    "hanja": "私私로이",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사사롭다",
+    "translation": "хувийн, хувийн хэрэг",
+    "hanja": "私私롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사산",
+    "translation": "үхсэн төрөлт",
+    "hanja": "死産",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사산되다",
+    "translation": "Үхсэн төрөх",
+    "hanja": "死産되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "사산하다",
+    "translation": "амьгүй төрөх (Анагаах)",
+    "hanja": "死産하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "사살당하다",
+    "translation": "буудуулж үхэх",
+    "hanja": "射殺當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사살되다",
+    "translation": "буудагдах",
+    "hanja": "射殺되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사살하다",
+    "translation": "буудаж алах",
+    "hanja": "射殺하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사상가",
+    "translation": "сэтгэгч",
+    "hanja": "思想家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사상누각",
+    "translation": "элсэн дээрх шилтгээн (бодит бус зүйл)",
+    "hanja": "砂上樓閣",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사상범",
+    "translation": "үзэл суртлын гэмт хэрэгтэн",
+    "hanja": "思想犯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사상자",
+    "translation": "хохирогч",
+    "hanja": "死傷者",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "사색",
+    "translation": "гүн бодол",
+    "hanja": "思索",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사색적",
+    "translation": "бодлогоширсон",
+    "hanja": "思索的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "사색하다",
+    "translation": "Эргэцүүлэн бодох",
+    "hanja": "思索하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "사생",
+    "translation": "нас барах",
+    "hanja": "寫生",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사생결단",
+    "translation": "амь насаа үл хайхран шийдэх",
+    "hanja": "死生決斷",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사생아",
+    "translation": "Хууль бус хүүхэд",
+    "hanja": "私生兒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사생하다",
+    "translation": "амь насаа үл хайрлах",
+    "hanja": "死生하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사생활",
+    "translation": "хувийн амьдрал",
+    "hanja": "私生活",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사서함",
+    "translation": "шуудангийн хайрцаг",
+    "hanja": "私書函",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사세보",
+    "translation": "Сасебо",
+    "hanja": "佐世保",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사소하다",
+    "translation": "Өчүүхэн",
+    "hanja": "些少하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사수하다",
+    "translation": " хамгаалах",
+    "hanja": "死守하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사숙",
+    "translation": "Хувийн сургууль, сахилга бат",
+    "hanja": "私塾",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사스",
+    "translation": "сардуур",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사슬",
+    "translation": "гинж, хэлхээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사슴뿔",
+    "translation": "бугын эвэр",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사시미",
+    "translation": "Сашими",
+    "hanja": "사시미",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사시사철",
+    "translation": "дөрвөн улирал",
+    "hanja": "四時四철",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사신",
+    "translation": "элч, төлөөлөгч",
+    "hanja": "使臣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사실",
+    "translation": "үнэн, баримт",
+    "hanja": "事實",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사실무근",
+    "translation": "үндэслэлгүй, баримтгүй",
+    "hanja": "事實無根",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "사실상",
+    "translation": "Үнэн хэрэгтээ",
+    "hanja": "事實上",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "사실성",
+    "translation": "бодит байдал",
+    "hanja": "寫實性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사실적",
+    "translation": "бодит",
+    "hanja": "事實的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사실주의",
+    "translation": "Реализм",
+    "hanja": "寫實主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사심",
+    "translation": "хувийн ашиг сонирхол",
+    "hanja": "私心",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사쓰마",
+    "translation": "사쓰마",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사씨남정기",
+    "translation": "Са Ахайтаны Өмнөд зүгт хийсэн аялал",
+    "hanja": "謝氏南征記",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사악",
+    "translation": "муу",
+    "hanja": "邪惡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사악하다",
+    "translation": "Хорон муу",
+    "hanja": "邪惡하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "사안",
+    "translation": "асуудал, хэрэг",
+    "hanja": "事案",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사암",
+    "translation": "элсэн чулуу",
+    "hanja": "砂岩",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사야",
+    "translation": "худалдан авах",
+    "hanja": "사야",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사야하다",
+    "translation": "худалдаж авах ёстой",
+    "hanja": "사야하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사약",
+    "translation": "Хоротой эм (ялангуяа түүхэнд) / Үхлийн ял",
+    "hanja": "賜藥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사양길",
+    "translation": "буурах зам, доройтол",
+    "hanja": "斜陽길",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사양하다",
+    "translation": "татгалзах",
+    "hanja": "辭讓하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "사어",
+    "translation": "үхсэн хэл, мартагдсан үг",
+    "hanja": "死語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사업",
+    "translation": "Бизнес, үйл ажиллагаа",
+    "hanja": "事業",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사업가",
+    "translation": "Бизнесчин",
+    "hanja": "事業家",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사업자",
+    "translation": "Бизнес эрхлэгч",
+    "hanja": "事業者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사업장",
+    "translation": "үйлдвэрийн газар",
+    "hanja": "事業場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사업주",
+    "translation": "аж ахуйн нэгжийн эзэн",
+    "hanja": "事業主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사업체",
+    "translation": "Аж ахуйн нэгж",
+    "hanja": "事業體",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사업하다",
+    "translation": "бизнес эрхлэх",
+    "hanja": "事業하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사업화하다",
+    "translation": "бизнес болгох",
+    "hanja": "事業化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사역",
+    "translation": "хөдөлмөр, үйлчлэл",
+    "hanja": "使役",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사역하다",
+    "translation": "ажиллуулах",
+    "hanja": "使役하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사열",
+    "translation": "Шагнал гардуулах ёслол, үзлэг",
+    "hanja": "査閱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사열하다",
+    "translation": "Шалгах",
+    "hanja": "査閱하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "사옥",
+    "translation": "компанийн байр",
+    "hanja": "社屋",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사와",
+    "translation": "худалдан авах",
+    "hanja": "買",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "사왕",
+    "translation": "насны эзэн",
+    "hanja": "死王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사욕",
+    "translation": "хувийн ашиг сонирхол",
+    "hanja": "私慾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사용",
+    "translation": "Хэрэглээ, ашиглах",
+    "hanja": "使用",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사용권",
+    "translation": "ашиглах эрх",
+    "hanja": "使用權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사용되다",
+    "translation": "ашиглагдах",
+    "hanja": "使用되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사용량",
+    "translation": "хэрэглээний хэмжээ",
+    "hanja": "使用量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사용료",
+    "translation": "ашиглалтын төлбөр",
+    "hanja": "使用料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사용법",
+    "translation": "Хэрэглэх арга",
+    "hanja": "使用法",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사용자",
+    "translation": "хэрэглэгч",
+    "hanja": "使用者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사용하다",
+    "translation": "хэрэглэх, ашиглах",
+    "hanja": "使用하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사우",
+    "translation": "хуучин найз",
+    "hanja": "社友",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사우나",
+    "translation": "Саун",
+    "hanja": "sauna",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사우디",
+    "translation": "Сауди Араб",
+    "hanja": "Saudi",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사우디아라비아",
+    "translation": "Саудын Араб",
+    "hanja": "Saudi Arabia",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사우샘프턴",
+    "translation": "Саутхэмптон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사우스캐롤라이나주",
+    "translation": "Өмнөд Каролина Муж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사우어크라우트",
+    "translation": "дарсан байцаа (sauerkraut)",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사운드",
+    "translation": "дуу авиа",
+    "hanja": "sound",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사운드트랙",
+    "translation": "дууны хөгжим",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사워",
+    "translation": "хүчиллэг, исгэлэн",
+    "hanja": "",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "사위다",
+    "translation": "Гэрлэх, хүргэн болох",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "사위스럽다",
+    "translation": "үл үзэгдэх, нууц",
+    "hanja": "邪僞-",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사윗감",
+    "translation": "хүргэн болох хүн",
+    "hanja": "사윗감",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사유",
+    "translation": "шалтгаан",
+    "hanja": "사유(事由)",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사유서",
+    "translation": "тайлбар бичиг",
+    "hanja": "事由書",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사유지",
+    "translation": "хувийн газар",
+    "hanja": "私有地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사유하다",
+    "translation": "Эргэцүүлэх",
+    "hanja": "思惟-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사유화",
+    "translation": "хувьчлах",
+    "hanja": "私有化",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사유화하다",
+    "translation": "хувьчлах",
+    "hanja": "私有化하다",
+    "pos": "동사",
+    "cefr": null
+  },
+  {
+    "word": "사육",
+    "translation": "тэжээх",
+    "hanja": "飼育",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사육되다",
+    "translation": "гаршуулагдах",
+    "hanja": "飼育되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "사육하다",
+    "translation": "Маллах, тэжээх",
+    "hanja": "飼育하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사은",
+    "translation": "талархал",
+    "hanja": "謝恩",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사은품",
+    "translation": "талархлын бэлэг",
+    "hanja": "謝恩品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사음",
+    "translation": "Бузар дуу, хуурамч дуу",
+    "hanja": "邪音",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사의",
+    "translation": "тахимаг",
+    "hanja": "辭意",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사이다",
+    "translation": "Спрайт",
+    "hanja": null,
+    "pos": "Нэр үг",
+    "cefr": "A1"
+  },
+  {
+    "word": "사이드",
+    "translation": "хажуу тал",
+    "hanja": "사이드",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사이드라인",
+    "translation": "хажуугийн шугам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사이드암",
+    "translation": "Хажуугийн гар (спортод)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사이드와인더",
+    "translation": "хажуугаар гулсах могой",
+    "hanja": "사이드와인더",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사이렌",
+    "translation": "сирена",
+    "hanja": "siren",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사이먼",
+    "translation": "Саймон",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "사이배슬론",
+    "translation": "сайбатлон",
+    "hanja": "사이배슬론",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사이버",
+    "translation": "Кибер",
+    "hanja": "cyber",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사이버네틱스",
+    "translation": "кибернетик",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사이버불링",
+    "translation": "кибер дарамт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사이버스페이스",
+    "translation": "кибер орон зай",
+    "hanja": "사이버스페이스",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사이버틱하다",
+    "translation": "кибер хэв маягтай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사이버펑크",
+    "translation": "Киберпанк",
+    "hanja": "사이버펑크",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사이보그",
+    "translation": "сайборг",
+    "hanja": "cyborg",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사이비",
+    "translation": "хуурамч",
+    "hanja": "似而非",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "사이안",
+    "translation": "Циан",
+    "hanja": "사이안",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사이언",
+    "translation": "сайан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사이언톨로지",
+    "translation": "Сайентологи",
+    "hanja": "사이언톨로지",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사이좋다",
+    "translation": "Сайн харилцаатай",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "사이즈",
+    "translation": "хэмжээ",
+    "hanja": "size",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사이코패스",
+    "translation": "Сэтгэц өвчтэй хүн",
+    "hanja": "psychopath",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사이클",
+    "translation": "Дугуйн спорт",
+    "hanja": "cycle",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사이클로트론",
+    "translation": "циклотрон",
+    "hanja": "사이클로트론",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사이클론",
+    "translation": "циклон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사이클링",
+    "translation": "дугуй унах",
+    "hanja": "cycling",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사이키델릭",
+    "translation": "Психоделик",
+    "hanja": "사이키델릭",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사이타마",
+    "translation": "Сайтама",
+    "hanja": "사이타마",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사이토카인",
+    "translation": "цитокин",
+    "hanja": "사이토카인",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "사이프러스",
+    "translation": "Кипр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사익",
+    "translation": "хувийн ашиг сонирхол",
+    "hanja": "私益",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사인펜",
+    "translation": "маркер",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사인하다",
+    "translation": "гарын үсэг зурах",
+    "hanja": "sign하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사일로",
+    "translation": "силос, бункер",
+    "hanja": "silo",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사임",
+    "translation": "Огцрох",
+    "hanja": "辭任",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사임하다",
+    "translation": "огцрох",
+    "hanja": "辭任하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사입",
+    "translation": "худалдан авах",
+    "hanja": "仕入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사입하다",
+    "translation": "бөөндөж авах",
+    "hanja": "私入-",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "사잇길",
+    "translation": "замын дунд, дундын зам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사잇문",
+    "translation": "завсрын хаалга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사자성어",
+    "translation": "дөрвөн үгтэй хэлц",
+    "hanja": "四字成語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사장",
+    "translation": "ерөнхийлөгч, захирал",
+    "hanja": "社長",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사장되다",
+    "translation": "хоосорсон, орхигдсон",
+    "hanja": "死藏되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사장하다",
+    "translation": "хаах, зогсоох",
+    "hanja": "死藏─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사재기하다",
+    "translation": "худалдан авах, нөөцлөх",
+    "hanja": "사재기하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사절",
+    "translation": "Элчин",
+    "hanja": "使節",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사절단",
+    "translation": "төлөөлөгчийн баг",
+    "hanja": "使節團",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사절하다",
+    "translation": "татгалзах, үгүй гэх",
+    "hanja": "辭絶하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사정",
+    "translation": "байр байдал",
+    "hanja": "事情",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사정거리",
+    "translation": "буудах зай, хүрч чадах зай",
+    "hanja": "射程距離",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사정사정하다",
+    "translation": "Гуйх",
+    "hanja": "事情事情",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사정없다",
+    "translation": "өршөөлгүй",
+    "hanja": "事情없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사정없이",
+    "translation": "хүчтэйгээр, өршөөлгүйгээр",
+    "hanja": "事情없이",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "사정하다",
+    "translation": "гуйх",
+    "hanja": "事情–",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사제지간",
+    "translation": "багш шавийн харилцаа",
+    "hanja": "師弟之間",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사죄",
+    "translation": "уучлалт гуйх",
+    "hanja": "謝罪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사죄드리다",
+    "translation": "уучлалт гуйх",
+    "hanja": "謝罪드리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사죄하다",
+    "translation": "уучлал гуйх",
+    "hanja": "謝罪하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사주팔자",
+    "translation": "хувь тавилан",
+    "hanja": "四柱八字",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사주하다",
+    "translation": "өдөөх",
+    "hanja": "使嗾―",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사준",
+    "translation": "худалдаж өгөх",
+    "hanja": "사준",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사중주",
+    "translation": "дөрвөл",
+    "hanja": "四重奏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사즉생",
+    "translation": "Үхэл нь амьдралыг авчирдаг (үхэхгүй гэж үхэх)",
+    "hanja": "死則生",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사증",
+    "translation": "виз",
+    "hanja": "査證",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사지선다",
+    "translation": "дөрвөн сонголттой асуулт",
+    "hanja": "四肢選多",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사직",
+    "translation": "албан тушаалаасаа огцрох",
+    "hanja": "辭職",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사직서",
+    "translation": "Ажлаас чөлөөлөгдөх өргөдөл",
+    "hanja": "辭職書",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사직하다",
+    "translation": "огцрох",
+    "hanja": "辭職하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사진",
+    "translation": "Гэрэл зураг",
+    "hanja": "寫眞",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "사진가",
+    "translation": "гэрэл зурагчин",
+    "hanja": "寫眞家",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "사진관",
+    "translation": "Гэрэл зургийн студи",
+    "hanja": "寫眞館",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사진기",
+    "translation": "камер",
+    "hanja": "寫眞機",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "사진사",
+    "translation": "гэрэл зурагчин",
+    "hanja": "寫眞師",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사진작가",
+    "translation": "Гэрэл зурагчин",
+    "hanja": "寫眞作家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사진첩",
+    "translation": "цээж зураг",
+    "hanja": "寫眞帖",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "사진하다",
+    "translation": "зураг авах",
+    "hanja": "寫眞하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "사차원",
+    "translation": "дөрвөн хэмжээс",
+    "hanja": "四次元",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사찰하다",
+    "translation": "Шалгах, хянах",
+    "hanja": "査察하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사창가",
+    "translation": "Биеэ үнэлдэг газар",
+    "hanja": "私娼街",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사책",
+    "translation": "Түүхийн ном",
+    "hanja": "史冊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사철",
+    "translation": "бүх цаг агаар",
+    "hanja": "四鐵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사철나무",
+    "translation": "байнгын мод",
+    "hanja": "四철나무",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사촌지간",
+    "translation": "үеэлүүдийн хоорондын харилцаа",
+    "hanja": "四寸之間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사춘기",
+    "translation": "Өсвөр нас",
+    "hanja": "思春期",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사출",
+    "translation": "шахаж гаргах",
+    "hanja": "射出",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사출되다",
+    "translation": "шахаж гаргах",
+    "hanja": "射出되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사출하다",
+    "translation": "хөөргөх, шидэх",
+    "hanja": "射出하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사치스럽다",
+    "translation": "Тансаг",
+    "hanja": "奢侈스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사치품",
+    "translation": "тансаг хэрэглээний бараа",
+    "hanja": "奢侈品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사치하다",
+    "translation": "тансаглах",
+    "hanja": "奢侈하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사칭하다",
+    "translation": "хуурамчаар ашиглах, өөрийгөө хуурамчаар танилцуулах",
+    "hanja": "詐稱하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사카",
+    "translation": "Сака",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사카린",
+    "translation": "сахарин",
+    "hanja": "saccharin",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사케",
+    "translation": "Саке (Японы архи)",
+    "hanja": "사케",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사쿠다",
+    "translation": "Сакута (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사쿠라",
+    "translation": "интоорын цэцэг",
+    "hanja": "桜",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사크",
+    "translation": "Чулуун сав",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사탐",
+    "translation": "нийгмийн шинжлэх ухааны судалгаа",
+    "hanja": "社探",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사탑",
+    "translation": "богино суварга",
+    "hanja": "斜塔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사탕발림",
+    "translation": "хуурамч магтаал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사탕수수",
+    "translation": "чихрийн нишингэ",
+    "hanja": "砂糖수수",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사토",
+    "translation": "Сато (нээр)",
+    "hanja": "佐藤",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사통하다",
+    "translation": "холбоо тогтоох",
+    "hanja": "私通하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "사퇴",
+    "translation": "огцрох",
+    "hanja": "辭退",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사퇴하다",
+    "translation": "огцрох",
+    "hanja": "辭退하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "사투리",
+    "translation": "аялга",
+    "hanja": "사투리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사트라프",
+    "translation": "сатрап",
+    "hanja": "사트라프",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사특하다",
+    "translation": "муу санаатай",
+    "hanja": "詐慝하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사티",
+    "translation": "сати (Энэтхэгийн зан үйл)",
+    "hanja": "사티",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사티로스",
+    "translation": "сатир",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사파리",
+    "translation": "сафари",
+    "hanja": "safari",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사파이어",
+    "translation": "индооноос",
+    "hanja": "sapphire",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사파타",
+    "translation": "Сапата",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "사팔뜨기",
+    "translation": "загалмайт нүдтэй хүн",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사포닌",
+    "translation": "сапонин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사포질하다",
+    "translation": "зүлгэх",
+    "hanja": "砂布질하다",
+    "pos": "VV",
+    "cefr": "C1"
+  },
+  {
+    "word": "사표",
+    "translation": "Ажлаас халах өргөдөл",
+    "hanja": "辭表",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사프란",
+    "translation": "шафран",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사플",
+    "translation": "түргэн санах ой",
+    "hanja": "사플",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사피",
+    "translation": "Сафи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사피엔스",
+    "translation": "сапиенс",
+    "hanja": "sapiens",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사필귀정",
+    "translation": "юм бүхэн эцэстээ зөвдөө тулна",
+    "hanja": "事必歸正",
+    "pos": "사자성어",
+    "cefr": "C2"
+  },
+  {
+    "word": "사하다",
+    "translation": "Уучлах",
+    "hanja": "赦하-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사학",
+    "translation": "хувийн сургууль, түүх судлал",
+    "hanja": "私學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사학자",
+    "translation": "түүхч",
+    "hanja": "史學者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사할린",
+    "translation": "Сахалин",
+    "hanja": "사할린",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사함",
+    "translation": "дөрвөн хамт",
+    "hanja": "四함",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사항",
+    "translation": "асуудал, зүйл",
+    "hanja": "事項",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사행",
+    "translation": "Аялал",
+    "hanja": "斜行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사행심",
+    "translation": "мөрийтэй тоглоомын сэтгэхүй",
+    "hanja": "射倖心",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "사향",
+    "translation": "заар",
+    "hanja": "麝香",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "사헌부",
+    "translation": "Сахёнбү (Чосоны үеийн хяналтын байгууллага)",
+    "hanja": "司憲府",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사헤",
+    "translation": "Сахел",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사현",
+    "translation": "сайн сэтгэлтэй хүн, дөрвөн чавхдас",
+    "hanja": "四絃",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사혈",
+    "translation": "цус авах",
+    "hanja": "瀉血",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사형",
+    "translation": "цаазын ял",
+    "hanja": "死刑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사형되다",
+    "translation": "цаазаар авагдах",
+    "hanja": "死刑되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사형수",
+    "translation": "Цаазаар авах ялтай хүн",
+    "hanja": "死刑囚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사형장",
+    "translation": "цаазын талбай",
+    "hanja": "死刑場",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사형하다",
+    "translation": "цаазын ял гүйцэтгэх",
+    "hanja": "死刑하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사화",
+    "translation": "түүхэн зураг",
+    "hanja": "史華",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사회단체",
+    "translation": "Нийгмийн байгууллага",
+    "hanja": "社會團體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사회봉사",
+    "translation": "нийгмийн үйлчилгээ",
+    "hanja": "社會奉仕",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사회사업",
+    "translation": "нийгмийн ажил",
+    "hanja": "社會事業",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사회상",
+    "translation": "Нийгмийн дүр төрх",
+    "hanja": "社會相",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사회생활",
+    "translation": "нийгмийн амьдрал",
+    "hanja": "社會生活",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사회성",
+    "translation": "нийгмийн харилцаа",
+    "hanja": "社會性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사회악",
+    "translation": "нийгмийн хор хөнөөл",
+    "hanja": "社會惡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사회인",
+    "translation": "нийгмийн хүн",
+    "hanja": "社會人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사회자",
+    "translation": "хөтлөгч",
+    "hanja": "司會者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사회적",
+    "translation": "нийгмийн",
+    "hanja": "社會的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사회적가치",
+    "translation": "нийгмийн үнэлэмж",
+    "hanja": "社會的價値",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사회주의",
+    "translation": "Социализм",
+    "hanja": "社會主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사회하다",
+    "translation": "Удирдаж явуулах",
+    "hanja": "司會하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사회학",
+    "translation": "социологи",
+    "hanja": "社會學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사회화",
+    "translation": "Нийгэмших, нийгэмшүүлэх",
+    "hanja": "社會化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사회화되다",
+    "translation": "нийгэмшигдэх",
+    "hanja": "社會化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사후",
+    "translation": "нас барсны дараа, хойно",
+    "hanja": "死後",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사훈",
+    "translation": "компанийн уриа; компанийн хамгийн үнэт зүйл",
+    "hanja": "社訓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사흘",
+    "translation": "гурван өдөр",
+    "hanja": "사흘",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사히다",
+    "translation": "уух",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "C2"
+  }
+]

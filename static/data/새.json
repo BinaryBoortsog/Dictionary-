@@ -1,0 +1,758 @@
+[
+  {
+    "word": "새",
+    "translation": "шинэ",
+    "hanja": "새",
+    "pos": "adjective",
+    "cefr": "A1"
+  },
+  {
+    "word": "새것",
+    "translation": "шинэ зүйл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새겨듣다",
+    "translation": "анхааралтай сонсох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "새경",
+    "translation": "цалин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새그",
+    "translation": "доромжлох",
+    "hanja": "새그",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "새그럽다",
+    "translation": "хатуу, хурц",
+    "hanja": "새그럽다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "새근새근",
+    "translation": "нам гүм, зөөлөн (унтах)",
+    "hanja": null,
+    "pos": "adv",
+    "cefr": "B1"
+  },
+  {
+    "word": "새기다",
+    "translation": "сийлэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "새길",
+    "translation": "шинэ зам",
+    "hanja": "새길",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "새김질",
+    "translation": "бохь зажлах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새깅",
+    "translation": "Гутал сунах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "새까맣다",
+    "translation": "Хар хар",
+    "hanja": "새까맣다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "새꾸",
+    "translation": "Төрсөн амьтан",
+    "hanja": "---",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "새끼",
+    "translation": "голч, зулзага",
+    "hanja": "새끼",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새끼발가락",
+    "translation": "бяцхан хуруу",
+    "hanja": "새끼발가락",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새끼손가락",
+    "translation": "чихний чигчий хуруу",
+    "hanja": "새끼손가락",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새끼줄",
+    "translation": "олс, татлага",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새나다",
+    "translation": "гоожих, ил болох",
+    "hanja": "새나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새날",
+    "translation": "шинэ өдөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "새누리당",
+    "translation": "Сээнүри нам (хуучин Солонгосын улс төрийн нам)",
+    "hanja": "새누리黨",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "새다",
+    "translation": "гоожих",
+    "hanja": "새다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새대가리",
+    "translation": "шувууны тархи (тэнэг хүнд хэлэх)",
+    "hanja": "새대가리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새댁",
+    "translation": "шинэ сүйт бүсгүй",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "새되다",
+    "translation": "хурц хоолойтой болох",
+    "hanja": "N/A",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새들다",
+    "translation": "Нэвтлэх, орох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새들백",
+    "translation": "эмээл цүнх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "шувууны сангас",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1",
+    "word": "새똥"
+  },
+  {
+    "word": "새로",
+    "translation": "шинээр",
+    "hanja": "null",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "새로움",
+    "translation": "шинэ байдал; шинэлэг байдал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새로이",
+    "translation": "шинээр",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새록새록",
+    "translation": "шинээр, үргэлж шинээр, шинэ шинэ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "새롬",
+    "translation": "шинэ",
+    "hanja": "새롬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새롭다",
+    "translation": "шинэ",
+    "hanja": "새롭다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새마을호",
+    "translation": "Сэмаыльхо",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새미",
+    "translation": "сам (хүний нэр)",
+    "hanja": "새미",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "새바람",
+    "translation": "шинэ уур амьсгал",
+    "hanja": "새바람",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새발",
+    "translation": "шувууны сарвуу",
+    "hanja": "새발",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "새배",
+    "translation": "шинэ жилийн мэндчилгээ",
+    "hanja": "歲拜",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새벽",
+    "translation": "үүр цайх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새벽길",
+    "translation": "үүр цайх зам",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "새벽녘",
+    "translation": "үүр цайх",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "새벽달",
+    "translation": "үүрний сар",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새벽잠",
+    "translation": "үүр цайхын өмнөх нойр",
+    "hanja": "새벽잠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새벽하다",
+    "translation": "үүр цайх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "새별",
+    "translation": "шинэ од",
+    "hanja": "새별",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "새복",
+    "translation": "шилүүний дотор тал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "새빠지다",
+    "translation": "маш их ядрах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새빨갛다",
+    "translation": "улаан, улаан хүрэн",
+    "hanja": "새빨갛다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새살",
+    "translation": "шинэ арьс",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새살림",
+    "translation": "шинэ амьдрал",
+    "hanja": "새살림",
+    "pos": "NNG",
+    "cefr": "B1"
+  },
+  {
+    "word": "새삼",
+    "translation": "дахин",
+    "hanja": "null",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "새삼스럽다",
+    "translation": "Эхлэх, дахин хийх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "새삼스레",
+    "translation": "Шинээр, дахиад (шинэхэн юм шиг)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새새끼",
+    "translation": "Шувууны дэгдээхэй",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새색시",
+    "translation": "шинэ сүйт бүсгүй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "새소리",
+    "translation": "шувууны дуу",
+    "hanja": "새소리",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "새순",
+    "translation": "шинэ ургамал",
+    "hanja": "새순",
+    "pos": "нэр үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "새시",
+    "translation": "саш (цонхны хүрээ)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "새신",
+    "translation": "Шинэ гутал",
+    "hanja": "새신",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새신랑",
+    "translation": "шинэ сүйт залуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새싹",
+    "translation": "Шинэ соёолж",
+    "hanja": "새싹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새아가",
+    "translation": "шинэ сүйт охин",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "새아버지",
+    "translation": "хойд эцэг",
+    "hanja": "새아버지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새아빠",
+    "translation": "хойд эцэг",
+    "hanja": "새아빠",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새알",
+    "translation": "шувууны өндөг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새어머니",
+    "translation": "Хойд эх",
+    "hanja": "새어머니",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새언니",
+    "translation": "хүргэний эгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새엄마",
+    "translation": "Хойд эх",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새옹지마",
+    "translation": "сайн муу хосолдог",
+    "hanja": "塞翁之馬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "새우",
+    "translation": "сам хорхой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새우다",
+    "translation": "хоноглох, хонуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새우튀김",
+    "translation": "Шарсан сам хорхой",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새우하다",
+    "translation": "дагуулж явах",
+    "hanja": "璽優하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새이",
+    "translation": "шимэгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "새잎",
+    "translation": "шинэ навч",
+    "hanja": "새잎",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새장",
+    "translation": "Шувууны тор",
+    "hanja": "새장",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "새전하다",
+    "translation": "Мөнгө өргөх",
+    "hanja": "賽錢하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "새집",
+    "translation": "Шинэ байшин",
+    "hanja": "새집",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "새차다",
+    "translation": "хүчтэй, эрчимтэй",
+    "hanja": "새차다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새참",
+    "translation": "өдрийн хоолны завсарлага",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새초롬하다",
+    "translation": "хөөрхөн ааштай, цовоо сэргэлэн, нүүрээ үрчийлгэх",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "새총",
+    "translation": "чангилуур",
+    "hanja": "새총",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "새출발하다",
+    "translation": "шинэ эхлэх",
+    "hanja": "새出發하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새치기하다",
+    "translation": "дараалал зөрчих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새치름하다",
+    "translation": "хүйтэн хөндий, сэрүүн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새침",
+    "translation": "тогтосон",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "새침데기",
+    "translation": "сэтгэлдгүй хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새침하다",
+    "translation": "Дургүйцсэн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새카맣다",
+    "translation": "хүп хар, нэв нэр",
+    "hanja": "새카맣다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새콤",
+    "translation": "исгэлэн, сэрүүн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "새콤달콤",
+    "translation": "исгэлэн амттай",
+    "hanja": "새콤달콤",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "새콤달콤하다",
+    "translation": "исгэлэн-чихэрлэг",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새콤새콤",
+    "translation": "исгэлэн",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "새콤하다",
+    "translation": "исгэлэн амттай",
+    "hanja": "",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "새크라멘토",
+    "translation": "Сакраменто",
+    "hanja": "새크라멘토",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "새크리파이스",
+    "translation": "тахил",
+    "hanja": "sacrifice",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새큼하다",
+    "translation": "исгэлэн",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새키",
+    "translation": "буруу (харилцан ярианд хэрэглэх)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새턴",
+    "translation": "Санчир",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새털",
+    "translation": "шувууны өд",
+    "hanja": "새털",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "새털구름",
+    "translation": "цагаан үүлэн",
+    "hanja": "새털구름",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새틀라이트",
+    "translation": "хиймэл дагуул (satellite)",
+    "hanja": null,
+    "pos": "외래어",
+    "cefr": "B2"
+  },
+  {
+    "word": "새틴",
+    "translation": "торго",
+    "hanja": "satin",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새파랗다",
+    "translation": "цэнхэр цэнхэр",
+    "hanja": "새파랗다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "새하얗다",
+    "translation": "цав цагаан",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "새해",
+    "translation": "Шинэ жил",
+    "hanja": "새해",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "새해맞이",
+    "translation": "шинэ жилийн баяр",
+    "hanja": "새해맞이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새홀리기",
+    "translation": "шувуу урхих, шувуу татах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

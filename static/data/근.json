@@ -1,0 +1,716 @@
+[
+  {
+    "word": "근",
+    "translation": "ойролцоо",
+    "hanja": "近",
+    "pos": "접두사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근간",
+    "translation": "үндсэн",
+    "hanja": "根幹",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "근강",
+    "translation": "Хятадын нэгэн газар",
+    "hanja": "槿剛",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "근거",
+    "translation": "үндэслэл",
+    "hanja": "根據",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "근거리",
+    "translation": "ойрын зай",
+    "hanja": "近距離",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근거지",
+    "translation": "бааз, тулгуур газар",
+    "hanja": "根據地",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근거하다",
+    "translation": "үндэслэх",
+    "hanja": "根據하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "근검",
+    "translation": "хямгач",
+    "hanja": "勤儉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근검절약",
+    "translation": "хөдөлмөрч, хямгач",
+    "hanja": "勤儉節約",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "근검절약하다",
+    "translation": "хэмнэлттэй байх, хэтрүүлэн хэрэглэхгүй байх",
+    "hanja": "勤儉節約하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근경",
+    "translation": "ойрын харагдац",
+    "hanja": "近景",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근고",
+    "translation": "сүүлийн үеийн",
+    "hanja": "近古",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "근골",
+    "translation": "булчин яс, бие бялдар",
+    "hanja": "筋骨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근교",
+    "translation": "ойр орчим",
+    "hanja": "近郊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근낭",
+    "translation": "орон зай",
+    "hanja": "筋囊",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "근년",
+    "translation": "ойрын жилүүд",
+    "hanja": "近年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근다",
+    "translation": "Аргалах, үг сөргүүлэн хэлэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "근대사",
+    "translation": "орчин үеийн түүх",
+    "hanja": "近代史",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근대식",
+    "translation": "Орчин үеийн хэв маяг",
+    "hanja": "近代式",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "근대적",
+    "translation": "орчин үеийн",
+    "hanja": "近代的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근대화",
+    "translation": "орчин үеийн болгох",
+    "hanja": "近代化",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "근대화되다",
+    "translation": "Орчин үеийнх болох, шинэчлэгдэх",
+    "hanja": "近代化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근덕",
+    "translation": "Ойролцоо, ойролцоогоор",
+    "hanja": "近德",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근데",
+    "translation": "гэхдээ",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "근동",
+    "translation": "Ойрхи Дорнод",
+    "hanja": "近東",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근디",
+    "translation": "гэхдээ",
+    "hanja": null,
+    "pos": "хол",
+    "cefr": "A1"
+  },
+  {
+    "word": "근래",
+    "translation": "сүүлийн үед",
+    "hanja": "近來",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근력",
+    "translation": "булчингийн хүч",
+    "hanja": "筋力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근로",
+    "translation": "Хөдөлмөр",
+    "hanja": "勤勞",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "근로자",
+    "translation": "ажилтан",
+    "hanja": "勤勞者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근로하다",
+    "translation": "Хөдөлмөрлөх",
+    "hanja": "勤勞하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근린",
+    "translation": "ойр орчим",
+    "hanja": "근린(近隣)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근막",
+    "translation": "булчингийн бүрхүүл",
+    "hanja": "筋膜",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "근면",
+    "translation": "хичээнгүй",
+    "hanja": "勤勉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근면성",
+    "translation": "хичээнгүй байдал, ажилсаг байдал",
+    "hanja": "勤勉性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근면하다",
+    "translation": "Хөдөлмөрч байх",
+    "hanja": "勤勉하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근무",
+    "translation": "ажил, үүрэг",
+    "hanja": "勤務",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근무자",
+    "translation": "Ажилтан",
+    "hanja": "勤務者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근무지",
+    "translation": "ажлын байр, ажлын газар",
+    "hanja": "勤務地",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근무처",
+    "translation": "Ажлын газар",
+    "hanja": "勤務處",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "근무하다",
+    "translation": "ажиллах",
+    "hanja": "勤務하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "근묵자흑",
+    "translation": "муугаас хол бай",
+    "hanja": "近墨者黑",
+    "pos": "성어",
+    "cefr": "C2"
+  },
+  {
+    "word": "근방",
+    "translation": "ойр орчим, хөрш орчин",
+    "hanja": "近傍",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "근배",
+    "translation": "ойр хавь",
+    "hanja": "近輩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근본",
+    "translation": "үндэс, уг",
+    "hanja": "根本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근본적",
+    "translation": "үндсэн, суурь",
+    "hanja": "根本的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근사",
+    "translation": "Тохирох, ойролцоо",
+    "hanja": "近似",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "근사하다",
+    "translation": "гайхалтай, сайхан",
+    "hanja": "近似하다",
+    "pos": "adj",
+    "cefr": "B1"
+  },
+  {
+    "word": "근석",
+    "translation": "суурь чулуу",
+    "hanja": "根石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근성",
+    "translation": "Хандлага",
+    "hanja": "根性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근세",
+    "translation": "орчин үе",
+    "hanja": "近世",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근소하다",
+    "translation": "Бага зэрэг, ашиггүй",
+    "hanja": "僅少하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근속",
+    "translation": "үргэлжлүүлэн ажиллах",
+    "hanja": "勤속",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근속하다",
+    "translation": "нэг газар удаан ажиллах",
+    "hanja": "勤속하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근수",
+    "translation": "жин, хэмжээ",
+    "hanja": "斤數",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근시",
+    "translation": "холын хараа муутай",
+    "hanja": "近視",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근시안적",
+    "translation": "Богино хараатай",
+    "hanja": "近視眼的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근식",
+    "translation": "саяхан баригдсан",
+    "hanja": "近式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근신",
+    "translation": "сахилга бат",
+    "hanja": "謹愼",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "근신하다",
+    "translation": "сахилга баттай байх",
+    "hanja": "謹愼하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근실히",
+    "translation": "чин сэтгэлээсээ, үнэнчээр",
+    "hanja": "勤實히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근심",
+    "translation": "санаа зовох, түгших",
+    "hanja": "近心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근심거리",
+    "translation": "санаа зовох асуудал",
+    "hanja": "근心거리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "근심되다",
+    "translation": "санаа зовох, түгших",
+    "hanja": "近心되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근심스럽다",
+    "translation": "санаа зовох",
+    "hanja": "근심스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근심하다",
+    "translation": "сэтгэл зовох",
+    "hanja": "近心하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근언",
+    "translation": "сүүлийн үг",
+    "hanja": "覲言",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근엄하다",
+    "translation": "сүрлэг, нэр хүндтэй",
+    "hanja": "謹嚴하다",
+    "pos": "тү",
+    "cefr": "C1"
+  },
+  {
+    "word": "근원",
+    "translation": "эх үндэс",
+    "hanja": "根源",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근원지",
+    "translation": "эх үндэс, үүсгэл",
+    "hanja": "根源地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근위",
+    "translation": "харуулын цэрэг",
+    "hanja": "近衛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근위대",
+    "translation": "хааны гварди",
+    "hanja": "近衛隊",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "근유",
+    "translation": "булчингийн тос",
+    "hanja": "筋油",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "근육",
+    "translation": "булчин",
+    "hanja": "筋肉",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "근육질",
+    "translation": "булчинлаг",
+    "hanja": "筋肉質",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근육통",
+    "translation": "Булчингийн өвдөлт",
+    "hanja": "筋肉痛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근이영양증",
+    "translation": "Булчингийн дистрофи",
+    "hanja": "筋異營養症",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "근이완제",
+    "translation": "булчин суллагч",
+    "hanja": "筋弛緩劑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "근자",
+    "translation": "сүүлийн үед",
+    "hanja": "近者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근저",
+    "translation": "Үндэс суурь",
+    "hanja": "根柢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근절",
+    "translation": "устгах",
+    "hanja": "根絕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근절되다",
+    "translation": "устгах, үндсээр нь таслах",
+    "hanja": "根絶되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근절하다",
+    "translation": "үндсээр нь устгах",
+    "hanja": "根絶하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근접",
+    "translation": "Ойртох, ойрхон",
+    "hanja": "近接",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "근접하다",
+    "translation": "Ойртох",
+    "hanja": "近接하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근조",
+    "translation": "Гүн эмгэнэл",
+    "hanja": "謹弔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근종",
+    "translation": "хавдар",
+    "hanja": "筋腫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근지럽다",
+    "translation": "зангармаар санагдах",
+    "hanja": "근지럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근질",
+    "translation": "Гулдирсан мах",
+    "hanja": "筋質",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "근질거리다",
+    "translation": "Хямарч байх",
+    "hanja": "근질거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근질근질",
+    "translation": "загатнах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근질근질하다",
+    "translation": "зангармайдах, өвдөх (хүсэх)",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근처",
+    "translation": "ойролцоо",
+    "hanja": "近處",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "근초고왕",
+    "translation": "Кынчхого ван (Солонгосын хаан)",
+    "hanja": "近肖古王",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "근친",
+    "translation": "ойр дотны",
+    "hanja": "近親",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근친상간",
+    "translation": "Садангийн хүчирхийлэл",
+    "hanja": "近親相姦",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "근친혼",
+    "translation": "Төрөл садангийн гэрлэлт",
+    "hanja": "近親婚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근태",
+    "translation": "Ажлын цаг",
+    "hanja": "勤怠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근하신년",
+    "translation": "он солигдох баярын мэндчилгээ",
+    "hanja": "謹賀新年",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "근해",
+    "translation": "ойр орчмын тэнгис",
+    "hanja": "近海",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "근호",
+    "translation": "үлдэгдэл тэмдэг",
+    "hanja": "根號",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "근황",
+    "translation": "сүүлийн үеийн байдал",
+    "hanja": "近況",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

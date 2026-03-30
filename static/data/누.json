@@ -1,0 +1,590 @@
+[
+  {
+    "word": "누",
+    "translation": "давхарга",
+    "hanja": "漏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누가",
+    "translation": "хэн",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "누가되다",
+    "translation": "хохирол учруулах",
+    "hanja": "累가되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누가하다",
+    "translation": "Худал амлах",
+    "hanja": "漏刻하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "누각",
+    "translation": "өрөөт сүм",
+    "hanja": "樓閣",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "누계",
+    "translation": "нийлбэр",
+    "hanja": "累計",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누구",
+    "translation": "хэн",
+    "hanja": null,
+    "pos": "pronoun",
+    "cefr": "A1"
+  },
+  {
+    "word": "누구누구",
+    "translation": "хэн хэн",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "누규",
+    "translation": "хэн",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "누그러들다",
+    "translation": "Намжих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누그러뜨리다",
+    "translation": "зөөлрүүлэх, тайвшруулах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "누그러지다",
+    "translation": "зөөлрөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누그러트리다",
+    "translation": "зөөлрүүлэх, тайвшруулах",
+    "hanja": "누그러트리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누끼",
+    "translation": "зураг тайрах",
+    "hanja": "누끼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누나",
+    "translation": "Эгч (эрэгтэй хүнд)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "누누",
+    "translation": "олон удаа, дахин дахин",
+    "hanja": "屢屢",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "누누이",
+    "translation": "дахин дахин",
+    "hanja": "누누이",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "누님",
+    "translation": "том эгч (хүндэтгэлтэй)",
+    "hanja": "누님",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "누덕",
+    "translation": "нөхөөс",
+    "hanja": "陋德",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "누덕누덕",
+    "translation": "Дээрхийг нөхөх, нөхөөс хийх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누드",
+    "translation": "нүцгэн",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "누디",
+    "translation": "Нүцгэн",
+    "hanja": "nude",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "누락",
+    "translation": "орхигдуулсан",
+    "hanja": "漏落",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누락되다",
+    "translation": "орхигдох",
+    "hanja": "漏落되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누락하다",
+    "translation": "орхих, хасах",
+    "hanja": "漏落하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "누런빛",
+    "translation": "шар өнгө",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "누런색",
+    "translation": "шар өнгө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "누렁이",
+    "translation": "шар нохой",
+    "hanja": null,
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "누렇다",
+    "translation": "шар өнгөтэй байх",
+    "hanja": "누렇다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "누룩",
+    "translation": "хөрөнгө",
+    "hanja": "누룩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누룽지",
+    "translation": "шарсан будаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "누르개",
+    "translation": "даруулга",
+    "hanja": "ㅡ",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누르께하다",
+    "translation": "шарласан, шар туяатай байх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누르다",
+    "translation": "Дарах",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "누르술탄",
+    "translation": "Нур-Султан (Казахстаны нийслэл байсан хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "누르스름하다",
+    "translation": "шаравтар",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "누르하치",
+    "translation": "Нурхачи",
+    "hanja": "누르하치",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "누름판",
+    "translation": "Дарагч, дарах хавтан",
+    "hanja": "누름판",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누리꾼",
+    "translation": "интернет хэрэглэгч",
+    "hanja": "누리꾼",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "누리끼리하다",
+    "translation": "Шар хүрэн өнгөтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누리다",
+    "translation": "хүртэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "누리온",
+    "translation": "нэгэн хэлбэрийн цахим орчин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "누린내",
+    "translation": "Малгайны үнэр",
+    "hanja": "누린내",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "누마타",
+    "translation": "Нумата (Японы хот нэр)",
+    "hanja": "누마타",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "누명",
+    "translation": "хуурамч нармай",
+    "hanja": "濡名",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "누벅",
+    "translation": "арьсны төрөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누범",
+    "translation": "Давтан гэмт хэрэгтэн",
+    "hanja": "累犯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "누베",
+    "translation": "нүв",
+    "hanja": "누베",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "누벨바그",
+    "translation": "нувель ваг (шинэ давалгаа)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "누보",
+    "translation": "нуво",
+    "hanja": "누보",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누비",
+    "translation": "хөөмөл, оёмол",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누비다",
+    "translation": "нэвтлэх",
+    "hanja": "N/A",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "누비아",
+    "translation": "Нубия",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "누비이불",
+    "translation": "хөнжил",
+    "hanja": "누비이불",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "누설",
+    "translation": "Задруулалт, ил болголт",
+    "hanja": "漏洩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누설되다",
+    "translation": "Ил болох/задрах",
+    "hanja": "漏泄되다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "누설하다",
+    "translation": "задруулах, нууц задалж хэлэх",
+    "hanja": "漏泄하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누수",
+    "translation": "ус алдагдах, нэвчилт",
+    "hanja": "漏水",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "누시",
+    "translation": "Урсгах, нэвтрэх",
+    "hanja": "漏失",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누아다",
+    "translation": "Нуада (нэр)",
+    "hanja": "Nuada",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "누아르",
+    "translation": "нууар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누아이",
+    "translation": "Нуай (хүний нэр)",
+    "hanja": "누아이",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "누액",
+    "translation": "нулимс",
+    "hanja": "淚液",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누에",
+    "translation": "торгоны хорхой",
+    "hanja": "누에",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누에고치",
+    "translation": "торгоны хорхой",
+    "hanja": "누에고치",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "누유",
+    "translation": "газрын тос алдагдах",
+    "hanja": "漏油",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누이",
+    "translation": "эгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "누이다",
+    "translation": "Хэвтүүлэх",
+    "hanja": "누이다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "누이동생",
+    "translation": "Дүү охин",
+    "hanja": "누이동생",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "누적",
+    "translation": "хуримтлал",
+    "hanja": "累積",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "누적되다",
+    "translation": "хуримтлагдах, цугларсан",
+    "hanja": "累積되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누적하다",
+    "translation": "хуримтлуулах",
+    "hanja": "累積하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누전",
+    "translation": "богино холбоо",
+    "hanja": "漏電",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누정",
+    "translation": "хүндэтгэлийн павильон",
+    "hanja": "樓亭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누진",
+    "translation": "Давхаргууд",
+    "hanja": "累進",
+    "pos": "Нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "누진세",
+    "translation": "прогрессив татвар",
+    "hanja": "累進稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누차",
+    "translation": "олон удаа",
+    "hanja": "屢次",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누추하다",
+    "translation": "ядуу, бохир, заваан",
+    "hanja": "陋醜하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누출",
+    "translation": "задрал, алдагдал",
+    "hanja": "漏出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누출되다",
+    "translation": "Алдах",
+    "hanja": "漏出되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누출하다",
+    "translation": "задрах, алдагдах, ил гарах",
+    "hanja": "漏出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "누크",
+    "translation": "Булан",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "누트",
+    "translation": "Нут",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "누피",
+    "translation": "Татвар (хуучирсан)",
+    "hanja": "累費",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

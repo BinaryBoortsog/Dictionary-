@@ -1,0 +1,1472 @@
+[
+  {
+    "word": "세",
+    "translation": "гурав",
+    "hanja": "三",
+    "pos": "num",
+    "cefr": "A1"
+  },
+  {
+    "word": "세가",
+    "translation": "Хүч чадал, нөлөө",
+    "hanja": "勢家",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "세간살이",
+    "translation": "гэрийн тавилга, эд хогшил",
+    "hanja": "世間살이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세검",
+    "translation": "шүдний хатуу сойз",
+    "hanja": "洗劍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세겔",
+    "translation": "Шекель",
+    "hanja": "Shekel",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세계",
+    "translation": "дэлхий",
+    "hanja": "世界",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세계관",
+    "translation": "ертөнцийг үзэх үзэл",
+    "hanja": "世界觀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세계사",
+    "translation": "Дэлхийн түүх",
+    "hanja": "世界史",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세계사적",
+    "translation": "дэлхийн түүхэн, дэлхийн түүхэнд холбогдох",
+    "hanja": "世界史的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "세계상",
+    "translation": "дэлхийн дүр төрх",
+    "hanja": "世界像",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세계적",
+    "translation": "дэлхийн хэмжээний",
+    "hanja": "世界的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세계화",
+    "translation": "дэлхийчлэл",
+    "hanja": "세계화(世界化)",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "세계화하다",
+    "translation": "даян дэлхийн болгох",
+    "hanja": "世界化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세고비아",
+    "translation": "Сеговиа (газар зүйн нэр)",
+    "hanja": "세고비아",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세곡",
+    "translation": "Татварын үр тариа",
+    "hanja": "稅穀",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "세공되다",
+    "translation": "урлагдах, хийгдэх (нарийн ур)",
+    "hanja": "細工되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "세공품",
+    "translation": "гар урлалын бүтээл",
+    "hanja": "細工品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세공하다",
+    "translation": "нарийн баримал хийх",
+    "hanja": "細工하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세광",
+    "translation": "нарны гэрэл",
+    "hanja": "細光",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "세균",
+    "translation": "бактери",
+    "hanja": "細菌",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "세그먼트",
+    "translation": "сегмент",
+    "hanja": "segment",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세그먼팅",
+    "translation": "сегментлэх",
+    "hanja": "Segmenting",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "세금",
+    "translation": "татвар",
+    "hanja": "稅金",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "세기말",
+    "translation": "Зууны сүүл",
+    "hanja": "世紀末",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세나다",
+    "translation": "илчлэх, илрүүлэх",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세네갈",
+    "translation": "Сенегал",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세네카",
+    "translation": "Сенека",
+    "hanja": "Seneca",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "세넷",
+    "translation": "Сенат",
+    "hanja": "세넷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세뇌",
+    "translation": "Тархи угаах",
+    "hanja": "洗腦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세뇌당하다",
+    "translation": "тархийг нь угаах",
+    "hanja": "세뇌당하다(洗腦當하다)",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세뇌되다",
+    "translation": "тархи угаагдах",
+    "hanja": "洗腦되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세뇌시키다",
+    "translation": "тархи угаах",
+    "hanja": "洗腦시키다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "세뇌하다",
+    "translation": "тархи угаах",
+    "hanja": "洗腦하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세뇨",
+    "translation": "сенё",
+    "hanja": "세뇨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세뇨리따",
+    "translation": "Сеньорита (охин)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "세느강",
+    "translation": "Сен мөрөн",
+    "hanja": "세느강",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세대",
+    "translation": "үе",
+    "hanja": "世代",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세대교체",
+    "translation": "үе солигдох",
+    "hanja": "世代交替",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세대원",
+    "translation": "гэрийн гишүүн",
+    "hanja": "世帶員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세대주",
+    "translation": "өрхийн тэргүүн",
+    "hanja": "世帶主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세도가",
+    "translation": "нөлөө бүхий гэр бүл",
+    "hanja": "勢道家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세라마이드",
+    "translation": "керамид",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "세라믹",
+    "translation": "керамик",
+    "hanja": "세라믹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세라핌",
+    "translation": "серафим",
+    "hanja": "세라핌",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세레",
+    "translation": "шидэх",
+    "hanja": "세레",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "세레나데",
+    "translation": "Серенада",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세레스",
+    "translation": "Церера (од гаргийн нэр)",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "세렌디피티",
+    "translation": "серендипити",
+    "hanja": "세렌디피티",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세력",
+    "translation": "хүч",
+    "hanja": "勢力",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "세력가",
+    "translation": "нөлөө бүхий хүн",
+    "hanja": "勢力家",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "세력권",
+    "translation": "нөлөөллийн хүрээ",
+    "hanja": "勢力圈",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "세력화",
+    "translation": "нөлөө үзүүлэх, хүчирхэгжих",
+    "hanja": "勢力化",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "세련되다",
+    "translation": "боловсронгуй",
+    "hanja": "洗鍊되다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "세련미",
+    "translation": "боловсронгуй байдал, дэгжин байдал",
+    "hanja": "洗練美",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세례",
+    "translation": "Угтах",
+    "hanja": "洗禮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세례명",
+    "translation": "баптисмын нэр",
+    "hanja": "洗禮名",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세례식",
+    "translation": "баптисмын ёслол",
+    "hanja": "洗禮式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세로",
+    "translation": "босоо, уртын",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세로줄",
+    "translation": "босоо шугам, багана",
+    "hanja": "세로줄",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "세로축",
+    "translation": "босоо тэнхлэг",
+    "hanja": "세로軸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세로토닌",
+    "translation": "Серотонин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세르",
+    "translation": "ноёнтоон (франц)",
+    "hanja": "세르",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세르비아",
+    "translation": "Серби",
+    "hanja": "세르비아",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세리다",
+    "translation": "тоолох",
+    "hanja": "세리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세리머니",
+    "translation": "ёслол, үйл ажиллагаа",
+    "hanja": "ceremony",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세리카",
+    "translation": "селика",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세리프",
+    "translation": "сериф (үсгийн хэлбэр)",
+    "hanja": "세리프",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세마포",
+    "translation": "торгомсог даавуу",
+    "hanja": "세마포",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "세메",
+    "translation": "гурван нэгж",
+    "hanja": "三메",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세멜레",
+    "translation": "Семеле (Домог судлалын дүр)",
+    "hanja": "Semele",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세면기",
+    "translation": "угаалгын сав",
+    "hanja": "洗面器",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세면대",
+    "translation": "угаалгын өрөөний онгоц",
+    "hanja": "洗面臺",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "세면도구",
+    "translation": "угаалгын хэрэгсэл",
+    "hanja": "洗面道具",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세면실",
+    "translation": "угаалгын өрөө",
+    "hanja": "洗面室",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세면장",
+    "translation": "угаалгын өрөө",
+    "hanja": "洗面場",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세명대",
+    "translation": "Сэмян их сургууль",
+    "hanja": "世明大",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세모꼴",
+    "translation": "гурвалжин хэлбэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세모나다",
+    "translation": "Гурвалжин хэлбэртэй байх",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세무사",
+    "translation": "татвар хариуцсан байцаагч",
+    "hanja": "稅務士",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세무서",
+    "translation": "Татварын алба",
+    "hanja": "稅務署",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세미나",
+    "translation": "семинар",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "세미스모키",
+    "translation": "Хагас тамхи (нүд будаг)",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세미콜론",
+    "translation": "цэг таслал",
+    "hanja": "세미콜론",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세미파이널",
+    "translation": "хагас шигшээ",
+    "hanja": "세미파이널",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세미프로",
+    "translation": "хагас мэргэжлийн",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "세미하다",
+    "translation": "сул дорой, нимгэн",
+    "hanja": "細微하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세밀하다",
+    "translation": "нарийвчилсан",
+    "hanja": "細密하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "세밀화",
+    "translation": "нарийн зураг",
+    "hanja": "細密畫",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "세밀히",
+    "translation": "Нарийвчлан",
+    "hanja": "細密히",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "세밑",
+    "translation": "оны эцэс",
+    "hanja": "歲밑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세발자전거",
+    "translation": "гурван дугуйтай дугуй",
+    "hanja": "세발자전거",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "세배하다",
+    "translation": "шинэ жилийн мэндчилгээ өргөх",
+    "hanja": "歲拜하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세뱃돈",
+    "translation": "Шинэ жилийн мөнгө",
+    "hanja": "歲拜돈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세베루스",
+    "translation": "Северус",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "세봉",
+    "translation": "Сэ Бун (хүний нэр)",
+    "hanja": "世鳳",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "세부적",
+    "translation": "дэлгэрэнгүй",
+    "hanja": "細部的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "세분되다",
+    "translation": "Жижиг хэсгүүдэд хуваагдах",
+    "hanja": "細分되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "세분하다",
+    "translation": "нарийвчлан хуваах",
+    "hanja": "細分하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세분화",
+    "translation": "нарийвчлах, задаргаа",
+    "hanja": "細分化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세분화되다",
+    "translation": "Нарийвчлагдах, хэсэгчлэх",
+    "hanja": "細分化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세분화하다",
+    "translation": "нарийвчлах, жижиглэх",
+    "hanja": "細分化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세브",
+    "translation": "Сэлбэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세븐",
+    "translation": "seven",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "세비",
+    "translation": "төрийн зардлаар",
+    "hanja": "歲費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세비야",
+    "translation": "Севилья (Испанийн хот)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세비체",
+    "translation": "сэвиче (Латин Америкийн хоол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세빗",
+    "translation": "Себит",
+    "hanja": "Sebit",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세빛둥둥섬",
+    "translation": "Сэбич Дүндүнг арал",
+    "hanja": "세빛둥둥섬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세삼",
+    "translation": "дахин",
+    "hanja": "새삼",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세상만사",
+    "translation": "ертөнцийн бүх хэрэг",
+    "hanja": "世上萬事",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "세상모르다",
+    "translation": "юу ч мэдэхгүй, мэдлэггүй байх",
+    "hanja": "世上모르다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세상사",
+    "translation": "ертөнцийн асуудлууд",
+    "hanja": "世上事",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "세상살이",
+    "translation": "амьдрал",
+    "hanja": "世上살이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세상일",
+    "translation": "ертөнцийн ажил",
+    "hanja": "世上일",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "세세생생",
+    "translation": "үеэс үед",
+    "hanja": "世世生生",
+    "pos": "adverb",
+    "cefr": "C2"
+  },
+  {
+    "word": "세세하다",
+    "translation": "нарийн ширийн",
+    "hanja": "細細하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "세세히",
+    "translation": "дэлгэрэнгүйгээр",
+    "hanja": "細細히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세션",
+    "translation": "сесс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세션스",
+    "translation": "Сешнс (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세속적",
+    "translation": "ертөнцийн",
+    "hanja": "世俗的",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "세속화",
+    "translation": "ертөнцжүүлэх",
+    "hanja": "世俗化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세속화되다",
+    "translation": "ертөнцжүүлэх",
+    "hanja": "世俗化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세수하다",
+    "translation": "Нүүр угаах",
+    "hanja": "洗手하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "세숫대야",
+    "translation": "угаах тавиур; угаалгын сав",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세숫물",
+    "translation": "угаалгын ус",
+    "hanja": "洗手물",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세슘",
+    "translation": "Цезий",
+    "hanja": "세슘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세스",
+    "translation": "Сет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세습",
+    "translation": "удамшсан",
+    "hanja": "世襲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세습되다",
+    "translation": "удам дамжих, өвлөгдөх",
+    "hanja": "世襲되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세습적",
+    "translation": "удамшлын",
+    "hanja": "世襲的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세습하다",
+    "translation": "өвлүүлэх, удамших",
+    "hanja": "世襲하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세신",
+    "translation": "Хүчтэй үрэх",
+    "hanja": "洗身",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세실리아",
+    "translation": "Сесилиа (хүний нэр)",
+    "hanja": "null",
+    "pos": "null",
+    "cefr": "null"
+  },
+  {
+    "word": "세심하다",
+    "translation": "хянуур, нямбай",
+    "hanja": "細心하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세심히",
+    "translation": "няхуур, нарийвчлан",
+    "hanja": "細心히",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "세안",
+    "translation": "Нүүр угаах",
+    "hanja": "洗顔",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "세안하다",
+    "translation": "нүүр угаах",
+    "hanja": "洗顔하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세액",
+    "translation": "татвар",
+    "hanja": "稅額",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세에",
+    "translation": "Сээ (хүний нэр)",
+    "hanja": "世에",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세용",
+    "translation": "Дахин ашиглах",
+    "hanja": "貰用 (세-)",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "세우",
+    "translation": "босгох",
+    "hanja": "세우",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세우다",
+    "translation": "босгох, байгуулах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세운",
+    "translation": "байгуулсан",
+    "hanja": "세운",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세웅",
+    "translation": "Сэ-Ун (хүний нэр)",
+    "hanja": "世雄",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "세율",
+    "translation": "Татварын хувь",
+    "hanja": "稅率",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "세이렌",
+    "translation": "дуут дохио, дуутай хэрэгсэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세이버",
+    "translation": "сэлэм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세이브",
+    "translation": "хадгалах",
+    "hanja": "세이브",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세이블",
+    "translation": "суусрын үс",
+    "hanja": "세이블",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세이빙",
+    "translation": "Хадгаламж, хэмнэлт",
+    "hanja": "saving",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세이셸",
+    "translation": "Сейшелийн арлууд",
+    "hanja": "Seychelles",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세이스",
+    "translation": "Сеис",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세이시",
+    "translation": "Сэйши",
+    "hanja": "西施",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세이지",
+    "translation": "мэргэн",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세이프",
+    "translation": "аюулгүй",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세이프가드",
+    "translation": "хамгаалалт (аюулгүйн)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "세이프티",
+    "translation": "аюулгүй байдал",
+    "hanja": "safety",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세인트루시아",
+    "translation": "Сент-Люсиа",
+    "hanja": "세인트루시아",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세인트루이스",
+    "translation": "Сент-Луис",
+    "hanja": "세인트루이스",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "세인트버나드",
+    "translation": "Сент-бернар (нохой)",
+    "hanja": "세인트버나드",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "세인트조지",
+    "translation": "Гэгээн Жорж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세인트조지스",
+    "translation": "Сент Жорж-ийн",
+    "hanja": "세인트조지스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세인트존스",
+    "translation": "Сент-Жонс",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "세인트폴",
+    "translation": "Гэгээн Паул",
+    "hanja": "Saint Paul",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세일러",
+    "translation": "далайчин",
+    "hanja": "sailor",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세일럼",
+    "translation": "Салем",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세일링",
+    "translation": "дарвуулт завиар явах",
+    "hanja": "sailing",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세일즈맨",
+    "translation": "худалдагч",
+    "hanja": "세일즈맨",
+    "pos": "n",
+    "cefr": "A2"
+  },
+  {
+    "word": "세일하다",
+    "translation": "Хямдрал зарлах",
+    "hanja": "sale하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "세입",
+    "translation": "Орлого",
+    "hanja": "歲入",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세입자",
+    "translation": "түрээслэгч",
+    "hanja": "貰入者",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "세잎클로버",
+    "translation": "гурван навчит хошоонгор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세자빈",
+    "translation": "Хунтайжийн гүнж",
+    "hanja": "世子嬪",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세잔",
+    "translation": "Сезанн",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "세정하다",
+    "translation": "угаах",
+    "hanja": "洗淨하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세제곱",
+    "translation": "куб зэрэг",
+    "hanja": " 세제곱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세제곱미터",
+    "translation": "шоо метр",
+    "hanja": "立方미터",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세존",
+    "translation": "бурхан багш",
+    "hanja": "世尊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세종보",
+    "translation": "Сежонбо",
+    "hanja": "世宗堡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세종특별자치시",
+    "translation": "Сэжонг онцгой засаг захиргааны хот",
+    "hanja": "世宗特別自治市",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세차다",
+    "translation": "хүчтэй, ширүүн",
+    "hanja": "",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "세차장",
+    "translation": "машин угаалгын газар",
+    "hanja": "洗車場",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "세차하다",
+    "translation": "Машин угаах",
+    "hanja": "洗車하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세찬",
+    "translation": "хүчтэй, ширүүн",
+    "hanja": "세찬",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세척되다",
+    "translation": "Угаагдах, цэвэрлэгдэх",
+    "hanja": "洗滌되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "세척력",
+    "translation": "угаах чадвар",
+    "hanja": "洗滌力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세척제",
+    "translation": "угаагч бодис",
+    "hanja": "세척제(洗滌劑)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세척하다",
+    "translation": "угаах, цэвэрлэх",
+    "hanja": "洗滌-",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "세츄레이션",
+    "translation": "ханалт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세침",
+    "translation": "зүүний хатгалт",
+    "hanja": "細針",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세컨드",
+    "translation": "Хоёрдугаар",
+    "hanja": "second",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "세쿼이아",
+    "translation": "Секвойя",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세크",
+    "translation": "секунд",
+    "hanja": "Sec",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "세타가야구",
+    "translation": "Сетагаяа",
+    "hanja": "世田谷區",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세탁기",
+    "translation": "угаалгын машин",
+    "hanja": "洗濯機",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세탁되다",
+    "translation": "угаагдах, цэвэрлэгдэх",
+    "hanja": "洗濯되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세탁물",
+    "translation": "Угаалгын хувцас",
+    "hanja": "洗濯物",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세탁소",
+    "translation": "угаалгын газар",
+    "hanja": "洗濯所",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세탁하다",
+    "translation": "угаах",
+    "hanja": "洗濯하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "세토",
+    "translation": "Сэто",
+    "hanja": "세토",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "세토우치",
+    "translation": "Сэто-Найкай (Японы дотоод тэнгис)",
+    "hanja": "瀬戸内",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "세트",
+    "translation": "багц",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세트업",
+    "translation": "тохируулах",
+    "hanja": "세트업",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "세팅",
+    "translation": "тохиргоо",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "세팅하다",
+    "translation": "Тохиргоо хийх",
+    "hanja": "세팅하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세팍타크로",
+    "translation": "сепак такро (спорт)",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세피아",
+    "translation": "сепиа (нэрийн өнгө)",
+    "hanja": "Sepia",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세헤라자데",
+    "translation": "Шехеразада",
+    "hanja": "세헤라자데",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "세화",
+    "translation": "Шинэ жилийн зураг",
+    "hanja": "歲畫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세후",
+    "translation": "татварын дараа",
+    "hanja": "稅後",
+    "pos": "Noun",
+    "cefr": "B2"
+  }
+]

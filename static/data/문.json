@@ -1,0 +1,1332 @@
+[
+  {
+    "word": "문",
+    "translation": "хаалга",
+    "hanja": "門",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "문간",
+    "translation": "үүдний өрөө",
+    "hanja": "門間",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "문간방",
+    "translation": "үүдний өрөө",
+    "hanja": "門間房",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문갑",
+    "translation": "тавиур, шүүгээ",
+    "hanja": "文匣",
+    "pos": "명са",
+    "cefr": "B2"
+  },
+  {
+    "word": "문객",
+    "translation": "үндсэн зочин",
+    "hanja": "門客",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문건",
+    "translation": "баримт бичиг",
+    "hanja": "文件",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문경",
+    "translation": "Мүнгён (хот)",
+    "hanja": "聞慶",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "문고",
+    "translation": "ном",
+    "hanja": "文庫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문고리",
+    "translation": "хаалганы бариул",
+    "hanja": "門고리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문고본",
+    "translation": "Жижиг ном",
+    "hanja": "文庫本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문고판",
+    "translation": "халаасны ном",
+    "hanja": "文庫版",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문공",
+    "translation": "соёл урлаг",
+    "hanja": "文工",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문과",
+    "translation": "уран зохиолын тэнхим",
+    "hanja": "文科",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문관",
+    "translation": "иргэний албан хаагч",
+    "hanja": "文官",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문광",
+    "translation": "гэрэлтүүлэг, соёл",
+    "hanja": "文光",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문교",
+    "translation": "боловсрол",
+    "hanja": "文敎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문구",
+    "translation": "Бичгийн хэрэгсэл",
+    "hanja": "文具",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "문구멍",
+    "translation": "хаалганы нүх",
+    "hanja": "門─",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문구점",
+    "translation": "бичгийн хэрэгслийн дэлгүүр",
+    "hanja": "文具店",
+    "pos": "м.н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "문기둥",
+    "translation": "хаалганы тулгуур",
+    "hanja": "門기둥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문내",
+    "translation": "хаалганы дотор",
+    "hanja": "門內",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문다",
+    "translation": "хазалт",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "문단",
+    "translation": "догол мөр",
+    "hanja": "文段",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문단속",
+    "translation": "үүд хаалгаа түгжих",
+    "hanja": "門단속",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문단속하다",
+    "translation": "хаалга цоожлох, хаалгаа түгжих",
+    "hanja": "門團束하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문답",
+    "translation": "асуулт хариулт",
+    "hanja": "問答",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문답식",
+    "translation": "асуулт хариултын хэлбэрээр",
+    "hanja": "問答式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문대다",
+    "translation": "үрэх, арчих",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문덕",
+    "translation": "Дэгун",
+    "hanja": "文德",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문도",
+    "translation": "шавь, дагалдагч",
+    "hanja": "門徒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문동",
+    "translation": "Мүньдун",
+    "hanja": "聞同",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "문둥병",
+    "translation": "хэлбэр өөрчлөх өвчин",
+    "hanja": "문둥병",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문둥이",
+    "translation": "хүний нэр; хүр хорхой",
+    "hanja": "文둥이",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "문드러지다",
+    "translation": "Ялзрах, муудах, элэгдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문득",
+    "translation": "Гэнэт",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "문득문득",
+    "translation": "гэнэт гэнэт, үе үе",
+    "hanja": "文得文得",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문디",
+    "translation": "хэцүү",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "문뜩",
+    "translation": "гэнэт, санаандгүй",
+    "hanja": null,
+    "pos": "д.ү.",
+    "cefr": "B1"
+  },
+  {
+    "word": "문란",
+    "translation": "Эмх замбараагүй байдал",
+    "hanja": "紊亂",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "문란하다",
+    "translation": "самуун, завхай",
+    "hanja": "紊亂하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문래",
+    "translation": "Мунрэ (газрын нэр)",
+    "hanja": "文來",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문루",
+    "translation": "хаалганы цамхаг",
+    "hanja": "門樓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문막",
+    "translation": "Мунмак (газрын нэр)",
+    "hanja": "文幕",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "문맥",
+    "translation": "үгсийн холбоо",
+    "hanja": "文脈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문맹",
+    "translation": "бичиг үсэггүй байдал",
+    "hanja": "文盲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문맹률",
+    "translation": "Бичиг үсэг үл мэдэх хүмүүсийн хувь",
+    "hanja": "文盲率",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문맹자",
+    "translation": "Бичиг үсэггүй хүн",
+    "hanja": "文盲者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문명",
+    "translation": "Иргэншил",
+    "hanja": "文明",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "문명국",
+    "translation": "соёл иргэншилтэй улс",
+    "hanja": "文明國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문명국가",
+    "translation": "Иргэншсэн улс",
+    "hanja": "文明國家",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "문명사",
+    "translation": "соёл иргэншлийн түүх",
+    "hanja": "文明史",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문명사회",
+    "translation": "соёл иргэншсэн нийгэм",
+    "hanja": "文明社會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문명인",
+    "translation": "соёлт хүн",
+    "hanja": "文明人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문명화되다",
+    "translation": "соёл иргэншсэн болох",
+    "hanja": "文明化되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "문묘",
+    "translation": "Күнзийн сүм",
+    "hanja": "文廟",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문무",
+    "translation": "иргэний ба цэргийн",
+    "hanja": "文武",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문무백관",
+    "translation": "төрийн бүх түшмэд",
+    "hanja": "文武百官",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문물",
+    "translation": "соёл иргэншил",
+    "hanja": "文物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문밖",
+    "translation": "хаалганы гадна",
+    "hanja": "門밖",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문반",
+    "translation": "Иргэний албан тушаалтан",
+    "hanja": "文班",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문방구",
+    "translation": "бичгийн хэрэгсэл",
+    "hanja": "文房具",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문방사우",
+    "translation": "үндсэн бичгийн хэрэгсэл (бичгийн багц)",
+    "hanja": "文房四友",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문벌",
+    "translation": "Язгууртан",
+    "hanja": "門閥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문법",
+    "translation": "дүрмийн",
+    "hanja": "文法",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문법적",
+    "translation": "дүрэм зүйн",
+    "hanja": "文法的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문병",
+    "translation": "өвчтөн эргэх",
+    "hanja": "問病",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문병객",
+    "translation": "өвчтөн эргэгч",
+    "hanja": "問病客",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문병하다",
+    "translation": "эмнэлэгт очих",
+    "hanja": "問病하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문비",
+    "translation": "хаалганы товчлуур",
+    "hanja": "門扉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문사",
+    "translation": "бичиг баримт",
+    "hanja": "文士",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문산",
+    "translation": "Мүнсан (газар)",
+    "hanja": "汶山",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "문살",
+    "translation": "хаалганы хүрээ",
+    "hanja": "門살",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문상",
+    "translation": "эмгэнэл илэрхийлэх",
+    "hanja": "問喪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문상객",
+    "translation": "эмгэнэл илэрхийлэхээр ирэгсэд",
+    "hanja": "問喪客",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문상하다",
+    "translation": "эмгэнэл илэрхийлэх",
+    "hanja": "問喪하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문서",
+    "translation": "Баримт бичиг",
+    "hanja": "文書",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문서화되다",
+    "translation": "баримтжуулагдах",
+    "hanja": "文書化되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "문서화하다",
+    "translation": "баримтжуулах",
+    "hanja": "文書化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문석",
+    "translation": "мэтгэлцээний суудаг газар",
+    "hanja": "問席",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문설주",
+    "translation": "хаалганы багана",
+    "hanja": "門楔柱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문성",
+    "translation": "Сургууль, бичиг үсэг",
+    "hanja": "文星",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "문세",
+    "translation": "мунсэ",
+    "hanja": "文世",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문송하다",
+    "translation": "уран зохиолын салбарт харамсах",
+    "hanja": "文愧하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문수",
+    "translation": "тоо",
+    "hanja": "文數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문숙",
+    "translation": "Мүнсүг",
+    "hanja": "文淑",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문스톤",
+    "translation": "Сарны чулуу (Moonstone)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문식",
+    "translation": "бичиг үсэг тайлах",
+    "hanja": "文識",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문신",
+    "translation": "шившиг",
+    "hanja": "文身",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문신하다",
+    "translation": "шившиглэх",
+    "hanja": "文身하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문씨",
+    "translation": "Мүн овогт",
+    "hanja": "文氏",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문아",
+    "translation": "хүндэтгэсэн",
+    "hanja": "文雅",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문안",
+    "translation": "Эрүүл мэнд асуух",
+    "hanja": "問安",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문안드리다",
+    "translation": "мэндлэх (ахмадад)",
+    "hanja": "問安드리다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "문안하다",
+    "translation": "мэндлэх, золгох",
+    "hanja": "問安하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "문양",
+    "translation": "хээ угалз",
+    "hanja": "紋樣",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문어",
+    "translation": "найман хөлт",
+    "hanja": "문어",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문어발",
+    "translation": "найман хөлтний гар",
+    "hanja": "문어발",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문어체",
+    "translation": "бичгийн хэл",
+    "hanja": "文語體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문언",
+    "translation": "бичгийн хэл, утга зохиолын хэл",
+    "hanja": "文言",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문예",
+    "translation": "утга зохиол ба урлаг",
+    "hanja": "文藝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문예반",
+    "translation": "уран зохиолын клуб",
+    "hanja": "文藝班",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문왕",
+    "translation": "Мүн ван",
+    "hanja": "文王",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문외한",
+    "translation": "мэдэхгүй хүн, харанхуй",
+    "hanja": "門外漢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문웅",
+    "translation": "том хүн, эрдэмтэн",
+    "hanja": "文雄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문원",
+    "translation": "бичгийн хүн",
+    "hanja": "文員",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문유",
+    "translation": "бичиг үсэг сурсан",
+    "hanja": "文儒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문의",
+    "translation": "асуулт",
+    "hanja": "문의",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문의하다",
+    "translation": "асуух, лавлах",
+    "hanja": "문의하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문익점",
+    "translation": "Мүн Икжом",
+    "hanja": "文益漸",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "문인",
+    "translation": "зохиолч",
+    "hanja": "文人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문자",
+    "translation": "үсэг",
+    "hanja": "文字",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문자열",
+    "translation": "тэмдэгтийн цуваа",
+    "hanja": "文字列",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "문자하다",
+    "translation": "мессеж бичих",
+    "hanja": "文字-하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "문장",
+    "translation": "өгүүлбэр",
+    "hanja": "文章",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문장력",
+    "translation": "бичих ур чадвар, найруулах чадвар",
+    "hanja": "文章力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문전",
+    "translation": "үнсэн",
+    "hanja": "門前",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문전박대하다",
+    "translation": "хаалганаас хөөх, хүлээн авахаас татгалзах",
+    "hanja": "門前薄待하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문전성시",
+    "translation": "хөл хөдөлгөөн ихтэй газар",
+    "hanja": "門前成市",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문정",
+    "translation": "Халга, хаалганы өмнө",
+    "hanja": "門庭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문제",
+    "translation": "асуудал",
+    "hanja": "問題",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "문제시되다",
+    "translation": "асуудал болох, маргаантай болох",
+    "hanja": "問題視되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문제시하다",
+    "translation": "асуудал болгох",
+    "hanja": "問題視하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문제아",
+    "translation": "асуудалтай хүүхэд",
+    "hanja": "問題兒",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문제없다",
+    "translation": "асуудалгүй",
+    "hanja": "問題없다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문제없이",
+    "translation": "асуудалгүй",
+    "hanja": "問題없이",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문제의식",
+    "translation": "асуудлыг ойлгох чадвар, асуудлын мэдрэмж",
+    "hanja": "問題意識",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문제작",
+    "translation": "хүндрэлтэй бүтээл, маргаантай бүтээл",
+    "hanja": "問題作",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "문제점",
+    "translation": "асуудал",
+    "hanja": "問題點",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문제집",
+    "translation": "дасгалын ном",
+    "hanja": "問題集",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문제투성이",
+    "translation": "асуудлаар дүүрэн",
+    "hanja": "問題투성이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문젯거리",
+    "translation": "Асуудал, бэрхшээл",
+    "hanja": "問題거리",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "문조",
+    "translation": "тагтаа, зэрлэг тагтаа",
+    "hanja": "文鳥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문종",
+    "translation": "ном бичиг",
+    "hanja": "文宗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문주",
+    "translation": "Халганы багана, хаалганы шон",
+    "hanja": "門柱",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "문중",
+    "translation": "овгийнхон",
+    "hanja": "門中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문지르다",
+    "translation": "Үрэх, арчих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문지방",
+    "translation": "босго",
+    "hanja": "門地枋",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문진",
+    "translation": "цаас дарагч",
+    "hanja": "文鎮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문질문질",
+    "translation": "Үрж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문질문질하다",
+    "translation": "үрэх, арчих (жигд)",
+    "hanja": "None",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "문집",
+    "translation": "зохиолын эмхтгэл",
+    "hanja": "文集",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문짝",
+    "translation": "хаалганы навч",
+    "hanja": "門짝",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문찐",
+    "translation": "амттай хоол, амттан",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "문창",
+    "translation": "цонх",
+    "hanja": "門窓",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문책",
+    "translation": "хариуцлага тооцох",
+    "hanja": "問責",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문책하다",
+    "translation": "хариуцлага тооцох",
+    "hanja": "問責─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문체",
+    "translation": "бичлэгийн хэлбэр",
+    "hanja": "文體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문초",
+    "translation": "байцаах",
+    "hanja": "問招",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문초하다",
+    "translation": "байцаах",
+    "hanja": "問招하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문추",
+    "translation": "Номын тавиур",
+    "hanja": "文樞",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "문턱",
+    "translation": "Босго",
+    "hanja": "門턱",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "문특",
+    "translation": "гэнэт, цочирдон",
+    "hanja": "文特",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "문틀",
+    "translation": "хаалганы хүрээ",
+    "hanja": "門틀",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "문틈",
+    "translation": "хаалганы зай",
+    "hanja": "門틈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문파",
+    "translation": "сүм хийд",
+    "hanja": "門派",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "문패",
+    "translation": "хаалганы хаяг",
+    "hanja": "門牌",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "문풍지",
+    "translation": "салхины хамгаалалттай цаас",
+    "hanja": "門風紙",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문피",
+    "translation": "бичгийн хэрэгсэл",
+    "hanja": "文披",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문필가",
+    "translation": "зохиолч, утга зохиолч",
+    "hanja": "文筆家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문하",
+    "translation": "шавь, дагалдагч",
+    "hanja": "門下",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문하생",
+    "translation": "шавь",
+    "hanja": "門下生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문학",
+    "translation": "утга зохиол",
+    "hanja": "文學",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "문학가",
+    "translation": "утга зохиолч",
+    "hanja": "文學家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문학계",
+    "translation": "утга зохиолын ертөнц",
+    "hanja": "文學界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문학상",
+    "translation": "утга зохиолын шагнал",
+    "hanja": "文學賞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문학성",
+    "translation": "утга зохиолын чанар",
+    "hanja": "文學性",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문학인",
+    "translation": "зохиолч",
+    "hanja": "文學人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문학적",
+    "translation": "уран зохиолын",
+    "hanja": "文學的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "문학하다",
+    "translation": "Утга зохиол хийх",
+    "hanja": "文學하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문합",
+    "translation": "анагаах ухаанд: хоёр хоолойг холбох",
+    "hanja": "吻合",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문항",
+    "translation": "Асуулт, зүйл",
+    "hanja": "文項",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문해",
+    "translation": "бичиг үсэг тайлах",
+    "hanja": "文解",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문헌",
+    "translation": "баримт бичиг",
+    "hanja": "文獻",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문혁",
+    "translation": "соёлын хувьсгал",
+    "hanja": "文革",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문형",
+    "translation": "Өгүүлбэрийн бүтэц",
+    "hanja": "文型",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문호",
+    "translation": "Утга зохиолч",
+    "hanja": "文豪",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문화",
+    "translation": "соёл",
+    "hanja": "文化",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문화계",
+    "translation": "соёлын хүрээ",
+    "hanja": "文化界",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문화권",
+    "translation": "соёлын хүрээ",
+    "hanja": "文化圈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문화부",
+    "translation": "соёлын яам",
+    "hanja": "文化部",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문화비",
+    "translation": "соёлын зардал",
+    "hanja": "文化費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문화사",
+    "translation": "соёлын түүх",
+    "hanja": "文化史",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문화생활",
+    "translation": "соёл амьдрал",
+    "hanja": "文化生活",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문화어",
+    "translation": "соёлын хэл (Умард Солонгосын хэлний стандарт)",
+    "hanja": "文化語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문화원",
+    "translation": "соёлын төв",
+    "hanja": "文化院",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문화유산",
+    "translation": "соёлын өв",
+    "hanja": "文化遺産",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문화인",
+    "translation": "соёлтой хүн",
+    "hanja": "文化人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문화재",
+    "translation": "соёлын өв",
+    "hanja": "文化財",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문화적",
+    "translation": "Соёлын",
+    "hanja": "文化的",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "문후",
+    "translation": "мэндлэх",
+    "hanja": "問候",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

@@ -1,0 +1,653 @@
+[
+  {
+    "word": "백",
+    "translation": "зуу, зуун",
+    "hanja": "百",
+    "pos": "수사",
+    "cefr": "A1"
+  },
+  {
+    "word": "백가",
+    "translation": "Бэгга",
+    "hanja": "百家",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "백개먼",
+    "translation": "бэкгаммон",
+    "hanja": "백개먼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백골",
+    "translation": "араг яс",
+    "hanja": "白骨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백과",
+    "translation": "нүцгэн жимс",
+    "hanja": "栢果",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백과사전",
+    "translation": "Нэвтэрхий толь",
+    "hanja": "百科事典",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백광",
+    "translation": "цагаан гэрэл",
+    "hanja": "白光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백귀",
+    "translation": "зуун чөтгөр",
+    "hanja": "百鬼",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "백그라운드",
+    "translation": "дэвсгэр, суурь",
+    "hanja": "background",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백금",
+    "translation": "цагаан алт",
+    "hanja": "白金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백김치",
+    "translation": "цагаан кимчи",
+    "hanja": "白김치",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "백남준",
+    "translation": "Пэк Нам Жун (хүний нэр)",
+    "hanja": "白南準",
+    "pos": "null",
+    "cefr": "null"
+  },
+  {
+    "word": "백내장",
+    "translation": "нүдний цагаа",
+    "hanja": "白內障",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백년가약",
+    "translation": "Зуун жилийн гэрлэлт",
+    "hanja": "百年佳約",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백년대계",
+    "translation": "зуун жилийн төлөвлөгөө",
+    "hanja": "百年大計",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백년손님",
+    "translation": "гэрлэсэн охин",
+    "hanja": "百年손님",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백년초",
+    "translation": "гадил жимсний кактус",
+    "hanja": "百年草",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백년해로",
+    "translation": "насан туршийн гэрлэлт",
+    "hanja": "百年偕老",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백년해로하다",
+    "translation": "зуун жил аз жаргалтай амьдрах (гэр бүл)",
+    "hanja": "百年偕老하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "백담",
+    "translation": "Бакдам",
+    "hanja": "百潭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백도어",
+    "translation": "Нууц хаалга (компьютер)",
+    "hanja": "Backdoor",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "백두산",
+    "translation": "Пэгдү уул",
+    "hanja": "白頭山",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "백란",
+    "translation": "цагаан өндөг",
+    "hanja": "白卵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백랍",
+    "translation": "цагаан тугалга, хөнгөн цагаан",
+    "hanja": "白鑞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백로",
+    "translation": "галуу",
+    "hanja": "白鷺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백록",
+    "translation": "Цагаан буга",
+    "hanja": "白鹿",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "백룡",
+    "translation": "цагаан луу",
+    "hanja": "白龍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백린",
+    "translation": "цагаан фосфор",
+    "hanja": "白燐",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "백만장자",
+    "translation": "саятан",
+    "hanja": "百萬長者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "백묵",
+    "translation": "шохой",
+    "hanja": "白墨",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "백미러",
+    "translation": "хойд талын толь",
+    "hanja": "백미러",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "백발백중",
+    "translation": "100 хувь онох",
+    "hanja": "百發百中",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "백봉",
+    "translation": "Цагаан хун",
+    "hanja": "白鳳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백부장",
+    "translation": "центurion (ромын армийн цол)",
+    "hanja": "百夫長",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백분율",
+    "translation": "хувь",
+    "hanja": "百分率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백산",
+    "translation": "Байкул уул",
+    "hanja": "白山",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "백상아리",
+    "translation": "цагаан махчин загас",
+    "hanja": "白상어",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백서",
+    "translation": "цагаан ном",
+    "hanja": "白書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백설기",
+    "translation": "цагаан будааны бялуу",
+    "hanja": "백설기",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백설탕",
+    "translation": "цагаан сахар",
+    "hanja": "白雪糖",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "백송",
+    "translation": "цагаан нарс",
+    "hanja": "白松",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "백숙",
+    "translation": "буцалгасан тахиа",
+    "hanja": "白熟",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "백스",
+    "translation": "Вакс (үсэнд хэрэглэдэг)",
+    "hanja": "백스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "백스터",
+    "translation": "Бакстер",
+    "hanja": "백스터",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "백스테이지",
+    "translation": "тайзны ард",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백스페이스",
+    "translation": "backspace (товч)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "백신",
+    "translation": "вакцин",
+    "hanja": "백신",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "백아",
+    "translation": "цагаан хөвгүүд",
+    "hanja": "白鵝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "백악",
+    "translation": "Цагаан шохой",
+    "hanja": "白堊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "백암",
+    "translation": "Баегам",
+    "hanja": "白巖",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백약",
+    "translation": "бүх төрлийн эм",
+    "hanja": "百藥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백업",
+    "translation": "нөөцлөх",
+    "hanja": "백업",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "백업하다",
+    "translation": "нөөцлөх",
+    "hanja": "back-up (외래어)",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백열",
+    "translation": "цагаан гэрэлтүүлэг",
+    "hanja": "白熱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백열등",
+    "translation": "улайсгасан чийдэн",
+    "hanja": "백열등(白熱燈)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백열전구",
+    "translation": "улайсгасан чийдэн",
+    "hanja": "白熱電球",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "백옥",
+    "translation": "цагаан хаш",
+    "hanja": "白玉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백우",
+    "translation": "цагаан үхэр",
+    "hanja": "白牛",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "백운",
+    "translation": "цагаан үүл",
+    "hanja": "白雲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백워드",
+    "translation": "хойшоо",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백유",
+    "translation": "Цагаан тос",
+    "hanja": "白油",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백의",
+    "translation": "Цагаан хувцас, энгийн хувцас",
+    "hanja": "白衣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백의민족",
+    "translation": "Цагаан хувцаст үндэстэн (Солонгосыг нэрлэх)",
+    "hanja": "白衣民族",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백의종군하다",
+    "translation": "Цагаан хувцастай цэрэг болж алба хаах",
+    "hanja": "白衣從軍하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백일몽",
+    "translation": "зүүдэн дундах мөрөөдөл",
+    "hanja": "白日夢",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백일잔치",
+    "translation": "хүүхдийн 100 хоногийн ой",
+    "hanja": "百日잔치",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백일홍",
+    "translation": "үхрийн нүд",
+    "hanja": "百日紅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백전노장",
+    "translation": "олон тулаанд оролцсон ахмад дайчин",
+    "hanja": "百戰老將",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백주",
+    "translation": "өдөр, өдрийн цагаар",
+    "hanja": "白晝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백중날",
+    "translation": "Бэгжон (долоодугаар сарын 15-ны өдөр)",
+    "hanja": "百中날",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "백지상태",
+    "translation": "хоосон хуудас байдал",
+    "hanja": "白紙狀態",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "백지장",
+    "translation": "цагаан цаас",
+    "hanja": "白紙張",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백지화",
+    "translation": "цагаан хуудас болгох",
+    "hanja": "白紙化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백지화되다",
+    "translation": "цагаан хуудас болох, хоосон болох",
+    "hanja": "白紙化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백지화하다",
+    "translation": "хүчингүй болгох",
+    "hanja": "白紙化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백척간두",
+    "translation": "гэнэтийн аюул",
+    "hanja": "百尺竿頭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "백코트",
+    "translation": "хамгаалалтын шугам",
+    "hanja": "back court",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백토",
+    "translation": "цагаан шавар",
+    "hanja": "白土",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백패커",
+    "translation": "Үүргэвчтэй аялагч",
+    "hanja": "Backpacker",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백패킹",
+    "translation": "рюкзактай аялал",
+    "hanja": "backpacking",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "백팩",
+    "translation": "рюкзак",
+    "hanja": "backpack",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "백해무익",
+    "translation": "олон талын хортой, ашиггүй",
+    "hanja": "百害無益",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백해무익하다",
+    "translation": "бүрэн хортой",
+    "hanja": "百害無益하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백향목",
+    "translation": "хуш мод",
+    "hanja": "白香木",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백현",
+    "translation": "Бэкхён (хүний нэр)",
+    "hanja": "伯賢",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "백혈구",
+    "translation": "Цагаан эс",
+    "hanja": "白血球",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "백혈병",
+    "translation": "Цусны цагаан эсийн хорт хавдар",
+    "hanja": "白血病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백화",
+    "translation": "цагаан цэцэг, цагаан өнгө",
+    "hanja": "白花/白化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백화원",
+    "translation": "цэцэрлэгт хүрээлэн",
+    "hanja": "百花園",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백화점",
+    "translation": "их дэлгүүр",
+    "hanja": "百貨店",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "백흑",
+    "translation": "хар ба цагаан",
+    "hanja": "白黑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백희",
+    "translation": "Баэхи (нэр)",
+    "hanja": "白姬",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "백히다",
+    "translation": "(Хоол) хийсэн байна",
+    "hanja": "백히다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

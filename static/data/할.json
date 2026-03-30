@@ -1,0 +1,534 @@
+[
+  {
+    "word": "할",
+    "translation": "Хийх, болгох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "할다",
+    "translation": "долоох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "할당",
+    "translation": "Хуваарилалт",
+    "hanja": "割當",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "할당되다",
+    "translation": "хуваарилагдах",
+    "hanja": "割當되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "할당량",
+    "translation": "хуваарь",
+    "hanja": "割當量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "할당제",
+    "translation": "хуваарилалтын систем",
+    "hanja": "割當制",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "할당하다",
+    "translation": "хуваарилах",
+    "hanja": "割當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "할딱거리다",
+    "translation": "амьсгаадах, хүндээр амьсгалах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "할라페뇨",
+    "translation": "халапеньо",
+    "hanja": "Jalapeño",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "할라피뇨",
+    "translation": "халапеньо",
+    "hanja": "할라피뇨",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "할란",
+    "translation": "харан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "할랄",
+    "translation": "Халал (исламын хуульд нийцсэн)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "할랑",
+    "translation": "хоосон",
+    "hanja": "할랑",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "할러",
+    "translation": "Халлер",
+    "hanja": "할러",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "할레",
+    "translation": "Галле",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "할렐루야",
+    "translation": "Аллилуйя",
+    "hanja": "---",
+    "pos": "exclamation",
+    "cefr": "C1"
+  },
+  {
+    "word": "할렘",
+    "translation": "Харлем",
+    "hanja": "―",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "할례",
+    "translation": "хөвч хөндөх",
+    "hanja": "割禮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "할로",
+    "translation": "сальмонеллез",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "할로겐",
+    "translation": "галоген",
+    "hanja": "할로겐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "할로윈",
+    "translation": "Халлоуин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "할리",
+    "translation": "Харли",
+    "hanja": "할리",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "할리다",
+    "translation": "хүндэтгэгдэх (хуучирсан)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "할리우드",
+    "translation": "Холливуд",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "할리퀸",
+    "translation": "Харлекин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "할마시",
+    "translation": "Эмээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "할마씨",
+    "translation": "Өндөр настан эмэгтэй, эмээ",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "할마이",
+    "translation": "эмээ (аялга)",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "할만",
+    "translation": "хийж болох",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "할망",
+    "translation": "эмээ",
+    "hanja": "할망",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "할망구",
+    "translation": "Хөгшин эмгэн (доод)",
+    "hanja": "할망구",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "할매",
+    "translation": "эмээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "할머니",
+    "translation": "эмээ",
+    "hanja": "할머니",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "할머님",
+    "translation": "Эмээ",
+    "hanja": "할머님",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "할멈",
+    "translation": "өгөөмөр",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "할무니",
+    "translation": "Эмээ (хоч)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "할무이",
+    "translation": "Эмээ (үглэгч)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "할미",
+    "translation": "эмээ",
+    "hanja": "할미",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "할미꽃",
+    "translation": "буйлс цэцэг",
+    "hanja": "할미꽃",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "할바마마",
+    "translation": "эмээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "할방구",
+    "translation": "хуучин өвгөн",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "할배",
+    "translation": "өвөө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "할복",
+    "translation": "хара-кири",
+    "hanja": "割腹",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "할복하다",
+    "translation": "гэдэс зүсэх, харакири хийх",
+    "hanja": "割腹하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "할부",
+    "translation": "хэсэгчлэн төлөх",
+    "hanja": "割賦",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "할부금",
+    "translation": "хэсэгчилсэн төлбөр",
+    "hanja": "割賦金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "할부하다",
+    "translation": "хэсэгчлэн төлөх",
+    "hanja": "割賦하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "할비",
+    "translation": "хөгшин эрэгтэй",
+    "hanja": "할비",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "할스",
+    "translation": "Халс",
+    "hanja": null,
+    "pos": "인명",
+    "cefr": "B2"
+  },
+  {
+    "word": "할아버님",
+    "translation": "өвөө",
+    "hanja": " grandparents",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "할아버이",
+    "translation": "өвөө",
+    "hanja": "할아버이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "할아버지",
+    "translation": "өвөө",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "할아범",
+    "translation": "хөгшин өвгөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "할아비",
+    "translation": "өвөө",
+    "hanja": "할아비",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "할애",
+    "translation": "хуваарилах, зориулах",
+    "hanja": "割愛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "할애되다",
+    "translation": "хуваарилагдах",
+    "hanja": "割愛되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "할애비",
+    "translation": "өвөө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "할애하다",
+    "translation": "Зориулах",
+    "hanja": "割愛하다",
+    "pos": "үйл үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "할양하다",
+    "translation": "шилжүүлэх, бусдад өгөх",
+    "hanja": "割讓하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "할인",
+    "translation": "хямдрал",
+    "hanja": "割引",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "할인되다",
+    "translation": "хөнгөлөгдөх",
+    "hanja": "割引되다",
+    "pos": "үйл",
+    "cefr": "A2"
+  },
+  {
+    "word": "할인율",
+    "translation": "хөнгөлөлтийн хувь",
+    "hanja": "割引率",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "할인점",
+    "translation": "хямдралтай дэлгүүр",
+    "hanja": "割引店",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "할인하다",
+    "translation": "Хямдруулах",
+    "hanja": "割引하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "할주",
+    "translation": "гулгах",
+    "hanja": "滑走",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "할증",
+    "translation": "нэмэгдсэн хувь",
+    "hanja": "割增",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "할증되다",
+    "translation": "нэмэгдэх, илүү үнээр орох",
+    "hanja": "割增되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "할증료",
+    "translation": "нэмэгдсэн хураамж, нэмэлт төлбөр",
+    "hanja": "割增料",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "할짝",
+    "translation": "шал шал (дуу)",
+    "hanja": "null",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "할짝거리다",
+    "translation": "Долоох, хэлээрээ долоох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "할짝할짝",
+    "translation": "Долоох, шаржигнуулах (хэлээрээ)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "할퀴다",
+    "translation": "Маажих",
+    "hanja": "할퀴다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "할키다",
+    "translation": "маш их уурлах, занах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "할트다",
+    "translation": "сэтлэх",
+    "hanja": "할트다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "할티다",
+    "translation": "Халтлах, мултрах (жаргал)",
+    "hanja": "할티다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "할피다",
+    "translation": "хуулах",
+    "hanja": "剝皮다",
+    "pos": "Verb",
+    "cefr": "C1"
+  }
+]

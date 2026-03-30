@@ -1,0 +1,331 @@
+[
+  {
+    "word": "활",
+    "translation": "нум",
+    "hanja": "弓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "활강",
+    "translation": "гулгах, уруудах",
+    "hanja": "滑降",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활강하다",
+    "translation": "гулгах",
+    "hanja": "滑降하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "활개",
+    "translation": "дэрвэгэр",
+    "hanja": "활개",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "활공",
+    "translation": "гулсах, нисэх (агаарт)",
+    "hanja": "滑空",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활공하다",
+    "translation": "гулгах, бүлтгэнэх",
+    "hanja": "滑空하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활극",
+    "translation": "тулаант кино",
+    "hanja": "活劇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활기",
+    "translation": "эрч хүч, идэвх",
+    "hanja": "活氣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "활기차다",
+    "translation": "амьд",
+    "hanja": "活氣차다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활달하다",
+    "translation": "өргөн сэтгэлтэй",
+    "hanja": "闊達하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활동",
+    "translation": "үйл ажиллагаа",
+    "hanja": "活動",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "활동가",
+    "translation": "идэвхтэн",
+    "hanja": "活動家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활동력",
+    "translation": "идэвхтэй байдал, үйл ажиллагааны чадвар",
+    "hanja": "活動力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활동비",
+    "translation": "үйл ажиллагааны зардал",
+    "hanja": "活動費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활동성",
+    "translation": "Идэвхтэй байдал",
+    "hanja": "活動性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활동적",
+    "translation": "идэвхтэй",
+    "hanja": "活動的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "활동하다",
+    "translation": "идэвхтэй байх",
+    "hanja": "活動-",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "활력",
+    "translation": "эрч хүч",
+    "hanja": "活力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활력소",
+    "translation": "түн",
+    "hanja": "活力素",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "활로",
+    "translation": "амь гарах зам",
+    "hanja": "活路",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "활발하다",
+    "translation": "идэвхтэй, сэргэлэн",
+    "hanja": "活潑하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "활발히",
+    "translation": "идэвхтэй",
+    "hanja": "活潑히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "활보",
+    "translation": "том том алхах",
+    "hanja": "闊步",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활보하다",
+    "translation": "алхах",
+    "hanja": "闊步하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활석",
+    "translation": "тальк",
+    "hanja": "滑石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활성",
+    "translation": "идэвхтэй",
+    "hanja": "活性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활성화",
+    "translation": "идэвхжүүлэх",
+    "hanja": "活性化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활성화되다",
+    "translation": "идэвхжих",
+    "hanja": "活性化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활성화하다",
+    "translation": "идэвхжүүлэх",
+    "hanja": "活性化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활시위",
+    "translation": "нумын хөвч",
+    "hanja": "활시위",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활쏘기",
+    "translation": "нум сум харвах",
+    "hanja": "활쏘기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "활약",
+    "translation": "идэвхтэй ажиллагаа",
+    "hanja": "活躍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활약상",
+    "translation": "Үйл ажиллагаа",
+    "hanja": "活躍像",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "활약하다",
+    "translation": "Идэвхтэй оролцох",
+    "hanja": "活躍하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "활어",
+    "translation": "амьд загас",
+    "hanja": "活魚",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "활엽수",
+    "translation": "өргөн навчит мод",
+    "hanja": "闊葉樹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활옷",
+    "translation": "хуримны хувцас",
+    "hanja": "闊옷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활용",
+    "translation": "ашиглах",
+    "hanja": "活用",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "활용되다",
+    "translation": "Ашиглагдах",
+    "hanja": "活用되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활용하다",
+    "translation": "ашиглах, хэрэглэх",
+    "hanja": "活用하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활자",
+    "translation": "Хэвлэлийн үсэг",
+    "hanja": "活字",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "활주",
+    "translation": "Гулин гулгах",
+    "hanja": "滑走",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "활주로",
+    "translation": "Хурдны зам",
+    "hanja": "滑走路",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "활주하다",
+    "translation": "Гулах",
+    "hanja": "滑走하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "활짝",
+    "translation": "бүхэлдээ",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "활판",
+    "translation": "Хэвлэх машин, хэвлэлийн өрлөг",
+    "hanja": "活版",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "활황",
+    "translation": "Цэцэглэлт",
+    "hanja": "活況",
+    "pos": "Noun",
+    "cefr": "C1"
+  }
+]

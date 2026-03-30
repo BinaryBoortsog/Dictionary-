@@ -1,0 +1,324 @@
+[
+  {
+    "word": "견",
+    "translation": "мөр, нохой",
+    "hanja": "肩",
+    "pos": "n",
+    "cefr": "A2"
+  },
+  {
+    "word": "견갑",
+    "translation": "мөрний ир, дал",
+    "hanja": "肩甲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "견갑골",
+    "translation": "далны яс",
+    "hanja": "肩胛骨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "견강부회",
+    "translation": "Арга ядмаг тайлбар, зохиомол тайлбар",
+    "hanja": "牽強附會",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "견고",
+    "translation": "бат бөх",
+    "hanja": "堅固",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견고하다",
+    "translation": "Бат бөх",
+    "hanja": "堅固하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "견고히",
+    "translation": "бат бөх",
+    "hanja": "堅固히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "견공",
+    "translation": "Хүндэт нохой",
+    "hanja": "犬公",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "견과류",
+    "translation": "самрын төрөл",
+    "hanja": "堅果類",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "견디다",
+    "translation": "тэсвэрлэх",
+    "hanja": "견디다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "견문",
+    "translation": "үзэж сонсох",
+    "hanja": "見聞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견물생심",
+    "translation": "харсан зүйлээ хүсэх",
+    "hanja": "見物生心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "견본",
+    "translation": "загвар",
+    "hanja": "見本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견본품",
+    "translation": "загвар",
+    "hanja": "見本品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견사",
+    "translation": "торгоны утсан",
+    "hanja": "絹絲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "견성",
+    "translation": "мөн чанараа ойлгох, гэгээрэлд хүрэх",
+    "hanja": "見性",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "견성하다",
+    "translation": "бурханы мөн чанарыг ойлгох",
+    "hanja": "見性하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "견습",
+    "translation": "дадлагажигч",
+    "hanja": "見習",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "견식",
+    "translation": "ойлголт",
+    "hanja": "見識",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "견실하다",
+    "translation": "бат бөх, тогтвортой",
+    "hanja": "堅實하다",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "견우",
+    "translation": "Адуучин одон",
+    "hanja": "牽牛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "견원지간",
+    "translation": "Үхэр нохой шиг дайсан",
+    "hanja": "犬猿之間",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "견인",
+    "translation": "Чирэх, зүтгүүр",
+    "hanja": "牽引",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견인되다",
+    "translation": "чирэгдэх",
+    "hanja": "牽引되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "견인차",
+    "translation": "чирэх машин",
+    "hanja": "牽引車",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "견인하다",
+    "translation": "чирэх, татах",
+    "hanja": "牽引하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "견자",
+    "translation": "хөлдсөн хүүхэд",
+    "hanja": "見者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "견장",
+    "translation": "мөрний тэмдэг",
+    "hanja": "肩章",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견적",
+    "translation": "үнэлгээ, тооцоо",
+    "hanja": "見積",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견적서",
+    "translation": "үнэлгээний хуудас",
+    "hanja": "見積書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견제",
+    "translation": "хяналт, зохицуулалт",
+    "hanja": "牽制",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견제되다",
+    "translation": "түгжигдэх, хянамж хийгдэх",
+    "hanja": "牽制되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견제하다",
+    "translation": "Хянах, хязгаарлах",
+    "hanja": "牽制하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "견조하다",
+    "translation": "бат бөх байх",
+    "hanja": "堅調하다",
+    "pos": "тэмдэг нэр",
+    "cefr": "C1"
+  },
+  {
+    "word": "견종",
+    "translation": "нохойн үүлдэр",
+    "hanja": "犬種",
+    "pos": "м.н",
+    "cefr": "B2"
+  },
+  {
+    "word": "견주",
+    "translation": "эзэн",
+    "hanja": "犬主",
+    "pos": "м.н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "견주다",
+    "translation": "харьцуулах, жиших",
+    "hanja": "견주다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견지",
+    "translation": "хандлага",
+    "hanja": "見地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견지하다",
+    "translation": "баримтлах",
+    "hanja": "堅持하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "견착하다",
+    "translation": "мөрөн дээр тавих",
+    "hanja": "肩着하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견책",
+    "translation": "зэмлэх, буруушаах",
+    "hanja": "譴責",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "견학",
+    "translation": "суралцах аялал",
+    "hanja": "見學",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "견학하다",
+    "translation": "боловсролын аялал хийх",
+    "hanja": "見學하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "견해",
+    "translation": "Үзэл бодол, дүгнэлт",
+    "hanja": "見解",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견해차",
+    "translation": "Үзэл бодлын ялгаа, санал зөрөлдөөн",
+    "hanja": "見解差",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "견훤",
+    "translation": "Гёнхвон (нэр)",
+    "hanja": "甄萱",
+    "pos": "명사",
+    "cefr": "A2"
+  }
+]

@@ -1,0 +1,2578 @@
+[
+  {
+    "word": "재",
+    "translation": "эр, үнс",
+    "hanja": "灰",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "재가",
+    "translation": "дахин гэрлэх",
+    "hanja": "再嫁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재가공하다",
+    "translation": "дахин боловсруулах",
+    "hanja": "再加工하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재가동되다",
+    "translation": "дахин эхлүүлэх",
+    "hanja": "再稼動되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재가동하다",
+    "translation": "Дахин эхлүүлэх",
+    "hanja": "再稼動하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재가입하다",
+    "translation": "дахин элсэх",
+    "hanja": "再加入하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재가하다",
+    "translation": "Зөвшөөрөх",
+    "hanja": "裁可하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재간",
+    "translation": "авьяас",
+    "hanja": "才幹",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재갈",
+    "translation": "Амарт",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재감염되다",
+    "translation": "재감염되다",
+    "hanja": "再感染되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재강",
+    "translation": "дахин ярих",
+    "hanja": "再講",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재강조하다",
+    "translation": "дахин онцлох",
+    "hanja": "再強調하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재개",
+    "translation": "Дахин эхлэх",
+    "hanja": "再開",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재개관하다",
+    "translation": "дахин нээх (барилга)",
+    "hanja": "再開館하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재개되다",
+    "translation": "дахин эхлэх",
+    "hanja": "再開되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재개발",
+    "translation": "дахин хөгжүүлэх",
+    "hanja": "再開發",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재개발되다",
+    "translation": "дахин хөгжих",
+    "hanja": "再開發되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재개발하다",
+    "translation": "Дахин хөгжүүлэх",
+    "hanja": "再開發하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재개방하다",
+    "translation": "дахин нээх",
+    "hanja": "再開放하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재개봉되다",
+    "translation": "дахин нээгдэх",
+    "hanja": "再開封되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재개봉하다",
+    "translation": "Дахин нээх",
+    "hanja": "再開封하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재개장하다",
+    "translation": "дахин нээх",
+    "hanja": "再開場하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재개하다",
+    "translation": "дахин эхлүүлэх",
+    "hanja": "再開하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재거",
+    "translation": "дахин бодох, эргэн харах",
+    "hanja": "再居",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재건",
+    "translation": "сэргээн босголт",
+    "hanja": "再建",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "재건되다",
+    "translation": "дахин босох",
+    "hanja": "再建되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재건축",
+    "translation": "Дахин барилгажих",
+    "hanja": "再建築",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재건축되다",
+    "translation": "дахин баригдах",
+    "hanja": "再建築되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재건축하다",
+    "translation": "дахин барих",
+    "hanja": "再建築하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재건하다",
+    "translation": "Дахин барих, сэргээн босгох",
+    "hanja": "再建하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재검",
+    "translation": "Дахин шалгах",
+    "hanja": "再檢",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재검사",
+    "translation": "нэмэлт шалгалт",
+    "hanja": "再檢査",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재검사하다",
+    "translation": "дахин шалгах",
+    "hanja": "再檢査하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재검색하다",
+    "translation": "дахин хайх",
+    "hanja": "再檢索하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재검증하다",
+    "translation": "дахин шалгах, дахин батлах",
+    "hanja": "再檢證하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재검토",
+    "translation": "дахин хянах",
+    "hanja": "再檢討",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재검토되다",
+    "translation": "дахин хянах",
+    "hanja": "再檢討되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재검토하다",
+    "translation": "дахин хянах",
+    "hanja": "再檢討하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재결성하다",
+    "translation": "дахин байгуулах",
+    "hanja": "再結成하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재결합",
+    "translation": "дахин нэгдэх",
+    "hanja": "再結合",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재결합하다",
+    "translation": "дахин нэгдэх, эргэн нийлэх",
+    "hanja": "再結合하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재계",
+    "translation": "бизнесийн хэсэг",
+    "hanja": "財界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재계약",
+    "translation": "Гэрээгээ сунгах",
+    "hanja": "再契約",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재계약하다",
+    "translation": "гэрээгээ сунгах",
+    "hanja": "再契約하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재고량",
+    "translation": "재고량",
+    "hanja": "在庫量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재고품",
+    "translation": "нөөц бараа",
+    "hanja": "在庫品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재고하다",
+    "translation": "дахин бодох",
+    "hanja": "再考-",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재관",
+    "translation": "Жэа-гван",
+    "hanja": "在官",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "재교육",
+    "translation": "Дахин сургах",
+    "hanja": "再敎育",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재교육하다",
+    "translation": "дахин сургах",
+    "hanja": "再敎育하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재구",
+    "translation": "дахин бөглөх",
+    "hanja": "再構",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재구매하다",
+    "translation": "дахин худалдан авах",
+    "hanja": "再購買하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "재구성",
+    "translation": "дахин зохион байгуулах",
+    "hanja": "再構成",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재구성하다",
+    "translation": "дахин зохион байгуулах",
+    "hanja": "再構成하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재구속되다",
+    "translation": "дахин баривчлагдах",
+    "hanja": "再拘束되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재구축하다",
+    "translation": "дахин байгуулах / дахин сэргээх",
+    "hanja": "再構築하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재국",
+    "translation": "Эзэнт гүрэн",
+    "hanja": "帝國",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "재귀",
+    "translation": "буцаж ирэх, дахин ирэх",
+    "hanja": "再歸",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "재규어",
+    "translation": "Ягуар (амьтан)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "재근",
+    "translation": "Жэ гын",
+    "hanja": "栽根",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재기되다",
+    "translation": "재기되다 (다시 시작되다)",
+    "hanja": "再起되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재기하다",
+    "translation": "дахин эхлэх",
+    "hanja": "再起하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재깍",
+    "translation": "Тэр даруй",
+    "hanja": null,
+    "pos": "Adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "재깍재깍",
+    "translation": "таг таг",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재끼다",
+    "translation": "зайлуулах, огцруулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재난",
+    "translation": "гамшиг",
+    "hanja": "재난(災難)",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "재녀",
+    "translation": "Авьяастай эмэгтэй",
+    "hanja": "才女",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "재논의하다",
+    "translation": "дахин хэлэлцэх",
+    "hanja": "再論議하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재능",
+    "translation": "авъяас",
+    "hanja": "才能",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "재다",
+    "translation": "хэмжих",
+    "hanja": "No Hanja",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "재단",
+    "translation": "сан",
+    "hanja": "財團",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재단되다",
+    "translation": "хайчлагдсан",
+    "hanja": "裁斷되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재단장하다",
+    "translation": "дахин засварлах",
+    "hanja": "再檀粧하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재단하다",
+    "translation": "тайрах, хайчлах",
+    "hanja": "裁斷하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재대결하다",
+    "translation": "Дахин тулалдах",
+    "hanja": "再對決하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재덕",
+    "translation": "Эрдэм чадал",
+    "hanja": "才德",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재도약하다",
+    "translation": "Дахин үсрэх",
+    "hanja": "再跳躍하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재도전하다",
+    "translation": "дахин сорих",
+    "hanja": "再挑戰하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재독",
+    "translation": "дахин унших",
+    "hanja": "再讀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재동",
+    "translation": "дахин хөдөлгөөн",
+    "hanja": "再動",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "재등록",
+    "translation": "дахин бүртгэл",
+    "hanja": "再登錄",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재떨이",
+    "translation": "үлдэгдэл",
+    "hanja": null,
+    "pos": "мüns",
+    "cefr": "A2"
+  },
+  {
+    "word": "재래시장",
+    "translation": "Уламжлалт зах",
+    "hanja": "在來市場",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "재래식",
+    "translation": "Уламжлалт, хуучин загварын",
+    "hanja": "在來式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재래종",
+    "translation": "уламжлалт үүлдрийн",
+    "hanja": "在來種",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재량",
+    "translation": "Эрх мэдэл, дураар шийдэх эрх",
+    "hanja": "裁量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재량권",
+    "translation": "үзэмжийн эрх",
+    "hanja": "裁量權",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "재량껏",
+    "translation": "өөрөө хүссэнээрээ",
+    "hanja": "裁量껏",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재러",
+    "translation": "Орост",
+    "hanja": "在露",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재력",
+    "translation": "баялаг, хөрөнгө",
+    "hanja": "財力",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재력가",
+    "translation": "чинээлэг хүн",
+    "hanja": "財力家",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "재련",
+    "translation": "дахин цэвэршүүлэх",
+    "hanja": "再鍊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재령",
+    "translation": "Жарён",
+    "hanja": "載寧",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재로",
+    "translation": "үлдэгдэл",
+    "hanja": "제로",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재론",
+    "translation": "Дахин хэлэлцэх",
+    "hanja": "再論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재롱",
+    "translation": "Эрхлэх",
+    "hanja": "才弄",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "재롱떨다",
+    "translation": "хөөрхөн ааш гаргах",
+    "hanja": "재롱떨다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재롱부리다",
+    "translation": "хөгжилтэй байх",
+    "hanja": "才弄부리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재료",
+    "translation": "орц, материал",
+    "hanja": "材料",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "재룟값",
+    "translation": "материалын үнэ",
+    "hanja": "材料값",
+    "pos": "명",
+    "cefr": "B2"
+  },
+  {
+    "word": "재림",
+    "translation": "дахин ирэх (бурхан)",
+    "hanja": "再臨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재림하다",
+    "translation": "дахин ирэх",
+    "hanja": "再臨하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재명",
+    "translation": "дахин томилох",
+    "hanja": "再命",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재모",
+    "translation": "дахин дуудах",
+    "hanja": "再募",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "재목",
+    "translation": "барилгын материал",
+    "hanja": "材木",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재무",
+    "translation": "Санхүү",
+    "hanja": "財務",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재문",
+    "translation": "Дахин асуух",
+    "hanja": "再問",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재물",
+    "translation": "Эд хөрөнгө",
+    "hanja": "財物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재미",
+    "translation": "сонирхолтой",
+    "hanja": "재미",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "재미나다",
+    "translation": "сонирхолтой",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "재미없다",
+    "translation": "сонирхолгүй",
+    "hanja": "재미없다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "재미있다",
+    "translation": "сонирхолтой",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "A1"
+  },
+  {
+    "word": "재미지다",
+    "translation": "сонирхолтой",
+    "hanja": "재미지다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재밋거리",
+    "translation": "сонирхолтой зүйл",
+    "hanja": "재밋거리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재밌다",
+    "translation": "сонирхолтой",
+    "hanja": "재밌다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "재밍",
+    "translation": "дарах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재바르다",
+    "translation": "хурдан шаламгай",
+    "hanja": "ㅡ",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재반",
+    "translation": "Дахин, ахин",
+    "hanja": "再反",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재반박하다",
+    "translation": "Дахин няцаах",
+    "hanja": "再反駁하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재발",
+    "translation": "Дахин гарах",
+    "hanja": "再發",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재발견",
+    "translation": "дахин нээлт",
+    "hanja": "再發見",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재발견되다",
+    "translation": "дахин нээгдэх",
+    "hanja": "再發見되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재발견하다",
+    "translation": "дахин нээх",
+    "hanja": "再發見하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재발급하다",
+    "translation": "дахин олгох",
+    "hanja": "再發給하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재발되다",
+    "translation": "дахин давтагдах",
+    "hanja": "再發되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재발매되다",
+    "translation": "Дахин худалдаанд гарах",
+    "hanja": "再發賣되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재발매하다",
+    "translation": "дахин хэвлэн гаргах",
+    "hanja": "再發賣하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재발하다",
+    "translation": "Дахин давтагдах",
+    "hanja": "再發하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재방",
+    "translation": "Дахин нэвтрүүлэг",
+    "hanja": "再放",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재방문하다",
+    "translation": "дахин зочлох",
+    "hanja": "再訪問하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재방송",
+    "translation": "дахин нэвтрүүлэг",
+    "hanja": "再放送",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재방송하다",
+    "translation": "давтан нэвтрүүлэг хийх",
+    "hanja": "再放送하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "재배",
+    "translation": "тариалалт, ургуулах",
+    "hanja": "栽培",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재배당되다",
+    "translation": "дахин хуваарилагдах",
+    "hanja": "再配當되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재배당하다",
+    "translation": "Дахин хуваарилах",
+    "hanja": "再配當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재배되다",
+    "translation": "тариалагдах, ургуулагдах",
+    "hanja": "栽培되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재배지",
+    "translation": "тариалангийн талбай",
+    "hanja": "栽培地",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재배치되다",
+    "translation": "дахин хуваарилагдах",
+    "hanja": "再配置되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재배치하다",
+    "translation": "дахин байрлуулах",
+    "hanja": "再配置하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재배하다",
+    "translation": "тариалах, ургуулах",
+    "hanja": "栽培하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재벌",
+    "translation": "чебол",
+    "hanja": "財閥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재벌가",
+    "translation": "чеболийн гэр бүл",
+    "hanja": "財閥家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재범하다",
+    "translation": "дахин гэмт хэрэг үйлдэх",
+    "hanja": "再犯하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재복",
+    "translation": "Баян, хөрөнгөтэй",
+    "hanja": "財福",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재봉",
+    "translation": "оёх",
+    "hanja": "裁縫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재봉사",
+    "translation": "Оёдолчин",
+    "hanja": "裁縫師",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재봉틀",
+    "translation": "Оёдлын машин",
+    "hanja": "裁縫틀",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "재봉하다",
+    "translation": "Оёх",
+    "hanja": "裁縫하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재부팅되다",
+    "translation": "дахин ачаалагдах",
+    "hanja": "再부팅되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재분류",
+    "translation": "дахин ангилах",
+    "hanja": "再分類",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재분류되다",
+    "translation": "дахин ангилагдах",
+    "hanja": "再分類되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재분류하다",
+    "translation": "дахин ангилах",
+    "hanja": "再分類하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재분배",
+    "translation": "дахин хуваарилах",
+    "hanja": "再分配",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "재분배하다",
+    "translation": "дахин хуваарилах",
+    "hanja": "再分配하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재불",
+    "translation": "Францад амьдрах",
+    "hanja": "在佛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재블린",
+    "translation": "Жавелин",
+    "hanja": "재블린",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재빠르다",
+    "translation": "Түргэн, хурдан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재빨리",
+    "translation": "хурдан шуурхай",
+    "hanja": "재빨리",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "재사용하다",
+    "translation": "дахин ашиглах",
+    "hanja": "再使用하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재산",
+    "translation": "өрөнгө, хөрөнгө",
+    "hanja": "財産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재산권",
+    "translation": "өрөнгийн эрх",
+    "hanja": "財産權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재산세",
+    "translation": "Үл хөдлөх хөрөнгийн татвар",
+    "hanja": "財産稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재삼",
+    "translation": "дахин дахин",
+    "hanja": "再三",
+    "pos": "ADV",
+    "cefr": "C2"
+  },
+  {
+    "word": "재상",
+    "translation": "канцлер",
+    "hanja": "宰相",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "재색",
+    "translation": "авьяас чадвар ба гоо үзэсгэлэн",
+    "hanja": "才色",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재생",
+    "translation": "Дахин ашиглах, сэргээх",
+    "hanja": "再生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재생되다",
+    "translation": "дахин тоглогдох, нөхөн сэргээгдэх",
+    "hanja": "再生되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재생산",
+    "translation": "дахин үйлдвэрлэл",
+    "hanja": "再生産",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "재생산되다",
+    "translation": "дахин үйлдвэрлэгдэх",
+    "hanja": "再生産-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재생산하다",
+    "translation": "дахин үйлдвэрлэх, нөхөн үржих",
+    "hanja": "再生産하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재생하다",
+    "translation": "дахин тоглуулах",
+    "hanja": "再生하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재석",
+    "translation": "Жэ-Сок (эрэгтэй нэр)",
+    "hanja": "在席",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "재선",
+    "translation": "дахин сонгох",
+    "hanja": "再選",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재선거",
+    "translation": "дахин сонгууль",
+    "hanja": "再選擧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재선되다",
+    "translation": "дахин сонгогдох",
+    "hanja": "再選되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재선충병",
+    "translation": "модны эмгэг",
+    "hanja": "材線蟲病",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재선하다",
+    "translation": "дахин сонгох",
+    "hanja": "再選하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재설계하다",
+    "translation": "дахин зураг төсөл гаргах",
+    "hanja": "再設計하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재설정되다",
+    "translation": "дахин тохируулагдах",
+    "hanja": "再設定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재설정하다",
+    "translation": "дахин тохируулах",
+    "hanja": "再設定하다",
+    "pos": "동사",
+    "cefr": null
+  },
+  {
+    "word": "재소",
+    "translation": "хоёр дахь удаагаа шүүхэд зарга мэдүүлэх",
+    "hanja": "再訴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재소자",
+    "translation": "хоригдол",
+    "hanja": "再所者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재소하다",
+    "translation": "дахин гомдол гаргах",
+    "hanja": "再訴하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재송",
+    "translation": "дахин илгээх",
+    "hanja": "再送",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재수",
+    "translation": "аз",
+    "hanja": "재수",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "재수감되다",
+    "translation": "дахин хоригдох",
+    "hanja": "再收監되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재수강",
+    "translation": "дахин сурах",
+    "hanja": "再受講",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재수강하다",
+    "translation": "хичээлээ дахин авах",
+    "hanja": "再受講하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재수사",
+    "translation": "Дахин мөрдөн байцаах",
+    "hanja": "再搜査",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재수사하다",
+    "translation": "Дахин мөрдөн шалгах",
+    "hanja": "再搜査하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재수생",
+    "translation": "дахин сурах оюутан (их сургуулийн шалгалтад дахин бэлдэж буй)",
+    "hanja": "再修生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재수술하다",
+    "translation": "дахин мэс засал хийх",
+    "hanja": "再手術하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재수출하다",
+    "translation": "дахин экспортлох",
+    "hanja": "再輸出하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재수하다",
+    "translation": "дахин сурах",
+    "hanja": "再修하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재숙",
+    "translation": "дахин хоноглох",
+    "hanja": "再宿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재스민",
+    "translation": "жасмины",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재승",
+    "translation": "дахин ялалт",
+    "hanja": "再勝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재시",
+    "translation": "дахин үзэх, дахин өгөх",
+    "hanja": "再試",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재시공하다",
+    "translation": "дахин барих",
+    "hanja": "再施工하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재시험",
+    "translation": "дахин шалгалт",
+    "hanja": "再試驗",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재식",
+    "translation": "Дахин тарих, дахин суулгах",
+    "hanja": "再植",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "재신임하다",
+    "translation": "итгэлийг дахин хүлээлгэх",
+    "hanja": "再信任하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재신청하다",
+    "translation": "дахин өргөдөл гаргах",
+    "hanja": "再申請하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재실",
+    "translation": "онцгой өрөө",
+    "hanja": "齋室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재심",
+    "translation": "дахин хэлэлцэх, дахин үзэх",
+    "hanja": "再審",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재심사",
+    "translation": "дахин хянах",
+    "hanja": "再審査",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재심의하다",
+    "translation": "дахин хэлэлцэх",
+    "hanja": "再審議하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재심하다",
+    "translation": "дахин хянах, дахин шалгах",
+    "hanja": "再審-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재앙",
+    "translation": "Гамшиг",
+    "hanja": "災殃",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "재액",
+    "translation": "гамшиг",
+    "hanja": "災厄",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "재언",
+    "translation": "дахин хэлэх",
+    "hanja": "再言",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재연되다",
+    "translation": "дахин тоглох, дахин үзүүлэгдэх",
+    "hanja": "再演되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재연하다",
+    "translation": "дахин үзүүлэх, дахин тоглуулах",
+    "hanja": "再演하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재완",
+    "translation": "Дахин хийх",
+    "hanja": "再完",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "재외",
+    "translation": "гадна, гадаадад",
+    "hanja": "在外",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재우다",
+    "translation": "унтаад өгөх",
+    "hanja": "재우다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "재우치다",
+    "translation": "түргэн хийх",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "재웅",
+    "translation": "Жэун",
+    "hanja": "宰雄",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "재위",
+    "translation": "хаанчлал",
+    "hanja": "在位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재위하다",
+    "translation": "Хаан ширээнд суух, эрх барих",
+    "hanja": "在位하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재유",
+    "translation": "Жэ-ёо",
+    "hanja": "재유",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재유행하다",
+    "translation": "дахин дэлгэрэх",
+    "hanja": "再流行하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재의",
+    "translation": "ахин хянах",
+    "hanja": "再議",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재의결하다",
+    "translation": "дахин шийдвэрлэх",
+    "hanja": "再議決하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재임대하다",
+    "translation": "дахин түрээслэх",
+    "hanja": "再賃貸하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재임용",
+    "translation": "дахин томилгоо",
+    "hanja": "再任用",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재임하다",
+    "translation": "Дахин томилогдох",
+    "hanja": "再任하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재입고되다",
+    "translation": "дахин нөөцлөгдөх",
+    "hanja": "再入庫되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재입국",
+    "translation": "дахин нэвтрэх",
+    "hanja": "再入國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재입대하다",
+    "translation": "Дахин цэрэгт элсэх",
+    "hanja": "再入隊하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재입학",
+    "translation": "дахин сургуульд элсэх",
+    "hanja": "再入學",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재작년",
+    "translation": "Уржнан жил",
+    "hanja": "再昨年",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "재작업하다",
+    "translation": "дахин боловсруулах, дахин хийх",
+    "hanja": "再作動하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재잘거리다",
+    "translation": "жиргэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재잘대다",
+    "translation": "жиргэх, шуугих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재잘재잘",
+    "translation": "жиргэх, шуугих (дууны өнгө)",
+    "hanja": "재잘재잘",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재장전하다",
+    "translation": "дахин цэнэглэх",
+    "hanja": "再裝塡하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재재",
+    "translation": "дахин, дахин",
+    "hanja": "再再",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재적",
+    "translation": "бүртгэлтэй",
+    "hanja": "在籍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재점검하다",
+    "translation": "дахин шалгах",
+    "hanja": "再點檢하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "재점화되다",
+    "translation": "дахин асаах",
+    "hanja": "再點火되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재점화하다",
+    "translation": "дахин асаах",
+    "hanja": "再點火하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재정",
+    "translation": "санхүү",
+    "hanja": "財政",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재정되다",
+    "translation": "шинээр батлагдах",
+    "hanja": "再定되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재정립",
+    "translation": "дахин тогтоох",
+    "hanja": "再定立",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재정립하다",
+    "translation": "дахин тогтоох",
+    "hanja": "再定立하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재정비",
+    "translation": "дахин зохион байгуулах",
+    "hanja": "再整備",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재정비되다",
+    "translation": "Дахин зохион байгуулагдах, дахин бүтэц зохион байгуулагдах",
+    "hanja": "再整備되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재정비하다",
+    "translation": "дахин зохион байгуулах",
+    "hanja": "再整備하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재정의하다",
+    "translation": "дахин тодорхойлох",
+    "hanja": "再定義하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재정적",
+    "translation": "санхүүгийн",
+    "hanja": "財政的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재정하다",
+    "translation": "дахин тогтоох",
+    "hanja": "再定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재제",
+    "translation": "дахин боловсруулалт",
+    "hanja": "再製",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재조",
+    "translation": "дахин үзэх",
+    "hanja": "再照",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "재조립하다",
+    "translation": "Дахин угсрах",
+    "hanja": "再組立하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재조명",
+    "translation": "дахин гэрэлтүүлэх",
+    "hanja": "再照明",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재조명되다",
+    "translation": "дахин гэрэлтүүлэх",
+    "hanja": "再照明되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재조명하다",
+    "translation": "다시 조명하다, 재평가하다",
+    "hanja": "再照明하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재조사",
+    "translation": "дахин шалгах",
+    "hanja": "再調査",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재조사하다",
+    "translation": "дахин шалгах",
+    "hanja": "再調査하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재조정",
+    "translation": "дахин тохируулах",
+    "hanja": "再調整",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재조정되다",
+    "translation": "дахин тохируулагдах",
+    "hanja": "再調整되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재조정하다",
+    "translation": "дахин тохируулах, дахин зохицуулах",
+    "hanja": "再調整하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재종",
+    "translation": "үеэл",
+    "hanja": "再從",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재주",
+    "translation": "Авьяас",
+    "hanja": "재주",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재주껏",
+    "translation": "чадлаараа",
+    "hanja": "才主껏",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재주꾼",
+    "translation": "авьяаслаг хүн, ур чадвартай хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재주넘다",
+    "translation": "чадвар үзүүлэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재주문하다",
+    "translation": "дахин захиалах",
+    "hanja": "再注文하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재중",
+    "translation": "Хятадад",
+    "hanja": "在中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재즈",
+    "translation": "жазз",
+    "hanja": "재즈",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "재지",
+    "translation": "дахин тодорхойлох",
+    "hanja": "再指",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재지정하다",
+    "translation": "дахин томилох",
+    "hanja": "再指定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재직",
+    "translation": "Ажлын байранд байх, ажиллаж байх",
+    "hanja": "在職",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재직하다",
+    "translation": "ажиллаж байх",
+    "hanja": "在職하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재진",
+    "translation": "Дахин үзлэг",
+    "hanja": "再診",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재진입체",
+    "translation": "дахин нэвтрэх биет (сансрын хөлөг)",
+    "hanja": "再進入體",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "재진입하다",
+    "translation": "дахин орох",
+    "hanja": "再進入하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재질",
+    "translation": "материал",
+    "hanja": "材質",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재집권하다",
+    "translation": "дахин эрх мэдэлд гарах",
+    "hanja": "再執權하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재차",
+    "translation": "дахин",
+    "hanja": "再嗟",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재창",
+    "translation": "Дахин хийх",
+    "hanja": "再唱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재창작하다",
+    "translation": "дахин бүтээх, шинэчлэн бүтээх",
+    "hanja": "再創作―",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재창조",
+    "translation": "дахин бүтээх",
+    "hanja": "再創造",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재창조되다",
+    "translation": "дахин бүтээгдэх",
+    "hanja": "再創造되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재창조하다",
+    "translation": "дахин бүтээх",
+    "hanja": "再創造하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "재창출하다",
+    "translation": "дахин бий болгох",
+    "hanja": "再創出하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재채기",
+    "translation": "Ханиалгах",
+    "hanja": "재채기",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "재채기하다",
+    "translation": "найтаах",
+    "hanja": "再채기하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "재처리",
+    "translation": "дахин боловсруулах",
+    "hanja": "再處理",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재처리하다",
+    "translation": "дахин боловсруулах",
+    "hanja": "再處理하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재천",
+    "translation": "дахин тэнгэр",
+    "hanja": "在天",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재천명하다",
+    "translation": "дахин зарлах",
+    "hanja": "再闡明하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재철",
+    "translation": "улирлын шинэ ургац",
+    "hanja": "再綴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재첩",
+    "translation": "жижиг хясаа",
+    "hanja": "蜆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재청",
+    "translation": "дахин хүсэлт, дахин сонсох",
+    "hanja": "再請",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재청구하다",
+    "translation": "дахин нэхэмжлэх, дахин шаардах",
+    "hanja": "재청구하다(再請求하다)",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재청하다",
+    "translation": "дахин хүсэх, дахин зөвшөөрөх",
+    "hanja": "再請하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재촉",
+    "translation": "хурдасгах, шавдуулах",
+    "hanja": "催促",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재촉하다",
+    "translation": "Яаруулах, шаардах",
+    "hanja": "再促하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재촬영하다",
+    "translation": "дахин зураг авах, дахин кино зураг авах",
+    "hanja": "再撮影하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재추",
+    "translation": "дахин сонгох",
+    "hanja": "再推",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재추진하다",
+    "translation": "дахин хэрэгжүүлэх",
+    "hanja": "再推進하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재충전",
+    "translation": "Цэнэглэх, сэргээх",
+    "hanja": "재충전",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재충전되다",
+    "translation": "Дахин цэнэглэгдэх",
+    "hanja": "再充電되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "재충전하다",
+    "translation": "дахин цэнэглэх",
+    "hanja": "再 recharging",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재취",
+    "translation": "дахин авах",
+    "hanja": "再娶",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재취업하다",
+    "translation": "дахин ажилд орох",
+    "hanja": "再就業하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재키다",
+    "translation": "зайлах, хаях (слэнг)",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "재킷",
+    "translation": "хүрэм",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "재탄생되다",
+    "translation": "дахин төрөх",
+    "hanja": "再誕生되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재탄생하다",
+    "translation": "дахин төрөх",
+    "hanja": "再誕生하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재탈환",
+    "translation": "дахин булаан авах",
+    "hanja": "再奪還",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재탈환하다",
+    "translation": "Эргүүлэн авах, дахин булаан авах",
+    "hanja": "再奪還하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재탕",
+    "translation": "дахин буцалгах; дахин ашиглах",
+    "hanja": "再湯",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재택",
+    "translation": "гэрээсээ ажиллах",
+    "hanja": "在宅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재택근무",
+    "translation": "гэрийн ажил",
+    "hanja": "在宅勤務",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재테크",
+    "translation": "Хөрөнгө оруулалт",
+    "hanja": "財테크",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재테크하다",
+    "translation": "хөрөнгө оруулалт хийх",
+    "hanja": "財테크하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재투자하다",
+    "translation": "дахин хөрөнгө оруулах",
+    "hanja": "再投資하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재투표",
+    "translation": "дахин санал хураалт",
+    "hanja": "再投票",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재투표하다",
+    "translation": "дахин санал өгөх",
+    "hanja": "再投票하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재판",
+    "translation": "шүүх хурал",
+    "hanja": "裁判",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재판매하다",
+    "translation": "дахин зарах",
+    "hanja": "再販賣하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재판정",
+    "translation": "шүүхийн танхим",
+    "hanja": "裁判廷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재판하다",
+    "translation": "Шүүх",
+    "hanja": "裁判하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재패",
+    "translation": "номхотгол",
+    "hanja": "制覇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재패하다",
+    "translation": "дарангуйлах",
+    "hanja": "制覇하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재편",
+    "translation": "дахин зохион байгуулах",
+    "hanja": "再編",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재편되다",
+    "translation": "дахин зохион байгуулагдах",
+    "hanja": "再編되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재편성",
+    "translation": "дахин зохион байгуулах",
+    "hanja": "재편성(再編成)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재편성되다",
+    "translation": "дахин зохион байгуулагдах",
+    "hanja": "再編成되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재편성하다",
+    "translation": "Дахин зохион байгуулах",
+    "hanja": "再編成하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재편집하다",
+    "translation": "дахин засах",
+    "hanja": "再編輯하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재편하다",
+    "translation": "шинээр зохион байгуулах",
+    "hanja": "再編하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재평가",
+    "translation": "дахин үнэлэх",
+    "hanja": "再評價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재평가되다",
+    "translation": "дахин үнэлэгдэх",
+    "hanja": "再評價되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재평가하다",
+    "translation": "дахин үнэлэх",
+    "hanja": "再評價하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재표결하다",
+    "translation": "Дахин санал хураах",
+    "hanja": "再表決하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재품",
+    "translation": "үйлдвэрлэл, бүтээгдэхүүн",
+    "hanja": "製品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재프",
+    "translation": "Зап (хүнсний бүтээгдэхүүн)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재필",
+    "translation": "дахин бичих",
+    "hanja": "再筆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재학",
+    "translation": "Суралцах",
+    "hanja": "在學",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "재학생",
+    "translation": "Одоо сурч буй оюутан",
+    "hanja": "在學生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재학하다",
+    "translation": "сургуульд сурах",
+    "hanja": "在學하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재해",
+    "translation": "гамшиг",
+    "hanja": "災害",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재해석",
+    "translation": "дахин тайлбарлах, шинээр тайлбарлах",
+    "hanja": "再解釋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재해석되다",
+    "translation": "дахин тайлбарлагдах",
+    "hanja": "再解釋되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재해석하다",
+    "translation": "Дахин тайлбарлах, шинээр тайлбарлах",
+    "hanja": "再解釋하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재향",
+    "translation": "нутгаасаа",
+    "hanja": "在鄕",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재현되다",
+    "translation": "Дахин хийгдэх",
+    "hanja": "再現되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재현하다",
+    "translation": "дахин үзүүлэх",
+    "hanja": "再現하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재협상하다",
+    "translation": "дахин хэлэлцээр хийх",
+    "hanja": "再協商하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재혼",
+    "translation": "дахин гэрлэх",
+    "hanja": "再婚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재혼하다",
+    "translation": "дахин гэрлэх",
+    "hanja": "再婚—",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "재화",
+    "translation": "Бараа",
+    "hanja": "財貨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재확인",
+    "translation": "дахин баталгаажуулах",
+    "hanja": "再確認",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재확인되다",
+    "translation": "дахин баталгаажих; дахин нотлогдох",
+    "hanja": "再確認되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재확인하다",
+    "translation": "дахин баталгаажуулах",
+    "hanja": "再確認하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "재활",
+    "translation": "Нөхөн сэргээх",
+    "hanja": "再活",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재활용",
+    "translation": "дахин боловсруулах",
+    "hanja": "再活用",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재활용되다",
+    "translation": "дахин боловсруулагдах",
+    "hanja": "再活用되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재활용품",
+    "translation": "дахин боловсруулах бүтээгдэхүүн",
+    "hanja": "再活用品",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "재활용하다",
+    "translation": "дахин боловсрууллах",
+    "hanja": "再活用하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재활원",
+    "translation": "нөхөн сэргээх төв",
+    "hanja": "再活院",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재활하다",
+    "translation": "нөхөн сэргээх",
+    "hanja": "再活-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재회",
+    "translation": "дахин уулзах",
+    "hanja": "再會",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "재회하다",
+    "translation": "Дахин уулзах",
+    "hanja": "再會하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "word": "루",
+    "translation": "түймэр, үхэл",
+    "hanja": "壘/漏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루가노",
+    "translation": "Лугано",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "루갈",
+    "translation": "Ругаль",
+    "hanja": "루갈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "루게릭병",
+    "translation": "Лугерекийн өвчин",
+    "hanja": "루게릭病",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루꼴라",
+    "translation": "Роккет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "루나",
+    "translation": "саран",
+    "hanja": "루나",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "루도",
+    "translation": "рудо",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "루드라",
+    "translation": "Рудра (Энэтхэгийн бурхан)",
+    "hanja": "null",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "루드비히",
+    "translation": "Людвиг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "루루",
+    "translation": "Лулу (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "루마",
+    "translation": "рума (өвчин)",
+    "hanja": "rheuma",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "루마니아",
+    "translation": "Румын",
+    "hanja": "Romania",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "루머",
+    "translation": "цуу яриа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "루멘",
+    "translation": "люмен (광гийн нэгж)",
+    "hanja": "루멘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루미",
+    "translation": "Лүми (нээр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "루미나리에",
+    "translation": "люминари",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "루미놀",
+    "translation": "люминол",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루미아",
+    "translation": "Лумиа",
+    "hanja": "루미아",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루바브",
+    "translation": "Ревень",
+    "hanja": "루바브",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "루바토",
+    "translation": "Рубато (хөгжмийн нэр томъёо)",
+    "hanja": "rubato",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루베",
+    "translation": "рубли",
+    "hanja": "루베",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "루벤스",
+    "translation": "Рубенс",
+    "hanja": "Q",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루브르",
+    "translation": "Лувр",
+    "hanja": "Louvre",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "루블",
+    "translation": "рубль",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "루블린",
+    "translation": "Люблин",
+    "hanja": "루블린",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루비",
+    "translation": "Бадмаараг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "루비콘강",
+    "translation": "Рубикон гол",
+    "hanja": "루비콘江",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루빅큐브",
+    "translation": "Рубикийн шоо",
+    "hanja": "루빅큐브",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "루빈",
+    "translation": "Рубин",
+    "hanja": "루빈",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "루사",
+    "translation": "Луса (хуучин далайн бурхан)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "루사카",
+    "translation": "Лусака",
+    "hanja": "루사카",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "루소",
+    "translation": "Руссо",
+    "hanja": "Rousseau",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "루손섬",
+    "translation": "Лусон арал",
+    "hanja": "루손섬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루수",
+    "translation": "говь",
+    "hanja": "壘手",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루스",
+    "translation": "Суулгасан, сул, нэвтэрсэн",
+    "hanja": "露水",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "루스벨트",
+    "translation": "Рузвельт",
+    "hanja": "루스벨트",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루스터",
+    "translation": "азарган тахиа",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "루시",
+    "translation": "Люси",
+    "hanja": "루시",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "루시퍼",
+    "translation": "Люцифер",
+    "hanja": "루시퍼",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "루시페린",
+    "translation": "люциферин (химийн бодис)",
+    "hanja": "루시페린",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루실",
+    "translation": "Люсил",
+    "hanja": "루실",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루안",
+    "translation": "Руан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "루안다",
+    "translation": "Луанда (хот)",
+    "hanja": "루안다",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루앙",
+    "translation": "Руан",
+    "hanja": "Rouen",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루앙프라방",
+    "translation": "Луангпрабанг (Лаосын хот)",
+    "hanja": "루앙프라방",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "루어",
+    "translation": "Урхи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "루오",
+    "translation": "Руо (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루이빌",
+    "translation": "Луисвилл",
+    "hanja": "루이빌",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "루이스",
+    "translation": "Луиза",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "루이지애나",
+    "translation": "Луизиана",
+    "hanja": "루이지애나",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "루저",
+    "translation": "хожигдсон хүн, ялагдагч",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "루주",
+    "translation": "уруулын будаг",
+    "hanja": "Rouge",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "루즈",
+    "translation": "Сул, бөөрөнхий (харь хэллэг)",
+    "hanja": "루즈",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "루즈하다",
+    "translation": "сул, сулбагар, хайнга",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "루차",
+    "translation": "тулаан, тэмцэл (испани үг)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "루체른",
+    "translation": "Люцерн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "루치",
+    "translation": "ручий",
+    "hanja": "루치",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루카",
+    "translation": "Лука",
+    "hanja": "루카",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "루키",
+    "translation": "Шинэхэн тамирчин/ажилтан",
+    "hanja": "Rookie",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "루타",
+    "translation": "рута",
+    "hanja": "ruta",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "루터",
+    "translation": "Лютер",
+    "hanja": "루터",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루테인",
+    "translation": "лютеин",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "루트",
+    "translation": "Маршрут, зам",
+    "hanja": "Route",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "루트비히",
+    "translation": "Людвиг",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루틴",
+    "translation": "Ээлжит, тогтмол",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "루팅",
+    "translation": "root хийх (гар утсанд)",
+    "hanja": "Rooting",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "루팡",
+    "translation": "Люпен",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루퍼",
+    "translation": "луббер",
+    "hanja": "루퍼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루페",
+    "translation": "лупа",
+    "hanja": "루페",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "루프",
+    "translation": "давталт, гогцоо",
+    "hanja": null,
+    "pos": "명са",
+    "cefr": "B2"
+  },
+  {
+    "word": "루프스",
+    "translation": "чонон хөрвөс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루피",
+    "translation": "Луффи",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "루피너스",
+    "translation": "люпин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "루피아",
+    "translation": "Рупиа",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "루핀",
+    "translation": "люпин (ургамал)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "루핏",
+    "translation": "Лупит",
+    "hanja": "루핏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루핑",
+    "translation": "дээвэрлэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "루한스크",
+    "translation": "Луганск",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

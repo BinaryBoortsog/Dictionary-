@@ -1,0 +1,3068 @@
+[
+  {
+    "word": "자",
+    "translation": "хэмжүүр",
+    "hanja": "尺",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "자가",
+    "translation": "өөрийн",
+    "hanja": "自家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자가당착",
+    "translation": "өөрийгөө үгүйсгэх",
+    "hanja": "自家撞着",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자가비",
+    "translation": "Эрүүл мэнд, бие бялдар",
+    "hanja": "自加費",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자가용",
+    "translation": "хувийн машин",
+    "hanja": "自家用",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자각",
+    "translation": "өөрийгөө танин мэдэхүй",
+    "hanja": "自覺",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자각되다",
+    "translation": "өөрийгөө ухамсарлах",
+    "hanja": "自覺되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "자각하다",
+    "translation": "ухаарч ойлгох",
+    "hanja": "自覺하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자간",
+    "translation": "Үсэг хоорондын зай",
+    "hanja": "字間",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자갈",
+    "translation": "Хайрга, чулуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자갈길",
+    "translation": "хайргатай зам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자갈돌",
+    "translation": "далавч, хайрга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자갈자갈",
+    "translation": "хайрга",
+    "hanja": "자갈자갈",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자갈치",
+    "translation": "Чагальчи (Солонгосын загасны зах)",
+    "hanja": "자갈치",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자강",
+    "translation": "бие даан хүчирхэгжих",
+    "hanja": "自强",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자강두천",
+    "translation": "Өөрийгөө хүчтэй гэж үнэлэн, өрсөлдөгчөө доромжлох",
+    "hanja": "自强두천",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자개",
+    "translation": "сувдан хавтан",
+    "hanja": "紫貝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자객",
+    "translation": "Алуурчин",
+    "hanja": "刺客",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자갸",
+    "translation": "хонгор минь / хайр аа (хайртай хүндээ хандах үг)",
+    "hanja": "자갸",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자격",
+    "translation": "Эрх, чадвар",
+    "hanja": "資格",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자격증",
+    "translation": "үнэмлэх, гэрчилгээ",
+    "hanja": "資格證",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자격지심",
+    "translation": "Өөрийгөө дорд үзэх сэтгэл",
+    "hanja": "自激之心",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자결",
+    "translation": "амиа хорлох",
+    "hanja": "자결(自決)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자결하다",
+    "translation": "амиа хорлох",
+    "hanja": "自決하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "자경",
+    "translation": "өөрөө хамгаалах (Нийгэм)",
+    "hanja": "自警",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자계",
+    "translation": "өөрийн дүү",
+    "hanja": "姉弟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자고",
+    "translation": "гуравгуа",
+    "hanja": "鷓鴣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자구",
+    "translation": "үгсийн утга, үг хэллэг",
+    "hanja": "字句",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자구책",
+    "translation": "өөрийгөө аврах арга",
+    "hanja": "自救策",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자국",
+    "translation": "мөр",
+    "hanja": "자국",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자국민",
+    "translation": "өөрийн улсын иргэн",
+    "hanja": "自國民",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자국어",
+    "translation": "эх хэл",
+    "hanja": "自國語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자궁",
+    "translation": "умайн",
+    "hanja": "子宮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자그",
+    "translation": "жижигхэн, бяцхан",
+    "hanja": "N/A",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자그레브",
+    "translation": "Загреб",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자그마하다",
+    "translation": "жаахан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자그만하다",
+    "translation": "жижигхэн, бяцхан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자그맣다",
+    "translation": "бяцхан",
+    "hanja": "자그마하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자극",
+    "translation": "цочрол",
+    "hanja": "刺激",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자극되다",
+    "translation": "Сэрээгдэх",
+    "hanja": "刺戟되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자극성",
+    "translation": "сэтгэл хөдлөм байдал",
+    "hanja": "刺激性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자극적",
+    "translation": "хурц, өдөөн хатгасан",
+    "hanja": "刺激的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자극제",
+    "translation": "цочроогч",
+    "hanja": "刺戟劑",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자극하다",
+    "translation": "хөдөлгөх",
+    "hanja": "刺激하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "자근자근",
+    "translation": "аажмаар, нягт нямбай",
+    "hanja": "자근자근",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "자글거리다",
+    "translation": "Гулдирдах, шаржигнах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자글자글",
+    "translation": "жижиг жижиг",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자글자글하다",
+    "translation": "гялалзах, хатаж үрчийх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자금",
+    "translation": "мөнгө",
+    "hanja": "資金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자금난",
+    "translation": "санхүүгийн хүндрэл",
+    "hanja": "資金難",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자금력",
+    "translation": "санхүүгийн чадвар",
+    "hanja": "資金力",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "자급",
+    "translation": "өөрийгөө тэтгэх",
+    "hanja": "自給",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자급자족",
+    "translation": "Өөрийгөө тэтгэх",
+    "hanja": "自給自足",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자급자족하다",
+    "translation": "өөрийгөө хангах",
+    "hanja": "自給自足하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자급하다",
+    "translation": "өөрийгөө хангах",
+    "hanja": "自給하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자긍심",
+    "translation": "өөрийгөө үнэлэх сэтгэл",
+    "hanja": "自矜心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자기기만",
+    "translation": "өөрийгөө хуурах",
+    "hanja": "自己欺瞞",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자기도취",
+    "translation": "өөрийгөө бишрэх",
+    "hanja": "自己陶醉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자기만족",
+    "translation": "өөрийгөө хангалуун мэдрэх",
+    "hanja": "自己滿足",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자기모순",
+    "translation": "өөрийгөө үгүйсгэх",
+    "hanja": "自己矛盾",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자기소개",
+    "translation": "өөрийгөө танилцуулах",
+    "hanja": "自己紹介",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자기애",
+    "translation": "өөрийгөө хайрлах",
+    "hanja": "自己愛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자기중심",
+    "translation": "өөрийгөө төвд тавих",
+    "hanja": "自己中心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자기중심적",
+    "translation": "бие даасан",
+    "hanja": "自己中心的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "자기하다",
+    "translation": "өөрийгөө хянах",
+    "hanja": "自記하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자꾸",
+    "translation": "дахин дахин",
+    "hanja": "자꾸",
+    "pos": "adv",
+    "cefr": "A2"
+  },
+  {
+    "word": "자꾸자꾸",
+    "translation": "байнга",
+    "hanja": "자꾸자꾸",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "자낳괴",
+    "translation": "мөнгөнд шунасан мангас (интернет хэллэг)",
+    "hanja": "자낳괴",
+    "pos": "신조어",
+    "cefr": "C1"
+  },
+  {
+    "word": "자네",
+    "translation": "чи",
+    "hanja": "子네",
+    "pos": "pronoun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자녀",
+    "translation": "үр хүүхэд",
+    "hanja": "子女",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자니",
+    "translation": "унтаж байна уу?",
+    "hanja": "자니",
+    "pos": "Question particle",
+    "cefr": "A1"
+  },
+  {
+    "word": "자다",
+    "translation": "Унтах",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "자당",
+    "translation": "Өөрийн ээж",
+    "hanja": "慈堂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자도",
+    "translation": "өөрөө хүргэх",
+    "hanja": "自圖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자동",
+    "translation": "автомат",
+    "hanja": "自動",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자동문",
+    "translation": "автомат хаалга",
+    "hanja": "自動門",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자동사",
+    "translation": "аяндаа үйлдэх үг",
+    "hanja": "自動詞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자동차",
+    "translation": "автомашин",
+    "hanja": "自動車",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "자동차업계",
+    "translation": "Автомашины үйлдвэрлэл",
+    "hanja": "自動車業界",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "자동판매기",
+    "translation": "автомат машин",
+    "hanja": "自動販賣機",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자동화",
+    "translation": "Автоматжуулалт",
+    "hanja": "自動化",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자동화되다",
+    "translation": "автоматжуулагдах",
+    "hanja": "自動化되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "자동화하다",
+    "translation": "автоматжуулах",
+    "hanja": "自動化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자두",
+    "translation": "чавга",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "자라",
+    "translation": "яст мэлхий",
+    "hanja": "자라",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자라나다",
+    "translation": "ургах",
+    "hanja": "자라나다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자락",
+    "translation": "хормой, зах",
+    "hanja": "자락",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자란",
+    "translation": "ургасан, өссөн",
+    "hanja": "자란",
+    "pos": "관형사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자랑",
+    "translation": "гайхуулах, бахархал",
+    "hanja": "자랑",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자랑거리",
+    "translation": "бахархал",
+    "hanja": "자랑거리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자랑삼다",
+    "translation": "бахархах",
+    "hanja": "N/A",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "자랑스럽다",
+    "translation": "бахархалтай",
+    "hanja": "자랑스럽다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자랑스레",
+    "translation": "Бахархалтайгаар",
+    "hanja": "자랑스레",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "자랑이",
+    "translation": "Ихэмсэг, бардам хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자랑자랑",
+    "translation": "гайхуулсан, омогшсон",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자랑질하다",
+    "translation": "ихрүүлэх, гайхуулах",
+    "hanja": "자랑질하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자랑하다",
+    "translation": "Гавих, сайрхах",
+    "hanja": "자랑하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자려",
+    "translation": "Санаачлага",
+    "hanja": "自勵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자력",
+    "translation": "Өөрийн хүч",
+    "hanja": "自力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자로",
+    "translation": "Захирагч, удирдагч",
+    "hanja": "子路",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자료",
+    "translation": "Материал, мэдээлэл",
+    "hanja": "資料",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자료실",
+    "translation": "Архив",
+    "hanja": "資料室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자료집",
+    "translation": "мэдээллийн цуглуулга",
+    "hanja": "資料集",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자루",
+    "translation": "шууда",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자르",
+    "translation": "самар",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자르다",
+    "translation": "хэрчих, огтлох",
+    "hanja": "자르다",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "자르르",
+    "translation": "Гялалзсан, гялгар",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "자리",
+    "translation": "байр, суудал",
+    "hanja": "자리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자리공",
+    "translation": "Зариг ургамал",
+    "hanja": "자리공",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자리다",
+    "translation": "байрлах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "자리매김",
+    "translation": "байр суурь эзлэх, тогтворжих",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자리매김하다",
+    "translation": "байр суурь эзлэх, тогтох",
+    "hanja": "자리매김하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자리바꿈",
+    "translation": "байр солих",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자리보전",
+    "translation": "ор засах",
+    "hanja": "자리保全",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자리보전하다",
+    "translation": "ор хөнжлөө сахих",
+    "hanja": "자리保全하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자리하다",
+    "translation": "Байрлах",
+    "hanja": "자리하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자린고비",
+    "translation": "харамч, харанхуй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자림",
+    "translation": "хувийн мод",
+    "hanja": "刺林",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자립",
+    "translation": "Бие даах, өөртөө найдах",
+    "hanja": "自立",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자립심",
+    "translation": "Өөртөө найдах сэтгэл",
+    "hanja": "自立心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자립적",
+    "translation": "бие даасан",
+    "hanja": "自立的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자립하다",
+    "translation": "Өөрөө амьдрах",
+    "hanja": "自立하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자릿",
+    "translation": "суудал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자릿수",
+    "translation": "оронгийн тоо",
+    "hanja": "자릿數",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자막",
+    "translation": "хадмал орчуулга",
+    "hanja": "字幕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자만",
+    "translation": "ихэмсэг зан",
+    "hanja": "自慢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자만심",
+    "translation": "өөртөө хэт итгэх",
+    "hanja": "自慢心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자만하다",
+    "translation": "ихэмсэг зан гаргах, бардамнах",
+    "hanja": "自慢하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "자말",
+    "translation": "Жамал",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자망",
+    "translation": "өөрөө алга болох",
+    "hanja": "自亡",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "자매",
+    "translation": "эгч дүүс",
+    "hanja": "姊妹",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자매결연하다",
+    "translation": "эгч дүүсийн харилцаа тогтоох",
+    "hanja": "姉妹結緣하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자맥",
+    "translation": "үсрэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자맥질",
+    "translation": "Усанд шумбах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자메이카",
+    "translation": "Ямайк",
+    "hanja": "Jamaica",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자멸하다",
+    "translation": "өөрийгөө устгах",
+    "hanja": "自滅하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자명",
+    "translation": "өөртөө тодорхой",
+    "hanja": "自明",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자명종",
+    "translation": "сэрүүлэгтэй цаг",
+    "hanja": "自鳴鐘",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자명하다",
+    "translation": "тодорхой, ойлгомжтой",
+    "hanja": "自明하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자모",
+    "translation": "нэг ээж",
+    "hanja": "慈母",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자못",
+    "translation": "꽤",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자몽",
+    "translation": "грейпфрут",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자문",
+    "translation": "Зөвлөгөө",
+    "hanja": "諮問",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자문자답",
+    "translation": "өөртөө асууж, өөрөө хариулах",
+    "hanja": "自問自答",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자문자답하다",
+    "translation": "өөртөө асууж, өөрөө хариулах",
+    "hanja": "自問自答하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자문하다",
+    "translation": "Зөвлөгөө авах",
+    "hanja": "諮問하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자물쇠",
+    "translation": "Түгжээ",
+    "hanja": "자물쇠",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자물통",
+    "translation": "цоож",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자미",
+    "translation": "ягаан интоор",
+    "hanja": "紫薇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자바",
+    "translation": "Жава",
+    "hanja": "Java",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "자바리",
+    "translation": "жанжин загас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자박",
+    "translation": "өөрийгөө барин тавих",
+    "hanja": "自縛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자박자박",
+    "translation": "шажигнах, шоржигнох",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자박자박하다",
+    "translation": "Чаг чаг хийх (алхах)",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "자박하다",
+    "translation": "шилгэнэ",
+    "hanja": "자박하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자반",
+    "translation": "давсалсан загас",
+    "hanja": "자반",
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "자발성",
+    "translation": "сайн дурын",
+    "hanja": "自發性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자발적",
+    "translation": "Сайн дурын",
+    "hanja": "自發的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "자방",
+    "translation": "өндгөвч",
+    "hanja": "子房",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "자백",
+    "translation": "илчлэх",
+    "hanja": "自白",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자백하다",
+    "translation": "буруугаа хүлээх",
+    "hanja": "自白하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자보",
+    "translation": "автомат даатгал",
+    "hanja": "自保",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자복",
+    "translation": "хэргээ хүлээх",
+    "hanja": "自服",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "자복하다",
+    "translation": "хүлээх",
+    "hanja": "自服하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자본",
+    "translation": "хөрөнгө",
+    "hanja": "資本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자본가",
+    "translation": "капиталист",
+    "hanja": "資本家",
+    "pos": "명са",
+    "cefr": "B1"
+  },
+  {
+    "word": "자본금",
+    "translation": "үндсэн хөрөнгө",
+    "hanja": "資本金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자본주의",
+    "translation": "капитализм",
+    "hanja": "資本主義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자부심",
+    "translation": "өөрийгөө хүндэтгэх сэтгэл",
+    "hanja": "자부심(自負心)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자부하다",
+    "translation": "өөрийгөө хүндлэх",
+    "hanja": "自負하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "자비",
+    "translation": "энэрэнгүй сэтгэл, нигүүлсэл",
+    "hanja": "慈悲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자비량",
+    "translation": "Өөрийн зардлаар",
+    "hanja": "自費糧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자비롭다",
+    "translation": "өршөөнгүй, нигүүлсэнгүй",
+    "hanja": "慈悲롭다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자비하다",
+    "translation": "өршөөнгүй, нигүүлсэнгүй",
+    "hanja": "慈悲하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자빠뜨리다",
+    "translation": "Унагаах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자빠지다",
+    "translation": "унагаах",
+    "hanja": "자빠지다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자빠트리다",
+    "translation": "унагаах, хөмрөх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자뻑",
+    "translation": "Өөрийгөө магтах, бишрэх",
+    "hanja": "자뻑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자사",
+    "translation": "тус компани",
+    "hanja": "自社",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자산",
+    "translation": "Эд хөрөнгө",
+    "hanja": "資産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자산가",
+    "translation": "хөрөнгөтөн",
+    "hanja": "資産家",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자살",
+    "translation": "амиа хорлох",
+    "hanja": "自殺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자살골",
+    "translation": "Авто гоол",
+    "hanja": "自殺골",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자살하다",
+    "translation": "амиа хорлох",
+    "hanja": "自殺하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자상",
+    "translation": "өөрийгөө гэмтээх",
+    "hanja": "刺傷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자상하다",
+    "translation": "Ээлдэг, энэрэнгүй",
+    "hanja": "慈祥—",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자색",
+    "translation": "Нил ягаан өнгө",
+    "hanja": "紫色",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자생",
+    "translation": "өөрийнхөө хүчээр амьдрах, ургах",
+    "hanja": "自生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자생력",
+    "translation": "өөрийгөө тэтгэх чадвар",
+    "hanja": "自生力",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자생적",
+    "translation": "Өөрөө үүсэх, автономит",
+    "hanja": "自生的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자생하다",
+    "translation": "өөрөө ургах, бие даан амьдрах",
+    "hanja": "自生하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자서전",
+    "translation": "намтар",
+    "hanja": "自敍傳",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자석",
+    "translation": "соронз",
+    "hanja": "자석(磁石)",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자선",
+    "translation": "буяны үйлс",
+    "hanja": "慈善",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자선냄비",
+    "translation": "буяны сав",
+    "hanja": "慈善냄비",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자선하다",
+    "translation": "Буяны үйл хийх, өглөг өгөх",
+    "hanja": "慈善하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "자성",
+    "translation": "өөрөөсөө ирэх, өөрөөсөө болох",
+    "hanja": "自省",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자성하다",
+    "translation": "Өөрийгөө шүүмжлэх",
+    "hanja": "自省하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "자세",
+    "translation": "байрлал",
+    "hanja": "姿勢",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자세하다",
+    "translation": "дэлгэрэнгүй байх",
+    "hanja": "仔細하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자세히",
+    "translation": "Дэлгэрэнгүй",
+    "hanja": "仔細히",
+    "pos": "adv",
+    "cefr": "A2"
+  },
+  {
+    "word": "자손",
+    "translation": "Үр удам",
+    "hanja": "子孫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자수",
+    "translation": "хатгамал, зүү ороох",
+    "hanja": "刺繡",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자수성가",
+    "translation": "өөрийн хүчээр амжилтад хүрэх",
+    "hanja": "自手成家",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자수성가하다",
+    "translation": "өөрийн хүчээр амжилтад хүрэх",
+    "hanja": "自手成家하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "자수정",
+    "translation": "ягаан болор, аметист",
+    "hanja": "紫水晶",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자수하다",
+    "translation": "Өөрийгөө өгөх (цагдаад)",
+    "hanja": "自首하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자숙",
+    "translation": "өөрийгөө хязгаарлах, өөрийгөө хянасан байдал",
+    "hanja": "自肅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자숙하다",
+    "translation": "Өөрийгөө хянах",
+    "hanja": "自肅",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자술서",
+    "translation": "Өөрийн бичсэн гэрчилгээ",
+    "hanja": "自述書",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "자스",
+    "translation": "Жас (нэрийг тодорхойгүй)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자스민",
+    "translation": "жасмин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자슥",
+    "translation": "залуу",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자습",
+    "translation": "биелүүлэх",
+    "hanja": "自習",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자습서",
+    "translation": "өөрөө сурах бичиг",
+    "hanja": "自習書",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자습하다",
+    "translation": "өөрийгөө сургах, бие даж сурах",
+    "hanja": "自習-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자승",
+    "translation": "Өөрийн ялалт, өөрөө давсан",
+    "hanja": "自勝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자시",
+    "translation": "Шөнийн 11 цагаас үүрийн 1 цаг",
+    "hanja": "子時",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자시다",
+    "translation": "хооллох (хүндэтгэлийн үг)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자식",
+    "translation": "хүүхэд",
+    "hanja": "子息",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자신",
+    "translation": "өөрийгөө",
+    "hanja": "自身",
+    "pos": "대명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자신감",
+    "translation": "өөртөө итгэх итгэл",
+    "hanja": "自信感",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자신만만하다",
+    "translation": "өөртөө хэт итгэлтэй байх",
+    "hanja": "自信滿滿하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자신하다",
+    "translation": "өөртөө итгэлтэй байх",
+    "hanja": "自信하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자아",
+    "translation": "өөрийгөө",
+    "hanja": "自我",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자아내다",
+    "translation": "Бий болгох, үүсгэх",
+    "hanja": "자아—",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자아실현",
+    "translation": "өөрийгөө гүйцэлдүүлэх",
+    "hanja": "自我實現",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자애",
+    "translation": "хайр энэрэл",
+    "hanja": "慈愛",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자애롭다",
+    "translation": "хайр энэрэнгүй, өршөөнгүй",
+    "hanja": "慈愛롭다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자야",
+    "translation": "унтах ёстой",
+    "hanja": "자야",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "자양",
+    "translation": "тэжээл, тэтгэлэг",
+    "hanja": "滋養",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자양분",
+    "translation": "тэжээл",
+    "hanja": "滋養分",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자업자득",
+    "translation": "өөрийн үйлдэж ийм үр дүн хүртэх",
+    "hanja": "自業自得",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자에",
+    "translation": "өөрөө",
+    "hanja": "자에",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자연",
+    "translation": "байгаль",
+    "hanja": "自然",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자연계",
+    "translation": "байгалийн ертөнц",
+    "hanja": "自然界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자연대",
+    "translation": "Байгалийн шинжлэх ухааны сургууль",
+    "hanja": "自然大",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자연모",
+    "translation": "байгалийн үс",
+    "hanja": "自然毛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자연미",
+    "translation": "байгалийн гоо үзэсгэлэн",
+    "hanja": "自然美",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자연법칙",
+    "translation": "байгалийн хууль",
+    "hanja": "自然法則",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자연사",
+    "translation": "байгалийн түүх; байгалийн үхэл",
+    "hanja": "自然史/自然死",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자연사하다",
+    "translation": "байгалийн шалтгаанаар үхэх",
+    "hanja": "自然死하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자연산",
+    "translation": "зэрлэг",
+    "hanja": "自然産",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자연수",
+    "translation": "натурал тоо",
+    "hanja": "自然數",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자연스럽다",
+    "translation": "байгалийн, энгийн",
+    "hanja": "自然스럽다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자연유산",
+    "translation": "байгалийн өв, зулбах",
+    "hanja": "自然遺産",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자연재해",
+    "translation": "байгалийн гамшиг",
+    "hanja": "自然災害",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자연적",
+    "translation": "байгалийн",
+    "hanja": "自然的",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자연하다",
+    "translation": "жам ёсны",
+    "hanja": "自然하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자연환경",
+    "translation": "байгаль орчин",
+    "hanja": "自然環境",
+    "pos": "мüns",
+    "cefr": "B1"
+  },
+  {
+    "word": "자연히",
+    "translation": "байгалиасаа",
+    "hanja": "自然히",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "자염",
+    "translation": "ягаан давс",
+    "hanja": "紫鹽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자영",
+    "translation": "бие даан ажиллах",
+    "hanja": "自營",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자영업",
+    "translation": "Бие даан бизнес эрхлэх",
+    "hanja": "自營業",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자오",
+    "translation": "заюу",
+    "hanja": "子午",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자외선",
+    "translation": "хэт ягаан туяа",
+    "hanja": "紫外線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자용",
+    "translation": "Өөртөө хэрэглэх",
+    "hanja": "自用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자우",
+    "translation": "бороо",
+    "hanja": "慈雨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자우림",
+    "translation": "Жаурим (хөгжмийн хамтлаг)",
+    "hanja": "자우림",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자욱",
+    "translation": "зузаан утаа",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자욱하다",
+    "translation": "бүрхэг",
+    "hanja": "자욱하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자욱히",
+    "translation": "өтгөн, бүрхэг",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "자운영",
+    "translation": "Заунён",
+    "hanja": "紫雲英",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자웅",
+    "translation": "эр, эм; ялалт, ялагдал",
+    "hanja": "雌雄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자원",
+    "translation": "нөөц",
+    "hanja": "資源",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자원봉사",
+    "translation": "сайн дурын ажил",
+    "hanja": "自願奉仕",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자원봉사자",
+    "translation": "Сайн дурын ажилтан",
+    "hanja": "自願奉仕者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자원입대하다",
+    "translation": "Сайн дураараа цэргийн албанд элсэх",
+    "hanja": "自願入隊하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자원하다",
+    "translation": "сайн дураараа оролцох",
+    "hanja": "자원하다(自願하다)",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "자원화하다",
+    "translation": "Нөөц болгох, нөөцөөр ашиглах",
+    "hanja": "資源化-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자위",
+    "translation": "өөрийгөө хамгаалах",
+    "hanja": "自慰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자위권",
+    "translation": "Өөрийгөө хамгаалах эрх",
+    "hanja": "自衛權",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자위대",
+    "translation": "өөрийгөө хамгаалах хүчин",
+    "hanja": "自衛隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자위하다",
+    "translation": "өөрийгөө хамгаалах",
+    "hanja": "自衛하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자유",
+    "translation": "эрх чөлөө",
+    "hanja": "自由",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자유로이",
+    "translation": "чөлөөтэй",
+    "hanja": "自由로이",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자유롭다",
+    "translation": "чөлөөтэй",
+    "hanja": "自由롭다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자유분방",
+    "translation": "Эрх чөлөөтэй, дураараа",
+    "hanja": "自由奔放",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자유분방하다",
+    "translation": "эрх чөлөөтэй",
+    "hanja": "自由奔放하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "자유스럽다",
+    "translation": "чөлөөтэй",
+    "hanja": "自由스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자유시",
+    "translation": "чөлөөт хот",
+    "hanja": "自由市",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자유자재",
+    "translation": "чөлөөтэй, дураараа",
+    "hanja": "自由自在",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자유자재하다",
+    "translation": "Эрх чөлөөтэй байх",
+    "hanja": "自由自在하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "자유주의자",
+    "translation": "либерал",
+    "hanja": "自由主義者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자유형",
+    "translation": "Чөлөөт сэлэлт",
+    "hanja": "自由形",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자유화",
+    "translation": "чөлөөлөх",
+    "hanja": "自由化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자율",
+    "translation": "өөрийн эрхээр ажиллах",
+    "hanja": "自律",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자율성",
+    "translation": "автономит байдал, бие даасан байдал",
+    "hanja": "自律性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자율적",
+    "translation": "бие даасан, бие даасан байх",
+    "hanja": "自律的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자율화되다",
+    "translation": "автономит байдалтай болох",
+    "hanja": "自律化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자율화하다",
+    "translation": "автономит байдалд оруулах",
+    "hanja": "自律化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자은",
+    "translation": "Заын (нэр)",
+    "hanja": "慈恩",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "자음",
+    "translation": "гийгүүлэгч",
+    "hanja": "子音",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자의",
+    "translation": "өөрийн дураар",
+    "hanja": "自意",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자의식",
+    "translation": "өөрийгөө ухамсарлах",
+    "hanja": "自意識",
+    "pos": "сущ",
+    "cefr": "C1"
+  },
+  {
+    "word": "자이",
+    "translation": "хүүхдийн хувцас",
+    "hanja": "仔衣",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자이나교",
+    "translation": "жайнизм",
+    "hanja": "자이나敎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자이다",
+    "translation": "хэмжих, шалгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자이로스코프",
+    "translation": "гироскоп",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자이르",
+    "translation": "Заир",
+    "hanja": "Zaire",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자이빙",
+    "translation": "залхуурах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자이푸르",
+    "translation": "Жайпур",
+    "hanja": "Jaipur",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자인",
+    "translation": "хүлээн зөвшөөрөх",
+    "hanja": "自認",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자인하다",
+    "translation": "Хүлээн зөвшөөрөх",
+    "hanja": "自認하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자일",
+    "translation": "олс",
+    "hanja": "자일",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자일로스",
+    "translation": "ксилоз",
+    "hanja": "자일로스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자일리톨",
+    "translation": "ксилитол",
+    "hanja": "자일리톨",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자일스",
+    "translation": "жайлс (нэр)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "자임하다",
+    "translation": "өөрөө хүлээн авах",
+    "hanja": "自任하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자자",
+    "translation": "бүх нийтийн",
+    "hanja": "藉藉",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자자손손",
+    "translation": "Үе дамжин, үр удам",
+    "hanja": "子子孫孫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자자하다",
+    "translation": "алдартай байх",
+    "hanja": "藉藉하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자작",
+    "translation": "Өөрөө хийсэн, хувийн эзэмшил",
+    "hanja": "自作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자작곡",
+    "translation": "өөрийн дуу (зохиол)",
+    "hanja": "自作曲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자작극",
+    "translation": "өөрийн зохиосон жүжиг, хуурамч явдал",
+    "hanja": "自作劇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자작자작",
+    "translation": "шажигнах (дуу)",
+    "hanja": "자작자작",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자작자작하다",
+    "translation": "Шаргалтан шажигнах",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "null"
+  },
+  {
+    "word": "자작하다",
+    "translation": "өөрийгөө золиослох",
+    "hanja": "自作하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자잘하다",
+    "translation": "жижигхэн",
+    "hanja": "---",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "자장",
+    "translation": "Газар хөдлөлт",
+    "hanja": "磁場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자장가",
+    "translation": "бүүвэйн дуу",
+    "hanja": "子守歌",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자장면",
+    "translation": "жажамён",
+    "hanja": "炸醬麵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자장자장",
+    "translation": "бүүвэйлнэ, бүүвэй бүүвэй",
+    "hanja": "子丈子丈",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자재",
+    "translation": "материал",
+    "hanja": "資材",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자재하다",
+    "translation": "өөрийгөө барих",
+    "hanja": "自制하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자적",
+    "translation": "Өөртөө тохирсон (өөрөө тэнцэх)",
+    "hanja": "自適",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자전",
+    "translation": "өөрийгөө эргүүлэх",
+    "hanja": "自轉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자전거",
+    "translation": "дугуй",
+    "hanja": "自轉車",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "자전적",
+    "translation": "намтарчилсан",
+    "hanja": "自傳的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자전하다",
+    "translation": "өөрийн тойрох",
+    "hanja": "自轉하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자정",
+    "translation": "шөнө дунд",
+    "hanja": "子正",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자정하다",
+    "translation": "шөнө дунд",
+    "hanja": "子正하다",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자제",
+    "translation": "Өөрийгөө хянах, тэвчих",
+    "hanja": "自制",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자제되다",
+    "translation": "хяналттай байх",
+    "hanja": "自制되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자제력",
+    "translation": "Өөрийгөө хянах чадвар",
+    "hanja": "自制力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자제하다",
+    "translation": "өөрийгөө барих",
+    "hanja": "自制하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자조",
+    "translation": "өөрийгөө гоочлох",
+    "hanja": "自嘲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자조하다",
+    "translation": "өөрийгөө шоолох",
+    "hanja": "自嘲하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자족",
+    "translation": "Өөрөө хангагдсан",
+    "hanja": "自足",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자족하다",
+    "translation": "Өөртөө сэтгэл хангалуун байх",
+    "hanja": "自足하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자존",
+    "translation": "өөрийгөө хүндлэх",
+    "hanja": "自尊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자존심",
+    "translation": "өөрөө өөрийгөө хүндлэх сэтгэл",
+    "hanja": "自尊心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자종",
+    "translation": "автомат цаг",
+    "hanja": "自鐘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자주",
+    "translation": "олонтаа, байнга",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "자주국방",
+    "translation": "өөрийгөө батлан хамгаалах",
+    "hanja": "自主國防",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자주빛",
+    "translation": "нил ягаан өнгө",
+    "hanja": "자주빛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자주색",
+    "translation": "лилэн өнгө",
+    "hanja": "紫朱色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자주자주",
+    "translation": "байнга",
+    "hanja": "자주자주",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자주적",
+    "translation": "бие даасан",
+    "hanja": "自主的",
+    "pos": "тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "자주하다",
+    "translation": "Често хийх",
+    "hanja": "屢하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "자줏빛",
+    "translation": "ягаан өнгө, нил ягаан",
+    "hanja": "紫줏빛",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자중",
+    "translation": "өөрийгөө хүндлэх, өөрийгөө хязгаарлах",
+    "hanja": "自重",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자중지란",
+    "translation": "Өөрсдийн дундах үймээн",
+    "hanja": "自中之亂",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "자중하다",
+    "translation": "өөрийгөө хянах",
+    "hanja": "自重하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "자지러지다",
+    "translation": "хөхрөх",
+    "hanja": "자지러지다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자진",
+    "translation": "өөрийн дураар",
+    "hanja": "自進",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자진하다",
+    "translation": "Сайн дураараа хийх",
+    "hanja": "自進하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자질",
+    "translation": "Чанар, ур чадвар",
+    "hanja": "資質",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자질구레하다",
+    "translation": "жижиг сажиг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자차",
+    "translation": "хувийн машин",
+    "hanja": "自車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자차이",
+    "translation": "Цацай (хүнсний ногоо)",
+    "hanja": "榨菜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자찬하다",
+    "translation": "өөрийгөө магтах",
+    "hanja": "自讚하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "자창",
+    "translation": "хатгуур шарх",
+    "hanja": "刺創",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자책",
+    "translation": "өөрийгөө буруутгах",
+    "hanja": "自責",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자책감",
+    "translation": "өөрөө өөрийгөө буруутгах мэдрэмж",
+    "hanja": "自責感",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자책하다",
+    "translation": "Өөрийгөө буруутгах",
+    "hanja": "自責하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자처",
+    "translation": "Өөрийгөө (...) гэж үзэх",
+    "hanja": "自處",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자처하다",
+    "translation": "өөрийгөө тодорхойлох, өөртөө хүлээх",
+    "hanja": "自處하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자청",
+    "translation": "өөрийгөө санал болгох",
+    "hanja": "自請",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자청비",
+    "translation": "жачонби (домогт гардаг нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자청하다",
+    "translation": "сайн дураараа санал болгох",
+    "hanja": "自請하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자체",
+    "translation": "Өөрөө",
+    "hanja": "自體",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자체적",
+    "translation": "Өөрийн",
+    "hanja": "自體的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자초",
+    "translation": "учир шалтгаан",
+    "hanja": "自招",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자초지종",
+    "translation": "Үйл явдлын бүх учир",
+    "hanja": "自初至終",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자초하다",
+    "translation": "өөрөө өдөөх, өөрөө үүсгэх",
+    "hanja": "自招하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자축",
+    "translation": "Өөрийгөө баярлуулах",
+    "hanja": "自祝",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "자축하다",
+    "translation": "өөрийгөө баярлуулах",
+    "hanja": "自祝하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자충",
+    "translation": "өөрийгөө хорлох",
+    "hanja": "自充",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자취",
+    "translation": "мөр",
+    "hanja": "자취",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자취방",
+    "translation": "гадаа амьдрах өрөө",
+    "hanja": "自炊房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자취하다",
+    "translation": "мөрөө үлдээх",
+    "hanja": "自炊하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자치",
+    "translation": "өөрийгөө удирдах, өөртөө засах",
+    "hanja": "自治",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자치구별",
+    "translation": "автономит дүүргээр",
+    "hanja": "自治區別",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자치권",
+    "translation": "автономит эрх",
+    "hanja": "自治權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자칫",
+    "translation": "санамсаргүйгээр, арай л",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자칫하다",
+    "translation": "арай л",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자칭",
+    "translation": "өөрийгөө нэрлэх",
+    "hanja": "自稱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자칭하다",
+    "translation": "Өөрийгөө нэрлэх",
+    "hanja": "自稱",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자카르타",
+    "translation": "Жакарта",
+    "hanja": "자카르타",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "자칼",
+    "translation": "цоохор ирвэс",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자켓",
+    "translation": "хүрэм",
+    "hanja": "자켓",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자쿠",
+    "translation": "жакузи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자크",
+    "translation": "цахилгаан товч",
+    "hanja": "zipper",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자키",
+    "translation": "жокей",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자타",
+    "translation": "өөрийгөө болон бусдыг",
+    "hanja": "自他",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자택",
+    "translation": "Гэрийн",
+    "hanja": "自宅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자퇴",
+    "translation": "суралцахаа болих",
+    "hanja": "自退",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자퇴하다",
+    "translation": "сургуулиасаа гарах",
+    "hanja": "自退하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자투리",
+    "translation": "Үлдэгдэл, хаягдал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자판",
+    "translation": "гар",
+    "hanja": "字板",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자판기",
+    "translation": "автомат машин",
+    "hanja": "自販機",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자평",
+    "translation": "өөрийгөө үнэлэх",
+    "hanja": "自評",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자평하다",
+    "translation": "өөрийгөө үнэлэх",
+    "hanja": "自評하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자폐",
+    "translation": "аутизм",
+    "hanja": "自閉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자폐아",
+    "translation": "аутизмтай хүүхэд",
+    "hanja": "自閉兒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자포",
+    "translation": "үхрийн махны боов",
+    "hanja": "紫脯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자포니즘",
+    "translation": "японизм",
+    "hanja": "Japonisme",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자포자기",
+    "translation": "Цөхрөл",
+    "hanja": "自暴自棄",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "자포자기하다",
+    "translation": "өөрийгөө орхих, найдваргүй болох",
+    "hanja": "自暴自棄하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자폭",
+    "translation": "өөрийгөө дэлбэлэх",
+    "hanja": "自爆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자폭하다",
+    "translation": "өөрийгөө дэлбэлэх",
+    "hanja": "自爆하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자필",
+    "translation": "өөрийн гараар бичсэн",
+    "hanja": "自筆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자하",
+    "translation": "ягаан үүл",
+    "hanja": "紫霞",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자하다",
+    "translation": "сайн дураараа хийх",
+    "hanja": "自하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자학",
+    "translation": "Өөрийгөө доромжлох",
+    "hanja": "自虐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자학하다",
+    "translation": "Өөрийгөө зовоох",
+    "hanja": "自虐하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "자한",
+    "translation": "өөрийгөө хязгаарлах",
+    "hanja": "自限",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자해",
+    "translation": "өөрийгөө гэмтээх",
+    "hanja": "自害",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자해하다",
+    "translation": "өөрийгөө гэмтээх",
+    "hanja": "자해하다(自害하다)",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자행",
+    "translation": "явуулах",
+    "hanja": "恣行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자행되다",
+    "translation": "өөрсдөө хийх, дур мэдэн хийх",
+    "hanja": "恣行되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자행하다",
+    "translation": "үйлдлэх, үйлдэх (муу зүйл)",
+    "hanja": "恣行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자허",
+    "translation": "хуурамч",
+    "hanja": "自許",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자허토르테",
+    "translation": "захер торт",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자현",
+    "translation": "өөрийгөө илэрхийлэх",
+    "hanja": "自現",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자형",
+    "translation": "үсгийн хэлбэр",
+    "hanja": "字形",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자혜",
+    "translation": "энэрэл, ач ивээл",
+    "hanja": "慈惠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자홍",
+    "translation": "хүрэн улаан",
+    "hanja": "紫紅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자화",
+    "translation": "өөрөө үзэсгэлэн үзүүлэх",
+    "hanja": "自畵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자화상",
+    "translation": "өөрийн хөрөг",
+    "hanja": "自畫像",
+    "pos": "м",
+    "cefr": "B1"
+  },
+  {
+    "word": "자화자찬",
+    "translation": "өөрийгөө магтах",
+    "hanja": "自畵自讚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자화자찬하다",
+    "translation": "өөрийгөө магтах",
+    "hanja": "自畵自讚하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자활",
+    "translation": "өөрөө өөрийгөө тэтгэх",
+    "hanja": "自活",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자회",
+    "translation": "охин компани",
+    "hanja": "子會",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자회사",
+    "translation": "охин компани",
+    "hanja": "子會社",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자효",
+    "translation": "эхийн үр хайрлах сэтгэл / эхийн энхрийлэл",
+    "hanja": "慈孝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자히",
+    "translation": "Жахи (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

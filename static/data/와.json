@@ -1,0 +1,541 @@
+[
+  {
+    "word": "와",
+    "translation": "орох",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "와계",
+    "translation": "ваки (Японы овог)",
+    "hanja": "和氣",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "와구",
+    "translation": "вааг",
+    "hanja": "와구",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "와규",
+    "translation": "вагю үхрийн мах",
+    "hanja": "和牛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "와그너",
+    "translation": "Вагнер",
+    "hanja": "와그너",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "와글거리다",
+    "translation": "шуурахах",
+    "hanja": "와글거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "와글와글",
+    "translation": "шуугиантай, олон",
+    "hanja": null,
+    "pos": "үлгэрчилсэн үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "와글와글하다",
+    "translation": "олноор цуглах, шуугилдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "와꾸",
+    "translation": "Хүрээ (frame), Гадаад төрх (slang)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "와다닥",
+    "translation": "шаржигнуулан",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "와당탕",
+    "translation": "гэнэт, дүнгэнэх чимээ",
+    "hanja": "와당탕",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "와닿다",
+    "translation": "сэтгэлд хүрэх",
+    "hanja": "와닿다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "와드",
+    "translation": "харуул, хамгаалалт",
+    "hanja": "ward",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "와들와들",
+    "translation": "сэтгэл догдлох байдал",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "와디",
+    "translation": "вади",
+    "hanja": "와디",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "와따",
+    "translation": "Гайхалтай! (аргагүй)",
+    "hanja": "왔다",
+    "pos": "감탄사",
+    "cefr": "B2"
+  },
+  {
+    "word": "와라락",
+    "translation": "гүйлгэх, хуурах",
+    "hanja": "NaN",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "와락",
+    "translation": "гэнэт, огцом",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "와룡",
+    "translation": "унтаж буй луу (их авьяастай нууцлаг хүн)",
+    "hanja": "臥龍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "와류",
+    "translation": "эргүүлэг",
+    "hanja": "渦流",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "와르르",
+    "translation": "бутрах, нурах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "와리",
+    "translation": "вааран, шавар сав",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "와방",
+    "translation": "гайхалтай",
+    "hanja": "와방",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "와병",
+    "translation": "хүнд өвчин",
+    "hanja": "臥病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "와불",
+    "translation": "хэвтэж буй Будда",
+    "hanja": "臥佛",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "와사",
+    "translation": "үхсэн шүд",
+    "hanja": "臥死",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "와사비",
+    "translation": "васаби",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "와사삭",
+    "translation": "хугарах чимээ",
+    "hanja": "None",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "와삭",
+    "translation": "шажигнуулах",
+    "hanja": "--",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "와삭와삭",
+    "translation": "шажиг шажиг",
+    "hanja": "와삭와삭",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "와세다대",
+    "translation": "Васеда их сургууль",
+    "hanja": "早稲田大",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "와셔",
+    "translation": "угаагч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "와스프",
+    "translation": "васп (цэцэрлэгт зөгий)",
+    "hanja": "와스프",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "와신상담",
+    "translation": "өшөөгөө авахаар тэмүүлэх (가시 위에서 자고 쓰디쓴 쓸개를 맛본다는 뜻)",
+    "hanja": "臥薪嘗膽",
+    "pos": "숙어",
+    "cefr": "C2"
+  },
+  {
+    "word": "와아",
+    "translation": "айхтар",
+    "hanja": "null",
+    "pos": "Interjection",
+    "cefr": "A2"
+  },
+  {
+    "word": "와옹",
+    "translation": "Хуучин хөгшин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "와우",
+    "translation": "Ваав, Уух",
+    "hanja": "와우",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "와유",
+    "translation": "Дивантай аялал (Уран зургийн нэр томъёо)",
+    "hanja": "臥遊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "와이",
+    "translation": "Y үсэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "와이드",
+    "translation": "Өргөн",
+    "hanja": "None",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "와이브로",
+    "translation": "WiBro (Wireless Broadband)",
+    "hanja": "WiBro",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "와이셔츠",
+    "translation": "Цагаан цамц",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "와이스",
+    "translation": "Вайсс (нэр)",
+    "hanja": "와이스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "와이어",
+    "translation": "Утас, кабель",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "와이엇",
+    "translation": "Уайетт (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "와이오밍주",
+    "translation": "Вайоминг муж",
+    "hanja": "와이오밍州",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "와이키키",
+    "translation": "Вайкики",
+    "hanja": "와이키키",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "와이파이",
+    "translation": "Вайфай",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "와이퍼",
+    "translation": "шил арчигч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "와이프",
+    "translation": "эхнэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "와인",
+    "translation": "дарс",
+    "hanja": "와인",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "와인글라스",
+    "translation": "дарийн шил",
+    "hanja": "와인글라스",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "와인드업",
+    "translation": "ороомог",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "와일더",
+    "translation": "Уайлдер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "와일드",
+    "translation": "Зэрлэг",
+    "hanja": "와일드",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "와일드하다",
+    "translation": "зэрлэг, ширүүн",
+    "hanja": null,
+    "pos": "형용사 (Adjective)",
+    "cefr": "B1"
+  },
+  {
+    "word": "와자작",
+    "translation": "хагарах чимээ",
+    "hanja": "",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "와작와작",
+    "translation": "шажигнуулах",
+    "hanja": "와작와작",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "와장창",
+    "translation": "чимээ гарган хагарах (буюу унах)",
+    "hanja": "null",
+    "pos": "да.",
+    "cefr": "B1"
+  },
+  {
+    "word": "와전",
+    "translation": "Буруу дамжуулах",
+    "hanja": "訛傳",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "와전되다",
+    "translation": "мушгих",
+    "hanja": "訛傳되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "와중",
+    "translation": "дундах",
+    "hanja": "渦中",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "와지끈",
+    "translation": "туучиж",
+    "hanja": "와지끈",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "와칭",
+    "translation": "ажиглалт",
+    "hanja": "watching",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "와카",
+    "translation": "Японы шүлэг",
+    "hanja": "和歌",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "와카야마",
+    "translation": "Вакаяма",
+    "hanja": "와카야마",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "와쿠",
+    "translation": "Вакуум (Япон гаралтай үг)",
+    "hanja": "ワク",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "와키",
+    "translation": "Ваки",
+    "hanja": null,
+    "pos": "proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "와트",
+    "translation": "ватт",
+    "hanja": "와트",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "와트시",
+    "translation": "ватт-цаг",
+    "hanja": "와트시",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "와파린",
+    "translation": "варфарин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "와플",
+    "translation": "вафли",
+    "hanja": "와플",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "와하다",
+    "translation": "уналдах, нурах",
+    "hanja": "瓦--",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "와하하",
+    "translation": "Хахаха (инээх дуу)",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "와해",
+    "translation": "Задрах",
+    "hanja": "瓦解",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "와해되다",
+    "translation": "бутрах, нуран унах",
+    "hanja": "瓦解되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "와해하다",
+    "translation": "задлах, бутраах",
+    "hanja": "瓦解하다",
+    "pos": "동사",
+    "cefr": "C1"
+  }
+]

@@ -1,0 +1,1192 @@
+[
+  {
+    "word": "요",
+    "translation": "хүүе, ийм, байна уу",
+    "hanja": null,
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요가",
+    "translation": "йога",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요강",
+    "translation": "шээх сав",
+    "hanja": "尿缸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요거",
+    "translation": "энэ (ярианы хэл)",
+    "hanja": "요거",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요거트",
+    "translation": "Иогурт",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "요거하다",
+    "translation": "шаардах",
+    "hanja": "要求하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "요건",
+    "translation": "шаардлага",
+    "hanja": "要件",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "요것",
+    "translation": "энэ (муухайгаар)",
+    "hanja": "요것",
+    "pos": "대명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요격",
+    "translation": "таслан зогсоох",
+    "hanja": "邀擊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요격하다",
+    "translation": "таслан устгах, сөнөөх",
+    "hanja": "要擊하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요고",
+    "translation": "энэ, энэ зүйл",
+    "hanja": "null",
+    "pos": "대명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요골",
+    "translation": "бугуй яс",
+    "hanja": "橈骨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요관",
+    "translation": "шээлүүр",
+    "hanja": "尿管",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요광",
+    "translation": "Гялалзах туяа, гэрэл",
+    "hanja": "燿光",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "요괴",
+    "translation": "Мангас",
+    "hanja": "妖怪",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "요구",
+    "translation": "Шаардлага",
+    "hanja": "要求",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요구되다",
+    "translation": "шаардах",
+    "hanja": "要求─",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요구르트",
+    "translation": "тараг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요구서",
+    "translation": "шаардлага",
+    "hanja": "要求書",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "요구조자",
+    "translation": "аврах шаардлагатай хүн",
+    "hanja": "要求助者",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "요구하다",
+    "translation": "шаардах, хүсэх",
+    "hanja": "要求-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요금",
+    "translation": "төлбөр",
+    "hanja": "料金",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요금소",
+    "translation": "төлбөр хураах цэг",
+    "hanja": "料金所",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "요금표",
+    "translation": "тарифийн хуудас",
+    "hanja": "料金表",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요기",
+    "translation": "хөнгөн зууш, хоол",
+    "hanja": "療飢",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "요기조기",
+    "translation": "тэнд энд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요기하다",
+    "translation": "хөнгөн зууш идэх",
+    "hanja": "療飢하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요긴하다",
+    "translation": "чухал",
+    "hanja": "要緊하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "요깃거리",
+    "translation": "хөнгөн зууш",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요나단",
+    "translation": "Ионадан (нэр)",
+    "hanja": "null",
+    "pos": "н.",
+    "cefr": "A1"
+  },
+  {
+    "word": "요네자와",
+    "translation": "Йонезава",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요녀",
+    "translation": "муу эм, адгуу эм",
+    "hanja": "妖女",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "요년",
+    "translation": "энэ жил",
+    "hanja": "要年",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "요놈",
+    "translation": "Энэ залуу/амьтан (голдуу хайрлах, зэмлэх утгаар)",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요단강",
+    "translation": "Иордан гол",
+    "hanja": "요단江",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "요도",
+    "translation": "шээсний суваг",
+    "hanja": "尿道",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요동",
+    "translation": "хэлбэлзэл",
+    "hanja": "搖動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요동치다",
+    "translation": "савлаж, доргих",
+    "hanja": "搖動치다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요동하다",
+    "translation": "хөдлөх, доргих",
+    "hanja": "搖動하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요딴",
+    "translation": "иймэрхүү, тиймэрхүү",
+    "hanja": null,
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요란",
+    "translation": "дуу шуугиан, чимээ шуугиан",
+    "hanja": "擾亂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요란스럽다",
+    "translation": "шуумгинасан",
+    "hanja": "搖亂스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요란스레",
+    "translation": "шуугиантай, дуу чимээтэйгээр",
+    "hanja": "擾亂스레",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요란하다",
+    "translation": "шуумгай, чимээ шуугиантай",
+    "hanja": "擾亂하다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "요란히",
+    "translation": "Шуугиант, дуу чимээтэй",
+    "hanja": "搖亂히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요람",
+    "translation": "өлгий",
+    "hanja": "搖籃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요래조래",
+    "translation": "Ийм тийм, ингэж тэгж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요량",
+    "translation": "хэмжээ, хэмжээ",
+    "hanja": "料量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요러다",
+    "translation": "ийнхүү хийх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요렇다",
+    "translation": "иймэрхүү байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요령",
+    "translation": "арга",
+    "hanja": "要領",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "요루",
+    "translation": "шөнө",
+    "hanja": "夜",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요루바",
+    "translation": "Йоруба",
+    "hanja": "요루바",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "요르단",
+    "translation": "Йордан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요리",
+    "translation": "Хоол, хоол хийх",
+    "hanja": "料理",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요리되다",
+    "translation": "хоол хийгдэх",
+    "hanja": "料理되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "요리법",
+    "translation": "жор",
+    "hanja": "料理法",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요리사",
+    "translation": "тогооч",
+    "hanja": "料理士",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요리조리",
+    "translation": "тийшээ эндээ",
+    "hanja": "요리조리",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요리하다",
+    "translation": "хоол хийх",
+    "hanja": "料理하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요릿집",
+    "translation": "хоолны газар, ресторан",
+    "hanja": "料理집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요마",
+    "translation": "Чөтгөр",
+    "hanja": "妖魔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요만큼",
+    "translation": "иймэрхүү",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요만하다",
+    "translation": "иймэрхүү, ийм хэмжээтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요맘때",
+    "translation": "Энэ үед",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "요망",
+    "translation": "хүсэлт",
+    "hanja": "要望",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요망되다",
+    "translation": "Шаардагдах",
+    "hanja": "要望되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요망지다",
+    "translation": "бодлогогүй",
+    "hanja": "요망지다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요망하다",
+    "translation": "шаардах, хүсэх",
+    "hanja": "要望하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요모조모",
+    "translation": "энэ тэр",
+    "hanja": "요모조모",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요물",
+    "translation": "муу муухай зүйл",
+    "hanja": "妖物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요미",
+    "translation": "ёми",
+    "hanja": "요미",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요번",
+    "translation": "Энэ удаа",
+    "hanja": "요번",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "요법",
+    "translation": "Эмчилгээ",
+    "hanja": "療法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요부",
+    "translation": "тачаангуй эмэгтэй",
+    "hanja": "妖婦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요분",
+    "translation": "шавар сав, шаариун сав",
+    "hanja": "饊盆",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요사",
+    "translation": "Гайхамшигтай, этгээд сонин",
+    "hanja": "妖邪",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요사스럽다",
+    "translation": "өтгөн, хачирхалтай, хуурамч",
+    "hanja": "요사스럽다(妖邪스럽다)",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요사이",
+    "translation": "Эдгээр өдрүүдэд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요사하다",
+    "translation": "хүндэтгэлгүй байх",
+    "hanja": "妖邪하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "요산",
+    "translation": "Шээсний хүчил",
+    "hanja": "尿酸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요상하다",
+    "translation": "хачин",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요새",
+    "translation": "энэ үед, сүүлийн үед",
+    "hanja": "요새",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "요새화",
+    "translation": "бэхжүүлэх",
+    "hanja": "要塞化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요새화되다",
+    "translation": "бэхлэгдэх",
+    "hanja": "要塞化되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "요새화하다",
+    "translation": "бэхлэх",
+    "hanja": "要塞化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요샛말",
+    "translation": "Орчин үеийн үг хэллэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요석",
+    "translation": "тулгуур чулуу, гол үндэс",
+    "hanja": "要石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요설",
+    "translation": "ялдам яриа",
+    "hanja": "饒舌",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "요성",
+    "translation": "гол цөм",
+    "hanja": "要性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요섹남",
+    "translation": "хоол хийдэг царайлаг залуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요소",
+    "translation": "элемент",
+    "hanja": "要素",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요소요소",
+    "translation": "чухал хэсэг, гол цэг",
+    "hanja": "要所要所",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요수",
+    "translation": "үнэтэй зэр зэвсэг",
+    "hanja": "要髓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요술",
+    "translation": "Шид",
+    "hanja": "妖術",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "요시",
+    "translation": "йоши",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요시노",
+    "translation": "Ёшино (Японы газарзүйн нэр, хүний нэр)",
+    "hanja": "吉野",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요시미",
+    "translation": "Ёшими",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "요시야",
+    "translation": "Иосиа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요시하다",
+    "translation": "хориглох",
+    "hanja": "要視하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요식",
+    "translation": "Ёслол",
+    "hanja": "要式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요식업",
+    "translation": "хоолны бизнес",
+    "hanja": "料食業",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "요아킴",
+    "translation": "Иоахим",
+    "hanja": "요아킴",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요아힘",
+    "translation": "Йоахим",
+    "hanja": "요아힘",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "요알못",
+    "translation": "хоол хийж мэдэхгүй хүн",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "요압",
+    "translation": "дарамт",
+    "hanja": "要壓",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "요약",
+    "translation": "хураангуй",
+    "hanja": "要約",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요약되다",
+    "translation": "хураангуйлагдах, товчлогдох",
+    "hanja": "要約되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요약하다",
+    "translation": "хураангуйлах",
+    "hanja": "要約하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요양",
+    "translation": "эмчилгээ",
+    "hanja": "療養",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "요양소",
+    "translation": "сувилал",
+    "hanja": "療養所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요양원",
+    "translation": "асрах газар",
+    "hanja": "療養院",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요양하다",
+    "translation": "Сувилах",
+    "hanja": "療養하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요역",
+    "translation": "албадлагын хөдөлмөр",
+    "hanja": "徭役",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요염",
+    "translation": "сэтгэл татам, дур булаам",
+    "hanja": "妖艶",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요염하다",
+    "translation": "Дулаахан",
+    "hanja": "妖艶하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "요오",
+    "translation": "ёоёо (тоглоом)",
+    "hanja": "yo-yo",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요오드",
+    "translation": "Иод",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요요",
+    "translation": "ё-ё",
+    "hanja": "yoyo",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요우",
+    "translation": "Ио",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "요원",
+    "translation": "Ажилтан, гишүүн",
+    "hanja": "要員",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "요원하다",
+    "translation": "хол, бүдэг бадаг",
+    "hanja": "遼遠하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요율",
+    "translation": "Хувь хэмжээ",
+    "hanja": "料率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요의",
+    "translation": "шээх хүсэл",
+    "hanja": "尿意",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요이",
+    "translation": "ёои",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요인",
+    "translation": "Хүчин зүйл",
+    "hanja": "要因",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요일",
+    "translation": "долоо хоногийн өдөр",
+    "hanja": "曜日",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "요전",
+    "translation": "саяхан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요전번",
+    "translation": "Өнөөдөр, саяхан",
+    "hanja": "僚前番",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요절",
+    "translation": "залуугаараа нас барах",
+    "hanja": "夭折",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요절하다",
+    "translation": "Эрт нас барах",
+    "hanja": "夭折하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요점",
+    "translation": "Гол санаа, эшлэл",
+    "hanja": "要點",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요정",
+    "translation": "дагина, сахиус",
+    "hanja": "妖精",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요정하다",
+    "translation": "Гуйх, хүсэх",
+    "hanja": "要請하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요제",
+    "translation": "тахил өргөх ёслол",
+    "hanja": " Sac",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요조",
+    "translation": "уран гоё",
+    "hanja": "窈窕",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "요조숙녀",
+    "translation": "чамин тансаг эмэгтэй",
+    "hanja": "窈窕淑女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요즈음",
+    "translation": "сүүлийн үед, одоо үед",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "요즘",
+    "translation": "сүүлийн үед, энэ үед",
+    "hanja": "요즘",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요지",
+    "translation": "гол шугам",
+    "hanja": "要旨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요지경",
+    "translation": "хөрөө, олон өнгөтэй юм хардаг багаж",
+    "hanja": "瑤池鏡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요지부동",
+    "translation": "хөдөлгөөн орохгүй",
+    "hanja": "搖之不動",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요직",
+    "translation": "чухал албан тушаал",
+    "hanja": "要職",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "요짝",
+    "translation": "Энэ тал",
+    "hanja": "요짝",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "요쪽",
+    "translation": "энэ тал",
+    "hanja": "null",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요쯤",
+    "translation": "ойролцоогоор",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요천",
+    "translation": "гоёл чимэглэл",
+    "hanja": "要釧",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요철",
+    "translation": "товгор хонхор",
+    "hanja": "凹凸",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "요청",
+    "translation": "Хүсэлт",
+    "hanja": "要請",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "요청되다",
+    "translation": "хүсэлт гаргагдах",
+    "hanja": "要請되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요청서",
+    "translation": "хүсэлтийн хуудас",
+    "hanja": "要請書",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요청하다",
+    "translation": "хүсэх",
+    "hanja": "要請하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "요체",
+    "translation": "гол цөм",
+    "hanja": "要諦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요추",
+    "translation": "бэлхүүсний яс",
+    "hanja": "腰椎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요충지",
+    "translation": "стратегийн ач холбогдолтой газар",
+    "hanja": "要衝地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요컨대",
+    "translation": "Товчоор хэлбэл",
+    "hanja": "要컨대",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "요코스카",
+    "translation": "Ёкосука (Японы хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요코즈나",
+    "translation": "ёкозуна (сүмогийн хамгийн өндөр цол)",
+    "hanja": "橫綱",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요코하마",
+    "translation": "Ёкохама",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요쿠르트",
+    "translation": "Иогурт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요크",
+    "translation": "ороолт, хүзүүвч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요타",
+    "translation": "йотта (нэгж)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "요통",
+    "translation": "Нуруу өвдөх",
+    "hanja": "腰痛",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "요트",
+    "translation": "зави",
+    "hanja": "요트",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요하네스버그",
+    "translation": "Йоханнесбург",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요하다",
+    "translation": "шаардах, хүсэх",
+    "hanja": "要하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "요행",
+    "translation": "ашгүй, азтай",
+    "hanja": "僥倖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요행히",
+    "translation": "санамсаргүй, азтайгаар",
+    "hanja": "僥倖히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요호",
+    "translation": "гуай, авхай",
+    "hanja": "妖狐",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요환",
+    "translation": "түймэр",
+    "hanja": "妖幻",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

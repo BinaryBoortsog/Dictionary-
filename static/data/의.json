@@ -1,0 +1,1297 @@
+[
+  {
+    "word": "의",
+    "translation": "-ын, -ийн",
+    "hanja": "의",
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "의거",
+    "translation": "үндэслэл",
+    "hanja": "依據",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의거하다",
+    "translation": "тулгуурлах",
+    "hanja": "依據하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의견",
+    "translation": "бодол",
+    "hanja": "意見",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "의견서",
+    "translation": "Дүгнэлт",
+    "hanja": "意見書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의결",
+    "translation": "Шийдвэрлэх, тогтоол",
+    "hanja": "議決",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "의결되다",
+    "translation": "шийдвэрлэгдэх, тогтоогдох",
+    "hanja": "議決되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의결하다",
+    "translation": "шийдвэрлэх",
+    "hanja": "議決하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의경",
+    "translation": "цагдаагийн туслах",
+    "hanja": "義警",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의과",
+    "translation": "Анагаах ухааны тэнхим",
+    "hanja": "醫科",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "의관",
+    "translation": "хувцас, эрхэм хувцас",
+    "hanja": "衣冠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의구심",
+    "translation": "эргэлзээ, сэжиг",
+    "hanja": "疑懼心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의국",
+    "translation": "эмнэлгийн газрын алба",
+    "hanja": "醫局",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의궤",
+    "translation": "хууль, ёс журам",
+    "hanja": "儀軌",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의기소침",
+    "translation": "урам хугарах",
+    "hanja": "意氣消沈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의기소침하다",
+    "translation": "сэтгэлээр унах, урам хугарах",
+    "hanja": "意氣消沈하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의기양양",
+    "translation": "ялалт байгуулсан",
+    "hanja": "意氣揚揚",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의기양양하다",
+    "translation": "ялалт байгуулсан мэт, бахархсан",
+    "hanja": "意氣揚揚하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의기투합",
+    "translation": "санаа нэгдэх, зорилго нийлэх",
+    "hanja": "意氣投合",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의기투합하다",
+    "translation": "санал нийлэх, санаа зохих",
+    "hanja": "意氣投合하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "의녀",
+    "translation": "эмэгтэй эмч",
+    "hanja": "醫女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의논",
+    "translation": "Хэлэлцэх, ярилцах",
+    "hanja": "議論",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의논하다",
+    "translation": "зөвлөх",
+    "hanja": "議論하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "의대",
+    "translation": "анагаахын сургууль",
+    "hanja": "醫大",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "의도",
+    "translation": "санаа, зорилго",
+    "hanja": "意圖",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의도되다",
+    "translation": "санаатай",
+    "hanja": "意圖되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "의도적",
+    "translation": "Санаатай, зориуд",
+    "hanja": "意圖的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "의도하다",
+    "translation": "зорих, төлөвлөх",
+    "hanja": "意圖하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의령",
+    "translation": "Эрён",
+    "hanja": "宜寧",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "의례",
+    "translation": "ёслол",
+    "hanja": "儀禮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "의례적",
+    "translation": "зан үйлийн",
+    "hanja": "儀禮的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의례히",
+    "translation": "Заавал",
+    "hanja": "儀禮히",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "의롭다",
+    "translation": "шударга",
+    "hanja": "義롭다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의뢰",
+    "translation": "даалгавар, хүсэлт",
+    "hanja": "依賴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의뢰되다",
+    "translation": "итгэж өгөх, даатгагдах",
+    "hanja": "依賴되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의뢰인",
+    "translation": "Үйлчлүүлэгч",
+    "hanja": "依賴人",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "의뢰하다",
+    "translation": "итгэж даатгах, захиалах",
+    "hanja": "依賴하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "의료",
+    "translation": "эмчилгээ",
+    "hanja": "醫療",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의료계",
+    "translation": "Эмнэлгийн салбар",
+    "hanja": "醫療界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의료비",
+    "translation": "Эмнэлгийн зардал",
+    "hanja": "醫療費",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "의료인",
+    "translation": "эмч мэргэжилтэн",
+    "hanja": "醫療人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의료진",
+    "translation": "эмч, эмнэлгийн ажилтан",
+    "hanja": "醫療陣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의류",
+    "translation": "хувцас",
+    "hanja": "衣類",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "의릉",
+    "translation": "ыйрын (солонгосын түүхийн нэр)",
+    "hanja": "懿陵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의리",
+    "translation": "үнэнч байдал, итгэл",
+    "hanja": "義理",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의무",
+    "translation": "Үүрэг",
+    "hanja": "義務",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "의무감",
+    "translation": "үүргийн мэдрэмж",
+    "hanja": "義務感",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "의무대",
+    "translation": "Эмнэлгийн баг, эмнэлгийн анги",
+    "hanja": "醫務隊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의무실",
+    "translation": "эмнэлгийн өрөө",
+    "hanja": "醫務室",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "의무적",
+    "translation": "үүргийн",
+    "hanja": "義務的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의무화",
+    "translation": "заавал хэрэгжүүлэх",
+    "hanja": "義務化",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "의무화되다",
+    "translation": "үүрэгжүүлэх",
+    "hanja": "義務化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의무화하다",
+    "translation": "Албадлагын",
+    "hanja": "義務化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의문",
+    "translation": "эргэлзээ",
+    "hanja": "疑問",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "의문문",
+    "translation": "асуух өгүүлбэр",
+    "hanja": "疑問文",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의문사",
+    "translation": "үхлийн шалтгаан тодорхойгүй",
+    "hanja": "疑問死",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의문사하다",
+    "translation": "нууцлаг байдлаар нас барах",
+    "hanja": "疑問死하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의문스럽다",
+    "translation": "эргэлзээтэй",
+    "hanja": "疑問스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의문시되다",
+    "translation": "эргэлзэгдэх",
+    "hanja": "疑問視되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의문점",
+    "translation": "эргэлзээтэй асуудал",
+    "hanja": "疑問點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의문투성이",
+    "translation": "бүрхэг байдалтай",
+    "hanja": "疑問투성이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의문하다",
+    "translation": "эргэлзэх",
+    "hanja": "疑問하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의문형",
+    "translation": "Асуулгын хэлбэр",
+    "hanja": "疑問形",
+    "pos": "Нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "의뭉스럽다",
+    "translation": "үрэлгэн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의미",
+    "translation": "утга учир",
+    "hanja": "意味",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의미심장하다",
+    "translation": "утга учиртай",
+    "hanja": "意味深長하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의미하다",
+    "translation": "гэсэн үг",
+    "hanja": "意味하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "의병",
+    "translation": "сайн дурын цэрэг",
+    "hanja": "義兵",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "의복",
+    "translation": "Хувцас",
+    "hanja": "衣服",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "의부",
+    "translation": "эгчмийн нөхөр",
+    "hanja": "義夫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의부증",
+    "translation": "нөхрөө хардагдах өвчин",
+    "hanja": "疑夫症",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "의분",
+    "translation": "зөв шударга уур",
+    "hanja": "義憤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의붓동생",
+    "translation": "хойд дүү",
+    "hanja": "義붓同生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의붓딸",
+    "translation": "хойд охин",
+    "hanja": "義붓딸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의붓아들",
+    "translation": "хойд хүү",
+    "hanja": "義붓아들",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "의붓아버지",
+    "translation": "хойд эцэг",
+    "hanja": "義父아버지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "의붓어머니",
+    "translation": "хойд эх",
+    "hanja": "義붓어머니",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의붓엄마",
+    "translation": "хойд эх",
+    "hanja": "義붓엄마",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "의빈",
+    "translation": "Харваас тансаг",
+    "hanja": "儀賓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의사",
+    "translation": "эмч",
+    "hanja": "醫師",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "의사당",
+    "translation": "парламентын ордон",
+    "hanja": "議事堂",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "의사록",
+    "translation": "хурлын тэмдэглэл",
+    "hanja": "議事錄",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "의사소통",
+    "translation": "харилцаа холбоо",
+    "hanja": "意思疎通",
+    "pos": "м.н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "의사소통하다",
+    "translation": "харилцах",
+    "hanja": "意思疎通하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "의사하다",
+    "translation": "Ижилсэх, адилхан байх",
+    "hanja": "擬似하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의상",
+    "translation": "Хувцас, хувцаслалт",
+    "hanja": "衣裳",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의생",
+    "translation": "анагаахын оюутан",
+    "hanja": "醫生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의생활",
+    "translation": "хувцасны амьдрал",
+    "hanja": "衣生活",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "의서",
+    "translation": "анагаах ухааны ном",
+    "hanja": "醫書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의석",
+    "translation": "суудал (парламент)",
+    "hanja": "議席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의석수",
+    "translation": "суудлын тоо",
+    "hanja": "議席數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의선",
+    "translation": "зөв шугам, зөв үзэл",
+    "hanja": "義線/醫仙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의성",
+    "translation": "Дуурайх дуу",
+    "hanja": "擬聲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의성어",
+    "translation": "Дуурайх үг",
+    "hanja": "擬聲語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의수",
+    "translation": "хиймэл гар",
+    "hanja": "義手",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의술",
+    "translation": "эмчилгээний урлаг",
+    "hanja": "醫術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의식",
+    "translation": "ухамсар",
+    "hanja": "意識",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "의식되다",
+    "translation": "мэдрэгдэх",
+    "hanja": "意識되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의식적",
+    "translation": "Ухамсартай",
+    "hanja": "意識的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의식주",
+    "translation": "хувцас, хоол, орон байр",
+    "hanja": "衣食住",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의식하다",
+    "translation": "мэдрэх, ухамсарлах",
+    "hanja": "意識하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "의식화",
+    "translation": "ухамсаржуулах",
+    "hanja": "意識化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의식화하다",
+    "translation": "ухамсарлуулах",
+    "hanja": "意識化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의심",
+    "translation": "сэжиг",
+    "hanja": "疑心",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의심나다",
+    "translation": "эргэлзэх",
+    "hanja": "疑心나다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의심되다",
+    "translation": "сүжигт өртөх, эргэлзэх",
+    "hanja": "疑心되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "의심스럽다",
+    "translation": "сэжигтэй",
+    "hanja": "疑心스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "의심쩍다",
+    "translation": "сэжигтэй, эргэлзээтэй",
+    "hanja": "疑心쩍다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의심하다",
+    "translation": "сүрдүүлэгчид",
+    "hanja": "疑心-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의아",
+    "translation": "эргэлзээ, гайхах",
+    "hanja": "疑訝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의아스럽다",
+    "translation": "гайхмаар, эргэлзээтэй",
+    "hanja": "疑訝스럽다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "의아하다",
+    "translation": "гайхах",
+    "hanja": "疑訝하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "의안",
+    "translation": "төсөл, санаа",
+    "hanja": "議案",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의암",
+    "translation": "хадан цохио",
+    "hanja": "義巖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의약",
+    "translation": "анагаах ухаан, эм",
+    "hanja": "醫藥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의약품",
+    "translation": "эм",
+    "hanja": "醫薬品",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "의양",
+    "translation": "санал бодол",
+    "hanja": "意向",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의업",
+    "translation": "анагаахын ажил",
+    "hanja": "醫業",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의역",
+    "translation": "утгаар орчуулах",
+    "hanja": "意譯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의역하다",
+    "translation": "утгачлан орчуулах",
+    "hanja": "意譯하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의연하다",
+    "translation": "тайван байх",
+    "hanja": "毅然하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의연히",
+    "translation": "баатарлаг",
+    "hanja": "毅然히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의열단",
+    "translation": "удирдлагын баг",
+    "hanja": "義烈團",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의영",
+    "translation": "сэтгэлд баригдах дүр төрх",
+    "hanja": "意影",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의예과",
+    "translation": "эмнэлгийн урьдчилсан курс",
+    "hanja": "醫豫科",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의왕",
+    "translation": "вангийн өргөмжлөл",
+    "hanja": "義王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의외",
+    "translation": "санаандгүй, гэнэтийн",
+    "hanja": "意外",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의욕",
+    "translation": "хүсэл эрмэлзэл",
+    "hanja": "意欲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의욕적",
+    "translation": "зорилготой, идэвхтэй",
+    "hanja": "意欲的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의용군",
+    "translation": "сайн дурын арми",
+    "hanja": "義勇軍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의원",
+    "translation": "Гишүүн, эмч",
+    "hanja": "議員/醫院",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "의의",
+    "translation": "Утга учир",
+    "hanja": "意義",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "의이",
+    "translation": "гайхах",
+    "hanja": "疑貳",
+    "pos": "감탄사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의인",
+    "translation": "зөв хүн",
+    "hanja": "義人",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "의인화",
+    "translation": "амьдруулах",
+    "hanja": "擬人化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의인화되다",
+    "translation": "хувьсгах",
+    "hanja": "擬人化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의인화하다",
+    "translation": "хүнчилэх",
+    "hanja": "擬人化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의자",
+    "translation": "сандал",
+    "hanja": "椅子",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "의장",
+    "translation": "дарга",
+    "hanja": "議長",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "의장국",
+    "translation": "даргалагч улс",
+    "hanja": "議長國",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의장단",
+    "translation": "удирдлагын баг, даргалах зөвлөл",
+    "hanja": "議長團",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "의장대",
+    "translation": "хүндэт харуул",
+    "hanja": "儀仗隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의적",
+    "translation": "шударга хулгайч",
+    "hanja": "義賊",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "의전",
+    "translation": "ёслол, хатуу дүрэм",
+    "hanja": "儀典",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의전하다",
+    "translation": "ёс журмыг дагах",
+    "hanja": "儀典—",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의절",
+    "translation": "харилцаа таслах",
+    "hanja": "義絕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의절하다",
+    "translation": "харилцаагаа таслах",
+    "hanja": "義絶하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의젓하다",
+    "translation": "даруухан, төлөв",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의정",
+    "translation": "Хууль тогтоох, засгийн газар",
+    "hanja": "議政",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의정부시",
+    "translation": "Ыйжонбү хот",
+    "hanja": "議政府市",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "의제",
+    "translation": "хэлэлцэх асуудал",
+    "hanja": "議題",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의족",
+    "translation": "Хиймэл хөл",
+    "hanja": "義足",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "의존",
+    "translation": "Хамаарал",
+    "hanja": "의존",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의존도",
+    "translation": "хамаарал",
+    "hanja": "依存度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의존성",
+    "translation": "хамаарал, түшиглэл",
+    "hanja": "依存性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의존적",
+    "translation": "хамааралтай",
+    "hanja": "依存的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의존하다",
+    "translation": "хамаарах",
+    "hanja": "依存-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의종",
+    "translation": "Ийжун (Гурёогийн хаан)",
+    "hanja": "毅宗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의좋다",
+    "translation": "эв эетэй",
+    "hanja": "誼좋다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "의주",
+    "translation": "Ижүү",
+    "hanja": "義州",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "의중",
+    "translation": "Бодол, санаа",
+    "hanja": "意中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의지",
+    "translation": "санаа, хүсэл",
+    "hanja": "意志",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "의지력",
+    "translation": "эрмэлзэл",
+    "hanja": "意志力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "의지하다",
+    "translation": "найдах",
+    "hanja": "依支하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "의창",
+    "translation": "санаачлагын сан",
+    "hanja": "義倉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의처증",
+    "translation": "эхнэртээ хартай болох өвчин",
+    "hanja": "疑妻症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의천",
+    "translation": "хэлэлцүүлэг",
+    "hanja": "議天",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의체",
+    "translation": "хийн бие",
+    "hanja": "義體",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의총",
+    "translation": "хууль тогтоогчдын хурал",
+    "hanja": "議叢",
+    "pos": "м",
+    "cefr": "C1"
+  },
+  {
+    "word": "의탁하다",
+    "translation": "түших, найдвар тавих",
+    "hanja": "依託하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "의태",
+    "translation": "дуураймал дүр төрх",
+    "hanja": "擬態",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의태어",
+    "translation": "Дуурайм үг",
+    "hanja": "擬態語",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "의표",
+    "translation": "санаанаас гадуур",
+    "hanja": "意表",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의하다",
+    "translation": "үндэслэх",
+    "hanja": "依-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의학",
+    "translation": "анагаах ухаан",
+    "hanja": "醫學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의학계",
+    "translation": "анагаах ухааны салбар",
+    "hanja": "醫學界",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "의학자",
+    "translation": "Эмч",
+    "hanja": "醫學者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "의학적",
+    "translation": "анагаах ухааны",
+    "hanja": "醫學的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의향",
+    "translation": "Бодол, зорилго",
+    "hanja": "意向",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의협",
+    "translation": "шударга ёс",
+    "hanja": "義俠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "의협심",
+    "translation": "шударга ёс, баатарлаг сэтгэл",
+    "hanja": "義俠心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의형",
+    "translation": "ах дүүгийн холбоо",
+    "hanja": "義兄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의형제",
+    "translation": "анд ах дүү",
+    "hanja": "義兄弟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의혹",
+    "translation": "сэжиг",
+    "hanja": "疑惑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의회",
+    "translation": "парламент",
+    "hanja": "議會",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

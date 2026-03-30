@@ -1,0 +1,2396 @@
+[
+  {
+    "word": "우",
+    "translation": "баруун",
+    "hanja": "右",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "우가",
+    "translation": "машины дуу чимээ",
+    "hanja": "吁嗟",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "우간다",
+    "translation": "Уганда",
+    "hanja": "우간다",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "우거지다",
+    "translation": "Ургамал шиг ургах",
+    "hanja": "우거지다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우거지상",
+    "translation": "муухай царай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우걱우걱",
+    "translation": "том том залгих",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "우겨싸다",
+    "translation": "шахаж бөглөх",
+    "hanja": "우겨싸다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우격다짐",
+    "translation": "хүчээр шахах",
+    "hanja": "우격다짐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우경",
+    "translation": "зүүн тийш",
+    "hanja": "右傾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우경화",
+    "translation": "Барууны үзэл баримтлал руу шилжих",
+    "hanja": "右傾化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우경화되다",
+    "translation": "баруун тал руу эргэх",
+    "hanja": "右傾化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우곤",
+    "translation": "муухай адил",
+    "hanja": "疣根",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우공",
+    "translation": "Угон",
+    "hanja": "愚公",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "우공이산",
+    "translation": "бэрхшээлийг үл тоомсорлох",
+    "hanja": "愚公移山",
+    "pos": "사자성어",
+    "cefr": "C2"
+  },
+  {
+    "word": "우국지사",
+    "translation": "эх оронч",
+    "hanja": "憂國之士",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "우국충정",
+    "translation": "эх орондоо хайртай сэтгэл",
+    "hanja": "憂國衷情",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우군",
+    "translation": "холбоотон",
+    "hanja": "友軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우그러뜨리다",
+    "translation": "унагаах / нураах / хуруудах",
+    "hanja": "우그러뜨리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우그러지다",
+    "translation": "мурийх, тахийх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우글거리다",
+    "translation": "багтах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우글대다",
+    "translation": "бужигнах, үймэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우글우글",
+    "translation": "үй олн; олноор",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우글우글하다",
+    "translation": "шуугилдах, бөөнөөрөө байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우금하다",
+    "translation": "саад хийх, зогсоох",
+    "hanja": "又禁하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우기",
+    "translation": "Улиастай үе",
+    "hanja": "雨期",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우기다",
+    "translation": "шахах, зөрүүдлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우끼",
+    "translation": "амьдрах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우나기",
+    "translation": "Унаги (япон загасны хоол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우남",
+    "translation": "У-нам (газарзүйн нэр)",
+    "hanja": "禺南",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우뇌",
+    "translation": "баруун тархи",
+    "hanja": "右腦",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우는소리",
+    "translation": "Уйлах дуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우니다",
+    "translation": "Онида (нутгийн нэр)",
+    "hanja": "우니다",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우다다",
+    "translation": "гур хийх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우달치",
+    "translation": "хааны бие хамгаалагч",
+    "hanja": "羽達赤",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "우당탕",
+    "translation": "дуу шуутай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우당탕거리다",
+    "translation": "дугуй мэт эргэлдэх, дуу чимээ гаргах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우당탕탕",
+    "translation": "хүчтэй дуугарах",
+    "hanja": "우당탕탕",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "우당탕하다",
+    "translation": "хүрхрэх, дуугарах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우대",
+    "translation": "Давуу эрх олгох",
+    "hanja": "優待",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우대하다",
+    "translation": "давуу эрх олгох",
+    "hanja": "優待하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우덕순",
+    "translation": "У Деок-сун",
+    "hanja": "禹德淳",
+    "pos": "고유명사",
+    "cefr": null
+  },
+  {
+    "word": "우도",
+    "translation": "Удо арал",
+    "hanja": "牛島",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "우동",
+    "translation": "Удон",
+    "hanja": "うどん (Udon)",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "우두",
+    "translation": "тахиа өвчин",
+    "hanja": "牛痘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우두둑",
+    "translation": "тархины дуу",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우두둑우두둑",
+    "translation": "шажиг шажиг",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "우두둑하다",
+    "translation": "хагарах чимээ гарах, тас няс гэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우두머리",
+    "translation": "ахлагч",
+    "hanja": "우두머리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우두커니",
+    "translation": "Хөшүүн, хөдөлгөөгүй",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우둔하다",
+    "translation": "ухаан муутай",
+    "hanja": "우둔하다(愚鈍하다)",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우둘투둘",
+    "translation": "тэгш бус, овгор товгор",
+    "hanja": "우둘투둘",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우둘투둘하다",
+    "translation": "барзгар",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우드",
+    "translation": "мод (голфын цохиур)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우드득",
+    "translation": "шажигнатал",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우드락",
+    "translation": "хөөсөнцөр хавтан",
+    "hanja": "우드락",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우드워드",
+    "translation": "Вудворд (хувийн нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우듬지",
+    "translation": "модны орой",
+    "hanja": "우듬지",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우등",
+    "translation": "онцгой, дээд зэргийн",
+    "hanja": "優等",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우등상",
+    "translation": "онц сурсаны шагнал",
+    "hanja": "優等賞",
+    "pos": "명са",
+    "cefr": "B1"
+  },
+  {
+    "word": "우등생",
+    "translation": "онц сурагч",
+    "hanja": "優等生",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "우등하다",
+    "translation": "Онц сурах",
+    "hanja": "優等하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우디",
+    "translation": "Вудди",
+    "hanja": "",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "우떻다",
+    "translation": "яах вэ",
+    "hanja": "우떻다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우뚝",
+    "translation": "өөдөө",
+    "hanja": "우뚝",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우뚝하다",
+    "translation": "Сүрлэг",
+    "hanja": null,
+    "pos": "Тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "우라노스",
+    "translation": "Уран",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우라늄",
+    "translation": "Уран",
+    "hanja": "uranium",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우라다",
+    "translation": "Урада",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우락",
+    "translation": "хүнд хэрэгсэл",
+    "hanja": "優樂",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "우락부락",
+    "translation": "мулгуу",
+    "hanja": "N/A",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "우락부락하다",
+    "translation": "Бүдүүлэг, баргил",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우람하다",
+    "translation": "сүртэй, сүгэрхүү",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우량",
+    "translation": "сайн чанар, дээд зэргийн",
+    "hanja": "優良",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우량아",
+    "translation": "эрүүл саруул хүүхэд",
+    "hanja": "優良兒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우량주",
+    "translation": "хөрөнгийн зах зээлийн нэр хүндтэй хувьцаа",
+    "hanja": "優良株",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우량하다",
+    "translation": "сайн чанартай",
+    "hanja": "優良하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우러나다",
+    "translation": "гарч ирэх",
+    "hanja": "우러나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우러르다",
+    "translation": "хүндэтгэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우럭",
+    "translation": "Сагамхай",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "우렁",
+    "translation": "эмгэн хумс",
+    "hanja": "우렁",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우렁우렁",
+    "translation": "уухайн дуутай",
+    "hanja": "우렁우렁",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우렁우렁하다",
+    "translation": "Дүнгэр дүйнгэр дуугарах",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우렁이",
+    "translation": "амазон эмгэн хумс",
+    "hanja": "우렁이",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "우렁차다",
+    "translation": "чанга",
+    "hanja": "우렁차다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우레",
+    "translation": "Аянга цахилгаан",
+    "hanja": "우레",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우레이",
+    "translation": "Аянга",
+    "hanja": "雨雷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우레탄",
+    "translation": "уретан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우렛소리",
+    "translation": "аянга цахилгааны дуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우려",
+    "translation": "айдас",
+    "hanja": "憂慮",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "우려내다",
+    "translation": "хандлах",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우려되다",
+    "translation": "санаа зовоод байна",
+    "hanja": "憂慮되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우려먹다",
+    "translation": "дахин дахин ашиглах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우려스럽다",
+    "translation": "санаа зовох, түгшүүртэй байх",
+    "hanja": "憂慮스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우려하다",
+    "translation": "санаа зовох",
+    "hanja": "憂慮하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우롱",
+    "translation": "доромжлох, басамжлах",
+    "hanja": "愚弄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우롱당하다",
+    "translation": "доромжлогдох",
+    "hanja": "愚弄당하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우롱하다",
+    "translation": "Дооглох, шоолох, тохуурхах",
+    "hanja": "愚弄하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우뢰",
+    "translation": "цахилгаан",
+    "hanja": "雨雷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우루",
+    "translation": "Уру (газар эсвэл хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우루과이",
+    "translation": "Уругвай",
+    "hanja": "Uruguay",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "우루루",
+    "translation": "Бөөнөөрөө",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우루무치",
+    "translation": "Урумчи",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우루크",
+    "translation": "Урук",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "우류",
+    "translation": "У-рюү (Япон нэр)",
+    "hanja": "宇流",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우르",
+    "translation": "Ур (Месопотамийн эртний хот)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우르다",
+    "translation": "орох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우르르",
+    "translation": "Бөөнөөр",
+    "hanja": "우르르",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우르릉",
+    "translation": "дуугарах, нижигнэх (дууны авиа)",
+    "hanja": "우르릉",
+    "pos": "adv",
+    "cefr": "B1"
+  },
+  {
+    "word": "우르릉거리다",
+    "translation": "хүрхрэх, нижигнэх",
+    "hanja": "우르릉거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우르릉대다",
+    "translation": "өржүүлэн дуугарах",
+    "hanja": "우르릉대다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우리",
+    "translation": "бид",
+    "hanja": null,
+    "pos": "pronoun",
+    "cefr": "A1"
+  },
+  {
+    "word": "우리글",
+    "translation": "бидний үсэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "우리나라",
+    "translation": "манай улс",
+    "hanja": "우리나라",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "우리다",
+    "translation": "хандлах, буцалгах",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "우리말",
+    "translation": "монгол хэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "우리이",
+    "translation": "бидний",
+    "hanja": "null",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "우리티다",
+    "translation": "цухуйх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우리하다",
+    "translation": "онцгой байх",
+    "hanja": "優異하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우린",
+    "translation": "Бид (우리-н товчилсон хэлбэр)",
+    "hanja": "우린",
+    "pos": "Pronoun",
+    "cefr": "A1"
+  },
+  {
+    "word": "우마",
+    "translation": "Үхэр, морь",
+    "hanja": "牛馬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우마르",
+    "translation": "Умар (нэр)",
+    "hanja": "우마르",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우매",
+    "translation": "мулгуу",
+    "hanja": "愚昧",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우매하다",
+    "translation": "үүмхэй, мулгуу",
+    "hanja": "愚昧하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우메보시",
+    "translation": "умэбоши (японы чангаамал)",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우면",
+    "translation": "баруун тал",
+    "hanja": "右面",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우모",
+    "translation": "өмсгөл, хувцас",
+    "hanja": "羽毛",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "우무",
+    "translation": "желе (далайн замагны)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우무하다",
+    "translation": "бүдэг бадаг",
+    "hanja": "愚昧하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우묵하다",
+    "translation": "хонхойсон, гүнзгий",
+    "hanja": "우묵하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우문",
+    "translation": "тэнэг асуулт",
+    "hanja": "愚問",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "우물",
+    "translation": "худаг",
+    "hanja": "우물",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우물가",
+    "translation": "худагны дэргэд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우물거리다",
+    "translation": "дуугүй байх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "우물우물",
+    "translation": "хойш урагш (хэлэх); залхуутай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우물우물하다",
+    "translation": "номхол, зөөлөн",
+    "hanja": "우물우물하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "우물쭈물",
+    "translation": "эргэлзэх, хойргонох",
+    "hanja": "NULL",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우물쭈물하다",
+    "translation": "эргэлзэх",
+    "hanja": "",
+    "pos": "үйл үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "우뭇가사리",
+    "translation": "Далайн ургамал (agar-agar)",
+    "hanja": "우뭇가사리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우미",
+    "translation": "үзэсгэлэнтэй, тансаг",
+    "hanja": "優美",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우바",
+    "translation": "Ува",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우바이",
+    "translation": "Убай (Энэтхэгийн лам)",
+    "hanja": "優婆夷",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우박",
+    "translation": "мөндөр",
+    "hanja": "우박(雨雹)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우발",
+    "translation": "санамсаргүй, гэнэтийн",
+    "hanja": "偶發",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "우발적",
+    "translation": "Санамсаргүй, гэнэтийн",
+    "hanja": "偶發的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우방",
+    "translation": "найрсаг улс",
+    "hanja": "友邦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우방국",
+    "translation": "найрсаг улс",
+    "hanja": "友邦國",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "우범",
+    "translation": "хүнд гэмт хэрэг",
+    "hanja": "尤犯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우범자",
+    "translation": "гэмт этгээд",
+    "hanja": "虞犯者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우베",
+    "translation": "убе (Нил ягаан төмс)",
+    "hanja": "우베",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우변",
+    "translation": "Баруун тал (математик)",
+    "hanja": "右邊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우비",
+    "translation": "борооны цув",
+    "hanja": "雨備",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우사",
+    "translation": "үхрийн саравч",
+    "hanja": "牛舍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우산",
+    "translation": "шүхэр",
+    "hanja": "雨傘",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "우산국",
+    "translation": "Усан улс (хуучин улс)",
+    "hanja": "于山國",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우산꽂이",
+    "translation": "шүхэр тогтоогч",
+    "hanja": "雨傘꽂이",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "우산살",
+    "translation": "шүхэрний яс",
+    "hanja": "우산살",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "우삼겹",
+    "translation": "үхрийн гуяны мах",
+    "hanja": "牛三겹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우상",
+    "translation": "шүтээн",
+    "hanja": "偶像",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "우상시하다",
+    "translation": "шүтээн шүтэх",
+    "hanja": "偶像視하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우상향하다",
+    "translation": "Дээшээ чиглэх (график)",
+    "hanja": "右上向하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우상화",
+    "translation": "шүтээн болгох",
+    "hanja": "偶像化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우상화되다",
+    "translation": "шүтээн болгох",
+    "hanja": "偶像化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우상화하다",
+    "translation": "шүтээн болгох",
+    "hanja": "偶像化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우서리",
+    "translation": "анхны цас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우선",
+    "translation": "Юун түрүүнд",
+    "hanja": "優先",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우선권",
+    "translation": "давуу эрх, тэргүүлэх эрх",
+    "hanja": " 우선권",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우선되다",
+    "translation": "Эхэнд тавигдах",
+    "hanja": "優先되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우선순위",
+    "translation": "Эхний ээлжийн ач холбогдол",
+    "hanja": "優先順位",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우선시되다",
+    "translation": "нэн тэргүүнд тавигдах",
+    "hanja": "優先視되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "우선시하다",
+    "translation": "чухалчлах",
+    "hanja": "優先視–",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우선하다",
+    "translation": "нэн тэргүүнд тавих",
+    "hanja": "優先하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우설",
+    "translation": "үхрийн хэл",
+    "hanja": "牛舌",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "우세",
+    "translation": "давамгайлал",
+    "hanja": "優勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우세하다",
+    "translation": "Давамгайлах, илүү",
+    "hanja": "優勢하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우송",
+    "translation": "шууданаар илгээх",
+    "hanja": "郵送",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우송하다",
+    "translation": "Шуудангаар илгээх",
+    "hanja": "郵送하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우수",
+    "translation": "шившиг, борооны ус",
+    "hanja": "雨水/優秀",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "우수리",
+    "translation": "Үлдэгдэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우수성",
+    "translation": "давуу тал, чанар",
+    "hanja": "優秀性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우수수",
+    "translation": "усан үс",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우수하다",
+    "translation": "маш сайн",
+    "hanja": "優秀하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "우숩다",
+    "translation": "Инээдтэй, хөгжилтэй (хуучны)",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우스",
+    "translation": "Оус (нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "우스개",
+    "translation": "хошигнол, онигоо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우스갯거리",
+    "translation": "Хошигнол, онигоо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우스갯소리",
+    "translation": "хошигнол, онигоо",
+    "hanja": "우스갯소리",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "우스꽝스럽다",
+    "translation": "Инээдтэй, хөгжилтэй",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우스다",
+    "translation": "Хөхрөх, инээх",
+    "hanja": "우스다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "우슬",
+    "translation": "Үхрийн өвс",
+    "hanja": "牛膝",
+    "pos": "Нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "우습",
+    "translation": "хөгжилтэй, инээдтэй",
+    "hanja": "優習",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우습다",
+    "translation": "хөгжилтэй, инээдтэй",
+    "hanja": "우습다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우승",
+    "translation": "ялалт",
+    "hanja": "優勝",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "우승권",
+    "translation": "Аврагын цомын болзол",
+    "hanja": "優勝圈",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "우승자",
+    "translation": "ялагч",
+    "hanja": "優勝者",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "우승컵",
+    "translation": "аваргын цом",
+    "hanja": "優勝cup",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우승하다",
+    "translation": "ялах",
+    "hanja": "優勝하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우시",
+    "translation": "үхрийн махны зах (우시장)",
+    "hanja": "牛市",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우시장",
+    "translation": "үхрийн зах",
+    "hanja": "牛市場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우식",
+    "translation": "шүдний цоорол",
+    "hanja": "齲蝕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우실",
+    "translation": "Угшил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우쒸",
+    "translation": "Уушш",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우쓰노미야",
+    "translation": "Уцуномия (хотын нэр)",
+    "hanja": "宇都宮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "우씨",
+    "translation": "хөөх",
+    "hanja": null,
+    "pos": "interjection",
+    "cefr": "A2"
+  },
+  {
+    "word": "우아",
+    "translation": "уян зөөлөн",
+    "hanja": "優雅",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "우아하다",
+    "translation": "уян налархай, дэгжин",
+    "hanja": "優雅하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우아함",
+    "translation": "гоёмсог",
+    "hanja": "優雅함",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우악스럽다",
+    "translation": "бүдүүлэг",
+    "hanja": "우악스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우안",
+    "translation": "баруун ёроол",
+    "hanja": "右岸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우암",
+    "translation": "Уам",
+    "hanja": "尤庵",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우앙",
+    "translation": "уан /уйлах дуу/",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "우애",
+    "translation": "ах дүүгийн хайр",
+    "hanja": "友愛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우야다",
+    "translation": "Учиртай нэгэн байсан",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우양",
+    "translation": "Үхэр ба хонь",
+    "hanja": "牛羊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우어",
+    "translation": "Өө (хайхрамжгүй байдлыг илэрхийлэх дуу)",
+    "hanja": "우어",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "우엉",
+    "translation": "хулуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우에",
+    "translation": "дээр нь",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우여곡절",
+    "translation": "олон бэрхшээл, саад бэрхшээл",
+    "hanja": "紆餘曲折",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우연",
+    "translation": "тохиолдол",
+    "hanja": "偶然",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "우연성",
+    "translation": "Санамсаргүй байдал",
+    "hanja": "偶然性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우연스럽다",
+    "translation": "санамсаргүй байх",
+    "hanja": "偶然스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우연적",
+    "translation": "санамсаргүй, тохиолдлын",
+    "hanja": "偶然的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우연찮다",
+    "translation": "санамсаргүй",
+    "hanja": "偶然찮다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우연하다",
+    "translation": "санамсаргүй тохиолдох",
+    "hanja": "偶然하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우연히",
+    "translation": "санамсаргүй",
+    "hanja": "偶然히",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "우열",
+    "translation": "Давуу ба сул тал",
+    "hanja": "優劣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우예",
+    "translation": "баруун тал",
+    "hanja": "右",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우와",
+    "translation": "гайхалтай, гайхамшигтай (дуу авиа)",
+    "hanja": "吁",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "우왕",
+    "translation": "Уван ван",
+    "hanja": "禑王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우왕좌왕",
+    "translation": "Тээглэх, самуурах",
+    "hanja": "右往左往",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우왕좌왕하다",
+    "translation": "бүх зүгт холхих",
+    "hanja": "右往左往하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우우",
+    "translation": "үе үе",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우울",
+    "translation": "Гунигтай, сэтгэл гутрал",
+    "hanja": "憂鬱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우울증",
+    "translation": "сэтгэл гутрал",
+    "hanja": "憂鬱症",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "우울하다",
+    "translation": "сэтгэлээр унах",
+    "hanja": "憂鬱하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우울함",
+    "translation": "гунигтай байдал, сэтгэл гутрал",
+    "hanja": "憂鬱함",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우월",
+    "translation": "давуу байдал",
+    "hanja": "優越",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우월감",
+    "translation": "давуу байдлын мэдрэмж",
+    "hanja": "優越感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우월성",
+    "translation": "давуу тал",
+    "hanja": "優越性",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "우월하다",
+    "translation": "давуу байх",
+    "hanja": "優越하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "우웩",
+    "translation": "уух (бөөлжих чимээ)",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우위",
+    "translation": "давуу тал",
+    "hanja": "優位",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "우유",
+    "translation": "сүү",
+    "hanja": "牛乳",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "우유병",
+    "translation": "сүүний шил",
+    "hanja": "牛乳瓶",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우유부단",
+    "translation": "шийдэмгий бус, эргэлзээтэй",
+    "hanja": "優柔不斷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우유부단하다",
+    "translation": "шийдэмгий бус байх",
+    "hanja": "優柔不斷하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우유빛",
+    "translation": "Сүүний өнгө",
+    "hanja": "牛乳빛",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우윳값",
+    "translation": "сүүний үнэ",
+    "hanja": "우윳값",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우윳빛",
+    "translation": "Сүүний өнгө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우음",
+    "translation": "цогцос хөдлөх",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "우의",
+    "translation": "найрамдал",
+    "hanja": "友誼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우이",
+    "translation": "Уи (нэр)",
+    "hanja": "友誼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우이신설선",
+    "translation": "Уи 신сол шугам",
+    "hanja": "牛耳新設線",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우익",
+    "translation": "баруун жигүүр",
+    "hanja": "右翼",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "우인",
+    "translation": "найз",
+    "hanja": "友人",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "우일",
+    "translation": "гайхамшигтай өдөр",
+    "hanja": "優逸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우자",
+    "translation": "Мунхаг хүн",
+    "hanja": "愚者",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우장",
+    "translation": "Нэг баг, нэг хэсэг",
+    "hanja": "牛粧",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우적",
+    "translation": "хүчтэй бороо",
+    "hanja": "雨滴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우적우적",
+    "translation": "шажиг шажиг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우전",
+    "translation": "шингэн цайны төрөл",
+    "hanja": "雨前",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우정",
+    "translation": "нөхөрлөл",
+    "hanja": "友情",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우정하다",
+    "translation": "найрамдах",
+    "hanja": "友情하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우제",
+    "translation": "хүндэтгэлийн ёслол",
+    "hanja": "雩祭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우조",
+    "translation": "баруун талын ая",
+    "hanja": "羽調",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우족",
+    "translation": "үхрийн хөл",
+    "hanja": "우족(牛足)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우주",
+    "translation": "орчлон ертөнц",
+    "hanja": "宇宙",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우주복",
+    "translation": "Сансрын хувцас",
+    "hanja": "宇宙服",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우주선",
+    "translation": "сансрын хөлөг",
+    "hanja": "宇宙船",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "우주여행",
+    "translation": "сансрын аялал",
+    "hanja": "宇宙旅行",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우주인",
+    "translation": "Сансрын нисгэгч",
+    "hanja": "宇宙人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우중",
+    "translation": "бороотой үед, бороон дунд",
+    "hanja": "雨中",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우중충",
+    "translation": "бүдэг, уйтгартай",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우중충하다",
+    "translation": "бүүдгэр, бүрхэг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우즈베크",
+    "translation": "Узбек",
+    "hanja": "우즈베크",
+    "pos": "명",
+    "cefr": "A2"
+  },
+  {
+    "word": "우즈베키스탄",
+    "translation": "Узбекистан",
+    "hanja": "우즈베키스탄",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "우즈벡",
+    "translation": "Узбек",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우지",
+    "translation": "Үхрийн өөх",
+    "hanja": "牛脂",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "우지끈",
+    "translation": "хүчтэй дуу чимээ",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우지직",
+    "translation": "хагарах чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우직",
+    "translation": "шударга, энгийн",
+    "hanja": "愚直",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "우직하다",
+    "translation": "шударга",
+    "hanja": "愚直하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우징",
+    "translation": "У Жин",
+    "hanja": "吳京",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우짖다",
+    "translation": "исгэрэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우짜다",
+    "translation": "яах вэ",
+    "hanja": "우짜다",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우쨌든",
+    "translation": "ямар ч байсан",
+    "hanja": "우쨌든",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우쭈쭈",
+    "translation": "аяархан",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "우쭐",
+    "translation": "түнэгэр",
+    "hanja": "우쭐",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우쭐거리다",
+    "translation": "бардамнах",
+    "hanja": "우쭐거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우쭐대다",
+    "translation": "их зан гаргах",
+    "hanja": "None",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우쭐하다",
+    "translation": "омгорхох, ихэмсэглэх",
+    "hanja": "우쭐하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우찌",
+    "translation": "дотор, ууч",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우찌하다",
+    "translation": "яах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우창",
+    "translation": "дуулж бүжиглэх",
+    "hanja": "謳唱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우천",
+    "translation": "бороотой өдөр",
+    "hanja": "雨天",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우청",
+    "translation": "борооны ус, цоохор",
+    "hanja": "雨晴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우체국",
+    "translation": "шуудангийн газар",
+    "hanja": "郵遞局",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "우체부",
+    "translation": "Шууданч",
+    "hanja": "郵遞夫",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "우체통",
+    "translation": "шуудангийн хайрцаг",
+    "hanja": "郵遞筒",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "우측",
+    "translation": "баруун тал",
+    "hanja": "右側",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "우치다",
+    "translation": "Ашиглах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "우쿨렐레",
+    "translation": "укуэлеле",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우크라이나",
+    "translation": "Украйн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우키",
+    "translation": "тогтох",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우키다",
+    "translation": "хашхирах, орилох",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "우타",
+    "translation": "Уута (Японы дууны хэлбэр)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "우태",
+    "translation": "Малын хэвлий дэх ураг",
+    "hanja": "牛胎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우택",
+    "translation": "газар тариалангийн талбай",
+    "hanja": "郵宅",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우텋다",
+    "translation": "хатуу",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "우토",
+    "translation": "утопи",
+    "hanja": "우토(烏兎)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우툴두툴하다",
+    "translation": "тэгш бус",
+    "hanja": "우툴두툴하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "우파",
+    "translation": "баруун жигүүр",
+    "hanja": "右派",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "우팔리",
+    "translation": "Упали (хүний нэр)",
+    "hanja": "優婆離",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "우퍼",
+    "translation": "вуфер",
+    "hanja": "우퍼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우편",
+    "translation": "Шуудан",
+    "hanja": "郵便",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우편물",
+    "translation": "шуудан",
+    "hanja": "郵便物",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우편배달부",
+    "translation": "шууданч",
+    "hanja": "郵便配達夫",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우편엽서",
+    "translation": "Ил захидал",
+    "hanja": "郵便葉書",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우편집배원",
+    "translation": "Шууданч",
+    "hanja": "郵便集配員",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우편함",
+    "translation": "шуудангийн хайрцаг",
+    "hanja": "郵便函",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우포",
+    "translation": "борооны цув",
+    "hanja": "雨布",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우표",
+    "translation": "шуудангын марк",
+    "hanja": "郵票",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "우풍",
+    "translation": "салхины ам",
+    "hanja": "迂風",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우피",
+    "translation": "үхрийн арьс",
+    "hanja": "牛皮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우필",
+    "translation": "зүүн хажуу",
+    "hanja": "右弼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우한",
+    "translation": "Ухань (хот)",
+    "hanja": "武漢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우헝",
+    "translation": "ухэн (хятад хот)",
+    "hanja": "武漢",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우형",
+    "translation": "үхрийн хэлбэр, үхэр мал",
+    "hanja": "牛形",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "우혜리",
+    "translation": "Үү Хе-ри",
+    "hanja": "禹惠林",
+    "pos": "인명",
+    "cefr": "C2"
+  },
+  {
+    "word": "우호",
+    "translation": "найрсаг харилцаа",
+    "hanja": "우호(友好)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우호적",
+    "translation": "Найрсаг",
+    "hanja": "友好的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우화",
+    "translation": "үлгэр, ёгт үлгэр",
+    "hanja": "寓話",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우화하다",
+    "translation": "хүүхэлдэйн кино",
+    "hanja": "羽化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우환",
+    "translation": "санаа зовох зүйл",
+    "hanja": "우환(憂患)",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "우회",
+    "translation": "тойруу зам",
+    "hanja": "迂廻",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우회로",
+    "translation": "тойруу зам",
+    "hanja": "迂廻路",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우회적",
+    "translation": "тойруу утгатай",
+    "hanja": "迂廻的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우회전",
+    "translation": "Баруун эргэх",
+    "hanja": "右回轉",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "우회전하다",
+    "translation": "баруун тийш эргэх",
+    "hanja": "右會轉하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "우회하다",
+    "translation": "тойрох",
+    "hanja": "迂廻하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우후",
+    "translation": "уу, хөөе",
+    "hanja": "嗚呼",
+    "pos": "감탄사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우후죽순",
+    "translation": "борооны дараах мөөг мэт олшрох",
+    "hanja": "雨後竹筍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우후후",
+    "translation": "уухүхү (инээх дуу)",
+    "hanja": "우후후",
+    "pos": "부사",
+    "cefr": "A1"
+  }
+]

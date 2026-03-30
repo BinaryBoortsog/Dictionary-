@@ -1,0 +1,506 @@
+[
+  {
+    "word": "삼가다",
+    "translation": "цээрлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼가하다",
+    "translation": "цээрлэх, зайлсхийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼각관계",
+    "translation": "гурвалжин харилцаа",
+    "hanja": "三角關係",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼각살",
+    "translation": "гурвалжин мах",
+    "hanja": "三각살",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "삼각팬티",
+    "translation": "гурвалжин өмд",
+    "hanja": "三角panty",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삼각형",
+    "translation": "Гурвалжин",
+    "hanja": "三角形",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "삼강오륜",
+    "translation": "гурван харилцаа ба таван ёс зүй",
+    "hanja": "三綱五倫",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼강행실도",
+    "translation": "гурван харилцааны ном",
+    "hanja": "三綱行實圖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼겹살",
+    "translation": "гахайн мах",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "삼계",
+    "translation": "гурван ертөнц",
+    "hanja": "三界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼계탕",
+    "translation": "Самгетан (тахианы шөл)",
+    "hanja": "蔘鷄湯",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "삼고초려",
+    "translation": "Ихэд гуйх, урих",
+    "hanja": "三顧草廬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼광",
+    "translation": "гурван гэрэл (нар, сар, од)",
+    "hanja": "三光",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼국유사",
+    "translation": "Гурван хаант улсын дурсамж",
+    "hanja": "三國遺事",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼균주의",
+    "translation": "Гурван хэсгийн тэнцвэрийн зарчим",
+    "hanja": "三均主義",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼남",
+    "translation": "гурав дахь хүү",
+    "hanja": "三男",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삼다",
+    "translation": "Хийх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼독",
+    "translation": "гурван муу зуршил",
+    "hanja": "三毒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼등분하다",
+    "translation": "гурван хуваах",
+    "hanja": "三等分하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼라만상",
+    "translation": "орчлон ертөнц дэх бүх зүйл, хорвоо",
+    "hanja": "森羅萬象",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼례",
+    "translation": "Самре",
+    "hanja": "參禮",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "삼룡",
+    "translation": "гурван луу",
+    "hanja": "三龍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼릉",
+    "translation": "Гурвалжин пирамид",
+    "hanja": "三稜",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼림욕",
+    "translation": "ойн агаар амьсгалах",
+    "hanja": "森林浴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼매경",
+    "translation": "бясалгалын байдал",
+    "hanja": "三昧境",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼면",
+    "translation": "гурван тал",
+    "hanja": "三面",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삼박자",
+    "translation": "гурван цохилт",
+    "hanja": "삼박자(三拍子)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삼베옷",
+    "translation": "даавуун хувцас",
+    "hanja": "삼베옷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삼복더위",
+    "translation": "зуны гурван халуун өдөр",
+    "hanja": "三伏더위",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼봉",
+    "translation": "гурван оргил (산의 봉우리); Самбонг (인명)",
+    "hanja": "三峰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼삼하다",
+    "translation": "гайхамшигтай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼색",
+    "translation": "гурван өнгө",
+    "hanja": "三色",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "삼생",
+    "translation": "гурван амьдрал",
+    "hanja": "三生",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼세계",
+    "translation": "Гурван ертөнц",
+    "hanja": "三世界",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼세판",
+    "translation": "гурван удаагийн тоглолт",
+    "hanja": "三世판",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼송",
+    "translation": "Самсон (газрын нэр)",
+    "hanja": "三松",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼수하다",
+    "translation": "гурван удаа дахин оролдох",
+    "hanja": "三修하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼숙",
+    "translation": "Гурван үе",
+    "hanja": "三熟",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼신",
+    "translation": "гуравсан бурхан",
+    "hanja": "三神",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼신할머니",
+    "translation": "Гурван бурхан эмээ (эх баригч бурхан)",
+    "hanja": "三神할머니",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼십육계",
+    "translation": "Эртний 36 стратеги",
+    "hanja": "三十六計",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼아",
+    "translation": "гэж үзэж",
+    "hanja": null,
+    "pos": "조사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삼엄하다",
+    "translation": "хатуу, чанга",
+    "hanja": "森嚴하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼엽충",
+    "translation": "гурван хавтаст хорхой",
+    "hanja": "三葉蟲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼용",
+    "translation": "гурван луу",
+    "hanja": "三龍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼우",
+    "translation": "Гурван хөхөө",
+    "hanja": "三友",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼원색",
+    "translation": "гурван үндсэн өнгө",
+    "hanja": "三原色",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼위일체",
+    "translation": "гурван нэгдмэл байдал",
+    "hanja": "三位一體",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼인조",
+    "translation": "гурван хүний баг, гурван хүний бүрэлдэхүүн",
+    "hanja": "三人組",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삼인칭",
+    "translation": "Гуравдугаар бие",
+    "hanja": "三人稱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삼일절",
+    "translation": "Гуравдугаар сарын нэгний өдөр",
+    "hanja": "三一節",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼입",
+    "translation": "гурав дахь оролт",
+    "hanja": "三入",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼자대면하다",
+    "translation": "Гурвалсан уулзалт хийх",
+    "hanja": "三者對面하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼전",
+    "translation": "гурван удаагийн тулаан",
+    "hanja": "三戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼중고",
+    "translation": "гурвалсан бэрхшээл",
+    "hanja": "三重苦",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼중주",
+    "translation": "гурвалсан хөгжим",
+    "hanja": "三重奏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼지연",
+    "translation": "Самжиён (газарзүйн нэр)",
+    "hanja": "三池淵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "삼진",
+    "translation": "гурван цохилтоор гарсан",
+    "hanja": "三振",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼짇날",
+    "translation": "Самжин-нал (Лусын баяр)",
+    "hanja": "三짇날",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼차원",
+    "translation": "гурван хэмжээст",
+    "hanja": "三次元",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼창하다",
+    "translation": "Гурван удаа хашхирах",
+    "hanja": "三唱하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼척동자",
+    "translation": "бяцхан хүүхэд",
+    "hanja": "三尺童子",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼청",
+    "translation": "Самчон (оросын цагдаагийн байгууллага)",
+    "hanja": "三淸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼총사",
+    "translation": "гурван мушкетёр",
+    "hanja": "三銃士",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삼춘",
+    "translation": "намайг дуудахдаа хүндэтгэн хэрэглэх үг, авга ах",
+    "hanja": "三寸",
+    "pos": "н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "삼키다",
+    "translation": "залгих",
+    "hanja": "삼키다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "삼파전",
+    "translation": "гурван талын тулаан",
+    "hanja": "三巴戰",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼풍",
+    "translation": "Сампунг (дүүрэг, худалдааны төв)",
+    "hanja": "三豊",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼한",
+    "translation": "Самхан",
+    "hanja": "三韓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "삼행시",
+    "translation": "Гурван мөрт шүлэг",
+    "hanja": "三行詩",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "삼현",
+    "translation": "гурван чавхдас",
+    "hanja": "三絃",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼화",
+    "translation": "гурван цэцэг",
+    "hanja": "三華",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

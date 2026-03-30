@@ -1,0 +1,765 @@
+[
+  {
+    "word": "두",
+    "translation": "хоёр",
+    "hanja": "二",
+    "pos": "numeral",
+    "cefr": "A1"
+  },
+  {
+    "word": "두개골",
+    "translation": "Гавлын яс",
+    "hanja": "頭蓋骨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두견새",
+    "translation": "хөхөө",
+    "hanja": "杜鵑새",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두고",
+    "translation": "Орхиж, үлдээж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두고두고",
+    "translation": "Удаан хугацаанд, үргэлжид",
+    "hanja": "두고두고",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두곡",
+    "translation": "хоёр дуу",
+    "hanja": "二曲",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "두괄식",
+    "translation": "хоньчин",
+    "hanja": "頭括式",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "두광",
+    "translation": "Толгойны гэрэл, гэгээ",
+    "hanja": "頭光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두구두구",
+    "translation": "бөмбөр цохих чимээ",
+    "hanja": "두구두구",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두근거리다",
+    "translation": "Зүрх дэлсэх",
+    "hanja": "두근거리다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "두근거림",
+    "translation": "зүрх дэлсэх",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "두근대다",
+    "translation": "Түгших, дүүрэн дээшлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두근두근",
+    "translation": "дүг дүг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두근두근하다",
+    "translation": "лугшиж, догдлох",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "두깨",
+    "translation": "зузаан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두꺼비",
+    "translation": "бах",
+    "hanja": "두꺼비",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "두꺼비집",
+    "translation": "мэлхийн байшин (хуучирсан цахилгааны хайрцаг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두껍",
+    "translation": "Зузаан",
+    "hanja": "두껍",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두껍다",
+    "translation": "зузаан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두께",
+    "translation": "зузаан",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "두남",
+    "translation": "нухацтай",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "두뇌",
+    "translation": "Тархи",
+    "hanja": "두뇌 (頭腦)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두다",
+    "translation": "тавих, байрлуулах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "두더지",
+    "translation": "Олдог",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두덩",
+    "translation": "Өнжье, толгод",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두돈반",
+    "translation": "Хоёр тонн хагас",
+    "hanja": "두똔半",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두두두두",
+    "translation": "дудудуду (дуу чимээ)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "두두둑",
+    "translation": "дудудук (их дуу гарах чимээ)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두두룩하다",
+    "translation": "томорсон",
+    "hanja": "두두룩하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두둑",
+    "translation": "өндөрлөг",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두둑하다",
+    "translation": "бөөн юмтай",
+    "hanja": "두둑하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두둔",
+    "translation": "хамгаалах",
+    "hanja": "斗頓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두둔하다",
+    "translation": "талыг барих, өмгөөлөх",
+    "hanja": "斗頓-",
+    "pos": "ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "두둠칫",
+    "translation": "бүжиглэх хөдөлгөөн",
+    "hanja": "두둠칫",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두둥실",
+    "translation": "хөвөх",
+    "hanja": "두둥실",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두드러기",
+    "translation": "тууралт, харшил",
+    "hanja": "두드러기",
+    "pos": "м",
+    "cefr": "B2"
+  },
+  {
+    "word": "두드러지다",
+    "translation": "тодорхой харагдах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두드리다",
+    "translation": "тогших, цохих",
+    "hanja": "두드리다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두들기다",
+    "translation": "Цохих",
+    "hanja": "두들기다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두들두들",
+    "translation": "булруу",
+    "hanja": "두들두들",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두랄루민",
+    "translation": "дюралюмин",
+    "hanja": null,
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "두런거리다",
+    "translation": "Шуугих",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두런두런",
+    "translation": "шимэгдсэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두레",
+    "translation": "хөдөөгийн хамтын хөдөлмөрийн бүлэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두레박",
+    "translation": "хувин",
+    "hanja": "두레박",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두려움",
+    "translation": "Айдас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두려워하다",
+    "translation": "айх",
+    "hanja": "두려워하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "두렵다",
+    "translation": "айх",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "두로",
+    "translation": "Дуро",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "두루",
+    "translation": "бүх газар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두루두루",
+    "translation": "бүх талын",
+    "hanja": "두루두루",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두루루",
+    "translation": "Ду-руу-руу (дуурайсан дуу)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두루마기",
+    "translation": "Дурумаги (солонгос үндэсний дээл)",
+    "hanja": "두루마기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두루마리",
+    "translation": "гүйлгэх, бооцоот",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두루뭉술",
+    "translation": "Тодорхойгүй, бүдэг бадаг",
+    "hanja": "두루뭉술",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두루뭉술하다",
+    "translation": "бүрхэг, тодорхойгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두루뭉실하다",
+    "translation": "бүдэг бадаг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두루미",
+    "translation": "тогоруу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두르가",
+    "translation": "Дурга (Энэтхэгийн бурхан)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "두르다",
+    "translation": "Ороох",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "두릅",
+    "translation": "дууруп модны нахиа",
+    "hanja": "두릅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두리다",
+    "translation": "бүслэн хүрээлэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "두리둥실",
+    "translation": "бөөрөнхий",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두리뭉실하다",
+    "translation": "Бүрхэг, тодорхойгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두리번거리다",
+    "translation": "хоёр тийшээ харах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두리번대다",
+    "translation": "эргэн тойрноо харах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두리번두리번",
+    "translation": "тойруулж харах",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두리번두리번하다",
+    "translation": "Эргүүлэн харах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두리안",
+    "translation": "дуриан",
+    "hanja": "durian",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "두만강",
+    "translation": "Түмэн гол",
+    "hanja": "豆滿江",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두말없이",
+    "translation": "Эргэлзээгүйгээр, шууд",
+    "hanja": "두말없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두말하다",
+    "translation": "буцаж хэлэх",
+    "hanja": "두말하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "두메",
+    "translation": "алс бөглүү газар",
+    "hanja": "두메",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두문불출",
+    "translation": "гадуур гарахгүй байх",
+    "hanja": "杜門不出",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "두문불출하다",
+    "translation": "гадагш гарахгүй байх",
+    "hanja": "杜門不出하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두물머리",
+    "translation": "гол мөрний бэлчир",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두바이",
+    "translation": "Дубай",
+    "hanja": "두바이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "두발자전거",
+    "translation": "хоёр дугуйт унадаг дугуй",
+    "hanja": "두발自轉車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두방망이질",
+    "translation": "чанга цохилт",
+    "hanja": "두방망이질",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두방망이질하다",
+    "translation": "Чавхдах, савах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두부두루치기",
+    "translation": "кимчи, гахайн мах, тофугаар хийсэн хоол",
+    "hanja": "두부두루치기",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "두부상",
+    "translation": "толгойны зураг",
+    "hanja": "頭部像",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두부탕",
+    "translation": "тоофу шөл",
+    "hanja": "豆腐湯",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두브로브니크",
+    "translation": "Дубровник",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "두비",
+    "translation": "Дуби",
+    "hanja": "두비",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두산",
+    "translation": "Дусан",
+    "hanja": "斗山",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두서",
+    "translation": "эгц дэг журамгүй",
+    "hanja": "頭緖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두서너",
+    "translation": "хоёр гурав",
+    "hanja": "두서너",
+    "pos": "수사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두서없다",
+    "translation": "замбараагүй, эмх замбараагүй",
+    "hanja": "두서없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두서없이",
+    "translation": "эмх замбараагүй",
+    "hanja": "頭緖없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두송",
+    "translation": "арц мод",
+    "hanja": "杜松",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두아",
+    "translation": "дуа",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "두억시니",
+    "translation": "чөтгөр",
+    "hanja": "두억시니",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "두엄",
+    "translation": "Бууц, ялгадас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두에",
+    "translation": "түүнийг",
+    "hanja": "두에",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "두유",
+    "translation": "соёлын сүү",
+    "hanja": "豆乳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두입",
+    "translation": "хоёр удаа орох",
+    "hanja": "두入",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두절",
+    "translation": "таслагдах, зогсох",
+    "hanja": "杜絶",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "두절되다",
+    "translation": "таслах",
+    "hanja": "杜絕되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "두지다",
+    "translation": "Газардуулах, буруу байрлуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "두터이",
+    "translation": "зузаанаар, нягтрах",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두텁다",
+    "translation": "зузаан",
+    "hanja": "두텁다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두통약",
+    "translation": "өвчин намдаах эм",
+    "hanja": "頭痛藥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두툼하다",
+    "translation": "зузаан",
+    "hanja": "두툼하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두툽다",
+    "translation": "зузаан байх, хүнд байх",
+    "hanja": "두툽다",
+    "pos": "ADJ",
+    "cefr": "B2"
+  },
+  {
+    "word": "두티다",
+    "translation": "хувцсаа тайлах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두피",
+    "translation": "хуйх",
+    "hanja": "頭皮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "두한",
+    "translation": "Толгой хүйтэн",
+    "hanja": "頭寒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두현",
+    "translation": "Дүхён",
+    "hanja": "斗鉉",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

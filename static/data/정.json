@@ -1,0 +1,2809 @@
+[
+  {
+    "word": "정",
+    "translation": "Хайр",
+    "hanja": "情",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정가",
+    "translation": "Үнэ",
+    "hanja": "定價",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "정가하다",
+    "translation": "үнэ тогтоох",
+    "hanja": "定價하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "정각",
+    "translation": "Яг цагт",
+    "hanja": "正刻",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정갈하다",
+    "translation": "цэвэрхэн, цэмцгэр",
+    "hanja": "精갈하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정갈히",
+    "translation": "цэвэрхэн, нямбай",
+    "hanja": "淨渴히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정감",
+    "translation": "сэтгэл, дур булаам байдал",
+    "hanja": "情感",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정강",
+    "translation": "Жон Ган (хүний нэр)",
+    "hanja": "正康",
+    "pos": "명",
+    "cefr": "A1"
+  },
+  {
+    "word": "정강이",
+    "translation": "шилбэ",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정개",
+    "translation": "Төгсгөл",
+    "hanja": "正楷",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정거",
+    "translation": "зогсох",
+    "hanja": "停車",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "정거장",
+    "translation": "буудал",
+    "hanja": "停車場",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "정격",
+    "translation": "тогтмол, стандарт",
+    "hanja": "定格",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정견",
+    "translation": "үзэл бодол",
+    "hanja": "政見",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정결",
+    "translation": "цэвэр ариун",
+    "hanja": "淨潔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정결하다",
+    "translation": "цэвэр, ариун",
+    "hanja": "貞潔하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "정겹다",
+    "translation": "Найрсаг",
+    "hanja": "정겹다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정경",
+    "translation": "үзэгдэл, үйл явдал",
+    "hanja": "情景",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정계",
+    "translation": "улс төрийн хүрээ",
+    "hanja": "政界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정고",
+    "translation": "тушаал",
+    "hanja": "正告",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정곡",
+    "translation": "гол цэг, мөн чанар",
+    "hanja": "正鵠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정공",
+    "translation": "цэргийн албан хаагч",
+    "hanja": "精工",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정공법",
+    "translation": "шударга арга",
+    "hanja": "正攻法",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "정과",
+    "translation": "жимсний чанамал",
+    "hanja": "正果",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정관",
+    "translation": "дүрэм",
+    "hanja": "定款",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정교",
+    "translation": "нарийн хийцтэй",
+    "hanja": "精巧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정교사",
+    "translation": "бүрэн эрхт багш",
+    "hanja": "正敎師",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정교수",
+    "translation": "багш",
+    "hanja": "正敎授",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정교하다",
+    "translation": "Нарийн",
+    "hanja": "精巧하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정교화되다",
+    "translation": "Нарийвчлагдсан",
+    "hanja": "精巧化되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정구",
+    "translation": "зөөлөн теннис",
+    "hanja": "庭球",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정국",
+    "translation": "улс төрийн байдал",
+    "hanja": "政局",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정군",
+    "translation": "тогтмол арми",
+    "hanja": "正軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정궁",
+    "translation": "үндсэн ордон",
+    "hanja": "正宮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정권",
+    "translation": "засгийн эрх",
+    "hanja": "政權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정규",
+    "translation": "Шууд",
+    "hanja": "正規",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정규적",
+    "translation": "байнгын, тогтмол",
+    "hanja": "正規的",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "정규직",
+    "translation": "Байнгын ажилтан",
+    "hanja": "正規職",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정균",
+    "translation": "Жонгюн (нэр)",
+    "hanja": "正均",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "정극",
+    "translation": "драм",
+    "hanja": "正劇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정글",
+    "translation": "ширэнгэ",
+    "hanja": "jungle",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "정글다",
+    "translation": "самнах, үсээ засах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정금",
+    "translation": "Цэвэр алт",
+    "hanja": "正金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정기",
+    "translation": "тогтмол",
+    "hanja": "定期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정기권",
+    "translation": "улирлын тасалбар",
+    "hanja": "定期券",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정기적",
+    "translation": "тогтмол",
+    "hanja": "定期的",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정나미",
+    "translation": "хайр, сэтгэл татам байдал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정남",
+    "translation": "Жоннам",
+    "hanja": "正南",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정낭",
+    "translation": "сэмжилсэн сэмж",
+    "hanja": "精囊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정년",
+    "translation": "тэтгэврийн нас",
+    "hanja": "定年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정년퇴직",
+    "translation": "тэтгэвэрт гарах, тэтгэврийн нас",
+    "hanja": "定年退職",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정년퇴직하다",
+    "translation": "тэтгэвэрт гарах",
+    "hanja": "停年退職하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정념",
+    "translation": "Хүсэл тэмүүлэл, шунал",
+    "hanja": "情念",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정녕",
+    "translation": "үнэхээр",
+    "hanja": "丁寧",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정담",
+    "translation": "шударга хэлцэл",
+    "hanja": "正談",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정답",
+    "translation": "зөв хариулт",
+    "hanja": "正答",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "정답다",
+    "translation": "найрсаг",
+    "hanja": "情—",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "정당",
+    "translation": "нам",
+    "hanja": "政黨",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정당방위",
+    "translation": "Өөрийгөө хамгаалах",
+    "hanja": "正當防衛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정당성",
+    "translation": "Зөв байдал, хууль ёсны байдал",
+    "hanja": "正當性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정당하다",
+    "translation": "үндэслэлтэй",
+    "hanja": "正當하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정당화",
+    "translation": "зөвтгөх",
+    "hanja": "正當化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정당화되다",
+    "translation": "зөвтгөгдөх",
+    "hanja": "正當化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정당화하다",
+    "translation": "зөвтгөх",
+    "hanja": "正當化-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정당히",
+    "translation": "шударгаар",
+    "hanja": "正當히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정대",
+    "translation": "үнэн зөв, шударга",
+    "hanja": "正大",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "정덕",
+    "translation": "Бурхны ач буян",
+    "hanja": "正德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정도",
+    "translation": "орчим",
+    "hanja": "程度",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "정도껏",
+    "translation": "зохих хэмжээгээр",
+    "hanja": "程度껏",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정도되다",
+    "translation": "гарч болох",
+    "hanja": "程度되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "정도하다",
+    "translation": "зөв эсэхийг тогтоох, үнэн зөвийг тогтоох",
+    "hanja": "訂正하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정독",
+    "translation": "нарийвчилсан уншлага",
+    "hanja": "精讀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정독하다",
+    "translation": "анхааралтай унших",
+    "hanja": "精讀하다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "정돈",
+    "translation": "Эмх цэгц",
+    "hanja": "整頓",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "정돈되다",
+    "translation": "эмх цэгцтэй болох",
+    "hanja": "整頓되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정돈하다",
+    "translation": "эмх цэгцлэх, янзлах",
+    "hanja": "整頓하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정동",
+    "translation": "Үзэгдэл",
+    "hanja": "情動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정동행성",
+    "translation": "тогтмол хөдөлгөөн үүсгэгч",
+    "hanja": "正動行星",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정두",
+    "translation": "Орой, тэргүүн",
+    "hanja": "頂頭",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "정들다",
+    "translation": "дасал болох",
+    "hanja": "情들다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "정떨어지다",
+    "translation": "Сэтгэл хөрөх",
+    "hanja": "情떨어지다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정란",
+    "translation": "Бослого, үймээн",
+    "hanja": "政亂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정랑",
+    "translation": "хашаа",
+    "hanja": "政郞",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정략",
+    "translation": "стратеги",
+    "hanja": "政略",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정략적",
+    "translation": "Стратегийн хувьд",
+    "hanja": "政略的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정량",
+    "translation": "тогтоосон хэмжээ",
+    "hanja": "定量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정력",
+    "translation": "эрч хүч",
+    "hanja": "精力",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정력적",
+    "translation": "Эрч хүчтэй, эрчимтэй",
+    "hanja": "精力적",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정렬",
+    "translation": "жагсаал, эгнээ",
+    "hanja": "整列",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정렬되다",
+    "translation": "цэгцлэх",
+    "hanja": "整列되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "정렬하다",
+    "translation": "жагсаах",
+    "hanja": "整列하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정령",
+    "translation": "сүнс, үзэгдэл",
+    "hanja": "精靈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정례",
+    "translation": "тогтмол, хэвийн",
+    "hanja": "定例",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정례화하다",
+    "translation": "тогтмолжуулах",
+    "hanja": "定例化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정로",
+    "translation": "зөв зам, ёс суртахууны зам",
+    "hanja": "正路",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정론",
+    "translation": "зөв үзэл, зөв үг",
+    "hanja": "正論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정류",
+    "translation": "тогтвортой урсгал",
+    "hanja": "整流",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정류소",
+    "translation": "Зогсоол",
+    "hanja": "停留所",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "정류장",
+    "translation": "Буудал",
+    "hanja": "停留場",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "정릉",
+    "translation": "Жонгжун бунхан",
+    "hanja": "貞陵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정리",
+    "translation": "цэгцлэх",
+    "hanja": "整理",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정리되다",
+    "translation": "эмх цэгцтэй болох",
+    "hanja": "整理되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정리정돈하다",
+    "translation": "эмх цэгцлэх",
+    "hanja": "整理整頓하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정리하다",
+    "translation": "Цэгцлэх, эмхлэх",
+    "hanja": "整理하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정립",
+    "translation": "баримтлал тогтоох, тодорхойлох",
+    "hanja": "定立",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정립되다",
+    "translation": "тогтох, тогтворжих",
+    "hanja": "鼎立되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정립하다",
+    "translation": "байгуулах, тогтоох",
+    "hanja": "定立하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "정마",
+    "translation": "Үнэхээр морь",
+    "hanja": "正馬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정말",
+    "translation": "үнэхээр",
+    "hanja": "正말",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "정맥",
+    "translation": "венийн судлууд",
+    "hanja": "靜脈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정면",
+    "translation": "урд тал",
+    "hanja": "正面",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정면충돌",
+    "translation": "нүүр тулсан мөргөлдөөн",
+    "hanja": "正面衝突",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정면충돌하다",
+    "translation": "нүүр тулан мөргөлдөх",
+    "hanja": "正面衝突하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정명",
+    "translation": "үндсэн нэр, жинхэнэ нэр",
+    "hanja": "正名",
+    "pos": "NOUN",
+    "cefr": "C2"
+  },
+  {
+    "word": "정모",
+    "translation": "тогтмол уулзалт",
+    "hanja": "定 모임",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정목",
+    "translation": "гол мод, тэнхлэг",
+    "hanja": "正木",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정묘하다",
+    "translation": "Нарийвчлалтай, нарийн хийцтэй",
+    "hanja": "精妙하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정무",
+    "translation": "улс төрийн үйл хэрэг",
+    "hanja": "政務",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정문",
+    "translation": "үндсэн хаалга",
+    "hanja": "正門",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "정물",
+    "translation": "натюрморт",
+    "hanja": "靜物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정물화",
+    "translation": "натюрморт, хөдөлгөөнгүй зураг",
+    "hanja": "靜物畫",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "정미",
+    "translation": "цагаан будаа",
+    "hanja": "精米",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정미소",
+    "translation": "Будаа/үр тарианы үйлдвэр",
+    "hanja": "精米所",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "정밀도",
+    "translation": "нарийвчлал",
+    "hanja": "精密度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정밀성",
+    "translation": "нарийвчлал",
+    "hanja": "精密性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정밀하다",
+    "translation": "нарийн",
+    "hanja": "精密하다",
+    "pos": "т.н",
+    "cefr": "B2"
+  },
+  {
+    "word": "정밀히",
+    "translation": "нарийвчлан, нарийвчилсан байдлаар",
+    "hanja": "精密히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정박",
+    "translation": "завь зогсоох",
+    "hanja": "停泊",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정박하다",
+    "translation": "онгоцны зогсоол",
+    "hanja": "碇泊하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "정반대",
+    "translation": "Эсрэг, адилгүй",
+    "hanja": "正反對",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정반대되다",
+    "translation": "Эсрэг тэсрэг байх",
+    "hanja": "正反對되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정반합",
+    "translation": "тезис, антитезис, синтез",
+    "hanja": "正反合",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "정발",
+    "translation": "албан ёсны хувилбар",
+    "hanja": "正發",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정발하다",
+    "translation": "тогтмол хэвлэн нийтлэх",
+    "hanja": "正發하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정방",
+    "translation": "Тэгш өнцөгт, дөрвөлжин",
+    "hanja": "正方",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정방형",
+    "translation": "дөрвөлжин",
+    "hanja": "正方形",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "정배",
+    "translation": "цөлөх",
+    "hanja": "定配",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정벌",
+    "translation": "шилжүүлэх, эзлэх",
+    "hanja": "征伐",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정벌하다",
+    "translation": "байлдан дагуулах",
+    "hanja": "征伐하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정범",
+    "translation": "үндсэн гэмт хэрэгтэн",
+    "hanja": "正犯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정법",
+    "translation": "зөв хууль, шударга ёс",
+    "hanja": "正法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정변",
+    "translation": "Төрийн эргэлт",
+    "hanja": "政變",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정병",
+    "translation": "байнгын цэрэг",
+    "hanja": "正兵",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정보",
+    "translation": "мэдээлэл",
+    "hanja": "情報",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "정보기관",
+    "translation": "тагнуулын байгууллага",
+    "hanja": "情報機關",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정보망",
+    "translation": "мэдээллийн сүлжээ",
+    "hanja": "情報網",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정보원",
+    "translation": "Мэдээлэгч",
+    "hanja": "情報員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정보통",
+    "translation": "мэдээллийн эх сурвалж",
+    "hanja": "情報通",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정보화",
+    "translation": "мэдээлэлжүүлэх",
+    "hanja": "情報化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정복",
+    "translation": "Эзлэх, дагуулах",
+    "hanja": "征服",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정복당하다",
+    "translation": "эзлэгдэх",
+    "hanja": "征服當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정복되다",
+    "translation": "байлдан дагуулагдах",
+    "hanja": "征服되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정복욕",
+    "translation": "байлдан дагуулах хүсэл",
+    "hanja": "征服欲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정복자",
+    "translation": "байлдан дагуулагч",
+    "hanja": "征服者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정복하다",
+    "translation": "байлдан дагуулах",
+    "hanja": "征服하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "정본",
+    "translation": "жинхэнэ эх хувь",
+    "hanja": "定本",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정봉",
+    "translation": "Үнэнч тэмдэг",
+    "hanja": "貞封",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정부",
+    "translation": "Засгийн газар",
+    "hanja": "政府",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "정분",
+    "translation": "харилцаа",
+    "hanja": "情分",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "정분나다",
+    "translation": "хайр сэтгэлтэй болох",
+    "hanja": "情분나다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정붙이다",
+    "translation": "хавсрах",
+    "hanja": "정붙이다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정비",
+    "translation": "засвар үйлчилгээ",
+    "hanja": "정비(整備)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정비공",
+    "translation": "Механик",
+    "hanja": "整備工",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "정비되다",
+    "translation": "засварлагдах, сайжрах",
+    "hanja": "整備되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "정비례",
+    "translation": "Шууд пропорционал",
+    "hanja": "正比例",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정비례하다",
+    "translation": "шууд пропорциональ харьцаатай байх",
+    "hanja": "正比例하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정비사",
+    "translation": "засварчин",
+    "hanja": "整備士",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "정비소",
+    "translation": "Засварын газар",
+    "hanja": "整備所",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정비하다",
+    "translation": "засварлах",
+    "hanja": "整備하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정사",
+    "translation": "жигжирмээр байдал",
+    "hanja": "情事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정사각형",
+    "translation": "Дөрвөлжин",
+    "hanja": "正四角形",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정산",
+    "translation": "тооцоо хийх",
+    "hanja": "精算",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정산되다",
+    "translation": "тооцоо хийгдэх, эцсийн тооцоо хийгдэх",
+    "hanja": "精算되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정산하다",
+    "translation": "тооцоо хийх",
+    "hanja": "精算하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "정삼각형",
+    "translation": "Зөв гурвалжин",
+    "hanja": "正三角形",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "정상",
+    "translation": "Хэвийн байдал",
+    "hanja": "正常",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "정상급",
+    "translation": "шилдэг, дээд зэргийн",
+    "hanja": "頂上級",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정상아",
+    "translation": "хэвийн хүүхэд",
+    "hanja": "正常兒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정상인",
+    "translation": "энгийн хүн",
+    "hanja": "正常人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정상적",
+    "translation": "хэвийн",
+    "hanja": "正常的",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "정상화",
+    "translation": "хэвийн байдалд оруулах",
+    "hanja": "正常化",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정상화되다",
+    "translation": "Хэвийн байдалд орох",
+    "hanja": "正常化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정상화하다",
+    "translation": "хэвийн байдалд оруулах",
+    "hanja": "正常化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정색하다",
+    "translation": "Царайгаа хувиргах, ноцтой царайлах",
+    "hanja": "正色하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정서",
+    "translation": "сэтгэл санаа, сэтгэлийн байдал",
+    "hanja": "情緖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정서법",
+    "translation": "зөв бичих дүрэм",
+    "hanja": "正書法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정석",
+    "translation": "стандарт",
+    "hanja": "定石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정선",
+    "translation": "Жонсон (газар, нэр)",
+    "hanja": "旌善",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정설",
+    "translation": "нийтээр хүлээн зөвшөөрсөн онол",
+    "hanja": "定說",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정섭",
+    "translation": "Төрийн үйл хэрэг",
+    "hanja": "政涉",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "정성",
+    "translation": "чин сэтгэл, хичээл зүтгэл",
+    "hanja": "精誠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정성껏",
+    "translation": "чин сэтгэлээсээ",
+    "hanja": "精誠껏",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정성스럽다",
+    "translation": "чин сэтгэлээсээ",
+    "hanja": "精誠스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정성스레",
+    "translation": "чин сэтгэлээсээ",
+    "hanja": "精誠스레",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정세",
+    "translation": "улс төрийн байдал",
+    "hanja": "政勢",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "정소",
+    "translation": "төмсөг",
+    "hanja": "精巢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정소하다",
+    "translation": "гэрчийг дуудах",
+    "hanja": "呈訴하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정속",
+    "translation": "тогтмол хурд",
+    "hanja": "定速",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정송",
+    "translation": "дулаан илгээлт",
+    "hanja": "情送",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "정수",
+    "translation": "Цэвэр ус; Үндсэн гол",
+    "hanja": "淨水; 精髓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정수기",
+    "translation": "ус цэвэрлэгч",
+    "hanja": "淨水器",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정수리",
+    "translation": "толгойн орой",
+    "hanja": "頂",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정수하다",
+    "translation": "цэвэрлэх",
+    "hanja": "淨水하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "정숙",
+    "translation": "тайван",
+    "hanja": "貞淑",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정숙하다",
+    "translation": "чимээгүй байх",
+    "hanja": "貞淑하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "정순",
+    "translation": "цэвэр ариун",
+    "hanja": "貞純",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정순하다",
+    "translation": "цэвэр ариун",
+    "hanja": "貞順하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정승",
+    "translation": "төрийн сайд",
+    "hanja": "政丞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정시",
+    "translation": "яг цагт",
+    "hanja": "定時",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정식",
+    "translation": "Албан ёсны",
+    "hanja": "正式",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "정신",
+    "translation": "сүнс, оюун санаа",
+    "hanja": "精神",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정신과",
+    "translation": "сэтгэл зүй",
+    "hanja": "精神科",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정신노동",
+    "translation": "Оюуны хөдөлмөр",
+    "hanja": "精神勞動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정신대",
+    "translation": "Сэтгэцийн бүлэг (дайнтай холбоотой түүхэн нэр)",
+    "hanja": "挺身隊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정신력",
+    "translation": "Оюун санааны хүч",
+    "hanja": "精神力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정신머리",
+    "translation": "Ухаан санаа",
+    "hanja": "精神머리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정신문화",
+    "translation": "Сэтгэцийн соёл",
+    "hanja": "精神文化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정신병",
+    "translation": "сэтгэл мэдрэлийн өвчин",
+    "hanja": "精神病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정신병자",
+    "translation": "сэтгэцийн өвчтэй хүн",
+    "hanja": "精神病者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정신세계",
+    "translation": "сэтгэцийн ертөнц",
+    "hanja": "精神世界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정신없다",
+    "translation": "Будилаантай, самуурах",
+    "hanja": "精神없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정신없이",
+    "translation": "санаа эргэлзсэн",
+    "hanja": "精神없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정신적",
+    "translation": "сэтгэцийн",
+    "hanja": "精神的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정실",
+    "translation": "хамаатан садангийн нөлөө",
+    "hanja": "情實",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정심",
+    "translation": "тэгш зорилго",
+    "hanja": "正心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정씨",
+    "translation": "Жонг-овогт",
+    "hanja": "鄭氏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정악",
+    "translation": "сонгодог хөгжим",
+    "hanja": "正樂",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정애",
+    "translation": "жинхэнэ хайр, гүн хайр",
+    "hanja": "情愛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정액",
+    "translation": "үнэ тогтоох",
+    "hanja": "定額",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정액권",
+    "translation": "тогтмол үнэтэй тасалбар",
+    "hanja": "定額券",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정양",
+    "translation": "Амарч анагаах",
+    "hanja": "靜養",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정어리",
+    "translation": "Сардин (загас)",
+    "hanja": "鰣魚",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "정연하다",
+    "translation": "эмх цэгцтэй, дэг журамтай",
+    "hanja": "整然하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정열",
+    "translation": "хүсэл тэмүүлэл",
+    "hanja": "情熱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정열적",
+    "translation": "шударга, дүрэлзсэн",
+    "hanja": "情熱的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정엽",
+    "translation": "үндсэн навч",
+    "hanja": "定葉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정영",
+    "translation": "ялангуяа, үнэнээр",
+    "hanja": "精營",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정예",
+    "translation": "шилдэг, элит",
+    "hanja": "精銳",
+    "pos": "м",
+    "cefr": "C1"
+  },
+  {
+    "word": "정오",
+    "translation": "Үд дунд",
+    "hanja": "正午",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "정욕",
+    "translation": "хүсэл тачаал",
+    "hanja": "情慾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정우",
+    "translation": "Жон У",
+    "hanja": "정우(鄭雨)",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정운",
+    "translation": "Жон Ун (хүн нэр)",
+    "hanja": "鄭雲",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "정원",
+    "translation": "Цэцэрлэг",
+    "hanja": "庭園",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정원사",
+    "translation": "цэцэрлэгч",
+    "hanja": "庭園師",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정원수",
+    "translation": "цэцэрлэгийн мод",
+    "hanja": "庭園樹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정월",
+    "translation": "Сар шинийн нэгэн",
+    "hanja": "正月",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "정위",
+    "translation": "байршил",
+    "hanja": "正位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정유",
+    "translation": "Тос цэвэрлэх",
+    "hanja": "精油",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정유재란",
+    "translation": "Жон Юүгийн дайн",
+    "hanja": "丁酉再亂",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정유하다",
+    "translation": "нарийн цэвэрлэх, боловсруулах",
+    "hanja": "精油하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정육",
+    "translation": "цэвэрлэсэн мах",
+    "hanja": "精肉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정육각형",
+    "translation": "зөв зургаан өнцөгт",
+    "hanja": "正六角形",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정육면체",
+    "translation": "шоо дөрвөлжин",
+    "hanja": "正六面體",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정육점",
+    "translation": "Махны дэлгүүр",
+    "hanja": "精肉店",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "정음",
+    "translation": "зөв дуудлага",
+    "hanja": "正音",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정읍",
+    "translation": "Чонъып (хот)",
+    "hanja": "井邑",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "정의",
+    "translation": "тодорхойлолт, шударга ёс",
+    "hanja": "定義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정의감",
+    "translation": "шударга ёсны мэдрэмж",
+    "hanja": "正義感",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정의되다",
+    "translation": "тодорхойлогдох",
+    "hanja": "定義―",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정의롭다",
+    "translation": "шударга",
+    "hanja": "正義롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정의하다",
+    "translation": "тодорхойлох, тайлбарлах",
+    "hanja": "定義하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정이",
+    "translation": "хайр, сэтгэл",
+    "hanja": "情誼",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정인홍",
+    "translation": "Жон Ин-хон (хүний нэр)",
+    "hanja": "鄭仁弘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정일",
+    "translation": "нэг өдөр",
+    "hanja": "정일",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정임",
+    "translation": "Хуучин үгсийг засах",
+    "hanja": "正任",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정자",
+    "translation": "сүүн шингэн",
+    "hanja": "精子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정작",
+    "translation": "чухамдаа",
+    "hanja": "正作",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정장",
+    "translation": "костюм",
+    "hanja": "正裝",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정재",
+    "translation": "төгсгөлийн цэвэршүүлэлт",
+    "hanja": "精製",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정쟁",
+    "translation": "улс төрийн тэмцэл",
+    "hanja": "政爭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정저우",
+    "translation": "Жэнжоу",
+    "hanja": "鄭州",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정적",
+    "translation": "Нам гүм",
+    "hanja": "靜寂",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "정전",
+    "translation": "Цахилгаан тасрах; Цэргийн эвлэрэл",
+    "hanja": "停電",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정전기",
+    "translation": "Статик цахилгаан",
+    "hanja": "靜電氣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정전되다",
+    "translation": "цахилгаан тасрах",
+    "hanja": "停電되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정절",
+    "translation": "үнэнч байдал",
+    "hanja": "貞節",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정점",
+    "translation": "Оргил, дээд цэг",
+    "hanja": "頂點",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정정",
+    "translation": "залруулга, засвар",
+    "hanja": "訂正",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정정당당하다",
+    "translation": "шударга, цэх, зөв",
+    "hanja": "正正堂堂하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정정되다",
+    "translation": "залруулагдах",
+    "hanja": "訂正되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정정하다",
+    "translation": "зөвлөх, засч залруулах",
+    "hanja": "訂正하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정제",
+    "translation": "Цэвэршүүлэлт",
+    "hanja": "精製",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정제되다",
+    "translation": "цэвэршүүлэгдсэн",
+    "hanja": "精製--",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정제하다",
+    "translation": "цэвэршүүлэх",
+    "hanja": "精製하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정조",
+    "translation": "Цэвэр ариун байдал",
+    "hanja": "貞操",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정조준하다",
+    "translation": "тэнцвэржүүлэх",
+    "hanja": "正照準하다",
+    "pos": "үйл үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "정족수",
+    "translation": "ирэлцэх тоо",
+    "hanja": "定足數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정종",
+    "translation": "Саке",
+    "hanja": "正宗",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정좌",
+    "translation": "зөв суух",
+    "hanja": "正坐",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정좌하다",
+    "translation": "шууд суух",
+    "hanja": "정좌하다(正坐하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정죄",
+    "translation": "Яллах",
+    "hanja": "定罪",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정죄하다",
+    "translation": "буруушаах",
+    "hanja": "定罪하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정주",
+    "translation": "байнгын суурьшил",
+    "hanja": "定住",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정주하다",
+    "translation": "оршин суух, суурьших",
+    "hanja": "定住─",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정주행하다",
+    "translation": "Дарааллаар үзэх",
+    "hanja": "正走行하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정준",
+    "translation": "зөвлөх",
+    "hanja": "正準",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "정중",
+    "translation": "хүндэтгэлтэй",
+    "hanja": "鄭重",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정중하다",
+    "translation": "Эелдэг, хүндэтгэлтэй",
+    "hanja": "鄭重—",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정중히",
+    "translation": "Хүндэтгэлтэйгээр",
+    "hanja": "鄭重히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정지",
+    "translation": "зогсох",
+    "hanja": "停止",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정지되다",
+    "translation": "Зогсох",
+    "hanja": "停止되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정지시키다",
+    "translation": "Зогсоох, болиулах",
+    "hanja": "停止시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정지윤",
+    "translation": "Жон Жи-юн (хүний нэр)",
+    "hanja": "鄭智閏",
+    "pos": "Proper Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "정지하다",
+    "translation": "Зогсох",
+    "hanja": "停止하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정직",
+    "translation": "шударга байдал",
+    "hanja": "正直",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정직성",
+    "translation": "үнэнч шударга байдал",
+    "hanja": "正直性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정직하다",
+    "translation": "шударга",
+    "hanja": "正直하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정직히",
+    "translation": "шударгаар",
+    "hanja": "正直히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정진",
+    "translation": "Шургуу хичээх",
+    "hanja": "精進",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정진하다",
+    "translation": "хичээх",
+    "hanja": "精進하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정차",
+    "translation": "зогсох",
+    "hanja": "停車",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정차하다",
+    "translation": "зогсох, зогсолт хийх",
+    "hanja": "停車하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정착",
+    "translation": "Тогтох",
+    "hanja": "定着",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정착되다",
+    "translation": "тогтворжих",
+    "hanja": "定着되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정착민",
+    "translation": "Суурьшсан оршин суугч",
+    "hanja": "定着民",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정착시키다",
+    "translation": "Суурьшуулах",
+    "hanja": "定着시키다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "정착지",
+    "translation": "суурин газар",
+    "hanja": "定着地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정착하다",
+    "translation": "суурьших, тогтворжих",
+    "hanja": "定着하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정찬",
+    "translation": "бүрэн хоол",
+    "hanja": "正餐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정찰",
+    "translation": "тагнуул",
+    "hanja": "偵察",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정찰기",
+    "translation": "Тагнуулын онгоц",
+    "hanja": "偵察機",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정찰하다",
+    "translation": "тагнах",
+    "hanja": "偵察-",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "정책",
+    "translation": "бодлого",
+    "hanja": "政策",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정책적",
+    "translation": "Бодлогын",
+    "hanja": "政策的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정책하다",
+    "translation": "бодлого боловсруулах",
+    "hanja": "政策하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정처",
+    "translation": "тогтсон газар, байршил",
+    "hanja": "定處",
+    "pos": "н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "정철",
+    "translation": "төмөр",
+    "hanja": "正鐵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정청",
+    "translation": "шүүхийн танхим, зөвлөх газар",
+    "hanja": "政廳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정체",
+    "translation": "замын түгжрэл",
+    "hanja": "停滯",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정체되다",
+    "translation": "зогсонги байдалд орох",
+    "hanja": "停滯되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "정체불명",
+    "translation": "Хэн болох нь үл мэдэгдэх",
+    "hanja": "正體不明",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정체성",
+    "translation": "өөрийгөө тодорхойлох",
+    "hanja": "正體性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정체하다",
+    "translation": "зогсох, зогсонги байдалд орох",
+    "hanja": "停滯하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "정초",
+    "translation": "Шинэ жилийн эхэн",
+    "hanja": "正初",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정충",
+    "translation": "үр хөврөл",
+    "hanja": "精蟲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정취",
+    "translation": "Уур амьсгал, сэтгэл татам байдал",
+    "hanja": "情趣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정치",
+    "translation": "улс төр",
+    "hanja": "政治",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정치가",
+    "translation": "Улс төрч",
+    "hanja": "政治家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정치권",
+    "translation": "улс төрийн хүрээ",
+    "hanja": "政治圈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정치꾼",
+    "translation": "улс төрч",
+    "hanja": "政治꾼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정치력",
+    "translation": "улс төрийн хүчний",
+    "hanja": "政治力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정치범",
+    "translation": "улс төрийн хоригдол",
+    "hanja": "政治犯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정치부",
+    "translation": "улс төрийн хэлтэс",
+    "hanja": "政治部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정치성",
+    "translation": "улс төрийн тэмдэг",
+    "hanja": "政治性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정치위원",
+    "translation": "улс төрийн комиссар",
+    "hanja": "政治委員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정치인",
+    "translation": "улс төрч",
+    "hanja": "政治人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정치적",
+    "translation": "улс төрийн",
+    "hanja": "政治的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "정치판",
+    "translation": "улс төрийн талбар",
+    "hanja": "政治판",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정치하다",
+    "translation": "Улс төр хийх",
+    "hanja": "政治하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정치학",
+    "translation": "улс төр судлал",
+    "hanja": "政治學",
+    "pos": "name",
+    "cefr": "C1"
+  },
+  {
+    "word": "정크",
+    "translation": "хог",
+    "hanja": "junk",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정타",
+    "translation": "тууштай цохилт",
+    "hanja": "正打",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정탐",
+    "translation": "тагнуул",
+    "hanja": "偵探",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정탐하다",
+    "translation": "Тагнуул хийх",
+    "hanja": "偵探하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "정태",
+    "translation": "хэвийн байдал",
+    "hanja": "靜態",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정태현",
+    "translation": "Жон Тэ-хён (хүний нэр)",
+    "hanja": "鄭泰鉉",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "정택",
+    "translation": "хэвшмэл, тогтсон",
+    "hanja": "定澤",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "정토",
+    "translation": "Цэвэр газар, буддын диваажин",
+    "hanja": "淨土",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정통",
+    "translation": "Уламжлалт",
+    "hanja": "正統",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정통성",
+    "translation": "хууль ёсны байдал, баталгаатай байдал",
+    "hanja": "正統性",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "정통적",
+    "translation": "уламжлалт, албан ёсны",
+    "hanja": "正統的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정통파",
+    "translation": "Үнэн алдартны, уламжлалт үзэлтэн",
+    "hanja": "正統派",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정통하다",
+    "translation": "сайн мэдэх",
+    "hanja": "精通하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정파",
+    "translation": "намын бүлэг",
+    "hanja": "政派",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정평",
+    "translation": "Сайн нэр хүнд",
+    "hanja": "定評",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정표",
+    "translation": "бэлэг тэмдэг, илэрхийлэл",
+    "hanja": "呈表",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정품",
+    "translation": "жинхэнэ бүтээгдэхүүн",
+    "hanja": "正品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정풍",
+    "translation": "Салхи засах",
+    "hanja": "整風",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정하",
+    "translation": "дор",
+    "hanja": "定下",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정하다",
+    "translation": "тогтоох, шийдэх",
+    "hanja": "定-",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정학",
+    "translation": "хичээлээс хасах",
+    "hanja": "停學",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정한",
+    "translation": "тогтох",
+    "hanja": "定한",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정해",
+    "translation": "тогтоосон",
+    "hanja": "定해",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "정향",
+    "translation": "хадаас",
+    "hanja": "丁香",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정헌",
+    "translation": "Жонгхон (хүний нэр)",
+    "hanja": "鄭憲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정협",
+    "translation": "Зөв шударга, шударга журам",
+    "hanja": "正俠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정형",
+    "translation": "Хэв маяг, загвар",
+    "hanja": "定型",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정형시",
+    "translation": "тогтмол хэлбэрийн шүлэг",
+    "hanja": "定型詩",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정형외과",
+    "translation": "Ясны мэс засал",
+    "hanja": "整形外科",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정형하다",
+    "translation": "Хэв маягийг тогтоох",
+    "hanja": "定型하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정형화되다",
+    "translation": "хэв маяг болох",
+    "hanja": "定型化되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "정혜",
+    "translation": "Тайван байдал ба мэргэн ухаан (불교 용어)",
+    "hanja": "定慧",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정혼",
+    "translation": "сүй тавих",
+    "hanja": "定婚",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정혼하다",
+    "translation": "сүй тавих",
+    "hanja": "定婚하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정화",
+    "translation": "цэвэршүүлэх",
+    "hanja": "淨化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정화되다",
+    "translation": "цэвэрлэх",
+    "hanja": "淨化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정화수",
+    "translation": "ариун ус",
+    "hanja": "井華水",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정화시키다",
+    "translation": "Цэвэршүүлэх, ариутгах",
+    "hanja": "淨化시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정화하다",
+    "translation": "Цэвэрлэх, ариутгах",
+    "hanja": "淨化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정확",
+    "translation": "үнэн зөв; яг таг",
+    "hanja": "正確",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정확도",
+    "translation": "үнэн зөв байдал, нарийвчлал",
+    "hanja": "正確度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정확성",
+    "translation": "нарийн байдал",
+    "hanja": "正確性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정확하다",
+    "translation": "үнэн зөв, яг таг",
+    "hanja": "正確하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정확히",
+    "translation": "үнэн зөвөөр, яг таг",
+    "hanja": "正確-",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정황",
+    "translation": "нөхцөл байдал",
+    "hanja": "情況",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정회",
+    "translation": "хурал зогсох",
+    "hanja": "停會",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정회되다",
+    "translation": "хойшлогдох",
+    "hanja": "停會되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정회원",
+    "translation": "бүрэн эрхт гишүүн",
+    "hanja": "正會員",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "정회하다",
+    "translation": "хуралдааныг түр зогсоох",
+    "hanja": "停會하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정휘",
+    "translation": "тодорхой хурц гэрэл",
+    "hanja": "晶暉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "정희",
+    "translation": "Жонхи",
+    "hanja": "貞姬",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

@@ -1,0 +1,2011 @@
+[
+  {
+    "word": "발",
+    "translation": "хөл",
+    "hanja": "발",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "발가락",
+    "translation": "Хөлийн хуруу",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "발가벗기다",
+    "translation": "Нүцгэлэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발가벗다",
+    "translation": "нүцгэн байх, тайчих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발각",
+    "translation": "илрүүлэх",
+    "hanja": "발각(發覺)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발각되다",
+    "translation": "илчлэгдэх, олдох",
+    "hanja": "發覺되다(발각되다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발간",
+    "translation": "Хэвлэн гаргах",
+    "hanja": "發刊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발간되다",
+    "translation": "хэвлэгдэх",
+    "hanja": "發刊되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발간하다",
+    "translation": "хэвлэн гаргах",
+    "hanja": "발간하다(發刊하다)",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "발갛다",
+    "translation": "улайсан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발걸음",
+    "translation": "алхаа гишгээ",
+    "hanja": "발걸음",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "발걸음하다",
+    "translation": "алхах",
+    "hanja": "발걸음하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발검",
+    "translation": "илдээрээ сугалах",
+    "hanja": "拔劍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발견",
+    "translation": "илрүүлэг, олдоц",
+    "hanja": "發見",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발견되다",
+    "translation": "олддог, илэрдэг",
+    "hanja": "發見되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발견하다",
+    "translation": "олох",
+    "hanja": "發見하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발고하다",
+    "translation": "Илчлэх/мэдэгдэх",
+    "hanja": "發告하다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "발골",
+    "translation": "яснаас салгах",
+    "hanja": "發骨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발광",
+    "translation": "гэрэлтэх",
+    "hanja": "發光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발광체",
+    "translation": "Гэрэл цацруулагч биет",
+    "hanja": "發光體",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "발광하다",
+    "translation": "гэрэлтэх",
+    "hanja": "發光하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "발군",
+    "translation": "онцгой, гарамгай",
+    "hanja": "拔群",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발굴",
+    "translation": "малтлага хийх",
+    "hanja": "發掘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발굴되다",
+    "translation": "олдогдох",
+    "hanja": "發掘되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발굴하다",
+    "translation": "Мальжих, ухаж олох, илрүүлэх",
+    "hanja": "發掘하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발굽",
+    "translation": "туурайн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발권",
+    "translation": "Тасалбар олгох",
+    "hanja": "發券",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "발권하다",
+    "translation": "тасалбар олгох",
+    "hanja": "發券하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발그레",
+    "translation": "улайн, ягаарсан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발그레하다",
+    "translation": "улайх, ялдамхан",
+    "hanja": "발그레하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발그스레하다",
+    "translation": "улаавтар",
+    "hanja": "",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "발그스름하다",
+    "translation": "ялдам улаан",
+    "hanja": "발그스름하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "발급",
+    "translation": "олгох, гаргах",
+    "hanja": "發給",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발급되다",
+    "translation": "олгогдох, гарах",
+    "hanja": "發給되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발급하다",
+    "translation": "Олгох",
+    "hanja": "發給하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "발기되다",
+    "translation": "босох",
+    "hanja": "勃起되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발기발기",
+    "translation": "Урах, хуваах",
+    "hanja": "발기발기",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발기인",
+    "translation": "Үүсгэн байгуулагч",
+    "hanja": "發起人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발기하다",
+    "translation": "санаачлах",
+    "hanja": "發起-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발길",
+    "translation": "Хөлийн мөр",
+    "hanja": "발길",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발길질",
+    "translation": "Хөшигдөх",
+    "hanja": "발길질",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "발길질하다",
+    "translation": "өшиглөх",
+    "hanja": "발길질하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "발꿈치",
+    "translation": "өсгий",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발끈",
+    "translation": "гэнэт уурлах, гэнэт цочих",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "발끈하다",
+    "translation": "уурлах",
+    "hanja": "None",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "발끝",
+    "translation": "хөлийн үзүүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발놀림",
+    "translation": "хөлийн хөдөлгөөн",
+    "hanja": "발놀림",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발다",
+    "translation": "өлгөх",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발단",
+    "translation": "эхлэл",
+    "hanja": "發端",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발달",
+    "translation": "хөгжил, өсөлт",
+    "hanja": "發達",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발달되다",
+    "translation": "хөгжих",
+    "hanja": "發達되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발달사",
+    "translation": "хөгжлийн түүх",
+    "hanja": "發達史",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발달시키다",
+    "translation": "Хөгжүүлэх",
+    "hanja": "發達시키다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "발달하다",
+    "translation": "хөгжих",
+    "hanja": "發達하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "발대식",
+    "translation": "нээлтийн ёслол",
+    "hanja": "發隊式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발데르",
+    "translation": "Балдер",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발돋움",
+    "translation": "хөл дээрээ өндийх, урагшлах, дэвших",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발돋움하다",
+    "translation": "хөл дээрээ зогсох, дээшээ өндийх",
+    "hanja": "발돋움하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발동",
+    "translation": "Эхлэл",
+    "hanja": "發動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발동기",
+    "translation": "хөдөлгүүр",
+    "hanja": "發動機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발동되다",
+    "translation": "Асаах, эхлэх",
+    "hanja": "發動되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발동하다",
+    "translation": "хөдөлгөх",
+    "hanja": "發動하다",
+    "pos": "үйл",
+    "cefr": "B2"
+  },
+  {
+    "word": "발뒤꿈치",
+    "translation": "өрөм",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "발등",
+    "translation": "Хөлийн арын хэсэг",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발딱",
+    "translation": "гүвэр гүвэр",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발라내다",
+    "translation": "арчих",
+    "hanja": "발라내다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "발라드",
+    "translation": "баллад",
+    "hanja": "ballad",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발라먹다",
+    "translation": "Хуудсаар нь идэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발라클라바",
+    "translation": "балаклав",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발락",
+    "translation": "Баллак (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발란",
+    "translation": "Баланс",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발란스",
+    "translation": "Тэнцвэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발랄하다",
+    "translation": "хөгжилтэй",
+    "hanja": "潑剌하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발람",
+    "translation": "Балам",
+    "hanja": "발람",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발랑",
+    "translation": "хөнгөмсөг, хөнгөн хийсэн байдал",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발레",
+    "translation": "Балет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발레다",
+    "translation": "Балет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발레리",
+    "translation": "Валерий (нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발레리나",
+    "translation": "Балечин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발레리노",
+    "translation": "балетчин (эрэгтэй)",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "발레타",
+    "translation": "Валлетта (Мальтын нийслэл)",
+    "hanja": "발레타",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발렌시아",
+    "translation": "Валенсиа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발렌시아가",
+    "translation": "Баленсиага",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "발렌타인데이",
+    "translation": "Валентины өдөр",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발렌티노",
+    "translation": "Валентино (хүний нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발렛파킹",
+    "translation": "Валет зогсоол",
+    "hanja": "발렛파킹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발령",
+    "translation": "томилгоо, зарлиг",
+    "hanja": "發令",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발령되다",
+    "translation": "томилогдох",
+    "hanja": "發令되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발령하다",
+    "translation": "томилох",
+    "hanja": "發令하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발로",
+    "translation": "хөлөөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "발록",
+    "translation": "балрог",
+    "hanja": "발록",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발루",
+    "translation": "баллу",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "발르다",
+    "translation": "хэрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발리",
+    "translation": "Бали (индонезийн арал)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발리다",
+    "translation": "ялагдах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발린",
+    "translation": "гашилган хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발맞추다",
+    "translation": "алхам нийлүүлэх",
+    "hanja": "발맞추다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "발매",
+    "translation": "худалдаанд гаргах",
+    "hanja": "發賣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발매되다",
+    "translation": "худалдаанд гарах",
+    "hanja": "發賣되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발매하다",
+    "translation": "худалдаанд гаргах",
+    "hanja": "發賣하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "발머",
+    "translation": "Балмер (хүний нэр)",
+    "hanja": "Balmer",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발명",
+    "translation": "нээлт",
+    "hanja": "發明",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "발명가",
+    "translation": "Зохион бүтээгч",
+    "hanja": "發明家",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "발명되다",
+    "translation": "шинэ бүтээл хийгдэх",
+    "hanja": "發明되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "발명왕",
+    "translation": "зохион бүтээгчийн хаан",
+    "hanja": "發明王",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발명품",
+    "translation": "шинэ бүтээл",
+    "hanja": "發明品",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발명하다",
+    "translation": "бүтээх",
+    "hanja": "發明하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "발모",
+    "translation": "Үс ургуулах",
+    "hanja": "發毛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발목",
+    "translation": "шагай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발몽",
+    "translation": "Валмон (хүний нэр)",
+    "hanja": "발몽",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발문",
+    "translation": "төгсгөлийн үг",
+    "hanja": "跋文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발밑",
+    "translation": "хөл дор",
+    "hanja": "발밑",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "발바닥",
+    "translation": "Хөлний ул",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발바리",
+    "translation": "богино хөлтэй нохой (пикинес)",
+    "hanja": "발바리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발발",
+    "translation": "발발, 발생",
+    "hanja": "勃發",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발발하다",
+    "translation": "Дэгдэх",
+    "hanja": "勃發",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발버둥",
+    "translation": "тэмцэх, зүтгэх",
+    "hanja": "발버둥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발버둥질",
+    "translation": "хөлөө савчих",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발버둥질하다",
+    "translation": "тэмцэх",
+    "hanja": "발버둥질하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발병",
+    "translation": "өвчин гарах",
+    "hanja": "發病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발병되다",
+    "translation": "өвчин үүсэх",
+    "hanja": "發病되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발병률",
+    "translation": "өвчний тархалт",
+    "hanja": "발병률(發病率)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발병하다",
+    "translation": "Өвчин үүсэх",
+    "hanja": "發病하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발본색원",
+    "translation": "үндсийг нь ухах, устгах",
+    "hanja": "拔本塞源",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발본색원하다",
+    "translation": "үндсээр нь устгах",
+    "hanja": "拔本塞源하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발부",
+    "translation": "Олгох, гаргах (бичиг баримт)",
+    "hanja": "發付",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발부되다",
+    "translation": "олголох",
+    "hanja": "發付되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "발부리",
+    "translation": "хөлийн үзүүр",
+    "hanja": "발부리",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "발부하다",
+    "translation": "Олгох, гаргах",
+    "hanja": "發付하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발붙이다",
+    "translation": "Үндэс суурь тавих, хөл тавих",
+    "hanja": "발붙이다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "발뺌",
+    "translation": "бултасхийх",
+    "hanja": "발뺌",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발뺌하다",
+    "translation": "зугатах, бултах",
+    "hanja": "발뺌하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발사",
+    "translation": "хөөргөх, буудах",
+    "hanja": "發射",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발사되다",
+    "translation": "хөөргөх",
+    "hanja": "發射되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "발사르탄",
+    "translation": "валсартан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발사믹식초",
+    "translation": "бальзамын цуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발사음",
+    "translation": "буудлагын дуу",
+    "hanja": "発射音",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발사하다",
+    "translation": "Харвах, буудах",
+    "hanja": "發射하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "발산",
+    "translation": "цацралт",
+    "hanja": "發散",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발산되다",
+    "translation": "ялгарах, цацагдах",
+    "hanja": "發散되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발산하다",
+    "translation": "ялгаруулах",
+    "hanja": "發散하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발삼",
+    "translation": "бальзам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발상",
+    "translation": "Санаа",
+    "hanja": "發想",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발상지",
+    "translation": "эхлэл газар",
+    "hanja": "發祥地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발색",
+    "translation": "өнгийг гаргах",
+    "hanja": "發色",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "발색되다",
+    "translation": "өнгө гарах, өнгөлөг болох",
+    "hanja": "發色되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발색하다",
+    "translation": "Өнгөө гаргах, өнгөтэй болох",
+    "hanja": "發色하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "발생",
+    "translation": "Үүсэх, бий болох",
+    "hanja": "發生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발생되다",
+    "translation": "Үүсэх, бий болох",
+    "hanja": "發生되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발생량",
+    "translation": "ялгаралтын хэмжээ",
+    "hanja": "發生量",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발생률",
+    "translation": "Үүсэх хувь, тархалтын түвшин",
+    "hanja": "發生率",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발생시키다",
+    "translation": "Үүсгэх",
+    "hanja": "發生시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발생지",
+    "translation": "үүссэн газар",
+    "hanja": "發生地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발생하다",
+    "translation": "үүсэх, гарах, бий болох",
+    "hanja": "發生하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발설",
+    "translation": "задлах, илчлэх",
+    "hanja": "發泄",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발설하다",
+    "translation": "илчлэх, нууцыг дэлгэх",
+    "hanja": "發說하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발성",
+    "translation": "дууны гаралт, дуу гаргах",
+    "hanja": "發聲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발성하다",
+    "translation": "дуу гаргах",
+    "hanja": "發聲하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발소리",
+    "translation": "Хөлийн чимээ",
+    "hanja": "발소리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발송",
+    "translation": "илгээх, хүргэх",
+    "hanja": "發送",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발송되다",
+    "translation": "илгээгдэх, хүргэгдэх",
+    "hanja": "發送 되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발송자",
+    "translation": "илгээгч",
+    "hanja": "발송자(發送者)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발송하다",
+    "translation": "илгээх, хүргэх",
+    "hanja": "發送하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발수",
+    "translation": "ус үл нэвтрэх",
+    "hanja": "撥水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발신",
+    "translation": "илгээх",
+    "hanja": "發信",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발신되다",
+    "translation": "илгээгдэх",
+    "hanja": "發信되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "발신음",
+    "translation": "дууны дохио",
+    "hanja": "發信音",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발신인",
+    "translation": "илгээгч",
+    "hanja": "發信人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발신자",
+    "translation": "Илгээгч",
+    "hanja": "發信者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발신하다",
+    "translation": "мэдээ илгээх",
+    "hanja": "發信하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발아",
+    "translation": "соёолох, ургах",
+    "hanja": "發芽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발아하다",
+    "translation": "Ургах, соёолох",
+    "hanja": "發芽하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발악",
+    "translation": "цухалдаж уурлах",
+    "hanja": "發惡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발악하다",
+    "translation": "Цөхөрч тэмцэх",
+    "hanja": "發惡하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발암",
+    "translation": "хавдар үүсгэгч",
+    "hanja": "發癌",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "발암성",
+    "translation": "хорт хавдар үүсгэгч",
+    "hanja": "發癌性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발야구",
+    "translation": "хөлийн бөмбөг",
+    "hanja": "발야구",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "발언",
+    "translation": "үг хэлэх",
+    "hanja": "發言",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발언권",
+    "translation": "үг хэлэх эрх",
+    "hanja": "發言權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발언하다",
+    "translation": "үг хэлэх, мэдэгдэл хийх",
+    "hanja": "發言하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발열",
+    "translation": "халууралт",
+    "hanja": "發熱",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발열하다",
+    "translation": "халуурах",
+    "hanja": "發熱하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발우",
+    "translation": "тагш",
+    "hanja": "鉢盂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발원",
+    "translation": "гарал үүсэл",
+    "hanja": "發源",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발원지",
+    "translation": "эх үүсвэр",
+    "hanja": "發源地",
+    "pos": "name",
+    "cefr": "C1"
+  },
+  {
+    "word": "발원하다",
+    "translation": "эхлэх, ундарьж эхлэх",
+    "hanja": "發源하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발육",
+    "translation": "хөгжил",
+    "hanja": "發育",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발육하다",
+    "translation": "хөгжих, ургах",
+    "hanja": "發育하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발음",
+    "translation": "Дуудлага",
+    "hanja": "發音",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "발음되다",
+    "translation": "дуудагдах",
+    "hanja": "發音되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발음하다",
+    "translation": "Дуудах",
+    "hanja": "發音—",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "발의",
+    "translation": "санаачлага",
+    "hanja": "發議",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발의되다",
+    "translation": "санал болгогдох, өргөн баригдах",
+    "hanja": "發議되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발의하다",
+    "translation": "Санал гаргах",
+    "hanja": "發議하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발인",
+    "translation": "оршуулах",
+    "hanja": "發 M",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발인하다",
+    "translation": "хүргэх, гаргах",
+    "hanja": "發引--",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "발자국",
+    "translation": "хөлийн мөр",
+    "hanja": "발자국",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "발자욱",
+    "translation": "мөр",
+    "hanja": "발자욱",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발자취",
+    "translation": "Мөр, ул мөр",
+    "hanja": "발자취",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "발자크",
+    "translation": "Бальзак",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발작",
+    "translation": "таталт, уналт",
+    "hanja": "發作",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발작하다",
+    "translation": "уналт татах, гэнэт өдрийн нэг хэсэг болох",
+    "hanja": "發作하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발장",
+    "translation": "Хөлөөрөө өшиглөх",
+    "hanja": "발丈",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "발장구",
+    "translation": "хөлөөрөө ус цацах",
+    "hanja": "발장구",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발재간",
+    "translation": "хөлийн ур чадвар",
+    "hanja": "발재간",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발적",
+    "translation": "улайх",
+    "hanja": "發赤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발전",
+    "translation": "Хөгжил",
+    "hanja": "發展",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "발전기",
+    "translation": "Генератор",
+    "hanja": "發電機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발전되다",
+    "translation": "Хөгжих",
+    "hanja": "發展되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발전사",
+    "translation": "хөгжлийн түүх",
+    "hanja": "發展史",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발전상",
+    "translation": "хөгжлийн байдал",
+    "hanja": "發展相",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발전성",
+    "translation": "хөгжих чадвар",
+    "hanja": "發展性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발전소",
+    "translation": "цахилгаан станц",
+    "hanja": "發電所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발전시키다",
+    "translation": "Хөгжүүлэх",
+    "hanja": "發展시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발전적",
+    "translation": "хөгжихүйц",
+    "hanja": "發展的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "발전하다",
+    "translation": "хөгжих, урагшлах",
+    "hanja": "發展하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발정",
+    "translation": "байдал",
+    "hanja": "發情",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발제",
+    "translation": "илтгэл, танилцуулга",
+    "hanja": "發題",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발제하다",
+    "translation": "илтгэл тавих",
+    "hanja": "發題하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발족",
+    "translation": "Үүсгэн байгуулах",
+    "hanja": "發足",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발족되다",
+    "translation": "байгуулагдах, үүсгэн байгуулагдах",
+    "hanja": "發足되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발족시키다",
+    "translation": "үүсгэн байгуулах",
+    "hanja": "發足시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발족하다",
+    "translation": "байгуулагдах",
+    "hanja": "發足하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "발주",
+    "translation": "захиалга",
+    "hanja": "發注",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발주하다",
+    "translation": "захиалга өгөх",
+    "hanja": "發注하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "발진",
+    "translation": "тууралт",
+    "hanja": "發疹",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발진하다",
+    "translation": "хөөрөх, гарахаар бэлтгэх",
+    "hanja": "發進하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발짓",
+    "translation": "хөлөөрөө дохих",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "발짝",
+    "translation": "Алхам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발쪽",
+    "translation": "хөлийн тал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발찌",
+    "translation": "хөлийн бугуйвч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발차",
+    "translation": "хөлөөрөө өшиглөх",
+    "hanja": "발車",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발출하다",
+    "translation": "Урсах, ундарч гарах",
+    "hanja": "發出하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발췌",
+    "translation": "ишлэл",
+    "hanja": "拔萃",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발췌되다",
+    "translation": "Хэсэгчилэн авах",
+    "hanja": "拔萃되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발췌하다",
+    "translation": "хэсэгчлэн авах, эшлэх",
+    "hanja": "拔萃하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발치하다",
+    "translation": "шүд сугалах",
+    "hanja": "拔齒하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발칙하다",
+    "translation": "зоригтой, дураараа",
+    "hanja": "發勅하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "발칵",
+    "translation": "Гэнэт",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발칸",
+    "translation": "Балкан",
+    "hanja": "발칸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발코니",
+    "translation": "тагт, балкон",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "발퀴레",
+    "translation": "Валкири",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발키리",
+    "translation": "валькири",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발탁",
+    "translation": "сонгож авах, томилох",
+    "hanja": "拔擢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발탁되다",
+    "translation": "сонгогдох",
+    "hanja": "拔擢되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발탁하다",
+    "translation": "сонгох, томилох",
+    "hanja": "拔擢하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발터",
+    "translation": "Валтер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "발톱",
+    "translation": "хумс",
+    "hanja": "발톱",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "발톱깎이",
+    "translation": "Хумсны хайч",
+    "hanja": "발톱깎이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발통",
+    "translation": "үе мөч",
+    "hanja": "발통",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발트해",
+    "translation": "Балтын тэнгис",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발파",
+    "translation": "тэсэлгээ",
+    "hanja": "發破",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발파라이소",
+    "translation": "Валпараисо",
+    "hanja": "발파라이소",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발판",
+    "translation": "гишгүүр, тулгуур",
+    "hanja": "踏板",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발포",
+    "translation": "буудах",
+    "hanja": "發砲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발포되다",
+    "translation": "буудах",
+    "hanja": "發砲되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "발포하다",
+    "translation": "буудах",
+    "hanja": "發砲하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발표",
+    "translation": "Илтгэл",
+    "hanja": "發表",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "발표되다",
+    "translation": "зарлагдах",
+    "hanja": "發表되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발표문",
+    "translation": "илтгэл",
+    "hanja": "發表文",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발표자",
+    "translation": "илтгэгч",
+    "hanja": "發表者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발표하다",
+    "translation": "зарлах",
+    "hanja": "發表하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발표회",
+    "translation": "илтгэлийн арга хэмжээ",
+    "hanja": "發表會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발하",
+    "translation": "үс ургах, ургасан үс",
+    "hanja": "發芽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발하다",
+    "translation": "Ялгаруулах",
+    "hanja": "發하다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "발할라",
+    "translation": "Валхалла",
+    "hanja": "발할라",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발해",
+    "translation": "Бохай (эртний улс)",
+    "hanja": "渤海",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발행되다",
+    "translation": "хэвлэгдэх, гарах",
+    "hanja": "發行되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발행인",
+    "translation": "Хэвлэн нийтлэгч",
+    "hanja": "發行人",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발행자",
+    "translation": "нийтлэгч",
+    "hanja": "發行者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발행하다",
+    "translation": "хэвлэн гаргах",
+    "hanja": "發行하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발향",
+    "translation": "үнэр ялгаруулах",
+    "hanja": "發香",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "발현",
+    "translation": "илрэл",
+    "hanja": "發顯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발현되다",
+    "translation": "илрэх",
+    "hanja": "發顯되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "발현하다",
+    "translation": "илрэх, биелэгдэх",
+    "hanja": "發顯하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "발호",
+    "translation": "хүчээ авах",
+    "hanja": "跋扈",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "발화",
+    "translation": "гал гарах",
+    "hanja": "發火",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발화되다",
+    "translation": "гарах, дэгдэх",
+    "hanja": "發火되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발화하다",
+    "translation": "галт утас шатаах, галт утас гаргах",
+    "hanja": "發火하다",
+    "pos": "동사 (Verb)",
+    "cefr": "B2"
+  },
+  {
+    "word": "발효",
+    "translation": "исгэх",
+    "hanja": "發酵",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발효되다",
+    "translation": "исэх",
+    "hanja": "醱酵되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발효시키다",
+    "translation": "исгэх, ферментжүүлэх",
+    "hanja": "發酵시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발효유",
+    "translation": "исгэсэн сүү",
+    "hanja": "發酵乳",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발효하다",
+    "translation": "исгэх",
+    "hanja": "發酵하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발휘",
+    "translation": "илрүүлэх",
+    "hanja": "發揮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발휘되다",
+    "translation": "илрэх, гарах",
+    "hanja": "發揮되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "발휘하다",
+    "translation": "харуулах",
+    "hanja": "發揮하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  }
+]

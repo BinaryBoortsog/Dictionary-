@@ -1,0 +1,1787 @@
+[
+  {
+    "word": "방",
+    "translation": "өрөө",
+    "hanja": "房",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "방가",
+    "translation": "гэнэтийн таашаал",
+    "hanja": "放歌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방가방가",
+    "translation": "урамтай",
+    "hanja": "방가방가",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "방간",
+    "translation": "банган (Нэр)",
+    "hanja": "芳簡",
+    "pos": "Proper Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "방갈로",
+    "translation": "бунгало",
+    "hanja": "방갈로",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방갈로르",
+    "translation": "Бангалор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방검복",
+    "translation": "хутганы хамгаалалттай хувцас",
+    "hanja": "防劍服",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방계",
+    "translation": "хажуугийн шугам, салбар",
+    "hanja": "傍系",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "방공",
+    "translation": "агаарын довтолгооноос хамгаалах",
+    "hanja": "防空",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방공호",
+    "translation": "бункер",
+    "hanja": "防空壕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방관",
+    "translation": "хажуугаар өнгөрөх",
+    "hanja": "傍觀",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방관자",
+    "translation": "Ажиглагч",
+    "hanja": "傍觀者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "хажуугаас харах",
+    "hanja": "傍觀하다",
+    "pos": "동사",
+    "cefr": "C1",
+    "word": "방관하다"
+  },
+  {
+    "word": "방광",
+    "translation": "давсаг",
+    "hanja": "膀胱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방구",
+    "translation": "Бүдүүлэг үг, хий",
+    "hanja": "방구",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방구석",
+    "translation": "Өрөөний булан",
+    "hanja": "房구석",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방국",
+    "translation": "хамгаалах орон",
+    "hanja": "防國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방귀",
+    "translation": "гэдэсний хий",
+    "hanja": "방귀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방귀쟁이",
+    "translation": "боргоцой",
+    "hanja": "방귀쟁이",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "방글",
+    "translation": "гялалзах",
+    "hanja": "방글",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "방글라데시",
+    "translation": "Бангладеш",
+    "hanja": "방글라데시",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "방글방글",
+    "translation": "инээмсэглэх",
+    "hanja": "방글방글",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "방금",
+    "translation": "саяхан",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "방금하다",
+    "translation": "өмнөхөн хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방긋",
+    "translation": "инээмсэглэх, баясах",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "방긋방긋",
+    "translation": "инээмсэглэх, мишээх",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방기",
+    "translation": "орхих, хаях",
+    "hanja": "放棄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방기하다",
+    "translation": "хайхрахгүй орхих",
+    "hanja": "放棄하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "방납",
+    "translation": "хаах",
+    "hanja": "妨納",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방년",
+    "translation": "залуу нас",
+    "hanja": "芳年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방뇨",
+    "translation": "шээх",
+    "hanja": "放尿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방뇨하다",
+    "translation": "шээх",
+    "hanja": "放尿하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방대",
+    "translation": "асар том",
+    "hanja": "尨大",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방대하다",
+    "translation": "Асар их, өргөн уудам",
+    "hanja": " vast하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방댕이",
+    "translation": "өгзөг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방뎅이",
+    "translation": "бөгс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방도",
+    "translation": "арга хэрэгсэл",
+    "hanja": "方途",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방독",
+    "translation": "химийн хийнээс хамгаалах",
+    "hanja": "防毒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방독면",
+    "translation": "хийн баг",
+    "hanja": "防毒面",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방랑",
+    "translation": "тэнэх",
+    "hanja": "放浪",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방랑벽",
+    "translation": "тэнэх дуршил",
+    "hanja": "放浪癖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방랑자",
+    "translation": "тэнүүлч",
+    "hanja": "放浪者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방랑하다",
+    "translation": "тэнүүчлэх, хэрэн хэсэх",
+    "hanja": "放浪하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방러",
+    "translation": "Орост зочлох",
+    "hanja": "訪露",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방류",
+    "translation": "Ус гаргах",
+    "hanja": "放流",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방류되다",
+    "translation": "урсгах, асгарах",
+    "hanja": "放流되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "방류하다",
+    "translation": "Ус суллах, загас тавих",
+    "hanja": "放流하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방림",
+    "translation": "ойр орчим ой",
+    "hanja": "芳林",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "방만하다",
+    "translation": "хэтрүүлсэн",
+    "hanja": "放漫하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방망이",
+    "translation": "бухалдаг мод",
+    "hanja": "—",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "방망이질",
+    "translation": "Алх цохих",
+    "hanja": "방망이질",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방면",
+    "translation": "чиглэл, тал, талаар",
+    "hanja": "方面",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방면되다",
+    "translation": "суллагдах, чөлөөлөгдөх",
+    "hanja": "放免되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방면하다",
+    "translation": "суллах, чөлөөлөх",
+    "hanja": "放免하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "방명",
+    "translation": "Зочдын дэвтэр",
+    "hanja": "芳名",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방명록",
+    "translation": "зочны ном",
+    "hanja": "芳名錄",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "방모",
+    "translation": "унгар мал",
+    "hanja": "紡毛",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방목",
+    "translation": "бэлчээх, ил задгай тэжээх",
+    "hanja": "放牧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방목장",
+    "translation": "бэлчээр",
+    "hanja": "放牧場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방목지",
+    "translation": "бэлчээр",
+    "hanja": "放牧地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방목하다",
+    "translation": "бэллэх",
+    "hanja": "放牧하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방문",
+    "translation": "айлчлал, зочлох",
+    "hanja": "訪問",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방문객",
+    "translation": "зочин, айлчлагч",
+    "hanja": "訪問客",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방문단",
+    "translation": "Төлөөлөгчийн баг, айлчлалын баг",
+    "hanja": "訪問團",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방문자",
+    "translation": "Зочин",
+    "hanja": "訪問者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방문하다",
+    "translation": "Зочлох",
+    "hanja": "訪問하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "방미",
+    "translation": "Америкт айлчлах",
+    "hanja": "訪美",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방바닥",
+    "translation": "Өрөөний шал",
+    "hanja": "房바닥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방방",
+    "translation": "бүх газар",
+    "hanja": "방방",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "방방곡곡",
+    "translation": "хаа сайгүй, өнцөг булан бүрт",
+    "hanja": "坊坊曲曲",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방방이",
+    "translation": "Трамплин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방방하다",
+    "translation": "Тэнэгдэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "방배",
+    "translation": "Банбэ",
+    "hanja": "方背",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "방백",
+    "translation": "Хажуугийн үг, нууц үг",
+    "hanja": "旁白",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방범",
+    "translation": "гэмт хэргээс урьдчилан сэргийлэх",
+    "hanja": "防犯",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방법",
+    "translation": "арга зам",
+    "hanja": "方法",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방법론",
+    "translation": "арга зүй",
+    "hanja": "方法論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방벽",
+    "translation": "хаалт",
+    "hanja": "防壁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방부",
+    "translation": "муудахаас хамгаалах",
+    "hanja": "防腐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방부제",
+    "translation": "хадгалагч бодис",
+    "hanja": "防腐劑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방북",
+    "translation": "Хойд Солонгосыг зорих",
+    "hanja": "訪北",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방북하다",
+    "translation": "Хойд Солонгосыг зорих",
+    "hanja": "訪北하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "방비",
+    "translation": "хамгаалалт, бэлтгэл",
+    "hanja": "防備",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방비하다",
+    "translation": "бэлтгэх",
+    "hanja": "防備하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방사",
+    "translation": "цацраг",
+    "hanja": "放射",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방사능",
+    "translation": "цацраг идэвхт бодис",
+    "hanja": "放射能",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방사되다",
+    "translation": "цацрагдах",
+    "hanja": "放射되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방사선",
+    "translation": "Цацраг идэвхт туяа",
+    "hanja": "放射線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방사하다",
+    "translation": "цацраг идэвхт бодис ялгаруулах",
+    "hanja": "放射하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "방사형",
+    "translation": "Цацраг хэлбэрийн",
+    "hanja": "放射形",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방산",
+    "translation": "батлан хамгаалах аж үйлдвэр",
+    "hanja": "防産",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방상",
+    "translation": "хөлдөлт",
+    "hanja": "放傷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방생",
+    "translation": "амьд амьтныг суллах",
+    "hanja": "放生",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "방생하다",
+    "translation": "амьтныг суллах, амьдруулах",
+    "hanja": "放生하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "방석",
+    "translation": "Дэр, дэргүй",
+    "hanja": "方席",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방성",
+    "translation": "орилоон",
+    "hanja": "放聲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방세",
+    "translation": "өрөөний түрээс",
+    "hanja": "房貰",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방송",
+    "translation": "нэвтрүүлэг",
+    "hanja": "放送",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "방송가",
+    "translation": "Нэвтрүүлгийн салбар",
+    "hanja": "放送街",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방송계",
+    "translation": "нэвтрүүлгийн салбар",
+    "hanja": "放送界",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방송국",
+    "translation": "нэвтрүүлгийн газар",
+    "hanja": "放送局",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방송되다",
+    "translation": "Нэвтрүүлэг цацагдах",
+    "hanja": "放送되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방송사",
+    "translation": "Радио телевизийн газар",
+    "hanja": "放送社",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방송실",
+    "translation": "нэвтрүүлгийн өрөө",
+    "hanja": "放送室",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "방송인",
+    "translation": "нэвтрүүлэгч",
+    "hanja": "放送人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방송하다",
+    "translation": "нэвтрүүлэх",
+    "hanja": "放送하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방수",
+    "translation": "ус нэвтэрдэггүй",
+    "hanja": "防水",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방수되다",
+    "translation": "ус нэвтрэхгүй болох",
+    "hanja": "防水되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방수성",
+    "translation": "Ус үл нэвтрэх чанар",
+    "hanja": "防水性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방식",
+    "translation": "арга",
+    "hanja": "方式",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "방실",
+    "translation": "бөөрөнхий, бүдүүн",
+    "hanja": "房實",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방실방실",
+    "translation": "инээмсэглэн, мишээж",
+    "hanja": "방실방실",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방심",
+    "translation": "анхааралгүй байдал",
+    "hanja": "放心",
+    "pos": "сущ",
+    "cefr": "B2"
+  },
+  {
+    "word": "방심위",
+    "translation": "Харилцаа холбоо, мэдээллийн хяналтын хороо",
+    "hanja": "放審委",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방심하다",
+    "translation": "Санаа алдах, хайнга байх",
+    "hanja": "放心하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방아",
+    "translation": "тээрэм",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방아다리",
+    "translation": "Саравч, хөлөг онгоцны тавцан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방아쇠",
+    "translation": "Гох (бууны)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방안",
+    "translation": "шийдэл",
+    "hanja": "方案",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방앗간",
+    "translation": "тээрэм",
+    "hanja": "방앗간",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방약무인하다",
+    "translation": "Бардамнах",
+    "hanja": "傍若無人하다",
+    "pos": "Тэмдэг нэр",
+    "cefr": "C1"
+  },
+  {
+    "word": "방어",
+    "translation": "хамгаалалт",
+    "hanja": "防禦",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방어벽",
+    "translation": "хамгаалалтын хана",
+    "hanja": "防禦壁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방어선",
+    "translation": "хамгаалалтын шугам",
+    "hanja": "防禦線",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방어율",
+    "translation": "хамгаалалтын хувь",
+    "hanja": "防禦率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방어적",
+    "translation": "хамгаалалтын, өмгөөлөх",
+    "hanja": "防禦的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방어전",
+    "translation": "Хамгаалалтын тулаан",
+    "hanja": "防禦戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방어진",
+    "translation": "Баталгаажсан байрлал",
+    "hanja": "防禦陣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방어하다",
+    "translation": "хамгаалах",
+    "hanja": "防禦하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방언",
+    "translation": "Нутаг хэл",
+    "hanja": "方言",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방언하다",
+    "translation": "нутгийн аялгуугаар ярих",
+    "hanja": "方言하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방에",
+    "translation": "өрөөнд",
+    "hanja": "房에",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "방역",
+    "translation": "Ариутгал",
+    "hanja": "防疫",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방역하다",
+    "translation": "ариутгах",
+    "hanja": "防疫하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "방열",
+    "translation": "Дулаан ялгаруулах",
+    "hanja": "放熱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방열기",
+    "translation": "радиатор",
+    "hanja": "放熱器",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방염",
+    "translation": "гал тэсвэрлэх",
+    "hanja": "防炎",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방영",
+    "translation": "нэвтрүүлэг",
+    "hanja": "放映",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방영되다",
+    "translation": "цацах, нэвтрүүлэх",
+    "hanja": "放映되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "방영하다",
+    "translation": "цацах",
+    "hanja": "放映하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방우",
+    "translation": "Бан-Вү",
+    "hanja": "方于",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방울",
+    "translation": "Бөмбөлөг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "방울방울",
+    "translation": "Дусал дуслаар",
+    "hanja": "방울방울",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "방울토마토",
+    "translation": "жижиг улаан лооль",
+    "hanja": "방울토마토",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방원",
+    "translation": "дөрвөлжин",
+    "hanja": "方圓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방위",
+    "translation": "чиглэл",
+    "hanja": "方位",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "방위력",
+    "translation": "батлан хамгаалах чадвар",
+    "hanja": "防衛力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방위비",
+    "translation": "Батлан хамгаалах зардал",
+    "hanja": "防衛費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방위하다",
+    "translation": "Хамгаалах",
+    "hanja": "防衛하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "방음",
+    "translation": "Дуу тусгаарлалт",
+    "hanja": "防音",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방음벽",
+    "translation": "дуу тусгаарлах хана",
+    "hanja": "防音壁",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방이",
+    "translation": "Өрөө",
+    "hanja": "房이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "방일",
+    "translation": "Японд зочлох",
+    "hanja": "訪日",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방일하다",
+    "translation": "Японд айлчлах",
+    "hanja": "訪日하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방임",
+    "translation": "орхих",
+    "hanja": "放任",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방임하다",
+    "translation": "орхигдуулах, үл тоомсорлох",
+    "hanja": "放任하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방자",
+    "translation": "бардам",
+    "hanja": "放恣",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "방자하다",
+    "translation": "бардам, ихэмсэг, дураараа",
+    "hanja": "放恣하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방자히",
+    "translation": "хэтэрхий, дураараа",
+    "hanja": "放恣히",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "방장",
+    "translation": "Өрөөний эзэн",
+    "hanja": "房長",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방재",
+    "translation": "гамшгаас урьдчилан сэргийлэх",
+    "hanja": "防災",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방적",
+    "translation": "ээрэх",
+    "hanja": "紡績",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방전",
+    "translation": "цэнэг алдагдах",
+    "hanja": "放電",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방전되다",
+    "translation": "цэнэг нь дуусах",
+    "hanja": "放電되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "방전하다",
+    "translation": "Цэнэгээ алдах",
+    "hanja": "放電하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방점",
+    "translation": "Онцлох тэмдэг",
+    "hanja": "傍點",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방정",
+    "translation": "байгалийн тоо",
+    "hanja": " 방정",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방정맞다",
+    "translation": "Хөнгөн хийсвэр, бодлогогүй",
+    "hanja": "方正맞다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방정식",
+    "translation": "тэгшитгэл",
+    "hanja": "方程式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방정하다",
+    "translation": "Дөлгөөн, тохиромжтой",
+    "hanja": " 방정하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방정환",
+    "translation": "Бан Жон-хваан",
+    "hanja": "方定煥",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방제",
+    "translation": "хянах, устгах",
+    "hanja": "방제(防除)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방제하다",
+    "translation": "Даван туулах, удирдах",
+    "hanja": "防除하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방조",
+    "translation": "туслах, дэмжих (гэмт хэрэгт)",
+    "hanja": "幇助",
+    "pos": "м",
+    "cefr": "C1"
+  },
+  {
+    "word": "방조제",
+    "translation": "далан",
+    "hanja": "防潮堤",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방조하다",
+    "translation": "туслах, дэмжих",
+    "hanja": "幇助하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방종",
+    "translation": "Дураараа авирлах",
+    "hanja": "放縱",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방종하다",
+    "translation": "замбараагүй байх",
+    "hanja": "放縱하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "방주",
+    "translation": "хөвөгч онгоц",
+    "hanja": "方舟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방죽",
+    "translation": "далан, хана, усны боомт",
+    "hanja": "防築",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방중",
+    "translation": "өрөөний дунд",
+    "hanja": "房中",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "방중하다",
+    "translation": "Оросын айлчлал хийх",
+    "hanja": "訪中-하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "방증",
+    "translation": "нотлох баримт",
+    "hanja": "傍證",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방증하다",
+    "translation": "Батлан харуулах",
+    "hanja": "傍證하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방지",
+    "translation": "урьдчилан сэргийлэх",
+    "hanja": "防止",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방지되다",
+    "translation": "урьдчилан сэргийлэгдэх",
+    "hanja": "防止되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방지책",
+    "translation": "урьдчилан сэргийлэх арга хэмжээ",
+    "hanja": "防止策",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "방지하다",
+    "translation": "урьдчилан сэргийлэх",
+    "hanja": "防止하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방직",
+    "translation": "Нэхмэл",
+    "hanja": "紡織",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방진",
+    "translation": "Тоосны хамгаалалт",
+    "hanja": "防塵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방차",
+    "translation": "зүлэгжүүлсэн бартаат зам",
+    "hanja": "防車",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방책",
+    "translation": "Бодлого",
+    "hanja": "方策",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방첩",
+    "translation": "тагнуултай тэмцэх",
+    "hanja": "防諜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방청",
+    "translation": "сонсголоор оролцох, үзэгчээр оролцох",
+    "hanja": "傍聽",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방청객",
+    "translation": "Сонсогч",
+    "hanja": "傍聽客",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방청권",
+    "translation": "үзэгчийн тасалбар",
+    "hanja": "傍聽券",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방청석",
+    "translation": "үзэгчдийн танхим",
+    "hanja": "傍聽席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방청하다",
+    "translation": "сонсохоор суух",
+    "hanja": "傍聽하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "방출",
+    "translation": "ялгаруулах, суллах",
+    "hanja": "放出",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방출되다",
+    "translation": "ялгарах, гаргах",
+    "hanja": "放出되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방출하다",
+    "translation": "ялгаруулах, суллах",
+    "hanja": "放出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방충",
+    "translation": "шавьжнаас хамгаалах",
+    "hanja": "防蟲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방충망",
+    "translation": "шалны тор, шавьжны тор",
+    "hanja": "防蟲網",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방충제",
+    "translation": "шавьж устгах бодис",
+    "hanja": "防蟲劑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방치",
+    "translation": "орхих",
+    "hanja": "放置",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방치되다",
+    "translation": "Хаягдах",
+    "hanja": "放置되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방치하다",
+    "translation": "Орхих, үл тоомсорлох",
+    "hanja": "放置—",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "방침",
+    "translation": "бодлого",
+    "hanja": "方針",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방콕",
+    "translation": "Бангкок",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "방탄",
+    "translation": "сум нэвтэрдэггүй",
+    "hanja": "防彈",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방탄복",
+    "translation": "сум нэвтэрдэггүй хантааз",
+    "hanja": "防彈服",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방탄조끼",
+    "translation": "сум нэвтэрдэггүй хантааз",
+    "hanja": "방탄조끼(防彈조끼)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방탄하다",
+    "translation": "сум нэвтрэхгүй",
+    "hanja": "防彈하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방탕",
+    "translation": "тансаглал",
+    "hanja": "放蕩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방탕하다",
+    "translation": "танхайрах, завхайрах",
+    "hanja": "放蕩하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방토",
+    "translation": "мини улаан лооль",
+    "hanja": "房土",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "방통",
+    "translation": "нэвтрүүлэг",
+    "hanja": "放通",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방통위",
+    "translation": "Харилцаа холбоо, мэдээллийн комисс",
+    "hanja": "방통위(放統委)",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방통위원장",
+    "translation": "харилцаа холбооны комиссын дарга",
+    "hanja": "放通委員長",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "방파",
+    "translation": "давалгаа хагалагч",
+    "hanja": "防波",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방파제",
+    "translation": "Давалгаа хаах хана",
+    "hanja": "防波堤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방판",
+    "translation": "Гэрээр очиж борлуулах",
+    "hanja": "訪販",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방패",
+    "translation": "бамбай",
+    "hanja": "防牌",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방패막이",
+    "translation": "хамгаалалт",
+    "hanja": "null",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "방편",
+    "translation": "арга",
+    "hanja": "方便",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방폭",
+    "translation": "Дэлбэрэлтээс хамгаалах",
+    "hanja": "防爆",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방풍",
+    "translation": "Салхинаас хамгаалах",
+    "hanja": "防風",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방풍림",
+    "translation": "салхины эсрэг ой мод",
+    "hanja": "防風林",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방학",
+    "translation": "амралт",
+    "hanja": "放學",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "방학하다",
+    "translation": "Амралтанд гарах (сургуулийн)",
+    "hanja": "放學하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "방한",
+    "translation": "хүйтнээс хамгаалах",
+    "hanja": "防寒",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방한모",
+    "translation": "өвлийн малгай",
+    "hanja": "防寒帽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방한복",
+    "translation": "дулаан хувцас",
+    "hanja": "防寒服",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방한하다",
+    "translation": "хүйтнээс хамгаалах",
+    "hanja": "防寒하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방한화",
+    "translation": "өвлийн гутал",
+    "hanja": "防寒靴",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "방해",
+    "translation": "саад тотгор",
+    "hanja": "妨害",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방해꾼",
+    "translation": "саад тотгор",
+    "hanja": "妨害꾼",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방해되다",
+    "translation": "саад болох",
+    "hanja": "妨害되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "방해물",
+    "translation": "саад тотгор",
+    "hanja": "妨害物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방해하다",
+    "translation": "саад хийх, тасалдуулах",
+    "hanja": "妨害하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방향",
+    "translation": "чиглэл",
+    "hanja": "方向",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방향성",
+    "translation": "чиглэл",
+    "hanja": "方向性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방향제",
+    "translation": "үрчийлгэгч",
+    "hanja": "芳香劑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방현",
+    "translation": "хүдэр",
+    "hanja": "方玄",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방호",
+    "translation": "хамгаалах",
+    "hanja": "防護",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방호벽",
+    "translation": "хамгаалалтын хана",
+    "hanja": "防護壁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방호복",
+    "translation": "хамгаалалтын хувцас",
+    "hanja": "防護服",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방화",
+    "translation": "галт утас",
+    "hanja": "防火",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방화광",
+    "translation": "галд дурлагч",
+    "hanja": "放火狂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방화범",
+    "translation": "Гал тавигч",
+    "hanja": "放火犯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방화벽",
+    "translation": "Гал хамгаалагч хана",
+    "hanja": "防火壁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방화수류정",
+    "translation": "Банхвасүюужонг (архитектурын нэг төрөл)",
+    "hanja": "訪花隨柳亭",
+    "pos": "NNP",
+    "cefr": "C2"
+  },
+  {
+    "word": "방화하다",
+    "translation": "гал тавих",
+    "hanja": "放火-",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "방황",
+    "translation": "Төөрөх, хэрэн бэдрэх",
+    "hanja": "彷徨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방황하다",
+    "translation": "тэнэх, төөлөх",
+    "hanja": "彷徨하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "word": "흡기",
+    "translation": "амьсгалах",
+    "hanja": "吸氣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흡반",
+    "translation": "сорогч",
+    "hanja": "吸盤",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "흡사",
+    "translation": "Яг л",
+    "hanja": "恰似",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "흡사하다",
+    "translation": "төстэй",
+    "hanja": "恰似하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흡수",
+    "translation": "Шингээх",
+    "hanja": "吸收",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흡수되다",
+    "translation": "шингэх, шингээгдэх",
+    "hanja": "吸收되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "흡수력",
+    "translation": "Шингээх чадвар",
+    "hanja": "吸收力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흡수성",
+    "translation": "шингээх чадвар",
+    "hanja": "吸收性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "흡수시키다",
+    "translation": "шингээх",
+    "hanja": "吸收시키다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "흡수하다",
+    "translation": "Шингээх",
+    "hanja": "吸收하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흡연",
+    "translation": "Тамхи татах",
+    "hanja": "吸煙",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흡연석",
+    "translation": "тамхи татах хэсэг",
+    "hanja": "喫煙席",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "흡연실",
+    "translation": "тамхи татах өрөө",
+    "hanja": "흡연실(吸煙室)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "흡연자",
+    "translation": "тамхи татагч",
+    "hanja": "吸煙者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "흡연하다",
+    "translation": "тамхи татах",
+    "hanja": "吸煙하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흡음",
+    "translation": "дуу шингээх",
+    "hanja": "吸音",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흡인력",
+    "translation": "татах хүч",
+    "hanja": "吸引力",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "흡입",
+    "translation": "амьсгалах",
+    "hanja": "吸入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흡입되다",
+    "translation": "Сорогдох, шингэх",
+    "hanja": "吸入되다",
+    "pos": "동사 (Verb)",
+    "cefr": "B2"
+  },
+  {
+    "word": "흡입하다",
+    "translation": "Сорох, амьсгалах",
+    "hanja": "吸入하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흡족",
+    "translation": "Сэтгэл хангалуун байдал",
+    "hanja": "洽足",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흡족하다",
+    "translation": "сэтгэл хангалуун байх",
+    "hanja": "洽足하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "흡착",
+    "translation": "шингээх, сорох",
+    "hanja": "吸着",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흡착되다",
+    "translation": "шингэх, наалдах",
+    "hanja": "吸着─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흡착하다",
+    "translation": "Шингээн авах, шингээх",
+    "hanja": "吸着하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "흡혈",
+    "translation": "Цус сорох",
+    "hanja": "吸血",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흡혈귀",
+    "translation": "цус сорогч",
+    "hanja": "吸血鬼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흡혈하다",
+    "translation": "цус сорох",
+    "hanja": "吸血하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

@@ -1,0 +1,646 @@
+[
+  {
+    "word": "봉",
+    "translation": "Саваа",
+    "hanja": "棒",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉건적",
+    "translation": "феодалын, феодализмын",
+    "hanja": "封建的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉게",
+    "translation": "Нэг төрлийн хавч",
+    "hanja": "봉게",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉고",
+    "translation": "бонго",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "봉고차",
+    "translation": "микроавтобус",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "봉공",
+    "translation": "Үйлчлэх, туслах",
+    "hanja": "奉公",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉교",
+    "translation": "Прополис",
+    "hanja": "蜂膠",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉구",
+    "translation": "лацдах, хаах",
+    "hanja": "封口",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉급",
+    "translation": "цалин",
+    "hanja": "俸給",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "봉긋",
+    "translation": "бөхийх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉긋하다",
+    "translation": "бөхийх, товойх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "봉기",
+    "translation": "бослого",
+    "hanja": "蜂起",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉기하다",
+    "translation": "бослого гаргах",
+    "hanja": "蜂起하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉남",
+    "translation": "Боннам",
+    "hanja": "鳳南",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉납하다",
+    "translation": "Өргөх",
+    "hanja": "奉納하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉놋방",
+    "translation": "Зочдын өрөө (хуучирсан)",
+    "hanja": "房諾房",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉다리",
+    "translation": "гялгар уут, túi",
+    "hanja": "봉다리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "봉달",
+    "translation": "Буудай, хүчтэй үлээх",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉당",
+    "translation": "шавар талбай",
+    "hanja": "봉당",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉덕",
+    "translation": "буян, тус",
+    "hanja": "奉德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉독",
+    "translation": "албан ёсоор унших",
+    "hanja": "奉讀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉독하다",
+    "translation": "унших",
+    "hanja": "奉讀하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉디",
+    "translation": "боонди",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉래",
+    "translation": "Понграэ (нэр, уул)",
+    "hanja": "蓬萊",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉련",
+    "translation": "Цэцэг, бадамлянхуа",
+    "hanja": "鳳蓮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉명",
+    "translation": "Дуудлаганд хариулах",
+    "hanja": "奉命",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉방",
+    "translation": "хаанчлалын газар",
+    "hanja": "封邦",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉변",
+    "translation": "гэнэтийн бэрхшээл",
+    "hanja": "逢變",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉변당하다",
+    "translation": "Гэнэтийн хэрэгт холбогдох",
+    "hanja": "逢變當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉봉",
+    "translation": "Бонбон",
+    "hanja": "봉봉",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "봉분",
+    "translation": "булшны овоолго",
+    "hanja": "封墳",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "봉사",
+    "translation": "үйлчилгээ, сайн дурын ажил",
+    "hanja": "奉仕",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "봉사료",
+    "translation": "үйлчилгээний хураамж",
+    "hanja": "奉仕料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "봉사자",
+    "translation": "Сайн дурын ажилтан",
+    "hanja": "奉仕者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "봉사하다",
+    "translation": "үйлчлэх",
+    "hanja": "奉仕하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉산",
+    "translation": "Бонгсан",
+    "hanja": "鳳山",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "봉선",
+    "translation": "маалинган шугам",
+    "hanja": "縫線",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "봉송",
+    "translation": "дагалдах",
+    "hanja": "奉送",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉송되다",
+    "translation": "Дагалдан хүргэгдэх, тээвэрлэгдэх",
+    "hanja": "奉送되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉송하다",
+    "translation": "хүндэтгэлтэй хүргэх",
+    "hanja": "奉送─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉쇄",
+    "translation": "Блоклох",
+    "hanja": "封鎖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉쇄당하다",
+    "translation": "Хаагдах, бүслэгдэх",
+    "hanja": "封鎖當하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉쇄되다",
+    "translation": "хаагдах, бүслэгдэх",
+    "hanja": "封鎖되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉쇄하다",
+    "translation": "Бүслэн хаах",
+    "hanja": "封鎖하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉수",
+    "translation": "ганц бие эрэгтэй",
+    "hanja": "烽燧",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉순",
+    "translation": "Бонгсун (хүний нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉술",
+    "translation": "шуудууны урлаг",
+    "hanja": "棒術",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉숭아",
+    "translation": "маникюр, хумсны будаг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "봉승",
+    "translation": "албан ёсны хүлээн зөвшөөрөл",
+    "hanja": "奉承",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉식",
+    "translation": "Бонг-шик",
+    "hanja": "奉植",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉신",
+    "translation": "вассал",
+    "hanja": "封臣",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉아",
+    "translation": "Бонг-а (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "봉안",
+    "translation": "агуулах",
+    "hanja": "奉安",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉안되다",
+    "translation": "оруулах",
+    "hanja": "奉安되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉안하다",
+    "translation": "тахил өргөх",
+    "hanja": "奉安하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉양",
+    "translation": "хайрлаж халамжлах",
+    "hanja": "奉養",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉양하다",
+    "translation": "асрах",
+    "hanja": "奉養하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉연",
+    "translation": "бонъён",
+    "hanja": "봉연(奉緣)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉오리",
+    "translation": "цэцгийн нахиа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "봉우리",
+    "translation": "оргил",
+    "hanja": "峰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉원",
+    "translation": "өргөл, өргөмжлөл",
+    "hanja": "奉元",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉이",
+    "translation": "тагнай",
+    "hanja": "봉이",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉인",
+    "translation": "Тамга, пломб",
+    "hanja": "封印",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉인되다",
+    "translation": "лацдагдсан",
+    "hanja": "封印되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉인하다",
+    "translation": "битүүмжлэх, лацдах",
+    "hanja": "封印하다",
+    "pos": "ү",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉자",
+    "translation": "нүдтэй хаяг",
+    "hanja": "封字",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉제",
+    "translation": "оёмол",
+    "hanja": "縫製",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉주",
+    "translation": "Бог",
+    "hanja": " 봉주(奉主)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉준",
+    "translation": "Бонг Жун",
+    "hanja": "奉俊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉지",
+    "translation": "уут",
+    "hanja": "封紙",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "봉직하다",
+    "translation": "алба хаших",
+    "hanja": "奉職하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉착",
+    "translation": "Учирал, учиралдах",
+    "hanja": "逢着",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉착하다",
+    "translation": "тулгарах, учрах",
+    "hanja": "逢着하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉창",
+    "translation": "пикриний цонх",
+    "hanja": "封槍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉천",
+    "translation": "Фэнгтиен (хуучин Шенянг хотын нэр)",
+    "hanja": "奉天",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉축",
+    "translation": "Баяр хүргэх, тэмдэглэх",
+    "hanja": "奉祝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉침",
+    "translation": "Зөгийний хатгалт",
+    "hanja": "蜂針",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉토",
+    "translation": "феодал газар",
+    "hanja": "封土",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉투",
+    "translation": "дугтуй",
+    "hanja": "封套",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "봉평",
+    "translation": "Бонпхён (газарзүйн нэр)",
+    "hanja": "蓬坪",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉필",
+    "translation": "бичих",
+    "hanja": "奉筆",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉하다",
+    "translation": "битүүмжлэх",
+    "hanja": "封하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉합",
+    "translation": "оёдол",
+    "hanja": "縫合",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉합하다",
+    "translation": "Оёх",
+    "hanja": "縫合하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉헌",
+    "translation": "өргөх, зориулах",
+    "hanja": "奉獻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉헌하다",
+    "translation": "Зориулах, өргөх",
+    "hanja": "奉獻하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉화",
+    "translation": "үүрдийн гал",
+    "hanja": "烽火",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉화대",
+    "translation": "дохионы галын цамхаг",
+    "hanja": "烽火臺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉환",
+    "translation": "буцаах, эргүүлж өгөх",
+    "hanja": "奉還",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉환하다",
+    "translation": "буцааж өгөх",
+    "hanja": "奉還하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉황",
+    "translation": "галт шувуу",
+    "hanja": "鳳凰",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉희",
+    "translation": "Бонг-хи (нэр)",
+    "hanja": "봉희",
+    "pos": "명사",
+    "cefr": "A1"
+  }
+]

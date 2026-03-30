@@ -1,0 +1,709 @@
+[
+  {
+    "word": "속",
+    "translation": "дотор",
+    "hanja": "속",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "속가",
+    "translation": "энгийн гэр бүл",
+    "hanja": "俗家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속개",
+    "translation": "үргэлжлүүлэх",
+    "hanja": "續開",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속개되다",
+    "translation": "үргэлжлүүлэн явагдах",
+    "hanja": "續開되다",
+    "pos": "т.ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "속개하다",
+    "translation": "үргэлжлүүлэх, дахин эхлэх",
+    "hanja": "續開하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속곳",
+    "translation": "дотуур хувцас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속공",
+    "translation": "түргэн дайралт",
+    "hanja": "速攻",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속광",
+    "translation": "хурдны гэрэл",
+    "hanja": "速光",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "속구",
+    "translation": "Хурдан бөмбөг",
+    "hanja": "速球",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속국",
+    "translation": "харьяа орон, вассал улс",
+    "hanja": "屬國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속궁합",
+    "translation": "хосуудын дотно харьцааны зохицол",
+    "hanja": "俗宮合",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속근",
+    "translation": "хурдан булчин",
+    "hanja": "速筋",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "속기록",
+    "translation": "стенограмм",
+    "hanja": "速記錄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속기사",
+    "translation": "Бичээч, стенографист",
+    "hanja": "速記士",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "속껍질",
+    "translation": "дотор хальс, дотор арьс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속눈썹",
+    "translation": "сопул",
+    "hanja": "속눈썹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속다",
+    "translation": "хууртагдах",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "속닥거리다",
+    "translation": "шившигнэх",
+    "hanja": "속닥거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속닥대다",
+    "translation": "шившигнэх",
+    "hanja": "",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "속닥속닥",
+    "translation": "Шивнэлдэх, хов жив ярих (чимээ)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속닥이다",
+    "translation": "шивнэх",
+    "hanja": "속닥이다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "속단",
+    "translation": "яаран шийдэх, яаруу дүгнэлт",
+    "hanja": "速斷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속단하다",
+    "translation": "яаран шийдэх",
+    "hanja": "速斷하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속담",
+    "translation": "зүйр үг",
+    "hanja": "俗談",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속도",
+    "translation": "хурд",
+    "hanja": "速度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속도감",
+    "translation": "хурдны мэдрэмж",
+    "hanja": "速度感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속도계",
+    "translation": "хурд хэмжигч",
+    "hanja": "速度計",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속도전",
+    "translation": "хурдны дайн",
+    "hanja": "速度戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속독",
+    "translation": "хурдан унших",
+    "hanja": "속독(速讀)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속독하다",
+    "translation": "хурдан унших",
+    "hanja": "速讀하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속되다",
+    "translation": "ялдамхай, хямсгар",
+    "hanja": "俗되다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속뜻",
+    "translation": "далд утга, нууц утга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속량",
+    "translation": "нэхэн төлбөр, татвар",
+    "hanja": "贖良",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속량하다",
+    "translation": "худалдаж авах, эргүүлэн авах",
+    "hanja": "贖良하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속력",
+    "translation": "хурд",
+    "hanja": "速力",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속령",
+    "translation": "эзэмшил газар",
+    "hanja": "屬領",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "속마음",
+    "translation": "дотоод сэтгэл, үнэн сэтгэл",
+    "hanja": "속마음",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속말",
+    "translation": "дотоод бодол",
+    "hanja": "속말",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속명",
+    "translation": "Намлын нэр",
+    "hanja": "俗名",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속물",
+    "translation": "материаллаг хүн",
+    "hanja": "俗物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속물적",
+    "translation": "материаллаг, шуналтай",
+    "hanja": "俗物적",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속바지",
+    "translation": "дотуур өмд",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속박",
+    "translation": "боолчлол",
+    "hanja": "束縛",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "속박되다",
+    "translation": "Боолчлогдох, хүлэгдэх",
+    "hanja": "束縛되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속박하다",
+    "translation": "хүлээслэх, боомилох",
+    "hanja": "束縛하다",
+    "pos": "ү.ү.",
+    "cefr": "B2"
+  },
+  {
+    "word": "속방",
+    "translation": "харьяат улс",
+    "hanja": "屬邦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속병",
+    "translation": "дотор өвчин",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "속보",
+    "translation": "онцгой мэдээ",
+    "hanja": "速報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속보습",
+    "translation": "Дотор чийгшүүлэгч",
+    "hanja": "속보습",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속보하다",
+    "translation": "хурдтай алхах",
+    "hanja": "速步하다",
+    "pos": "v",
+    "cefr": "B2"
+  },
+  {
+    "word": "속사",
+    "translation": "Шуурхай буудлага",
+    "hanja": "速射",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "속사정",
+    "translation": "дотоод байдал, нууц шалтгаан",
+    "hanja": "속事情",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속사포",
+    "translation": "хурдан буудах",
+    "hanja": "速射砲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속삭거리다",
+    "translation": "Шивнэх, сэмээр ярих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속삭이다",
+    "translation": "шивших, бувтнах",
+    "hanja": "속삭이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속삭임",
+    "translation": "шившигнэх",
+    "hanja": "속삭임",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속살",
+    "translation": "дотор мах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속살거리다",
+    "translation": "шимэгчлэх, шивнээ хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속상",
+    "translation": "Уурлах, сэтгэл гонсойх",
+    "hanja": "속상",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속상하다",
+    "translation": "Сэтгэл санаагаар унах",
+    "hanja": "傷心하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "속설",
+    "translation": "хуучин үг",
+    "hanja": "俗說",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속성",
+    "translation": "Шинж чанар, давуу тал",
+    "hanja": "屬性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속세",
+    "translation": "ертөнц",
+    "hanja": "俗世",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속셈",
+    "translation": "Далд санаа",
+    "hanja": "속—",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속속",
+    "translation": "дарааллан, шил даран",
+    "hanja": "束束",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "속속히",
+    "translation": "Үе үе, дараалан",
+    "hanja": "續續히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속수무책",
+    "translation": "яах ч аргагүй",
+    "hanja": "束手無策",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "속안",
+    "translation": "Дотор тал",
+    "hanja": "속안",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "속앓이",
+    "translation": "Дотоод шаналал, нууц зовлон",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "속앓이하다",
+    "translation": "дотуур шаналах",
+    "hanja": "속앓이하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속어",
+    "translation": "халтуур үг",
+    "hanja": "俗語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속없다",
+    "translation": "мулгуу, тэнэг",
+    "hanja": "속없다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속엣말",
+    "translation": "дотоод яриа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속옷",
+    "translation": "дотуур хувцас",
+    "hanja": "속옷",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "속이다",
+    "translation": "хуурах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속이지다",
+    "translation": "Мэхлэгдэх, хуурч авах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속인",
+    "translation": "энгийн хүн",
+    "hanja": "俗人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속임수",
+    "translation": "хууран мэхлэлт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속적삼",
+    "translation": "дотор цамц",
+    "hanja": "ㅡ",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속전",
+    "translation": "түргэн тулаан",
+    "hanja": "速戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속전속결",
+    "translation": "хурдан шуурхай шийдвэрлэх",
+    "hanja": "速戰速決",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속절없다",
+    "translation": "эцэс төгсгөлгүй, гарцгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속절없이",
+    "translation": "хүчгүй, аргагүй",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속정",
+    "translation": "нутгийн сэтгэл",
+    "hanja": "속정",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속죄",
+    "translation": "нүглээ наманчлах, цагаатгал",
+    "hanja": "贖罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속죄양",
+    "translation": "цус урсгах бооцоо",
+    "hanja": "贖罪羊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속죄하다",
+    "translation": "нүглээ наминчлах, цагаатгах",
+    "hanja": "贖罪하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속주",
+    "translation": "Муж, тойрог",
+    "hanja": "屬州",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속주머니",
+    "translation": "дотор халаас",
+    "hanja": "속주머니",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "속지",
+    "translation": "Дотор хуудас",
+    "hanja": "屬紙",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속초",
+    "translation": "Сокчо хот",
+    "hanja": "束草",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "속출",
+    "translation": "дараалан гарах, цуварч гарах",
+    "hanja": "續出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속출하다",
+    "translation": "дараалан гарах",
+    "hanja": "續出하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속치마",
+    "translation": "дотуур юбка",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "속칭",
+    "translation": "ардын нэрлэгдэх",
+    "hanja": "俗稱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속편",
+    "translation": "үргэлжлэл",
+    "hanja": "속편(續篇)",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "속풀이",
+    "translation": "харанхуйгаас гарах, тайвшрах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속하다",
+    "translation": "хамаарах",
+    "hanja": "屬하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "속행",
+    "translation": "үргэлжлүүлэх",
+    "hanja": "續行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속행하다",
+    "translation": "үргэлжлүүлэх",
+    "hanja": "續行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속히",
+    "translation": "Түргэн шуурхай",
+    "hanja": "速히",
+    "pos": "adverb",
+    "cefr": "B2"
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "word": "침",
+    "translation": "Шүлс",
+    "hanja": "鍼",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "침고",
+    "translation": "шүлс, хөлс",
+    "hanja": "沈考",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "침공",
+    "translation": "түрэмгийлэл, довтолгоо",
+    "hanja": "侵攻",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침공하다",
+    "translation": "түрэмгийлэх, довтлох",
+    "hanja": "侵攻-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침구",
+    "translation": "ор дэрний хэрэгсэл",
+    "hanja": "寢具",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "침낭",
+    "translation": "унтлагын уут",
+    "hanja": "寢囊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "침노하다",
+    "translation": "зөрчих",
+    "hanja": "侵路하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "침놓다",
+    "translation": "Зүү тавих",
+    "hanja": "鍼 놓다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침니",
+    "translation": "Яндан",
+    "hanja": "chimney",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침대",
+    "translation": "ор",
+    "hanja": "寢臺",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "침대보",
+    "translation": "орны бүтээлэг",
+    "hanja": "寢臺褓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "침대칸",
+    "translation": "Унтлагын вагон",
+    "hanja": "寢臺칸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "침략",
+    "translation": "түрэмгийлэл",
+    "hanja": "侵略",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침략하다",
+    "translation": "Түрэмгийлэх",
+    "hanja": "侵略하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침모",
+    "translation": "оёдолчин",
+    "hanja": "針母",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "침목",
+    "translation": "Төмөр замын дэр мод",
+    "hanja": "枕木",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "침몰",
+    "translation": "живэх",
+    "hanja": "沈沒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침몰되다",
+    "translation": "живэх, тунарах",
+    "hanja": "沈沒되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침몰하다",
+    "translation": "живэх",
+    "hanja": "沈沒하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "침묵",
+    "translation": "чимээгүй байдал",
+    "hanja": "沈默",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침묵하다",
+    "translation": "чимээгүй байх",
+    "hanja": "沈默하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침방",
+    "translation": "оёдлын өрөө",
+    "hanja": "針房",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "침범",
+    "translation": "Халдах, довтлох",
+    "hanja": "侵犯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침범하다",
+    "translation": "Халдах",
+    "hanja": "侵犯하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침상",
+    "translation": "ор",
+    "hanja": "寢床",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침샘",
+    "translation": "шүлсний булчирхай",
+    "hanja": "唾腺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침소",
+    "translation": "унтлагын өрөө",
+    "hanja": "寢所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "침소봉대",
+    "translation": "жижиг зүйлийг хэтрүүлэн томруулах",
+    "hanja": "針小棒大",
+    "pos": "숙어",
+    "cefr": "C2"
+  },
+  {
+    "word": "침소봉대하다",
+    "translation": "хэтрүүлэн ярих",
+    "hanja": "針小棒大하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침수",
+    "translation": "Усанд живэх",
+    "hanja": "浸水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침수되다",
+    "translation": "үерлэх, усанд автах",
+    "hanja": "浸水되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "침술",
+    "translation": "зүү эмчилгээ",
+    "hanja": "鍼術",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "침습",
+    "translation": "доргилт",
+    "hanja": "侵襲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "침식",
+    "translation": "идэгдэх",
+    "hanja": "侵蝕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침식되다",
+    "translation": "элэгдэх, идэгдэх",
+    "hanja": "侵蝕되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침식하다",
+    "translation": "идэх",
+    "hanja": "侵蝕하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침실",
+    "translation": "унтлагын өрөө",
+    "hanja": "寝室",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "침엽수",
+    "translation": "Шилмүүст мод",
+    "hanja": "針葉樹",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침엽수림",
+    "translation": "шилүүс модны ой",
+    "hanja": "針葉樹林",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "침우",
+    "translation": "бээлий",
+    "hanja": "侵友",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "침울하다",
+    "translation": "Гунигтай",
+    "hanja": "沈鬱하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침음",
+    "translation": "гүн бодол",
+    "hanja": "沈吟",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침입",
+    "translation": "халдлага",
+    "hanja": "侵入",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "침입자",
+    "translation": "халдагч",
+    "hanja": "侵入者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침입하다",
+    "translation": "халдаж орох",
+    "hanja": "侵入하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "침잠",
+    "translation": "гүн гэрэлтэх, гүн бодох",
+    "hanja": "沈潛",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "침잠하다",
+    "translation": "Гүн унах",
+    "hanja": "沈潛하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침전",
+    "translation": "Тусгах",
+    "hanja": "沈澱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침전되다",
+    "translation": "тунах",
+    "hanja": "沈澱되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "침전물",
+    "translation": "тунадас",
+    "hanja": "沈澱物",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "침전하다",
+    "translation": "тунах",
+    "hanja": "沈澱하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침중하다",
+    "translation": "нухацтай",
+    "hanja": "沈重하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침착",
+    "translation": "Тайван",
+    "hanja": "沈着",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "침착성",
+    "translation": "тайван байдал",
+    "hanja": "沈着性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침착하다",
+    "translation": "тайван",
+    "hanja": "沈着하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "침착히",
+    "translation": "тайван, нямбай",
+    "hanja": "沈着히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침채",
+    "translation": "чимбээ",
+    "hanja": "沈滯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침체",
+    "translation": "зогсонги байдал, уналт",
+    "hanja": "沈滯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침체되다",
+    "translation": "зогсонги байдалд орох",
+    "hanja": "沈滯되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "침체하다",
+    "translation": "зогсонги байдалд орох",
+    "hanja": "沈滯하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침출",
+    "translation": "буцалгах, уусгах",
+    "hanja": "浸出",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "침침하다",
+    "translation": "бүүдгэр, харанхуй",
+    "hanja": "침침하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "침탈",
+    "translation": "дарангуйлах",
+    "hanja": "侵奪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침탈하다",
+    "translation": "түрэмгийлэх, довтлох",
+    "hanja": "侵奪하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침통",
+    "translation": "Чичиргээ, уйтгар гунигт байдал",
+    "hanja": "沈痛",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "침통하다",
+    "translation": "гүнээ эмгэнэлтэй байх",
+    "hanja": "沈痛하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "침투",
+    "translation": "нэвтрэх",
+    "hanja": "浸透",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "침투되다",
+    "translation": "нэвтэрч орох",
+    "hanja": "浸透되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침투시키다",
+    "translation": "Нэвтрүүлэх",
+    "hanja": "浸透시키다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "침투하다",
+    "translation": "нэвтрэх, сүвлэх",
+    "hanja": "浸透하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침팬지",
+    "translation": "Шимпанзе",
+    "hanja": "chimpanzee",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "침하",
+    "translation": "уналт, живэлт",
+    "hanja": "沈下",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "침해",
+    "translation": "Зөрчих, халдаж орох",
+    "hanja": "侵害",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침해당하다",
+    "translation": "зөрчигдөх",
+    "hanja": "侵害當하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "침해되다",
+    "translation": "зөрчигдөх",
+    "hanja": "침해(侵害)되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침해하다",
+    "translation": "Зөрчих",
+    "hanja": "侵害하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침향",
+    "translation": "Үнэрт мод, уд",
+    "hanja": "沈香",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

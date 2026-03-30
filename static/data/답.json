@@ -1,0 +1,212 @@
+[
+  {
+    "word": "답",
+    "translation": "хариулт",
+    "hanja": "答",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "답가",
+    "translation": "хариу дуу, хариу ая",
+    "hanja": "答歌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "답다",
+    "translation": "- шиг, - мэт",
+    "hanja": "답다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "답답다",
+    "translation": "давчуулах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "답답이",
+    "translation": "мэдэхгүй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "답답하다",
+    "translation": "бүгчим, хавчигдмал",
+    "hanja": "답답하다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "답례",
+    "translation": "хариу талархал",
+    "hanja": "答禮",
+    "pos": "м.н",
+    "cefr": "B2"
+  },
+  {
+    "word": "답례품",
+    "translation": "талархлын бэлэг",
+    "hanja": "答禮品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "답례하다",
+    "translation": "хариу талархал илэрхийлэх",
+    "hanja": "答禮하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "답문",
+    "translation": "хариулт",
+    "hanja": "答文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "답방",
+    "translation": "хариу айлчлал",
+    "hanja": "答訪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "답방하다",
+    "translation": "хариу зочлох",
+    "hanja": "答訪하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "답변",
+    "translation": "хариулт",
+    "hanja": "答辯",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "답변하다",
+    "translation": "Хариулах",
+    "hanja": "答辯하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "답보",
+    "translation": "гацсан_байдал, зогсонги_байдал",
+    "hanja": "踏步",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "답사",
+    "translation": "газар судлал, хайгуул",
+    "hanja": "踏査",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "답사하다",
+    "translation": "судлах",
+    "hanja": "踏査하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "답삭",
+    "translation": "Гэнэт, огцом (үсрэх, үлбэгнэх)",
+    "hanja": "답삭",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "답서",
+    "translation": "хариу бичиг",
+    "hanja": "答書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "답습",
+    "translation": "дагах",
+    "hanja": "踏襲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "답습하다",
+    "translation": "Дагаж мөрдөх",
+    "hanja": "踏襲하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "답신",
+    "translation": "Хариу захидал (бичих)",
+    "hanja": "答信",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "답신하다",
+    "translation": "хариу бичих",
+    "hanja": "答申하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "답십리",
+    "translation": "Тамсипни (газарзүйн нэр)",
+    "hanja": "踏十里",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "답안",
+    "translation": "хариулт",
+    "hanja": "答案",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "답안지",
+    "translation": "Хариултын хуудас",
+    "hanja": "答案紙",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "답장",
+    "translation": "хариу захиа",
+    "hanja": "答狀",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "답장하다",
+    "translation": "хариу бичих",
+    "hanja": "答狀하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "답정너",
+    "translation": "Хариултыг нь мэдээд асуух",
+    "hanja": "답정너",
+    "pos": "신조어",
+    "cefr": "C1"
+  },
+  {
+    "word": "답하다",
+    "translation": "хариулах",
+    "hanja": "答-",
+    "pos": "동사",
+    "cefr": "A2"
+  }
+]

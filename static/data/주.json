@@ -1,0 +1,2676 @@
+[
+  {
+    "word": "주",
+    "translation": "Долоо хоног",
+    "hanja": "週",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "주가",
+    "translation": "хувьцааны үнэ",
+    "hanja": "株價",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주간",
+    "translation": "долоо хоног, өдрийн цаг",
+    "hanja": "週間/晝間",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주간지",
+    "translation": "долоо хоногийн сэтгүүл",
+    "hanja": "週刊誌",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주강",
+    "translation": "үдшийн лекц, шөнийн сургалт",
+    "hanja": "晝講",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주객",
+    "translation": "эзэн, зочин; гол, туслах",
+    "hanja": "主客",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주거",
+    "translation": "орон сууц",
+    "hanja": "住居",
+    "pos": "NOUN",
+    "cefr": "B1"
+  },
+  {
+    "word": "주거비",
+    "translation": "орон сууцны зардал",
+    "hanja": "住居費",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주거지",
+    "translation": "оршин суух газар",
+    "hanja": "住居地",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주거하다",
+    "translation": "оршин суух",
+    "hanja": "住居하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주걱",
+    "translation": "Халбага, сэрээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주걱턱",
+    "translation": "Урт эрүү",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주검",
+    "translation": "цөвүүн (үхсэн хүн)",
+    "hanja": "주검",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주게",
+    "translation": "юүлүүр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주격",
+    "translation": "Эзэн нэрийн тийн ялгал",
+    "hanja": "主格",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주경",
+    "translation": "үндсэн гэрэл, гол үзэгдэл",
+    "hanja": "主景",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주경야독",
+    "translation": "өдөр ажиллаж, шөнө сурах",
+    "hanja": "晝耕夜讀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주고",
+    "translation": "өгөөд",
+    "hanja": "주고",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주고받다",
+    "translation": "харилцах",
+    "hanja": "주고받다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주곡",
+    "translation": "Үндсэн тариа",
+    "hanja": "主穀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주공",
+    "translation": "эзэн, зонхилогч",
+    "hanja": "主公",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주곽",
+    "translation": "үндсэн хүрээ",
+    "hanja": "主廓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주관",
+    "translation": "хувийн үзэл бодол, субъектив",
+    "hanja": "主觀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주관성",
+    "translation": "субъектив байдал",
+    "hanja": "主觀性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주관식",
+    "translation": "Хариултын хэсэг",
+    "hanja": "主觀式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주관자",
+    "translation": "Зохион байгуулагч, хариуцагч",
+    "hanja": "主管者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주관적",
+    "translation": "хувийн",
+    "hanja": "主觀的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주관하다",
+    "translation": "удирдах",
+    "hanja": "主管하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주광",
+    "translation": "үндсэн гэрэл",
+    "hanja": "主光",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주괴",
+    "translation": "хайлш",
+    "hanja": "鑄塊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주교",
+    "translation": "бишоп",
+    "hanja": "主敎",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주구",
+    "translation": "зарц, боол, гар хөл",
+    "hanja": "走狗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주구장창",
+    "translation": "үргэлж",
+    "hanja": "주구장창",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "주군",
+    "translation": "эзэн",
+    "hanja": "主君",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주권",
+    "translation": "үндсэн хууль",
+    "hanja": "主權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주권자",
+    "translation": "бүрэн эрхт эзэн",
+    "hanja": "主權者",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주근깨",
+    "translation": "Сэвх",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주근깨투성이",
+    "translation": "сэвх толботой",
+    "hanja": "---",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주금",
+    "translation": "даатгалын мөнгө",
+    "hanja": "主金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주금공",
+    "translation": "Орон сууцны санхүүгийн корпораци",
+    "hanja": "住金公",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주급",
+    "translation": "Долоо хоногийн цалин",
+    "hanja": "週給",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주기도문",
+    "translation": "Эзний залбирал",
+    "hanja": "主祈禱文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주기성",
+    "translation": "үечилсэн шинж (Шинжлэх ухаан)",
+    "hanja": "週期性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주기적",
+    "translation": "үечилсэн",
+    "hanja": "周期的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주께다",
+    "translation": "Таамаглах, бодох, дүгнэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주꾸미",
+    "translation": "сам хорхой",
+    "hanja": null,
+    "pos": "м.н",
+    "cefr": "A2"
+  },
+  {
+    "word": "주낙",
+    "translation": "урт модтой дэгээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주내다",
+    "translation": "голлон хийх",
+    "hanja": "主내다",
+    "pos": "v",
+    "cefr": "C1"
+  },
+  {
+    "word": "주년",
+    "translation": "жилийн ой",
+    "hanja": "週年",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주노",
+    "translation": "Юно",
+    "hanja": "Juno",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주눅",
+    "translation": "айх, сүрдэх",
+    "hanja": "主눅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주니",
+    "translation": "Жуни (хүний нэр)",
+    "hanja": "주니",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주니어",
+    "translation": "Бага",
+    "hanja": "주니어",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주님",
+    "translation": "Эзэн",
+    "hanja": "主님",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주다",
+    "translation": "өгөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주단",
+    "translation": "торго",
+    "hanja": "綢緞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주담대",
+    "translation": "орон сууцны зээл",
+    "hanja": "住擔貸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주당",
+    "translation": "долоо хоногт",
+    "hanja": "週當",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주뎅이",
+    "translation": "ам (бүдүүлэг үг)",
+    "hanja": "주뎅이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주도",
+    "translation": "тэргүүлэх",
+    "hanja": "主導",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주도권",
+    "translation": "тэргүүлэх эрх",
+    "hanja": "主導權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주도면밀하다",
+    "translation": "маш няхуур, нарийн",
+    "hanja": "周到綿密하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주도적",
+    "translation": "Идэвхтэй, тэргүүлэх",
+    "hanja": "主導的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주도하다",
+    "translation": "Удирдах, тэргүүлэх",
+    "hanja": "主導하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주독",
+    "translation": "Согтууруулах ундааны хордлого",
+    "hanja": "酒毒",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주돈이",
+    "translation": "үндсэн мөнгө",
+    "hanja": "主돈이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주동",
+    "translation": "голлон оролцох, манлайлах",
+    "hanja": "主動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주동자",
+    "translation": "санаачлагч",
+    "hanja": "主動者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주동하다",
+    "translation": "Манлайлах",
+    "hanja": "主動하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주되다",
+    "translation": "Үндсэн",
+    "hanja": "主되다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "주둔",
+    "translation": "байрлах",
+    "hanja": "駐屯",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주둔군",
+    "translation": "байрласан цэрэг",
+    "hanja": "駐屯軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주둔하다",
+    "translation": "байрлах",
+    "hanja": "駐屯하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주둥아리",
+    "translation": "тоншуул",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주둥이",
+    "translation": "хошуу, ам, хамар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주디",
+    "translation": "ам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주딩이",
+    "translation": "Ам (хүндэтгэлгүй)",
+    "hanja": "주딩이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주란",
+    "translation": "Жулан (хүний нэр)",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주랑",
+    "translation": "багануудтай коридор",
+    "hanja": "柱廊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주량",
+    "translation": "архины хэмжээ",
+    "hanja": "酒量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주렁",
+    "translation": "үр жимсний багц",
+    "hanja": "주렁",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주렁주렁",
+    "translation": "олноор",
+    "hanja": "—",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "주렁주렁하다",
+    "translation": "урт урт унжиж байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주려",
+    "translation": "тэжээх, хооллох",
+    "hanja": "周慮",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "주려하다",
+    "translation": "өлсөх, өлсгөлөн байх",
+    "hanja": "주려하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주력",
+    "translation": "үндсэн хүч",
+    "hanja": "主力",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주력하다",
+    "translation": "голлон анхаарах, гол хүчээ тавих",
+    "hanja": "主力하다(주력하다)",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주례",
+    "translation": "гэрлэлтийн ёслол удирдах",
+    "hanja": "主禮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주례사",
+    "translation": "хуримын ёслолын үг",
+    "hanja": "主禮辭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주례하다",
+    "translation": "хослон гэрлэх ёслол хийх",
+    "hanja": "주례하다(主禮하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주로",
+    "translation": "голчлон",
+    "hanja": "主로",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "주루",
+    "translation": "гүйлтийн зам",
+    "hanja": "走壘",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주루룩",
+    "translation": "Урсгах чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주룩",
+    "translation": "урсгал",
+    "hanja": "주룩",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주룩주룩",
+    "translation": "шур шурт, жирийлгэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주룽",
+    "translation": "Журун (хүний нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주류",
+    "translation": "Үндсэн",
+    "hanja": "主流",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주르르",
+    "translation": "унасан чимээ, урссан чимээ",
+    "hanja": "주르르",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주르륵",
+    "translation": "Гоожих",
+    "hanja": "주르륵",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주르륵주르륵",
+    "translation": "Гоожих, урсах (дуу авиа)",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주름",
+    "translation": "үрчлээ",
+    "hanja": "주름",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주름살",
+    "translation": "үрчлээ",
+    "hanja": "주름살",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주름잡다",
+    "translation": "хянах",
+    "hanja": "주름잡다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "주름지다",
+    "translation": "үрчлээтэх",
+    "hanja": "---",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주름치마",
+    "translation": "хормойтой банзал",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주름투성이",
+    "translation": "үрчлээс багатай",
+    "hanja": "주름투성이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주리",
+    "translation": "Жури (эмэгтэй хүний нэр)",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "주리다",
+    "translation": "өлсөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주립",
+    "translation": "Мужийн",
+    "hanja": "州立",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주마등",
+    "translation": "эргэлдэгч гэрэл, хурдан өнгөрөх дүр зураг",
+    "hanja": "走馬燈",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "주막",
+    "translation": "согтууруулах ундааны мухлаг, зоогийн газар",
+    "hanja": "酒幕",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주말",
+    "translation": "амралтын өдөр",
+    "hanja": "週末",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주말여행",
+    "translation": "амралтын өдрөөр аялах",
+    "hanja": "週末旅行",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주매",
+    "translation": "голлон зарах",
+    "hanja": "主賣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주머니",
+    "translation": "халаас",
+    "hanja": "주머니",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주머닛돈",
+    "translation": "халаасны мөнх",
+    "hanja": "주머닛돈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주먹",
+    "translation": "Нударга",
+    "hanja": "주먹",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주먹구구",
+    "translation": "тойм тооцоо",
+    "hanja": "주먹구구",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주먹구구식",
+    "translation": "царцааны тооцоо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주먹다짐",
+    "translation": "зодоон",
+    "hanja": "주먹다짐",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주먹다짐하다",
+    "translation": "цохилцох, зодолдох",
+    "hanja": "주먹다짐하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주먹밥",
+    "translation": "Онигири",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "주먹질",
+    "translation": "Нударгалалт",
+    "hanja": "主먹질",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주먹질하다",
+    "translation": "нударгаар цохих",
+    "hanja": "주먹질하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주먹코",
+    "translation": "том хамар",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주명",
+    "translation": "тушаал",
+    "hanja": "主命",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주모",
+    "translation": "баригч",
+    "hanja": "酒母",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주목",
+    "translation": "анхаарал",
+    "hanja": "注目",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주목되다",
+    "translation": "анхаарал татах",
+    "hanja": "注目되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "주목받다",
+    "translation": "анхаарал татах",
+    "hanja": "注目받다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주목적",
+    "translation": "үндсэн зорилго",
+    "hanja": "主目的",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주목하다",
+    "translation": "анхаарах",
+    "hanja": "注目하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "주몽",
+    "translation": "жумонг",
+    "hanja": "朱蒙",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주무르다",
+    "translation": "базах, массаж хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주무시다",
+    "translation": "унтах (хүндэтгэл)",
+    "hanja": "주무시다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주문",
+    "translation": "Захиалга",
+    "hanja": "注文",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "주문되다",
+    "translation": "захиалагдах",
+    "hanja": "注文되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주문서",
+    "translation": "захиалгын хуудас",
+    "hanja": "注文書",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주문진",
+    "translation": "Жүмүнжин",
+    "hanja": "注門津",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주문하다",
+    "translation": "захиалах",
+    "hanja": "注文하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "주물",
+    "translation": "хаягдал төмөр",
+    "hanja": "鑄物",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주물다",
+    "translation": "барих, нухах",
+    "hanja": "주물다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주물럭",
+    "translation": "нухах, базалж тоглох",
+    "hanja": "주물럭",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주물럭거리다",
+    "translation": "баяжуулах, нухах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주물럭주물럭",
+    "translation": "нялцгай, наалдамхай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주물주물",
+    "translation": "үрэх, нухах (давтан үйлдлээр)",
+    "hanja": "주물주물",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주미",
+    "translation": "АНУ-д суугаа",
+    "hanja": "駐미",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주민",
+    "translation": "Оршин суугч",
+    "hanja": "住民",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "주민세",
+    "translation": "оршин суугчийн татвар",
+    "hanja": "住民稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주바",
+    "translation": "Жуба (Хотын нэр)",
+    "hanja": "주바",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주발",
+    "translation": "аяга",
+    "hanja": "周鉢",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주방",
+    "translation": "гал тогоо",
+    "hanja": "廚房",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주방장",
+    "translation": "тогооч",
+    "hanja": "廚房長",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주번",
+    "translation": "долоо хоногийн харуул",
+    "hanja": "週番",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주범",
+    "translation": "гол гэмт хэрэгтэн",
+    "hanja": "主犯",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주법",
+    "translation": "архины хууль; тоглох арга",
+    "hanja": "酒法/奏法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주변",
+    "translation": "эргэн тойрон",
+    "hanja": "周邊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주변머리",
+    "translation": "тойрон хүрээлэл, хилийн ирмэг",
+    "hanja": "주변머리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주변인",
+    "translation": "Гаднын хүн",
+    "hanja": "周邊人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주별",
+    "translation": "долоо хоногоор",
+    "hanja": "週別",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주보",
+    "translation": "долоо хоногийн мэдээ",
+    "hanja": "週報",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주봉",
+    "translation": "гол оргил",
+    "hanja": "主峰",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주부",
+    "translation": "гэрийн эзэгтэй",
+    "hanja": "主婦",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주불",
+    "translation": "гол гал",
+    "hanja": "主佛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주비",
+    "translation": "Бэлтгэл, бэлдэх",
+    "hanja": "籌備",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주빌리",
+    "translation": "ойн баяр",
+    "hanja": "주빌리",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주뼛거리다",
+    "translation": "ичингүйрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주뼛주뼛",
+    "translation": "Ичингүйрэн, эргэлзэн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주사",
+    "translation": "тариа",
+    "hanja": "注射",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주사액",
+    "translation": "Тарианы шингэн",
+    "hanja": "注射液",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주사약",
+    "translation": "тарианы эм",
+    "hanja": "注射藥",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주사위",
+    "translation": "шоо",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "주사하다",
+    "translation": "тариа хийх, шахах",
+    "hanja": "注射하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주산",
+    "translation": "тооны машин",
+    "hanja": "珠算",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주산지",
+    "translation": "гол үйлдвэрлэлийн бүс",
+    "hanja": "主産地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주살하다",
+    "translation": "хөнөөх, алуурлах",
+    "hanja": "誅殺하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주삿바늘",
+    "translation": "тарилгын зүү",
+    "hanja": "注射바늘",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주상",
+    "translation": "Засаг дарга",
+    "hanja": "主上",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주색",
+    "translation": "согтууруулах ундаа ба эмэгтэйчүүд",
+    "hanja": "酒色",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주색잡기",
+    "translation": "архи дарс, эмэгтэйчүүд",
+    "hanja": "酒色雜技",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주서",
+    "translation": "тэмдэглэлийн дэвтэр",
+    "hanja": "註書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주석",
+    "translation": "тайлбар",
+    "hanja": "註釋",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주석단",
+    "translation": "тэргүүлэгчид",
+    "hanja": "主席團",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주선",
+    "translation": "зуучлал, холбоо",
+    "hanja": "周旋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주선자",
+    "translation": "зуучлагч",
+    "hanja": "周旋者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주선하다",
+    "translation": "зуучлах",
+    "hanja": "周旋하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주섬주섬",
+    "translation": "цуглуулах",
+    "hanja": "주섬주섬",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주성분",
+    "translation": "Үндсэн бүрэлдэхүүн",
+    "hanja": "主成分",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주성하다",
+    "translation": "Үндсэн бүрэлдэхүүн болох",
+    "hanja": "主成하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "주세",
+    "translation": "архины татвар",
+    "hanja": "酒稅",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "주소",
+    "translation": "хаяг",
+    "hanja": "住所",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주소록",
+    "translation": "хаягийн дэвтэр",
+    "hanja": "住所錄",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주소지",
+    "translation": "Хаягийн байршил",
+    "hanja": "住所地",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주수",
+    "translation": "гол ус",
+    "hanja": "州數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주술",
+    "translation": "Шившлэг",
+    "hanja": "呪術",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주술사",
+    "translation": "илбэчин",
+    "hanja": "呪術師",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주술적",
+    "translation": "Шидэт, ид шидийн",
+    "hanja": "呪術的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주스",
+    "translation": "Жүүс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주승",
+    "translation": "гол зам",
+    "hanja": "主僧",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "주시",
+    "translation": "Анхаарал",
+    "hanja": "注視",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주시하다",
+    "translation": "Анхааран харах",
+    "hanja": "注視하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주식",
+    "translation": "хувьцаа",
+    "hanja": "株式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주식하다",
+    "translation": "үндсэн хоол болгох",
+    "hanja": "主食하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주식회사",
+    "translation": "хувьцаат компани",
+    "hanja": "株式會社",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주신",
+    "translation": "үндсэн бурхан",
+    "hanja": "主神",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주실",
+    "translation": "гол өрөө",
+    "hanja": "主室",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주심",
+    "translation": "шүүгч",
+    "hanja": "주심(主審)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주씨",
+    "translation": "Жу овогтой",
+    "hanja": "朱氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주악",
+    "translation": "Хөгжим тоглох",
+    "hanja": "奏樂",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주안상",
+    "translation": "дарсны ширээ",
+    "hanja": "酒案床",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주안점",
+    "translation": "гол анхаарах зүйл",
+    "hanja": "主眼點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주앙",
+    "translation": "Жуан (хүний нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "주야",
+    "translation": "өдөр шөнөгүй",
+    "hanja": "晝夜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주야장천",
+    "translation": "өдөр шөнөгүй, үргэлж",
+    "hanja": "晝夜長川",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주어",
+    "translation": "өгүүлэгдэхүүн",
+    "hanja": "主語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주억거리다",
+    "translation": "толгой дохих, зөөлөн хөдлөх",
+    "hanja": "주억거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주얼",
+    "translation": "Үнэт эдлэл, эрдэнэс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주얼리",
+    "translation": "үнэт эдлэл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주업",
+    "translation": "үндсэн ажил",
+    "hanja": "主業",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주에",
+    "translation": "гоёл",
+    "hanja": "주에",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주역",
+    "translation": "гол дүр",
+    "hanja": "主役",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주연하다",
+    "translation": "주연으로 출연하다",
+    "hanja": "主演하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주열",
+    "translation": "Үндсэн багана, гол тулгуур",
+    "hanja": "柱列",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주예",
+    "translation": "Чуэ",
+    "hanja": "朱藝",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주오",
+    "translation": "гахайн мах",
+    "hanja": "豬五",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주옥",
+    "translation": "Сувд, эрдэнийн чулуу",
+    "hanja": "珠玉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주옥같다",
+    "translation": "үнэтэй сувд шиг",
+    "hanja": "珠玉—",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주왕",
+    "translation": "гол хаан, Жү ван",
+    "hanja": "主王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주왕산",
+    "translation": "Жувангсан / Солонгосын уул",
+    "hanja": "周王山",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주요리",
+    "translation": "гол хоол",
+    "hanja": "主要理",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주요인",
+    "translation": "гол шалтгаан",
+    "hanja": "主要因",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주요하다",
+    "translation": "Гол чухал",
+    "hanja": "主要하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주욱",
+    "translation": "урсгал",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주운",
+    "translation": "түүсэн, олсон",
+    "hanja": "주운",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주울",
+    "translation": "Жоуль",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주워듣다",
+    "translation": "сонсох",
+    "hanja": "주워듣다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주워섬기다",
+    "translation": "орооцолдуулах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "주원료",
+    "translation": "үндсэн түүхий эд",
+    "hanja": "主要原料",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "주원인",
+    "translation": "үндсэн шалтгаан",
+    "hanja": "主原因",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주위",
+    "translation": "ойр орчин",
+    "hanja": "周圍",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주유",
+    "translation": "шатахуун цэнэглэх",
+    "hanja": "注油",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주유소",
+    "translation": "Шатахуун түгээх станц",
+    "hanja": "注油所",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주유하다",
+    "translation": "Түлш цэнэглэх",
+    "hanja": "注油하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주의",
+    "translation": "анхаарал",
+    "hanja": "주의",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주의력",
+    "translation": "анхаарал",
+    "hanja": "注意力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주의보",
+    "translation": "Анхааруулга",
+    "hanja": "注意報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주의하다",
+    "translation": "анхаарах",
+    "hanja": "注意하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주인",
+    "translation": "эзэн",
+    "hanja": "主人",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주인공",
+    "translation": "гол дүр",
+    "hanja": "主人公",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주인아저씨",
+    "translation": "зочид буудлын эзэн",
+    "hanja": "主人아저씨",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "주인아주머니",
+    "translation": "эзэгтэй",
+    "hanja": "主人아주머니",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주인장",
+    "translation": "эзэгтэй",
+    "hanja": "主人丈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주인집",
+    "translation": "гэрийн эзний байшин",
+    "hanja": "主人집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주일",
+    "translation": "долоо хоног",
+    "hanja": "週日",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주임",
+    "translation": "тасгийн эрхлэгч",
+    "hanja": "主任",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주입",
+    "translation": "шахах, хийх",
+    "hanja": "注入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주입되다",
+    "translation": "шахагдах",
+    "hanja": "注入되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "주입시키다",
+    "translation": "цутгах",
+    "hanja": "注入시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주입식",
+    "translation": "Сургалтын арга (шахах)",
+    "hanja": "注入式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주입하다",
+    "translation": "хийх, оруулах",
+    "hanja": "注入하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주자",
+    "translation": "Гүйгч, гүйлтийн тамирчин",
+    "hanja": "走者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주자하다",
+    "translation": "зогсоох",
+    "hanja": "駐車하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "주작",
+    "translation": "хуурамч",
+    "hanja": "朱雀",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주작하다",
+    "translation": "худлаа зохиох, хуйвалдах",
+    "hanja": "作作하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "주장",
+    "translation": "шаардлага, нотолгоо",
+    "hanja": "主張",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주장되다",
+    "translation": "батлагдах",
+    "hanja": "主張되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주장하다",
+    "translation": "шаардах, нотлох",
+    "hanja": "主張하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주재",
+    "translation": "байнгын",
+    "hanja": "駐在",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주재국",
+    "translation": "оршин суугаа улс",
+    "hanja": "駐在國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주재료",
+    "translation": "гол орц",
+    "hanja": "主材料",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주재원",
+    "translation": "байнгын төлөөлөгч",
+    "hanja": "駐在員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주재하다",
+    "translation": "даргалах, тэргүүлэх",
+    "hanja": "主宰하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주저",
+    "translation": "эргэлзээ",
+    "hanja": "躊躇",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주저되다",
+    "translation": "конгр-д саад болох",
+    "hanja": "躊躇되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주저리",
+    "translation": "боргоцой, овоолго",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주저리주저리",
+    "translation": "Олон үгээр",
+    "hanja": "주저리주저리",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주저앉다",
+    "translation": "суух",
+    "hanja": "躊躇앉다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주저앉히다",
+    "translation": "уналтад оруулах",
+    "hanja": "躊躇앉히다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "주저주저하다",
+    "translation": "үүрдийн түүртэх",
+    "hanja": "躊躇躊躇하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주저하다",
+    "translation": "Эргэлзэх, хойш татах",
+    "hanja": "躊躇하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주적",
+    "translation": "гол дайсан",
+    "hanja": "主敵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주전",
+    "translation": "үндсэн тоглогч",
+    "hanja": "主戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주전부리",
+    "translation": "зууш",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주전자",
+    "translation": "Данх",
+    "hanja": "酒煎子",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "주절거리다",
+    "translation": "Шуугилдах",
+    "hanja": "주절거리다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주절대다",
+    "translation": "өрвөгнөх, чалчих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주절주절",
+    "translation": "чалчих",
+    "hanja": "―",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주절주절하다",
+    "translation": "олон юм ярих, чалчих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주점",
+    "translation": "бар, паб",
+    "hanja": "酒店",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주접",
+    "translation": "Ороосон байдал",
+    "hanja": "주접",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "주접떨다",
+    "translation": "балайрах, яльгүй зүйл ярих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주정",
+    "translation": "согтууруулах ундаа, архи",
+    "hanja": "酒酊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주정꾼",
+    "translation": "Согтуу хүн",
+    "hanja": "酒酊꾼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주정뱅이",
+    "translation": "архичин",
+    "hanja": "酒酊뱅이",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주정차하다",
+    "translation": "зогсох, зогсоол хийх",
+    "hanja": "駐停車하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주정하다",
+    "translation": "Маргах",
+    "hanja": "主定하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "주제",
+    "translation": "сэдэв",
+    "hanja": "主題",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주제가",
+    "translation": "үндсэн дуу",
+    "hanja": "主題歌",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주제곡",
+    "translation": "гол дуу",
+    "hanja": "主題曲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주제넘다",
+    "translation": "хэмжээнээсээ хэтрэх, хэтрүүлэг",
+    "hanja": "主題넘다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주조",
+    "translation": "үүсгэн байгуулах",
+    "hanja": "鑄造",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주조되다",
+    "translation": "Цутгагдах",
+    "hanja": "鑄造되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주조하다",
+    "translation": "цутгах, хийх",
+    "hanja": "鑄造하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주종",
+    "translation": "үндсэн ба дагалдах",
+    "hanja": "主從",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주주",
+    "translation": "хувьцаа эзэмшигч",
+    "hanja": "株主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주준",
+    "translation": "Давтан бэлтгэл",
+    "hanja": "株俊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주중",
+    "translation": "долоо хоногийн дунд",
+    "hanja": "週中",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주지사",
+    "translation": "Засаг дарга",
+    "hanja": "州知事",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주지시키다",
+    "translation": "мэдэгдэх, ойлгуулах",
+    "hanja": "周知시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주지하다",
+    "translation": "Мэдэгдэх, нийтэд зарлах",
+    "hanja": "周知하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주짓수",
+    "translation": "жүжицү",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주차",
+    "translation": "машин зогсоол",
+    "hanja": "駐車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주차권",
+    "translation": "зогсоолын тасалбар",
+    "hanja": "駐車券",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주차되다",
+    "translation": "зогсоолд байрлах",
+    "hanja": "駐車-",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주차료",
+    "translation": "зогсоолын төлбөр",
+    "hanja": "駐車料",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주차장",
+    "translation": "машины зогсоол",
+    "hanja": "駐車場",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주차하다",
+    "translation": "Машин тавих",
+    "hanja": "駐車하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주창",
+    "translation": "номлол, сургаал",
+    "hanja": "主唱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주창자",
+    "translation": "дэмжигч",
+    "hanja": "主唱者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주창하다",
+    "translation": "санал дэвшүүлэх",
+    "hanja": "主唱하다",
+    "pos": "үйл үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "주책",
+    "translation": "хэрүүл, хэл ам",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주책맞다",
+    "translation": "үлбэгэр, дүлий",
+    "hanja": "主冊맞다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주책바가지",
+    "translation": "тэнэг хүн, зүгээр л",
+    "hanja": "주책바가지",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주책없이",
+    "translation": "санаа сэтгэлгүй",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주천",
+    "translation": "Сэтгэл хөдлөх",
+    "hanja": "周天",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "주철",
+    "translation": "цутгамал төмөр",
+    "hanja": "鑄鐵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주청",
+    "translation": "залбирах",
+    "hanja": "奏請",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "주청하다",
+    "translation": "Шаардах, хүсэх",
+    "hanja": "奏請하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주체",
+    "translation": "Үндсэн байгууллага, эзэн",
+    "hanja": "主體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주체성",
+    "translation": "бие даасан байдал, бие даасан чанар",
+    "hanja": "主體性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주체적",
+    "translation": "бие даасан, бие хүнлэг",
+    "hanja": "主體的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주체하다",
+    "translation": "биелүүлэх",
+    "hanja": "主體하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "주초",
+    "translation": "Баганын суурь",
+    "hanja": "柱礎",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주총",
+    "translation": "хувьцаа эзэмшигчдийн хурал",
+    "hanja": "株總",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주최",
+    "translation": "зохион байгуулах",
+    "hanja": "主催",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주최자",
+    "translation": "зохион байгуулагч",
+    "hanja": "主催者",
+    "pos": "н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "주최하다",
+    "translation": "Зохион байгуулах",
+    "hanja": "主催하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주추",
+    "translation": "тулгуур",
+    "hanja": "柱礎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주축",
+    "translation": "гол тэнхлэг, тулгуур",
+    "hanja": "主軸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주춤",
+    "translation": "Саатах, гацах",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주춤거리다",
+    "translation": "Тээгэлзэх",
+    "hanja": "주춤거리다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주춤대다",
+    "translation": "эргэлзэх, бэлбэгнэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주춤주춤",
+    "translation": "эргэлзэж, гуйвж дайвах",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주춤주춤하다",
+    "translation": "эргэлзэх",
+    "hanja": "주춤주춤하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주춤하다",
+    "translation": "эргэлзэх",
+    "hanja": "주춤하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "주춧돌",
+    "translation": "суурийн чулуу, үндсэн чулуу",
+    "hanja": "主礎돌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주취",
+    "translation": "согтууруулах ундаа",
+    "hanja": "酒醉",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주치의",
+    "translation": "үндсэн эмч",
+    "hanja": "主治醫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주크",
+    "translation": "жүүк",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "주크박스",
+    "translation": "дууны хайрцаг",
+    "hanja": "jukebox",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주탑",
+    "translation": "гол цамхаг",
+    "hanja": "主塔",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주택",
+    "translation": "орон сууц",
+    "hanja": "住宅",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주택가",
+    "translation": "орон сууцны хороолол",
+    "hanja": "주택가(住宅街)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주택난",
+    "translation": "орон сууцны хямрал",
+    "hanja": "住宅難",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주택자금",
+    "translation": "Орон сууцны хөрөнгө",
+    "hanja": "住宅資金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주택지",
+    "translation": "Орон сууцны хороолол",
+    "hanja": "住宅地",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주토피아",
+    "translation": "Зоотопи",
+    "hanja": "Zootopia",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "주특기",
+    "translation": "гол онцлог",
+    "hanja": "主特技",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주파",
+    "translation": "давтамж",
+    "hanja": "周波",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주파수",
+    "translation": "давтамж",
+    "hanja": "周波數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주파하다",
+    "translation": "туулж өнгөрөх, эцсийг хүртэл гүйх",
+    "hanja": "走破하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "주판",
+    "translation": "сампин",
+    "hanja": "珠板",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주판알",
+    "translation": "тоолуурын бөмбөлөг",
+    "hanja": "珠板알",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주포",
+    "translation": "их буу, үндсэн буу",
+    "hanja": "主砲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주폭",
+    "translation": "согтуу хулигаан",
+    "hanja": "酒暴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주피터",
+    "translation": "Бархасбадь",
+    "hanja": "Jupiter",
+    "pos": "Proper Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주필",
+    "translation": "Ерөнхий редактор",
+    "hanja": "主筆",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주행",
+    "translation": "жолоодох",
+    "hanja": "走行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주행하다",
+    "translation": "жолоодох, явах",
+    "hanja": "走行—",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "주향",
+    "translation": "гол чиглэл",
+    "hanja": "主向",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "주홍",
+    "translation": "Тод улаан",
+    "hanja": "朱紅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주홍빛",
+    "translation": "Улаан улбар шар өнгөтэй",
+    "hanja": "朱紅빛",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주홍색",
+    "translation": "улаан шар өнгө",
+    "hanja": "朱紅色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주화",
+    "translation": "Зоос",
+    "hanja": "鑄貨",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주화입마",
+    "translation": "бясалгалын үеэр гарах сэтгэцийн өвчин",
+    "hanja": "走火入魔",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주황",
+    "translation": "улбар шар",
+    "hanja": "주황(朱黃)",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "주황빛",
+    "translation": "улбар шар өнгөтэй",
+    "hanja": "朱黃빛",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "주황색",
+    "translation": "улбар шар өнгө",
+    "hanja": "朱黃色",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주효하다",
+    "translation": "үр дүнтэй байх",
+    "hanja": "奏效하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주후",
+    "translation": "оны хойно",
+    "hanja": "主後",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주휴",
+    "translation": "долоо хоногийн амралт",
+    "hanja": "週休",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주흔",
+    "translation": "Улаан толбо, ягаан толбо",
+    "hanja": "酒痕",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

@@ -1,0 +1,849 @@
+[
+  {
+    "word": "살",
+    "translation": "Нас",
+    "hanja": "살",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "살가죽",
+    "translation": "арьс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살갑다",
+    "translation": "элэгсэг, амархан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살갗",
+    "translation": "арьс",
+    "hanja": "살갗",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "살결",
+    "translation": "арьс",
+    "hanja": "살결",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살구",
+    "translation": "гүйлс",
+    "hanja": "살구",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "살굿빛",
+    "translation": "гүйлсний өнгө",
+    "hanja": "살굿빛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살균",
+    "translation": "ариутгал",
+    "hanja": " salgyun",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "살균되다",
+    "translation": "ариутгагдах",
+    "hanja": "殺菌되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살균제",
+    "translation": "Ариутгагч",
+    "hanja": "殺菌劑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살균하다",
+    "translation": "ариутгах",
+    "hanja": "殺菌하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살그머니",
+    "translation": "чимээгүйхэн, аажуухан",
+    "hanja": "NULL",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살금",
+    "translation": "чимээгүйхэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살금살금",
+    "translation": "чимээгүйхэн",
+    "hanja": "살금살금",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살기등등하다",
+    "translation": "амь насанд аюултай",
+    "hanja": "殺氣騰騰하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살길",
+    "translation": "амьдрах арга",
+    "hanja": "살길",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "살다",
+    "translation": "амьдрах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "살덩어리",
+    "translation": "махны хэсэг",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살덩이",
+    "translation": "махны тасархай, махан бөөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살뜰하다",
+    "translation": "хямгач",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "살뜰히",
+    "translation": "Хянамгай, үр ашигтай",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살라망카",
+    "translation": "Саламанка",
+    "hanja": "살라망카",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "살라미",
+    "translation": "Салями",
+    "hanja": "살라미",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살라미스",
+    "translation": "Саламин (газарзүйн нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살라자르",
+    "translation": "Салазар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "살랑",
+    "translation": "зөөлөн салхи, сэвшээ салхи",
+    "hanja": "살랑",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살랑거리다",
+    "translation": "Намирч хөдлөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살랑대다",
+    "translation": "салхи хийсэх",
+    "hanja": "살랑대다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살랑살랑",
+    "translation": "Сэвэлзэх, намирах",
+    "hanja": "살랑살랑",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살랑살랑하다",
+    "translation": "зөөлөн намирах, шархирах",
+    "hanja": "살랑살랑하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살래살래",
+    "translation": "Ужиг ужиг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살레",
+    "translation": "залаа",
+    "hanja": "살레",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "살렘",
+    "translation": "Салем (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살로메",
+    "translation": "Саломе",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살롱",
+    "translation": "салон",
+    "hanja": "salon",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "살루다",
+    "translation": "Саллуда",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "살루키",
+    "translation": "Салуки (нохойны үүлдэр)",
+    "hanja": "Saluki",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "살류트",
+    "translation": "салют",
+    "hanja": "살류트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살륙",
+    "translation": "хядлага, бусдыг алах",
+    "hanja": "殺戮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "살리다",
+    "translation": "амилуулах",
+    "hanja": "살리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살리에리",
+    "translation": "Салиери",
+    "hanja": "살리에리",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "살림",
+    "translation": "гэр ахуй, амьдрах",
+    "hanja": "살림",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "살림꾼",
+    "translation": "гэрийн эзэгтэй",
+    "hanja": "살림꾼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살림살이",
+    "translation": "Амьдрал",
+    "hanja": "살림살이",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "살림집",
+    "translation": "гэрийн аж ахуй, амьдрах байр",
+    "hanja": "살림집",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살림하다",
+    "translation": "гэр бүл төвхнүүлэх",
+    "hanja": "살림하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살만",
+    "translation": "Амьдрахад боломжийн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살맛",
+    "translation": "амьдралын амт",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "살며시",
+    "translation": "зөөлөн",
+    "hanja": "살며시",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살모넬라",
+    "translation": "сальмонелла",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살모사",
+    "translation": "Могой; хорт могой",
+    "hanja": "殺母蛇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살무사",
+    "translation": "могой",
+    "hanja": "살무사",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살므다",
+    "translation": "уурлах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "살벌",
+    "translation": "аймшигтай",
+    "hanja": "殺伐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살벌하다",
+    "translation": "хэрцгий",
+    "hanja": "殺伐하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살붙이",
+    "translation": "хамаатан садан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살빛",
+    "translation": "Арьсны өнгө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살사",
+    "translation": "салса",
+    "hanja": "살사",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살사리",
+    "translation": "салсари (шавж)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살살",
+    "translation": "зөөлөн",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "살살거리다",
+    "translation": "Зөөлөн, удаан үйлдэх; бялдуучлах",
+    "hanja": "살살거리다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "살살하다",
+    "translation": "зөөлөн, жигд хөдлөх (тодорхойгүй утга)",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "살상",
+    "translation": "амь насыг нь хорлох",
+    "hanja": "殺傷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살상하다",
+    "translation": "хөнөөх",
+    "hanja": "殺傷하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살색",
+    "translation": "арьсны өнгө, ягаан өнгө",
+    "hanja": "살色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살생",
+    "translation": "амь насыг хөнөөх",
+    "hanja": "殺生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살생하다",
+    "translation": "амь таслах",
+    "hanja": "殺生하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "살성",
+    "translation": "алуурчны мөн чанар",
+    "hanja": "殺星",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살수",
+    "translation": "усан буу",
+    "hanja": "撒水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살신성인",
+    "translation": "биеэ золиослон үйлс бүтээх",
+    "hanja": "殺身成仁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살신성인하다",
+    "translation": "өөрийгөө золиослох",
+    "hanja": "殺身成仁하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "살아나다",
+    "translation": "амилах, сэргэх",
+    "hanja": "살아나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살아남다",
+    "translation": "амьд үлдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살아생전",
+    "translation": "насаараа",
+    "hanja": "살아生前",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살어리랏다",
+    "translation": "би амьдрах болно",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "살얼음",
+    "translation": "Нимгэн мөс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살얼음판",
+    "translation": "нимгэн мөсөн тавцан",
+    "hanja": "살얼음板",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살육",
+    "translation": "Хядлага",
+    "hanja": "殺戮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살육하다",
+    "translation": "Хядлага үйлдэх",
+    "hanja": "殺戮하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살의",
+    "translation": "алах санаатай",
+    "hanja": "殺意",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살이다",
+    "translation": "шатаах, түлэх",
+    "hanja": "燒이다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "살인",
+    "translation": "аллага",
+    "hanja": "殺人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살인마",
+    "translation": "алуурчин",
+    "hanja": "殺人魔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살인범",
+    "translation": "аллага үйлдсэн хүн",
+    "hanja": "殺人犯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살인자",
+    "translation": "аллагачин",
+    "hanja": "殺人者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "살인적",
+    "translation": "хүний аминд хүрэхүйц",
+    "hanja": "殺人的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살인하다",
+    "translation": "хүн алах",
+    "hanja": "殺人하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살점",
+    "translation": "махны хэсэг",
+    "hanja": "살점",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "살집",
+    "translation": "махлаг биетэй байх",
+    "hanja": "살집",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살짜쿵",
+    "translation": "зөөлөн, жижигхэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살짝",
+    "translation": "гүйлгэх",
+    "hanja": "살짝",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살짝궁",
+    "translation": "Аяархан, нууцаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살짝살짝",
+    "translation": "аяархан, зөөлөн",
+    "hanja": "None",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "살찌다",
+    "translation": "таргалах",
+    "hanja": "살찌다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "살찌우다",
+    "translation": "таргалуулах, өөхлүүлэх",
+    "hanja": "살찌우다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살차다",
+    "translation": "Дээрэлхүү, хүйтэн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살창",
+    "translation": "тор",
+    "hanja": "살窓",
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "살처분되다",
+    "translation": "устгах",
+    "hanja": "殺處分되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살처분하다",
+    "translation": "устгах (амьтныг)",
+    "hanja": "殺處分하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "살충",
+    "translation": "шавьж устгах",
+    "hanja": "殺蟲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살충제",
+    "translation": "шавьж устгах бодис",
+    "hanja": "殺蟲劑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살치",
+    "translation": "бутлуур",
+    "hanja": "살치",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "살코",
+    "translation": "Мах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "살쾡이",
+    "translation": "зэрлэг муур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살타",
+    "translation": "Сальта (хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "살파",
+    "translation": "Салпа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살판",
+    "translation": "аз завшаан",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살판나다",
+    "translation": "баярлах, хөөрөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살포",
+    "translation": "цацах, тараах",
+    "hanja": "撒布",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살포되다",
+    "translation": "цацагдах, тараагдах",
+    "hanja": "撒布되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살포시",
+    "translation": "зөөлөн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살포하다",
+    "translation": "цацах",
+    "hanja": "撒布하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살풀이",
+    "translation": "шүтлэг, ариусгах зан үйл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살풍경하다",
+    "translation": "Аймшигтай",
+    "hanja": "殺風景하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살피",
+    "translation": "шалгалт, шинжилгээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살피다",
+    "translation": "Анхааралтай харах",
+    "hanja": "살피다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "살해",
+    "translation": "Алах",
+    "hanja": "殺害",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "살해당하다",
+    "translation": "Амиа алдах",
+    "hanja": "殺害當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "살해되다",
+    "translation": "алагдах",
+    "hanja": "殺害되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "살해범",
+    "translation": "амь насыг нь хорлогч",
+    "hanja": "殺害犯",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "살해하다",
+    "translation": "хөнөөх",
+    "hanja": "殺害하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

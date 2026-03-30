@@ -1,0 +1,366 @@
+[
+  {
+    "word": "헛간",
+    "translation": "саравч",
+    "hanja": "헛간",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛갈리다",
+    "translation": "Будилаад алдаа гаргах",
+    "hanja": "N/A",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛개나무",
+    "translation": "японы ховдог мод",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "헛걸음",
+    "translation": "хоосон явдал, дэмий алхах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛걸음하다",
+    "translation": "Дэмжихгүй, дэмжлэггүй байх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛것",
+    "translation": "хоосон зүйл, хий юм",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛고생",
+    "translation": "хоосон зовлон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛고생하다",
+    "translation": "хоосон зовох",
+    "hanja": "헛苦生하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛구역질",
+    "translation": "бөөлжих дөхөх",
+    "hanja": "헛구역질",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛구역질하다",
+    "translation": "бөөлжих, оглих",
+    "hanja": "헛구역질하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헛기침",
+    "translation": "хуурамч ханиалга",
+    "hanja": "헛기침",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛기침하다",
+    "translation": "Ханиалгах",
+    "hanja": "헛기침하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛꿈",
+    "translation": "Хоосон мөрөөдөл, хүсэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛다리",
+    "translation": "алдаатай хөл тавих",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헛돈",
+    "translation": "дэмий мөнгө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛돌다",
+    "translation": "хоосон эргэх, үр дүнгүй байх",
+    "hanja": "헛돌다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛되다",
+    "translation": "Дэмий",
+    "hanja": "헛되다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헛되이",
+    "translation": "дэмий, хоосон",
+    "hanja": "헛되이",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛디디다",
+    "translation": "Хөл алдах",
+    "hanja": "헛디디다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛딛다",
+    "translation": "Алгадах, алдаатай гишгэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛똑똑이",
+    "translation": "Хуурамч ухаантай",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛말",
+    "translation": "хоосон үг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛물",
+    "translation": "хоосон ус, дэмий зүйл",
+    "hanja": "헛물",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛물켜다",
+    "translation": "хоосон хичээх",
+    "hanja": "헛물켜다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛바람",
+    "translation": "хоосон сэлгүүцэл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헛바퀴",
+    "translation": "хоосон дугуй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛발",
+    "translation": "хоосон цохилт",
+    "hanja": "헛발",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "헛발질",
+    "translation": "хоосон цохилт",
+    "hanja": "헛발질",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛발질하다",
+    "translation": "хоосон цохих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛방",
+    "translation": "хоосон цохилт, алдаатай цохилт",
+    "hanja": "헛房",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헛배",
+    "translation": "гэдэс дүүрэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛살다",
+    "translation": "хоосон амьдрах, дэмий амьдрах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헛소리",
+    "translation": "хоосон яриа",
+    "hanja": "헛소리",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛소리하다",
+    "translation": "хоосон ярих",
+    "hanja": "헛소리하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헛소문",
+    "translation": "Худал цуу яриа",
+    "hanja": "헛소聞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛손질",
+    "translation": "хоосон цохилт",
+    "hanja": "헛손질",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛수고",
+    "translation": "Хэрэгцээгүй ажил",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛수고하다",
+    "translation": "хоосон хичээх",
+    "hanja": "헛수고하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛수작",
+    "translation": "утгагүй яриа",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헛숨",
+    "translation": "хуурамч амьсгал",
+    "hanja": "null",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛스윙",
+    "translation": "хоосон цохилт",
+    "hanja": "헛스윙",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛웃음",
+    "translation": "хуурамч инээд",
+    "hanja": "헛웃음",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛일",
+    "translation": "хоосон ажил, үр дүнгүй ажил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛장사하다",
+    "translation": "Муу бизнес хийх, ашиггүй бизнес хийх",
+    "hanja": "헛장사하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛점",
+    "translation": "дутагдал, сул тал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛짓",
+    "translation": "утгагүй үйлдэл",
+    "hanja": "헛짓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛짓거리",
+    "translation": "дэмий үйлдэл, утгагүй ажил",
+    "hanja": "헛짓거리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛짓거리하다",
+    "translation": "Дэмгүй зүйл хийх, утгагүй үйлдэл",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛짓하다",
+    "translation": "Дэмий юм хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헛짚다",
+    "translation": "буруу онох, эндүүрэх",
+    "hanja": "헛짚다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛하다",
+    "translation": "хоосон",
+    "hanja": "헛하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헛헛하다",
+    "translation": "хоосон, цангасан мэт",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  }
+]

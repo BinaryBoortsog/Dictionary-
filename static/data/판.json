@@ -1,0 +1,583 @@
+[
+  {
+    "word": "판",
+    "translation": "Хувилбар",
+    "hanja": "版",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "판가름",
+    "translation": "шийдвэрлэх, эцсийн дүгнэлт",
+    "hanja": "判加름",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판가름하다",
+    "translation": "шийдвэрлэх, тогтоох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판검사",
+    "translation": "шүүгч болон прокурор",
+    "hanja": "判檢事",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "판게아",
+    "translation": "Пангея",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "판결",
+    "translation": "Шийдвэр",
+    "hanja": "判決",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "판결되다",
+    "translation": "Шийдэгдэх, тогтоогдох",
+    "hanja": "判決되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "판결문",
+    "translation": "шүүхийн тогтоол",
+    "hanja": "判決文(판결문)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판결하다",
+    "translation": "Шийдвэр гаргах, тогтоол гаргах",
+    "hanja": "判決-하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "판공비",
+    "translation": "гэнэтийн зардал; албан хэргийн зардал",
+    "hanja": "辦公費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "판관",
+    "translation": "Шүүгч",
+    "hanja": "判官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판교",
+    "translation": "Пангио",
+    "hanja": "板橋",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "판국",
+    "translation": "Нөхцөл байдал",
+    "hanja": "판局",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판권",
+    "translation": "зохиогчийн эрх",
+    "hanja": "版權",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "판금",
+    "translation": "металл хуудас",
+    "hanja": "板金",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "판넬",
+    "translation": "хавтан",
+    "hanja": "panel",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "판다",
+    "translation": "худалдах",
+    "hanja": "판다",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "판단",
+    "translation": "шүүлт",
+    "hanja": "判斷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판단되다",
+    "translation": "Тодорхойлогдох, гэж үзэгдэх",
+    "hanja": "判斷되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판단력",
+    "translation": "шүүн тунгаах чадвар",
+    "hanja": "判斷力",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "판단하다",
+    "translation": "Шүүх",
+    "hanja": "判斷하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "판당고",
+    "translation": "Фанданго",
+    "hanja": "판당고",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "판도",
+    "translation": "хүрээ",
+    "hanja": "版圖",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "판도라",
+    "translation": "Пандора",
+    "hanja": "Pandora",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "판독",
+    "translation": "унших, тайлбарлах",
+    "hanja": "判讀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판독기",
+    "translation": "уншигч төхөөрөмж",
+    "hanja": "判讀機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판독하다",
+    "translation": "унших, тайлах",
+    "hanja": "判讀하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판돈",
+    "translation": "бооцоо",
+    "hanja": "판돈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판례",
+    "translation": "өмнөх шийдвэр",
+    "hanja": "判例",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판로",
+    "translation": "худалдааны зам, борлуулах суваг",
+    "hanja": "販路",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판막",
+    "translation": "хавхлага",
+    "hanja": "瓣膜",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "판매",
+    "translation": "худалдаа",
+    "hanja": "販賣",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "판매대",
+    "translation": "худалдааны лангуу",
+    "hanja": "販賣臺",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "판매되다",
+    "translation": "худалдагдах",
+    "hanja": "販賣되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "판매량",
+    "translation": "Борлуулалтын хэмжээ",
+    "hanja": "販賣量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "판매망",
+    "translation": "Борлуулалтын сүлжээ",
+    "hanja": "販賣網",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "판매소",
+    "translation": "худалдааны цэг",
+    "hanja": "販賣所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "판매액",
+    "translation": "борлуулалтын хэмжээ",
+    "hanja": "販賣額",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "판매원",
+    "translation": "худалдагч",
+    "hanja": "販賣員",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "판매자",
+    "translation": "Худалдагч",
+    "hanja": "販賣者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "판매점",
+    "translation": "худалдааны цэг",
+    "hanja": "販賣店",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "판매처",
+    "translation": "худалдааны цэг",
+    "hanja": "販賣處",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "판매하다",
+    "translation": "Зарах",
+    "hanja": "販賣하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "판명",
+    "translation": "тодорхой болох",
+    "hanja": "判明",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판명되다",
+    "translation": "тогтоогдох, илрэх",
+    "hanja": "判明되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판명하다",
+    "translation": "Тодорхойлох, нотлох",
+    "hanja": "判明하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판문점",
+    "translation": "Панмунжом",
+    "hanja": "板門店",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "판별",
+    "translation": "ялгах",
+    "hanja": "判別",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판별되다",
+    "translation": "ялгагдах, танигдах",
+    "hanja": "判別되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판별하다",
+    "translation": "ялгах, тодорхойлох",
+    "hanja": "判別-",
+    "pos": "ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "판본",
+    "translation": "хувилбар",
+    "hanja": "板本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판사",
+    "translation": "Шүүгч",
+    "hanja": "判事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판서",
+    "translation": "самбар дээр бичих",
+    "hanja": "板書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판석",
+    "translation": "хавтан чулуу",
+    "hanja": "板石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판세",
+    "translation": "нөхцөл байдал",
+    "hanja": "판세",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판소리",
+    "translation": "пансори (солонгос ардын дуу)",
+    "hanja": "판소리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판수",
+    "translation": "тоо, удаа",
+    "hanja": "板數",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "판시",
+    "translation": "шийдвэр гаргах",
+    "hanja": "判示",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "판시하다",
+    "translation": "Шүүхээр шийдвэрлэх",
+    "hanja": "判示하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "판윤",
+    "translation": "Панюн /Хуучны албан тушаал/",
+    "hanja": "判尹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판이하다",
+    "translation": "ялгаатай байх, өөр байх",
+    "hanja": "판이하다(판異하다)",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판자",
+    "translation": "Самбар, модны хавтан",
+    "hanja": "板子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "판자집",
+    "translation": "самбар байшин",
+    "hanja": "板子집",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "판자촌",
+    "translation": "ядуусын хороолол",
+    "hanja": "板子村",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판잣집",
+    "translation": "модон байшин",
+    "hanja": "板子집",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "판장",
+    "translation": "банзан хавтан, тавцан",
+    "hanja": "板장",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판정",
+    "translation": "шийдвэр",
+    "hanja": "判定",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판정되다",
+    "translation": "тодорхойлогдох",
+    "hanja": "判定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판정승",
+    "translation": "Шүүгчийн шийдвэрээр ялах",
+    "hanja": "判定勝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판정패",
+    "translation": "шүүгчийн шийдвэрээр ялагдах",
+    "hanja": "判定敗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판정하다",
+    "translation": "шийдвэрлэх",
+    "hanja": "判定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판주",
+    "translation": "хавтангийн сав",
+    "hanja": "板株",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "판초",
+    "translation": "панчо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "판촉",
+    "translation": "худалдааг дэмжих",
+    "hanja": "販促",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판촉물",
+    "translation": "Борлуулалтын материал",
+    "hanja": "販促物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판치다",
+    "translation": "тархах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판타지",
+    "translation": "фантази",
+    "hanja": "fantasy",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "판타지아",
+    "translation": "уран зөгнөл",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "판테온",
+    "translation": "Пантеон (Ромын сүм)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판토텐산",
+    "translation": "пантотений хүчил",
+    "hanja": "판토텐산",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "판판하다",
+    "translation": "хавтгай, гөлгөр",
+    "hanja": "판판하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "판형",
+    "translation": "хэвлэлийн формат, хэвлэх хэмжээ",
+    "hanja": "版型",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "판화",
+    "translation": "баримал",
+    "hanja": "版畫",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

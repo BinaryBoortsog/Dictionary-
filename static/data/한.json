@@ -1,0 +1,1227 @@
+[
+  {
+    "word": "한",
+    "translation": "ганц",
+    "hanja": "한",
+    "pos": "관형사",
+    "cefr": "A1"
+  },
+  {
+    "word": "한가득",
+    "translation": "дүүрэн",
+    "hanja": "null",
+    "pos": "adv",
+    "cefr": "B1"
+  },
+  {
+    "word": "한가득하다",
+    "translation": "Дүүрэн байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한가로이",
+    "translation": "чөлөөтэйгөөр",
+    "hanja": "閑暇로이",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "한가롭다",
+    "translation": "Чөлөөтэй, амгалан тайван",
+    "hanja": "閑暇롭다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한가운데",
+    "translation": "яг голд, төв дунд",
+    "hanja": "한가운데",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한가하다",
+    "translation": "чөлөөтэй",
+    "hanja": "閑暇하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한가히",
+    "translation": "чөлөөтэй, амар тайван",
+    "hanja": "閑暇히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한갑",
+    "translation": "Жар настны төрсөн өдөр",
+    "hanja": "還甲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한갓지다",
+    "translation": "тайван, амгалан",
+    "hanja": "閒暇지다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한걸음",
+    "translation": "нэг алхам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한겨레",
+    "translation": "үүрд мөнх",
+    "hanja": "한겨레",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "한겨울",
+    "translation": "Өвлийн дунд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한결같다",
+    "translation": "Тогтмол, өөрчлөгдөхгүй",
+    "hanja": "한결같다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한계",
+    "translation": "хязгаар",
+    "hanja": "限界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한계선",
+    "translation": "хязгаарын шугам",
+    "hanja": "限界線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한계점",
+    "translation": "хязгаарын цэг",
+    "hanja": "한계점(限界點)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한고",
+    "translation": "Хангу",
+    "hanja": "한고",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "한곡",
+    "translation": "нэг дуу",
+    "hanja": "한曲",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "한곳",
+    "translation": "нэг газар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한과",
+    "translation": "Уламжлалт амттан",
+    "hanja": "韓菓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한광",
+    "translation": "гэрэл",
+    "hanja": "悍光",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "한구석",
+    "translation": "нэг булан, нэг хэсэг",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "한국",
+    "translation": "Солонгос",
+    "hanja": "韓國",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "한국말",
+    "translation": "солонгос хэл",
+    "hanja": "韓國말",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "한국사",
+    "translation": "Солонгосын түүх",
+    "hanja": "韓國史",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한국어",
+    "translation": "солонгос хэл",
+    "hanja": "韓國語",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "한국인",
+    "translation": "Солонгос хүн",
+    "hanja": "韓國人",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "한국적",
+    "translation": "Солонгос маягийн, солонгос хэв маягтай",
+    "hanja": "韓國的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한국하다",
+    "translation": "буцаж очих",
+    "hanja": "還國하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한국학",
+    "translation": "солонгос судлал",
+    "hanja": "韓國學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한귀",
+    "translation": "хүйтний сүнс, хүйтэн агаар",
+    "hanja": "寒鬼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한규",
+    "translation": "хангиу (Нэр)",
+    "hanja": "韓圭",
+    "pos": "Proper Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "한그슥",
+    "translation": "дүүрэн, битүү",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한글",
+    "translation": "한글",
+    "hanja": "한글",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "한글날",
+    "translation": "한글-ийн өдөр",
+    "hanja": "한글날",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한글화되다",
+    "translation": "хангул болгох",
+    "hanja": "한글化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한꺼번에",
+    "translation": "нэг дор, зэрэг",
+    "hanja": "한꺼번에",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한껏",
+    "translation": "чадлаараа",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한나라당",
+    "translation": "Ханнара нам (Солонгосын хуучин улс төрийн нам)",
+    "hanja": "한나라黨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한날한시",
+    "translation": "нэг өдөр нэг цагт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한남",
+    "translation": "Ханнам",
+    "hanja": "漢南",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한낮",
+    "translation": "өдрийн дунд, өдөр",
+    "hanja": "한낮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한낱",
+    "translation": "Зөвхөн, ердөө л",
+    "hanja": "한낱",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한눈",
+    "translation": "нэг харахад, нэг зурагдсан байдал",
+    "hanja": "한눈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한눈팔다",
+    "translation": "анхаарал сарниулах",
+    "hanja": "한눈팔다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "한능검",
+    "translation": "Солонгос хэлний чадварын шалгалт",
+    "hanja": "韓能檢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한니발",
+    "translation": "Ханнибал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한달하다",
+    "translation": "сард нэг удаа",
+    "hanja": "한달하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한당",
+    "translation": "хүйтэн өрөө",
+    "hanja": "寒堂",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "한덩",
+    "translation": "Нэг хэсэг, нэг хэлтэрхий",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한도액",
+    "translation": "хязгаарлалтай дүн, дээд хэмжээ",
+    "hanja": "限度額",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한독",
+    "translation": "Солонгос-Герман",
+    "hanja": "韓獨",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한동네",
+    "translation": "нэг хотхон",
+    "hanja": "한洞네",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "한동안",
+    "translation": "хэсэг хугацаанд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한둘",
+    "translation": "Нэг хоёр",
+    "hanja": "",
+    "pos": "수사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한드",
+    "translation": "Солонгос олон ангит кино",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한라봉",
+    "translation": "Халлабон (үлэмж жүржний төрөл)",
+    "hanja": "한라봉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한라산",
+    "translation": "Халласан уул",
+    "hanja": "漢拏山",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한란",
+    "translation": "Хүйтэн ба дулаан",
+    "hanja": "寒暖",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한랭",
+    "translation": "хүйтэн",
+    "hanja": "寒冷",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한량없다",
+    "translation": "хязгааргүй",
+    "hanja": "限量없다",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "한량없이",
+    "translation": "хязгааргүй / тоо томшгүй их",
+    "hanja": "限量없이",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한러",
+    "translation": "Солонгос-Орос",
+    "hanja": "韓러",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한로",
+    "translation": "Ханну (24 нарны улирлын 17 дахь)",
+    "hanja": "寒露",
+    "pos": "м.н.",
+    "cefr": "C2"
+  },
+  {
+    "word": "한마디",
+    "translation": "нэг үг",
+    "hanja": "한마디",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "한마을",
+    "translation": "нэг тосгон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한마음",
+    "translation": "нэг сэтгэл",
+    "hanja": "한마음",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한명",
+    "translation": "нэг хүн",
+    "hanja": "一名",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "한목",
+    "translation": "Нэг удаагийн хэмжээ",
+    "hanja": "한몫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한몫",
+    "translation": "хувь нэмэр, үүрэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한몫하다",
+    "translation": "хувь нэмэр оруулах",
+    "hanja": "한몫하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "한문학",
+    "translation": "хятад утга зохиол",
+    "hanja": "漢文學",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "한물가다",
+    "translation": "хуучирсан, хоцрогдсон",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한미일",
+    "translation": "Солонгос, Америк, Япон",
+    "hanja": "韓美日",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한미하다",
+    "translation": "даруухан, ядуу",
+    "hanja": "寒微하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한민족",
+    "translation": "солонгос үндэстэн",
+    "hanja": "韓民族",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한밑천",
+    "translation": "Нэг баялаг",
+    "hanja": "한밑천",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한바탕하다",
+    "translation": "нэг удаа хийх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "한반도",
+    "translation": "Солонгосын хойг",
+    "hanja": "韓半島",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "한밤",
+    "translation": "шөнийн дунд",
+    "hanja": "한밤",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "한밤중",
+    "translation": "шөнө дунд",
+    "hanja": "한밤中",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한번",
+    "translation": "нэг удаа",
+    "hanja": "한番",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "한복판",
+    "translation": "гол, төв дунд",
+    "hanja": "한복판",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한본어",
+    "translation": "Камбон хэл",
+    "hanja": "한본어",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "한사코",
+    "translation": "хүчээр, яаж ийж байгаад",
+    "hanja": "한사코",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한산",
+    "translation": "чимээгүй",
+    "hanja": "閑散",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한산하다",
+    "translation": "Нам гүм, тайван",
+    "hanja": "閑散-하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "한살이",
+    "translation": "нэгэн амьдрал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한삼",
+    "translation": "Хансам (нэр)",
+    "hanja": "汗衫",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "한색",
+    "translation": "хүйтэн өнгө",
+    "hanja": "寒色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한생",
+    "translation": "нэгэн амьтан, нэгэн бодгаль",
+    "hanja": "一生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한세상",
+    "translation": "Бүхэл бүтэн амьдрал",
+    "hanja": "한세상",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한센",
+    "translation": "Хансен",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한소끔",
+    "translation": "нэгэн зэрэг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한소리",
+    "translation": "нэг дуу хоолой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한솥밥",
+    "translation": "нэг тогооны хоол",
+    "hanja": "한솥밥",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "한숙",
+    "translation": "хүйтэн унтах",
+    "hanja": "寒宿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한순간",
+    "translation": "нэг агшин",
+    "hanja": "한瞬間",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한숨",
+    "translation": "санаа алдах",
+    "hanja": "한숨",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한숨짓다",
+    "translation": "санаа алдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한스럽다",
+    "translation": "гомдмоор, харамсалтай",
+    "hanja": "恨스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한시름",
+    "translation": "Амрах",
+    "hanja": "한시름",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한시바삐",
+    "translation": "аль болох хурдан",
+    "hanja": "恨時바삐",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한시적",
+    "translation": "Хугацаатай, түр зуурын",
+    "hanja": "限時的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "한식당",
+    "translation": "Солонгос ресторан",
+    "hanja": "韓食堂",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "한식집",
+    "translation": "Солонгос хоолны газар",
+    "hanja": "韓食집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한심",
+    "translation": "Өрөвдөлтэй, ядарсан",
+    "hanja": "寒心",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한심스럽다",
+    "translation": "өрөвдөлтэй, ичмээр",
+    "hanja": "寒心스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한심하다",
+    "translation": "ө жалга",
+    "hanja": "寒心하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "한아",
+    "translation": "Нэг хүүхэд",
+    "hanja": "漢兒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한약",
+    "translation": "солонгос уламжлалт эм",
+    "hanja": "韓藥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한약방",
+    "translation": "Уламжлалт эмийн сан",
+    "hanja": "韓藥房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한약재",
+    "translation": "сонин эмийн жор",
+    "hanja": "韓藥材",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한없다",
+    "translation": "төгсгөлгүй, хязгааргүй",
+    "hanja": "限없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한없이",
+    "translation": "хязгааргүй, төгсгөлгүй",
+    "hanja": "限없이",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "한여름",
+    "translation": "Зуны дунд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한예종",
+    "translation": "Солонгосын Үндэсний Урлагийн Их Сургууль",
+    "hanja": "韓藝綜",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "한옥",
+    "translation": "уламжлалт Солонгос байшин",
+    "hanja": "韓屋",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한와",
+    "translation": "солонгос дээвэр",
+    "hanja": "韓瓦",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한용운",
+    "translation": "Хан Ён-ун (солонгосын яруу найрагч)",
+    "hanja": "韓龍雲",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "한우",
+    "translation": "Солонгос үхэр",
+    "hanja": "韓牛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한유",
+    "translation": "Хан Юү /хүний нэр/",
+    "hanja": "韓愈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "한유하다",
+    "translation": "чөлөөтэй зугаалах, чөлөөтэй явах",
+    "hanja": "閑遊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한은",
+    "translation": "Солонгосын банк",
+    "hanja": "韓銀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한음",
+    "translation": "нэг ая",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한의사",
+    "translation": "уламжлалт эмч",
+    "hanja": "韓醫師",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한의원",
+    "translation": "Уламжлалт эмнэлэг",
+    "hanja": "韓醫院",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "한의학",
+    "translation": "солонгосын уламжлалт анагаах ухаан",
+    "hanja": "韓醫學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한일자",
+    "translation": "хэвтээ зураас",
+    "hanja": "한일자",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한입",
+    "translation": "нэг хазалт",
+    "hanja": "한입",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "한자리",
+    "translation": "нэг байр, нэг газар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한자리하다",
+    "translation": "чухал байр суурь эзлэх",
+    "hanja": "한자리하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한자어",
+    "translation": "хятад үг",
+    "hanja": "漢字語",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "한자음",
+    "translation": "Ханзи дуудлага",
+    "hanja": "漢字音",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "한잔",
+    "translation": "нэг аяга",
+    "hanja": "한盞",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "한잔하다",
+    "translation": "нэг хундага уух",
+    "hanja": "한잔하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "한적하다",
+    "translation": "Нам гүм",
+    "hanja": "閑寂하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한정",
+    "translation": "хязгаарлагдмал",
+    "hanja": "限定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한정되다",
+    "translation": "хязгаарлагдах",
+    "hanja": "限定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한정식",
+    "translation": "Солонгос үндэсний хоолны багц",
+    "hanja": "韓定食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한정적",
+    "translation": "хязгаарлагдмал",
+    "hanja": "限定的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한정하다",
+    "translation": "Хязгаарлах, тодорхойлох",
+    "hanja": "限定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한줄기",
+    "translation": "нэгэн салаа, ганцхан утсан",
+    "hanja": "한줄기",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한중일",
+    "translation": "Солонгос, Хятад, Япон",
+    "hanja": "韓中日",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한즉",
+    "translation": "ингэхээр, болзошгүй",
+    "hanja": "--",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "한증막",
+    "translation": "уурын банн",
+    "hanja": "汗蒸幕",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "한진",
+    "translation": "Хангжин (компанийн нэр)",
+    "hanja": "韓進",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "한집안",
+    "translation": "Нэг гэр бүл",
+    "hanja": "한집안",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "한쪽",
+    "translation": "нэг тал",
+    "hanja": "한쪽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한차례",
+    "translation": "нэг удаа, нэг давс, ганц удаа",
+    "hanja": "한차례",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한참",
+    "translation": "нэлээд хугацаанд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한창나이",
+    "translation": "ид нас",
+    "hanja": "한창나이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한창때",
+    "translation": "ид үе",
+    "hanja": "한창때",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한천",
+    "translation": "хонгил",
+    "hanja": "寒天",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한철",
+    "translation": "нэг улирал, түр хугацаа",
+    "hanja": "한철",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한청",
+    "translation": "Сэрүүн цэнхэр",
+    "hanja": "寒靑",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "한체대",
+    "translation": "Ханкук Биеийн Тамирын Их Сургууль",
+    "hanja": "한체대",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "한층",
+    "translation": "илүү, улам их",
+    "hanja": "한層",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "한타바이러스",
+    "translation": "хант вирус",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "한탄스럽다",
+    "translation": "харамсалтай, гаслантай",
+    "hanja": "恨歎스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한탄하다",
+    "translation": "Харамсах, гашуудах",
+    "hanja": "恨歎하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "한탕",
+    "translation": "Нэг удаагийн ажил, нэг удаагийн хэрэг",
+    "hanja": "한탕",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한탕주의",
+    "translation": "нэг цохилтоор баяжих үзэл",
+    "hanja": "한탕주의",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "한턱내다",
+    "translation": "дайлах",
+    "hanja": "한턱내다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한통속",
+    "translation": "нэг ижил",
+    "hanja": "한통속",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한평생",
+    "translation": "насан турш, амьдралын турш",
+    "hanja": "한平生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한풀",
+    "translation": "Нэг үе",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한풀이",
+    "translation": "харамслаа тайлах",
+    "hanja": "한풀이",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "한풀이하다",
+    "translation": "гомдлоо тайлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한하다",
+    "translation": "харамсах",
+    "hanja": "恨하다",
+    "pos": "т.ү.",
+    "cefr": "B2"
+  },
+  {
+    "word": "한학",
+    "translation": "хятад судлал",
+    "hanja": "漢學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한한령",
+    "translation": "Солонгосын соёлын хориг",
+    "hanja": "限韓令",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "한해살이",
+    "translation": "нэг наст ургамал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한화",
+    "translation": "Солонгос вон (мөнгөн тэмдэгт)",
+    "hanja": "韓貨",
+    "pos": "명사",
+    "cefr": "A1"
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "word": "낭",
+    "translation": "залуу",
+    "hanja": "郎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭군",
+    "translation": "Нөхөр (эртний)",
+    "hanja": "郞君",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭도",
+    "translation": "Жүжигчин дагалдагч",
+    "hanja": "郎徒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "낭독",
+    "translation": "Унших",
+    "hanja": "朗讀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭독되다",
+    "translation": "уншигдах",
+    "hanja": "朗讀되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낭독하다",
+    "translation": "дуудан унших",
+    "hanja": "朗讀하다",
+    "pos": "үйл үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "낭두",
+    "translation": "чоно",
+    "hanja": "狼頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭떠러지",
+    "translation": "хадан цохио, мөнх шаргиа",
+    "hanja": "낭떠러지",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭랑",
+    "translation": "Чанга, тод (дуу хоолой)",
+    "hanja": "朗朗",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭랑하다",
+    "translation": "Чавхдас шиг",
+    "hanja": "朗朗하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭만",
+    "translation": "Романтик",
+    "hanja": "浪漫",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭만적",
+    "translation": "романтик",
+    "hanja": "浪漫的",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "낭만적이다",
+    "translation": "романтик байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭만적이다라고",
+    "translation": "романтик гэж",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭만주의",
+    "translation": "Романтизм",
+    "hanja": "浪漫主義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭만파",
+    "translation": "романтик үзэлтэн",
+    "hanja": "浪漫派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭보",
+    "translation": "сайн мэдээ",
+    "hanja": "朗報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭비",
+    "translation": "үр ашиггүй зардал, үрэлгэн",
+    "hanja": "浪費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭비되다",
+    "translation": "үр ашиггүй болох",
+    "hanja": "浪費되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낭비벽",
+    "translation": "үр ашиггүй зардал",
+    "hanja": "浪費癖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭비하다",
+    "translation": "Үрэх",
+    "hanja": "浪費하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "낭설",
+    "translation": "цуурхал",
+    "hanja": "浪說",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭송",
+    "translation": "Уншлага",
+    "hanja": "朗誦",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭송하다",
+    "translation": "уран унших, чангаар унших",
+    "hanja": "朗誦하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭시",
+    "translation": "Нанси (Францын хот)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "낭심",
+    "translation": "төмсөг",
+    "hanja": "囊心",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭인",
+    "translation": "тэнүүлч, зоргоороо хүн",
+    "hanja": "浪人",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭자",
+    "translation": "сүйтгэл",
+    "hanja": "娘子",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭자하다",
+    "translation": "хүчтэй, аймшигтай",
+    "hanja": "狼藉하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "낭종",
+    "translation": "киста",
+    "hanja": "囊腫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭중",
+    "translation": "Савлагаа, уут",
+    "hanja": "囊中",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "낭중지추",
+    "translation": "бөөрөнхий шүдэнз",
+    "hanja": "囊中之錐",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "낭지",
+    "translation": "ууттай цаас",
+    "hanja": "囊紙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "낭창",
+    "translation": "уян хатан",
+    "hanja": "낭창",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭창거리다",
+    "translation": "уян хатан байх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭창낭창",
+    "translation": "уян хатан, зөөлөн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭창낭창하다",
+    "translation": "уян хатан, нарийхан",
+    "hanja": "낭창낭창하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭창하다",
+    "translation": "Уян хатан байх; нимгэн, урт байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭트",
+    "translation": "Нант (хотын нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭패",
+    "translation": "Урам хугарах",
+    "hanja": "狼狽",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭패감",
+    "translation": "шийдвэргүй байдал, мухардах мэдрэмж",
+    "hanja": "狼狽感",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭패스럽다",
+    "translation": "ялагдсан",
+    "hanja": "狼狽스럽다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭패하다",
+    "translation": "бүтэхгүй байх, бүтэлгүй болох",
+    "hanja": "狼狽하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  }
+]

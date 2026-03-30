@@ -1,0 +1,954 @@
+[
+  {
+    "word": "레",
+    "translation": "ре",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레가시",
+    "translation": "Өв, өв залгамж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레거시",
+    "translation": "өв, өмч хөрөнгө",
+    "hanja": "legacy",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레게",
+    "translation": "рэгги хөгжим",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레게노",
+    "translation": "домог",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레귤러",
+    "translation": "ердийн",
+    "hanja": "regular",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레그",
+    "translation": "Хөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레기온",
+    "translation": "Легион",
+    "hanja": "레기온",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레깅스",
+    "translation": "Леггинс",
+    "hanja": "레깅스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레끼마",
+    "translation": "Лекхима",
+    "hanja": "Lekhima",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레너",
+    "translation": "Леннер (нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "레노",
+    "translation": "Рено",
+    "hanja": "레노",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "레니",
+    "translation": "Лени (хүний нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "레닌",
+    "translation": "Ленин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레닌그라드",
+    "translation": "Ленинград (хуучин нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레더",
+    "translation": "арьс (leather)",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "레드",
+    "translation": "Улаан (өнгө)",
+    "hanja": "레드",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "레드카드",
+    "translation": "Улаан карт",
+    "hanja": "red card",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레디",
+    "translation": "бэлэн",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "A1"
+  },
+  {
+    "word": "레딩",
+    "translation": "реддинг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레루",
+    "translation": "Рэлү (төсөөлөлт нэр)",
+    "hanja": "레루",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "레리",
+    "translation": "Лери (нэр)",
+    "hanja": "레리",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레모네이드",
+    "translation": "нимбэгний ундаа",
+    "hanja": "레모네이드",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "레몬",
+    "translation": "нимбэг",
+    "hanja": "lemon",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "레몬그라스",
+    "translation": "лемонграсс",
+    "hanja": "레몬그라스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레몬밤",
+    "translation": "нимбэгний бальзам",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레몬에이드",
+    "translation": "нимбэгний ундаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "레몽",
+    "translation": "Ремон (нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레미콘",
+    "translation": "Бетон зуурмаг",
+    "hanja": "レミコン",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레밍",
+    "translation": "Лемминг (амьтан)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "레바논",
+    "translation": "Ливан",
+    "hanja": "레바논",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레반트",
+    "translation": "Левант",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레버",
+    "translation": "хөшүүрэг, даравч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레버리지",
+    "translation": "Хөшүүрэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레베루",
+    "translation": "түвшин",
+    "hanja": "レベル",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레베카",
+    "translation": "ребекка",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "레벨",
+    "translation": "түвшин",
+    "hanja": "레벨",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레벨러",
+    "translation": "Тэгшитгэгч, тэгшлэгч",
+    "hanja": "Leveler",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "레비",
+    "translation": "Леви (овгийн нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레빈",
+    "translation": "Левин (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레서판다",
+    "translation": "улаан панда",
+    "hanja": "레서판다",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "레소토",
+    "translation": "Лесото (улс)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "레스",
+    "translation": "булан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레스터",
+    "translation": "Лестер",
+    "hanja": "레스터",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "레스토랑",
+    "translation": "ресторан",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "레스트",
+    "translation": "амрах",
+    "hanja": "rest",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레슨",
+    "translation": "Хичээл",
+    "hanja": "lesson",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "레슨하다",
+    "translation": "Хичээл заах",
+    "hanja": "Lesson하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레슬링",
+    "translation": "чөлөөт бөх",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레시틴",
+    "translation": "Лецитин",
+    "hanja": "---",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "레시피",
+    "translation": "жор",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "레아",
+    "translation": "Риа (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레알",
+    "translation": "реал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레어템",
+    "translation": "ховор зүйл",
+    "hanja": "레어템",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레오니다스",
+    "translation": "Леонидас",
+    "hanja": "Leonidas",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레오타드",
+    "translation": "леотард",
+    "hanja": "Q",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레오파드",
+    "translation": "идэгчин ирвэс, барзгар ирвэс",
+    "hanja": "레오파드",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "레온",
+    "translation": "Леон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "레욱트라",
+    "translation": "Леуктра",
+    "hanja": "레욱트라",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레위",
+    "translation": "Леви",
+    "hanja": "레위",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레이",
+    "translation": "цацраг, туяа",
+    "hanja": "레이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레이놀즈",
+    "translation": "рэйнолдс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레이다",
+    "translation": "радар",
+    "hanja": "레이다",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레이더",
+    "translation": "радар",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레이드",
+    "translation": "довтолгоо, дайралт (мэдээлэл технологид)",
+    "hanja": "raid",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레이먼드",
+    "translation": "Рэймонд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레이몬트",
+    "translation": "Рэймонд",
+    "hanja": "레이몬트",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "레이블",
+    "translation": "Хаяг, шошго, брэнд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레이블링",
+    "translation": "тэмдэглэгээ",
+    "hanja": "--",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "레이서",
+    "translation": "уралдаанч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레이스",
+    "translation": "уралдаан",
+    "hanja": "race",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레이시",
+    "translation": "Нимпэнцэр, нэхсэн тортой",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "레이싱",
+    "translation": "уралдаан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레이아웃",
+    "translation": "байршил, зураглал",
+    "hanja": "layout",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레이어",
+    "translation": "давхарга",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레이어드하다",
+    "translation": "Давхарлах, давхаргалах",
+    "hanja": "layered하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레이온",
+    "translation": "вискоз, цацраг",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레이저",
+    "translation": "лазер",
+    "hanja": "laser",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레이즈",
+    "translation": "өсгөх",
+    "hanja": "레이즈",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "레이징",
+    "translation": "босгох",
+    "hanja": null,
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "레이캬비크",
+    "translation": "Рейкьявик",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레이크",
+    "translation": "нуур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레이크플래시드",
+    "translation": "Лэйк Пласид",
+    "hanja": "Lake Placid",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레이트레이싱",
+    "translation": "Рейтрейсинг (компьютерийн график)",
+    "hanja": "레이트레이싱",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레이팅",
+    "translation": "үнэлгээ, зэрэглэл",
+    "hanja": "rating",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레인",
+    "translation": "зам",
+    "hanja": "lane",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "레인보우",
+    "translation": "солонго",
+    "hanja": "rainbow",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "레인저",
+    "translation": "рейжер",
+    "hanja": "Ranger",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레인지",
+    "translation": "цахилгаан зуух",
+    "hanja": "레인지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레인코트",
+    "translation": "борооны цув",
+    "hanja": "레인코트",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레일",
+    "translation": "төмөр зам",
+    "hanja": "레일",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레일리",
+    "translation": "Рэйли",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레임덕",
+    "translation": "лэйм дак",
+    "hanja": "lame duck",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레자",
+    "translation": "хуурамч арьс",
+    "hanja": "réseau",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레저",
+    "translation": "чөлөөт цаг, амралт",
+    "hanja": "leisure",
+    "pos": "м",
+    "cefr": "A2"
+  },
+  {
+    "word": "레전드급",
+    "translation": "домогт түвшний",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "레제",
+    "translation": "Леже (хүний нэр)",
+    "hanja": "레제",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레즈",
+    "translation": "Лесбиян",
+    "hanja": "레즈",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레즈비언",
+    "translation": "Лесбиян",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레지",
+    "translation": "Регистр",
+    "hanja": "레지",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "레지던스",
+    "translation": "орон сууц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레지던트",
+    "translation": "резидент",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레지스탕스",
+    "translation": "Эсэргүүцэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레지스터",
+    "translation": "бүртгэгч",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레지스트",
+    "translation": "бүртгэл",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레지스트리",
+    "translation": "бүртгэл, бүртгэлийн газар",
+    "hanja": "Registry",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "레진",
+    "translation": "давирхай",
+    "hanja": "resin",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레카",
+    "translation": "렉тор, багш",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레커",
+    "translation": "чирэх машин, лебедка",
+    "hanja": "레커",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레코드",
+    "translation": "бичлэг",
+    "hanja": "레코드",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레코드판",
+    "translation": "пянз",
+    "hanja": "record盤",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레콘",
+    "translation": "Тэмдэглэл, дурсамж",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레퀴엠",
+    "translation": "рекьюм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레크",
+    "translation": "Лекк (газарзүйн нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레크레이션",
+    "translation": "Амралт, зугаа цэнгэл",
+    "hanja": "레크레이션",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레크리에이션",
+    "translation": "амралт зугаалга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레터러",
+    "translation": "Үсэгчин",
+    "hanja": "레터러",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "레터르",
+    "translation": "үсэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레터링",
+    "translation": "үсгэн бичээс",
+    "hanja": "lettering",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레토",
+    "translation": "Лето (нэр)",
+    "hanja": "레토",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "레토르트",
+    "translation": "реторт, богино хугацаанд боловсруулсан (хоол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레토릭",
+    "translation": "риторик, уран илтгэл",
+    "hanja": "레토릭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레트",
+    "translation": "Летте",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레트로",
+    "translation": "ретро",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레티날",
+    "translation": "ретинал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레티놀",
+    "translation": "Ретинол",
+    "hanja": "레티놀",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "레파토리",
+    "translation": "урын сан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레퍼런스",
+    "translation": "лавлах зүйл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레퍼리",
+    "translation": "шүүгч",
+    "hanja": "referee",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레퍼토리",
+    "translation": "урын сан, репертуар",
+    "hanja": "repertoire",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레페",
+    "translation": "Лефе",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "레포츠",
+    "translation": "леisure sports",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레포트",
+    "translation": "илтгэл, тайлан",
+    "hanja": "null",
+    "pos": "н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "레프",
+    "translation": "Шүүгч (спортын)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레프트",
+    "translation": "зүүн",
+    "hanja": "레프트",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "레플리카",
+    "translation": "хуулбар",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  }
+]

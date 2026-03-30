@@ -1,0 +1,1556 @@
+[
+  {
+    "word": "분",
+    "translation": "хүн (хүндэтгэлтэй)",
+    "hanja": "분",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "분가",
+    "translation": "тусгаарлах",
+    "hanja": "分家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분가루",
+    "translation": "нунтаг",
+    "hanja": "粉가루",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분가하다",
+    "translation": "тусад орох",
+    "hanja": "分家--",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "분간",
+    "translation": "ялгах",
+    "hanja": "分揀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분간하다",
+    "translation": "Ялгах, таних",
+    "hanja": "分揀하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분갈이",
+    "translation": "хөрсийг солих",
+    "hanja": "盆갈이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분갈이하다",
+    "translation": "саванд шилжүүлэн суулгах",
+    "hanja": "盆갈이하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분개",
+    "translation": "уурлах",
+    "hanja": "憤慨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분개하다",
+    "translation": "уурлах, эсэргүүцэх",
+    "hanja": "憤慨하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분계선",
+    "translation": "хил, зааг шугам",
+    "hanja": "分界線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분골쇄신하다",
+    "translation": "биеэ үл хайрлах",
+    "hanja": "粉骨碎身하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "분과",
+    "translation": "салбар",
+    "hanja": "分科",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분관",
+    "translation": "Салбар байгууллага, салбар оффис, салбар номын сан",
+    "hanja": "分館",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분광",
+    "translation": "спектр",
+    "hanja": "分光",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "분교",
+    "translation": "салбар сургууль",
+    "hanja": "分校",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "분구",
+    "translation": "хэсэг, тасралт",
+    "hanja": "分區",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "분국",
+    "translation": "салбар газар",
+    "hanja": "分局",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분권",
+    "translation": "эрх мэдлийг хуваарилах",
+    "hanja": "分權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분규",
+    "translation": "маргаан, зөрчил",
+    "hanja": "紛糾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분급",
+    "translation": "хуваарилах",
+    "hanja": "分給",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분기",
+    "translation": "улирал",
+    "hanja": "分期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분기되다",
+    "translation": "салбарлах, хуваагдах",
+    "hanja": "分岐되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "분기점",
+    "translation": "салбарлах цэг, эргэлтийн цэг",
+    "hanja": "分岐點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분기탱천하다",
+    "translation": "Уур хилэн дүрэлзэх",
+    "hanja": "憤氣撑天-",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "분깃",
+    "translation": "Хувь, хэсэг",
+    "hanja": "分깃",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "분납",
+    "translation": "хуваан төлөх",
+    "hanja": "分納",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분내",
+    "translation": "нууц амт, далд утга",
+    "hanja": "糞내",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분노",
+    "translation": "уур",
+    "hanja": "憤怒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분노하다",
+    "translation": "уурлах",
+    "hanja": "憤怒하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분뇨",
+    "translation": "баас шээс",
+    "hanja": "糞尿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분단",
+    "translation": "хуваагдал",
+    "hanja": "分斷",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "분단국가",
+    "translation": "Хуваагдсан улс",
+    "hanja": "分斷國家",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "분단되다",
+    "translation": "хуваагдах; салангид болох",
+    "hanja": "分斷되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분담",
+    "translation": "үүргийг хуваарилах",
+    "hanja": "分擔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분담금",
+    "translation": "Хувь нэмэр",
+    "hanja": "分擔金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분담하다",
+    "translation": "Хуваах",
+    "hanja": "分擔",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분답다",
+    "translation": "завгүй, үймэн шуугих",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분당",
+    "translation": "Бундан",
+    "hanja": "盆唐",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "분당하다",
+    "translation": "Хуваагдах, салан тусгаарлах",
+    "hanja": "分黨하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분대",
+    "translation": "баг",
+    "hanja": "分隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분데스리가",
+    "translation": "Бундеслиг",
+    "hanja": "분데스리가",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분도",
+    "translation": "Хуваах зам, замуудыг хуваах",
+    "hanja": "分道",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "분란",
+    "translation": "Үймээн",
+    "hanja": "紛亂",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "분량",
+    "translation": "Хэмжээ",
+    "hanja": "分量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분류",
+    "translation": "Ангилал",
+    "hanja": "分類",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "분류되다",
+    "translation": "ангилагдах",
+    "hanja": "分類되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "분류법",
+    "translation": "ангиллын арга",
+    "hanja": "分類法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분류하다",
+    "translation": "ангилах",
+    "hanja": "分類하다",
+    "pos": "VERB",
+    "cefr": "B1"
+  },
+  {
+    "word": "분리",
+    "translation": "тусгаарлах",
+    "hanja": "分離",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분리대",
+    "translation": "Тууз",
+    "hanja": "分離帶",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분리되다",
+    "translation": "тусгаарлагдах",
+    "hanja": "分離-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분리배출하다",
+    "translation": "хогийг ангилан хаях",
+    "hanja": "分離排出하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "분리수거",
+    "translation": "Хог ангилан ялгах",
+    "hanja": "分離收去",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분리수거하다",
+    "translation": "Хог хаягдлыг ангилан ялгаж хаях",
+    "hanja": "分離收去하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분리하다",
+    "translation": "тусгаарлах, салгах",
+    "hanja": "分離하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "분립",
+    "translation": "Салангид байх",
+    "hanja": "分立",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "분립되다",
+    "translation": "тусгаарлагдах",
+    "hanja": "分立되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "분립하다",
+    "translation": "салан тусгаарлах",
+    "hanja": "分立하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "분만",
+    "translation": "төрөлт, төрөх",
+    "hanja": "分娩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분만실",
+    "translation": "төрөх тасаг",
+    "hanja": "分娩室",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분만하다",
+    "translation": "төрөх",
+    "hanja": "分娩하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분말",
+    "translation": "Нунтаг",
+    "hanja": "粉末",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분면",
+    "translation": "Мэдээж, тодорхой",
+    "hanja": "分明",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분명",
+    "translation": "тодорхой, ойлгомжтой",
+    "hanja": "분명",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분명코",
+    "translation": "мэдээж",
+    "hanja": "분명코",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "분명하다",
+    "translation": "тодорхой",
+    "hanja": "分明하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "분명히",
+    "translation": "тод",
+    "hanja": "分明히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분모",
+    "translation": "хуваарь",
+    "hanja": "分母",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분묘",
+    "translation": "бунхан",
+    "hanja": "墳墓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분무",
+    "translation": "шүрших",
+    "hanja": "噴霧",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "분무하다",
+    "translation": "цацах, шүрших",
+    "hanja": "噴霧하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분미",
+    "translation": "Уран нарийн амт",
+    "hanja": "芬味",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "분반",
+    "translation": "анги хуваах",
+    "hanja": "分班",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분발",
+    "translation": "хичээх",
+    "hanja": "奮發",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분방하다",
+    "translation": "чөлөөтэй, нээлттэй байх",
+    "hanja": "奔放하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분배",
+    "translation": "Хуваарилалт, түгээлт",
+    "hanja": "分配",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "분배되다",
+    "translation": "хуваарилагдах",
+    "hanja": "分配되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분배하다",
+    "translation": "хуваарилах, түгээх",
+    "hanja": "分配하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분법",
+    "translation": "хуваах арга",
+    "hanja": "分法",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "분변",
+    "translation": "өтгөн, баас",
+    "hanja": "糞便",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분별",
+    "translation": "ялгах",
+    "hanja": "分別",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분별력",
+    "translation": "ялгах чадвар",
+    "hanja": "分別力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분별없다",
+    "translation": "ухаангүй",
+    "hanja": "分別없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분별없이",
+    "translation": "ялгахгүйгээр, ялгаваргүйгээр",
+    "hanja": "分別없이",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "분별하다",
+    "translation": "Ялгах",
+    "hanja": "分別하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분봉",
+    "translation": "хуваан захирах",
+    "hanja": "分封",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분부",
+    "translation": "захирамж",
+    "hanja": "吩咐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분부하다",
+    "translation": "захирах",
+    "hanja": "分付하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분분하다",
+    "translation": "Олон янз байх",
+    "hanja": "紛紛하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분분히",
+    "translation": "тархай бутархай",
+    "hanja": "紛紛-",
+    "pos": "adv",
+    "cefr": "C1"
+  },
+  {
+    "word": "분비",
+    "translation": "ялгаруулалт",
+    "hanja": "分泌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분비되다",
+    "translation": "Ялгаруулах",
+    "hanja": "分泌되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "분비물",
+    "translation": "ялгадас",
+    "hanja": "分泌物",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "분비하다",
+    "translation": "ялгаруулах",
+    "hanja": "分泌--",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분사",
+    "translation": "Хуваах, салбарлах",
+    "hanja": "分社",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분사구",
+    "translation": "шүршигч хоолой",
+    "hanja": "噴射口",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "분사되다",
+    "translation": "цацагдах, шүршигдэх",
+    "hanja": "噴射되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분사하다",
+    "translation": "цацах, шидэх",
+    "hanja": "噴射하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분산",
+    "translation": "тараах, хуваарилах",
+    "hanja": "分散",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분산되다",
+    "translation": "тараагдах, сарниулах",
+    "hanja": "分散되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "분산하다",
+    "translation": "тараах, тархаах",
+    "hanja": "分散하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분서",
+    "translation": "Ном шатаах; хэрэг үүсгэх",
+    "hanja": "焚書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분석",
+    "translation": "задлан шинжилгээ",
+    "hanja": "分析",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분석가",
+    "translation": "аналитикч",
+    "hanja": "分析家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분석기",
+    "translation": "анализатор",
+    "hanja": "分析機",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분석되다",
+    "translation": "шинжилэгдэх",
+    "hanja": "分析되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분석력",
+    "translation": "аналитик сэтгэлгээ, анализ хийх чадвар",
+    "hanja": "分析力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분석적",
+    "translation": "аналитик, задлан шинжлэх",
+    "hanja": "分析的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분석표",
+    "translation": "шинжилгээний хүснэгт",
+    "hanja": "分析表",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분석하다",
+    "translation": "шинжлэх",
+    "hanja": "分析-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분소",
+    "translation": "салбар оффис",
+    "hanja": "分所",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분소의",
+    "translation": "санал зөрөлдөөн",
+    "hanja": "紛所議",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분쇄",
+    "translation": "бутархайлах",
+    "hanja": "粉碎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분쇄되다",
+    "translation": "Бутлагдах",
+    "hanja": "粉碎되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "분쇄하다",
+    "translation": "буталж устгах",
+    "hanja": "粉碎하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분수",
+    "translation": "Усан оргилуур",
+    "hanja": "噴水",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "분수대",
+    "translation": "Усан оргилуур",
+    "hanja": "噴水臺",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "분수령",
+    "translation": "хуваагдал, чухал үе шат",
+    "hanja": "분수령(分水嶺)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분식",
+    "translation": "Гурилан хоол",
+    "hanja": "粉食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분식집",
+    "translation": "гуанз",
+    "hanja": "粉食집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "분신",
+    "translation": "хувилбар",
+    "hanja": "分身",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분신자살",
+    "translation": "өөрийгөө шатаах",
+    "hanja": "焚身自殺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분신하다",
+    "translation": "Өөрийгөө шатаах",
+    "hanja": "焚身하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분실",
+    "translation": "гэрээс гарах, алдагдал",
+    "hanja": "紛失",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분실되다",
+    "translation": "алдагдах",
+    "hanja": "紛失되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분실물",
+    "translation": "гээн одсон зүйл",
+    "hanja": "紛失物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분실하다",
+    "translation": "гээнэ",
+    "hanja": "紛失하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "분아",
+    "translation": "Хуваагдах, салбарлах",
+    "hanja": "分芽",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "분안",
+    "translation": "шинжилгээ",
+    "hanja": "分案",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "분야",
+    "translation": "салбар",
+    "hanja": "分野",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "분양",
+    "translation": "хуваарилах, борлуулах",
+    "hanja": "分讓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분양가",
+    "translation": "худалдах үнэ",
+    "hanja": "分譲價",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분양되다",
+    "translation": "хуваарилагдах, борлуулагдах",
+    "hanja": "分讓되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분양하다",
+    "translation": "хуваарилах",
+    "hanja": "分讓하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분업",
+    "translation": "хөдөлмөрийн хуваарь",
+    "hanja": "分業",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분업하다",
+    "translation": "хөдөлмөр хуваарилах",
+    "hanja": "分業하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분업화",
+    "translation": "хөдөлмөрийн хуваарь",
+    "hanja": "分業化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분업화되다",
+    "translation": "хөдөлмөрийн хуваарь",
+    "hanja": "分業化되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "분여",
+    "translation": "хуваарилах",
+    "hanja": "分與",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분연히",
+    "translation": "уурлан босох",
+    "hanja": "奮然히",
+    "pos": "Adverb",
+    "cefr": "C2"
+  },
+  {
+    "word": "분열",
+    "translation": "Хуваагдал",
+    "hanja": "分裂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분열되다",
+    "translation": "хуваагдах, салангид болох",
+    "hanja": "分裂되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분열시키다",
+    "translation": "хуваах, задлах",
+    "hanja": "分裂시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분열증",
+    "translation": "шизофрени",
+    "hanja": "分裂症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분열하다",
+    "translation": "хуваах",
+    "hanja": "分裂하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분영",
+    "translation": "хуваарилах, хуваах",
+    "hanja": "分營",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "분원",
+    "translation": "салбар",
+    "hanja": "分院",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분위",
+    "translation": "уур амьсгал",
+    "hanja": "雰圍",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "분위기",
+    "translation": "уур амьсгал",
+    "hanja": "雰圍氣",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "분유",
+    "translation": "Хуурай сүү",
+    "hanja": "粉乳",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분윳값",
+    "translation": "өрхийн зардал; хүүхдийн хоолны мөнгө",
+    "hanja": "粉乳값",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분이",
+    "translation": "хүн",
+    "hanja": "분/人",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "분자",
+    "translation": "молекул",
+    "hanja": "分子",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "분장",
+    "translation": "нүүр будалт",
+    "hanja": "扮裝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분장실",
+    "translation": "хувцас солих өрөө",
+    "hanja": "扮裝室",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "분장하다",
+    "translation": "нүүр будах, хувцас өмсөх",
+    "hanja": "扮裝하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분재",
+    "translation": "бонсай",
+    "hanja": "盆栽",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분쟁",
+    "translation": "маргаан",
+    "hanja": "紛爭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분쟁하다",
+    "translation": "Маргалдах",
+    "hanja": "紛爭하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분전",
+    "translation": "чармайх, хүчтэй тэмцэх",
+    "hanja": "奮戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분전하다",
+    "translation": "ширүүн тулалдах",
+    "hanja": "奮戰하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분절",
+    "translation": "хэсэглэх",
+    "hanja": "分節",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분절되다",
+    "translation": "хуваагдах",
+    "hanja": "分節되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "분점",
+    "translation": "салбар дэлгүүр, салбар",
+    "hanja": "분점(分店)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분정",
+    "translation": "хуваарилах",
+    "hanja": "分定",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "분조",
+    "translation": "Бүнжо (нэр)",
+    "hanja": "分朝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "분조장",
+    "translation": "Багийн дарга",
+    "hanja": "分組長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분주",
+    "translation": "бужигнасан, завгүй",
+    "hanja": "奔走",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분주하다",
+    "translation": "завгүй, хөл хөдөлгөөн ихтэй",
+    "hanja": "奔走하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분주히",
+    "translation": "аяархан",
+    "hanja": "奔走히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분지",
+    "translation": "нам дор газар",
+    "hanja": "盆地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분지르다",
+    "translation": "хугалах, бутлах",
+    "hanja": "분지르다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "분진",
+    "translation": "Тоосны манан",
+    "hanja": "粉塵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분짜",
+    "translation": "бунцаа",
+    "hanja": "No Hanja",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "분천",
+    "translation": "Бүнчон (газар нэр)",
+    "hanja": "汾川",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "분첩",
+    "translation": "цацраг нунтаг",
+    "hanja": "粉楪",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분체",
+    "translation": "Нунтаг биет",
+    "hanja": "粉體",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "분초",
+    "translation": "Минут, секунд",
+    "hanja": "分秒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분추",
+    "translation": "цуглуулах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분출",
+    "translation": "бялхалт",
+    "hanja": "噴出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분출구",
+    "translation": "оргилох цэг, гарц",
+    "hanja": "噴出口",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "분출되다",
+    "translation": "бялхаж гарах",
+    "hanja": "噴出되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분출하다",
+    "translation": "пууйжсан",
+    "hanja": "噴出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분칠",
+    "translation": "нүүр будах",
+    "hanja": "粉漆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분칠하다",
+    "translation": "будаа түрхэх",
+    "hanja": "粉漆하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분침",
+    "translation": "минутын зүү",
+    "hanja": "分針",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "분탕",
+    "translation": "хэрүүл шуугиан тарих",
+    "hanja": "糞湯, 粉湯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분탕질",
+    "translation": "Орвон дорвон болгох, сүйтгэх",
+    "hanja": "焚蕩질",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분태",
+    "translation": "Хатгуулах",
+    "hanja": "粉態",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "분토",
+    "translation": "будалт",
+    "hanja": "粉土",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분통",
+    "translation": "Уур",
+    "hanja": "憤痛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분통하다",
+    "translation": "уурлах",
+    "hanja": "憤痛하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분투",
+    "translation": "тэмцэл",
+    "hanja": "奮鬪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분투하다",
+    "translation": "тэмцэх",
+    "hanja": "奮鬪하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분파",
+    "translation": "фракц",
+    "hanja": "分派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분포",
+    "translation": "тархалт",
+    "hanja": "分布",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분포도",
+    "translation": "тархалтын зураглал",
+    "hanja": "分布圖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분포되다",
+    "translation": "тархах",
+    "hanja": "分布되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분포하다",
+    "translation": "тархах, хуваарилагдах",
+    "hanja": "分布하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분풀이",
+    "translation": "уур гаргах, уураа тайлах",
+    "hanja": "憤풀이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분풀이하다",
+    "translation": "Уураа гаргах",
+    "hanja": "憤풀이하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분필",
+    "translation": "шохой",
+    "hanja": "粉筆",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "분하다",
+    "translation": "уурлах, гомдох",
+    "hanja": "憤하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분할",
+    "translation": "Хуваах",
+    "hanja": "分割",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분할되다",
+    "translation": "Хуваагдах, салах",
+    "hanja": "分割되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분할하다",
+    "translation": "хуваах",
+    "hanja": "分割하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분해",
+    "translation": "задрах, задлах",
+    "hanja": "分解",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "분해되다",
+    "translation": "задлах, задрах",
+    "hanja": "分解되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분해하다",
+    "translation": "задрах",
+    "hanja": "分解하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분향",
+    "translation": "хүж уугиулах, хүжний үнэр",
+    "hanja": "焚香",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "분향하다",
+    "translation": "хүж барих",
+    "hanja": "焚香하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "분홍",
+    "translation": "ягаан",
+    "hanja": "粉紅",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "분홍분홍하다",
+    "translation": "ягаан өнгөтэй байх",
+    "hanja": "분홍분홍하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분홍빛",
+    "translation": "ягаан өнгөтэй",
+    "hanja": "粉紅빛",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "분홍색",
+    "translation": "Ягаан өнгө",
+    "hanja": "粉紅色",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "분화",
+    "translation": "Дэлбэрэлт (гал уулын)",
+    "hanja": "噴火",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "분화구",
+    "translation": "гал тогооны амсар",
+    "hanja": "噴火口",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분화되다",
+    "translation": "ялгарах",
+    "hanja": "分化되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "분화하다",
+    "translation": "Дэлбэрэх (уул)",
+    "hanja": "噴火하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분후",
+    "translation": "минутын дараа",
+    "hanja": "分後",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "분히",
+    "translation": "Ууртайгаар",
+    "hanja": "憤히",
+    "pos": "부사",
+    "cefr": "C1"
+  }
+]

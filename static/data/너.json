@@ -1,0 +1,331 @@
+[
+  {
+    "word": "너",
+    "translation": "чи",
+    "hanja": "",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "너거",
+    "translation": "та нар",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "너겟",
+    "translation": "Наггет",
+    "hanja": "너겟",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "너구리",
+    "translation": "үнэг",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "너굴다",
+    "translation": "танихгүй",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "너그",
+    "translation": "мэлхий",
+    "hanja": "너그",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "너그러이",
+    "translation": "уучлангүйгээр, өгөөмөрөөр",
+    "hanja": "너그러이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너그럽다",
+    "translation": "Өгөөмөр, өршөөнгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너깃",
+    "translation": "нүггет",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "너끈하다",
+    "translation": "хангалттай",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너끈히",
+    "translation": "хангалттай, хүрэлцэхүйц",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너나없이",
+    "translation": "хүн бүр, бүгд тэгш",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너너",
+    "translation": "чиний чинь",
+    "hanja": "---",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "너다",
+    "translation": "чихэх, түлхэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너덜거리다",
+    "translation": "уранхай",
+    "hanja": "너덜거리다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "너덜너덜",
+    "translation": "уранхай; сэмэрхий",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "너덜너덜하다",
+    "translation": "уранхай",
+    "hanja": "너덜너덜하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "너덧",
+    "translation": "дөрөв тав",
+    "hanja": "null",
+    "pos": "суурь тоо",
+    "cefr": "A2"
+  },
+  {
+    "word": "너도나도",
+    "translation": "Хүн бүр, бүгд зэрэг",
+    "hanja": "너도나도",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "너도밤나무",
+    "translation": "Үхрийн нүд мод",
+    "hanja": "너도밤나무",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "너드미",
+    "translation": "мэдлэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "너럭바위",
+    "translation": "хавтгай чулуу",
+    "hanja": "너럭바위",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "너머",
+    "translation": "цаана",
+    "hanja": "너머",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "너무",
+    "translation": "хэтэрхий",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "너무너무",
+    "translation": "хэтэрхий их",
+    "hanja": "너무너무",
+    "pos": "adv",
+    "cefr": "A1"
+  },
+  {
+    "word": "너무하다",
+    "translation": "Хэтрүүлэх",
+    "hanja": "너무하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "너므",
+    "translation": "их",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "너바나",
+    "translation": "нирвана",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "너부러지다",
+    "translation": "хөглөрөх, тарж унах",
+    "hanja": "너부러지다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너비",
+    "translation": "өргөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "너비아니",
+    "translation": "нимгэн мах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너스",
+    "translation": "сувилагч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "너스레",
+    "translation": "хоосон яриа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "너와",
+    "translation": "нарсны үртэс",
+    "hanja": "너와",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너와집",
+    "translation": "модон дээвэртэй байшин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너울",
+    "translation": "долгион",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "너울너울",
+    "translation": "гулсах, хөвөх",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "너이",
+    "translation": "чамд",
+    "hanja": null,
+    "pos": "Pronoun",
+    "cefr": "A1"
+  },
+  {
+    "word": "너저분하다",
+    "translation": "эмх замбараагүй, бохир",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "너절하다",
+    "translation": "замбараагүй, бохир",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너클",
+    "translation": "хурууны үе (eng. knuckle)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "너털웃음",
+    "translation": "Хөхрөн инээх",
+    "hanja": "너털웃음",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "너트",
+    "translation": "Төмөр бэхэлгээ, боолтны эрэг",
+    "hanja": "너트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "너티",
+    "translation": "самрын амттай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "너풀거리다",
+    "translation": "хийсэх, намирах",
+    "hanja": "NaN",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너프",
+    "translation": "Судалгаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너희",
+    "translation": "та нар",
+    "hanja": "너희",
+    "pos": "대명사",
+    "cefr": "A2"
+  }
+]

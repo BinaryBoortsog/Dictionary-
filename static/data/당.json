@@ -1,0 +1,863 @@
+[
+  {
+    "word": "당",
+    "translation": "нам",
+    "hanja": "黨",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "당겨쓰다",
+    "translation": "татан авах, урьдчилан авах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당고",
+    "translation": "амттай бялуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당곡",
+    "translation": "Тангу",
+    "hanja": "唐谷",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "당과",
+    "translation": "чихэр шоколад",
+    "hanja": "糖菓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당구",
+    "translation": "билльярд",
+    "hanja": "撞球",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "당구공",
+    "translation": "билльярдын бөмбөг",
+    "hanja": "撞球共",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "당구장",
+    "translation": "Билльярдын газар",
+    "hanja": "撞球場",
+    "pos": "명са",
+    "cefr": "A2"
+  },
+  {
+    "word": "당국",
+    "translation": "эрх баригчид",
+    "hanja": "當局",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당국자",
+    "translation": "албан тушаалтан",
+    "hanja": "當局者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당권",
+    "translation": "Намын эрх",
+    "hanja": "黨權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당귀",
+    "translation": "данги",
+    "hanja": "當歸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당규",
+    "translation": "намын дүрэм журам",
+    "hanja": "黨規",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당근",
+    "translation": "лууван",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "당기",
+    "translation": "Одоогийн хугацаа, туг",
+    "hanja": "當期/幢旗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당기다",
+    "translation": "татаж авах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "당김",
+    "translation": "таталт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당나귀",
+    "translation": "Илжиг",
+    "hanja": "당나귀",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "당내",
+    "translation": "намийн дотор",
+    "hanja": "黨內",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당뇨",
+    "translation": "чихрийн шижин",
+    "hanja": "糖尿病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당뇨병",
+    "translation": "Чихрийн шижин",
+    "hanja": "糖尿病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당당",
+    "translation": "Бардам",
+    "hanja": "堂堂",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "당당하다",
+    "translation": "бардам, сүрлэг",
+    "hanja": "堂堂하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당당히",
+    "translation": "бахархалтайгаар",
+    "hanja": "堂堂히",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "당대",
+    "translation": "тухайн үе, одоо үе",
+    "hanja": "當代",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당대회",
+    "translation": "намын их хурал",
+    "hanja": "黨大會",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당도",
+    "translation": "хүрэх, ирэх",
+    "hanja": "當到",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당도하다",
+    "translation": "хүрэх, ирэх",
+    "hanja": "當到하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당돌하다",
+    "translation": "зоримог, өөртөө итгэлтэй",
+    "hanja": "唐突하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당동벌이",
+    "translation": "тахир төмөр",
+    "hanja": "堂同벌이",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "당디",
+    "translation": "Донди (Францын хот)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "당락",
+    "translation": "сонгох эсэх, тэнцэх эсэх",
+    "hanja": "當落",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당력",
+    "translation": "намын хүч",
+    "hanja": "黨力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당론",
+    "translation": "намын үзэл баримтлал",
+    "hanja": "黨論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당류",
+    "translation": "элсэн чихрийн төрөл",
+    "hanja": "糖類",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당리당략",
+    "translation": "намын эрх ашгийг чухалчлах",
+    "hanja": "黨利黨略",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "당면",
+    "translation": "Одоогийн байдал",
+    "hanja": "當面",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당면하다",
+    "translation": "Нүүр тулах",
+    "hanja": "당면하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당명",
+    "translation": "намын нэр",
+    "hanja": "黨名",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당무",
+    "translation": "намын ажил",
+    "hanja": "黨務",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당밀",
+    "translation": "чихрийн сироп",
+    "hanja": "糖蜜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당번",
+    "translation": "ээлжийн ажилтан",
+    "hanja": "當番",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당별",
+    "translation": "Нам бүр, нам бүрээр",
+    "hanja": "黨別",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당부",
+    "translation": "гуйлт, заавар",
+    "hanja": "當付",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당부하다",
+    "translation": "хүсэх, нягтлах",
+    "hanja": "當付하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당분",
+    "translation": "чихэрлэг бодис",
+    "hanja": "糖分",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당분간",
+    "translation": "Одоохондоо",
+    "hanja": "當分間",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "당비",
+    "translation": "намын гишүүний татвар",
+    "hanja": "黨費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당사",
+    "translation": "Хамаарах тал, тухайн тал",
+    "hanja": "當事",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "당사국",
+    "translation": "оролцогч улс",
+    "hanja": "當事國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당사자",
+    "translation": "талууд",
+    "hanja": "當事者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당산",
+    "translation": "уулын орой, сүм хийд",
+    "hanja": "堂山",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당상",
+    "translation": "үүдний танхим",
+    "hanja": "堂上",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "당색",
+    "translation": "намын өнгө",
+    "hanja": "黨色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당석",
+    "translation": "Одоогийн байдал",
+    "hanja": "當席",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "당선",
+    "translation": "сонгогдох",
+    "hanja": "當選",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당선권",
+    "translation": "сонгогдох боломж",
+    "hanja": "當選圈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "당선되다",
+    "translation": "Сонгогдох",
+    "hanja": "當選되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "당선시키다",
+    "translation": "сонгох, сонгуульд ялуулах",
+    "hanja": "當選시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당선자",
+    "translation": "Сонгогдсон хүн, ялагч",
+    "hanja": "當選者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당선작",
+    "translation": "ялсан бүтээл",
+    "hanja": "當選作",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "당선하다",
+    "translation": "Сонгогдох",
+    "hanja": "当選하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당성",
+    "translation": "Намын шинж чанар",
+    "hanja": "黨性",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "당세",
+    "translation": "одоогийн үе",
+    "hanja": "當世",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "당소",
+    "translation": "тухайн газар, энэ газар",
+    "hanja": "堂所",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당수",
+    "translation": "намын дарга",
+    "hanja": "黨首",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당숙",
+    "translation": "үеэл ах",
+    "hanja": "堂叔",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "당숙모",
+    "translation": "ээжийн нагац эгч",
+    "hanja": "堂叔母",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "당시",
+    "translation": "Тэр үед",
+    "hanja": "當時",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "당신",
+    "translation": "та",
+    "hanja": "當身",
+    "pos": "대명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "당심",
+    "translation": "намийн доторх сэтгэл, намын үзэл санаа",
+    "hanja": "黨心",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "당연",
+    "translation": "мэдээж",
+    "hanja": "當然",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "당연시되다",
+    "translation": "мэдээж гэж хүлээж авах",
+    "hanja": "當然視되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당연시하다",
+    "translation": "мэдээж хэрэг гэж үзэх",
+    "hanja": "當然視하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당연지사",
+    "translation": "мэдээж хэрэг",
+    "hanja": "當然之事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당연하다",
+    "translation": "мэдээж",
+    "hanja": "當然하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당연히",
+    "translation": "мэдээжийн хэрэг",
+    "hanja": "當然히",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "당원",
+    "translation": "намын гишүүн",
+    "hanja": "黨員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당위",
+    "translation": "үүрэг",
+    "hanja": "當爲",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "당위성",
+    "translation": "зайлшгүй байдал, зохистой байдал",
+    "hanja": "當爲性",
+    "pos": "name",
+    "cefr": "C1"
+  },
+  {
+    "word": "당의",
+    "translation": "намын хувцас",
+    "hanja": "黨衣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당인",
+    "translation": "Тухайн өдөр",
+    "hanja": "當日",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "당일",
+    "translation": "Тэр өдөр",
+    "hanja": "當日",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "당일치기",
+    "translation": "Нэг өдрийн аялал",
+    "hanja": "當日치기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당자",
+    "translation": "тухайн хүн, холбогдох хүн",
+    "hanja": "當者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당장",
+    "translation": "яг одоо",
+    "hanja": "當場",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "당쟁",
+    "translation": "намын тэмцэл",
+    "hanja": "黨爭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당적",
+    "translation": "намын гишүүнчлэл",
+    "hanja": "당적(黨籍)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당정",
+    "translation": "нам болон засгийн газар",
+    "hanja": "黨政",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당좌",
+    "translation": "тухайн одоогийн, мөнгөн хуримтлал",
+    "hanja": "當座",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당주",
+    "translation": "намын дарга",
+    "hanja": "黨主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당중앙",
+    "translation": "Намын төв хороо",
+    "hanja": "黨中央",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당중앙위원회",
+    "translation": "Намын Төв Хороо",
+    "hanja": "黨中央委員會",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "당직",
+    "translation": "Үүрэг",
+    "hanja": "當直",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "당직자",
+    "translation": "үүрэг гүйцэтгэгч",
+    "hanja": "當直者",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "당직하다",
+    "translation": "Жижүүрлэх",
+    "hanja": "當直하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당진",
+    "translation": "Танжин (нутгийн нэр)",
+    "hanja": "唐津",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "당질",
+    "translation": "Нүүрс ус",
+    "hanja": "糖質",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "당차다",
+    "translation": "шийдэмгий",
+    "hanja": "당차다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당첨",
+    "translation": "Ялалт, хонж",
+    "hanja": "當籤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당첨금",
+    "translation": "шагналын мөнгө",
+    "hanja": "當籤金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당첨되다",
+    "translation": "хонжвор хожих",
+    "hanja": "當籤되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "당첨자",
+    "translation": "хожсон хүн",
+    "hanja": "當籤者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당첨하다",
+    "translation": "хожих",
+    "hanja": "當籤",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당청",
+    "translation": "нам",
+    "hanja": "黨廳",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "당체",
+    "translation": "Түүнийг өөрөө, тэр өөрөө",
+    "hanja": "當體",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "당초",
+    "translation": "эхнээсээ, анхандаа",
+    "hanja": "當初",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "당최",
+    "translation": "ерөөсөө",
+    "hanja": "當初",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당파",
+    "translation": "намын бүлэг",
+    "hanja": "黨派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당하다",
+    "translation": "амсах, учрах",
+    "hanja": "當하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당해",
+    "translation": "тухайн жил",
+    "hanja": "當該",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당헌",
+    "translation": "Намын дүрэм",
+    "hanja": "黨憲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당혜",
+    "translation": "Тонхээ",
+    "hanja": "唐鞋",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당호",
+    "translation": "дуу",
+    "hanja": "堂號",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "당혹",
+    "translation": "ичиж зовох",
+    "hanja": "當惑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당혹감",
+    "translation": "эвгүй байдал",
+    "hanja": "當惑感",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "당혹스럽다",
+    "translation": "Эвгүй байдалд орох, эргэлзэх",
+    "hanja": "當惑스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "당혹하다",
+    "translation": "түнэрх",
+    "hanja": "當惑하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "당화",
+    "translation": "чихэржүүлэх",
+    "hanja": "糖化",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "당황",
+    "translation": "сандарах",
+    "hanja": "唐慌",
+    "pos": "м.н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "당황스럽다",
+    "translation": "эвгүй байдалд орох",
+    "hanja": "當惶스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당황하다",
+    "translation": "самуурах",
+    "hanja": "唐慌-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당회",
+    "translation": "сүм хийдийн зөвлөл",
+    "hanja": "堂會",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

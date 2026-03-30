@@ -1,0 +1,716 @@
+[
+  {
+    "word": "설",
+    "translation": "шинэ жил",
+    "hanja": "설",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "설거지",
+    "translation": "аяга таваг угаах",
+    "hanja": "설거지",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "설거지하다",
+    "translation": "аяга таваг угаах",
+    "hanja": "雪澌-",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "설거짓거리",
+    "translation": "угаах зүйл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "설겆이",
+    "translation": "аяга таваг угаах",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "설경",
+    "translation": "Цасан үзэсгэлэн",
+    "hanja": "雪景",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설계",
+    "translation": "зураг төсөл",
+    "hanja": "設計",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설계도",
+    "translation": "зураг төсөл, схем",
+    "hanja": "設計圖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설계되다",
+    "translation": "зохион бүтээгдсэн",
+    "hanja": "設計되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설계사",
+    "translation": "зураг төсөлчин",
+    "hanja": "設計士",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설계자",
+    "translation": "зураг төсөл зохиогч",
+    "hanja": "設計者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "설계하다",
+    "translation": "зураг төсөл боловсруулах",
+    "hanja": "設計하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "설교",
+    "translation": "номлол",
+    "hanja": "説教",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설교자",
+    "translation": "номлогч",
+    "hanja": "說敎者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설교하다",
+    "translation": "Номлох",
+    "hanja": "說敎하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설국",
+    "translation": "цаст орон",
+    "hanja": "雪國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설날",
+    "translation": "Цагаан сар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "설다",
+    "translation": "Түүхий байх",
+    "hanja": "설다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "설득",
+    "translation": "ялах",
+    "hanja": "說得",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설득되다",
+    "translation": "яриагаар ятгагдах, итгэгдэх",
+    "hanja": "說得되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설득력",
+    "translation": "Ятгах чадвартай",
+    "hanja": "說得力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설득하다",
+    "translation": "үнэмшүүлэх",
+    "hanja": "說得하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설때다",
+    "translation": "яарах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "설렁",
+    "translation": "сэрүүн, хоосон",
+    "hanja": "설렁",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설렁설렁",
+    "translation": "салж гүйх, хайнга",
+    "hanja": "설렁설렁",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설렁설렁하다",
+    "translation": "хойрго хандах, хайнга хийх",
+    "hanja": "설렁설렁하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설렁탕",
+    "translation": "Сыллангтан (Солонгос хоол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "설레",
+    "translation": "Сэтгэл догдлох",
+    "hanja": "—",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설레다",
+    "translation": "сэтгэл догдлох",
+    "hanja": "설레다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설레발",
+    "translation": "Хэт их хөөрөх",
+    "hanja": "설레발",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설레발치다",
+    "translation": "хэт их баярлах, барьц алдах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "설레설레",
+    "translation": "дайрч дайрч",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설레이다",
+    "translation": "Догдлох, сэтгэл баясах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "설렘",
+    "translation": "догдлол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설령",
+    "translation": "хэдийгээр ... ч",
+    "hanja": "設令",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설로인",
+    "translation": "филе",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설리",
+    "translation": "Сүлри (нэр)",
+    "hanja": "雪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설리번",
+    "translation": "Салливан",
+    "hanja": "설리번",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "설립",
+    "translation": "байгуулах",
+    "hanja": "設立",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설립되다",
+    "translation": "байгуулагдах",
+    "hanja": "設立되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "설립자",
+    "translation": "үүсгэн байгуулагч",
+    "hanja": "設立者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "설립하다",
+    "translation": "үүсгэн байгуулах",
+    "hanja": "設立하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설마",
+    "translation": "гэж үү",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "설마설마하다",
+    "translation": "итгэхгүй байх",
+    "hanja": "설마설마",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "설맞이",
+    "translation": "шинэ жил угтах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설매",
+    "translation": "цангуур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설명",
+    "translation": "тайлбар",
+    "hanja": "說明",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "설명되다",
+    "translation": "тайлбарлагдах",
+    "hanja": "說明되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "설명문",
+    "translation": "тайлбар бичиг",
+    "hanja": "說明文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설명서",
+    "translation": "тайлбар",
+    "hanja": "說明書",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "설명하다",
+    "translation": "тайлбарлах",
+    "hanja": "說明하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "설문",
+    "translation": "судалгаа, асуулга",
+    "hanja": "設問",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설문지",
+    "translation": "судалгааны хуудас",
+    "hanja": "設問紙",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "설문하다",
+    "translation": "судалгаа хийх",
+    "hanja": "設問하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설법",
+    "translation": "номлол",
+    "hanja": "說法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설법하다",
+    "translation": "ном айлдах",
+    "hanja": "說法하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설봉",
+    "translation": "цаст оргил",
+    "hanja": "雪峰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설비",
+    "translation": "тоноглол, байгууламж",
+    "hanja": "設備",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설비하다",
+    "translation": "тоноглох, угсрах",
+    "hanja": "設備하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설빙",
+    "translation": "Мөсөн амттан",
+    "hanja": "雪氷",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "설사",
+    "translation": "гэдэс гүйлгэх",
+    "hanja": "泄瀉",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "설사병",
+    "translation": "суулгалт",
+    "hanja": "泄瀉病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설사약",
+    "translation": "гэдэс гүйлгэх эм",
+    "hanja": "泄瀉藥",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "설사하다",
+    "translation": "суулгах",
+    "hanja": "泄瀉하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "설산",
+    "translation": "цаст уул",
+    "hanja": "雪山",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설상",
+    "translation": "цасны дүр төрх",
+    "hanja": "雪像",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "설상가상",
+    "translation": "нэмэх нь нэмэгдэх нь",
+    "hanja": "雪上加霜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설송",
+    "translation": "Цасан нарс",
+    "hanja": "雪松",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "설수",
+    "translation": "цасны тоо",
+    "hanja": "雪數",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "설악",
+    "translation": "Сорак",
+    "hanja": "雪嶽",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "설악산",
+    "translation": "Саорак уул",
+    "hanja": "雪嶽山",
+    "pos": "м.н",
+    "cefr": "A2"
+  },
+  {
+    "word": "설영",
+    "translation": "Бааз байгуулах, байгуулах",
+    "hanja": "設營",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설왕설래",
+    "translation": "харилцан яриа",
+    "hanja": "舌往舌來",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "설왕설래하다",
+    "translation": "харилцан ярилцах, мэтгэлцэх",
+    "hanja": "說往說來하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "설욕",
+    "translation": "өшөө авах",
+    "hanja": "雪辱",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "설욕전",
+    "translation": "өшөө авах тэмцэл",
+    "hanja": "雪辱戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설욕하다",
+    "translation": "өшөөгөө авагч",
+    "hanja": "雪辱하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설운",
+    "translation": "гунигтай, харамгүй",
+    "hanja": "섧다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설움",
+    "translation": "гашуудал, зовлон",
+    "hanja": "설움",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설원",
+    "translation": "цасан тал",
+    "hanja": "雪原",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설익다",
+    "translation": "дутуу болгох, гүйцэд болоогүй",
+    "hanja": "설익다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설인",
+    "translation": "цасны хүн",
+    "hanja": "雪人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설전",
+    "translation": "Үг хэллэгийн тулаан",
+    "hanja": "舌戰",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "설정",
+    "translation": "тохиргоо",
+    "hanja": "設定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설정되다",
+    "translation": "Тохируулагдах, тогтоогдох",
+    "hanja": "設定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설정하다",
+    "translation": "тохируулах, үүсгэх",
+    "hanja": "設定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설주",
+    "translation": "толгойны багана",
+    "hanja": "설柱",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "설치",
+    "translation": "суурилуулах",
+    "hanja": "設置",
+    "pos": "NNG",
+    "cefr": "B1"
+  },
+  {
+    "word": "설치다",
+    "translation": "үймүүлэх, дураараа аашлах",
+    "hanja": "설치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설치되다",
+    "translation": "суурилуулах",
+    "hanja": "設置",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "설치하다",
+    "translation": "суурилуулах",
+    "hanja": "設置-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설탕",
+    "translation": "Сахар",
+    "hanja": "雪糖",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "설파",
+    "translation": "Тайлбарлах",
+    "hanja": "說破",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설파하다",
+    "translation": "уншлага хийх, номлох",
+    "hanja": "說破하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설피",
+    "translation": "цасны гутал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설핏",
+    "translation": "Гэнэт, бүдэгхэн",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "설하다",
+    "translation": "тайлбарлах, хэлэх",
+    "hanja": "說하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설호",
+    "translation": "цасны бар",
+    "hanja": "雪虎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설혹",
+    "translation": "хэдийгээр, тэгээд ч",
+    "hanja": "設或",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설화",
+    "translation": "Домог, үлгэр",
+    "hanja": "說話",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설후",
+    "translation": "цасны дараа",
+    "hanja": "雪後",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설희",
+    "translation": "Солхи (нэр)",
+    "hanja": "雪姬",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

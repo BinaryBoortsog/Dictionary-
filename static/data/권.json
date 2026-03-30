@@ -1,0 +1,380 @@
+[
+  {
+    "word": "권",
+    "translation": "хуудас, эрх",
+    "hanja": "權",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "권고",
+    "translation": "зөвлөгөө, уриалга",
+    "hanja": "勸告",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "권고하다",
+    "translation": "Зөвлөх",
+    "hanja": "勸告하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "권근",
+    "translation": "мэргэн түшмэл",
+    "hanja": "權近",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "권능",
+    "translation": "эрх мэдэл",
+    "hanja": "權能",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "권당",
+    "translation": "хуудас тус бүр",
+    "hanja": "卷當",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "권력",
+    "translation": "Эрх мэдэл",
+    "hanja": "權力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "권력가",
+    "translation": "эрх мэдэлтэй хүн",
+    "hanja": "權力家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "권력자",
+    "translation": "эрх мэдэлтэй хүн",
+    "hanja": "權力者",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "권력층",
+    "translation": "эрх баригчид",
+    "hanja": "權力層",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "권리",
+    "translation": "эрх",
+    "hanja": "權利",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "권리금",
+    "translation": "эрхийн төлбөр",
+    "hanja": "權利金",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "권면",
+    "translation": "Удирдамж, зөвлөгөө",
+    "hanja": "勸勉",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "권면하다",
+    "translation": "хүмүүжүүлэх, уриалах",
+    "hanja": "勸勉하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "권모",
+    "translation": "зали, арга заль",
+    "hanja": "權謀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "권모술수",
+    "translation": "заль мэх",
+    "hanja": "權謀術數",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "권법",
+    "translation": "тулааны урлаг",
+    "hanja": "拳法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "권변",
+    "translation": "эрх мэдэл өөрчлөгдөх",
+    "hanja": "權變",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "권부",
+    "translation": "Эрх мэдлийн хэсэг",
+    "hanja": "權府",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "권사",
+    "translation": "зөвлөх ажилтан",
+    "hanja": "勸士",
+    "pos": "мüns",
+    "cefr": "B2"
+  },
+  {
+    "word": "권선징악",
+    "translation": "сайныг урамшуулан мууг шийтгэх",
+    "hanja": "勸善懲惡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "권세",
+    "translation": "Эрх мэдэл",
+    "hanja": "權勢",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "권속",
+    "translation": "Хамаатан садан",
+    "hanja": "眷屬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "권수",
+    "translation": "номны тоо, боть",
+    "hanja": "卷數",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "권신",
+    "translation": "Хүчирхэг албан тушаалтан",
+    "hanja": "權臣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "권씨",
+    "translation": "Квон овгийн хүн",
+    "hanja": "權氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "권역",
+    "translation": "Бүс нутаг",
+    "hanja": "圈域",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "권위",
+    "translation": "эрх мэдэл",
+    "hanja": "權威",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "권위자",
+    "translation": "эрх мэдэлтэй хүн",
+    "hanja": "權威者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "권위적",
+    "translation": "эрх мэдэлтэй",
+    "hanja": "權威的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "권위주의",
+    "translation": "авторитар дэглэм, эрх мэдэл",
+    "hanja": "權威主義",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "권위주의적",
+    "translation": "авторитар дэглэмтэй",
+    "hanja": "權威主義的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "권유",
+    "translation": "Ятгах, санал тавих",
+    "hanja": "勸誘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "권유하다",
+    "translation": "уриалах, зөвлөх",
+    "hanja": "勸誘하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "권이",
+    "translation": "эрх мэдэл",
+    "hanja": "權飴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "권익",
+    "translation": "эрх ашиг",
+    "hanja": "權益",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "권익위",
+    "translation": "Эрх Ашиг Комисс",
+    "hanja": "權益委",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "권장",
+    "translation": "зөвлөх, уриалах",
+    "hanja": "勸獎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "권장되다",
+    "translation": "зөвлөгдөх, уриалах",
+    "hanja": "勸奬되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "권장하다",
+    "translation": "Зөвлөх",
+    "hanja": "勸奬하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "권정",
+    "translation": "зөвлөмж",
+    "hanja": "勸正",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "권좌",
+    "translation": "эрх мэдэл",
+    "hanja": "權座",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "권주",
+    "translation": "архи уухыг санал болгох",
+    "hanja": "勸酒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "권지",
+    "translation": "номын боть",
+    "hanja": "卷帙",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "권찰",
+    "translation": "яриа, уриалга",
+    "hanja": "勸察",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "권총",
+    "translation": "Гар буу",
+    "hanja": "拳銃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "권태",
+    "translation": "уйтгар, залхуурал",
+    "hanja": "倦怠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "권태감",
+    "translation": "уйтгарлах мэдрэмж",
+    "hanja": "倦怠感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "권태기",
+    "translation": "уйтгартай үе",
+    "hanja": "倦怠期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "권태롭다",
+    "translation": "уйдтай",
+    "hanja": "倦怠롭다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "권투",
+    "translation": "бокс",
+    "hanja": "拳鬪",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "권하다",
+    "translation": "санал болгох",
+    "hanja": "권하다(勸하다)",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "권한",
+    "translation": "эрх мэдэл, бүрэн эрх",
+    "hanja": "權限",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "권호",
+    "translation": "боть, дугаар",
+    "hanja": "卷號",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

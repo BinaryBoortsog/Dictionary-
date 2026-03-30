@@ -1,0 +1,492 @@
+[
+  {
+    "word": "항",
+    "translation": "боомт",
+    "hanja": "港",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "항간",
+    "translation": "олон нийтийн дунд",
+    "hanja": "巷間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항거",
+    "translation": "Эсэргүүцэл",
+    "hanja": "抗拒",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "항거하다",
+    "translation": "эсэргүүцэх",
+    "hanja": "抗拒하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항고",
+    "translation": "давж заалдах",
+    "hanja": "抗告",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항고하다",
+    "translation": "давж заалдах",
+    "hanja": "抗告하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항공",
+    "translation": "нислэг",
+    "hanja": "航空",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "항공권",
+    "translation": "онгоцны билет",
+    "hanja": "航空券",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "항공기",
+    "translation": "нисэх онгоц",
+    "hanja": "航空機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "항공료",
+    "translation": "онгоцны зардал",
+    "hanja": "航空料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "항공사",
+    "translation": "Агаарын тээврийн компани",
+    "hanja": "航空社",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "항공편",
+    "translation": "нислэгийн хуваарь, нислэгийн маршрут",
+    "hanja": "航空便",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "항구",
+    "translation": "боомт",
+    "hanja": "港口",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "항구적",
+    "translation": "Байнгын",
+    "hanja": "恒久的",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "항균",
+    "translation": "нянгийн эсрэг",
+    "hanja": "抗菌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항덕",
+    "translation": "үнэнч байдал",
+    "hanja": "恒德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "항력",
+    "translation": "эсэргүүцлийн хүч",
+    "hanja": "抗力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항렬",
+    "translation": "үеийн дараалал",
+    "hanja": "行列",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "항로",
+    "translation": "агаарын зам",
+    "hanja": "航路",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "항만",
+    "translation": "боомт",
+    "hanja": "港灣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항명",
+    "translation": "тушаал зөрчих",
+    "hanja": "抗命",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항명하다",
+    "translation": "үг дуугүй эсэргүүцэх",
+    "hanja": "抗命하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항모",
+    "translation": "нисэх онгоц тээгч хөлөг онгоц",
+    "hanja": "航母",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "항목",
+    "translation": "зүйл, хэсэг",
+    "hanja": "項目",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "항문",
+    "translation": "шулуун гэдэс",
+    "hanja": "肛門",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항미원조",
+    "translation": "Америкт эсэргүүцэн туслах",
+    "hanja": "抗美援朝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "항법",
+    "translation": "навигаци",
+    "hanja": "航法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항변",
+    "translation": "Эсэргүүцэл",
+    "hanja": "抗辯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항변하다",
+    "translation": "эсэргүүцэн маргах",
+    "hanja": "抗辯하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항복",
+    "translation": "бууж өгөх",
+    "hanja": "降伏",
+    "pos": "м.н",
+    "cefr": "B2"
+  },
+  {
+    "word": "항복하다",
+    "translation": "бууж өгөх",
+    "hanja": "降伏하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항상",
+    "translation": "үргэлж",
+    "hanja": "恒常",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "항상성",
+    "translation": "тогтвортой байдал",
+    "hanja": "恒常性",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "항생",
+    "translation": "антибиотик",
+    "hanja": "抗生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항생제",
+    "translation": "Антибиотик",
+    "hanja": "抗生劑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "항성",
+    "translation": "од",
+    "hanja": "恒星",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항세",
+    "translation": "эзэнгүй, гүрэнгүй",
+    "hanja": "抗稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항소",
+    "translation": "давж заалдах",
+    "hanja": "抗訴",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "항소심",
+    "translation": "давж заалдах шатны шүүх",
+    "hanja": "抗訴審",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항소하다",
+    "translation": "давж заалдах",
+    "hanja": "抗訴하다",
+    "pos": "үйл үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "항시",
+    "translation": "ямагт",
+    "hanja": "恒時",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "항아",
+    "translation": "хөмөрч тавьсан сав",
+    "hanja": "缸兒",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "항아리",
+    "translation": "Сав, том ваар",
+    "hanja": "항아리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "항암",
+    "translation": "Хавдрын эсрэг",
+    "hanja": "抗癌",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "항암제",
+    "translation": "хавдрын эсрэг эм",
+    "hanja": "抗癌劑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항염",
+    "translation": "үрэвслийн эсрэг",
+    "hanja": "抗炎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항우연",
+    "translation": "Солонгосын сансар судлалын хүрээлэн",
+    "hanja": "航宇硏",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "항원",
+    "translation": "антиген",
+    "hanja": "抗原",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "항의",
+    "translation": "эсэргүүцэл",
+    "hanja": "抗議",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항의하다",
+    "translation": "эсэргүүцэл илэрхийлэх",
+    "hanja": "抗議하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항재",
+    "translation": "байнга байх",
+    "hanja": "恒在",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항쟁",
+    "translation": "эсэргүүцэн тэмцэх",
+    "hanja": "抗爭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항저우",
+    "translation": "Ханжоу",
+    "hanja": "杭州",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항적",
+    "translation": "Замын мөр, замнал (хөлөг онгоц, онгоцны)",
+    "hanja": "航跡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "항전",
+    "translation": "эсэргүүцэн тулалдах",
+    "hanja": "抗戰",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "항전하다",
+    "translation": "эсэргүүцэн тэмцэх",
+    "hanja": "抗戰하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항정",
+    "translation": "хаанжин (хонины махны нэг төрөл)",
+    "hanja": "項精",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항정신성",
+    "translation": "Сэтгэцэд нөлөөлөх",
+    "hanja": "向精神性",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "항조",
+    "translation": "저항하다, 항거하다",
+    "hanja": "抗조",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항주",
+    "translation": "Ханжоу",
+    "hanja": "杭州",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "항진",
+    "translation": "чангарах",
+    "hanja": "亢進",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "항진되다",
+    "translation": "удирдлагад орох",
+    "hanja": "亢進되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항체",
+    "translation": "Эсрэг биет",
+    "hanja": "抗體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항타기",
+    "translation": "Шон хагалагч",
+    "hanja": "杭打機",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항해",
+    "translation": "Усан онгоцоор явах",
+    "hanja": "航海",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "항해사",
+    "translation": "усан онгоцны жолооч, штурман",
+    "hanja": "航海士",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항해술",
+    "translation": "усан зам",
+    "hanja": "航海術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "항해하다",
+    "translation": "аялах",
+    "hanja": "航海—",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "항행",
+    "translation": "усан онгоцоор явах",
+    "hanja": "航行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "항행하다",
+    "translation": "хөдлөх",
+    "hanja": "航行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  }
+]

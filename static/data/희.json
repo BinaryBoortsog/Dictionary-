@@ -1,0 +1,506 @@
+[
+  {
+    "word": "희",
+    "translation": "хүсэл, баясал",
+    "hanja": "希",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "희경",
+    "translation": "Хигён",
+    "hanja": "熙瓊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "희곡",
+    "translation": "Жүжиг, зохиол",
+    "hanja": "戲曲",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "희관",
+    "translation": "хүслийн титэм",
+    "hanja": "熙冠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희구",
+    "translation": "хүсэн хүлээх",
+    "hanja": "希求",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희구하다",
+    "translation": "хүсэх",
+    "hanja": "希求하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "희귀",
+    "translation": "Ховор",
+    "hanja": "稀貴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희귀종",
+    "translation": "ховор төрөл",
+    "hanja": "稀貴種",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "희귀하다",
+    "translation": "Ховордсон",
+    "hanja": "稀貴하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희극",
+    "translation": "инээдмийн жүжиг",
+    "hanja": "喜劇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희극적",
+    "translation": "инээдмийн",
+    "hanja": "喜劇的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희끄무레하다",
+    "translation": "цайвар, бүдэг цагаан",
+    "hanja": "희끄무레하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "희끗하다",
+    "translation": "сааралтуулж харагдах",
+    "hanja": "희끗하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희끗희끗",
+    "translation": "алаг цоог",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "희끗희끗하다",
+    "translation": "цайвардуу, хэсэг хэсгээр цайвар",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "희년",
+    "translation": "ой",
+    "hanja": "禧年",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희노애락",
+    "translation": "баяр баясгалан, уур хилэн, гуниг",
+    "hanja": "喜怒哀樂",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "희다",
+    "translation": "цагаан",
+    "hanja": "희다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "희도",
+    "translation": "Хи-ду /хүний нэр/",
+    "hanja": "熙道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희두",
+    "translation": "хийду (хүний нэр)",
+    "hanja": "熙斗",
+    "pos": "명사",
+    "cefr": "N/A"
+  },
+  {
+    "word": "희디희다",
+    "translation": "маш цагаан",
+    "hanja": "희디희다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희락",
+    "translation": "баяр баясгалан",
+    "hanja": "喜樂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희랍",
+    "translation": "Грек",
+    "hanja": "希臘",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "희로애락",
+    "translation": "баяр гуниг, уур хилэн",
+    "hanja": "喜怒哀樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희롱",
+    "translation": "тохуу, шоглоом",
+    "hanja": "戲弄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희롱하다",
+    "translation": "доромжлох",
+    "hanja": "戲弄하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희망",
+    "translation": "найдвар",
+    "hanja": "希望",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "희망자",
+    "translation": "хүсэлт гаргагч",
+    "hanja": "希望者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "희망적",
+    "translation": "найдвартай",
+    "hanja": "希望的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "희망차다",
+    "translation": "Итгэл дүүрэн байх",
+    "hanja": "希望차다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희망하다",
+    "translation": "хүсэх",
+    "hanja": "希望하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "희멀겋다",
+    "translation": "цав цагаан",
+    "hanja": "稀멀겋다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희미하다",
+    "translation": "бүдэг, тодорхойгүй",
+    "hanja": "稀微하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "희박하다",
+    "translation": "ховор, нимгэн",
+    "hanja": "稀薄하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희번덕",
+    "translation": "Гялс гялс",
+    "hanja": "희번덕",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희번덕거리다",
+    "translation": "Нүдээ эргэлдүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희부옇다",
+    "translation": "бүүдгэр цагаан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희붐하다",
+    "translation": "бүдэг бадаг байх",
+    "hanja": "희붐하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희비",
+    "translation": "Баяр гуниг",
+    "hanja": "喜悲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희뿌옇다",
+    "translation": "бүдэг, цайвар, бүрхэг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희색",
+    "translation": "баяр баясгалантай өнгө, инээмсэглэл",
+    "hanja": "喜色",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희생",
+    "translation": "золиос",
+    "hanja": "犧牲",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "희생되다",
+    "translation": "Золиослогдох",
+    "hanja": "犧牲되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희생물",
+    "translation": "Хохирогч, золиос",
+    "hanja": "犧牲物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희생시키다",
+    "translation": "золиослох",
+    "hanja": "犧牲시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희생양",
+    "translation": "хохирогч",
+    "hanja": "犧牲羊",
+    "pos": "мüns",
+    "cefr": "B2"
+  },
+  {
+    "word": "희생자",
+    "translation": "хохирогч",
+    "hanja": "犧牲者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희생적",
+    "translation": "өөрийгөө золиослосон",
+    "hanja": "犧牲的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희생정신",
+    "translation": "золиослох сэтгэл",
+    "hanja": "犧牲精神",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희생하다",
+    "translation": "золиослох",
+    "hanja": "희생하다(犧牲하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희석",
+    "translation": "шингэрүүлэх",
+    "hanja": "稀釋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희석되다",
+    "translation": "шингэрэх",
+    "hanja": "稀釋되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희석하다",
+    "translation": "Шингэлэх",
+    "hanja": "稀釋하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희선",
+    "translation": "Хий Сон (хүний нэр)",
+    "hanja": "熙宣",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "희소",
+    "translation": "ховор",
+    "hanja": "稀少",
+    "pos": "Adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "희소성",
+    "translation": "ховор",
+    "hanja": "稀少性",
+    "pos": "сущ",
+    "cefr": "C1"
+  },
+  {
+    "word": "희소식",
+    "translation": "сайхан мэдээ",
+    "hanja": "喜消息",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "희소하다",
+    "translation": "ховор",
+    "hanja": "稀少하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "희수",
+    "translation": "ховор ус",
+    "hanja": "稀水",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "희승",
+    "translation": "хожил",
+    "hanja": "喜勝",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "희열",
+    "translation": "баяр баясгалан, аз жаргал",
+    "hanja": "喜悅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희토류",
+    "translation": "ховор шорооны элемент",
+    "hanja": "稀土類",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "희푸르다",
+    "translation": "цайвар цэнхэр",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희한하다",
+    "translation": "сонин хачин байх",
+    "hanja": "稀罕하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "희화",
+    "translation": "Инээдмийн зураг, шог зураг",
+    "hanja": "戲畫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희화하다",
+    "translation": "шоолох, егөөдөх",
+    "hanja": "戲畫하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "희화화되다",
+    "translation": "Шоглоом болгох, хошин байдлаар дүрслэх",
+    "hanja": "戲畫化되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "희화화하다",
+    "translation": "инээдмийн дүр болгох",
+    "hanja": "戲畫化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희황",
+    "translation": "тод, гэрэлтсэн",
+    "hanja": "曦黃",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희희",
+    "translation": "баяр хөөр",
+    "hanja": "喜喜",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "희희낙락",
+    "translation": "баяр хөөр, баясал",
+    "hanja": "熙熙樂樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희희낙락하다",
+    "translation": "баясаж хөгжилдөх",
+    "hanja": "熙熙樂樂하다",
+    "pos": "동사",
+    "cefr": "C1"
+  }
+]

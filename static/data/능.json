@@ -1,0 +1,254 @@
+[
+  {
+    "word": "능",
+    "translation": "бунхан",
+    "hanja": "陵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능가",
+    "translation": "Даван гарах, давж гарах",
+    "hanja": "凌駕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "능가하다",
+    "translation": "давуулах",
+    "hanja": "陵駕하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능곡",
+    "translation": "Нынгок",
+    "hanja": "陵谷",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "능구렁이",
+    "translation": "Мэхэч хүн",
+    "hanja": "능구렁이",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "능글거리다",
+    "translation": "инээмсэглэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능글능글",
+    "translation": "уян зөөлөн, зөөлөн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "능글능글하다",
+    "translation": "овжин, зальтай",
+    "hanja": "능글능글하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "능글맞다",
+    "translation": "залихай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능동",
+    "translation": "Идэвхтэй, үйлчлэлтэй",
+    "hanja": "能動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "능동적",
+    "translation": "идэвхтэй",
+    "hanja": "能動的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "능동태",
+    "translation": "идэвхтэй дуу хоолой",
+    "hanja": "能動態",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "능란하다",
+    "translation": "гаргууд",
+    "hanja": "能爛하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능력",
+    "translation": "чадвар",
+    "hanja": "能力",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "능력껏",
+    "translation": "чадлаараа",
+    "hanja": "能力껏",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "능률",
+    "translation": "үр ашиг, бүтээмж",
+    "hanja": "能率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능멸",
+    "translation": "Гутаан доромжлох",
+    "hanja": "凌蔑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "능멸하다",
+    "translation": "гутаах, доромжлох",
+    "hanja": "凌蔑하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "능사",
+    "translation": "Чадах зүйл",
+    "hanja": "能事",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "능성어",
+    "translation": "алаг загас",
+    "hanja": "棱性魚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능수능란하다",
+    "translation": "чадварлаг, гарамгай",
+    "hanja": "能手能爛하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "능숙하다",
+    "translation": "чадварлаг байх",
+    "hanja": "能熟-",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "능숙히",
+    "translation": "чадварлаг",
+    "hanja": "能熟히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "능욕",
+    "translation": "гутаан доромжлох, доромжлох",
+    "hanja": "陵辱",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "능욕하다",
+    "translation": "Гутаах, доромжлох, шившиглэх",
+    "hanja": "陵辱하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "능원",
+    "translation": "бунхан ба цэцэрлэгт хүрээлэн",
+    "hanja": "陵園",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능이",
+    "translation": "нүли",
+    "hanja": "능이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능지",
+    "translation": "эрх мэдэл",
+    "hanja": "凌遲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능지처참",
+    "translation": "эрүүдэн шүүх",
+    "hanja": "凌遲處斬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "능청",
+    "translation": "залхуу зан",
+    "hanja": "능청",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "능청맞다",
+    "translation": "хуурамч",
+    "hanja": "弄淸맞다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능청스럽다",
+    "translation": "Мэхлэх, зальхайдах",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능통하다",
+    "translation": "Ур чадвартай",
+    "hanja": "能通하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능하다",
+    "translation": "чадварлаг",
+    "hanja": "能하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "능행",
+    "translation": "хаан сэрүүн явах",
+    "hanja": "陵幸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "능히",
+    "translation": "чадварлаг, чадвартай",
+    "hanja": "能히",
+    "pos": "부사",
+    "cefr": "C1"
+  }
+]

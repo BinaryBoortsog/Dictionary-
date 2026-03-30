@@ -1,0 +1,919 @@
+[
+  {
+    "word": "철",
+    "translation": "төмөр, улирал",
+    "hanja": "鐵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "철가",
+    "translation": "төмөр хайрцаг",
+    "hanja": "鐵架",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철각",
+    "translation": "Төмөр хөл",
+    "hanja": "鐵脚",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "철갑",
+    "translation": "хуягт",
+    "hanja": "鐵甲",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "철강",
+    "translation": "ган, төмөр",
+    "hanja": "鐵鋼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철거",
+    "translation": "буулгах, нураах",
+    "hanja": "撤去",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철거되다",
+    "translation": "буулгах, нураагдах",
+    "hanja": "撤去되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철거민",
+    "translation": "нүүлгэн шилжүүлсэн оршин суугч",
+    "hanja": "撤去民",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철거하다",
+    "translation": "буулгах, нураах",
+    "hanja": "撤去하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철검",
+    "translation": "Төмөр сэлэм",
+    "hanja": "鐵劍",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "철골",
+    "translation": "ган араг яс, төмөр карказ",
+    "hanja": "鐵骨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철공",
+    "translation": "төмөрчин",
+    "hanja": "鐵工",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철공소",
+    "translation": "төмөр хийх газар, дарханы газар",
+    "hanja": "鐵工所",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "철관",
+    "translation": "төмөр хоолой",
+    "hanja": "鐵管",
+    "pos": "NNG",
+    "cefr": "B2"
+  },
+  {
+    "word": "철광",
+    "translation": "төмрийн хүдэр",
+    "hanja": "鐵鑛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철광석",
+    "translation": "төмрийн хүдэр",
+    "hanja": "鐵鑛石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철교",
+    "translation": "төмөр гүүр",
+    "hanja": "鐵橋",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철구",
+    "translation": "Төмөр бөмбөг",
+    "hanja": "鐵球",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철군",
+    "translation": "цэрэг татах",
+    "hanja": "撤軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철군하다",
+    "translation": "цэрэг татах",
+    "hanja": "撤軍하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "철권",
+    "translation": "төмөр нударга",
+    "hanja": "鐵拳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철극",
+    "translation": "төмөр туйл",
+    "hanja": "鐵極",
+    "pos": "명са",
+    "cefr": "B2"
+  },
+  {
+    "word": "철근",
+    "translation": "арматур",
+    "hanja": "鐵筋",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철기",
+    "translation": "төмөр эдлэл, төмрийн эрин үе",
+    "hanja": "鐵器",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "철길",
+    "translation": "төмөр зам",
+    "hanja": "鐵길",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "철나다",
+    "translation": "Ухаан орох, нас бие гүйцэх",
+    "hanja": "철나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철도",
+    "translation": "төмөр зам",
+    "hanja": "鐵道",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "철도망",
+    "translation": "төмөр замын сүлжээ",
+    "hanja": "鐵道網",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "철도역",
+    "translation": "төмөр замын буудал",
+    "hanja": "鐵道驛",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "철두철미",
+    "translation": "Гүйцэд; бүрэн гүйцэд",
+    "hanja": "徹頭徹尾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철두철미하다",
+    "translation": "маш нарийн",
+    "hanja": "徹頭徹尾하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "철들다",
+    "translation": "ухаан орох",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "철딱서니",
+    "translation": "Нас бие гүйцээгүй",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철렁",
+    "translation": "түгшүүртэй",
+    "hanja": "철렁",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철렁거리다",
+    "translation": "дүгрэх, чичирхийлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철렁하다",
+    "translation": "Гэнэт цочих, зүрх шимшрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철령",
+    "translation": "төмөр",
+    "hanja": "철령(鐵嶺)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철로",
+    "translation": "Төмөр зам",
+    "hanja": "鐵路",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "철릭",
+    "translation": "Чоллик",
+    "hanja": "철릭",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "철마",
+    "translation": "철마 (쇠로 된 말)",
+    "hanja": "鐵馬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철망",
+    "translation": "утсан тор",
+    "hanja": "鐵網",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철면피",
+    "translation": "Ичгүүргүй нүүр",
+    "hanja": "鐵面皮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "철모",
+    "translation": "төмөр малгай, дуулга",
+    "hanja": "鐵帽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "철모르다",
+    "translation": "Нас бага, юу ч мэдэхгүй байх",
+    "hanja": "철모르다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철문",
+    "translation": "Төмөр хаалга",
+    "hanja": "鐵門",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "철물",
+    "translation": "Төмөр эдлэл",
+    "hanja": "鐵物",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "철물점",
+    "translation": "төмрийн эдлэлийн дэлгүүр",
+    "hanja": "鐵物店",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "철벅",
+    "translation": "Шаварт шдэх чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철벅거리다",
+    "translation": "шаржигнах",
+    "hanja": "철벅거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철벅철벅",
+    "translation": "Шалба шалба",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "철벽",
+    "translation": "төмөр хана",
+    "hanja": "鐵壁",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "철봉",
+    "translation": "төмөр саваа, босоо төмөр",
+    "hanja": "鐵棒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철부지",
+    "translation": "Хүүхэд шиг хүн",
+    "hanja": "철부지",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철분",
+    "translation": "төмөр (бие дэх)",
+    "hanja": "鐵分",
+    "pos": "н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "철사",
+    "translation": "төмөр утас",
+    "hanja": "鐵絲",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "철산",
+    "translation": "철산",
+    "hanja": "鐵山",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철새",
+    "translation": "нүүдэлчин шувуу",
+    "hanja": "候鳥",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "철선",
+    "translation": "төмөр утас",
+    "hanja": "鐵線",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철성",
+    "translation": "төмөр цайз",
+    "hanja": "鐵城",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "철수",
+    "translation": "татаж авах, ухрах",
+    "hanja": "撤收",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철수되다",
+    "translation": "татгалзах, ухрах",
+    "hanja": "撤收되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "철수시키다",
+    "translation": "татгалзах",
+    "hanja": "撤收시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철수하다",
+    "translation": "татагдах",
+    "hanja": "撤收하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철시",
+    "translation": "хаагдах, зогсоох",
+    "hanja": "撤市",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철심",
+    "translation": "төмөр гол",
+    "hanja": "鐵心",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철썩",
+    "translation": "хусаад",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "철썩거리다",
+    "translation": "Халхлах, тас хийх",
+    "hanja": "철썩거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철썩철썩",
+    "translation": "тархи, балбах чимээ",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "철야",
+    "translation": "шөнөжингөө",
+    "hanja": "徹夜",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철야하다",
+    "translation": "шөнөжин ажиллах",
+    "hanja": "徹夜하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철없다",
+    "translation": "Хүүхдээрээ",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철없이",
+    "translation": "ухаангүй, тэнэгээр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철옹",
+    "translation": "хүчирхэг батлан ​​хамгаалах",
+    "hanja": "鐵甕",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "철옹성",
+    "translation": "төмөр бэхлэлт",
+    "hanja": "鐵甕城",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철완",
+    "translation": "төмөр гарт, бат бөх",
+    "hanja": "鐵腕",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "철우",
+    "translation": "төмөр үхэр",
+    "hanja": "鐵牛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철원",
+    "translation": "Чоронь",
+    "hanja": "鐵原",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "철원군",
+    "translation": "Чороны муж (Солонгос)",
+    "hanja": "鐵原郡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "철인",
+    "translation": "ган хүн",
+    "hanja": "鐵人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철자",
+    "translation": "үсэг, үсгийн дүрэм",
+    "hanja": "綴字",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "철자법",
+    "translation": "үсгийн дүрэм, зөв бичих дүрэм",
+    "hanja": "綴字法",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "철장",
+    "translation": "төмөр тор",
+    "hanja": "鐵窓",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "철재",
+    "translation": "төмөр материал",
+    "hanja": "鐵材",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철저",
+    "translation": "үндсээр, сайтар",
+    "hanja": "徹底",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철저하다",
+    "translation": "гүн гүнзгий",
+    "hanja": "徹底─",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철저히",
+    "translation": "нарийн, гүн гүнзгий",
+    "hanja": "徹底히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철제",
+    "translation": "төмөр эдлэл",
+    "hanja": "鐵製",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철조망",
+    "translation": "угай",
+    "hanja": "鐵條網",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철종",
+    "translation": "Чолжон (солонгосын эзэн хаан)",
+    "hanja": "哲宗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철주",
+    "translation": "төмөр багана",
+    "hanja": "鐵柱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철진",
+    "translation": "Төмөр жин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철쭉",
+    "translation": "тусгайлсан цэцэг (Rhododendron mucronulatum)",
+    "hanja": "철쭉",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "철창",
+    "translation": "төмөр тор",
+    "hanja": "鐵窓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철창신세",
+    "translation": "шоронгийн амьдрал",
+    "hanja": "鐵窓身世",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철책",
+    "translation": "төмөр хашаа, тор",
+    "hanja": "鐵柵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철천지원수",
+    "translation": "үхэн үхтэл өстөн, үхэн үхтэл дайсан",
+    "hanja": "徹天之怨讐",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "철철",
+    "translation": "урсан урсаж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철칙",
+    "translation": "үүрдийн дүрэм",
+    "hanja": "鐵則",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철침",
+    "translation": "төмөр зүү",
+    "hanja": "鐵針",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철커덕",
+    "translation": "тачигнах (хаалганы түгжээ)",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철커덩",
+    "translation": "тачигнах дуу",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철컥",
+    "translation": "чангинах, тасхийх",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철컥거리다",
+    "translation": "Төмөр дуугарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철컥철컥",
+    "translation": "чахрах чимээ",
+    "hanja": "철컥철컥",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "철컥하다",
+    "translation": "түгжих чимээ гарах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "철컹",
+    "translation": "дүнгэнэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "철컹거리다",
+    "translation": "чангинах чимээ гаргах",
+    "hanja": "철컹거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철컹철컹",
+    "translation": "чимээ гарган хөдлөх",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철탑",
+    "translation": "төмөр цамхаг",
+    "hanja": "鐵塔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철통",
+    "translation": "Төмөр хувин",
+    "hanja": "鐵桶",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "철통같다",
+    "translation": "төмөр шиг бат бөх",
+    "hanja": "鐵통같다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철퇴",
+    "translation": "төмөр алх (эртний зэвсэг)",
+    "hanja": "鐵槌",
+    "pos": "н.",
+    "cefr": "null"
+  },
+  {
+    "word": "철판",
+    "translation": "төмөр хавтан",
+    "hanja": "鐵板",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철퍼덕",
+    "translation": "тас хийх дуу",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철퍽",
+    "translation": "будагнахад гарах дуу (дуурайх үг)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철퍽철퍽",
+    "translation": "Шажиг, чийглэг дуутай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철폐",
+    "translation": "устгах, цуцлах",
+    "hanja": "撤廢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철폐되다",
+    "translation": "цуцлагдах",
+    "hanja": "撤廢되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "철폐하다",
+    "translation": "устгах, хориглох",
+    "hanja": "撤廢--",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "철필",
+    "translation": "металл үзэг",
+    "hanja": "鐵筆",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철하다",
+    "translation": "төгсгөх, дуусгах",
+    "hanja": "撤하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철학",
+    "translation": "философи",
+    "hanja": "哲學",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "철학가",
+    "translation": "философч",
+    "hanja": "哲學家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철학자",
+    "translation": "гүн ухаантан",
+    "hanja": "哲學者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "철학적",
+    "translation": "философийн",
+    "hanja": "哲學的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철현",
+    "translation": "Чолхён",
+    "hanja": "哲賢",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철혈",
+    "translation": "төмөр цус",
+    "hanja": "鐵血",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철회",
+    "translation": "татгалзах, буцаах",
+    "hanja": "撤回",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철회되다",
+    "translation": "Татагдах, цуцлагдах",
+    "hanja": "撤回되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철회하다",
+    "translation": "буцаах",
+    "hanja": "撤回하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철후",
+    "translation": "Төмрийн дараах, төмөр дараах",
+    "hanja": "鐵後",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

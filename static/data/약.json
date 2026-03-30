@@ -1,0 +1,611 @@
+[
+  {
+    "word": "약",
+    "translation": "эм",
+    "hanja": "藥",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "약가",
+    "translation": "эмийн үнэ",
+    "hanja": "藥價",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "약간",
+    "translation": "бага зэрэг",
+    "hanja": "若干",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "약골",
+    "translation": "Сул дорой биетэй хүн",
+    "hanja": "弱骨",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "약과",
+    "translation": "үхрийн махиа",
+    "hanja": "약과",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약관",
+    "translation": "нөхцөл, болзол",
+    "hanja": "約款",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "약국",
+    "translation": "эмийн сан",
+    "hanja": "藥局",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "약다",
+    "translation": "хуурамч",
+    "hanja": "약다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "약도",
+    "translation": "тойм зураг",
+    "hanja": "略圖",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "약동하다",
+    "translation": "тэмүүлэх",
+    "hanja": "躍動하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "약력",
+    "translation": "Товч намтар",
+    "hanja": "略歷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약물",
+    "translation": "Эм",
+    "hanja": "藥物",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "약물치료",
+    "translation": "эмийн эмчилгээ",
+    "hanja": "藥物治療",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약발",
+    "translation": "эмийн үйлчилгээ",
+    "hanja": "약발",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약밥",
+    "translation": "Амтат будаа",
+    "hanja": "藥飯",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "약방",
+    "translation": "эмийн сан",
+    "hanja": "藥房",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "약병",
+    "translation": "эмийн сав",
+    "hanja": "약병(藥甁)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "약분하다",
+    "translation": "хураах",
+    "hanja": "約分하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "약빨다",
+    "translation": "мансууруулах бодис хэрэглэх",
+    "hanja": "藥빨다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약사",
+    "translation": "эм зүйч",
+    "hanja": "藥師",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "약사발",
+    "translation": "Эмийн аяга",
+    "hanja": "藥사발",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "약삭빠르다",
+    "translation": "хурдан сэргэлэн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약산",
+    "translation": "сул хүчил",
+    "hanja": "弱酸",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "약산성",
+    "translation": "сул хүчиллэг",
+    "hanja": " yaksanseong",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "약선",
+    "translation": "эмчилгээний хоол",
+    "hanja": "藥膳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약성",
+    "translation": "Эмийн чанар",
+    "hanja": "藥性",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "약세",
+    "translation": "сул тал",
+    "hanja": "弱勢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "약소국",
+    "translation": "буурай орон",
+    "hanja": "弱小國",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "약소하다",
+    "translation": "бага",
+    "hanja": "約少하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "약속",
+    "translation": "Амлалт, болзоо",
+    "hanja": "約束",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "약속되다",
+    "translation": "амлагдсан",
+    "hanja": "約束되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "약속하다",
+    "translation": "амлах, болзох",
+    "hanja": "約束하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "약손",
+    "translation": "ид шидийн гар",
+    "hanja": "藥손",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약수",
+    "translation": "Эмчилгээний ус",
+    "hanja": "薬水",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "약수터",
+    "translation": "Эмчилгээний эх сурвалж",
+    "hanja": "藥水터",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "약술",
+    "translation": "товч тайлбар",
+    "hanja": "略述",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "약시",
+    "translation": "Муу хараатай, нүдний сул хараа",
+    "hanja": "弱視",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "약식",
+    "translation": "Товчлох",
+    "hanja": "略式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약실",
+    "translation": "сумны камер",
+    "hanja": "藥室",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "약아빠지다",
+    "translation": "зальжин",
+    "hanja": "약아빠지다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "약어",
+    "translation": "Товчлол",
+    "hanja": "略語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "약왕",
+    "translation": "эмийн хаан",
+    "hanja": "藥王",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "약용",
+    "translation": "эмийн зориулалттай",
+    "hanja": "藥用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "약육강식",
+    "translation": "хүчтэй нь хүчгүйгээ барьж идэх",
+    "hanja": "弱肉強食",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "약이",
+    "translation": "эмийн үр нөлөө",
+    "hanja": "藥餌",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "약자",
+    "translation": "товчлол; сул дорой хүн",
+    "hanja": "略字; 弱者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "약장",
+    "translation": "эмийн шүүгээ",
+    "hanja": "藥欌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "약장수",
+    "translation": "эмийн худалдаачин",
+    "hanja": "藥장수",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약재",
+    "translation": "Эм, эмийн түүхий эд",
+    "hanja": "藥材",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "약전",
+    "translation": "Эм зүй",
+    "hanja": "藥典",
+    "pos": "Нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "약점",
+    "translation": "эмзэг цэг",
+    "hanja": "弱點",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "약정",
+    "translation": "гэрээ, амлалт",
+    "hanja": "約定",
+    "pos": "м",
+    "cefr": "C1"
+  },
+  {
+    "word": "약정서",
+    "translation": "гэрээ, баталгаа",
+    "hanja": "約定書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "약정하다",
+    "translation": "гэрээ хийх, тохиролцох",
+    "hanja": "約定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약제",
+    "translation": "эм бэлдмэл",
+    "hanja": "藥劑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "약조",
+    "translation": "амлалт",
+    "hanja": "約條",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약조하다",
+    "translation": "амлах, гэрээ байгуулах",
+    "hanja": "約條하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "약주",
+    "translation": "жороор хийсэн архи",
+    "hanja": "藥酒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약진",
+    "translation": "хурдацтай урагшлах, үсрэнгүй хөгжил",
+    "hanja": "躍進",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "약진하다",
+    "translation": "давшилт хийх, урагшлах",
+    "hanja": "躍進하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "약차",
+    "translation": "Ургамлын цай, эмчилгээний цай",
+    "hanja": "藥茶",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "약첩",
+    "translation": "Эмийн жор, эмийн багц",
+    "hanja": "藥帖",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "약체",
+    "translation": "сул биетэй, сул тал",
+    "hanja": "弱體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약초",
+    "translation": "эмийн ургамал",
+    "hanja": "藥草",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "약충",
+    "translation": "шавьж",
+    "hanja": "若蟲",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "약취",
+    "translation": "хулгайлах, булаах",
+    "hanja": "略取",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "약침",
+    "translation": "Эмийн тариа, эмийн зүү тариа",
+    "hanja": "藥針",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "약칭",
+    "translation": "Товчлол",
+    "hanja": "略稱",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "약탈",
+    "translation": "дээрэмдэх",
+    "hanja": "掠奪",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "약탈당하다",
+    "translation": "дээрэмдүүлэх, тонуулах",
+    "hanja": "掠奪當하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "약탈되다",
+    "translation": "дээрэмдэгдэх",
+    "hanja": "掠奪되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "약탈하다",
+    "translation": "дээрэмдэх",
+    "hanja": "掠奪하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약통",
+    "translation": "эмний сав",
+    "hanja": "藥筒",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "약품",
+    "translation": "эм, эм бэлдмэл",
+    "hanja": "藥品",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "약하다",
+    "translation": "сул",
+    "hanja": "弱하다",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "약하디약하다",
+    "translation": "маш сул, дэндүү сул",
+    "hanja": "弱弱하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "약학",
+    "translation": "эм зүй",
+    "hanja": "藥學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약혼",
+    "translation": "сүй тавих",
+    "hanja": "約婚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "약혼녀",
+    "translation": "Сүйт бүсгүй",
+    "hanja": "約婚女",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "약혼식",
+    "translation": "сүй тавих ёслол",
+    "hanja": "約婚式",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "약혼자",
+    "translation": "Сүйт залуу (эмэгтэй)",
+    "hanja": "約婚者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "약혼하다",
+    "translation": "сүй тавих",
+    "hanja": "約婚하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "약화",
+    "translation": "Сулардаг",
+    "hanja": "弱化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약화되다",
+    "translation": "сулрах, муудах",
+    "hanja": "弱化되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "약화시키다",
+    "translation": "сулруулах",
+    "hanja": "弱化----",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "약화하다",
+    "translation": "Судасдах",
+    "hanja": "弱化하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "약효",
+    "translation": "эмийн үйлчлэл",
+    "hanja": "藥效",
+    "pos": "Noun",
+    "cefr": "C1"
+  }
+]

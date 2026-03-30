@@ -1,0 +1,779 @@
+[
+  {
+    "word": "태",
+    "translation": "Төрх, байдал",
+    "hanja": "態",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태감",
+    "translation": "태감 (중국 관직)",
+    "hanja": "太監",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태강",
+    "translation": "төмөр ган",
+    "hanja": "太鋼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태거",
+    "translation": "таггер (граффити зураач)",
+    "hanja": "태거",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태곳적",
+    "translation": "эрт дээр үеийн",
+    "hanja": "太古적",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태공",
+    "translation": "насны хижээл хүн, өтөл хүн",
+    "hanja": "太公",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태교",
+    "translation": "Жирэмсний боловсрол",
+    "hanja": "胎敎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태교하다",
+    "translation": "ургийн хүмүүжил хийх",
+    "hanja": "胎敎하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태구",
+    "translation": "Бүрэнхий",
+    "hanja": "太古",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태국",
+    "translation": "Тайланд",
+    "hanja": "泰國",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "태권",
+    "translation": "таэквон",
+    "hanja": "跆拳",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태권도",
+    "translation": "Тэквондо",
+    "hanja": "跆拳道",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "태그",
+    "translation": "хаяг",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "태극",
+    "translation": "Тэгук",
+    "hanja": "太極",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태극기",
+    "translation": "Өмнөд Солонгосын туг",
+    "hanja": "太極旗",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "태금",
+    "translation": "тай чин",
+    "hanja": "胎琴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "태깅",
+    "translation": "Тэг хийх",
+    "hanja": "태깅",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "태껸",
+    "translation": "Тэкгён (Солонгосын тулааны урлаг)",
+    "hanja": "택견",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "태나다",
+    "translation": "төрөх",
+    "hanja": "태나다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "태내",
+    "translation": "умайн дотор",
+    "hanja": "胎內",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "태닝",
+    "translation": "арьс борлуулах",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "태닝하다",
+    "translation": "нарших, борлох",
+    "hanja": "Q",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태다",
+    "translation": "түймэрдэх, шатаах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태도",
+    "translation": "хандлага",
+    "hanja": "態度",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "태동",
+    "translation": "ургийн хөдөлгөөн",
+    "hanja": "胎動",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "태동하다",
+    "translation": "эхлэх, үүсэх",
+    "hanja": "胎動하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태릉",
+    "translation": "Тэрын (Солонгос дахь газар нэр)",
+    "hanja": "泰陵",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "태만",
+    "translation": "хайнга, үл тоомсорлох",
+    "hanja": "怠慢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태만하다",
+    "translation": "хайнга, үл тоомсорлох",
+    "hanja": "怠慢하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태만히",
+    "translation": "үл тоомсорлон, үл хайхран",
+    "hanja": "怠慢히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태명",
+    "translation": "ураг нэр",
+    "hanja": "胎名",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태몽",
+    "translation": "Зүүдний бэлгэдэл",
+    "hanja": "胎夢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태무",
+    "translation": "нарны туяагүйгээр",
+    "hanja": "太霧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태미",
+    "translation": "Тамми",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "태반",
+    "translation": "ихэнх",
+    "hanja": "胎盤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태백",
+    "translation": "Тэбэк (газарзүйн нэр)",
+    "hanja": "太白",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태백산맥",
+    "translation": "Тэбэк уулын нуруу",
+    "hanja": "太白山脈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태보",
+    "translation": "тхэбо (дасгал)",
+    "hanja": "跆步",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태봉",
+    "translation": "Тэбонг (нэр)",
+    "hanja": "胎峯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "태브",
+    "translation": "таб",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태블릿",
+    "translation": "таблет",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "태비",
+    "translation": "даавуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태사",
+    "translation": "их багш",
+    "hanja": "太師",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "태산",
+    "translation": "Тайшан уул",
+    "hanja": "泰山",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태생",
+    "translation": "төрөлх, уугуул",
+    "hanja": "胎生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태석",
+    "translation": "Тхэсок (хүний нэр)",
+    "hanja": "泰碩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태선",
+    "translation": "lichen, ургамлын өвчин",
+    "hanja": "苔癬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태세",
+    "translation": "Байдал",
+    "hanja": "態勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태수",
+    "translation": "аймгийн дарга",
+    "hanja": "太守",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태스크",
+    "translation": "даалгавар",
+    "hanja": "task",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태스킹",
+    "translation": "даалгавар гүйцэтгэх",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태슬",
+    "translation": "сойз, багс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태시",
+    "translation": "таши",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태식",
+    "translation": "умай доторх амьсгал",
+    "hanja": "胎息",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "태실",
+    "translation": "ихсийн шарил",
+    "hanja": "胎室",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "태아",
+    "translation": "Ураг",
+    "hanja": "胎兒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태안",
+    "translation": "Тэ-ан (газарзүйн нэр)",
+    "hanja": "泰安",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "태양",
+    "translation": "нар",
+    "hanja": "太陽",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "태양계",
+    "translation": "нарны аймаг",
+    "hanja": "太陽系",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태양력",
+    "translation": "нарны тоолол",
+    "hanja": "太陽曆",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "태양빛",
+    "translation": "нарны гэрэл",
+    "hanja": "太陽빛",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "태양열",
+    "translation": "нарны энерги",
+    "hanja": "太陽熱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태양초",
+    "translation": "Нарны гэрэлд хатаасан чинжүү",
+    "hanja": "太陽椒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태어나다",
+    "translation": "төрөх",
+    "hanja": "泰어나다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "태업",
+    "translation": "Ажил хаях, ажил удаашруулах",
+    "hanja": "怠業",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태연스럽다",
+    "translation": "тайван байх",
+    "hanja": "泰然스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태연스레",
+    "translation": "тайвнаар, амар амгалангаар",
+    "hanja": "泰然스레",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태연자약하다",
+    "translation": "тайван, өөртөө итгэлтэй",
+    "hanja": "泰然自若하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태연하다",
+    "translation": "Тайван",
+    "hanja": "泰然하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "태연히",
+    "translation": "тайвнаар",
+    "hanja": "泰然히",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "태열",
+    "translation": "Нялхсын тууралт",
+    "hanja": "胎熱",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "태엽",
+    "translation": "цагийн спираль",
+    "hanja": "태엽",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "태옥",
+    "translation": "хүүхдийн шээс",
+    "hanja": "胎尿",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "태왕",
+    "translation": "Их хаан",
+    "hanja": "太王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태우다",
+    "translation": "Шатаах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "태운",
+    "translation": "Шатаасан",
+    "hanja": "태운",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "태위",
+    "translation": "Эхийн хэвлий дэх ургийн байрлал",
+    "hanja": "胎位",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "태을",
+    "translation": "тайхуй",
+    "hanja": "太乙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "태음력",
+    "translation": "Сарны тоолол",
+    "hanja": "太陰曆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태의",
+    "translation": "хөврөлийн мембран",
+    "hanja": "胎衣",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "태일",
+    "translation": "Тэил (хүний нэр)",
+    "hanja": "泰一",
+    "pos": "null",
+    "cefr": "null"
+  },
+  {
+    "word": "태자",
+    "translation": "хунтайж",
+    "hanja": "太子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태장",
+    "translation": "хүүхдийн төрөлт",
+    "hanja": "胎藏",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "태전",
+    "translation": "Тэжон",
+    "hanja": "太田",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "태정",
+    "translation": "Тэжүн (хааны нэр)",
+    "hanja": "太政",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태제",
+    "translation": "Хамгийн их хэмжээний онол",
+    "hanja": "大題",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "태조",
+    "translation": "үүсгэн байгуулагч эзэн хаан",
+    "hanja": "太祖",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "태종",
+    "translation": "Тэжонг (хааны нэр)",
+    "hanja": "太宗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태주",
+    "translation": "Тэжү",
+    "hanja": "태주",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "태중",
+    "translation": "ураг",
+    "hanja": "胎中",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태즈메이니아",
+    "translation": "Тасмани",
+    "hanja": "Tasmania",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태천",
+    "translation": "Тэтгэмж",
+    "hanja": "太川",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태초",
+    "translation": "эхлэл",
+    "hanja": "太初",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태클",
+    "translation": "Тэклдэх (спорт)",
+    "hanja": "태클",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태클하다",
+    "translation": "таеклдах",
+    "hanja": null,
+    "pos": "VV",
+    "cefr": "B2"
+  },
+  {
+    "word": "태킹",
+    "translation": "Тэмдэглэгээ, шошго",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "태토",
+    "translation": "шаврын түүхий эд",
+    "hanja": "胎土",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "태평",
+    "translation": "амар амгалан, тайван",
+    "hanja": "太平",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태평가",
+    "translation": "энх тайвны дуу",
+    "hanja": "太平歌",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "태평성대",
+    "translation": "Амар амгалан цаг",
+    "hanja": "泰平聖代",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태평소",
+    "translation": "тхэпёнсо (солонгосын хөгжмийн зэмсэг)",
+    "hanja": "太平簫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태평스럽다",
+    "translation": "тайван, хайхрамжгүй байх",
+    "hanja": "太平스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "태평양",
+    "translation": "Номхон далай",
+    "hanja": "太平洋",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태풍",
+    "translation": "далайн шуурга",
+    "hanja": "颱風",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "태프트",
+    "translation": "Тафт (нэр)",
+    "hanja": "태프트",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태피",
+    "translation": "таффи",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태피스트리",
+    "translation": "ханын хивс, тапистри",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "태학",
+    "translation": "их сургууль, академи",
+    "hanja": "太學",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "태화",
+    "translation": "мөхөх, доройтох",
+    "hanja": "頹化",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "태황",
+    "translation": "гайхамшигтай байх",
+    "hanja": "泰皇",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "태후",
+    "translation": "хатан эх",
+    "hanja": "太后",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

@@ -1,0 +1,1668 @@
+[
+  {
+    "word": "포",
+    "translation": "буугаар эсвэл их буугаар харвах",
+    "hanja": "砲",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포개다",
+    "translation": "давхарлах",
+    "hanja": "포개다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포격",
+    "translation": "буудлага",
+    "hanja": "砲擊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포격하다",
+    "translation": "бөмбөгдөлтийн гал нээх",
+    "hanja": "砲擊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포경",
+    "translation": "далайн гахай агнах",
+    "hanja": "捕鯨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포계",
+    "translation": "тооны систем",
+    "hanja": "包繫",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포고",
+    "translation": "зарлах",
+    "hanja": "布告",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포괄적",
+    "translation": "нэгдсэн",
+    "hanja": "包括的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "포괄하다",
+    "translation": "багтаах, хамруулах",
+    "hanja": "包括하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포교",
+    "translation": "шашин сурталчлах",
+    "hanja": "布教",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포교하다",
+    "translation": "шашин дэлгэрүүлэх",
+    "hanja": "布教하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포구",
+    "translation": "бууны ам",
+    "hanja": "砲口",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포그",
+    "translation": "манан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포근포근",
+    "translation": "зөөлөн, тав тухтай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포근포근하다",
+    "translation": "зөөлөн, тав тухтай",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포근하다",
+    "translation": "дулаахан",
+    "hanja": "포근하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "포근히",
+    "translation": "дулаахан",
+    "hanja": "포근히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포기되다",
+    "translation": "Орхигдох",
+    "hanja": "抛棄-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포기하다",
+    "translation": "бууж өгөх, орхих",
+    "hanja": "抛棄하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포노",
+    "translation": "фоно",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포니",
+    "translation": "Пони",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포니테일",
+    "translation": "сүүлэнцэг, боосон үс",
+    "hanja": "pó-ní-tè-il",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포다",
+    "translation": "Бүрхэх, тавих",
+    "hanja": "",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "포닥",
+    "translation": "царцах дуу (мөс, давс)",
+    "hanja": "포닥",
+    "pos": "Adverb",
+    "cefr": "C2"
+  },
+  {
+    "word": "포단",
+    "translation": "хөнжил",
+    "hanja": "鋪團",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포대",
+    "translation": "шуудай",
+    "hanja": "布袋",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포도",
+    "translation": "усан үзэм",
+    "hanja": "葡萄",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "포도당",
+    "translation": "глюкоз, усан үзмийн сахар",
+    "hanja": "葡萄糖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포도밭",
+    "translation": "Усан үзмийн талбай",
+    "hanja": "葡萄밭",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포도주",
+    "translation": "дарс",
+    "hanja": "葡萄酒",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "포동",
+    "translation": "бөөрөнхий, мяраалаг",
+    "hanja": "胞童",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "포동포동",
+    "translation": "бөөрөнхий, мяраалаг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포동포동하다",
+    "translation": "бөөрөнхий, мяраалаг",
+    "hanja": "포동포동하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "포드",
+    "translation": "Ford",
+    "hanja": "Ford",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포드고리차",
+    "translation": "Подгорица",
+    "hanja": "Podgorica",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포디엄",
+    "translation": "индэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포럼",
+    "translation": "форум",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포레",
+    "translation": "Форе",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포레스트",
+    "translation": "Ой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포렴",
+    "translation": "бөс даавуу",
+    "hanja": "布簾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포로",
+    "translation": "хоригдол",
+    "hanja": "捕虜",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포로되다",
+    "translation": "олзлогдох",
+    "hanja": "捕虜--",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "포르",
+    "translation": "Португал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포르노",
+    "translation": "порно",
+    "hanja": "Porno",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포르노그래피",
+    "translation": "Порнографи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포르르",
+    "translation": "шувууны жигүүрийн дуу",
+    "hanja": "포르르",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포르말린",
+    "translation": "формалин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포르타",
+    "translation": "Порта",
+    "hanja": "Porta",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포르테",
+    "translation": "форте (хөгжмийн нэр томъёо)",
+    "hanja": "forte",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포르토프랭스",
+    "translation": "Порт-о-Пренс",
+    "hanja": "포르토프랭스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포르투갈",
+    "translation": "Португал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "포르투갈어",
+    "translation": "Португал хэл",
+    "hanja": "포르투갈語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포름알데히드",
+    "translation": "Формальдегид",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포리",
+    "translation": "бороо",
+    "hanja": "포리",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "포린트",
+    "translation": "форинт (Унгарын мөнгөн тэмдэгт)",
+    "hanja": "포린트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포마드",
+    "translation": "помад",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "포만감",
+    "translation": "цадсан мэдрэмж",
+    "hanja": "飽滿感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포말",
+    "translation": "хөөс",
+    "hanja": "泡沫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포매",
+    "translation": "Сав баглаа боодол",
+    "hanja": "包埋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포맷",
+    "translation": "формат",
+    "hanja": "format",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "포머",
+    "translation": "үс засах багаж, үс хэлбэржүүлэгч",
+    "hanja": "former",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포메라니안",
+    "translation": "померан нохой",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "포메이션",
+    "translation": "бүрэлдэхүүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포모",
+    "translation": "FOMO (Устгагдах вий гэж айх)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포목",
+    "translation": "бөс бараа",
+    "hanja": "布木",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "포목상",
+    "translation": "даавууны дэлгүүр",
+    "hanja": "布木商",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포문",
+    "translation": "бууны ам",
+    "hanja": "砲門",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포물선",
+    "translation": "парабол",
+    "hanja": "抛物線",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포뮬라",
+    "translation": "томъёо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포미",
+    "translation": "Фори (Вьетнамын гоймонтой шөл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "포밍",
+    "translation": "хөөсрүүлэлт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포박",
+    "translation": "хүлчих",
+    "hanja": "捕縛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포박당하다",
+    "translation": "баривчлагдах",
+    "hanja": "捕縛당하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포박되다",
+    "translation": "баривчлагдах",
+    "hanja": "捕縛되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포박하다",
+    "translation": "Баривчлах, боох",
+    "hanja": "捕縛하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "포백",
+    "translation": "бөс бараа",
+    "hanja": "布帛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포병",
+    "translation": "их бууч",
+    "hanja": "砲兵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포보스",
+    "translation": "Фобос (гаргийн дагуул)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포복",
+    "translation": "хэвлийгээр мөлхөх",
+    "hanja": "匍匐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포복하다",
+    "translation": "мөлхөх",
+    "hanja": "匍匐하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포부",
+    "translation": "Эрмэлзэл",
+    "hanja": "抱負",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포브스",
+    "translation": "Форбс",
+    "hanja": "포브스",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "포비",
+    "translation": "Поби",
+    "hanja": "Poby",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "포비아",
+    "translation": "фобиа, айдас",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포사",
+    "translation": "Поса (хүн)",
+    "hanja": "褒姒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포상",
+    "translation": "шагнал урамшуулал",
+    "hanja": "褒賞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포상금",
+    "translation": "Шагнал, урамшуулал",
+    "hanja": "報償金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포상하다",
+    "translation": "шагнах",
+    "hanja": "褒賞하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포샵",
+    "translation": "Фотошоп (зураг засварлах программ)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포석",
+    "translation": "хууран мэхлэлт",
+    "hanja": "布石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포석정",
+    "translation": "По석정 (Шиллагийн хаадын зугаацах газар)",
+    "hanja": "鮑石亭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포섬",
+    "translation": "форсом",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포섭",
+    "translation": "байлдан дагуулалт, элсүүлэх",
+    "hanja": "包攝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포섭되다",
+    "translation": "орох, элсэх",
+    "hanja": "包攝되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "포섭하다",
+    "translation": "татан оролцуулах, уруу татах",
+    "hanja": "包攝하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포성",
+    "translation": "их бууны дуу",
+    "hanja": "砲聲",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포세이돈",
+    "translation": "Посейдон",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포수",
+    "translation": "бейсболын баригч",
+    "hanja": "捕手",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포쉬",
+    "translation": "тансаг",
+    "hanja": "포쉬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포스",
+    "translation": "хүч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포스터",
+    "translation": "зурагт хуудас",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포스트",
+    "translation": "пост, бичлэг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포스트모더니즘",
+    "translation": "постмодернизм",
+    "hanja": "포스트모더니즘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포스트휴먼",
+    "translation": "постхьюман",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포스팅하다",
+    "translation": "Нийтлэх, оруулах (인터넷)",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포스핀",
+    "translation": "фосфин",
+    "hanja": "Phosphine",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포슬거리다",
+    "translation": "жишим, мөлхөх",
+    "hanja": "NaN",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "포슬포슬",
+    "translation": "Хөвсгөр, зөөлөн, хөнгөн (бороо, цас, амттан гэх мэт)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포슬포슬하다",
+    "translation": "зөөлөн, сэвсгэр",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "포승",
+    "translation": "олсоор уях",
+    "hanja": "捕繩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포승줄",
+    "translation": "Олс (барьцаалах зориулалттай)",
+    "hanja": "捕繩줄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포시",
+    "translation": "хүндэтгэн үзэх",
+    "hanja": "佈施",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포식",
+    "translation": "Цадах, ханах",
+    "hanja": "飽食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포식하다",
+    "translation": "цадтал идэх",
+    "hanja": "飽食하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포신",
+    "translation": "бууны хоолой",
+    "hanja": "砲身",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포실포실",
+    "translation": "Хөвсгөр, зөөлөн",
+    "hanja": "포실포실",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포실포실하다",
+    "translation": "Зөөлөн, сэвсгэр (хоолны)",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포악",
+    "translation": "харгис, догшин",
+    "hanja": "暴惡",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "포악하다",
+    "translation": "харгис хэрцгий, догшин ширүүн",
+    "hanja": "暴惡하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포어",
+    "translation": "үгсийн сан",
+    "hanja": "語彙",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "포엠",
+    "translation": "найраглал, шүлэг",
+    "hanja": "포엠",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포연",
+    "translation": "их бууны утаа",
+    "hanja": "砲煙",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포옥",
+    "translation": "Бүрэн, гүн гүнзгий",
+    "hanja": "포옥",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포옹",
+    "translation": "тэврэх",
+    "hanja": "抱擁",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포옹하다",
+    "translation": "Тэврэх",
+    "hanja": "抱擁하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포와",
+    "translation": "хашгирах",
+    "hanja": "咆哮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포용",
+    "translation": "хүлцэн тэвчих",
+    "hanja": "包容",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포용력",
+    "translation": "Хүлцэн тэвчих чадвар",
+    "hanja": "包容力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포용성",
+    "translation": "бүхнийг багтаах чанар",
+    "hanja": "包容性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포용하다",
+    "translation": "багтаах",
+    "hanja": "包容하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "포워드",
+    "translation": "форвард, урагш",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포워딩",
+    "translation": "дамжуулалт",
+    "hanja": "포워딩",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포위",
+    "translation": "бүслэх",
+    "hanja": "包圍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포위되다",
+    "translation": "бүслэгдэх",
+    "hanja": "包圍되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "포위망",
+    "translation": "бүслэлт",
+    "hanja": "包圍網",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포위하다",
+    "translation": "бүслэх",
+    "hanja": "包圍하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포유",
+    "translation": "сүүгээр тэжээх",
+    "hanja": "哺乳",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포유류",
+    "translation": "хөхтөн амьтан",
+    "hanja": "哺乳類",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포이",
+    "translation": "Пои",
+    "hanja": "포이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포이즈",
+    "translation": "пойз (нэгж)",
+    "hanja": "poise",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포인세티아",
+    "translation": "пойнсеттиа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포인터",
+    "translation": "заагч, үзүүлэгч",
+    "hanja": "pointer",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포인트",
+    "translation": "оноо, цэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포인팅",
+    "translation": "заах",
+    "hanja": "pointing",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포일",
+    "translation": "Цагаан тугалган цаас, хуулга",
+    "hanja": "포일",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포자",
+    "translation": "спор",
+    "hanja": "胞子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포장",
+    "translation": "баглаа, савлагаа",
+    "hanja": "包裝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포장기",
+    "translation": "савлагааны машин",
+    "hanja": "包裝機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포장도로",
+    "translation": "хучилттай зам",
+    "hanja": "鋪裝道路",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "포장되다",
+    "translation": "савлах",
+    "hanja": "包裝─",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포장마차",
+    "translation": "гудамжны хоолны тэрэг",
+    "hanja": "布帳馬車(포장마차)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포장지",
+    "translation": "Боолтын цаас",
+    "hanja": "包裝紙",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "포장하다",
+    "translation": "боох",
+    "hanja": "包裝하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "포저",
+    "translation": "поз, байрлал",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "포제",
+    "translation": "хэсэгчлэх",
+    "hanja": "包劑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포졸",
+    "translation": "хуучин цагийн цагдаа, шоронгийн харгалзагч",
+    "hanja": "捕卒",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포주",
+    "translation": "Биеэ үнэлэгч нарыг удирдагч",
+    "hanja": "抱主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포즈",
+    "translation": "поз",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "포지셔닝",
+    "translation": "байршил тогтоох",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포지션",
+    "translation": "байрлал",
+    "hanja": "Position",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포지티브",
+    "translation": "эерэг",
+    "hanja": "---",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포진",
+    "translation": "байдал",
+    "hanja": "佈陣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포진하다",
+    "translation": "байрлах, байр эзлэх",
+    "hanja": "布陣-",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "포집",
+    "translation": "барих, цуглуулах",
+    "hanja": "捕執",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포집되다",
+    "translation": "цуглуулагдах",
+    "hanja": "捕集되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포집하다",
+    "translation": "барих, цуглуулах",
+    "hanja": "捕集하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포징",
+    "translation": "байрлал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포차",
+    "translation": "гудамжны хоолны газар",
+    "hanja": "布車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포착",
+    "translation": "мэдэх, барих",
+    "hanja": "捕捉",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포착되다",
+    "translation": "байдаг тодорхойлогдох, илрэх",
+    "hanja": "捕捉되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "포착하다",
+    "translation": "барих, барьж авах, илрүүлэх",
+    "hanja": "捕捉하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포천",
+    "translation": "Почон (хот)",
+    "hanja": "抱川",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "포철",
+    "translation": "По스코 (газарзүйн нэр, компани)",
+    "hanja": "浦鐵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포청",
+    "translation": "цагдаагийн газар (хуучин)",
+    "hanja": "捕廳",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포춘",
+    "translation": "fortune, хувь тавилан",
+    "hanja": "포춘(fortune)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포츠담",
+    "translation": "Потсдам",
+    "hanja": "포츠담",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포츠머스",
+    "translation": "Портсмут",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포칭",
+    "translation": "хулгайлах, агнах",
+    "hanja": "poaching",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포카치아",
+    "translation": "фокациа",
+    "hanja": "focaccia",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포카혼타스",
+    "translation": "покахонтас",
+    "hanja": "Pocahontas",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포커",
+    "translation": "покер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포켓",
+    "translation": "Халаас",
+    "hanja": "포켓",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포켓볼",
+    "translation": "покер, пул",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포코",
+    "translation": "поко (хөгжмийн нэр томъёо)",
+    "hanja": "포코",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포크",
+    "translation": "Сэрээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "포크너",
+    "translation": "Фолкнер",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포크스",
+    "translation": "Фокс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포클레인",
+    "translation": "экскаватор",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포키",
+    "translation": "Поки (идэх юм)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포타슘",
+    "translation": "칼륨",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포타주",
+    "translation": "шөл",
+    "hanja": "potage",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포탄",
+    "translation": "сум",
+    "hanja": "砲彈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포탈",
+    "translation": "портал",
+    "hanja": "portal",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포탈하다",
+    "translation": "Дэргэд авах, барьж авах",
+    "hanja": "逋脫하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포탑",
+    "translation": "их бууны цамхаг",
+    "hanja": "砲塔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포터",
+    "translation": "тээвэрчин, ачаа зөөгч",
+    "hanja": "포터",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포털",
+    "translation": "Портал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포테이토",
+    "translation": "төмс",
+    "hanja": "potato",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "포텐셜",
+    "translation": "боломж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포토",
+    "translation": "зураг",
+    "hanja": "photo",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "포토그래퍼",
+    "translation": "гэрэл зурагчин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포토레지스트",
+    "translation": "фоторезист",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포토리얼리즘",
+    "translation": "фото реализм",
+    "hanja": "포토리얼리즘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포토샵",
+    "translation": "Фотошоп",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포토시",
+    "translation": "Фотош",
+    "hanja": "포토시",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포트",
+    "translation": "боомт",
+    "hanja": "port",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포트레이트",
+    "translation": "хөрөг зураг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포트리스",
+    "translation": "фотресс",
+    "hanja": "포트리스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포트와인",
+    "translation": "портвейн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포트워스",
+    "translation": "Форт-Уэрт (хотын нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "포트폴리오",
+    "translation": "Портфолио",
+    "hanja": "portfolio",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포틀랜드",
+    "translation": "Портланд",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "포티",
+    "translation": "дөчин (нас)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포팅",
+    "translation": "портлох",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포포",
+    "translation": "попо (Амттангийн нэр)",
+    "hanja": "포포",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포포프",
+    "translation": "Попов",
+    "hanja": "포포프",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포퓰리스트",
+    "translation": "популист",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포퓰리즘",
+    "translation": "популизм",
+    "hanja": "포퓰리즘",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포프",
+    "translation": "Пап ламын",
+    "hanja": "포프",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포플러",
+    "translation": "популя (мод)",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포피",
+    "translation": "түрүү булчирхай",
+    "hanja": "包皮",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "포하다",
+    "translation": "тэврэх",
+    "hanja": "抱하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포학",
+    "translation": "харгис, балмад",
+    "hanja": "暴虐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포학하다",
+    "translation": "Харгис хэрцгий байх",
+    "hanja": "暴虐하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포함",
+    "translation": "Оролцуулах",
+    "hanja": "包含",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포함되다",
+    "translation": "орох",
+    "hanja": "包含되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포함하다",
+    "translation": "багтаах",
+    "hanja": "包含하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "포항",
+    "translation": "Похан",
+    "hanja": "浦項",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포핸드",
+    "translation": "форхенд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포화",
+    "translation": "ханалт",
+    "hanja": "飽和",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포화되다",
+    "translation": "ханасан байх",
+    "hanja": "飽和되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포환",
+    "translation": "бөмбөг шидэх",
+    "hanja": "砲丸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포환던지기",
+    "translation": "бөөрөнцөг түлхэх",
+    "hanja": "砲丸던지기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포획",
+    "translation": "Баригдал, агнагдах",
+    "hanja": "捕獲",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포획되다",
+    "translation": "Баригдах, олзлогдох",
+    "hanja": "捕獲-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포획하다",
+    "translation": "барих, олзлохох",
+    "hanja": "捕獲하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "포효",
+    "translation": "араслангийн архирах дуу",
+    "hanja": "咆哮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포효하다",
+    "translation": "үрвэлзэх, архирах",
+    "hanja": "咆哮하다",
+    "pos": "verb",
+    "cefr": "B2"
+  }
+]

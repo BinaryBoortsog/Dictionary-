@@ -1,0 +1,1038 @@
+[
+  {
+    "word": "과",
+    "translation": "хэлтэс",
+    "hanja": "과(科)",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "과감성",
+    "translation": "зоригтой байдал",
+    "hanja": "果敢性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과감하다",
+    "translation": "зоригтой, шийдэмгий",
+    "hanja": "果敢하다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "과감히",
+    "translation": "эрс шийдэмгийгээр, зоригтойгоор",
+    "hanja": "果敢—",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과거",
+    "translation": "өнгөрсөн",
+    "hanja": "過去",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "과거사",
+    "translation": "өнгөрсөн түүх",
+    "hanja": "過去事",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "과거제",
+    "translation": "үүдийн шалгалт",
+    "hanja": "科擧制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과거지사",
+    "translation": "өнгөрсөн хэрэг",
+    "hanja": "過去之事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과거현재인과경",
+    "translation": "Өнгөрсөн, одоогийн шалтгаан, үр дагаврын судар",
+    "hanja": "過去現在因果經",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "과거형",
+    "translation": "Өнгөрсөн цаг",
+    "hanja": "過去形",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "과격",
+    "translation": "хэтрүүлсэн, радикал",
+    "hanja": "過激",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "과격파",
+    "translation": "туйлшрагч",
+    "hanja": "過激派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과격하다",
+    "translation": "хэтрүүлсэн, радикал",
+    "hanja": "過激하다(과격하다)",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과금",
+    "translation": "Төлбөр",
+    "hanja": "課金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과금러",
+    "translation": "төлбөр хийгч хэрэглэгч",
+    "hanja": "課金러",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과금하다",
+    "translation": "төлбөр ногдуулах, мөнгө хураах",
+    "hanja": "課金하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과녁",
+    "translation": "Бай, оноо",
+    "hanja": "과녁",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "과녁판",
+    "translation": "бай, онилгоо",
+    "hanja": "과녁판",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과년하다",
+    "translation": "насанд хүрсэн, гэрлэх болсон",
+    "hanja": "瓜年하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "과다",
+    "translation": "хэт их",
+    "hanja": "過多",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과다하다",
+    "translation": "хэтэрхий их байх",
+    "hanja": "과다(過多)하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과달라하라",
+    "translation": "Гвадалахара",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "과당",
+    "translation": "хэт их чихэр",
+    "hanja": "果糖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과대망상",
+    "translation": "ихэмсэг сэтгэхүй, сүр жавхаатай санагдах",
+    "hanja": "誇大妄想",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "과대평가",
+    "translation": "Хэт үнэлэх",
+    "hanja": "過大評價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과대평가되다",
+    "translation": "хэт үнэлэгдэх",
+    "hanja": "過大評價되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과대평가하다",
+    "translation": "хэт үнэлэх",
+    "hanja": "過大評價하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과대하다",
+    "translation": "хэтрүүлэх",
+    "hanja": "過大하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과도",
+    "translation": "хэт их",
+    "hanja": "過度",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "과도기",
+    "translation": "шилжилтийн үе",
+    "hanja": "過渡期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과도기적",
+    "translation": "Шилжилтийн, завсрын",
+    "hanja": "過渡期的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과도하다",
+    "translation": "хэт их",
+    "hanja": "過度하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "과락",
+    "translation": "уналт",
+    "hanja": "過落",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "과량",
+    "translation": "хэт их хэмжээ",
+    "hanja": "過量",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "과로",
+    "translation": "хэт их ажил",
+    "hanja": "過勞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과로사",
+    "translation": "хэт их ачааллаас үүдсэн үхэл",
+    "hanja": "過勞死",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "과로사하다",
+    "translation": "хэт их ажиллаж үхэх",
+    "hanja": "過勞死하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과로하다",
+    "translation": "хэт ачаалал авах",
+    "hanja": "過勞하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과료",
+    "translation": "торгууль",
+    "hanja": "過料",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과르네리",
+    "translation": "Гварнери",
+    "hanja": "과르네리",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "과립",
+    "translation": "үрлэн",
+    "hanja": "顆粒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과메기",
+    "translation": "хатаасан загас",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "과목",
+    "translation": "хичээл",
+    "hanja": "科目",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "과몰입하다",
+    "translation": "хэт их оролцох, хэт их ууссан",
+    "hanja": "過沒入하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과묵",
+    "translation": "Дуугүй",
+    "hanja": "寡默",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과묵하다",
+    "translation": "хэлгүй, дуугүй",
+    "hanja": "寡黙--",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과민",
+    "translation": "хэт мэдрэмтгий",
+    "hanja": "過敏",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "과민성",
+    "translation": "хэт мэдрэг байдал",
+    "hanja": "過敏性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과민하다",
+    "translation": "хэт мэдрэмтгий",
+    "hanja": "過敏하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과밀",
+    "translation": "хэт их нягтрал (хүн амын)",
+    "hanja": "過密",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과밀하다",
+    "translation": "хэт нягт",
+    "hanja": "過密하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과반",
+    "translation": "олонхийн санал",
+    "hanja": "過半",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과반수",
+    "translation": "Олонх",
+    "hanja": "過半數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과방",
+    "translation": "тасалгаа, хэлтэс (товчлол)",
+    "hanja": "科房",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "과보",
+    "translation": "үр дүн",
+    "hanja": "果報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과보호",
+    "translation": "хэт хамгаалах",
+    "hanja": "過保護",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "과보호하다",
+    "translation": "хэт хамгаалах",
+    "hanja": "過保護하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과부",
+    "translation": "бэлэвсэн эмэгтэй",
+    "hanja": "寡婦",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "과분하다",
+    "translation": "Хэт их",
+    "hanja": "過分하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과사",
+    "translation": "Хэт их үхэл",
+    "hanja": "過死",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과세",
+    "translation": "татвар ногдуулах",
+    "hanja": "課稅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과세되다",
+    "translation": "татвар ногдуулах, татвар авах",
+    "hanja": "課稅되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과세하다",
+    "translation": "Татвар ногдуулах",
+    "hanja": "課稅하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과소비",
+    "translation": "хэт их хэрэглээ",
+    "hanja": "過消費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과소비하다",
+    "translation": "хэт их хэрэглэх",
+    "hanja": "過消費하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과소평가",
+    "translation": "доогуур үнэлэх",
+    "hanja": "過小評價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과소평가되다",
+    "translation": "доогуур үнэлэгдэх",
+    "hanja": "過小評價되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과소평가하다",
+    "translation": "дутуу үнэлэх",
+    "hanja": "過小評價하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과속",
+    "translation": "Хурд хэтрүүлэх",
+    "hanja": "過速",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "과속하다",
+    "translation": "хурд хэтрүүлэх",
+    "hanja": "過速--",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "과수",
+    "translation": "жимсний мод",
+    "hanja": "果樹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과수원",
+    "translation": "жимсний цэцэрлэг",
+    "hanja": "果樹園",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "과숙하다",
+    "translation": "хэт боловсрох",
+    "hanja": "過熟하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과슈",
+    "translation": "гуаш",
+    "hanja": "瓜鬚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과습",
+    "translation": "хэт чийглэг",
+    "hanja": "過濕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과시",
+    "translation": "гайхуулах",
+    "hanja": "誇示",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과시하다",
+    "translation": "гайхуулах, сайрхах",
+    "hanja": "誇示하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과식",
+    "translation": "Хэт их идэх",
+    "hanja": "過食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과식하다",
+    "translation": "хэтрүүлэн идэх",
+    "hanja": "過食하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과신",
+    "translation": "Итгэл хэтэрхий их байх",
+    "hanja": "過信",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과신하다",
+    "translation": "Хэт итгэх, хэт бардамнах",
+    "hanja": "過信하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과실",
+    "translation": "Алдаа",
+    "hanja": "過失",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "과실수",
+    "translation": "жимсний мод",
+    "hanja": "果實樹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과실주",
+    "translation": "жимсний дарс",
+    "hanja": "果實酒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과언",
+    "translation": "Хэтрүүлэг",
+    "hanja": "過言",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "과업",
+    "translation": "даалгавар, үүрэг",
+    "hanja": "課業",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과연",
+    "translation": "үнэхээр",
+    "hanja": "果然",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "과열",
+    "translation": "хэт халалт",
+    "hanja": "過熱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과열되다",
+    "translation": "хэт халах",
+    "hanja": "過熱되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과오",
+    "translation": "Алдаа",
+    "hanja": "過誤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과외",
+    "translation": "Нэмэлт хичээл",
+    "hanja": "課外",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과외하다",
+    "translation": "хувийн хичээл заах",
+    "hanja": "課外하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "과욕",
+    "translation": "хэт их шунал",
+    "hanja": "過慾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과용",
+    "translation": "хэтрүүлэн хэрэглэх",
+    "hanja": "過用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과용하다",
+    "translation": "хэт их хэрэглэх",
+    "hanja": "過用하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과유불급",
+    "translation": "хэтрэх нь дутуугаас муу",
+    "hanja": "過猶不及",
+    "pos": "성어",
+    "cefr": "C2"
+  },
+  {
+    "word": "과육",
+    "translation": "жимсний мах (шингэн)",
+    "hanja": "果肉",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "과음",
+    "translation": "хэтрүүлэн уух",
+    "hanja": "過飮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과음하다",
+    "translation": "хэт их уух",
+    "hanja": "過飮하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "과이",
+    "translation": "Илүү",
+    "hanja": "過",
+    "pos": "Дайвар үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "과인",
+    "translation": "Би (хааны өөрийгөө хэлэхдээ)",
+    "hanja": "寡人",
+    "pos": "대명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "과일",
+    "translation": "жимс",
+    "hanja": "果일",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "과일나무",
+    "translation": "жимсний мод",
+    "hanja": "果일나무",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "과일주",
+    "translation": "жимсний дарс",
+    "hanja": "果實酒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과일즙",
+    "translation": "Жимсний шүүс",
+    "hanja": "과일즙",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "과일칼",
+    "translation": "Жимсний хутга",
+    "hanja": "果일칼",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "과잉",
+    "translation": "илүүдэл",
+    "hanja": "過剩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과잉되다",
+    "translation": "хэт ихдэх, хэтрэх",
+    "hanja": "過剩되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "과잉보호",
+    "translation": "хэт хамгаалах",
+    "hanja": "過剰保護",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과잉보호하다",
+    "translation": "хэтэрхий хамгаалах",
+    "hanja": "過剩保護하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과잉하다",
+    "translation": "илүүдэх",
+    "hanja": "過剩하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "과자",
+    "translation": "чихэр, жигнэмэг",
+    "hanja": "菓子",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "과장",
+    "translation": "хэтрүүлэг",
+    "hanja": "誇張",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "과장되다",
+    "translation": "хэтрүүлсэн байх",
+    "hanja": "誇張되다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "과장스럽다",
+    "translation": "хэтрүүлсэн, хэтрүүлэг",
+    "hanja": "誇張─",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과장하다",
+    "translation": "хэтрүүлэх",
+    "hanja": "誇張하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과적",
+    "translation": "хэт ачаалах",
+    "hanja": "過積",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과점",
+    "translation": "Олигополь",
+    "hanja": "寡占",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과정",
+    "translation": "Үйл явц",
+    "hanja": "過程",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "과제",
+    "translation": "даалгавар",
+    "hanja": "課題",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과제물",
+    "translation": "Даалгавар",
+    "hanja": "課題物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과제하다",
+    "translation": "Даалгавар өгөх",
+    "hanja": "課題하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과중",
+    "translation": "хэт ачаалал, хүнд ачаа",
+    "hanja": "過重",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과중하다",
+    "translation": "хэтэрхий хүнд",
+    "hanja": "過重하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과즙",
+    "translation": "Жимсний шүүс",
+    "hanja": "果汁",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "과징금",
+    "translation": "Торгууль, хэтрүүлсэн төлбөр",
+    "hanja": "過徵金",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과찬",
+    "translation": "хэт магтаал",
+    "hanja": "過讚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과채",
+    "translation": "Жимс, хүнсний ногоо",
+    "hanja": "果菜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과천",
+    "translation": "Гвачон (хот)",
+    "hanja": "果川",
+    "pos": "Proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "과총",
+    "translation": "Жимсний багц, цэцгийн баглаа",
+    "hanja": "果總",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "과카몰리",
+    "translation": "гуакамоле",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과태료",
+    "translation": "торгууль",
+    "hanja": "過怠料",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과테말라",
+    "translation": "Гватемал",
+    "hanja": "과테말라",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "과테말라시티",
+    "translation": "Гватемала хот",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과팅",
+    "translation": "бүлгийн болзоо, групп болзоо",
+    "hanja": null,
+    "pos": "м.н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "과포화",
+    "translation": "хэт ханасан",
+    "hanja": "過飽和",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "과표",
+    "translation": "Татвар ногдуулах үндэс",
+    "hanja": "課標",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "과하다",
+    "translation": "хэтрүүлэх",
+    "hanja": "過하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "과학",
+    "translation": "шинжлэх ухаан",
+    "hanja": "科學",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "과학관",
+    "translation": "шинжлэх ухааны музей",
+    "hanja": "科學館",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과학도",
+    "translation": "шинжлэх ухааны оюутан",
+    "hanja": "科學徒",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "과학성",
+    "translation": "шинжлэх ухаанлаг байдал",
+    "hanja": "科學性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과학원",
+    "translation": "шинжлэх ухааны академи",
+    "hanja": "科學院",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과학자",
+    "translation": "эрдэмтэн",
+    "hanja": "科學者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "과학적",
+    "translation": "шинжлэх ухаанч",
+    "hanja": "科學的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "과학책",
+    "translation": "шинжлэх ухааны ном",
+    "hanja": "科學冊",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "과학화",
+    "translation": "шинжлэх ухаанч болгох",
+    "hanja": "科學化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과히",
+    "translation": "хэт их, хэтэрхий",
+    "hanja": "過히",
+    "pos": "Adverb",
+    "cefr": "B2"
+  }
+]

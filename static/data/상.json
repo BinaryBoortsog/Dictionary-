@@ -1,0 +1,2284 @@
+[
+  {
+    "word": "상",
+    "translation": "дээд",
+    "hanja": "上",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "상가",
+    "translation": "худалдааны төв, дэлгүүрүүд",
+    "hanja": "商街",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "상가집",
+    "translation": "оршуулгын газар",
+    "hanja": "喪家집",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상각",
+    "translation": "элэгдэл хорогдол",
+    "hanja": "償却",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상간",
+    "translation": "хууль бус харилцаа",
+    "hanja": "相姦",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상감",
+    "translation": "Эзэн хаан",
+    "hanja": "上監",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상강",
+    "translation": "хүйтний улирал",
+    "hanja": "霜降",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상견례",
+    "translation": "гэрлэхээс өмнө гэр бүлүүдийн уулзалт",
+    "hanja": "相見禮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상경",
+    "translation": "нийслэл рүү явах",
+    "hanja": "上京",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상경하다",
+    "translation": "нийслэл рүү явах",
+    "hanja": "上京하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상계",
+    "translation": "нөхөн төлөх",
+    "hanja": "相計",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상고",
+    "translation": "давж заалдах",
+    "hanja": "上告",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상고대",
+    "translation": "мөсөн хуяг (модонд тогтсон)",
+    "hanja": "霜花帶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상고머리",
+    "translation": "богино үс засалт",
+    "hanja": "상고머리",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "상고하다",
+    "translation": "давж заалдах",
+    "hanja": "上告하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상공",
+    "translation": "Дээгүүр",
+    "hanja": "上空",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상공업",
+    "translation": "худалдаа, үйлдвэрлэл",
+    "hanja": "商工業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상관",
+    "translation": "хамаарал, холбогдол",
+    "hanja": "相關",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상관관계",
+    "translation": "хамаарал",
+    "hanja": "相關關係",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상관성",
+    "translation": "хамаарал, корреляци",
+    "hanja": "相關性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상관없다",
+    "translation": "Хамаагүй",
+    "hanja": "相關없다",
+    "pos": "adj",
+    "cefr": "A2"
+  },
+  {
+    "word": "상관없이",
+    "translation": "хамаагүй",
+    "hanja": "相關없이",
+    "pos": "adv",
+    "cefr": "B1"
+  },
+  {
+    "word": "상관완아",
+    "translation": "албаны хувцас",
+    "hanja": "常官完牙",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "상관있다",
+    "translation": "холбоотой байх, хамааралтай байх",
+    "hanja": "相關-있다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상관하다",
+    "translation": "Хамаарах, холбоотой байх",
+    "hanja": "相關하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상괭이",
+    "translation": "далайн гахай",
+    "hanja": "상괭이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상구",
+    "translation": "тавцангийн ам",
+    "hanja": "上口",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상국",
+    "translation": "эзэнт улс",
+    "hanja": "上國",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상궁",
+    "translation": "ханцал",
+    "hanja": "尙宮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상권",
+    "translation": "худалдааны бүс",
+    "hanja": "商圈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상궤",
+    "translation": "хэвийн байдал",
+    "hanja": "常軌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상규",
+    "translation": "нийтлэг дүрэм, ердийн дүрэм",
+    "hanja": "常規",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상그레",
+    "translation": "инээмсэглэж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상그리아",
+    "translation": "сангриа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "상극",
+    "translation": "таарахгүй",
+    "hanja": "相剋",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상근",
+    "translation": "бүрэн цагийн ажил",
+    "hanja": "常勤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상금",
+    "translation": "шагнал",
+    "hanja": "賞金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상급",
+    "translation": "Дээд зэргийн",
+    "hanja": "上級",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상급반",
+    "translation": "ахлах анги",
+    "hanja": "上級班",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상급생",
+    "translation": "ахлах ангийн сурагч",
+    "hanja": "上級生",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "상급자",
+    "translation": "дээд албан тушаалтан",
+    "hanja": "上級者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상기",
+    "translation": "дээрх, дурсах",
+    "hanja": "上記/想起",
+    "pos": "명사 (Noun)/동사 (Verb)",
+    "cefr": "B2"
+  },
+  {
+    "word": "상기되다",
+    "translation": "сануулагдах, дурсагдах",
+    "hanja": "想起되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상기시키다",
+    "translation": "сануулах",
+    "hanja": "想起시키다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "상기하다",
+    "translation": "санах",
+    "hanja": "想起하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상남",
+    "translation": "Эрэлхэг эр",
+    "hanja": "上男",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상납",
+    "translation": "Хээл хахууль өгөх",
+    "hanja": "上納",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상납하다",
+    "translation": "хүндэтгэл үзүүлэх",
+    "hanja": "上納하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "상냥하다",
+    "translation": "Эелдэг",
+    "hanja": " 상냥하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상념",
+    "translation": "бодол",
+    "hanja": "想念",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상다",
+    "translation": "үхсэн, амьгүй",
+    "hanja": "喪-",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상다리",
+    "translation": "ширээний хөл",
+    "hanja": "床다리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "상단",
+    "translation": "дээд хэсэг",
+    "hanja": "上段",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상담",
+    "translation": "зөвлөгөө",
+    "hanja": "相談",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "상담소",
+    "translation": "Зөвлөгөө өгөх газар",
+    "hanja": "相談所",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "상담실",
+    "translation": "зөвлөх өрөө",
+    "hanja": "相談室",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "상담원",
+    "translation": "зөвлөх ажилтан",
+    "hanja": "相談員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상당",
+    "translation": "нэлээд, их хэмжээний",
+    "hanja": " 상당",
+    "pos": "determiner",
+    "cefr": "B2"
+  },
+  {
+    "word": "상당수",
+    "translation": "ихэнх нь",
+    "hanja": "相當數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상당하다",
+    "translation": "ихээхэн, нилээд",
+    "hanja": " 상당하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상당히",
+    "translation": "нэлээд",
+    "hanja": "相當히",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "상대",
+    "translation": "Сөрөг тал, эсрэг хүн",
+    "hanja": " 상대",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상대방",
+    "translation": "нөгөө тал",
+    "hanja": "相對方",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상대성",
+    "translation": "Харьцангуй чанар",
+    "hanja": "相對性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상대적",
+    "translation": "харьцангуй",
+    "hanja": "相對的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상대편",
+    "translation": "нөгөө тал",
+    "hanja": " 상대便",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "상대하다",
+    "translation": "харьцах",
+    "hanja": "相對하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상도",
+    "translation": "худалдааны ёс зүй",
+    "hanja": "商道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상동",
+    "translation": "мөн адил",
+    "hanja": "上同",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상두",
+    "translation": "толгойн орой",
+    "hanja": "上頭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상등품",
+    "translation": "Дээд зэргийн бүтээгдэхүүн",
+    "hanja": "上等品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상디",
+    "translation": "Шанди (хүний нэр/персонаж)",
+    "hanja": "Sanji",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상련",
+    "translation": "хамтын хайр, харилцан хайрлах",
+    "hanja": "相憐",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상렬",
+    "translation": "жагсаал",
+    "hanja": "常列",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상례",
+    "translation": "оршуулгын ёслол",
+    "hanja": "喪禮",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상록",
+    "translation": "Мөнх ногоон",
+    "hanja": "常綠",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상록수",
+    "translation": "мөнх ногоон мод",
+    "hanja": "常綠樹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상류",
+    "translation": "Дээд урсгал, дээд давхарга",
+    "hanja": "上流",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상류층",
+    "translation": "Дээд давхарга",
+    "hanja": "上流層",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상륙",
+    "translation": "газардлага",
+    "hanja": "上陸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상륙하다",
+    "translation": "газардлага хийх",
+    "hanja": "上陸하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상림",
+    "translation": "дээд ой",
+    "hanja": "上林",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상면",
+    "translation": "нүүр тулах, уулзах",
+    "hanja": "相面",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상명",
+    "translation": "Дээд нэр",
+    "hanja": "上名",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상모",
+    "translation": "малгайн оройн чимэг",
+    "hanja": "象毛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상무",
+    "translation": "Худалдааны хэрэг эрхлэх",
+    "hanja": "常務",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상무위원회",
+    "translation": "байнгын хороо",
+    "hanja": "常務委員會",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상미",
+    "translation": "онгон биш",
+    "hanja": "常味",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "상반",
+    "translation": "дээд тал",
+    "hanja": "上半",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상반기",
+    "translation": "эхний хагас жил",
+    "hanja": "上半期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상반되다",
+    "translation": "зөрчилдөх, эсрэг тэсрэг байх",
+    "hanja": "相反되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상반신",
+    "translation": "Дээд бие",
+    "hanja": "上半身",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상방",
+    "translation": "дээд тал, дээд байр",
+    "hanja": "上房",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상벌",
+    "translation": "шагнал ба шийтгэл",
+    "hanja": "賞罰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상법",
+    "translation": "худалдааны хууль",
+    "hanja": "商法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상병",
+    "translation": "ахлах түрүүч",
+    "hanja": "상병(上兵)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상보",
+    "translation": "Дээд хэсэг",
+    "hanja": "上報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상복",
+    "translation": "гашуудал хувцас",
+    "hanja": "喪服",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상봉",
+    "translation": "уулзалт, учрал",
+    "hanja": "相逢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상봉하다",
+    "translation": "уулзах",
+    "hanja": "相逢-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상부",
+    "translation": "дээд хэсэг",
+    "hanja": "上部",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상부상조",
+    "translation": "харилцан туслалцах",
+    "hanja": "相扶相助",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상부상조하다",
+    "translation": "харилцан туслах",
+    "hanja": "相扶相助하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상비",
+    "translation": "Байнгын бэлэн байдал",
+    "hanja": "常備",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상비군",
+    "translation": "Байнгын арми",
+    "hanja": "常備軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상비약",
+    "translation": "гэрт байдаг эм",
+    "hanja": "常備藥",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "상비하다",
+    "translation": "байнгын бэлэн байлгах",
+    "hanja": "常備하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상사",
+    "translation": "ахлах ажилтан",
+    "hanja": "上司",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상사리",
+    "translation": "гэр бүлийн гишүүд",
+    "hanja": "相思리",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상사병",
+    "translation": "хайрын өвчин",
+    "hanja": "相思病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상사화",
+    "translation": "хайрын цэцэг",
+    "hanja": "相思花",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상상",
+    "translation": "төсөөлөл",
+    "hanja": "想像",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "상상되다",
+    "translation": "төсөөлөгдөх",
+    "hanja": "想像되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "상상력",
+    "translation": "төсөөлөл, уран сэтгэмж",
+    "hanja": "想像力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상상하다",
+    "translation": "төсөөлөх",
+    "hanja": "想像하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상상화",
+    "translation": "уран зөгнөлт зураг",
+    "hanja": "想像畫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상생",
+    "translation": "хамтын амьдрал, харилцан ашигтай байдал",
+    "hanja": "相生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상생하다",
+    "translation": "харилцан ашигтай байх",
+    "hanja": "相生하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상서",
+    "translation": "сайн ерөөл",
+    "hanja": "祥瑞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상서롭다",
+    "translation": "азтай, сайныг бэлгэдэх",
+    "hanja": "祥瑞─",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상석",
+    "translation": "дээд суудал",
+    "hanja": "上席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상선",
+    "translation": "худалдааны хөлөг онгоц",
+    "hanja": "商船",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상성",
+    "translation": "харилцан зохицол",
+    "hanja": "相性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상세",
+    "translation": "Дэлгэрэнгүй",
+    "hanja": "詳細",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상세하다",
+    "translation": "Дэлгэрэнгүй",
+    "hanja": "詳細하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "상세히",
+    "translation": "Дэлгэрэнгүй, нарийвчилсан",
+    "hanja": "詳細히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상소",
+    "translation": "давж заалдах",
+    "hanja": "上訴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상소리",
+    "translation": "бүдүүлэг үг / хараал хэлэх",
+    "hanja": "常소리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상소문",
+    "translation": "айлтгал",
+    "hanja": "上疏文",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상소하다",
+    "translation": "давж заалдах",
+    "hanja": "上訴하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상속",
+    "translation": "өвлөх",
+    "hanja": "相續",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상속권",
+    "translation": "өвлөх эрх",
+    "hanja": "相續權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상속되다",
+    "translation": "өвлөгдөх",
+    "hanja": "相續되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상속법",
+    "translation": "өв залгамжлах эрхийн тухай хууль",
+    "hanja": "相續法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상속세",
+    "translation": "өв залгамжлалын татвар",
+    "hanja": "相續稅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상속인",
+    "translation": "өв залгамжлагч",
+    "hanja": "相續人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상속자",
+    "translation": "өмчлөгч",
+    "hanja": "相續者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상속하다",
+    "translation": "өв залгамжлах",
+    "hanja": "相續하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "상쇄",
+    "translation": "харилцан нөхөх",
+    "hanja": "相殺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상쇄되다",
+    "translation": "нөхөн сэлбэгдэх, тэнцэх",
+    "hanja": "相殺되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상쇄하다",
+    "translation": "нөхөн компенсаци хийх",
+    "hanja": "相殺하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상쇠",
+    "translation": "хамгийн дарга сэй",
+    "hanja": "上쇠",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상수",
+    "translation": "тогтмол тоо",
+    "hanja": "常數",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상수도",
+    "translation": "усны хоолой, ус хангамж",
+    "hanja": "上水道",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상수리",
+    "translation": "Царсны сам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상수원",
+    "translation": "усан сан, усны эх үүсвэр",
+    "hanja": "上水源",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "상순",
+    "translation": "сарын эхэн",
+    "hanja": "上旬",
+    "pos": "нэр үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "상술",
+    "translation": "худалдааны арга",
+    "hanja": "商術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상술하다",
+    "translation": "Дэлгэрэнгүй тайлбарлах, тодорхой дурдах",
+    "hanja": "詳述하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상스럽다",
+    "translation": "бүдүүлэг, ёс бус",
+    "hanja": "常스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상습",
+    "translation": "дадал",
+    "hanja": "常習",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상습범",
+    "translation": "дахин давтан гэмт хэрэг үйлдэгч",
+    "hanja": "常習犯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상습적",
+    "translation": "дадал болсон",
+    "hanja": "常習的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상승",
+    "translation": "өсөлт, дээшлэх",
+    "hanja": "上昇",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상승기",
+    "translation": "өрөлттэй үе",
+    "hanja": "上昇期",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상승되다",
+    "translation": "өсөх, дээшлэх",
+    "hanja": "上昇되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상승세",
+    "translation": "өсөх хандлага",
+    "hanja": "上昇勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상승시키다",
+    "translation": "дээшлүүлэх",
+    "hanja": "上昇시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상승하다",
+    "translation": "нэмэгдэх",
+    "hanja": "上昇하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "상승효과",
+    "translation": "үйлчилгээний үр дүн",
+    "hanja": "相乘效果",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상시",
+    "translation": "үргэлж",
+    "hanja": "常時",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상식",
+    "translation": "ерөнхий мэдлэг",
+    "hanja": "常識",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상식선",
+    "translation": "нийтлэг ойлголтын түвшин",
+    "hanja": "常識線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상식적",
+    "translation": "энгийн, нийтлэг",
+    "hanja": "常識的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상신",
+    "translation": "Дээш илгээх",
+    "hanja": "上申",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상실",
+    "translation": "алдагдал, үрэгдэл",
+    "hanja": "喪失",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상실감",
+    "translation": "Алдагдал, хохирол",
+    "hanja": "喪失感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상실되다",
+    "translation": "алга болох, үрэгдэх",
+    "hanja": "喪失되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상실하다",
+    "translation": "Алдагдах",
+    "hanja": "喪失하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상심",
+    "translation": "гуниг",
+    "hanja": "傷心",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상심하다",
+    "translation": "сэтгэлээр унах",
+    "hanja": "傷心하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상아",
+    "translation": "Зааны ясан",
+    "hanja": "象牙",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상아색",
+    "translation": "Зааны яс",
+    "hanja": "象牙色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상아탑",
+    "translation": "зааны ясан цамхаг",
+    "hanja": "象牙塔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상악",
+    "translation": "дээд эрүү",
+    "hanja": "上顎",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상암",
+    "translation": "Сангам",
+    "hanja": "上岩",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상압",
+    "translation": "хэвийн даралт, норм даралт",
+    "hanja": "常壓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상앗빛",
+    "translation": "зааны ясны өнгө",
+    "hanja": "象牙빛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상약",
+    "translation": "дээд зэргийн эм",
+    "hanja": "上藥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상어",
+    "translation": "акул",
+    "hanja": "鯊魚",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "상업",
+    "translation": "Худалдаа",
+    "hanja": "商業",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상업성",
+    "translation": "худалдааны шинж чанар",
+    "hanja": "商業性",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상업용",
+    "translation": "Худалдааны зориулалттай",
+    "hanja": "商業用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상업적",
+    "translation": "арилжааны",
+    "hanja": "商業的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "상업주의",
+    "translation": "худалдааны үзэл",
+    "hanja": "商業主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상업화",
+    "translation": "арилжаажуулах",
+    "hanja": "商業化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상업화되다",
+    "translation": "арилжаалагдах",
+    "hanja": "商業化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상업화하다",
+    "translation": "арилжаалах",
+    "hanja": "商業化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상여",
+    "translation": "оршуулгын сүйх",
+    "hanja": "喪輿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상여금",
+    "translation": "шагнал, нэмэлт цалин",
+    "hanja": "賞與金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상연",
+    "translation": "тоглолт, жүжиг",
+    "hanja": "上演",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상연되다",
+    "translation": "тайзан дээр тавигдах",
+    "hanja": "上演되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상연하다",
+    "translation": "тайзнаа тавих",
+    "hanja": "上演하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상엽",
+    "translation": "дээрх навч, дээд навч",
+    "hanja": "上葉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상영",
+    "translation": "Кино гаргах",
+    "hanja": "上映",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상영되다",
+    "translation": "гарч эхлэх",
+    "hanja": "上映되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상영하다",
+    "translation": "аливаа кино үзүүлэх",
+    "hanja": "上映하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상온",
+    "translation": "өрөөний температур",
+    "hanja": "常溫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상완",
+    "translation": "Мөрний дээд хэсэг",
+    "hanja": "上腕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상왕",
+    "translation": "хөгшин хаан",
+    "hanja": "上王",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상욕",
+    "translation": "Хараах үг, муу үг",
+    "hanja": "常辱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상용",
+    "translation": "арилжааны зориулалттай",
+    "hanja": "常用",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상용화되다",
+    "translation": "худалдаанд гарах, арилжааны бүтээгдэхүүн болох",
+    "hanja": "商用化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상용화하다",
+    "translation": "арилжааны зориулалтаар ашиглах",
+    "hanja": "常用化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상월",
+    "translation": "өмнөх сар, он",
+    "hanja": "上月",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상위",
+    "translation": "дээд зэргийн, дээд байрлал",
+    "hanja": "上位",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상위권",
+    "translation": "дээд зэрэглэл, тэргүүлэх эгнээ",
+    "hanja": "上位圈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상유",
+    "translation": "Дээд зэргийн тос",
+    "hanja": "上油",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상은",
+    "translation": "шагнал",
+    "hanja": "賞銀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상응",
+    "translation": "Тохирох, харгалзах",
+    "hanja": "相應",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상응하다",
+    "translation": "тохирох",
+    "hanja": "相應하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상의",
+    "translation": "дээд хувцас",
+    "hanja": "上衣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상의하다",
+    "translation": "зөвлөлдөх",
+    "hanja": "相議하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상이",
+    "translation": "өөр",
+    "hanja": "相異",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상이하다",
+    "translation": "өөр байх, ялгаатай байх",
+    "hanja": "相異하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상인",
+    "translation": "худалдаачин",
+    "hanja": "商人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상자",
+    "translation": "хайрцаг",
+    "hanja": "箱子",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "상장",
+    "translation": "Хөрөнгийн бирж, шагнал",
+    "hanja": "上場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상장되다",
+    "translation": "хувьцааны биржид бүртгэгдэх",
+    "hanja": "上場되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상장하다",
+    "translation": "хувьцаа гаргах",
+    "hanja": "上場하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상재",
+    "translation": "худалдааны бараа",
+    "hanja": "商材",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상적",
+    "translation": "худалдааны тэмдэг",
+    "hanja": "商的, 商籍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상전",
+    "translation": "эзэн, дээд удирдлага",
+    "hanja": "上典",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상점",
+    "translation": "дэлгүүр",
+    "hanja": "商店",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "상점가",
+    "translation": "худалдааны гудамж",
+    "hanja": "商店街",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상접하다",
+    "translation": "ойр ойрхон байх, наалдсан байх",
+    "hanja": "相接하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상정",
+    "translation": "хэлэлцүүлэгт оруулах",
+    "hanja": "上程",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상정되다",
+    "translation": "оруулах, хэлэлцэх",
+    "hanja": "上程되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "상정하다",
+    "translation": "хэлэлцүүлэгт оруулах",
+    "hanja": "上程하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "상제",
+    "translation": "оршуулах ёслолыг үйлдэх буюу гол хүн",
+    "hanja": "喪制",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "상조",
+    "translation": "харилцан туслалцах",
+    "hanja": "相助",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상존하다",
+    "translation": "үргэлж оршин тогтнох",
+    "hanja": "常存하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "상종",
+    "translation": "нөхөрлөл",
+    "hanja": "相從",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상종하다",
+    "translation": "харилцах",
+    "hanja": "相從하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "상좌",
+    "translation": "хамгийн дээд суудал",
+    "hanja": "上座",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상주",
+    "translation": "Гэр бүлийн тэргүүн",
+    "hanja": "喪主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상주인구",
+    "translation": "байнгын хүн ам",
+    "hanja": "常住人口",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상주하다",
+    "translation": "байнга оршин суух",
+    "hanja": "常駐하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "상중",
+    "translation": "Гашуудлын үед",
+    "hanja": "喪中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상중하",
+    "translation": "дээд, дунд, доод",
+    "hanja": "上中下",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상지",
+    "translation": "гарын мөч, дээд мөч",
+    "hanja": "上肢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상징",
+    "translation": "тэмдэг",
+    "hanja": "象徵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상징되다",
+    "translation": "бэлгэдэгдэх, төлөөлөгдөх",
+    "hanja": "象徵되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "상징물",
+    "translation": "бэлгэдэл",
+    "hanja": "象徵物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상징성",
+    "translation": "бэлгэ тэмдэг",
+    "hanja": "象徵性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상징적",
+    "translation": "Бэлгэдлийн, 상징의",
+    "hanja": "象徵的",
+    "pos": "관형사/명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상징주의",
+    "translation": "Бэлгэ тэмдгийн онол",
+    "hanja": "象徵主義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상징하다",
+    "translation": "бэлгэдэх",
+    "hanja": "象徵하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상징화하다",
+    "translation": "бэлгэдэх",
+    "hanja": "象徵化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상차",
+    "translation": "ачих, тээвэрлэх",
+    "hanja": "上車",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상차림",
+    "translation": "хоолны ширээ засах",
+    "hanja": "床차림",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상참",
+    "translation": "дээд зөвлөгөө",
+    "hanja": "常參",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상책",
+    "translation": "хамгийн сайн арга",
+    "hanja": "上策",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상처",
+    "translation": "шарх",
+    "hanja": "傷處",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상처투성이",
+    "translation": "шарх сорвитой",
+    "hanja": "傷處투성이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상처하다",
+    "translation": "гэмтээх",
+    "hanja": "傷處하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "상철",
+    "translation": "худалдааны, бизнесийн_философи",
+    "hanja": "商哲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상체",
+    "translation": "биеийн дээд хэсэг",
+    "hanja": "上體",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상초",
+    "translation": "дээд давхарга",
+    "hanja": "上焦",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상추",
+    "translation": "салатны навч",
+    "hanja": "상추",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "상충",
+    "translation": "зөрчилдөх, харшлах",
+    "hanja": "相衝",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상충되다",
+    "translation": "зөрчилдөх",
+    "hanja": "相衝되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상충하다",
+    "translation": "зөрчилдөх",
+    "hanja": "相衝하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상층",
+    "translation": "Дээд давхарга, дээд хэсэг",
+    "hanja": "上層",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상쾌하다",
+    "translation": "сэргэг",
+    "hanja": "爽快하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상큼",
+    "translation": "сэргэг",
+    "hanja": "爽",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상큼발랄하다",
+    "translation": "сэргэлэн, эрч хүчтэй байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상큼상큼",
+    "translation": "Сэнгэнэсэн, цоглог",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상큼하다",
+    "translation": "сэргэг, анхилуун",
+    "hanja": "상큼하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "상태",
+    "translation": "байдал",
+    "hanja": "狀態",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상토",
+    "translation": "үр суулгацын хөрс",
+    "hanja": "床土",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상통하다",
+    "translation": "Үйлчлэх, нийцэх, харилцах",
+    "hanja": "相通하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상투",
+    "translation": "эрэгтэй үсний засалт",
+    "hanja": " 상투",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상투메",
+    "translation": "Сан-Томе (улсын нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "상투적",
+    "translation": "ердийн, хуучин хэвшлийн",
+    "hanja": "常套的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상트페테르부르크",
+    "translation": "Санкт-Петербург",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "상팀",
+    "translation": "дээд баг",
+    "hanja": "上team",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상파울루",
+    "translation": "Сан-Паулу",
+    "hanja": "상파울루",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "상판",
+    "translation": "тавцан, гадаргуу",
+    "hanja": "上板",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상판대기",
+    "translation": "нүүрний хуудас, царай (доромж)",
+    "hanja": "상판대기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상팔자",
+    "translation": "азтай хувь заяа",
+    "hanja": "上八字",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상패",
+    "translation": "шагнал",
+    "hanja": "賞牌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상편",
+    "translation": "Дээд хэсэг",
+    "hanja": "上篇",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상폐",
+    "translation": "Хөрөнгийн бирж дээрх худалдааг зогсоох",
+    "hanja": "上廢",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "상표",
+    "translation": "Барааны тэмдэг",
+    "hanja": "商標",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상품",
+    "translation": "бараа, бүтээгдэхүүн",
+    "hanja": "商品",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "상품권",
+    "translation": "бэлгийн карт",
+    "hanja": "商品券",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "상품성",
+    "translation": "Бүтээгдэхүүний чанар",
+    "hanja": "商品性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상품화",
+    "translation": "бараа болгох",
+    "hanja": "商品化",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상품화되다",
+    "translation": "бараа бүтээгдэхүүн болох",
+    "hanja": "商品化되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "상품화하다",
+    "translation": "бараа болгох",
+    "hanja": "商品化하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "상피",
+    "translation": "харилцан нөлөөлөл",
+    "hanja": "相避",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상필",
+    "translation": "сайн бичиг",
+    "hanja": "上筆",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "상하",
+    "translation": "Дээш, доош",
+    "hanja": "上下",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "상하다",
+    "translation": "муудах",
+    "hanja": "傷하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상하수도",
+    "translation": "Ус суваг",
+    "hanja": "上下水道",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상하이",
+    "translation": "Шанхай",
+    "hanja": "上海",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "상하좌우",
+    "translation": "дээш доош зүүн баруун",
+    "hanja": "上下左右",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "상학",
+    "translation": "худалдааны шинжлэх ухаан",
+    "hanja": "商學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상한",
+    "translation": "дээд хязгаар",
+    "hanja": "上限",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상한가",
+    "translation": "Хамгийн дээд үнэ",
+    "hanja": "上限價",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상한선",
+    "translation": "дээд хязгаар",
+    "hanja": "上限線",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상항",
+    "translation": "Сан-Франциско",
+    "hanja": "桑港",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상해",
+    "translation": "Шанхай; гэмтэл, хохирол",
+    "hanja": "上海/傷害",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상해하다",
+    "translation": "Гэмтээх, шархдуулах",
+    "hanja": "傷害하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상행",
+    "translation": "дээшлэх",
+    "hanja": "上行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상행선",
+    "translation": "дээшлэх шугам (галт тэрэг)",
+    "hanja": "上行線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상행위",
+    "translation": "худалдааны үйлдэл",
+    "hanja": "商行爲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상향",
+    "translation": "дээшлэх, өгсөх",
+    "hanja": "上向",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상향하다",
+    "translation": "дээшлэх, өсөх",
+    "hanja": "上向하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상현달",
+    "translation": "сарны хагас",
+    "hanja": "上絃달",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상형",
+    "translation": "дүрс үсэг",
+    "hanja": "象形",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "상호",
+    "translation": "Харилцан / Харилцан бие биенээ",
+    "hanja": "상호 (相互)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "상화",
+    "translation": "Цэцгийн зураг",
+    "hanja": "霜花",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상환",
+    "translation": "төлөх",
+    "hanja": "償還",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상환되다",
+    "translation": "эргэн төлөгдөх",
+    "hanja": "償還되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "상환액",
+    "translation": "буцаан төлөх дүн",
+    "hanja": "償還額",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상환하다",
+    "translation": "Эргэн төлөх, буцааж төлөх",
+    "hanja": "償還하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상황",
+    "translation": "нөхцөл байдал",
+    "hanja": "狀況",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "상황실",
+    "translation": "нөхцөл байдлын өрөө",
+    "hanja": "狀況室",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "상황판",
+    "translation": "Нөхцөл байдлын самбар",
+    "hanja": "狀況板",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상회",
+    "translation": "худалдааны компани",
+    "hanja": "商會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상회하다",
+    "translation": "давж гарах, хэтрэх",
+    "hanja": "上廻하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상후",
+    "translation": "дараа",
+    "hanja": "傷後",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상흔",
+    "translation": "шархны сорви",
+    "hanja": "傷痕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상희",
+    "translation": "санхий",
+    "hanja": "相嬉",
+    "pos": "고유명사",
+    "cefr": "A1"
+  }
+]

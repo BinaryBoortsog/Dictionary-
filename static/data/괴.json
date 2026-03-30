@@ -1,0 +1,387 @@
+[
+  {
+    "word": "괴",
+    "translation": "аймшигтай, хачин",
+    "hanja": "怪",
+    "pos": "접두사",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴괴하다",
+    "translation": "Чимээгүй, аймшигтай",
+    "hanja": "怪怪하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "괴기스럽다",
+    "translation": "аймшигтай",
+    "hanja": "怪奇-",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴기하다",
+    "translation": "аймшигтай, хачин этгээд байх",
+    "hanja": "怪奇하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴나리봇짐",
+    "translation": "аяны цүнх",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴다",
+    "translation": "тусгах, өргөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴담",
+    "translation": "Аймшигтай түүх",
+    "hanja": "怪談",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴델",
+    "translation": "Гөдел (математикч)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "괴도",
+    "translation": "хулгайч",
+    "hanja": "怪盜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "괴랄하다",
+    "translation": "сонин хачин",
+    "hanja": "怪랄하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴력",
+    "translation": "гайхамшигт хүч, ер бусын хүч",
+    "hanja": "怪力",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "괴로움",
+    "translation": "зовлон",
+    "hanja": "괴로움",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "괴로워하다",
+    "translation": "шаналах, зовох",
+    "hanja": "苦惱하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴롬",
+    "translation": "Зовлон, шаналал",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴롭다",
+    "translation": "зовлонтой",
+    "hanja": "괴롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴롭히다",
+    "translation": "зовоох",
+    "hanja": "괴롭히다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴롭힘",
+    "translation": "дарамт, дээрэлхэлт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴뢰",
+    "translation": "хүүхэлдэй",
+    "hanja": "傀儡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "괴리",
+    "translation": "зөрүү, ялгаа",
+    "hanja": "乖離",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴리되다",
+    "translation": "туйлшрах",
+    "hanja": "乖離되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "괴멸",
+    "translation": "сүйрэл, устгах",
+    "hanja": "潰滅",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "괴멸되다",
+    "translation": "Устгагдах",
+    "hanja": "潰滅되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴멸하다",
+    "translation": "устгах",
+    "hanja": "潰滅하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴물",
+    "translation": "мангас, араатан",
+    "hanja": "怪物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴발개발",
+    "translation": "мурий барий бичих",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴벨스",
+    "translation": "Гёббелс (хүний нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴벽",
+    "translation": "хачирхалтай зан",
+    "hanja": "怪癖",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴변",
+    "translation": "хачирхалтай үг",
+    "hanja": "怪變",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴사",
+    "translation": "үхэл",
+    "hanja": "壞死",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴사되다",
+    "translation": "үхсэн эс",
+    "hanja": "壞死되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴사하다",
+    "translation": "үлдэгдэл болж үхэх",
+    "hanja": "壞死하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "괴산",
+    "translation": "Гуэсан (тосгон)",
+    "hanja": "槐山",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "괴상망측하다",
+    "translation": "Хачирхалтай",
+    "hanja": "怪常罔測하다",
+    "pos": "Adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴상하다",
+    "translation": "хачирхалтай, этгээд",
+    "hanja": "怪 Chambers 商",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴석",
+    "translation": "хачирхалтай чулуу",
+    "hanja": "怪石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴성",
+    "translation": "Хачирхалтай дуу, хашгираан",
+    "hanja": "怪聲",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴소문",
+    "translation": "Хачин цуурхал",
+    "hanja": "怪소문",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "괴수",
+    "translation": "мангас",
+    "hanja": "怪獸",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "괴식",
+    "translation": "аймшигт хоол",
+    "hanja": "怪食",
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴악하다",
+    "translation": "аймшигтай",
+    "hanja": "怪惡-",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴않다",
+    "translation": "Зарцуулахгүй байх, хэмнэх",
+    "hanja": "---",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴이",
+    "translation": "Хачирхалтай, этгээд",
+    "hanja": "怪異",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴이다",
+    "translation": "Бөөгнөрөх, хуримтлагдах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴이쩍다",
+    "translation": "сонин хачин",
+    "hanja": null,
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴이하다",
+    "translation": "Хачин жигтэй",
+    "hanja": "怪異하다",
+    "pos": "тэмдэг нэр",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴인",
+    "translation": "гайхамшигтай хүн",
+    "hanja": "怪人",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴작",
+    "translation": "мангас бүтээл",
+    "hanja": "怪作",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "괴저",
+    "translation": "Гангрена",
+    "hanja": "壞疽",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "괴조",
+    "translation": "хачирхалтай шувуу",
+    "hanja": "怪鳥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴질",
+    "translation": "хачирхалтай өвчин",
+    "hanja": "怪疾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴짜",
+    "translation": "Сонин зан авиртай хүн, этгээд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴테",
+    "translation": "Гёте",
+    "hanja": "Goethe",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "괴팍하다",
+    "translation": "хачирхалтай, ааштай",
+    "hanja": "乖愎하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴한",
+    "translation": "халдан довтолгч",
+    "hanja": "怪漢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "괴혈병",
+    "translation": "Скорбут",
+    "hanja": "壞血病",
+    "pos": "명사",
+    "cefr": "null"
+  }
+]

@@ -1,0 +1,2200 @@
+[
+  {
+    "word": "연",
+    "translation": "уран, урлал",
+    "hanja": "凧",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연간",
+    "translation": "Жил бүрийн",
+    "hanja": "年間",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연감",
+    "translation": "жил тутмын эмхэтгэл",
+    "hanja": "年鑑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연강",
+    "translation": "зөөлөн ган",
+    "hanja": "軟鋼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "연거푸",
+    "translation": "дараалан",
+    "hanja": "連거푸",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연격",
+    "translation": "цуврал цохилт",
+    "hanja": "連擊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연결",
+    "translation": "холболт",
+    "hanja": "連結",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "연결되다",
+    "translation": "холбогдох",
+    "hanja": "連結되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연결하다",
+    "translation": "холбох",
+    "hanja": "連結하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "연경",
+    "translation": "Залуу нас",
+    "hanja": "年頃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연계",
+    "translation": "холбоо",
+    "hanja": "連繫",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "연계되다",
+    "translation": "Холбогдох",
+    "hanja": "連繫되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연계성",
+    "translation": "Холбоо, уялдаа",
+    "hanja": "連繫性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연계시키다",
+    "translation": "Холбох",
+    "hanja": "連繫시키다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "연계하다",
+    "translation": "холбох, уялдуулах",
+    "hanja": "連繫하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연고",
+    "translation": "Тос",
+    "hanja": "軟膏",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "연고지",
+    "translation": "хамааралтай газар, төрөл садангийн газар",
+    "hanja": "緣故地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연곡",
+    "translation": "хадаас",
+    "hanja": "椽釘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연골",
+    "translation": "мөгөөрс",
+    "hanja": "軟骨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연공",
+    "translation": "Урт үйлчилгээ",
+    "hanja": "年功",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연공서열",
+    "translation": "ажлын туршлагаар эрэмбэлэх",
+    "hanja": "年功序列表",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연관",
+    "translation": "холбоо",
+    "hanja": "聯關",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연관되다",
+    "translation": "холбогдох",
+    "hanja": "聯關되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연관시키다",
+    "translation": "холбох",
+    "hanja": "聯關시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연관하다",
+    "translation": "холбох, хамаатуулах",
+    "hanja": "聯關하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "연교",
+    "translation": "цагаан гаа",
+    "hanja": "連翹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연구",
+    "translation": "судалгаа",
+    "hanja": "硏究",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연구되다",
+    "translation": "судлагдах",
+    "hanja": "硏究되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연구비",
+    "translation": "судалгааны зардал",
+    "hanja": "硏究費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연구생",
+    "translation": "Судалгааны оюутан",
+    "hanja": "研究生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연구소",
+    "translation": "судалгааны хүрээлэн",
+    "hanja": "硏究所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연구실",
+    "translation": "Судалгааны өрөө",
+    "hanja": "硏究室",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연구용",
+    "translation": "судалгааны зориулалттай",
+    "hanja": "硏究用",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연구원",
+    "translation": "Судлаач",
+    "hanja": "硏究員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연구자",
+    "translation": "судлаач",
+    "hanja": "硏究者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연구하다",
+    "translation": "судлах",
+    "hanja": "硏究하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "연구회",
+    "translation": "судалгааны нийгэмлэг",
+    "hanja": "硏究會",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "연극",
+    "translation": "жүжиг",
+    "hanja": "演劇",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연극배우",
+    "translation": "жүжигчин",
+    "hanja": "演劇俳優",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연극하다",
+    "translation": "жүжиглэх, тоглох",
+    "hanja": "演劇하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연근",
+    "translation": "Бадмалянхуагийн үндэс",
+    "hanja": "蓮根",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연금",
+    "translation": "Тэтгэвэр",
+    "hanja": "年金",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연금되다",
+    "translation": "Хоригдох, оргоох",
+    "hanja": "軟禁되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "연금술",
+    "translation": "алхими",
+    "hanja": "鍊金術",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연금하다",
+    "translation": "гэрийн хорионд байлгах",
+    "hanja": "軟禁하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연기",
+    "translation": "жүжиглэлт",
+    "hanja": "演技",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연기되다",
+    "translation": "хойшлогдох",
+    "hanja": "延期되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연기력",
+    "translation": "жүжиглэх чадвар",
+    "hanja": "演技力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연기자",
+    "translation": "жүжигчин",
+    "hanja": "演技者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연기파",
+    "translation": "жүжиглэх ур чадвар сайтай жүжигчин",
+    "hanja": "演技派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연기하다",
+    "translation": "хойшлуулах, жүжиглэх",
+    "hanja": "延期하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연길",
+    "translation": "연길 (중국 도시)",
+    "hanja": "延吉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연꽃",
+    "translation": "бадамлянхуа цэцэг",
+    "hanja": "蓮꽃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연날리기",
+    "translation": "Цаасан шувуу нисгэх (тоглоом)",
+    "hanja": "鳶날리기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연내",
+    "translation": "жилийн дотор",
+    "hanja": "年內",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연년생",
+    "translation": "нас насаар төрсөн ах дүү",
+    "hanja": "連年生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연단",
+    "translation": "Инженер",
+    "hanja": "演壇",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "연단하다",
+    "translation": "илтгэл тавих",
+    "hanja": "演壇하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연달다",
+    "translation": "дараалан үргэлжлэх",
+    "hanja": "連달다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "연대",
+    "translation": "нэгдэх, эв нэгдэл",
+    "hanja": "連帶",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연대순",
+    "translation": "он цагийн дарааллаар",
+    "hanja": "年代順",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연대장",
+    "translation": "батальоны командлагч",
+    "hanja": "聯隊長",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "연대표",
+    "translation": "он цагийн хүснэгт",
+    "hanja": "年代表",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연대하다",
+    "translation": "эвсэх, хамтран ажиллах",
+    "hanja": "連帶하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연도",
+    "translation": "Он",
+    "hanja": "年度",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연동",
+    "translation": "Холбоотой ажиллах",
+    "hanja": "連動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연동하다",
+    "translation": "Холбох",
+    "hanja": "連動하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연두",
+    "translation": "бүх ногоон",
+    "hanja": "年頭",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "연두색",
+    "translation": "Цайвар ногоон өнгө",
+    "hanja": "軟豆色",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연둣빛",
+    "translation": "Ногоон өнгөтэй",
+    "hanja": "軟豆빛",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연등",
+    "translation": "бадамлянхуа гэрэл",
+    "hanja": "燃燈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연등회",
+    "translation": "Зул сарын баяр",
+    "hanja": "燃燈會",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연락",
+    "translation": "холбоо барих",
+    "hanja": "連絡",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연락되다",
+    "translation": "холбоо баригдах",
+    "hanja": "連絡-되다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "연락망",
+    "translation": "холбооны сүлжээ",
+    "hanja": "連絡網",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연락선",
+    "translation": "Холбоос онгоц",
+    "hanja": "連絡船",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연락처",
+    "translation": "холбоо барих хаяг",
+    "hanja": "連絡處",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연락하다",
+    "translation": "холбоо барих",
+    "hanja": "連絡하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연령",
+    "translation": "нас",
+    "hanja": "年齡",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "연령층",
+    "translation": "насны бүлэг",
+    "hanja": "年齡層",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연례",
+    "translation": "Жил бүрийн",
+    "hanja": "年例",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "연례행사",
+    "translation": "Жил бүрийн арга хэмжээ",
+    "hanja": "年例行事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연로",
+    "translation": "өндөр настай",
+    "hanja": "年老",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연로하다",
+    "translation": "хөгшин байх",
+    "hanja": "年老--",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "연료",
+    "translation": "түлш",
+    "hanja": "燃料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연료비",
+    "translation": "түлшний зардал",
+    "hanja": "燃料費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연루",
+    "translation": "холбогдох",
+    "hanja": "連累",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연루되다",
+    "translation": "орооцолдох",
+    "hanja": "連累되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "연루자",
+    "translation": "оролцогч",
+    "hanja": "連纍者",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연류",
+    "translation": "холбоо, хамаарал",
+    "hanja": "連纍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연륜",
+    "translation": "нас, туршлага",
+    "hanja": "年輪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연리",
+    "translation": "жилийн хүү",
+    "hanja": "年利",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연립",
+    "translation": "эвсэл",
+    "hanja": "連立",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연마",
+    "translation": "өнгөлөх, сайжруулах",
+    "hanja": "硏磨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연마되다",
+    "translation": "өнгөлөх",
+    "hanja": "硏磨되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "연마하다",
+    "translation": "хурцлах, сайжруулах",
+    "hanja": "硏磨하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "연막",
+    "translation": "утаан хөшиг, бүрхүүл",
+    "hanja": "煙幕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연말",
+    "translation": "оны эцэс",
+    "hanja": "年末",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "연말연시",
+    "translation": "шинэ жилийн баяр",
+    "hanja": "年末年始",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연매",
+    "translation": "жил бүрийн худалдаа",
+    "hanja": "年賣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연맥",
+    "translation": "овьёос",
+    "hanja": "燕麥",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연맹",
+    "translation": "Холбоо, лиг",
+    "hanja": "聯盟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연명",
+    "translation": "амьжиргаагаа залгуулах",
+    "hanja": "延命",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연명하다",
+    "translation": "амь зогоох, өнөө маргаашийг аргацаах",
+    "hanja": "延命하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연모",
+    "translation": "хайрлах",
+    "hanja": "戀慕",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "연모하다",
+    "translation": "Хайрлах",
+    "hanja": "戀慕하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연못",
+    "translation": "цэвдэг, нуур",
+    "hanja": "蓮못",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연못가",
+    "translation": "Цөөрмийн эрэг",
+    "hanja": "蓮못가",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연무",
+    "translation": "манан (нимгэн)",
+    "hanja": "煙霧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연미복",
+    "translation": "сүүл сүүлтэй хослол",
+    "hanja": "燕尾服",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연민",
+    "translation": "өрөвдөх сэтгэл",
+    "hanja": "憐憫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연민하다",
+    "translation": "Өрөвдөх",
+    "hanja": "憐愍하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연박",
+    "translation": "дараалан хонох",
+    "hanja": "連泊",
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "연반",
+    "translation": "хагархай",
+    "hanja": "鉛礬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연발",
+    "translation": "Дарааллан буудах/гаргах",
+    "hanja": "連發",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연발하다",
+    "translation": "удаа дараалан үргэлжлэн гарах",
+    "hanja": "連發하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연방제",
+    "translation": "холбооны систем",
+    "hanja": "聯邦制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연배",
+    "translation": "насны нэг үеийн хүмүүс",
+    "hanja": "年輩",
+    "pos": "н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "연변",
+    "translation": "хүрээ",
+    "hanja": "沿邊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연병장",
+    "translation": "Сургалтын талбай",
+    "hanja": "練兵場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연보",
+    "translation": "жил тутмын тайлан",
+    "hanja": "年報",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "연보라",
+    "translation": "Нил ягаан",
+    "hanja": "軟보라",
+    "pos": "명사 (Noun)",
+    "cefr": "A2"
+  },
+  {
+    "word": "연보라색",
+    "translation": "цайвар ягаан өнгө",
+    "hanja": "軟보라色",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "연보랏빛",
+    "translation": "цайвар нил ягаан",
+    "hanja": "연보랏빛",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연보하다",
+    "translation": "хэвлэн нийтлэх (жил бүрийн тайлан)",
+    "hanja": "年報하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연복",
+    "translation": "жил бүрийн аз жаргал",
+    "hanja": "年福",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연봇돈",
+    "translation": "хандив",
+    "hanja": "捐募돈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연봉",
+    "translation": "жилийн цалин",
+    "hanja": "年俸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연분",
+    "translation": "хувь тавилан",
+    "hanja": "緣分",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연분홍",
+    "translation": "Цайвар ягаан",
+    "hanja": "軟粉紅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연분홍빛",
+    "translation": "ягаан өнгөтэй",
+    "hanja": "軟粉紅빛",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연분홍색",
+    "translation": "цайвар ягаан өнгө",
+    "hanja": "軟粉紅色",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연비",
+    "translation": "шатахуун зарцуулалт",
+    "hanja": "燃比",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연사",
+    "translation": "үргэлжлүүлэн буудах",
+    "hanja": "連射",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연사하다",
+    "translation": "үг хэлэх",
+    "hanja": "演辭하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "연산",
+    "translation": "тооцоолол",
+    "hanja": "演算",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연산군",
+    "translation": "Ёнсан Гүн (нэрийн хаан)",
+    "hanja": "연산군(燕山君)",
+    "pos": "인명",
+    "cefr": "C1"
+  },
+  {
+    "word": "연산하다",
+    "translation": "тооцоолох",
+    "hanja": "演算하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연상",
+    "translation": "холбоо, уялдуулан бодох",
+    "hanja": "聯想",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연상되다",
+    "translation": "сануулах",
+    "hanja": "聯想되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연상시키다",
+    "translation": "сануулах",
+    "hanja": "聯想시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연상하다",
+    "translation": "холбон санагалзах, төсөөлөн бодох",
+    "hanja": "聯想하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연생",
+    "translation": "он жил",
+    "hanja": "年生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연석",
+    "translation": "чулуун хашлага",
+    "hanja": "緣石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연설",
+    "translation": "илтгэл",
+    "hanja": "演說",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연설문",
+    "translation": "үг хэлэх текст, илтгэл",
+    "hanja": "演說文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연설하다",
+    "translation": "илтгэл тавих",
+    "hanja": "演說하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연설회",
+    "translation": "үг хэлэх хурал",
+    "hanja": "演說會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연성",
+    "translation": "зөөлөн, уян хатан",
+    "hanja": "軟性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연성하다",
+    "translation": "сулруулах",
+    "hanja": "軟性하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연세",
+    "translation": "нас",
+    "hanja": "年歲",
+    "pos": "м.н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "연소",
+    "translation": "шаталт",
+    "hanja": "燃燒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연소되다",
+    "translation": "шатах",
+    "hanja": "燃燒되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연소시키다",
+    "translation": "шатаах",
+    "hanja": "燃燒시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연소자",
+    "translation": "бага насны хүн",
+    "hanja": "年少者",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연소하다",
+    "translation": "шатах, түлэх",
+    "hanja": "燃燒하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연속",
+    "translation": "үргэлжлэл",
+    "hanja": "連續",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연속극",
+    "translation": "цуврал кино",
+    "hanja": "連屬劇",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연속되다",
+    "translation": "тасралтгүй үргэлжлэх",
+    "hanja": "連續되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "translation": "тасралтгүй байдал",
+    "hanja": "連續性",
+    "pos": "명사",
+    "cefr": "C1",
+    "word": "연속성"
+  },
+  {
+    "word": "연속적",
+    "translation": "тасралтгүй, үргэлжилсэн",
+    "hanja": "連續的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "연속하다",
+    "translation": "үргэлжлэх",
+    "hanja": "連續하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연쇄",
+    "translation": "Гинжин, цуврал",
+    "hanja": "連鎖",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "연쇄적",
+    "translation": "цуврал, дараалсан",
+    "hanja": "連鎖的",
+    "pos": "관형사",
+    "cefr": "C2"
+  },
+  {
+    "word": "연수",
+    "translation": "сургалт, дадлага",
+    "hanja": "硏修",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연수생",
+    "translation": "сурагч, дадлагажигч",
+    "hanja": "研修生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연수원",
+    "translation": "Сургалтын төв",
+    "hanja": "硏修院",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연수하다",
+    "translation": "Сургах, дадлагажуулах",
+    "hanja": "硏修하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연숙",
+    "translation": "хоёрдугаар байрлах",
+    "hanja": "連宿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연습",
+    "translation": "дасгал, сургууль",
+    "hanja": "練習",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연습량",
+    "translation": "дасгалын хэмжээ",
+    "hanja": "練習量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연습생",
+    "translation": "дадлагажигч",
+    "hanja": "練習生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연습용",
+    "translation": "дадлагын зориулалттай",
+    "hanja": "練習用",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연습장",
+    "translation": "дасгалын дэвтэр",
+    "hanja": "練習帳",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "연습하다",
+    "translation": "дасгал хийх",
+    "hanja": "練習하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연승",
+    "translation": "дараалсан ялалт",
+    "hanja": "連勝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연승하다",
+    "translation": "дараалан ялах",
+    "hanja": "連勝하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "연시",
+    "translation": "Шинэ жилийн шүлэг / Зөөлөн хүрэн жимс",
+    "hanja": "軟柿 / 戀詩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연식",
+    "translation": "зөөлөн",
+    "hanja": "軟式",
+    "pos": "тэмдэг нэр",
+    "cefr": "B1"
+  },
+  {
+    "word": "연심",
+    "translation": "хайрын сэтгэл",
+    "hanja": "戀心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연싸움",
+    "translation": "цаасан шувууны тэмцэл",
+    "hanja": "연싸움",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연안",
+    "translation": "Эрэг, далайн эрэг",
+    "hanja": "沿岸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연안파",
+    "translation": "далайн эрэг",
+    "hanja": "沿岸派",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "연암",
+    "translation": "Ёнам (хүний нэр, газар)",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연애",
+    "translation": "хайр дурлал, болзоо",
+    "hanja": "戀愛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연애결혼",
+    "translation": "хайрын гэрлэлт",
+    "hanja": "戀愛結婚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연애질하다",
+    "translation": "хайр дурлалын харилцаатай байх",
+    "hanja": "戀愛질하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연애편지",
+    "translation": "хайрын захидал",
+    "hanja": "戀愛便紙",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연애하다",
+    "translation": "Үерхэх",
+    "hanja": "戀愛하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "연약",
+    "translation": "эмзэг",
+    "hanja": "軟弱",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "연약하다",
+    "translation": "эмзэг, сул дорой",
+    "hanja": "軟弱하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연어",
+    "translation": "хулд загас",
+    "hanja": "鰱魚",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연역",
+    "translation": "Дүгнэлт, дедукци",
+    "hanja": "演繹",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "연역적",
+    "translation": "Дүгнэлтийн",
+    "hanja": "演繹的",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "연연",
+    "translation": "үргэлжлүүлэн",
+    "hanja": "連連",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연연하다",
+    "translation": "Хүсэж тэмүүлэх",
+    "hanja": "戀戀하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "연예",
+    "translation": "зугаа цэнгэл",
+    "hanja": "演藝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연예계",
+    "translation": "шоу бизнесийн салбар",
+    "hanja": "演藝界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연예인",
+    "translation": "зугаа цэнгэлчин",
+    "hanja": "演藝人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연옥",
+    "translation": "цагаан хаш, номин",
+    "hanja": "軟玉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연우",
+    "translation": "хүчтэй бороо",
+    "hanja": "軟雨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연원",
+    "translation": "үүсэл",
+    "hanja": "淵源",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연월",
+    "translation": "он сар",
+    "hanja": "年月",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연유",
+    "translation": "шалтгаан, үүсэл",
+    "hanja": "緣由",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연유하다",
+    "translation": "шалтгаалах",
+    "hanja": "緣由하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "연육",
+    "translation": "зөөлрүүлсэн мах",
+    "hanja": "軟肉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연음",
+    "translation": "холбох авиа",
+    "hanja": "連音",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연의",
+    "translation": "романы",
+    "hanja": "演義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연이",
+    "translation": "Дараалал, үргэлжлэл",
+    "hanja": "連異",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연인",
+    "translation": "хайртууд",
+    "hanja": "戀人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연임",
+    "translation": "дахин томилогдох",
+    "hanja": "連任",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연임하다",
+    "translation": "үргэлжлүүлэн ажиллах",
+    "hanja": "連任하다",
+    "pos": "동사",
+    "cefr": null
+  },
+  {
+    "word": "연잇다",
+    "translation": "удаа дараалан үргэлжлэх",
+    "hanja": "連이따",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연잎",
+    "translation": "бадамлянхуа навч",
+    "hanja": "蓮잎",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연작",
+    "translation": "цуврал бүтээл",
+    "hanja": "連作",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연장",
+    "translation": "Сунгах, уртасгах",
+    "hanja": "延長",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연장되다",
+    "translation": "сунгагдах",
+    "hanja": "延長되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "연장선",
+    "translation": "Сунгах шугам, үргэлжлэл",
+    "hanja": "延長線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연장자",
+    "translation": "Ахмад хүн",
+    "hanja": "年長者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연장전",
+    "translation": "нэмэлт цаг",
+    "hanja": "延長戰",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연장통",
+    "translation": "багажны хайрцаг",
+    "hanja": "연장통",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연장하다",
+    "translation": "Сунгах",
+    "hanja": "延長하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연재",
+    "translation": "цуврал нийтлэл",
+    "hanja": "連載",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연재되다",
+    "translation": "Цувралаар гарах",
+    "hanja": "連載",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연재물",
+    "translation": "цуврал",
+    "hanja": "連載物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연재소설",
+    "translation": "Цуврал роман",
+    "hanja": "連載小說",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연재하다",
+    "translation": "цувралаар нийтлэх",
+    "hanja": "連載하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "연적",
+    "translation": "Хайрын өрсөлдөгч",
+    "hanja": "戀敵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연전",
+    "translation": "олон дараалсан тулаан, өмнөх жилүүд",
+    "hanja": "連戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연전연승",
+    "translation": "үргэлжлүүлэн ялах",
+    "hanja": "連戰連勝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연접하다",
+    "translation": "холбогдох",
+    "hanja": "連接하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "연정",
+    "translation": "хайр сэтгэл",
+    "hanja": "戀情",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연제",
+    "translation": "цуврал",
+    "hanja": "연제(聯題)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연좌",
+    "translation": "суудал",
+    "hanja": "連座",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연주",
+    "translation": "тоглолт",
+    "hanja": "演奏",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연주가",
+    "translation": "хөгжимчин",
+    "hanja": "演奏家",
+    "pos": "명",
+    "cefr": "B1"
+  },
+  {
+    "word": "연주대",
+    "translation": "хөгжим тоглох тайз",
+    "hanja": "演奏臺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연주되다",
+    "translation": "тоглогдох",
+    "hanja": "演奏되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연주자",
+    "translation": "хөгжимчин",
+    "hanja": "演奏者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "연주하다",
+    "translation": "хийлдэх",
+    "hanja": "演奏하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연주회",
+    "translation": "Хөгжмийн тоглолт",
+    "hanja": "演奏會",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연줄",
+    "translation": "цаасан шувууны олс; танил тал",
+    "hanja": "鳶줄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연중",
+    "translation": "бүхий л жилийн турш",
+    "hanja": "年中",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연중무휴",
+    "translation": "Жил тойрон тасралтгүй ажиллах",
+    "hanja": "年中無休",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연중행사",
+    "translation": "жил тутмын арга хэмжээ",
+    "hanja": "年中行事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연질",
+    "translation": "зөөлөн чанар",
+    "hanja": "軟質",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연짱",
+    "translation": "дараалан",
+    "hanja": "連짱",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연차",
+    "translation": "Жилийн ээлжийн амралт",
+    "hanja": "年次",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연착",
+    "translation": "хойшилж ирэх",
+    "hanja": "延着",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연착되다",
+    "translation": "хойшилдох, саатах",
+    "hanja": "延着되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "연착륙하다",
+    "translation": "зөөлөн газардах, аажмаар тогтворжих",
+    "hanja": "軟着陸하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연착하다",
+    "translation": "хоцрох (тээвэр)",
+    "hanja": "延着하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "연참",
+    "translation": "Дараалсан олон тоо",
+    "hanja": "連斬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연천",
+    "translation": "Ёнчон (газар зүйн нэр)",
+    "hanja": "漣川",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연철",
+    "translation": "хүүдий төмөр",
+    "hanja": "軟鐵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연청",
+    "translation": "цайвар цэнхэр",
+    "hanja": "軟靑",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연체",
+    "translation": "хоцролт, хугацаа хэтрэх",
+    "hanja": "延滯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연체동물",
+    "translation": "зөөлөн биетэн",
+    "hanja": "軟體動物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연체되다",
+    "translation": "хугацаа хэтрэх, хоцрох",
+    "hanja": "延滯되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연체료",
+    "translation": "Хугацаа хэтрүүлсний торгууль",
+    "hanja": "延滯料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연체하다",
+    "translation": "Хугацаа хэтрүүлэх",
+    "hanja": "延滯하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연초",
+    "translation": "оны эхэнд",
+    "hanja": "年初",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연초록",
+    "translation": "Цайвар ногоон",
+    "hanja": "軟草綠",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연출",
+    "translation": "найруулга",
+    "hanja": "演出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연출가",
+    "translation": "найруулагч, зохион байгуулагч",
+    "hanja": "演出家",
+    "pos": "н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "연출되다",
+    "translation": "найруулагдах",
+    "hanja": "演出되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "연출력",
+    "translation": "найруулах чадвар",
+    "hanja": "演出力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연출자",
+    "translation": "найруулагч",
+    "hanja": "演出者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연출하다",
+    "translation": "найруулах",
+    "hanja": "演出─",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연타",
+    "translation": "дараалсан цохилт",
+    "hanja": "連打",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연타하다",
+    "translation": "Дарааллан цохих",
+    "hanja": "連打하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연탄",
+    "translation": "нүүрсэн түлш",
+    "hanja": "練炭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연탄가스",
+    "translation": "нүүрсний хий",
+    "hanja": "煉炭gas",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연탄재",
+    "translation": "Нүүрсний үнс",
+    "hanja": "燃炭재",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "연태",
+    "translation": "Янтай (хот)",
+    "hanja": "烟臺",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "연통",
+    "translation": "яндан",
+    "hanja": "煙筒",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "연통하다",
+    "translation": "харилцах",
+    "hanja": "連通하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연파하다",
+    "translation": "Дараалуулан ялах",
+    "hanja": "連破하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연패",
+    "translation": "дараалан ялагдах",
+    "hanja": "連敗",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연패하다",
+    "translation": "дараалан ялагдах",
+    "hanja": "連敗하다",
+    "pos": "동",
+    "cefr": "B2"
+  },
+  {
+    "word": "연평",
+    "translation": "жил бүрийн",
+    "hanja": "年評",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연평균",
+    "translation": "Жилийн дундаж",
+    "hanja": "年平均",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "연포",
+    "translation": "зөөлөн даавуу",
+    "hanja": "軟布",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "연표",
+    "translation": "Он цагийн хүснэгт",
+    "hanja": "年表",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "연필",
+    "translation": "харандаа",
+    "hanja": "鉛筆",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "연필깎이",
+    "translation": "харандаа үзүүрлэгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "연필꽂이",
+    "translation": "харандаа тогтоогч",
+    "hanja": "연필꽂이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "연필심",
+    "translation": "Харандааны бал",
+    "hanja": "鉛筆心",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연하",
+    "translation": "залуу",
+    "hanja": "年下",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연하다",
+    "translation": "зөөлөн, сул",
+    "hanja": "軟하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연하장",
+    "translation": "шинэ жилийн мэндчилгээний карт",
+    "hanja": "年賀狀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연한",
+    "translation": "зөөлөн, нарийхан",
+    "hanja": "軟한",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연합",
+    "translation": "холбоо",
+    "hanja": "聯合",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연합국",
+    "translation": "Холбоотнууд",
+    "hanja": "聯合國",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연합군",
+    "translation": "Холбоотны арми",
+    "hanja": "聯合軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연합되다",
+    "translation": "нэгдэх, холбогдох",
+    "hanja": "聯合─",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연합하다",
+    "translation": "Нэгдэх",
+    "hanja": "聯合하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연해주",
+    "translation": "далайн эрэг",
+    "hanja": "沿海州",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연행",
+    "translation": "баривчлах",
+    "hanja": "連行",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연행되다",
+    "translation": "баривчлагдах, саатуулагдах",
+    "hanja": "連行되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연행하다",
+    "translation": "Хуцалд тушаах, цагдаад хүргэх",
+    "hanja": "連行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연향",
+    "translation": "илүү үнэр",
+    "hanja": "筵享",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "연혁",
+    "translation": "түүх, хөгжлийн явц",
+    "hanja": "沿革",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연호하다",
+    "translation": "хашгирах, алга таших",
+    "hanja": "連呼하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연홍",
+    "translation": "цайвар улаан",
+    "hanja": "軟紅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연화",
+    "translation": "Бадамлянхуа цэцэг",
+    "hanja": "蓮花",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연회",
+    "translation": "үдэшлэг",
+    "hanja": "宴會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연회비",
+    "translation": "Жилийн төлбөр",
+    "hanja": "年會費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연회색",
+    "translation": "цайвар саарал",
+    "hanja": "軟灰色",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "연회장",
+    "translation": "үдэшлэгийн танхим",
+    "hanja": "宴會場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연횡",
+    "translation": "хөндлөн холбоо",
+    "hanja": "連衡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "연휴",
+    "translation": "урт амралт",
+    "hanja": "連休",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연흥",
+    "translation": "Үргэлжилсэн урамшил, баясгалан",
+    "hanja": "延興",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연희",
+    "translation": "зугаа цэнгэл, шоу",
+    "hanja": "演戱",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "word": "악",
+    "translation": "Муу",
+    "hanja": "惡",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "악개",
+    "translation": "фандомд муу хүн",
+    "hanja": "惡개",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악곡",
+    "translation": "дууны аялгуу",
+    "hanja": "樂曲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악공",
+    "translation": "хөгжимчин",
+    "hanja": "樂工",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악궁",
+    "translation": "эрүүний яс",
+    "hanja": "顎弓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악귀",
+    "translation": "чөтгөр",
+    "hanja": "惡鬼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악기",
+    "translation": "хөгжмийн зэмсэг",
+    "hanja": "樂器",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "악기점",
+    "translation": "хөгжмийн зэвсгийн дэлгүүр",
+    "hanja": "樂器店",
+    "pos": "нэр үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "악녀",
+    "translation": "муу эмэгтэй",
+    "hanja": "惡女",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악다물다",
+    "translation": "шүд зуух, тэсвэрлэх",
+    "hanja": "악다물다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "악단",
+    "translation": "Хөгжмийн баг",
+    "hanja": "樂團",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "악담",
+    "translation": "муу үг",
+    "hanja": "惡談",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악담하다",
+    "translation": "муугаар хэлэх",
+    "hanja": "惡談하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악당",
+    "translation": "Муу залуу",
+    "hanja": "惡黨",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "악대",
+    "translation": "хөгжмийн баг",
+    "hanja": "樂隊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "악덕",
+    "translation": "муу санаа",
+    "hanja": "惡德",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악독",
+    "translation": "муу санаатай (Шинж чанар)",
+    "hanja": "惡毒",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "악독하다",
+    "translation": "муу санаатай",
+    "hanja": "惡毒하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "악동",
+    "translation": "дүрсгүй хүүхэд, муу залуу",
+    "hanja": "惡童",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악랄하다",
+    "translation": "Харгис хэрцгий",
+    "hanja": "惡辣하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악력",
+    "translation": "хурууны хүч, атгах чадвар",
+    "hanja": "握力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악령",
+    "translation": "чөтгөр",
+    "hanja": "惡靈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악마",
+    "translation": "чөтгөр",
+    "hanja": "惡魔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악마적",
+    "translation": "чөтгөрийн",
+    "hanja": "惡魔的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악명",
+    "translation": "муу нэр",
+    "hanja": "惡名",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "악몽",
+    "translation": "муу зүүд",
+    "hanja": "惡夢",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "악물다",
+    "translation": "шүд зуух",
+    "hanja": "악물다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악법",
+    "translation": "муу хууль",
+    "hanja": "惡法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악보",
+    "translation": "ноот",
+    "hanja": "樂譜",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악사",
+    "translation": "хөгжимчин",
+    "hanja": "樂士",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "악상",
+    "translation": "Нотны дүрс",
+    "hanja": "樂想",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악성",
+    "translation": "хортой",
+    "hanja": "惡性",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악세",
+    "translation": "Аксессуар",
+    "hanja": "악세",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "악세사리",
+    "translation": "Эд хэрэгсэл",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "악센트",
+    "translation": "өргөлт, акцент",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "악셀",
+    "translation": "аксель (хурдасгуур)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "악소",
+    "translation": "түнш",
+    "hanja": "幄所",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "악수",
+    "translation": "гар барих",
+    "hanja": "握手",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "악수하다",
+    "translation": "гар барих",
+    "hanja": "握手하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "악순환",
+    "translation": "муу муухай давтамж",
+    "hanja": "惡循環",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "악습",
+    "translation": "муу зуршил",
+    "hanja": "惡習",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "악식",
+    "translation": "муу хооллолт",
+    "hanja": "惡食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악신",
+    "translation": "муу бурхан",
+    "hanja": "惡神",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "악쓰다",
+    "translation": "хашхирах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "악악",
+    "translation": "уурлах",
+    "hanja": "악악",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악어",
+    "translation": "Матар",
+    "hanja": "鰐魚",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "악업",
+    "translation": "Муу үйл, нүгэл",
+    "hanja": "惡業",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악역",
+    "translation": "муу дүр",
+    "hanja": "惡役",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악연",
+    "translation": "муу хувь тавилан",
+    "hanja": "惡緣",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "악영향",
+    "translation": "муу нөлөө, сөрөг нөлөө",
+    "hanja": "惡影響",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악용",
+    "translation": "буруугаар ашиглах",
+    "hanja": "惡用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악용되다",
+    "translation": "буруугаар ашиглагдах",
+    "hanja": "惡用되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "악용하다",
+    "translation": "буруугаар ашиглах",
+    "hanja": "惡用하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악운",
+    "translation": "муу хувь",
+    "hanja": "惡運",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악의",
+    "translation": "хор хөнөөл, муу санаа",
+    "hanja": "惡意",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악인",
+    "translation": "муу хүн",
+    "hanja": "惡人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악장",
+    "translation": "хөгжмийн хэсэг",
+    "hanja": "樂章",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악재",
+    "translation": "муу мэдээ",
+    "hanja": "惡材",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악전고투",
+    "translation": "хүнд хэцүү тулаан",
+    "hanja": "惡戰苦鬪",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "악전고투하다",
+    "translation": "ширүүн тулалдах, үхэн хатан тэмцэх",
+    "hanja": "惡戰苦鬪하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "악정",
+    "translation": "муу засаглал, дарангуйлал",
+    "hanja": "惡政",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악조건",
+    "translation": "хүнд нөхцөл",
+    "hanja": "惡條件",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악주",
+    "translation": "муу тэмдэглэл",
+    "hanja": "惡奏",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "악질",
+    "translation": "муу зан чанар, хорон санаа",
+    "hanja": "惡質",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "악착",
+    "translation": "зөрүүд, гөжүүд",
+    "hanja": "惡着",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "악착같다",
+    "translation": "шаргуу",
+    "hanja": "齷齪같다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악착스럽다",
+    "translation": "шаргуу",
+    "hanja": "惡着스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악처",
+    "translation": "Муу эхнэр",
+    "hanja": "惡妻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악천후",
+    "translation": "цаг агаарын муу нөхцөл",
+    "hanja": "惡天候",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악취",
+    "translation": "Муухай үнэр",
+    "hanja": "惡臭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악취미",
+    "translation": "муу амт",
+    "hanja": "惡趣味",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악편",
+    "translation": "хорлонтой засвар",
+    "hanja": "惡編",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "악평",
+    "translation": "муу үнэлгээ, муу нэр хүнд",
+    "hanja": "惡評",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악플러",
+    "translation": "хорон сэтгэгдэл бичигч",
+    "hanja": "惡플러",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악필",
+    "translation": "Муу бичгийн хэлбэр",
+    "hanja": "惡筆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "악하다",
+    "translation": "Муу, хорон",
+    "hanja": "惡하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악학",
+    "translation": "Хөгжмийн онол",
+    "hanja": "樂學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악한",
+    "translation": "муу хүн",
+    "hanja": "惡漢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "악행",
+    "translation": "муу үйлдэл",
+    "hanja": "惡行",
+    "pos": "мüns",
+    "cefr": "B2"
+  },
+  {
+    "word": "악화",
+    "translation": "муудаж",
+    "hanja": "惡化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악화되다",
+    "translation": "муудаж доройтох",
+    "hanja": "惡化-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악화시키다",
+    "translation": "Муутгах",
+    "hanja": "惡化시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악화하다",
+    "translation": "доройтуулах",
+    "hanja": "惡化하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "악희",
+    "translation": "Муу хошигнол, муу тоглоом",
+    "hanja": "惡戱",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

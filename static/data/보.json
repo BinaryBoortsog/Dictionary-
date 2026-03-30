@@ -1,0 +1,2466 @@
+[
+  {
+    "word": "보",
+    "translation": "хүүдий, далан",
+    "hanja": "堡",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "보감",
+    "translation": "Оношлогоо, эмчилгээний ном",
+    "hanja": "寶鑑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보강",
+    "translation": "Нэмэлт хүч, бэхжүүлэх",
+    "hanja": "補强",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보강되다",
+    "translation": "보강되다, 보충되다",
+    "hanja": "補强되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보강하다",
+    "translation": "хүчирхэгжүүлэх, бэхжүүлэх",
+    "hanja": "補強하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보거",
+    "translation": "хар загас",
+    "hanja": "鯡魚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보건",
+    "translation": "эрүүл мэнд, ариун цэвэр",
+    "hanja": "保健",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보건소",
+    "translation": "эрүүл мэндийн газар",
+    "hanja": "保健所",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보걸",
+    "translation": "бөгс",
+    "hanja": "ㅡ",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보검",
+    "translation": "үнэт сэлэм",
+    "hanja": "寶劍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보게",
+    "translation": "хараач",
+    "hanja": "보게",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "보고",
+    "translation": "Мэдэгдэл, тайлан",
+    "hanja": "報告",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보고대회",
+    "translation": "илтгэх хурал",
+    "hanja": "報告大會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보고되다",
+    "translation": "мэдэгдэх",
+    "hanja": "報告되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보고타",
+    "translation": "Богота",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보고하다",
+    "translation": "мэдэгдэх",
+    "hanja": "報告하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "보고회",
+    "translation": "тайлангийн хурал",
+    "hanja": "報告會",
+    "pos": "name",
+    "cefr": "B2"
+  },
+  {
+    "word": "보공",
+    "translation": "туслах ажилчин",
+    "hanja": "補工",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보관",
+    "translation": "хадгалах, хадгаламж",
+    "hanja": "保管",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보관되다",
+    "translation": "хадгалагдах",
+    "hanja": "保管되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보관료",
+    "translation": "хадгалалтын төлбөр",
+    "hanja": "保管料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보관소",
+    "translation": "Хадаглах газар",
+    "hanja": "保管所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보관하다",
+    "translation": "хадгалах",
+    "hanja": "保管하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보관함",
+    "translation": "хадгалах шүүгээ, хайрцаг",
+    "hanja": "保管函",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보광",
+    "translation": "нэмэлт гэрэл",
+    "hanja": "補光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보구",
+    "translation": "Хамгаалалтын багаж",
+    "hanja": "保護具",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보국",
+    "translation": "Эх орноо хамгаалах, эх орондоо үйлчлэх",
+    "hanja": "報國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보궐",
+    "translation": "нөхөн сонгууль",
+    "hanja": "補闕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보균자",
+    "translation": "тээгч",
+    "hanja": "保菌者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보글거리다",
+    "translation": "буцлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보글보글",
+    "translation": "Буцлах чимээ",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보글보글하다",
+    "translation": "буцалж буй",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보금",
+    "translation": "үүр",
+    "hanja": "보금",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보금자리",
+    "translation": "үр",
+    "hanja": "보금자리",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "보급",
+    "translation": "нийлүүлэлт, түгээлт",
+    "hanja": "普及",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보급되다",
+    "translation": "тархах",
+    "hanja": "普及되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보급소",
+    "translation": "хангамжийн газар",
+    "hanja": "補給所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보급품",
+    "translation": "хангамж",
+    "hanja": "補給品",
+    "pos": "сущ",
+    "cefr": "B2"
+  },
+  {
+    "word": "보급하다",
+    "translation": "хангах",
+    "hanja": "普及하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "보기하다",
+    "translation": "байрлуулах, үзүүлэх",
+    "hanja": "補記하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보꾸",
+    "translation": "бөгс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보끄다",
+    "translation": "зөөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보나파르트",
+    "translation": "Бонапарт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보내다",
+    "translation": "илгээх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "보너",
+    "translation": "бонус",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "보너스",
+    "translation": "урамшуулал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보노",
+    "translation": "боно",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보노보",
+    "translation": "бонобо (сармагчингийн төрөл)",
+    "hanja": "보노보",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보늬",
+    "translation": "алимны хальс",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "보니",
+    "translation": "харсан",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "보닛",
+    "translation": "боннет",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보다",
+    "translation": "харах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "보담",
+    "translation": "илүү",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보답",
+    "translation": "Шагнал",
+    "hanja": "報答",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보답하다",
+    "translation": "буцааж өгөх, хариулах",
+    "hanja": "報答하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보덕",
+    "translation": "буян хийх",
+    "hanja": "報德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보도",
+    "translation": "мэдээ, сурвалжлага",
+    "hanja": "報道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보도국",
+    "translation": "мэдээний газар",
+    "hanja": "報道局",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보도되다",
+    "translation": "мэдээлэгдэх, гарч ирэх",
+    "hanja": "報道되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "보도블록",
+    "translation": "явган хүний зам",
+    "hanja": "步道block",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보도진",
+    "translation": "сэтгүүлчид (мэдээний баг)",
+    "hanja": "報道陣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보도하다",
+    "translation": "мэдээлэх",
+    "hanja": "報道하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "보드",
+    "translation": "самбар",
+    "hanja": "board",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "보드랍다",
+    "translation": "зөөлөн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보드럽다",
+    "translation": "зөөлөн, намуун",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보드빌",
+    "translation": "Водевиль",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보드카",
+    "translation": "водка",
+    "hanja": "vodka",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보들레르",
+    "translation": "бодлер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보들보들",
+    "translation": "зөөлөн зөөлөн, зөөлөнхөн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보들보들하다",
+    "translation": "зөөлөн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보들하다",
+    "translation": "Зөөлхөн, нимгэн зөөлөн",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보듬",
+    "translation": "тэврэлт",
+    "hanja": "보듬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보듬다",
+    "translation": "Тэврэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "보디",
+    "translation": "бие",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "보디가드",
+    "translation": "бие хамгаалагч",
+    "hanja": "bodyguard",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "보디빌더",
+    "translation": "Бодибилдер",
+    "hanja": "bodybuilder",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보디빌딩",
+    "translation": "бодибилдинг",
+    "hanja": "bodybuilding",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "보딩",
+    "translation": "Суудал буух (онгоцонд)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보따리",
+    "translation": "түймэр",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보따리장수",
+    "translation": "савтай наймаачин",
+    "hanja": "보따리장수",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보라",
+    "translation": "харж үз, хар",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "보라빛",
+    "translation": "ягаан туяа",
+    "hanja": "―빛",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보라색",
+    "translation": "ягаан өнгө",
+    "hanja": "보라色",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "보라카이",
+    "translation": "Боракай (Филиппинийн нэгэн арал)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보람",
+    "translation": "үр дүн, үнэ цэнэ",
+    "hanja": "보람",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보람되다",
+    "translation": "ашигтай, үр дүнтэй байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보람차다",
+    "translation": "Үр дүнтэй",
+    "hanja": "보람차다",
+    "pos": "тэмдэг нэр",
+    "cefr": "B1"
+  },
+  {
+    "word": "보랏다",
+    "translation": "бордон ургасан",
+    "hanja": "보랏다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보랏빛",
+    "translation": "нил ягаан өнгө",
+    "hanja": "보랏빛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보랑",
+    "translation": "усны суваг, шуудуу",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보령",
+    "translation": "Борён",
+    "hanja": "保寧",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보로부두르",
+    "translation": "Боробудур",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보료",
+    "translation": "дэвсгэр, хивс",
+    "hanja": "鋪料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보루",
+    "translation": "цайз",
+    "hanja": "堡壘",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보류",
+    "translation": "хойшлуулах, түр зогсоох",
+    "hanja": "保留",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보류되다",
+    "translation": "хойшлогдох, түр зогсох",
+    "hanja": "保留되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보류하다",
+    "translation": "Хойшлуулах",
+    "hanja": "保留하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보르",
+    "translation": "Бор (нэр)",
+    "hanja": "보르",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "보르네오섬",
+    "translation": "Борнео арал",
+    "hanja": "보르네오섬",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보르다",
+    "translation": "хоосон",
+    "hanja": "보르다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보르도",
+    "translation": "Бордо",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보르트",
+    "translation": "болт",
+    "hanja": "bolt",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "보르헤스",
+    "translation": "Борхес",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보른",
+    "translation": "Борн (хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보름",
+    "translation": "арван тав хоног, бүтэн сар",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보름날",
+    "translation": "сарын 15, аргын тооллын 15",
+    "hanja": "보름날",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보름달",
+    "translation": "тэргэл сар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보리",
+    "translation": "арвай",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "보리밥",
+    "translation": "Арвайн будаа",
+    "hanja": "보리밥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보리밭",
+    "translation": "арвайн тариалан",
+    "hanja": "보리밭",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보리소프",
+    "translation": "Борисов (хүний нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보리수",
+    "translation": "бодь мод",
+    "hanja": "菩提樹",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보리쌀",
+    "translation": "арвай будаа",
+    "hanja": "보리쌀",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보리차",
+    "translation": "арвайн цай",
+    "hanja": "보리차",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보릿가루",
+    "translation": "арвайн гурил",
+    "hanja": "보릿가루",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보릿고개",
+    "translation": "үр тарианы хомсдолын үе, зудын үе",
+    "hanja": "보릿고개",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보릿대",
+    "translation": "арвайн иш",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "보릿자루",
+    "translation": "арвайн шуудай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보릿짚",
+    "translation": "Арвайн сүрэл",
+    "hanja": "보릿짚",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보링",
+    "translation": "Өрөмдөх, нүхлэх (boring)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보말",
+    "translation": "далайн дун",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보매",
+    "translation": "харахад",
+    "hanja": null,
+    "pos": "угс.",
+    "cefr": "B2"
+  },
+  {
+    "word": "보먼",
+    "translation": "харваач",
+    "hanja": " null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보면",
+    "translation": "Хэрэв үзвэл, харвал",
+    "hanja": "보면",
+    "pos": "연결 어미",
+    "cefr": "A1"
+  },
+  {
+    "word": "보모",
+    "translation": "Асрагч",
+    "hanja": "保姆",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "보무",
+    "translation": "алхаа гишгээ",
+    "hanja": "步武",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보문",
+    "translation": "Бомун (газрын нэр эсвэл хүний нэр)",
+    "hanja": "普門",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보물",
+    "translation": "чухал эрдэнэ",
+    "hanja": "寶物",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보물고",
+    "translation": "Эрдэнэсийн сан",
+    "hanja": "寶物庫",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보물단지",
+    "translation": "үнэт эрдэнэ",
+    "hanja": "寶物단지",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보물섬",
+    "translation": "эрдэнэсийн арал",
+    "hanja": "寶物섬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보물찾기",
+    "translation": "Эрдэнэс хайх",
+    "hanja": "寶物찾기",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보물찾기하다",
+    "translation": "баялаг хайх",
+    "hanja": "寶物찾기하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보미다",
+    "translation": "нарийн судлах",
+    "hanja": "보미다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보밀",
+    "translation": "шүд",
+    "hanja": "寶密",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보배",
+    "translation": "эрдэнэ",
+    "hanja": "寶貝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보배롭다",
+    "translation": "үнэтэй, эрхэм",
+    "hanja": "寶貝롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보법",
+    "translation": "гишгэх арга",
+    "hanja": "步法",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보병",
+    "translation": "Явган цэрэг",
+    "hanja": "步兵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보보",
+    "translation": "Бобо (нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보복",
+    "translation": "хариу үйлдэл, өшөө авах",
+    "hanja": "報復",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보복당하다",
+    "translation": "хариу арга хэмжээ авахуулах",
+    "hanja": "報復當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보복하다",
+    "translation": "хариу авах",
+    "hanja": "報復하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "보부아르",
+    "translation": "Бовуар",
+    "hanja": "波伏瓦",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보비",
+    "translation": "боби",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "보사",
+    "translation": "нөхөх, шагнах",
+    "hanja": "補寫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보산",
+    "translation": "Бүх уул (газар нэр)",
+    "hanja": "寶山",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "보살",
+    "translation": "бодьсадва",
+    "hanja": "菩薩",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보살피다",
+    "translation": "Асрах / Харж хандах",
+    "hanja": "보살피다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보살핌",
+    "translation": "Асрамж",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보상",
+    "translation": "Нөхөн төлбөр, шагнал",
+    "hanja": "報償",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보상금",
+    "translation": "Нөхөн төлбөр, шагнал",
+    "hanja": "補償金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보상되다",
+    "translation": "нөхөн төлөгдөх",
+    "hanja": "補償되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보상액",
+    "translation": "нөхөн олговрын дүн",
+    "hanja": "報償額",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보상하다",
+    "translation": "нөхөн төлөх, нөхөх",
+    "hanja": "報償하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "보색",
+    "translation": "нөхөх өнгө",
+    "hanja": "補色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보석",
+    "translation": "үнэт эдлэл",
+    "hanja": "寶石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보석금",
+    "translation": "барьцаа мөнгө",
+    "hanja": "保釋金",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보석상",
+    "translation": "үнэт эдлэлийн дэлгүүр",
+    "hanja": "寶石商",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보선",
+    "translation": "нэхсэн сонгууль",
+    "hanja": "補選",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보성",
+    "translation": "Босон (газар нэр)",
+    "hanja": "寶城",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보세",
+    "translation": "бонд",
+    "hanja": "保稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보세다",
+    "translation": "Богино байх",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "보속",
+    "translation": "хэмнэл",
+    "hanja": "步速",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보손",
+    "translation": "бозон",
+    "hanja": "보손",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보송보송",
+    "translation": "зөөлөн, хөвсгөр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보송보송하다",
+    "translation": "хөвсгөр, зөөлөн",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보송하다",
+    "translation": "зөөлөн, сэвсгэр",
+    "hanja": "보송하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보수",
+    "translation": "цалин",
+    "hanja": "報酬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보수되다",
+    "translation": "засварлагдах",
+    "hanja": "補修되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보수성",
+    "translation": "Консерватив байдал, байнга байдал",
+    "hanja": "保守性",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보수적",
+    "translation": "консерватив",
+    "hanja": "保守的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "보수파",
+    "translation": "консерватив тал",
+    "hanja": "保守派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보수하다",
+    "translation": "засварлах",
+    "hanja": "補修하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보수화되다",
+    "translation": "консерватив болох",
+    "hanja": "保守化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보슈",
+    "translation": "Бош (хүний нэр)",
+    "hanja": "보슈",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보스",
+    "translation": "Дарга",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "보스니아",
+    "translation": "Босни",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "보스턴",
+    "translation": "Бостон",
+    "hanja": "Boston",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보스토크",
+    "translation": "Восток (Зөвлөлтийн сансрын хөлөг)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보슬보슬",
+    "translation": "ширүүн",
+    "hanja": "보슬보슬",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "보슬보슬하다",
+    "translation": "ширхэгтэй, нягт биш",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보슬비",
+    "translation": "ширүүн бороо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보습",
+    "translation": "чийгшүүлэх",
+    "hanja": "保濕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보습하다",
+    "translation": "чийгшүүлэх",
+    "hanja": "保濕하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보시",
+    "translation": "буян, хандив",
+    "hanja": "布施",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보시다",
+    "translation": "үзэх, харах (хүндэтгэлийн хэлбэр)",
+    "hanja": "—",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "보시하다",
+    "translation": "өглөг өгөх",
+    "hanja": "布施하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보식",
+    "translation": "Нэмэлт хоол",
+    "hanja": "補食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보신",
+    "translation": "биеэ хамгаалах",
+    "hanja": "保身",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보신각",
+    "translation": "Бошингаг",
+    "hanja": "普信閣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보신탕",
+    "translation": "нохойн махны шөл",
+    "hanja": "補身湯",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보신하다",
+    "translation": "биеэ хамгаалах",
+    "hanja": "保身하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보쌈",
+    "translation": "Кимчи боодолтой гахайн мах",
+    "hanja": "보쌈",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보쌈김치",
+    "translation": "Боссам Кимчи (кимчиний төрөл)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보쌈하다",
+    "translation": "хулгайлах",
+    "hanja": "보쌈하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "보아",
+    "translation": "боа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보안",
+    "translation": "аюулгүй байдал",
+    "hanja": "保安",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보안경",
+    "translation": "хамгаалалтын нүдний шил",
+    "hanja": "保安鏡",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보안관",
+    "translation": "Шериф",
+    "hanja": "保安官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보안대",
+    "translation": "Аюулгүй байдлын хүч",
+    "hanja": "保安隊",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보안등",
+    "translation": "Хамгаалалтын гэрэл, аюулгүйн гэрэл",
+    "hanja": "保安燈",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보안원",
+    "translation": "аюулгүй байдлын ажилтан",
+    "hanja": "保安員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보안하다",
+    "translation": "баталгаажуулах",
+    "hanja": "補完하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "보애",
+    "translation": "хайрлах, хайр, хайр татах",
+    "hanja": "寶愛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보약",
+    "translation": "нөхөн сэргээх эм",
+    "hanja": "補藥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보양",
+    "translation": "биеэ тэнхрүүлэх, биеийн тамираар хичээллэх",
+    "hanja": "保養",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보양하다",
+    "translation": "биедээ анхаарах",
+    "hanja": "保養하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보얗다",
+    "translation": "цайвар",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "보어",
+    "translation": "комплемент",
+    "hanja": "보어(補語)",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보여",
+    "translation": "харуул",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "보여이",
+    "translation": "Бүеы",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "보오",
+    "translation": "үүрдэг, хүлээн зөвшөөрдөг",
+    "hanja": "报",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보옥",
+    "translation": "үнэт эрдэнэ",
+    "hanja": "寶玉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보온",
+    "translation": "дулаан хадгалах",
+    "hanja": "保溫",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "보온병",
+    "translation": "термос",
+    "hanja": "保溫C",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보완",
+    "translation": "нөхөн сэргээх",
+    "hanja": "補完",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보완되다",
+    "translation": "нөхөгдөх, нэмэлт болох",
+    "hanja": "補完되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보완하다",
+    "translation": "нөхөх, гүйцээх",
+    "hanja": "補完하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보우",
+    "translation": "ивээл",
+    "hanja": "保佑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보원",
+    "translation": "нөхөн сэргээх",
+    "hanja": "補元",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보위",
+    "translation": "Хамгаалах, манах",
+    "hanja": "保衛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보위하다",
+    "translation": "хамгаалах",
+    "hanja": "保衛하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보유",
+    "translation": "эзэмших, хадгалах",
+    "hanja": "保有",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보유량",
+    "translation": "нөөц, хадгалах хэмжээ",
+    "hanja": "保有量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보유자",
+    "translation": "Эзэмшигч",
+    "hanja": "保有者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보유하다",
+    "translation": "эзэмших",
+    "hanja": "保有하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보육",
+    "translation": "Үржүүлэг",
+    "hanja": "保育",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보육원",
+    "translation": "хүүхдийн асрах газар",
+    "hanja": "保育園",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보은",
+    "translation": "ачийг хариулах",
+    "hanja": "報恩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보은하다",
+    "translation": "буян хариулах",
+    "hanja": "報恩하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보응",
+    "translation": "хариу нэхэх",
+    "hanja": "報應",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보응하다",
+    "translation": "хариу нэхэх, шийтгэх",
+    "hanja": "報應하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보이",
+    "translation": "хүү",
+    "hanja": "보이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "보이다",
+    "translation": "харагдах, үзэгдэх",
+    "hanja": "보이다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "보이스",
+    "translation": "дуу хоолой",
+    "hanja": "보이스",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "보이시",
+    "translation": "Эрэгтэйлэг",
+    "hanja": "보이시",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보이시하다",
+    "translation": "Хөвгүүнлэг, эрэгтэйлэг харагдах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보이오티아",
+    "translation": "Бойотиа",
+    "hanja": "보이오티아",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "보이콧",
+    "translation": "бойкотлох",
+    "hanja": "보이콧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보이콧하다",
+    "translation": "бойкотлох",
+    "hanja": "보이콧하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보인",
+    "translation": "харсан, харагдсан",
+    "hanja": "보인",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보일",
+    "translation": "Бройль (тоглогч)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보일러",
+    "translation": "бойлер",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보일러실",
+    "translation": "зуухны өрөө",
+    "hanja": "boil실",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보임",
+    "translation": "Албан тушаалд томилогдох",
+    "hanja": "補任",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보잉",
+    "translation": "Боинг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보자",
+    "translation": "туурга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보자하다",
+    "translation": "Мэдээлэх",
+    "hanja": "補佐하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보잘것없다",
+    "translation": "утга учиргүй",
+    "hanja": "보잘것없다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "보잘것없이",
+    "translation": "өчүүхэн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보장",
+    "translation": "баталгаа",
+    "hanja": "保障",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보장되다",
+    "translation": "баталгаатай байх",
+    "hanja": "保障되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보장하다",
+    "translation": "баталгаажуулах",
+    "hanja": "保障하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보전",
+    "translation": "хадгалах, хамгаалах",
+    "hanja": "保全",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보전되다",
+    "translation": "хадгалагдах, хамгаалагдах",
+    "hanja": "保全되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보전하다",
+    "translation": "хадгалах, хамгаалах",
+    "hanja": "保全하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보정",
+    "translation": "залруулга, засвар",
+    "hanja": "補正",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보정하다",
+    "translation": "засах, залруулах",
+    "hanja": "補正하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보제",
+    "translation": "заслан хүмүүжүүлэх",
+    "hanja": "輔濟",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "보조",
+    "translation": "тусламж, дэмжлэг",
+    "hanja": "보조(補助)",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "보조개",
+    "translation": "хөндлүүр",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보조금",
+    "translation": "Тэтгэмж / Тусламж",
+    "hanja": "보조금 (補助金)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보조사",
+    "translation": "туслах үг",
+    "hanja": "補助詞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보조원",
+    "translation": "туслах, дэмжигч",
+    "hanja": "補助員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보조인",
+    "translation": "туслах хүн",
+    "hanja": "補助人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보조적",
+    "translation": "туслах",
+    "hanja": "補助的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보조하다",
+    "translation": "Туслах",
+    "hanja": "補助하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보존",
+    "translation": "хадгалах",
+    "hanja": "保存",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보존되다",
+    "translation": "Хадгалагдах, хадгалагдан үлдэх",
+    "hanja": "保存되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보존하다",
+    "translation": "Хадгалах",
+    "hanja": "保存하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보좌",
+    "translation": "туслах, дэмжих",
+    "hanja": "補佐",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보좌관",
+    "translation": "Зөвлөх",
+    "hanja": "補佐官",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보좌하다",
+    "translation": "туслах, дэмжих",
+    "hanja": "輔佐-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보주",
+    "translation": "үнэт чулуу, эрдэнэ",
+    "hanja": "寶珠",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "보즈",
+    "translation": "Боз (Монгол үндэсний хоол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보증",
+    "translation": "баталгаа",
+    "hanja": "保證",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보증금",
+    "translation": "барьцаа мөнгө",
+    "hanja": "保證金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보증되다",
+    "translation": "Баталгаатай болох",
+    "hanja": "保證되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "보증서",
+    "translation": "баталгааны бичиг",
+    "hanja": "保證書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보증인",
+    "translation": "Баталгаа гаргагч",
+    "hanja": "保證人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보증하다",
+    "translation": "баталгаажуулах",
+    "hanja": "保證하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "보직",
+    "translation": "албан тушаал",
+    "hanja": "補職",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보짱",
+    "translation": "Зориг, шантаршгүй байдал",
+    "hanja": "보짱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보채다",
+    "translation": "уйлах, дулаахан байх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "translation": "сонсголын аппарат",
+    "hanja": "補聽器",
+    "pos": "명사",
+    "cefr": "B1",
+    "word": "보청기"
+  },
+  {
+    "word": "보초",
+    "translation": "Харуул, манаа",
+    "hanja": "步哨",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보충",
+    "translation": "нэмэлт, нөхөх",
+    "hanja": "補充",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보충되다",
+    "translation": "нөхөгдөх",
+    "hanja": "補充되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보충하다",
+    "translation": "нөхөх",
+    "hanja": "補充하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "보츠와나",
+    "translation": "Ботсвана",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보치아",
+    "translation": "бочча (спортын төрөл)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보카치오",
+    "translation": "Боккаччио",
+    "hanja": "보카치오",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보컬",
+    "translation": "дуу",
+    "hanja": "보컬",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보컬리스트",
+    "translation": "Дуучин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보쿠",
+    "translation": "Би (эрэгтэй хүний яриа)",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "보크",
+    "translation": "вок",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보크사이트",
+    "translation": "боксит",
+    "hanja": "보크사이트",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보태다",
+    "translation": "нэмэх",
+    "hanja": "補태다",
+    "pos": "үйл",
+    "cefr": "B1"
+  },
+  {
+    "word": "보탬",
+    "translation": "нэмэх",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보터",
+    "translation": "Завьчин",
+    "hanja": "보터",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보텀",
+    "translation": "боттом",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보테",
+    "translation": "Нэмэлт (дутагдлыг нөхөх)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보통",
+    "translation": "ихэвчлэн, ердийн",
+    "hanja": "普通",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보통내기",
+    "translation": "Энгийн хүн",
+    "hanja": "普通내기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보툴리눔",
+    "translation": "ботулинум",
+    "hanja": null,
+    "pos": "의학 용어",
+    "cefr": null
+  },
+  {
+    "word": "보퉁이",
+    "translation": "багц, боодол",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "보트",
+    "translation": "завь",
+    "hanja": "boat",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보트피플",
+    "translation": "завины дүрвэгсэд",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "보티첼리",
+    "translation": "Боттичелли",
+    "hanja": "보티첼리",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보파",
+    "translation": "Бопа (тодорхой утгагүй)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보편",
+    "translation": "бүх нийтийн",
+    "hanja": "普遍",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보편성",
+    "translation": "нийтлэг чанар",
+    "hanja": "普遍性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보편적",
+    "translation": "түгээмэл",
+    "hanja": "普遍的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보편타당하다",
+    "translation": "бүх нийтэд хүчинтэй байх",
+    "hanja": "普遍妥當하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보편화",
+    "translation": "түгээмэл болох, нийтээр тархах",
+    "hanja": "普遍化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보편화되다",
+    "translation": "нийтлэг болох",
+    "hanja": "普遍化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보편화하다",
+    "translation": "түгээмэл болгох",
+    "hanja": "普遍化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보폭",
+    "translation": "Алхаа, гишгүүр",
+    "hanja": "步幅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보푸라기",
+    "translation": "хөвөн, ганц ширхэг хөвөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보풀",
+    "translation": "унжлага",
+    "hanja": "보풀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보프",
+    "translation": "боф",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보필",
+    "translation": "туслах, дэмжих",
+    "hanja": "輔弼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보필하다",
+    "translation": "туслах",
+    "hanja": "輔弼-",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "보하다",
+    "translation": "хамгаалах, нөхөн олгох",
+    "hanja": "保—",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보합",
+    "translation": "Үнэ тогтвортой байх",
+    "hanja": "保合",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보행",
+    "translation": "явган явах",
+    "hanja": "步行",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보행교",
+    "translation": "явган хүний гүүр",
+    "hanja": "步行橋",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보행기",
+    "translation": "Хүүхдийн алхагч",
+    "hanja": "步行機",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "보행하다",
+    "translation": "Явган явах",
+    "hanja": "步行하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보험",
+    "translation": "даатгал",
+    "hanja": "保險",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보험금",
+    "translation": "даатгалын мөнгө",
+    "hanja": "保險金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보험료",
+    "translation": "даатгалын хураамж",
+    "hanja": "保險料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보험증",
+    "translation": "даатгалын гэрчилгээ",
+    "hanja": "保險證",
+    "pos": "NOUN",
+    "cefr": "B1"
+  },
+  {
+    "word": "보헤미아",
+    "translation": "Бохемиа",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "보헤미안",
+    "translation": "богемиан",
+    "hanja": "Bohemian",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보혈",
+    "translation": "цусыг нөхөх",
+    "hanja": "補血",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보형물",
+    "translation": "имплант, суулгац",
+    "hanja": "補形物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보혜",
+    "translation": "Бохи",
+    "hanja": "普惠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보호",
+    "translation": "хамгаалалт",
+    "hanja": "保護",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "보호국",
+    "translation": "ивээл улс",
+    "hanja": "保護國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보호대",
+    "translation": "хамгаалалтын хэрэгсэл",
+    "hanja": "保護帶",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보호되다",
+    "translation": "хамгаалагдах",
+    "hanja": "保護되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보호막",
+    "translation": "хамгаалах бүрхүүл",
+    "hanja": "保護幕",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "보호색",
+    "translation": "хамгаалалтын өнгө",
+    "hanja": "保護色",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "보호안경",
+    "translation": "хамгаалалтын нүдний шил",
+    "hanja": "保護眼鏡",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보호자",
+    "translation": "Асран хамгаалагч",
+    "hanja": "保護者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보호제",
+    "translation": "хамгаалагч бодис",
+    "hanja": "保護劑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보호책",
+    "translation": "Хамгаалалтын арга хэмжээ",
+    "hanja": "保護策",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보호하다",
+    "translation": "хамгаалах",
+    "hanja": "保護하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "보화",
+    "translation": "Эрдэнэсийн зүйл",
+    "hanja": "寶貨",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "보훈",
+    "translation": "хүндэтгэлтэй хандах",
+    "hanja": "報勳",
+    "pos": "Noun",
+    "cefr": "C1"
+  }
+]

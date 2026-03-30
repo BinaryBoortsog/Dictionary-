@@ -1,0 +1,2179 @@
+[
+  {
+    "word": "개",
+    "translation": "Нохой",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "개가",
+    "translation": "гэрлэх",
+    "hanja": "改嫁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개각",
+    "translation": "засгийн газрын өөрчлөлт",
+    "hanja": "改閣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개간",
+    "translation": "газар хагалах, эзгүй газар эзэмших",
+    "hanja": "開墾",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개간되다",
+    "translation": "эзэмшүүлэгдэх",
+    "hanja": "開墾되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개간지",
+    "translation": "ганц газар",
+    "hanja": "開墾地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개간하다",
+    "translation": "газар хагалж тариалах",
+    "hanja": "開墾하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개강",
+    "translation": "хичээл эхлэх",
+    "hanja": " gaegang",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "개강하다",
+    "translation": "хичээл эхлэх",
+    "hanja": "開講하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개같다",
+    "translation": "нохой шиг (муухай, дургүйцсэн)",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "개개비",
+    "translation": "туулай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개개인",
+    "translation": "хувь хүн",
+    "hanja": "個個人",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개거",
+    "translation": "хуучин аргыг халж, шинэ дээр тогтох",
+    "hanja": "皆去",
+    "pos": "нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "개경",
+    "translation": "нээлт",
+    "hanja": "開京",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "개고생",
+    "translation": "хүнд бэрх байдал, аймшигтай зовлон",
+    "hanja": "개苦生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개고생하다",
+    "translation": "маш их зовох",
+    "hanja": "개苦生하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개골개골",
+    "translation": "мэлхий дуу",
+    "hanja": "개골개골",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개과",
+    "translation": "засрах",
+    "hanja": "改過",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개과천선",
+    "translation": "муугаасаа сайн руу өөрчлөгдөх",
+    "hanja": "改過遷善",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개과천선하다",
+    "translation": "ухаарах",
+    "hanja": "改過遷善하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개관",
+    "translation": "нээлтийн үйл ажиллагаа",
+    "hanja": "開館",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개관되다",
+    "translation": "нээлттэй болох (барилга, музей)",
+    "hanja": "開館되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개관식",
+    "translation": "Нээлтийн ёслол",
+    "hanja": "開館式",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개관하다",
+    "translation": "нээх",
+    "hanja": "開館하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개괄적",
+    "translation": "ерөнхий",
+    "hanja": "槪括的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개교",
+    "translation": "Сургууль үүсгэн байгуулах",
+    "hanja": "開校",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개교기념일",
+    "translation": "сургуулийн жилийн ой",
+    "hanja": "開校記念日",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "개교식",
+    "translation": "Сургууль нээх ёслол",
+    "hanja": "開校式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개교하다",
+    "translation": "сургууль байгуулах",
+    "hanja": "開校하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개구",
+    "translation": "нээх, эхлэх",
+    "hanja": "開口",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개구리",
+    "translation": "Мэлхий",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개구리밥",
+    "translation": "усны ургамал, хулс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개구멍",
+    "translation": "мухар нүх",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개구쟁이",
+    "translation": "сахилгагүй хүүхэд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개구지다",
+    "translation": "Хүчтэй, үсэрхэг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개국",
+    "translation": "улс байгуулах",
+    "hanja": "開國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개국하다",
+    "translation": "улс байгуулах",
+    "hanja": "開國하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개굴개굴",
+    "translation": "мэлхийн дуу",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개그",
+    "translation": "инээдмийн тоглолт",
+    "hanja": "gag",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개그맨",
+    "translation": "инээдмийн жүжигчин, хошин шогийн жүжигчин",
+    "hanja": "개그맨",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "개그우먼",
+    "translation": "хошин шогийн эмэгтэй жүжигчин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개근",
+    "translation": "тасралтгүй ирэх",
+    "hanja": "皆勤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개근상",
+    "translation": "бүх хичээлдээ хамрагдсан шагнал",
+    "hanja": "皆勤賞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개근하다",
+    "translation": "Тасалбалгүй ирэх",
+    "hanja": "皆勤하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개기다",
+    "translation": "Эсэргүүцэх, үл тоох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개꼴",
+    "translation": "өнгө үзэмж муутай байдал (муухай харагдах)",
+    "hanja": "개꼴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개꿈",
+    "translation": "утгагүй зүүд",
+    "hanja": "개꿈(犬夢)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개나리",
+    "translation": "алтан харгана",
+    "hanja": "개나리",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "개나리꽃",
+    "translation": "сарнай цэцэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개나발",
+    "translation": "Муухай дуу",
+    "hanja": "개나발",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개냥이",
+    "translation": "нохой шиг муур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개년",
+    "translation": "хулгайч эмэгтэй (хар хэллэг)",
+    "hanja": "개년",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개념",
+    "translation": "ойлголт",
+    "hanja": "槪念",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개념적",
+    "translation": "онолын, ойлголтын",
+    "hanja": "槪念的",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "개념화하다",
+    "translation": "Үзэл баримтлал болгох",
+    "hanja": "槪念化하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "개님",
+    "translation": "ноён нохой",
+    "hanja": "개님",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "개다",
+    "translation": "хураах (хувцас г.м.)",
+    "hanja": "개다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개다리",
+    "translation": "Нохойн хөл",
+    "hanja": "개다리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개당",
+    "translation": "ширхэг тус бүр",
+    "hanja": "個當",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "개더링",
+    "translation": "цуглуулах",
+    "hanja": "개더링",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개도",
+    "translation": "хөгжих зам",
+    "hanja": "開途",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개도국",
+    "translation": "хөгжиж буй орон",
+    "hanja": "開途國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개돌",
+    "translation": "гэнэт дайрах",
+    "hanja": "개突",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개동",
+    "translation": "гөлөг",
+    "hanja": "개동",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "개떡",
+    "translation": "Муухай боорцог; худал яриа",
+    "hanja": "개떡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개똥",
+    "translation": "нохойн баас",
+    "hanja": "개똥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개똥같다",
+    "translation": "нохойн баас шиг, муухай",
+    "hanja": "개똥같다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개똥벌레",
+    "translation": "Гэрэлт цох",
+    "hanja": "개똥벌레",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개똥이",
+    "translation": "нохойн баас (доод нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "개띠",
+    "translation": "нохойн жил",
+    "hanja": "개띠",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "개랑",
+    "translation": "Шинэчлэх, сайжруулах",
+    "hanja": "改良",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "개략적",
+    "translation": "ерөнхий тойм",
+    "hanja": "槪略的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "개량",
+    "translation": "сайжруулах, дэвшил",
+    "hanja": "改良",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개량되다",
+    "translation": "сайжрах, сайжруулагдах",
+    "hanja": "改良되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "개량종",
+    "translation": "сайжруулсан үүлдэр",
+    "hanja": "改良種",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개량하다",
+    "translation": "Сайжруулах",
+    "hanja": "改良하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "개량형",
+    "translation": "сайжруулсан төрөл",
+    "hanja": "改良型",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개런티",
+    "translation": "баталгаа, баталгаажуулалт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개령",
+    "translation": "шинэ журам",
+    "hanja": "改令",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "개론",
+    "translation": "ерөнхий танилцуулга",
+    "hanja": "槪論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개르다",
+    "translation": "Гаргах, нээх",
+    "hanja": "개르다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개리",
+    "translation": "Гэри (хүн нэр)",
+    "hanja": "개리",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개리슨",
+    "translation": "гарнизон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개릭",
+    "translation": "Гаррик",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개마고원",
+    "translation": "Кэмагийн өндөрлөг",
+    "hanja": "蓋馬高原",
+    "pos": "м.н.",
+    "cefr": "C2"
+  },
+  {
+    "word": "개막",
+    "translation": "Нээлт, эхлэл",
+    "hanja": "開幕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개막되다",
+    "translation": "Нээлт хийгдэх",
+    "hanja": "開幕되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "개막식",
+    "translation": "нээлтийн ажиллагаа",
+    "hanja": "開幕式",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개막하다",
+    "translation": "нээх",
+    "hanja": "開幕하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개망",
+    "translation": "Муудах, сүйрэх",
+    "hanja": "開-, 蓋-, 箇-, 個-, 芥- 망",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "개망신",
+    "translation": "маш их ичих",
+    "hanja": "개망신(개亡身)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개명",
+    "translation": "нэрээ солих",
+    "hanja": "改名",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개명되다",
+    "translation": "нэр өөрчлөгдөх",
+    "hanja": "改名되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개명하다",
+    "translation": "нэрээ солих",
+    "hanja": "改名하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개무시하다",
+    "translation": "бүрмөсөн үл тоомсорлох",
+    "hanja": "개무시하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개미",
+    "translation": "Шоргоолж",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "개미집",
+    "translation": "Шоргоолжны үүр",
+    "hanja": "개미집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개미핥기",
+    "translation": "шоргоолж идэш",
+    "hanja": "개미핥기",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개미허리",
+    "translation": "нарийн бэлхүүс (шоргоолж шиг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개반",
+    "translation": "таг нээх",
+    "hanja": "蓋盤",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개발",
+    "translation": "хөгжүүлэлт",
+    "hanja": "開發",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개발되다",
+    "translation": "хөгжих",
+    "hanja": "開發되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개발리다",
+    "translation": "бүрэн ялагдах, сүйрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개발비",
+    "translation": "хөгжүүлэлтийн зардал",
+    "hanja": "開發費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개발업자",
+    "translation": "хөгжүүлэгч",
+    "hanja": "開發業者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개발하다",
+    "translation": "хөгжүүлэх",
+    "hanja": "開發하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "개밥",
+    "translation": "нохойн хоол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개방되다",
+    "translation": "нээлттэй байх",
+    "hanja": "開放되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개방적",
+    "translation": "нээлттэй",
+    "hanja": "開放的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개방하다",
+    "translation": "нээх, чөлөөлөх",
+    "hanja": "開放하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개벽",
+    "translation": "ертөнц үүсэх",
+    "hanja": "開闢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개벽하다",
+    "translation": "орчлон ертөнц үүсэх",
+    "hanja": "開闢하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개변",
+    "translation": "өөрчлөлт, шинэчлэл",
+    "hanja": "改變",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "개별",
+    "translation": "Хувь хүний, тусгай",
+    "hanja": "個別",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개별적",
+    "translation": "хувийн, тусдаа",
+    "hanja": "個別的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개별화되다",
+    "translation": "Хувь хүн болгох",
+    "hanja": "個別化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개병",
+    "translation": "муу өвчин",
+    "hanja": "疥病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개보수하다",
+    "translation": "Засварлах",
+    "hanja": "改補修하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "개복",
+    "translation": "гэдэс нээх мэс засал",
+    "hanja": "開腹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개복하다",
+    "translation": "Хэвлийг нээх",
+    "hanja": "開腹하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개봉",
+    "translation": "нээлт",
+    "hanja": "開封",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "개봉관",
+    "translation": "нээрэлтийн театр",
+    "hanja": "開封館",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개봉되다",
+    "translation": "нээгдэх",
+    "hanja": "開封되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개봉작",
+    "translation": "Нээлтээ хийсэн кино",
+    "hanja": "開封作",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개봉하다",
+    "translation": "нээх",
+    "hanja": "開封하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개불",
+    "translation": "далайн хатаасан өт (Urechis unicinctus)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개비",
+    "translation": "Согоо",
+    "hanja": "개비",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개뿔",
+    "translation": "юу ч биш",
+    "hanja": "개뿔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개사",
+    "translation": "дахин бичих",
+    "hanja": "改寫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개사하다",
+    "translation": "Үг өөрчлөх",
+    "hanja": "改詞하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개살구",
+    "translation": "зэрлэг гүйлс",
+    "hanja": "개살구",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개새",
+    "translation": "новаа",
+    "hanja": "개새",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "개선",
+    "translation": "сайжруулах",
+    "hanja": "改善",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개선되다",
+    "translation": "Сайжирах",
+    "hanja": "改善되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개선문",
+    "translation": "ялгуусан хаалга",
+    "hanja": "凱旋門",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개선책",
+    "translation": "сайжруулах арга хэмжээ",
+    "hanja": "改善策",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개선하다",
+    "translation": "сайжруулах",
+    "hanja": "改善하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "개설",
+    "translation": "нээлт",
+    "hanja": "開設",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개설되다",
+    "translation": "нээгдэх, байгуулагдах",
+    "hanja": "開設되다",
+    "pos": "ү.ү",
+    "cefr": "B2"
+  },
+  {
+    "word": "개설하다",
+    "translation": "Нээх",
+    "hanja": "開設하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개성",
+    "translation": "хувь хүн",
+    "hanja": "個性",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개성적",
+    "translation": "хувийн шинжтэй",
+    "hanja": "개성적(個性的)",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개세",
+    "translation": "ертөнцийг гайхашруулсан баатар (хүн)",
+    "hanja": "蓋世",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개소",
+    "translation": "нээх газар",
+    "hanja": "開所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개소리하다",
+    "translation": "чармайх, хуцах",
+    "hanja": "개소리하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개소문",
+    "translation": "Үүдний хаалганы хажуу талын жижиг хаалга",
+    "hanja": "開沼門",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개소주",
+    "translation": "нохойн махны шөл",
+    "hanja": "狗燒酒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개소하다",
+    "translation": "нээх (Үйл үг)",
+    "hanja": "開所하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "개수",
+    "translation": "тоо",
+    "hanja": "個數",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개수대",
+    "translation": "угаалтуур",
+    "hanja": "改水臺",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "개스",
+    "translation": "хийн түлш, бензин",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개스켈",
+    "translation": "개스켈 (영국 소설가)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개스킷",
+    "translation": "жийрэг",
+    "hanja": "개스킷",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "개시",
+    "translation": "эхлэх",
+    "hanja": "開始",
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "개시되다",
+    "translation": "эхлэх, нээгдэх",
+    "hanja": "開始되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "개시일",
+    "translation": "эхлэх өдөр, нээлтийн өдөр",
+    "hanja": "開始日",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개시하다",
+    "translation": "эхлэх",
+    "hanja": "開始하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개식",
+    "translation": "Нээлтийн ёслол",
+    "hanja": "開式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개신교",
+    "translation": "протестантизм",
+    "hanja": "改新敎",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개심하다",
+    "translation": "Сэтгэл өөрчлөгдөх, гэмших",
+    "hanja": "改心하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "개씹",
+    "translation": "үхсэн эх",
+    "hanja": "개씹",
+    "pos": "욕설",
+    "cefr": "C2"
+  },
+  {
+    "word": "개악",
+    "translation": "муутгах",
+    "hanja": "改惡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개안",
+    "translation": "нүд нээх",
+    "hanja": "開眼",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "개안하다",
+    "translation": "нүд нээх, ухаарах",
+    "hanja": "開眼하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개않다",
+    "translation": "зүгээр",
+    "hanja": "개않다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개암",
+    "translation": "зулзаган мод",
+    "hanja": "개암",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개암나무",
+    "translation": "хушин мод",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개엄",
+    "translation": "Цэргийн байдал",
+    "hanja": "戒嚴",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "개업",
+    "translation": "Нээлт",
+    "hanja": "開業",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개업식",
+    "translation": "нээрэлт",
+    "hanja": "開業式",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개업의",
+    "translation": "хувийн эмч",
+    "hanja": "開業醫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개업하다",
+    "translation": "бизнес нээх",
+    "hanja": "開業하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "개역",
+    "translation": "хуучин орчуулга",
+    "hanja": "改譯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개연성",
+    "translation": "магадлал",
+    "hanja": "蓋然性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개영식",
+    "translation": "нээлтийн ёслол",
+    "hanja": "開營式",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개오지",
+    "translation": "Хээр тал; Холын газар",
+    "hanja": "개오지",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개운하다",
+    "translation": "Сэргэг, тайван",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개울",
+    "translation": "Горхи",
+    "hanja": "개울",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "개울가",
+    "translation": "горхины эрэг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개울물",
+    "translation": "горхины ус",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "개웅",
+    "translation": "Даавууны нүх, цоорхой",
+    "hanja": "開壅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개원",
+    "translation": "нээх (эмнэлэг, байгууллага)",
+    "hanja": "開院",
+    "pos": "м",
+    "cefr": "B2"
+  },
+  {
+    "word": "개원하다",
+    "translation": "нээх (эмнэлэг, сургууль)",
+    "hanja": "開院하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개월",
+    "translation": "сар",
+    "hanja": "個月",
+    "pos": "의존 명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개의",
+    "translation": "номхон нохой",
+    "hanja": "乖荑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개의하다",
+    "translation": "Анхаарах",
+    "hanja": "介意하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개이",
+    "translation": "өөрчлөх",
+    "hanja": "改異",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개이다",
+    "translation": "Цэлмэх",
+    "hanja": "개이다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "개인",
+    "translation": "хувь хүн",
+    "hanja": "個人",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "개인기",
+    "translation": "хувийн чадвар, авьяас",
+    "hanja": "個人技",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개인용",
+    "translation": "хувийн хэрэгцээний",
+    "hanja": "個人用",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개인위생",
+    "translation": "хувийн ариун цэвэр",
+    "hanja": "個人衛生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개인적",
+    "translation": "хувийн",
+    "hanja": "個人的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개인전",
+    "translation": "Хувийн үзэсгэлэн",
+    "hanja": "個人展",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "개인주의",
+    "translation": "хувь хүн",
+    "hanja": "個人主義",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개인차",
+    "translation": "хувийн ялгаа",
+    "hanja": "個人差",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "개인택시",
+    "translation": "хувийн такси",
+    "hanja": "個人택시",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개인플레이",
+    "translation": "хувийн тоглолт",
+    "hanja": "個人플레이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개인행동",
+    "translation": "хувийн үйлдэл",
+    "hanja": "個人行動",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개입",
+    "translation": "хөндлөнгөөс оролцох",
+    "hanja": "介入",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개입되다",
+    "translation": "Оролцох",
+    "hanja": "介入되다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "개입시키다",
+    "translation": "оролцуулах",
+    "hanja": "介入시키다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "개입하다",
+    "translation": "Оролцох",
+    "hanja": "介入하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개작하다",
+    "translation": "дахин засах",
+    "hanja": "改作하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개잡놈",
+    "translation": "муу санаатай, завхай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개장",
+    "translation": "нээлт",
+    "hanja": "開場",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "개장되다",
+    "translation": "Нээгдэх, эхлэх",
+    "hanja": "開場되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개장하다",
+    "translation": "нээх",
+    "hanja": "開場하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "개재되다",
+    "translation": "оролчих",
+    "hanja": "介在되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개재밌다",
+    "translation": "маш хөгжилтэй",
+    "hanja": "None",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "개재하다",
+    "translation": "оролцох",
+    "hanja": "介在하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개전",
+    "translation": "Дайн эхлэх",
+    "hanja": "開戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개점",
+    "translation": "нээх",
+    "hanja": "開店",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개점하다",
+    "translation": "нээх (дэлгүүр)",
+    "hanja": "開店하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개정",
+    "translation": "нэмэлт өөрчлөлт",
+    "hanja": "改定",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개정되다",
+    "translation": "засварлагдах",
+    "hanja": "改定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개정안",
+    "translation": "Нэмэлт өөрчлөлтийн төсөл",
+    "hanja": "改正案",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개정판",
+    "translation": "Шинэчилсэн хэвлэл",
+    "hanja": "改訂版",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개정하다",
+    "translation": "Нэмэлт өөрчлөлт оруулах",
+    "hanja": "改正하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개제",
+    "translation": "нийтлэх, хэвлэх",
+    "hanja": "揭載",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개조",
+    "translation": "шинэчлэх",
+    "hanja": "改造",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "개조되다",
+    "translation": "шинэчлэгдэх",
+    "hanja": "改造되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개조하다",
+    "translation": "сайжруулах, өөрчлөх",
+    "hanja": "改造하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개종",
+    "translation": "шашин солих",
+    "hanja": "改宗",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "개종자",
+    "translation": "шашнаа сольсон хүн, шинэ сүсэгтэн",
+    "hanja": "改宗者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개종하다",
+    "translation": "шашин шүтлэгээ солих",
+    "hanja": "改宗하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개좆같다",
+    "translation": "маш муухай, өөдгүй",
+    "hanja": "개좆같다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개주",
+    "translation": "нохойн эзэн",
+    "hanja": "犬主",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개죽",
+    "translation": "нохойн хоол",
+    "hanja": "개죽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개죽음",
+    "translation": "утга учиргүй үхэл",
+    "hanja": "個죽음",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개중",
+    "translation": "Тэдний дотроос",
+    "hanja": "個中",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개진",
+    "translation": "Дэлгэн тавих, илчлэх",
+    "hanja": "開陳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개진되다",
+    "translation": "сайжрах",
+    "hanja": "開陳되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "개진하다",
+    "translation": "нарийн тайлбарлах",
+    "hanja": "開陳하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개집",
+    "translation": "нохойн байшин",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "개짓거리",
+    "translation": "буруу үйлдэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개차",
+    "translation": "сондгой",
+    "hanja": "個差",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개차반",
+    "translation": "муухай ааштай хүн",
+    "hanja": "개차반",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개찰",
+    "translation": "(тасалбар) шалгах",
+    "hanja": "改札",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개찰구",
+    "translation": "Тасалбар шалгах хаалга",
+    "hanja": "改札口",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개창",
+    "translation": "нээн байгуулах",
+    "hanja": "開創",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개척",
+    "translation": "шинээр нээх, боловсруулах",
+    "hanja": "開拓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개척되다",
+    "translation": "Нээгдэх",
+    "hanja": "開拓되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개척자",
+    "translation": "анхдагч",
+    "hanja": "開拓者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개척하다",
+    "translation": "нээх",
+    "hanja": "開拓하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개천",
+    "translation": "горхи, шуудуу",
+    "hanja": "개川",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개천절",
+    "translation": "Үндэсний баярын өдөр",
+    "hanja": "開天節",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개청",
+    "translation": "Нээлт, нээх",
+    "hanja": "開廳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개체",
+    "translation": "Биет",
+    "hanja": "個體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개최",
+    "translation": "зохион байгуулах",
+    "hanja": "開催",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개최국",
+    "translation": "зохион байгуулагч орон",
+    "hanja": "開催國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개최되다",
+    "translation": "зохион байгуулагдах",
+    "hanja": "開催되다",
+    "pos": "ү.ү.",
+    "cefr": "B2"
+  },
+  {
+    "word": "개최지",
+    "translation": "хуралдах газар, зохион байгуулах газар",
+    "hanja": "開催地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개최하다",
+    "translation": "зохион байгуулах",
+    "hanja": "開催하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개축",
+    "translation": "Дахин барих",
+    "hanja": "改築",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개축하다",
+    "translation": "шинэчлэх",
+    "hanja": "改築하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개춥다",
+    "translation": "маш хүйтэн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개취",
+    "translation": "Хувийн амт, хувийн сонирхол (соёл/хобби)",
+    "hanja": "個趣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개칭하다",
+    "translation": "нэр өөрчлөх",
+    "hanja": "改稱하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개카",
+    "translation": "хувийн карт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개코원숭이",
+    "translation": "нохойн нүүртэй сармагчин",
+    "hanja": "개코원숭이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개키다",
+    "translation": "хураах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개탄",
+    "translation": "харамсах, гашуудах",
+    "hanja": "慨歎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개탄스럽다",
+    "translation": "Харамсалтай",
+    "hanja": "慨歎스럽다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "개탄하다",
+    "translation": "харамсах, гашуудах",
+    "hanja": "慨歎하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개털",
+    "translation": "Нохойн үс, юу ч биш",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개통",
+    "translation": "нээх",
+    "hanja": "開通",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개통되다",
+    "translation": "нээгдэх",
+    "hanja": "開通되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개통식",
+    "translation": "нээлтийн ёслол",
+    "hanja": "開通式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개통하다",
+    "translation": "нээх",
+    "hanja": "개통하다(開通하다)",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "개파",
+    "translation": "партыг байгуулах",
+    "hanja": "開派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개판",
+    "translation": "үймээн самуун, замбараагүй байдал",
+    "hanja": "개판",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개판되다",
+    "translation": "замбараагүй болох",
+    "hanja": "개판-되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개패",
+    "translation": "нохойн баг",
+    "hanja": "狗牌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개펄",
+    "translation": "шаварлаг эрэг, шавар",
+    "hanja": "개펄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개편",
+    "translation": "Өөрчлөлт, шинэчлэл",
+    "hanja": "改編",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개편되다",
+    "translation": "өөрчлөгдөх",
+    "hanja": "改編되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개편하다",
+    "translation": "шинэчлэх",
+    "hanja": "改編하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개평",
+    "translation": "хувь",
+    "hanja": "개평",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개폐",
+    "translation": "нээх, хаах",
+    "hanja": "開閉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개포",
+    "translation": "нээлттэй боомт",
+    "hanja": "開浦",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "개표",
+    "translation": "Саналын хуудас тоолох",
+    "hanja": "開票",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개표소",
+    "translation": "Санал тоолох хэсэг",
+    "hanja": "開票所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개표하다",
+    "translation": "санал тоолох",
+    "hanja": "開票하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개피",
+    "translation": "хуудас, ширхэг",
+    "hanja": "個皮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개하다",
+    "translation": "нээх, нээлт хийх",
+    "hanja": "開하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개학",
+    "translation": "хичээл эхлэх",
+    "hanja": "開學",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개학하다",
+    "translation": "хичээл орох",
+    "hanja": "開學하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "개항",
+    "translation": "Боомт нээх",
+    "hanja": "開港",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "개항하다",
+    "translation": "боомт нээх",
+    "hanja": "開港하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "개헌",
+    "translation": "үндсэн хуульд өөрчлөлт оруулах",
+    "hanja": "改憲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개헌하다",
+    "translation": "үндсэн хуулинд нэмэлт, өөрчлөлт оруулах",
+    "hanja": "改憲하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개헤엄",
+    "translation": "Нохойн сэлж",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "개혁",
+    "translation": "шинэчлэл",
+    "hanja": "改革",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개혁되다",
+    "translation": "шинэчлэгдэх",
+    "hanja": "改革되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개혁론",
+    "translation": "шинэчлэлийн онол",
+    "hanja": "改革論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개혁안",
+    "translation": "шинэчлэлийн санал",
+    "hanja": "改革案",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "개혁적",
+    "translation": "шинэчлэлийн",
+    "hanja": "改革的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개혁파",
+    "translation": "шинэчлэгч, реформист",
+    "hanja": "改革派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개혁하다",
+    "translation": "Шинэчлэх",
+    "hanja": "改革하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "개호",
+    "translation": "асрах",
+    "hanja": "介護",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개화",
+    "translation": "Цэцэглэж дэлгэрэх, гэгээрэл",
+    "hanja": "開花",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개화되다",
+    "translation": "дэвшин хөгжих, соён гэгээрэх",
+    "hanja": "開化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개화사상",
+    "translation": "гэгээрлийн үзэл бодол",
+    "hanja": "開化思想",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개화파",
+    "translation": "гэгээрсэн бүлэг",
+    "hanja": "開化派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개화하다",
+    "translation": "цэцэглэх, нээгдэх",
+    "hanja": "開花하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개활지",
+    "translation": "задгай талбай, ил задгай газар",
+    "hanja": "開闊地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개회",
+    "translation": "нээлтийн хуралдаан, хурал нээх",
+    "hanja": "開會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개회사",
+    "translation": "нээлтийн үг",
+    "hanja": "開會辭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개회식",
+    "translation": "нээлтийн ёслол",
+    "hanja": "開會式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개회하다",
+    "translation": "хурал нээх",
+    "hanja": "開會하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

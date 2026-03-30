@@ -1,0 +1,478 @@
+[
+  {
+    "word": "담",
+    "translation": "Хана",
+    "hanja": "擔",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "담관",
+    "translation": "цөсний суваг",
+    "hanja": "膽管",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담구",
+    "translation": "Дүрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담구다",
+    "translation": "хийнэ",
+    "hanja": "담구다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "담그다",
+    "translation": "Дүрэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담금질",
+    "translation": "хатууруулах, даргирах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담금질하다",
+    "translation": "Хатгуулах",
+    "hanja": "담금질하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담기다",
+    "translation": "багтах",
+    "hanja": "담기다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "담낭",
+    "translation": "Цөсний хүүдий",
+    "hanja": "膽囊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "담다",
+    "translation": "хийх",
+    "hanja": "담다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "담담하다",
+    "translation": "Тайван, саарь",
+    "hanja": "淡淡하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담담히",
+    "translation": "тайвнаар",
+    "hanja": "淡淡히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "담당",
+    "translation": "хариуцсан",
+    "hanja": "擔當",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담당관",
+    "translation": "хариуцагч",
+    "hanja": "擔當官",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "담당자",
+    "translation": "Хариуцагч",
+    "hanja": "擔當者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담당하다",
+    "translation": "үүрэг хариуцах",
+    "hanja": "擔當하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담대하다",
+    "translation": "зоригтой, аймшиггүй",
+    "hanja": "膽大하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담대히",
+    "translation": "Зоригтойгоор",
+    "hanja": "膽大히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담도",
+    "translation": "Цөсний суваг",
+    "hanja": "膽道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담력",
+    "translation": "Зориг",
+    "hanja": "膽力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "담론",
+    "translation": "яриа хэлэлцүүлэг",
+    "hanja": "談論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담배",
+    "translation": "тамхи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "담배꽁초",
+    "translation": "тамхины иш",
+    "hanja": "담배꽁초",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "담배불",
+    "translation": "тамхины гал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "담백하다",
+    "translation": "энгийн, амтгүй, цэвэр",
+    "hanja": "淡泊하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "담뱃갑",
+    "translation": "тамхины хайрцаг",
+    "hanja": "담뱃匣",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "담뱃값",
+    "translation": "Тамхины үнэ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "담뱃대",
+    "translation": "Тамхины иш",
+    "hanja": "담뱃대",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담뱃불",
+    "translation": "тамхины гал",
+    "hanja": "담뱃불",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "담뱃잎",
+    "translation": "тамхины навч",
+    "hanja": "담배잎",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담뱃재",
+    "translation": "Тамхины үнс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담벼락",
+    "translation": "Хашааны хана",
+    "hanja": "담벼락",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "담벽",
+    "translation": "хашааны хана",
+    "hanja": "담壁",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담보",
+    "translation": "барьцаа",
+    "hanja": "擔保",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "담보되다",
+    "translation": "баталгаатай байх",
+    "hanja": "擔保되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담보물",
+    "translation": "Барьцаа хөрөнгө",
+    "hanja": "擔保物",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "담보하다",
+    "translation": "баталгаа гаргах, баталгаажуулах",
+    "hanja": "擔保하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "translation": "суусар",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1",
+    "word": "담비"
+  },
+  {
+    "word": "담뿍",
+    "translation": "дүүрэн",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "담석",
+    "translation": "цөсний чулуу",
+    "hanja": "膽石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담소",
+    "translation": "яриа, хөөрөө",
+    "hanja": "談笑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담수",
+    "translation": "цэнгэг ус",
+    "hanja": "淡水",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "담쌓다",
+    "translation": "Хана босгох",
+    "hanja": "담쌓다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "담아내다",
+    "translation": "агуулах, илэрхийлэх",
+    "hanja": "-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "담양",
+    "translation": "Тамъян",
+    "hanja": "潭陽",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "담요",
+    "translation": "хөнжил",
+    "hanja": "담요",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "담이",
+    "translation": "Дами",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "담임",
+    "translation": "ангийн багш",
+    "hanja": "擔任",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "담임하다",
+    "translation": "анги хариуцах",
+    "hanja": "擔任하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "담자이",
+    "translation": "Данбай (хятад нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담장",
+    "translation": "хашаа",
+    "hanja": "垣墻",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "담쟁이",
+    "translation": "усан үзэм",
+    "hanja": "담쟁이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "담쟁이덩굴",
+    "translation": "айви (навчит ургамал)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "담주",
+    "translation": "дараагийн долоо хоног",
+    "hanja": "다음週",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "담즙",
+    "translation": "Цөс",
+    "hanja": "膽汁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "담지다",
+    "translation": "хадгалах, багтаах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "담징",
+    "translation": "Дамжин",
+    "hanja": "曇徵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "담채",
+    "translation": "тунгалаг будаг",
+    "hanja": "淡彩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담타",
+    "translation": "тамхи татах",
+    "hanja": "談打",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담탱이",
+    "translation": "ангийн багш (хүүхдийн хэллэг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담파",
+    "translation": "Дампа",
+    "hanja": "담파",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "담판",
+    "translation": "хэлэлцээр",
+    "hanja": "談判",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담하다",
+    "translation": "ярих, харьцах",
+    "hanja": "NaN",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "담합",
+    "translation": "хуйвалдаан",
+    "hanja": "談合",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "담합하다",
+    "translation": "хуйвалдах, тохиролцох",
+    "hanja": "談合하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담향",
+    "translation": "тамхины үнэр",
+    "hanja": "菸香",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "담화",
+    "translation": "Яриа",
+    "hanja": "談話",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "담화문",
+    "translation": "илүүлэх бичиг",
+    "hanja": "談話文",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

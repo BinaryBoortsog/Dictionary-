@@ -1,0 +1,51 @@
+[
+  {
+    "word": "빚",
+    "translation": "өр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "빚내다",
+    "translation": "Өр тавих",
+    "hanja": "빚내다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빚다",
+    "translation": "уран баримал хийх, боов боож хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빚더미",
+    "translation": "өр овоолох, өрийн хуримтлал",
+    "hanja": "빚더미",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빚어내다",
+    "translation": "хэлбэржүүлэх, бүтээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빚쟁이",
+    "translation": "өрийг төлөх",
+    "hanja": "빚쟁이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빚지다",
+    "translation": "өрөнд орох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  }
+]

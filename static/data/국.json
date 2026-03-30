@@ -1,0 +1,1066 @@
+[
+  {
+    "word": "국",
+    "translation": "шөл",
+    "hanja": "국",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "국가",
+    "translation": "улс",
+    "hanja": "國家",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "국가관",
+    "translation": "улсын төрийн үзэл баримтлал",
+    "hanja": "國家觀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국가대표",
+    "translation": "Үндэсний шигшээ баг",
+    "hanja": "國家代表",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국가보조금",
+    "translation": "улсын татаас",
+    "hanja": "國家補助金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국가사업",
+    "translation": "Улсын ажил, төрийн ажил",
+    "hanja": "國家事業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국가수반",
+    "translation": "төрийн тэргүүн",
+    "hanja": "國家首班",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국가시험",
+    "translation": "улсын шалгалт",
+    "hanja": "國家試驗",
+    "pos": "명",
+    "cefr": "B2"
+  },
+  {
+    "word": "국가유산",
+    "translation": "үндэсний өв",
+    "hanja": "國家遺産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국가재정",
+    "translation": "Улсын санхүү",
+    "hanja": "國家財政",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국가적",
+    "translation": "үндэсний",
+    "hanja": "國家的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국가주석",
+    "translation": "улсын ерөнхийлөгч",
+    "hanja": "國家主席",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "국가주의",
+    "translation": "үндсэрхэг үзэл",
+    "hanja": "國家主義",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "국감",
+    "translation": "үндэсний аудит",
+    "hanja": "國監",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "국거리",
+    "translation": "шөлний орц",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "국격",
+    "translation": "үндэсний нэр хүнд",
+    "hanja": "國格",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국경",
+    "translation": "хил",
+    "hanja": "國境",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국경선",
+    "translation": "улсын хил",
+    "hanja": "國境線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국경일",
+    "translation": "үндэсний баяр",
+    "hanja": "國慶日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국고",
+    "translation": "төрийн сан",
+    "hanja": "國庫",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "국공",
+    "translation": "үндэсний цэрэг ба коммунист",
+    "hanja": "國共",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "국공립",
+    "translation": "улсын, олон нийтийн",
+    "hanja": "國公立",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국과수",
+    "translation": "Үндэсний шинжээчдийн хүрээлэн (National Forensic Service)",
+    "hanja": "國科搜",
+    "pos": "abbr",
+    "cefr": "C2"
+  },
+  {
+    "word": "국교",
+    "translation": "Үндэсний шашин; олон улсын харилцаа",
+    "hanja": "國敎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국구",
+    "translation": "иргэний үндэс",
+    "hanja": "國舅",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "국군",
+    "translation": "Үндэсний цэрэг",
+    "hanja": "國軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국궁",
+    "translation": "үндэсний нум сур",
+    "hanja": "國弓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "국권",
+    "translation": "үндэсний эрх мэдэл",
+    "hanja": "國權",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "국그릇",
+    "translation": "шөлний аяга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "국극",
+    "translation": "үндэсний дуурь",
+    "hanja": "國劇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국기",
+    "translation": "Төрийн далбаа",
+    "hanja": "國旗",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "국난",
+    "translation": "үндэсний бэрхшээл",
+    "hanja": "國難",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "국내",
+    "translation": "дотоодын",
+    "hanja": "國內",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국내법",
+    "translation": "дотоодын хууль",
+    "hanja": "國內法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국내산",
+    "translation": "Дотоодын үйлдвэрлэл",
+    "hanja": "國內産",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국내선",
+    "translation": "Дотоодын нислэг",
+    "hanja": "國內線",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "국내외",
+    "translation": "дотоод гадаад",
+    "hanja": "國內外",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "국내적",
+    "translation": "Дотоодын",
+    "hanja": "國內的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국대",
+    "translation": "Үндэсний шигшээ баг",
+    "hanja": "國代",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "국도",
+    "translation": "улсын зам",
+    "hanja": "國道",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "국력",
+    "translation": "улсын хүч",
+    "hanja": "國力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "국론",
+    "translation": "үндэсний үзэл бодол",
+    "hanja": "國論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국립",
+    "translation": "улсын",
+    "hanja": "國立",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국립대",
+    "translation": "улсын их сургууль",
+    "hanja": "國立大",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "국립묘지",
+    "translation": "үндэсний оршуулгын газар",
+    "hanja": "國立墓地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국면",
+    "translation": "нөхцөл байдал, үе шат",
+    "hanja": "局面",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "국명",
+    "translation": "улсын нэр",
+    "hanja": "國名",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국모",
+    "translation": "үндэсний эх",
+    "hanja": "國母",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "translation": "төрийн",
+    "hanja": "國務",
+    "pos": "명사",
+    "cefr": "C1",
+    "word": "국무"
+  },
+  {
+    "word": "국무총리",
+    "translation": "ерөнхий сайд",
+    "hanja": "國務總理",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "국문",
+    "translation": "Үндэсний бичиг",
+    "hanja": "國文",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "국문하다",
+    "translation": "шалгах, байцаах",
+    "hanja": "鞫問하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국문학",
+    "translation": "үндэсний уран зохиол судлал",
+    "hanja": "國文學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국물",
+    "translation": "Шөл",
+    "hanja": "국물",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "국민",
+    "translation": "ард түмэн",
+    "hanja": "國民",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "국민부",
+    "translation": "үндэсний хэлтэс",
+    "hanja": "國民部",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "국민성",
+    "translation": "үндэсний зан чанар",
+    "hanja": "國民性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "국민의례",
+    "translation": "үндэсний ёслол",
+    "hanja": "國民儀禮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국민장",
+    "translation": "үндэсний оршуулга",
+    "hanja": "國民葬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "국민적",
+    "translation": "үндэсний",
+    "hanja": "國民的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "국민차",
+    "translation": "үндэсний машин",
+    "hanja": "國民車",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국민학교",
+    "translation": "ардын сургууль",
+    "hanja": "國民學校",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국민학생",
+    "translation": "бага сургуулийн сурагч",
+    "hanja": "國民學生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국밥",
+    "translation": "кукпаб (шөлтэй будаа)",
+    "hanja": "국밥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "국밥집",
+    "translation": "гуанз",
+    "hanja": "국밥집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "국방",
+    "translation": "үндэсний батлан хамгаалах",
+    "hanja": "國防",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국방력",
+    "translation": "батлан хамгаалах хүч",
+    "hanja": "國防力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국방부",
+    "translation": "Батлан хамгаалах яам",
+    "hanja": "國防部",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국방비",
+    "translation": "батлан ​​хамгаалахын зардал",
+    "hanja": "國防費",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "국방색",
+    "translation": "цэргийн ногоон өнгө",
+    "hanja": "國防色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국번",
+    "translation": "орон нутгийн дугаар",
+    "hanja": "局番",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국법",
+    "translation": "үндэсний хууль",
+    "hanja": "國法",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "국보",
+    "translation": "улсын эрдэнэ",
+    "hanja": "國寶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국본",
+    "translation": "үндэсний капитал, үндэсний үндэс",
+    "hanja": "國本",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국부",
+    "translation": "Үндэсний баялаг",
+    "hanja": "國富",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "국비",
+    "translation": "улсын төсөв",
+    "hanja": "國費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국빈",
+    "translation": "төрийн зочин",
+    "hanja": "國賓",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "국사",
+    "translation": "улсын түүх",
+    "hanja": "國史",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국산",
+    "translation": "дотоодын үйлдвэрлэл",
+    "hanja": "國産",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국산품",
+    "translation": "дотоодын бүтээгдэхүүн",
+    "hanja": "國産品",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "국산화",
+    "translation": "дотоодын үйлдвэрлэл",
+    "hanja": "國産化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국산화하다",
+    "translation": "дотооддоо үйлдвэрлэх",
+    "hanja": "國産化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국상",
+    "translation": "улсын гашуудал",
+    "hanja": "國喪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국새",
+    "translation": "Улсын тамга",
+    "hanja": "國璽",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "국서",
+    "translation": "улсын бичиг",
+    "hanja": "國書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국선",
+    "translation": "улсын төрийн уран зураг",
+    "hanja": "國選",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국세",
+    "translation": "татварын орлого",
+    "hanja": "國稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국세청",
+    "translation": "татварын алба",
+    "hanja": "國稅廳",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "국소",
+    "translation": "хэсэг",
+    "hanja": "局所",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국수",
+    "translation": "гол шугам",
+    "hanja": "國手",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "국수주의",
+    "translation": "үндсэрхэг үзэл",
+    "hanja": "國粹主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국수집",
+    "translation": "гоймонгийн газар",
+    "hanja": "국수집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "국숫집",
+    "translation": "гоймонгийн газар",
+    "hanja": "국숫집",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "국시",
+    "translation": "үндэсний хэлэлцүүлэг",
+    "hanja": "國是",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국악",
+    "translation": "гүгaк (солонгосын уламжлалт хөгжим)",
+    "hanja": "國樂(국악)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국악기",
+    "translation": "үндэсний хөгжмийн зэмсэг",
+    "hanja": "國樂器",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국어",
+    "translation": "үндэсний хэл",
+    "hanja": "國語",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "국어과",
+    "translation": "солонгос хэлний хичээл",
+    "hanja": "國語科",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국어사전",
+    "translation": "тайлбар толь бичиг",
+    "hanja": "國語辭典",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국역",
+    "translation": "улсын орчуулга",
+    "hanja": "國譯",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "국영",
+    "translation": "Улсын",
+    "hanja": "國營",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국영수",
+    "translation": "солонгос хэл, англи хэл, математик (сургуулийн хичээл)",
+    "hanja": "國英數",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국왕",
+    "translation": "хаан",
+    "hanja": "國王",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국외",
+    "translation": "Гадаад",
+    "hanja": "國外",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국운",
+    "translation": "улсын хувь тавилан",
+    "hanja": "國運",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국위",
+    "translation": "үндэсний нэр хүнд",
+    "hanja": "國威",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국유",
+    "translation": "улсын өмч",
+    "hanja": "國有",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국유화",
+    "translation": "Үндэсний өмч болгох",
+    "hanja": "國有化",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "국유화하다",
+    "translation": "үндэсний өмч болгох",
+    "hanja": "國有化하다",
+    "pos": "т.ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "국익",
+    "translation": "үндэсний ашиг сонирхол",
+    "hanja": "國益",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국자",
+    "translation": "шанага",
+    "hanja": "국자",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "국장",
+    "translation": "түншийн захирал",
+    "hanja": "局長",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "국적",
+    "translation": "Иргэншил",
+    "hanja": "國籍",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "국전",
+    "translation": "Үндэсний үзэсгэлэн",
+    "hanja": "國展",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국정",
+    "translation": "улсын засаг",
+    "hanja": "國政",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국제",
+    "translation": "Олон улсын",
+    "hanja": "國際",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "국제결혼",
+    "translation": "олон улсын гэрлэлт",
+    "hanja": "國際結婚",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "국제공항",
+    "translation": "олон улсын нисэх онгоцны буудал",
+    "hanja": "國際空港",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "국제기구",
+    "translation": "олон улсын байгууллага",
+    "hanja": "國際機構",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "국제도시",
+    "translation": "олон улсын хот",
+    "hanja": "國際都市",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국제법",
+    "translation": "олон улсын эрх зүй",
+    "hanja": "國際法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국제선",
+    "translation": "Олон улсын шугам",
+    "hanja": "國際線",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국제적",
+    "translation": "Олон улсын",
+    "hanja": "國際的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "국제화",
+    "translation": "олон улсын болгох",
+    "hanja": "國際化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국제화되다",
+    "translation": "олон улсын болгох",
+    "hanja": "國際化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국제회의",
+    "translation": "олон улсын хурал",
+    "hanja": "國際會議",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국조",
+    "translation": "үндэсний шувуу, үндэсний өвөг дээдэс",
+    "hanja": "國鳥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국주",
+    "translation": "үндэсний дарс",
+    "hanja": "國酒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국지",
+    "translation": "Орон нутгийн, хэсэгчилсэн",
+    "hanja": "局地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국지적",
+    "translation": "нутгийн",
+    "hanja": "局地的",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "국지전",
+    "translation": "орон нутгийн дайн",
+    "hanja": "局地戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국진",
+    "translation": "Үндэсний үйлдвэрлэл",
+    "hanja": "国珍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "국채",
+    "translation": "Засгийн газрын бонд",
+    "hanja": "國債",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국책",
+    "translation": "Төрийн бодлого",
+    "hanja": "國策",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국철",
+    "translation": "Үндэсний төмөр зам",
+    "hanja": "國鐵",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "국체",
+    "translation": "төрийн тогтолцоо",
+    "hanja": "國體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국토",
+    "translation": "Эх орон, газар нутаг",
+    "hanja": "國土",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국토방위",
+    "translation": "нутгийн хамгаалалт",
+    "hanja": "國土防衛",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "국통",
+    "translation": "улсын уламжлал",
+    "hanja": "國統",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국학",
+    "translation": "үндэсний ухаан",
+    "hanja": "國學",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "국한",
+    "translation": "хязгаарлах",
+    "hanja": "局限",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국한되다",
+    "translation": "Хязгаарлагдах",
+    "hanja": "局限되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "국한하다",
+    "translation": "хязгаарлах",
+    "hanja": "局限하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국헌",
+    "translation": "үндсэн хууль",
+    "hanja": "國憲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국호",
+    "translation": "улсын нэр",
+    "hanja": "國號",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국혼",
+    "translation": "үндэсний сүнс",
+    "hanja": "國魂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국화",
+    "translation": "Хризантем",
+    "hanja": "菊花",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국화꽃",
+    "translation": "хризантем цэцэг",
+    "hanja": "菊花꽃",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "국화빵",
+    "translation": "хризантем хэлбэртэй талх",
+    "hanja": "菊花빵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "국회",
+    "translation": "үндэсний ассамблей, парламент",
+    "hanja": "國會",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "국희",
+    "translation": "үндэсний үзүүлбэр, үндэсний тушаал",
+    "hanja": "國戱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국힙",
+    "translation": "үндэсний хип-хоп",
+    "hanja": "國힙",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

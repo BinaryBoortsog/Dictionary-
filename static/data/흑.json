@@ -1,0 +1,310 @@
+[
+  {
+    "word": "흑",
+    "translation": "хар",
+    "hanja": "黑",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "흑구",
+    "translation": "хар бөмбөлөг",
+    "hanja": "흑구(黑球)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "흑기",
+    "translation": "хар далбаа",
+    "hanja": "黑旗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑단",
+    "translation": "хар мод",
+    "hanja": "黑檀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흑당",
+    "translation": "хар элсэн чихэр",
+    "hanja": "黑糖",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흑두",
+    "translation": "хар шош",
+    "hanja": "黑豆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흑룡",
+    "translation": "хар луу",
+    "hanja": "黑龍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흑림",
+    "translation": "Хар ой (Германы Хар ой)",
+    "hanja": "黑林",
+    "pos": "Proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "흑립",
+    "translation": "хар малгай",
+    "hanja": "黑笠",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑마",
+    "translation": "Хар морь",
+    "hanja": "黑馬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흑막",
+    "translation": "хар хөшиг",
+    "hanja": "黑幕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑미",
+    "translation": "хар будаа",
+    "hanja": "黑米",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흑발",
+    "translation": "Хар үс",
+    "hanja": "黑髮",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "흑백",
+    "translation": "хар цагаан",
+    "hanja": "黑白",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "흑산",
+    "translation": "Хар уул",
+    "hanja": "黑山",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑삼",
+    "translation": "Хар хүн орхоодой",
+    "hanja": "黑蔘",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑색",
+    "translation": "Хар өнгө",
+    "hanja": "黑色",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "흑색선전",
+    "translation": "хар суртал ухуулга",
+    "hanja": "黑色宣傳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "흑석",
+    "translation": "хар чулуу",
+    "hanja": "黑石",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "흑설탕",
+    "translation": "хар элсэн чихэр",
+    "hanja": "黑雪糖",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "흑수",
+    "translation": "хар ус",
+    "hanja": "黑水",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑심",
+    "translation": "хар санаа",
+    "hanja": "黑心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흑암",
+    "translation": "харанхуй",
+    "hanja": "黑暗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑연",
+    "translation": "графит",
+    "hanja": "黑鉛",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "흑요석",
+    "translation": "обсидиан",
+    "hanja": "黑曜石",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑우",
+    "translation": "хар үхэр",
+    "hanja": "黑牛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흑운",
+    "translation": "Хар үүл",
+    "hanja": "黑雲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흑인",
+    "translation": "Хар арьст хүн",
+    "hanja": "黑人",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "흑자",
+    "translation": "Ашиг, ашгийн баланс",
+    "hanja": "黑字",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑점",
+    "translation": "нарны толбо",
+    "hanja": "黑點",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "흑조",
+    "translation": "хар хун",
+    "hanja": "黑鳥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흑채",
+    "translation": "Хар хөөс",
+    "hanja": "黑菜",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "흑첩",
+    "translation": "хар тагнуулч",
+    "hanja": "黑諜",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "흑청",
+    "translation": "хар хөх",
+    "hanja": "黑靑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흑체",
+    "translation": "Хар биет",
+    "hanja": "黑體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑초",
+    "translation": "хар цуу",
+    "hanja": "黑醋",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑축",
+    "translation": "хар тэнхлэг",
+    "hanja": "黑軸",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "흑토",
+    "translation": "хар шороо",
+    "hanja": "黑土",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑판",
+    "translation": "самбар",
+    "hanja": "黑板",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "흑표",
+    "translation": "хар ирвэс",
+    "hanja": "黑豹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑해",
+    "translation": "Хар тэнгис",
+    "hanja": "黑海",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흑호",
+    "translation": "хар бар",
+    "hanja": "黑虎",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑화",
+    "translation": "харлах",
+    "hanja": "黑化",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "흑흑",
+    "translation": "хөөх",
+    "hanja": "擬聲語",
+    "pos": "부사",
+    "cefr": "A2"
+  }
+]

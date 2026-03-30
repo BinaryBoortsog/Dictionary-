@@ -1,0 +1,2046 @@
+[
+  {
+    "word": "파",
+    "translation": "сонгино",
+    "hanja": "파",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "파가니니",
+    "translation": "Паганини",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파격",
+    "translation": "хэвийн бус",
+    "hanja": "破格",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파격적",
+    "translation": "онцгой",
+    "hanja": "破格的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파견",
+    "translation": "Илгээх",
+    "hanja": "派遣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파견되다",
+    "translation": "Илгээгдэх",
+    "hanja": "派遣되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "파경",
+    "translation": "хагацал",
+    "hanja": "破鏡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파계승",
+    "translation": "Ариун ёсоо зөрчсөн лам",
+    "hanja": "破戒僧",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파고",
+    "translation": "долгионы өндөр",
+    "hanja": "波高",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파고다",
+    "translation": "суврага",
+    "hanja": "Pagoda",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파고들다",
+    "translation": "гүн орох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파과",
+    "translation": "хагарсан жимс",
+    "hanja": "破果",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파괴",
+    "translation": "устгах",
+    "hanja": "破壞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파괴되다",
+    "translation": "устгагдах",
+    "hanja": "破壞되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파괴력",
+    "translation": "Устгах хүч",
+    "hanja": "破壞力",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "파괴자",
+    "translation": "сөнөөгч",
+    "hanja": "破壞者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파괴적",
+    "translation": "сүйрүүлэгч",
+    "hanja": "破壞的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "파괴하다",
+    "translation": "устгах",
+    "hanja": "破壞하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파국",
+    "translation": "сүйрэл, уналт",
+    "hanja": "破局",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파국적",
+    "translation": "сүйрлийн, эмгэнэлтэй",
+    "hanja": "破局的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파급",
+    "translation": "тархац",
+    "hanja": "波及",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파급되다",
+    "translation": "тархах",
+    "hanja": "波及되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파기되다",
+    "translation": "устгагдах, хүчингүй болгох",
+    "hanja": "破棄되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "파기하다",
+    "translation": "Хүчингүй болгох",
+    "hanja": "破棄─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파김치",
+    "translation": "Нойтон байцаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파나",
+    "translation": "манав (загас)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파나마",
+    "translation": "Панам",
+    "hanja": "파나마",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "파내다",
+    "translation": "ухах, малтах",
+    "hanja": "파내다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파네토네",
+    "translation": "панеттоне",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파노",
+    "translation": "фано",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파다",
+    "translation": "Махыг ухах",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "파다닥",
+    "translation": "шажигнах",
+    "hanja": "파다닥",
+    "pos": "дуурайх үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "파다하다",
+    "translation": "тархах",
+    "hanja": "播多하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "파닥",
+    "translation": "дэвслэх чимээ",
+    "hanja": "파닥",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파닥거리다",
+    "translation": "дэвхчих, савчих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파닥파닥",
+    "translation": "Дэгдэн дэгдэн, нисэн нисэн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파당",
+    "translation": "фракц",
+    "hanja": "派黨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파도",
+    "translation": "давалгаа",
+    "hanja": "波濤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파도바",
+    "translation": "Падуа (хотын нэр)",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "파도치다",
+    "translation": "давалгаа татах, давалгаа үүсгэх",
+    "hanja": "波濤치다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파도타기",
+    "translation": "давалгаан дээр гулгах",
+    "hanja": "波濤타기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파독",
+    "translation": "Германд суугаа",
+    "hanja": "派獨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파동",
+    "translation": "долгион, хэлбэлзэл",
+    "hanja": "波動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파두",
+    "translation": "Хадуу",
+    "hanja": "破頭",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "파들파들",
+    "translation": "чичигнэх",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파딩",
+    "translation": "фарт",
+    "hanja": "farthing",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파라과이",
+    "translation": "Парагвай",
+    "hanja": "Paraguay",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "파라다이스",
+    "translation": "диваажин",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파라독스",
+    "translation": "парадокс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파라디",
+    "translation": "Паради",
+    "hanja": "파라디",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "파라벤",
+    "translation": "парабен",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파라사우롤로푸스",
+    "translation": "парасауролофус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파라솔",
+    "translation": "нарны шүхэр",
+    "hanja": "parasol",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파라오",
+    "translation": "фараон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파라인플루엔자",
+    "translation": "параинфлуенза",
+    "hanja": "파라인플루엔자",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "파라핀",
+    "translation": "парафин",
+    "hanja": "파라핀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파란",
+    "translation": "цэнхэр",
+    "hanja": "파란",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "파란만장",
+    "translation": "ороо бусгаа",
+    "hanja": "波瀾萬丈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파란만장하다",
+    "translation": "ороо бусгаа",
+    "hanja": "波瀾萬丈하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "파란불",
+    "translation": "Ногоон гэрэл",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "파란색",
+    "translation": "цэнхэр өнгө",
+    "hanja": "파란색",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "파란트로푸스",
+    "translation": "Парантропус",
+    "hanja": "Paranthropus",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파랑",
+    "translation": "цэнхэр",
+    "hanja": "파랑",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "파랑새",
+    "translation": "цэнхэр шувуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파랗다",
+    "translation": "Цэнхэр",
+    "hanja": "파랗다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "파레",
+    "translation": "парео",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파레토",
+    "translation": "Парето (эдийн засгийн хууль)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파력",
+    "translation": "Долгионы хүч",
+    "hanja": "波力",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "파렴치",
+    "translation": "ичгүүргүй",
+    "hanja": "破廉恥",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "파렴치범",
+    "translation": "гутамшигт гэмт хэрэгтэн",
+    "hanja": "破廉恥犯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파렴치하다",
+    "translation": "ичгүүргүй",
+    "hanja": "破廉恥하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파로",
+    "translation": "фаро",
+    "hanja": "파로",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파로스",
+    "translation": "Фарос",
+    "hanja": "Pharos",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파롤",
+    "translation": "зөвшөөрөл",
+    "hanja": "파롤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파루",
+    "translation": "пару (хуучин БНСУ-д шөнө харуулах цаг)",
+    "hanja": "破漏",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파르르",
+    "translation": "чичирхийлэх",
+    "hanja": "파르르",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "파르마",
+    "translation": "Парма (хот, брэнд)",
+    "hanja": "Parma",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파르메니데스",
+    "translation": "Парменид",
+    "hanja": "파르메니데스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파르스름하다",
+    "translation": "хөхрөөдүү",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파르테논",
+    "translation": "Партенон (Грекийн сүм)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파르티아",
+    "translation": "Парфийн (эзэнт гүрэн)",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "파르티잔",
+    "translation": "партизан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파르페",
+    "translation": "парфе",
+    "hanja": "파르페",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파릇파릇",
+    "translation": "шинэхэн, залуу ногоон",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파릇파릇하다",
+    "translation": "Шинэхэн ногоон, соёолж буй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파릇하다",
+    "translation": "ногоовтор",
+    "hanja": "파릇하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파리",
+    "translation": "ялаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파리매",
+    "translation": "шумуул үхэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파리스",
+    "translation": "Парис",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파리지앵",
+    "translation": "парис хүн",
+    "hanja": "Parisien",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파리채",
+    "translation": "ялаа цохих сүүлтэй мод",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "파리하다",
+    "translation": "Цонхигор, цайвар; туранхай",
+    "hanja": "疲憊-",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파마",
+    "translation": "хими хийх",
+    "hanja": "permanent",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파마머리",
+    "translation": "хими хийсэн үс",
+    "hanja": "파마머리",
+    "pos": "n",
+    "cefr": "A2"
+  },
+  {
+    "word": "파마하다",
+    "translation": "буржгар хийх",
+    "hanja": "perm하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파먹다",
+    "translation": "ухаж идэх",
+    "hanja": "N/A",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "파멜라",
+    "translation": "Памела",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "파면",
+    "translation": "албан тушаалаас халах",
+    "hanja": "罷免",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "파면되다",
+    "translation": "үүргээс чөлөөлөгдөх",
+    "hanja": "罷免되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파면하다",
+    "translation": "халцлах, үүрэгт ажлаас нь чөлөөлөх",
+    "hanja": "罷免하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파멸",
+    "translation": "сүйрэл",
+    "hanja": "破滅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파멸되다",
+    "translation": "сүйрэх",
+    "hanja": "破滅되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파멸시키다",
+    "translation": "сөнөөх",
+    "hanja": "破滅시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파멸하다",
+    "translation": "сүйрэх",
+    "hanja": "파멸하다(破滅하다)",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파묘",
+    "translation": "булш ухах",
+    "hanja": "破墓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파묘하다",
+    "translation": "булшийг ухах",
+    "hanja": "破墓하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파문",
+    "translation": "долгион",
+    "hanja": "波紋",
+    "pos": "м.н",
+    "cefr": "B2"
+  },
+  {
+    "word": "파문하다",
+    "translation": "хөөх",
+    "hanja": "破門하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파묻다",
+    "translation": "булшлах, дарах",
+    "hanja": "파묻다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파묻히다",
+    "translation": "Дарагдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파미",
+    "translation": "Памир (уул)",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "파밍",
+    "translation": "фарминг",
+    "hanja": "pharming",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파반",
+    "translation": "паван",
+    "hanja": "pavan",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파발",
+    "translation": "элч",
+    "hanja": "擺撥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파벌",
+    "translation": "фракц, бүлэглэл",
+    "hanja": "派閥",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "파병",
+    "translation": "цэрэг илгээх",
+    "hanja": "派兵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파병되다",
+    "translation": "цэрэг илгээгдэх",
+    "hanja": "派兵되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파병하다",
+    "translation": "цэрэг илгээх",
+    "hanja": "派兵하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "파본",
+    "translation": "Гэмтэлтэй ном",
+    "hanja": "破本",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파브르",
+    "translation": "Фабр",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파블로바",
+    "translation": "Павлова (амттан)",
+    "hanja": "Pavlova",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파블로프",
+    "translation": "Павлов",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파비",
+    "translation": "Фаби",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파빌리온",
+    "translation": "павильон",
+    "hanja": "파빌리온",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파사",
+    "translation": "перс",
+    "hanja": "波斯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파사삭",
+    "translation": "шажигнах дуу (부서지는 소리)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파사이",
+    "translation": "Пасай (Филиппины хот)",
+    "hanja": "Pasay",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파삭",
+    "translation": "хагарах чимээ",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파삭파삭",
+    "translation": "Хямс, ням ням (дууриасан үг)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파삭파삭하다",
+    "translation": "барзгар, шажигнасан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파삭하다",
+    "translation": "Хэврэг",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "파산",
+    "translation": "дампуурал",
+    "hanja": "破産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파산되다",
+    "translation": "дампуурах",
+    "hanja": "破産되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파산하다",
+    "translation": "дампуурах",
+    "hanja": "破産하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "파상",
+    "translation": "долгион хэлбэрийн",
+    "hanja": "波狀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파생",
+    "translation": "үүсэл, гарц",
+    "hanja": "派生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파생되다",
+    "translation": "үүсэх",
+    "hanja": "派生되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "파생하다",
+    "translation": "үүсэх",
+    "hanja": "派生하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파샤",
+    "translation": "Паша (түрэг цол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파섹",
+    "translation": "парсек",
+    "hanja": "파섹",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "파손",
+    "translation": "Эвдрэл, гэмтэл",
+    "hanja": "破損",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파손되다",
+    "translation": "гэмтэх, эвдрэх",
+    "hanja": "破損되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파손하다",
+    "translation": "Эвдэх",
+    "hanja": "破損하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "파송",
+    "translation": "илгээх",
+    "hanja": "派送",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파송하다",
+    "translation": "илгээх, явуулах",
+    "hanja": "派送하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "파쇄",
+    "translation": "буталгах",
+    "hanja": "破碎",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파쇄되다",
+    "translation": "бутрах, хагарах",
+    "hanja": "破碎되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파쇄하다",
+    "translation": "нунтаглах",
+    "hanja": "破碎하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파쇼",
+    "translation": "Фашизм",
+    "hanja": "파쇼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파수",
+    "translation": "Манаа",
+    "hanja": "把守",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "파수꾼",
+    "translation": "харуул, хамгаалагч",
+    "hanja": "把守꾼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파순",
+    "translation": "Пашун (буддын домогт гардаг чөтгөр)",
+    "hanja": "波旬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파스",
+    "translation": "нөхөөс",
+    "hanja": "pastille",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파스닙",
+    "translation": "яншуй",
+    "hanja": "파스닙",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파스칼",
+    "translation": "Паскаль (нэр)",
+    "hanja": "Pascal",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파스타",
+    "translation": "паста",
+    "hanja": "pasta",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "파스텔",
+    "translation": "Пастель",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파스토",
+    "translation": "пасто",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파스퇴르",
+    "translation": "Пастер",
+    "hanja": "Pasteur",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파슨스",
+    "translation": "Парсонс (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파슬리",
+    "translation": "парсley",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파시",
+    "translation": "파시 (загасчны зах)",
+    "hanja": "波市",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파시스트",
+    "translation": "фашист",
+    "hanja": "null",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "파시즘",
+    "translation": "фашизм",
+    "hanja": "파시즘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파악",
+    "translation": "Ойлгох, тодорхойлох",
+    "hanja": "把握",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파악되다",
+    "translation": "ойлгогдох",
+    "hanja": "把握되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "파악하다",
+    "translation": "ойлгох",
+    "hanja": "把握-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파안대소",
+    "translation": "инээдээр дүүрэн",
+    "hanja": "破顔大笑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파안대소하다",
+    "translation": "чанга инээх",
+    "hanja": "破顔大笑하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파양",
+    "translation": "үрчлэхээ болих",
+    "hanja": "破養",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파양하다",
+    "translation": "үрчлэлтийг цуцлах",
+    "hanja": "罷養하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파업",
+    "translation": "ажил хаялт",
+    "hanja": "罷業",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파업하다",
+    "translation": "ажил хаях",
+    "hanja": "罷業하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파에야",
+    "translation": "паелла",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파열",
+    "translation": "хагарах, үсрэх",
+    "hanja": "破裂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파열되다",
+    "translation": "цоорох",
+    "hanja": "破裂되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파열음",
+    "translation": "тэсрэх авиа",
+    "hanja": "破裂音",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파열하다",
+    "translation": "хагарах",
+    "hanja": "破裂하다",
+    "pos": "VV",
+    "cefr": "C1"
+  },
+  {
+    "word": "파옥",
+    "translation": "шоронг эвдэх",
+    "hanja": "破獄",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "파우",
+    "translation": "Пау",
+    "hanja": "Pau",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "파우더",
+    "translation": "нунтаг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파우사니아스",
+    "translation": "Паусаниас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파우스트",
+    "translation": "Фауст",
+    "hanja": "Faust",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파우치",
+    "translation": "уут",
+    "hanja": "없음",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파운데이션",
+    "translation": "Паундейшн",
+    "hanja": "foundation",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파운드",
+    "translation": "паунд",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "파운드리",
+    "translation": "Цутгамал үйлдвэр",
+    "hanja": "파운드리",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "파운딩",
+    "translation": "цохилт, цохиж унагах",
+    "hanja": "pounding",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파울",
+    "translation": "буруу үйлдэл (спортод)",
+    "hanja": "foul",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파워",
+    "translation": "хүч",
+    "hanja": "power",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파월",
+    "translation": "Пауэлл",
+    "hanja": "파월",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파유",
+    "translation": "эвдрэл",
+    "hanja": "破喩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파이",
+    "translation": "бялуу",
+    "hanja": "파이",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "파이낸스",
+    "translation": "Санхүү",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파이낸싱",
+    "translation": "Санхүүжилт",
+    "hanja": "파이낸싱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파이널리스트",
+    "translation": "Шигшээд үлдсэн хүн, шигшээд шалгарсан хүн",
+    "hanja": "파이널리스트",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파이다",
+    "translation": "ухагдах",
+    "hanja": "파이다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파이버",
+    "translation": "ширхэг, фибр",
+    "hanja": "fiber",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파이썬",
+    "translation": "Python",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파이어",
+    "translation": "гал",
+    "hanja": "파이어",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "파이어스톰",
+    "translation": "Галт шуурга",
+    "hanja": "파이어스톰",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파이어와이어",
+    "translation": "файрвайр",
+    "hanja": "FireWire",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파이터",
+    "translation": "тулаанч",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파이톤",
+    "translation": "мормын могой",
+    "hanja": "python",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파이트",
+    "translation": "зодоон, тэмцэл (гадны үгнээс)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파이팅",
+    "translation": "амжилт хүсье, тэмц",
+    "hanja": "",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파이퍼",
+    "translation": "пайпер",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파이프",
+    "translation": "Хоолой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파이프라인",
+    "translation": "дамжуулах хоолой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파이핑",
+    "translation": "хоолой татах",
+    "hanja": "piping",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파인",
+    "translation": "гоё",
+    "hanja": "fine",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "파인더",
+    "translation": "Харагч",
+    "hanja": "파인더",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파인먼",
+    "translation": "Фейнман",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파인애플",
+    "translation": "Хушга",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "파인트",
+    "translation": "Паинт (хэмжээний нэгж)",
+    "hanja": "파인트",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파일",
+    "translation": "Файл",
+    "hanja": "파일",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "파일럿",
+    "translation": "нисгэгч",
+    "hanja": "pilot",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파임",
+    "translation": "орооцолдох, муудах",
+    "hanja": "파임",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파자마",
+    "translation": "унтлагын хувцас",
+    "hanja": "파자마",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "파장",
+    "translation": "долгионы урт",
+    "hanja": "波長",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "파전",
+    "translation": "пажон (ногоон сонгинотой хайрмаг)",
+    "hanja": "파煎",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파제",
+    "translation": "сэдэв эвдэх",
+    "hanja": "破題",
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "파종",
+    "translation": "тарих",
+    "hanja": "播種",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파종하다",
+    "translation": "үр тарих",
+    "hanja": "播種하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파주",
+    "translation": "Пажү",
+    "hanja": "坡州",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "파죽",
+    "translation": "ясны шөл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파죽지세",
+    "translation": "Хурдтайгаар давшин орох хүч",
+    "hanja": "破竹之勢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파지하다",
+    "translation": "барьж авах",
+    "hanja": "把持하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파직",
+    "translation": "Ажлаас халах",
+    "hanja": "罷職",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파직되다",
+    "translation": "Ажлаас халагдах",
+    "hanja": "罷職되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파직하다",
+    "translation": "албан тушаалаас халах",
+    "hanja": "罷職하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파천",
+    "translation": "тэнгэрийг нээх",
+    "hanja": "破天",
+    "pos": "n",
+    "cefr": "C2"
+  },
+  {
+    "word": "파출부",
+    "translation": "гэрийн үйлчлэгч",
+    "hanja": "派出婦",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파출소",
+    "translation": "цагдаагийн хэсэг",
+    "hanja": "派出所",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파충류",
+    "translation": "мөлхөгч амьтан",
+    "hanja": "爬蟲類",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파치먼트",
+    "translation": "цаасан илгэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파친코",
+    "translation": "пачинко",
+    "hanja": "パチンコ",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파카",
+    "translation": "парка",
+    "hanja": "파카",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파커",
+    "translation": "Паркер",
+    "hanja": "Parker",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "파쿠다",
+    "translation": "Пакуда (Лалын шашны судлаач)",
+    "hanja": "Pakuda",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파쿠르",
+    "translation": "Паркур",
+    "hanja": "파쿠르",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파크",
+    "translation": "цэцэрлэгт хүрээлэн",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "파크웨이",
+    "translation": "Цэцэрлэгт хүрээлэнгийн зам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파키리노사우루스",
+    "translation": "Пахиринозавр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파키스탄",
+    "translation": "Пакистан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "파키케팔로사우루스",
+    "translation": "пахицефалозавр",
+    "hanja": "파키케팔로사우루스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파킨슨병",
+    "translation": "Паркинсоны өвчин",
+    "hanja": "파킨슨病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파킹",
+    "translation": "Машины зогсоол",
+    "hanja": "파킹",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파타",
+    "translation": "Пата (нэр)",
+    "hanja": "파타",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파타고니아",
+    "translation": "Патагониа",
+    "hanja": "Patagonia",
+    "pos": "нэр үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "파타야",
+    "translation": "Паттайя",
+    "hanja": "파타야",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "파탄",
+    "translation": "дампуурал",
+    "hanja": "破綻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파탈",
+    "translation": "фаталь",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파테르",
+    "translation": "эцэг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파텔",
+    "translation": "Пател",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파토",
+    "translation": "хүчингүй болгох",
+    "hanja": "破土",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파토스",
+    "translation": "патос",
+    "hanja": "pathos",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파투",
+    "translation": "замхрах",
+    "hanja": "破套",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파트",
+    "translation": "хэсэг, тал",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "파트너",
+    "translation": "Түнш",
+    "hanja": "partner",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파트라스",
+    "translation": "Патрас",
+    "hanja": "파트라스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파트타임",
+    "translation": "хагас цагийн ажил",
+    "hanja": "파트타임",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파티",
+    "translation": "үдэшлэг",
+    "hanja": "party",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "파티마",
+    "translation": "Фатима (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파티션",
+    "translation": "хаалт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파티쉐",
+    "translation": "нарийн боовчин",
+    "hanja": "파티쉐",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파티오",
+    "translation": "патио",
+    "hanja": "patio",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파티클",
+    "translation": "бөөм",
+    "hanja": "particle",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "파파",
+    "translation": "папа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "파파라치",
+    "translation": "Папарацци",
+    "hanja": "paparazzi",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파파로티",
+    "translation": "Паваротти",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파파야",
+    "translation": "Папайя",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "파판",
+    "translation": "Фапан (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파편",
+    "translation": "хэлтэрхий, бутархай",
+    "hanja": "破片",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "파편화되다",
+    "translation": "бутрах, хэсэгчлэгдэх",
+    "hanja": "破片化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파평",
+    "translation": "Пэк-пёнг (солонгос овог)",
+    "hanja": "坡平",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파푸아",
+    "translation": "Папуа",
+    "hanja": "Papua",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파프리카",
+    "translation": "паприка",
+    "hanja": "파프리카",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파피루스",
+    "translation": "папирус",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파피용",
+    "translation": "папийон",
+    "hanja": "파피용",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파하다",
+    "translation": "дуусгах, тараах",
+    "hanja": "罷하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파행",
+    "translation": "Доголдох, саатах",
+    "hanja": "跛行",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "파행하다",
+    "translation": "доголон явах",
+    "hanja": "跛行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파향",
+    "translation": "хуучин газар",
+    "hanja": "破鄕",
+    "pos": "нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "파헤치다",
+    "translation": "Маажих / Ухаж гаргах",
+    "hanja": "파헤치다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파형",
+    "translation": "долгионы хэлбэр",
+    "hanja": "波形",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파혼",
+    "translation": "хурим цуцлах",
+    "hanja": "破婚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파혼당하다",
+    "translation": "Сүй таслагдах",
+    "hanja": "破婚當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파혼하다",
+    "translation": "сүйгээ цуцлах",
+    "hanja": "破婚하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파훼하다",
+    "translation": "бусниулах, үгүй хийх",
+    "hanja": "破毁하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "파히",
+    "translation": "пахи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파히타",
+    "translation": "фахита",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  }
+]

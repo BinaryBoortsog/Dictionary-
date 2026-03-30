@@ -1,0 +1,1150 @@
+[
+  {
+    "word": "예",
+    "translation": "тийм",
+    "hanja": null,
+    "pos": "interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "예각",
+    "translation": "хурц өнцөг",
+    "hanja": "銳角",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예감",
+    "translation": "урьдчилсан мэдрэмж",
+    "hanja": "豫感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예감하다",
+    "translation": "урьдчилан мэдрэх",
+    "hanja": "豫感하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예거",
+    "translation": "анчин",
+    "hanja": "예거",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예견",
+    "translation": "урьдчилан таамаглах",
+    "hanja": "豫見",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예견되다",
+    "translation": "урьдчилан таамаглагдах",
+    "hanja": "豫見되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예견하다",
+    "translation": "урьдчилан таамаглах, харах",
+    "hanja": "豫見하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "예결",
+    "translation": "Урьдчилан шийдвэрлэх",
+    "hanja": "預決",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예고",
+    "translation": "урьдчилсан мэдэгдэл",
+    "hanja": "予告",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예고되다",
+    "translation": "урьдчилан зарлах",
+    "hanja": "豫告되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예고편",
+    "translation": "Урьдчилсан трейлер",
+    "hanja": "豫告篇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예고하다",
+    "translation": "урьдчилан мэдэгдэх",
+    "hanja": "豫告하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "예과",
+    "translation": "бэлтгэл курс",
+    "hanja": "豫科",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예구",
+    "translation": "Урьдчилан бэлдэх",
+    "hanja": "預購",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "예규",
+    "translation": "жишиг журам",
+    "hanja": "例規",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예금",
+    "translation": "хадгаламж",
+    "hanja": "預金",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "예금액",
+    "translation": "хадгаламжийн дүн",
+    "hanja": "預金額",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예금주",
+    "translation": "Хадгаламж эзэмшигч",
+    "hanja": "預金主",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "예금하다",
+    "translation": "хадгаламжлах",
+    "hanja": "預金하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예기하다",
+    "translation": "Урьдчилан таамаглах",
+    "hanja": "豫期하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예끼",
+    "translation": "хараал, хараал зүхэл",
+    "hanja": "",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예년",
+    "translation": "өмнөх жилүүд",
+    "hanja": "例年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예능",
+    "translation": "урлагийн шоу",
+    "hanja": "藝能",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예능인",
+    "translation": "зугаа цэнгээний хүн",
+    "hanja": "藝能人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예닐곱",
+    "translation": "Зургаа, долоо",
+    "hanja": "예닐곱",
+    "pos": "수사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예단",
+    "translation": "урьдчилан таамаглах",
+    "hanja": "예단(豫斷)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예단하다",
+    "translation": "урьдчилан таамаглах",
+    "hanja": "豫斷하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예도",
+    "translation": "ёс зүй",
+    "hanja": "禮度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예레미야",
+    "translation": "Иеремиа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "예루살렘",
+    "translation": "Иерусалим",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "예리코",
+    "translation": "Иерихо",
+    "hanja": "예리코",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예리하다",
+    "translation": "Хурц, нарийн",
+    "hanja": "銳利하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예매",
+    "translation": "Урьдчилан захиалах",
+    "hanja": "豫買",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예매되다",
+    "translation": "урьдчилан борлуулагдах",
+    "hanja": "豫買되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예매하다",
+    "translation": "урьдчилан захиалах",
+    "hanja": "豫買하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "예멘",
+    "translation": "Йемен",
+    "hanja": "예멘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예명",
+    "translation": "урлагийн нэр",
+    "hanja": "藝名",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예문",
+    "translation": "жишиг өгүүлбэр, үлгэр жишээ",
+    "hanja": "例文",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예물",
+    "translation": "Бэлэг, сүй тавих бэлэг",
+    "hanja": "禮物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예민도",
+    "translation": "мэдрэмж",
+    "hanja": "銳敏度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예민미",
+    "translation": "мэдрэмж",
+    "hanja": "銳敏美",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예민보스",
+    "translation": "хэт мэдрэмтгий дарга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예민성",
+    "translation": "мэдрэмжтэй байдал",
+    "hanja": "銳敏性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예민하다",
+    "translation": "мэдрэмтгий, эмзэг",
+    "hanja": "銳敏하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예방",
+    "translation": "урьдчилан сэргийлэх",
+    "hanja": "豫防",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "예방되다",
+    "translation": "урьдчилан сэргийлэх",
+    "hanja": "豫防되다",
+    "pos": "동",
+    "cefr": "B2"
+  },
+  {
+    "word": "예방법",
+    "translation": "урьдчилан сэргийлэх арга",
+    "hanja": "豫防法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예방책",
+    "translation": "урьдчилан сэргийлэх арга хэмжээ",
+    "hanja": "豫防策",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예방하다",
+    "translation": "Урьдчилан сэргийлэх",
+    "hanja": "豫防하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예배",
+    "translation": "мөргөл",
+    "hanja": "禮拜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예배다",
+    "translation": "Мөргөх",
+    "hanja": "禮拜다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예배당",
+    "translation": "Сүм",
+    "hanja": "禮拜堂",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "예배하다",
+    "translation": "мөргөх",
+    "hanja": "禮拜하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예법",
+    "translation": "Ёс зүй",
+    "hanja": "禮法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예보",
+    "translation": "урьдчилсан мэдээ",
+    "hanja": "豫報",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "예보되다",
+    "translation": "урьдчилан таамаглагдах",
+    "hanja": "豫報되다",
+    "pos": "ү.ү.",
+    "cefr": "B2"
+  },
+  {
+    "word": "예보하다",
+    "translation": "урьдчилан таамаглах",
+    "hanja": "豫報하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예복",
+    "translation": "Гоёлын хувцас, ёслолын хувцас",
+    "hanja": "禮服",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예봉",
+    "translation": "хурц ирмэг",
+    "hanja": "銳鋒",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "예부",
+    "translation": "Ёслолын яам",
+    "hanja": "禮部",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "예분",
+    "translation": "Урьдчилан хуваарилах",
+    "hanja": "預分",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "예불",
+    "translation": "буддын шашны мөргөл",
+    "hanja": "禮佛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예비",
+    "translation": "бэлтгэл",
+    "hanja": "예비(豫備)",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "예비군",
+    "translation": "нөөц хүчин",
+    "hanja": "豫備軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예비역",
+    "translation": "нөөцийн цэрэг, бэлтгэл цэрэг",
+    "hanja": "豫備役",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예비하다",
+    "translation": "бэлдэх, нөөцлөх",
+    "hanja": "豫備하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예뻐하다",
+    "translation": "хайрлах, өхөөрдөх",
+    "hanja": "예뻐하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예쁘다",
+    "translation": "хөөрхөн",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "예쁘장하다",
+    "translation": "хөөрхөн харагдах",
+    "hanja": "null",
+    "pos": "тэм.",
+    "cefr": "A2"
+  },
+  {
+    "word": "예쁜이",
+    "translation": "хөөрхөн охин, гоё охин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예삐",
+    "translation": "хөөрхөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "예사",
+    "translation": "ердийн зүйл; энгийн зүйл",
+    "hanja": "例事",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예사롭다",
+    "translation": "хэвийн, энгийн",
+    "hanja": "例事-",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예산",
+    "translation": "төсөв",
+    "hanja": "豫算",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "예산안",
+    "translation": "Төсвийн төсөл",
+    "hanja": "豫算案",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예삿일",
+    "translation": "Ердийн хэрэг",
+    "hanja": "例事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예상",
+    "translation": "таамаглал, хүлээлт",
+    "hanja": "豫想",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예상되다",
+    "translation": "таамаглагдах",
+    "hanja": "豫想되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예상하다",
+    "translation": "Таамаглах",
+    "hanja": "豫想하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예석",
+    "translation": "үлгэр жишээ",
+    "hanja": "例釋",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "예선",
+    "translation": "Урьдчилсан шат",
+    "hanja": "豫選",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예선전",
+    "translation": "урьдчилсан шатны тоглолт",
+    "hanja": "豫選戰",
+    "pos": "м",
+    "cefr": "B2"
+  },
+  {
+    "word": "예속",
+    "translation": "харъяалал, эрхшээл",
+    "hanja": "隷屬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예속되다",
+    "translation": "хамааралтай болох",
+    "hanja": "隷屬되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "예속시키다",
+    "translation": "Боолчлох, эрхшээлдээ оруулах",
+    "hanja": "隷屬시키다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "예송",
+    "translation": "шашны ёслол",
+    "hanja": "禮訟",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "예수",
+    "translation": "Есүс",
+    "hanja": "예수",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예순",
+    "translation": "жар",
+    "hanja": "六十",
+    "pos": "수사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예술",
+    "translation": "урлаг",
+    "hanja": "藝術",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예술가",
+    "translation": "Уран бүтээлч",
+    "hanja": "藝術家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예술계",
+    "translation": "Урлагийн салбар",
+    "hanja": "藝術界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예술성",
+    "translation": "уран сайхан",
+    "hanja": "藝術性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예술적",
+    "translation": "урлагийн, уран сайхны",
+    "hanja": "藝術的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예술제",
+    "translation": "урлагийн наадам",
+    "hanja": "藝術祭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예술품",
+    "translation": "Урлагийн бүтээл",
+    "hanja": "藝術品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예스럽다",
+    "translation": "эртнийх шиг, хуучны",
+    "hanja": "옛스럽다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예스맨",
+    "translation": "тийм гэсэн хүн, за гэсэн хүн",
+    "hanja": "null",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "예습",
+    "translation": "урьдчилсан хичээл",
+    "hanja": "豫習",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예습하다",
+    "translation": "урьдчилж үзэх",
+    "hanja": "豫習하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예시",
+    "translation": "жишээ, үлгэр",
+    "hanja": "例示",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예시하다",
+    "translation": "жишээ болгон үзүүлэх",
+    "hanja": "例示하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예식",
+    "translation": "ёслол",
+    "hanja": "禮式",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "예식장",
+    "translation": "хуримын танхим",
+    "hanja": "禮式場",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예악",
+    "translation": "ёс зүй ба хөгжим",
+    "hanja": "禮樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예약",
+    "translation": "захиалга",
+    "hanja": "豫約",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예약금",
+    "translation": "урьдчилгаа төлбөр",
+    "hanja": "豫約金",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예약되다",
+    "translation": "захиалсан",
+    "hanja": "豫約되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예약석",
+    "translation": "захиалсан суудал",
+    "hanja": "豫約席",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "예약제",
+    "translation": "захиалгын систем",
+    "hanja": "豫約制",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예약하다",
+    "translation": "захиалах",
+    "hanja": "豫約하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예언",
+    "translation": "таамаг",
+    "hanja": "預言",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "예언되다",
+    "translation": "урьдчилан таамаглагдах",
+    "hanja": "預言되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예언자",
+    "translation": "зөнч",
+    "hanja": "預言者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예언하다",
+    "translation": "зөгнөх",
+    "hanja": "豫言하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예열",
+    "translation": "урьдчилан халаах",
+    "hanja": "豫熱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예열하다",
+    "translation": "өмнө халаах",
+    "hanja": "豫熱하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "예예",
+    "translation": "тийм ээ, тийм ээ",
+    "hanja": "예예",
+    "pos": "interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "예외",
+    "translation": "онцгой тохиолдол, үл хамаарах",
+    "hanja": "例外",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예외적",
+    "translation": "онцгой",
+    "hanja": "例外的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "예우",
+    "translation": "хүндэтгэл",
+    "hanja": "禮遇",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "예우하다",
+    "translation": "хүндэтгэж үзэх",
+    "hanja": "禮遇하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예의",
+    "translation": "ёс зүй",
+    "hanja": "禮儀",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "예의범절",
+    "translation": "ёс зүй",
+    "hanja": "禮儀凡節",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예이",
+    "translation": "ээе (дуурайл)",
+    "hanja": "예이",
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "예이츠",
+    "translation": "Иейтс",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예인되다",
+    "translation": "Чирэгдэх",
+    "hanja": "曳引되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예장",
+    "translation": "ёслолын хувцас",
+    "hanja": "禮裝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예전",
+    "translation": "өнгөрсөн",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "예절",
+    "translation": "ёс зүй",
+    "hanja": "禮節",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예정",
+    "translation": "төлөвлөгөө",
+    "hanja": "豫定",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "예정되다",
+    "translation": "төлөвлөгдсөн, хуваарьт оруулах",
+    "hanja": "豫定되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예정일",
+    "translation": "төлөвлөгөөт өдөр, товлосон өдөр",
+    "hanja": "豫定日",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예정지",
+    "translation": "төлөвлөсөн газар",
+    "hanja": "豫定地",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "예정하다",
+    "translation": "төлөвлөх, товлох",
+    "hanja": "豫定하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "예제",
+    "translation": "жишээ",
+    "hanja": "例題",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예조",
+    "translation": "урьдчилан таамаглах, шинж тэмдэг",
+    "hanja": "豫兆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예종",
+    "translation": "Ежонг (хааны нэр)",
+    "hanja": "睿宗",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "예지하다",
+    "translation": "урьдчилан таамаглах",
+    "hanja": "豫知하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예찬하다",
+    "translation": "магтан дуулах, хэт магтах",
+    "hanja": "禮讚하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예천",
+    "translation": "ечон",
+    "hanja": "醴泉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예체능",
+    "translation": "урлаг, биеийн тамир",
+    "hanja": "藝體能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예초",
+    "translation": "өвс хадах",
+    "hanja": "刈草",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예측",
+    "translation": "урьдчилан таамаглах",
+    "hanja": "豫測",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "예측되다",
+    "translation": "Урьдчилан таамаглагдах",
+    "hanja": "豫測되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예측하다",
+    "translation": "урьдчилан таамаглах",
+    "hanja": "豫測하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예치",
+    "translation": "мөнгө байршуулах, хадгалах",
+    "hanja": "預置",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예치금",
+    "translation": "хадгаламж, барьцаа мөнгө",
+    "hanja": "預置金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예치하다",
+    "translation": "хадгалах",
+    "hanja": "預置하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예친왕",
+    "translation": "Ээчин ван",
+    "hanja": "睿親王",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "예컨대",
+    "translation": "жишээ нь",
+    "hanja": "例컨대",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예타",
+    "translation": "урьдчилсан таамаглал",
+    "hanja": "豫測",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "예탁",
+    "translation": "Хадгаламж, барьцаа",
+    "hanja": "預託",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "예테보리",
+    "translation": "Гётеборг",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "예판",
+    "translation": "Урьдчилсан худалдаа",
+    "hanja": "販",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "예편",
+    "translation": "тэтгэвэрт гарах",
+    "hanja": "豫編",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "예편하다",
+    "translation": "тэтгэвэрт гарах",
+    "hanja": "豫編하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "예포",
+    "translation": "хүндэтгэлийн буудлага",
+    "hanja": "禮砲",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "예학",
+    "translation": "ёс зүйн ухаан",
+    "hanja": "禮學",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "예행",
+    "translation": "예행, 예비로 행함",
+    "hanja": "豫行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예향",
+    "translation": "урлагийн өлгий",
+    "hanja": "藝鄕",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "예화",
+    "translation": "жишээ, сургамж",
+    "hanja": "例話",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예후",
+    "translation": "таамаглал, урьдчилсан байдал",
+    "hanja": "豫後",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예히",
+    "translation": "тийм ээ (хуучин хэлбэр)",
+    "hanja": "N/A",
+    "pos": "감탄사",
+    "cefr": "A1"
+  }
+]

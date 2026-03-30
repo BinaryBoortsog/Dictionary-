@@ -1,0 +1,541 @@
+[
+  {
+    "word": "처",
+    "translation": "Эхнэр",
+    "hanja": "妻",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "처가",
+    "translation": "эхнэрийн талын гэр бүл",
+    "hanja": "妻家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "처가살이",
+    "translation": "эхнэрийн гэрт амьдрах",
+    "hanja": "妻家살이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처가집",
+    "translation": "эхнэрийн гэр, хадам эхийн гэр",
+    "hanja": "妻家집",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "처갓집",
+    "translation": "Хадам эхийн гэр",
+    "hanja": "妻家집",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처결",
+    "translation": "шийдвэрлэх",
+    "hanja": "處決",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처결하다",
+    "translation": "шийдвэрлэх",
+    "hanja": "處決하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처남",
+    "translation": "хүргэн ах дүү",
+    "hanja": "妻男",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "처넣다",
+    "translation": "Шуурганд оруулах",
+    "hanja": "처넣다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "처녀",
+    "translation": "онгон",
+    "hanja": "處女",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "처녀성",
+    "translation": "онгон чанар",
+    "hanja": "處女性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처녀작",
+    "translation": "анхны бүтээл, анхны зохиол",
+    "hanja": "處女作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처단",
+    "translation": "шийтгэх, цээрлүүлэх",
+    "hanja": "處斷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처단되다",
+    "translation": "Шийтгэгдэх, хөнөөгдөх",
+    "hanja": "處斷되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "처닫다",
+    "translation": "хананд зохих",
+    "hanja": "처닫다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처량하다",
+    "translation": "Өрөвдөлтэй, ганцаардмал",
+    "hanja": "凄凉하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처리",
+    "translation": "боловсруулалт, шийдвэрлэх",
+    "hanja": "處理",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처리되다",
+    "translation": "шийдвэрлэгдэх",
+    "hanja": "處理되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처리장",
+    "translation": "боловсруулах үйлдвэр",
+    "hanja": "處理場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처리하다",
+    "translation": "шийдвэрлэх",
+    "hanja": "處理─",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "처마",
+    "translation": "дээврийн чимэглэл",
+    "hanja": "처마",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처망",
+    "translation": "харах",
+    "hanja": "處望",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "처먹다",
+    "translation": "идэх (грубо)",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처먹이다",
+    "translation": "хүчээр хооллох",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "처묵다",
+    "translation": "Идэх (бүдүүлэг үг)",
+    "hanja": "처묵다",
+    "pos": "동사",
+    "cefr": "Aoci"
+  },
+  {
+    "word": "처미",
+    "translation": "Зах",
+    "hanja": "처미",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "처바르다",
+    "translation": "зузаан түрхэх",
+    "hanja": "—다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처박다",
+    "translation": "шихэх, хаях",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처박히다",
+    "translation": "шидэгдэх, зоологдох",
+    "hanja": "---",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "처발처발",
+    "translation": "зузаан түрхэх (дуурайх үг)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처방",
+    "translation": "Эмийн жор",
+    "hanja": "處方",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "처방되다",
+    "translation": "зааж өгөх",
+    "hanja": "處方되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "처방전",
+    "translation": "Жор",
+    "hanja": "處方箋",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "처방하다",
+    "translation": "жороор бичих",
+    "hanja": "處方하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "처벌",
+    "translation": "шийтгэл",
+    "hanja": "處罰",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "처벌되다",
+    "translation": "шийтгэгдэх",
+    "hanja": "處罰되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처벌하다",
+    "translation": "шийтгэх",
+    "hanja": "處罰하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처복",
+    "translation": "эхнэрийн хувцас",
+    "hanja": "妻福",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "처분",
+    "translation": "шийдвэр, захирамж",
+    "hanja": "處分",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처분되다",
+    "translation": "хаягдах, устгагдах",
+    "hanja": "處分되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처분하다",
+    "translation": "Захиран зарцуулах",
+    "hanja": "處分하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "처사",
+    "translation": "үйлдэл",
+    "hanja": " cheosa",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "처세",
+    "translation": "хүмүүстэй харилцах",
+    "hanja": "處世",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처세술",
+    "translation": "амьдрах арга, нийгэмд биеэ авч явах арга",
+    "hanja": "處世術",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처소",
+    "translation": "байр",
+    "hanja": "處所",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "처신",
+    "translation": "үйлдэл",
+    "hanja": "處身",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "처신하다",
+    "translation": "биеэ авч явах",
+    "hanja": "處身하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "처연하다",
+    "translation": "аймшигтай, өрөвдөм",
+    "hanja": "悽然하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처용",
+    "translation": "Чо용",
+    "hanja": "處容",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "처우",
+    "translation": "харьцах",
+    "hanja": "處遇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처음",
+    "translation": "анх",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "처자",
+    "translation": "Эхнэр, хүүхдүүд",
+    "hanja": "妻子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처자다",
+    "translation": "унтах",
+    "hanja": "처자다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "처자빠지다",
+    "translation": "унах",
+    "hanja": "None",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "처자식",
+    "translation": "гэр бүл (эхнэр, хүүхэд)",
+    "hanja": "妻子息",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "처장",
+    "translation": "Хэлтсийн дарга",
+    "hanja": "處長",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처절하다",
+    "translation": "Хүнд хэцүү, эмгэнэлтэй",
+    "hanja": "悽絶하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "처절히",
+    "translation": "аймшигтайгаар",
+    "hanja": "凄切히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처제",
+    "translation": "эхнэрийн дүү",
+    "hanja": "妻弟",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "처조카",
+    "translation": "эхнэрийн дүүгийн хүүхэд",
+    "hanja": "妻姪",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "처지",
+    "translation": "нөхцөл байдал",
+    "hanja": "處地",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "처짐",
+    "translation": "хэвгий болох, мултрах",
+    "hanja": "처짐",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "처참",
+    "translation": "Аймшигтай, хэрцгий",
+    "hanja": "悽慘",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처참하다",
+    "translation": "аймшигтай",
+    "hanja": "悽慘하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처참히",
+    "translation": "аймшигтайгаар",
+    "hanja": "悽慘히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처처",
+    "translation": "хаа сайгүй, олон газар",
+    "hanja": "처처(處處)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처첩",
+    "translation": "эхнэр ба татвар эм",
+    "hanja": "妻妾",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "처치",
+    "translation": "Зохицуулалт",
+    "hanja": "處置",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처치되다",
+    "translation": "шийдвэрлэгдэх, арга хэмжээ авагдах",
+    "hanja": "處置되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처치하다",
+    "translation": "устгах, зохицуулах",
+    "hanja": "處置하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처칠",
+    "translation": "Черчилл",
+    "hanja": "Churchill",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처트",
+    "translation": "Чарт (chert - геологийн нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처하다",
+    "translation": "нөхцөл байдалд орох",
+    "hanja": "處하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처형",
+    "translation": "цаазын ял гүйцэтгэх, дүү",
+    "hanja": "處刑/妻兄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처형당하다",
+    "translation": "цаазлуулах",
+    "hanja": "處刑當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처형되다",
+    "translation": "цаазлагдах",
+    "hanja": "處刑되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처형하다",
+    "translation": "цаазаар авах",
+    "hanja": "處刑하다",
+    "pos": "동사",
+    "cefr": "C1"
+  }
+]

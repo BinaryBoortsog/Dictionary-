@@ -1,0 +1,289 @@
+[
+  {
+    "word": "묵",
+    "translation": "мук (уламжлалт хоол)",
+    "hanja": "묵",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "묵가",
+    "translation": "Мохизм",
+    "hanja": "墨家",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "묵계",
+    "translation": "дундын ойлголт",
+    "hanja": "默契",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵고살다",
+    "translation": "хооллож амьдрах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "묵과하다",
+    "translation": "үл тоомсорлох, нүд хүрч өнгөрөөх",
+    "hanja": "黙過하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵념",
+    "translation": "дугуй дуугүй залбирал",
+    "hanja": "默念",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵념하다",
+    "translation": "чимээгүй дурсах, хүндэтгэн зогсох",
+    "hanja": "默念하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵다",
+    "translation": "Хуучирсан, хоцрогдсон",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵동",
+    "translation": "Харанхуй хөндий",
+    "hanja": "墨洞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵란도",
+    "translation": "мэлрэг цэцгийн зураг",
+    "hanja": "墨蘭圖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "묵례",
+    "translation": "чимээгүй мэндлэх",
+    "hanja": "默禮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "묵례하다",
+    "translation": "дуугүй мэндлэх; толгой дохин мэндлэх",
+    "hanja": "默禮하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "묵묵부답",
+    "translation": "дуугүй хариугүй байх",
+    "hanja": "默默不答",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "묵묵하다",
+    "translation": "чимээгүй байх, дуугай байх",
+    "hanja": "默默하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵묵히",
+    "translation": "Чимээгүй, дуугүй",
+    "hanja": "默默히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵비권",
+    "translation": "Дуугарахгүй байх эрх",
+    "hanja": "默秘權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵사발",
+    "translation": "хүнд цохилт",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵살",
+    "translation": "Үл тоомсорлох",
+    "hanja": "默殺",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵살당하다",
+    "translation": "Үл тоогдох, үгүйсгэгдэх",
+    "hanja": "默殺당하다",
+    "pos": "동사 (Verb)",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵살되다",
+    "translation": "үл тоомсорлогдох",
+    "hanja": "默殺되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵살하다",
+    "translation": "үл тоомсорлох",
+    "hanja": "默殺하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵상",
+    "translation": "бясалгал, гүн ухаарал",
+    "hanja": "默想",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵상하다",
+    "translation": "бясалгах",
+    "hanja": "默想하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵색",
+    "translation": "хар өнгө",
+    "hanja": "墨色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "묵시",
+    "translation": "чимээгүй зөвшөөрөл, далд утга",
+    "hanja": "默示",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵시적",
+    "translation": "далд, дуугүй",
+    "hanja": "默示的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵언",
+    "translation": "дуугүй байх",
+    "hanja": "黙言",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵연",
+    "translation": "чимээгүй, дуугүй",
+    "hanja": "默然",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "묵은해",
+    "translation": "өнгөрсөн жил",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "묵음",
+    "translation": "Дуудлагагүй үсэг, чимээгүй үсэг",
+    "hanja": "默音",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵인",
+    "translation": "чимээгүй зөвшөөрөх",
+    "hanja": "黙認",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵인되다",
+    "translation": "чимээгүй зөвшөөрөгдөх",
+    "hanja": "黙認되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵인하다",
+    "translation": "чимээгүй зөвшөөрөх",
+    "hanja": "默認하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵자",
+    "translation": "Мү-зы (хятад гүн ухаантан)",
+    "hanja": "墨子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵주",
+    "translation": "Розари",
+    "hanja": "묵珠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵죽",
+    "translation": "бэхээр зурсан хулс",
+    "hanja": "墨竹",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "묵직하다",
+    "translation": "хүнд, даацтай",
+    "hanja": null,
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵찌빠",
+    "translation": "чулуу, цаас, хайч тоглоом",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "묵향",
+    "translation": "хуучин тавилганы үнэр",
+    "hanja": "墨香",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵호",
+    "translation": "Мукхо (Солонгосын хот)",
+    "hanja": "墨湖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "묵히다",
+    "translation": "хуучирах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  }
+]

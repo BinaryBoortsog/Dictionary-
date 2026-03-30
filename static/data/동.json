@@ -1,0 +1,2235 @@
+[
+  {
+    "word": "동",
+    "translation": "зэс",
+    "hanja": "銅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동가",
+    "translation": "ижил үнэ",
+    "hanja": "同價",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동감",
+    "translation": "санал нэгдэх",
+    "hanja": "同感",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동감하다",
+    "translation": "санал нийлэх",
+    "hanja": "同感하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동갑",
+    "translation": "Нэг насны",
+    "hanja": "同甲",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동갑내기",
+    "translation": "нэг насныхан",
+    "hanja": "同甲내기",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동강",
+    "translation": "хагалах, хэсэг хэсэг болгох",
+    "hanja": "동강",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동거",
+    "translation": "Хамт амьдрах",
+    "hanja": "同居",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동거인",
+    "translation": "хамт амьдрагч",
+    "hanja": "同居人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동거차도",
+    "translation": "Донгеочадо",
+    "hanja": "東居次島",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "동거하다",
+    "translation": "Хамт амьдрах",
+    "hanja": "同居하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "동검",
+    "translation": "хүрэл сэлэм",
+    "hanja": "銅劍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동격",
+    "translation": "нэгэн зэрэг",
+    "hanja": "同格",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동결",
+    "translation": "хөлдөх",
+    "hanja": "凍結",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동결되다",
+    "translation": "хөлдөх",
+    "hanja": "凍結되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동결하다",
+    "translation": "хөлдөөх, царцаах",
+    "hanja": "凍結하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동경",
+    "translation": "Хүсэл тэмүүлэл",
+    "hanja": "憧憬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동경심",
+    "translation": "хүсэл тэмүүлэл (Сэтгэл)",
+    "hanja": "憧憬心",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "동경하다",
+    "translation": "хүсэх",
+    "hanja": "憧憬하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "동계",
+    "translation": "өвлийн улирал",
+    "hanja": "冬季",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동고동락",
+    "translation": "жаргал зовлонг хуваалцах",
+    "hanja": "同苦同樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동고동락하다",
+    "translation": "хамтдаа баярлаж гуниглах",
+    "hanja": "同苦同樂하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "동공",
+    "translation": "хүүхэн хараа",
+    "hanja": "瞳孔",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동관",
+    "translation": "зэс хоолой",
+    "hanja": "銅管",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동광",
+    "translation": "зэсний уурхай",
+    "hanja": "銅鑛",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동교",
+    "translation": "Дорнод сүм",
+    "hanja": "東敎",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "동구",
+    "translation": "дорнод хэсэг",
+    "hanja": "東歐",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동구권",
+    "translation": "Зүүн блок",
+    "hanja": "東歐圈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동구리",
+    "translation": "дугуй сав",
+    "hanja": "ㅡ",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동국",
+    "translation": "Зүүн Азийн улс",
+    "hanja": "東國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동군",
+    "translation": "зүүн цэрэг",
+    "hanja": "東軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동굴",
+    "translation": "агуй",
+    "hanja": "洞窟",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동굴다",
+    "translation": "дугуй, бөөрөнхий",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동궁",
+    "translation": "хунтайж",
+    "hanja": "東宮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동그라미",
+    "translation": "дугуй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동그랑땡",
+    "translation": "дунгуран ттэн (Солонгос хоол)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동그랗다",
+    "translation": "дугуй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동그스름하다",
+    "translation": "бөөрөнхий, дугуй хэлбэртэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동극",
+    "translation": "хүүхдийн жүжиг",
+    "hanja": "童劇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동근",
+    "translation": "ижил үндэстэй",
+    "hanja": "同根",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동글",
+    "translation": "дугуй",
+    "hanja": "동글",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "동글납작하다",
+    "translation": "дугуй, хавтгай хэлбэртэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동글다",
+    "translation": "бөөрөнхий, дугуй",
+    "hanja": null,
+    "pos": "т.ү.",
+    "cefr": "B2"
+  },
+  {
+    "word": "동글동글",
+    "translation": "бөөрөнхий, дугуй хэлбэртэй",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동글동글하다",
+    "translation": "бөөрөнхий, дугуй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동글뱅이",
+    "translation": "дугуй хэлбэр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동글하다",
+    "translation": "бөөрөнхий, дугуй хэлбэртэй байх",
+    "hanja": "동글하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동급",
+    "translation": "Нэг анги",
+    "hanja": "同級",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동급생",
+    "translation": "ангийн найз",
+    "hanja": "同級生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동기",
+    "translation": "хөдөлгөгч хүч",
+    "hanja": "動機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동기간",
+    "translation": "ах дүүс",
+    "hanja": "同氣間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동기생",
+    "translation": "Нэг үеийнхэн",
+    "hanja": "同期生",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동기화되다",
+    "translation": "Синхрончлогдох",
+    "hanja": "同期化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동기화하다",
+    "translation": "синхрончлох",
+    "hanja": "同期化하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "동나다",
+    "translation": "хоосон болох, дуусах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동남아",
+    "translation": "Зүүн Өмнөд Ази",
+    "hanja": "東南亞",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동남아시아",
+    "translation": "Зүүн Өмнөд Ази",
+    "hanja": "東南아시아",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동남쪽",
+    "translation": "зүүн өмнөд",
+    "hanja": "東南쪽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동내",
+    "translation": "Хөрш, ойр орчим",
+    "hanja": "洞內",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "동냥",
+    "translation": "Гуйлга",
+    "hanja": "同냥",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "동냥하다",
+    "translation": "Гуйлгачин хийх",
+    "hanja": "同量하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동네",
+    "translation": "хотхон",
+    "hanja": "洞네",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동네방네",
+    "translation": "Бүх хороолол, бүх газарт",
+    "hanja": "洞네방네",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동네북",
+    "translation": "хэн хүнгүй зодох, онигооны бай болох",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동년배",
+    "translation": "Үеийнхэн, чацуутан",
+    "hanja": "同年輩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동녘",
+    "translation": "зүүн зүг",
+    "hanja": "東녘",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동대",
+    "translation": "зүүн тал",
+    "hanja": "東臺",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동대문",
+    "translation": "Дондэмун",
+    "hanja": "東大門",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "동도",
+    "translation": "зүүн арал",
+    "hanja": "東島",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동독",
+    "translation": "Зүүн Герман",
+    "hanja": "東獨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동동",
+    "translation": "Бурхсан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동동거리다",
+    "translation": "түгших, сандрах",
+    "hanja": "동동거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동동이",
+    "translation": "гэнэт харагдах",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "동동주",
+    "translation": "дондонжу (солонгос ундаа)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동동하다",
+    "translation": "түгшүүртэй, санаа зовсон",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동두천",
+    "translation": "Донгдучон (хот)",
+    "hanja": "東豆川",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "동등",
+    "translation": "тэнцүү, ижил",
+    "hanja": "同等",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동등하다",
+    "translation": "ижил тэнцүү",
+    "hanja": "同等하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동떨어지다",
+    "translation": "алс хол, тусдаа байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동란",
+    "translation": "үймээн",
+    "hanja": "動亂",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동래",
+    "translation": "Доннэл (газрын нэр)",
+    "hanja": "東萊",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동량",
+    "translation": "бага, тулгуур",
+    "hanja": "棟梁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동력",
+    "translation": "Хөдөлгөх хүч",
+    "hanja": "動力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동력선",
+    "translation": "хүч дамжуулах шугам",
+    "hanja": "動力線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동력원",
+    "translation": "эрчим хүчний эх үүсвэр",
+    "hanja": "動力源",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동록",
+    "translation": "зэсийн зэв",
+    "hanja": "銅綠",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "동료",
+    "translation": "хамтрагч, хамт ажиллагч",
+    "hanja": "同僚",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동료애",
+    "translation": "нөхөрлөл",
+    "hanja": "同僚愛",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동류",
+    "translation": "ижил төрөл, нэг төрлийн",
+    "hanja": "同類",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동률",
+    "translation": "тэнцүү байх",
+    "hanja": "同率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동리",
+    "translation": "хөрш, тосгон",
+    "hanja": "洞里",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동림",
+    "translation": "зүүн ой",
+    "hanja": "東林",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동막",
+    "translation": "Зүүн хөшиг, зүүн хязгаар",
+    "hanja": "東幕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동맥",
+    "translation": "Артери",
+    "hanja": "動脈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동맹",
+    "translation": "холбоо, эвсэл",
+    "hanja": "同盟",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동맹국",
+    "translation": "холбоотон улс",
+    "hanja": "同盟國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동맹군",
+    "translation": "холбоотны",
+    "hanja": "同盟軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동맹하다",
+    "translation": "Холбоо байгуулах",
+    "hanja": "同盟하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동메달",
+    "translation": "хүрэл медаль",
+    "hanja": "銅메달",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동면",
+    "translation": "ичээнд орох",
+    "hanja": "冬眠",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동면하다",
+    "translation": "өвөлжих, ичээнд орох",
+    "hanja": "冬眠하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동명",
+    "translation": "ижил нэртэй",
+    "hanja": "同名",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동명이인",
+    "translation": "нэг нэртэй өөр хүн",
+    "hanja": "同名異人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동몽선습",
+    "translation": "Бяцхан хүүхдийн сургуулийн анхны хичээл",
+    "hanja": "童蒙先習",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동묘",
+    "translation": "зүүн бунхан, Дүнмян",
+    "hanja": "東廟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동무",
+    "translation": "нөхөр",
+    "hanja": "同務",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동문",
+    "translation": "нэг сургуулийн төгсөгч",
+    "hanja": "同門",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동문서답",
+    "translation": "Асуултад тохирохгүй хариулах",
+    "hanja": "東問西答",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동문서답하다",
+    "translation": "хамааралгүй хариулах",
+    "hanja": "東問西答하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동문수학하다",
+    "translation": "нэгэн багшаар хичээл заалгах",
+    "hanja": "同門受學하다",
+    "pos": "v",
+    "cefr": "C2"
+  },
+  {
+    "word": "동문회",
+    "translation": "төгсөгчидөөн нэгдэл",
+    "hanja": "同門會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동물",
+    "translation": "Амьтан",
+    "hanja": "動物",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "동물성",
+    "translation": "Амьтны гаралтай",
+    "hanja": "動物性",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동물원",
+    "translation": "амьтны хүрээлэн",
+    "hanja": "動物園",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "동물적",
+    "translation": "амьтны",
+    "hanja": "動物的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동물학",
+    "translation": "амьтан судлал",
+    "hanja": "動物學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동미",
+    "translation": "Дон Ми",
+    "hanja": "東美",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동바리",
+    "translation": "Тулах тавилга",
+    "hanja": "동바리",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동박",
+    "translation": "зэс хавтан, зэс ялтсан хавтан",
+    "hanja": "銅箔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동반",
+    "translation": "хамтрах",
+    "hanja": "同伴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동반되다",
+    "translation": "дагалдах",
+    "hanja": "同伴되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동반자",
+    "translation": "хамтрагч",
+    "hanja": "同伴者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동반하다",
+    "translation": "Хамт байх",
+    "hanja": "同伴하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동방",
+    "translation": "дорно",
+    "hanja": "東方",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동방견문록",
+    "translation": "Марко Пологийн аяллын тэмдэглэл",
+    "hanja": "東方見聞錄",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동방예의지국",
+    "translation": "Дорно дахины ёс зүйн орон",
+    "hanja": "東方禮義之國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동배",
+    "translation": "ижил насны",
+    "hanja": "同輩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동백",
+    "translation": "Камелиа цэцэг",
+    "hanja": "冬柏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동백기름",
+    "translation": "камелиа тос",
+    "hanja": "冬柏기름",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "동백꽃",
+    "translation": "Сакура цэцэг",
+    "hanja": "冬柏꽃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동백나무",
+    "translation": "нарс мод",
+    "hanja": "冬柏나무",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동별",
+    "translation": "товчоо тус бүр",
+    "hanja": "洞別",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동병상련",
+    "translation": "адилхан зовлонтой хүмүүс бие биенээ өрөвдөх",
+    "hanja": "同病相憐",
+    "pos": "숙어",
+    "cefr": "C1"
+  },
+  {
+    "word": "동복",
+    "translation": "хүйтний хувцас",
+    "hanja": "冬服",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동봉",
+    "translation": "дагалдах",
+    "hanja": "同封",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동봉하다",
+    "translation": "хавсаргах, хамт илгээх",
+    "hanja": "同封하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동부",
+    "translation": "Дорнод хэсэг",
+    "hanja": "東部",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동부승지",
+    "translation": "Дорнод Сүнгжи",
+    "hanja": "同副承旨",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "동북",
+    "translation": "зүүн хойд",
+    "hanja": "東北",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동북방",
+    "translation": "Зүүн хойд зүг",
+    "hanja": "東北方",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동북부",
+    "translation": "зүүн хойд хэсэг",
+    "hanja": "東北部",
+    "pos": "명са",
+    "cefr": "B2"
+  },
+  {
+    "word": "동북쪽",
+    "translation": "Зүүн хойд зүг",
+    "hanja": "東北쪽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동분서주",
+    "translation": "зүүн тийш гүйж, баруун тийш гүйх (маш завгүй)",
+    "hanja": "東奔西走",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동분서주하다",
+    "translation": "нааш цааш гүйх",
+    "hanja": "東奔西走하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동비",
+    "translation": "Хүрэл хөшөө",
+    "hanja": "銅碑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동사",
+    "translation": "Үйл үг",
+    "hanja": "動詞",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동사무소",
+    "translation": "дүүргийн захиргаа",
+    "hanja": "洞事務所",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동사하다",
+    "translation": "хөлдөж үхэх",
+    "hanja": "凍死하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동산",
+    "translation": "багахан толгод",
+    "hanja": "동산",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동상",
+    "translation": "хөлдөлт",
+    "hanja": "凍傷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동상이몽",
+    "translation": "нэгэн оронд, өөр зүүдэнд",
+    "hanja": "同床異夢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동색",
+    "translation": "нэг өнгө",
+    "hanja": "同色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동생",
+    "translation": "дүү",
+    "hanja": "同生",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "동서",
+    "translation": "хадам эгч/дүү (нөхрийн талын), зүүн ба баруун",
+    "hanja": "同壻, 東西",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동서고금",
+    "translation": "дэлхий даяар, бүх цаг үед",
+    "hanja": "東西古今",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동서남북",
+    "translation": "зүүн, баруун, өмнөд, хойд",
+    "hanja": "東西南北",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동서양",
+    "translation": "Дорнод ба Өрнөдийн орнууд",
+    "hanja": "東西洋",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동석",
+    "translation": "Хамт суух",
+    "hanja": "同席",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동석하다",
+    "translation": "хамт суух",
+    "hanja": "同席-",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "동선",
+    "translation": "Хөдөлгөөний зам",
+    "hanja": "動線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동성",
+    "translation": "ижил хүйс",
+    "hanja": "同性",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동성동본",
+    "translation": "ижил овог ижил угсаа",
+    "hanja": "同姓同本",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동성애",
+    "translation": "ижил хүйстний хайр дурлал",
+    "hanja": "同性愛",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동성애자",
+    "translation": "ижил хүйстэн",
+    "hanja": "同性愛者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동성연애",
+    "translation": "ижил хүйстэнтэй харилцах",
+    "hanja": "同性戀愛",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "동세",
+    "translation": "хөдөлгөөн",
+    "hanja": "動勢",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동수",
+    "translation": "адил тоо",
+    "hanja": "同數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동숙",
+    "translation": "хамт унтах",
+    "hanja": "同宿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동순",
+    "translation": "нэгэн зэрэг, нэг насны",
+    "hanja": "同旬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동승",
+    "translation": "хамт явах",
+    "hanja": "同乘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동승하다",
+    "translation": "Хамт зорчих",
+    "hanja": "同乘하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동시",
+    "translation": "нэгэн зэрэг",
+    "hanja": "同時",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동시대",
+    "translation": "нэг үеийн",
+    "hanja": "同時代",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동시대인",
+    "translation": "нэг үеийн хүн",
+    "hanja": "同時代人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동시통역",
+    "translation": "синхрон орчуулга",
+    "hanja": "同時通譯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동식",
+    "translation": "ижил хэлбэр",
+    "hanja": "同式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동식물",
+    "translation": "амьтан ургамал",
+    "hanja": "動植物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동심",
+    "translation": "хүүхдийн зүрх",
+    "hanja": "童心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동심원",
+    "translation": "төв ижил тойрог",
+    "hanja": "同心圓",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동아",
+    "translation": "зүүн Ази",
+    "hanja": "동아(東亞)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동아리",
+    "translation": "клуб",
+    "hanja": "同아리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동아줄",
+    "translation": "бөөрөнхий олс",
+    "hanja": "동아줄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동안",
+    "translation": "~ийн турш, хугацаанд",
+    "hanja": " 동안",
+    "pos": "의존명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "동양",
+    "translation": "дорно дахин",
+    "hanja": "東洋",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동양식",
+    "translation": "Дорно дахины хэв маяг",
+    "hanja": "東洋式",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동양인",
+    "translation": "дорно дахины хүн",
+    "hanja": "東洋人",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "동양적",
+    "translation": "дорнын",
+    "hanja": "東洋的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동양학",
+    "translation": "Дорно дахины судлал",
+    "hanja": "동양학(東洋學)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동양화",
+    "translation": "дорнын зураг",
+    "hanja": "東洋畫",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동업",
+    "translation": "хамтын ажиллагаа",
+    "hanja": "同業",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동업자",
+    "translation": "бизнесийн түнш",
+    "hanja": "同業者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동업하다",
+    "translation": "хамтрах, хамтран ажиллах",
+    "hanja": "同業하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동여매다",
+    "translation": "чангалж боох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동역",
+    "translation": "нэгэн цагт",
+    "hanja": "同役",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동역하다",
+    "translation": "хамтран ажиллах",
+    "hanja": "同役하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동영",
+    "translation": "хөдөлгөөнт дүрс",
+    "hanja": "動影",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동영상",
+    "translation": "видео",
+    "hanja": "同映像",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동영이",
+    "translation": "Донён (хүний нэр)",
+    "hanja": "東映이",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동예",
+    "translation": "Донъе (эртний улс)",
+    "hanja": "東濊",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동오",
+    "translation": "Дон-о (хүний нэр эсвэл газар)",
+    "hanja": "東吳",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "동요",
+    "translation": "хөдөлгөөн",
+    "hanja": "動搖 / 童謠",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "동요되다",
+    "translation": "хэлбэлзэх, доргих",
+    "hanja": "動搖되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동요시키다",
+    "translation": "хөдөлгөх, донсолгох",
+    "hanja": "動搖시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동요하다",
+    "translation": "хэлбэлзэх, доргих",
+    "hanja": "動搖하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동원되다",
+    "translation": "дайчлагдах",
+    "hanja": "動員되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동원령",
+    "translation": "цэрэг татлагын тушаал",
+    "hanja": "動員令",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동원하다",
+    "translation": "дайчлах",
+    "hanja": "動員하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동월",
+    "translation": "мөн сар",
+    "hanja": "同月",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동위",
+    "translation": "ижил байрлалтай",
+    "hanja": "同位",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동유",
+    "translation": "зүүн Европ",
+    "hanja": "東歐",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동의",
+    "translation": "зөвшөөрөл",
+    "hanja": "同意",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동의보감",
+    "translation": "Тонгипогам",
+    "hanja": "東醫寶鑑",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "동의서",
+    "translation": "зөвшөөрлийн хуудас",
+    "hanja": "同意書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동의어",
+    "translation": "ижил утгатай үг",
+    "hanja": "同義語",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동의하다",
+    "translation": "Зөвшөөрөх",
+    "hanja": "同意하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "동이",
+    "translation": "үүр цайх",
+    "hanja": "동이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동인",
+    "translation": "мөн чанар",
+    "hanja": "同人",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "동일",
+    "translation": "ижил",
+    "hanja": "同一",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동일성",
+    "translation": "ижил байдал",
+    "hanja": "同一性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동일시",
+    "translation": "ижилсгэх, адилтгах",
+    "hanja": "同一視",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동일시되다",
+    "translation": "ижилсэх",
+    "hanja": "同一視되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동일시하다",
+    "translation": "ижил гэж үзэх",
+    "hanja": "同一視하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동일인",
+    "translation": "Нэг хүн",
+    "hanja": "同一人",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동일하다",
+    "translation": "ижил",
+    "hanja": "同一하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "동자",
+    "translation": "хүү",
+    "hanja": "童子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동자승",
+    "translation": "бага лам",
+    "hanja": "童子僧",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동작",
+    "translation": "хөдөлгөөн",
+    "hanja": "動作",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동작하다",
+    "translation": "Ажиллах",
+    "hanja": "動作하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동장",
+    "translation": "Төрийн албан тушаалтан",
+    "hanja": "洞長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동재",
+    "translation": "ижил материал, ижил авъяас",
+    "hanja": "同材",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "동적",
+    "translation": "динамик",
+    "hanja": "動的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "동전",
+    "translation": "зоос",
+    "hanja": "銅錢",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "동절기",
+    "translation": "Өвлийн улирал",
+    "hanja": "冬節期",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동점",
+    "translation": "тэнцээ",
+    "hanja": "同點",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동접",
+    "translation": "нэгэн зэрэг нэвтрэх",
+    "hanja": "同接",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동정",
+    "translation": "өрөвдөх сэтгэл",
+    "hanja": "同情",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동정녀",
+    "translation": "онгон эмэгтэй",
+    "hanja": "童貞女",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동정론",
+    "translation": "өрөвдөх үзэл",
+    "hanja": "同情論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동정심",
+    "translation": "Өрөвдөх сэтгэл",
+    "hanja": "同情心",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동정적",
+    "translation": "өрөвдөмжтэй",
+    "hanja": "同情的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동정표",
+    "translation": "өрөвдөх сэтгэлийн санал",
+    "hanja": "同情票",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동정하다",
+    "translation": "өрөвдөх, хайрлах",
+    "hanja": "同情하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동제",
+    "translation": "зэсийн эдлэл",
+    "hanja": "銅製",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "동조",
+    "translation": "зөвшилцөх, дэмжих",
+    "hanja": "同調",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동조자",
+    "translation": "хамтрагч",
+    "hanja": "同調者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동조하다",
+    "translation": "Санал нийлэх",
+    "hanja": "同調하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "동족",
+    "translation": "Ижил төрөл",
+    "hanja": "同族",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동족상잔",
+    "translation": "нэг үндэстний хоорондын тэмцэл",
+    "hanja": "同族相殘",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "동종",
+    "translation": "нэг төрлийн",
+    "hanja": "同種",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동주",
+    "translation": "Донжу (хүний нэр)",
+    "hanja": "東周",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동죽",
+    "translation": "байдал",
+    "hanja": "同粥",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "동중",
+    "translation": "хөдөлгөөний үед",
+    "hanja": "動中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동중국해",
+    "translation": "Зүүн Хятадын тэнгис",
+    "hanja": "東中國海",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동지",
+    "translation": "нөхөр, хамтрагч",
+    "hanja": "同志",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동지애",
+    "translation": "нөхөрлөл",
+    "hanja": "同志愛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동진",
+    "translation": "зүүн рүү нүүдэллэх",
+    "hanja": "東進",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "동진하다",
+    "translation": "зүүн тийш хөдлөх",
+    "hanja": "東進하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "동질감",
+    "translation": "Ижилсэх мэдрэмж",
+    "hanja": "同質感",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동질성",
+    "translation": "ижил байдал",
+    "hanja": "同質性",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동짓날",
+    "translation": "өвлийн туйл",
+    "hanja": "동짓날(冬至날)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동짓달",
+    "translation": "арванхоёрдугаар сар",
+    "hanja": "冬至달",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동쪽",
+    "translation": "зүүн зүг",
+    "hanja": "東쪽",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "동차",
+    "translation": "автобус, вагон",
+    "hanja": "動車",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동참",
+    "translation": "хамтран оролцох",
+    "hanja": "同參",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동참하다",
+    "translation": "хамтран оролцох, хамтран нэгдэх",
+    "hanja": "同參하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동창",
+    "translation": "сургуулийн найз",
+    "hanja": "同窓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동창생",
+    "translation": "нэг ангийнхан",
+    "hanja": "同窓生",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동창회",
+    "translation": "ангийн уулзалт",
+    "hanja": "同窓會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동천",
+    "translation": "хотын гол",
+    "hanja": "東川",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동철",
+    "translation": "зэс, төмөр",
+    "hanja": "銅鐵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동청",
+    "translation": "зэсийн цэнхэр",
+    "hanja": "銅靑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동체",
+    "translation": "их бие",
+    "hanja": "胴體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동초",
+    "translation": "өвлийн өвс",
+    "hanja": "冬草",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동축",
+    "translation": "нэг тэнхлэгт",
+    "hanja": "同軸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동충하초",
+    "translation": "зуны өвс, өвлийн хорхой (эмчилгээний мөөг)",
+    "hanja": "冬蟲夏草",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "동측",
+    "translation": "зүүн тал",
+    "hanja": "東側",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동치미",
+    "translation": "дунчими",
+    "hanja": "동치미",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "동침",
+    "translation": "нэг оронд унтах",
+    "hanja": "同寢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동침하다",
+    "translation": "хамт унтах",
+    "hanja": "同寢하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "동타",
+    "translation": "тэнцүү оноо",
+    "hanja": "同打",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동탁",
+    "translation": "ширээний бүтээлэг",
+    "hanja": "同卓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동탑",
+    "translation": "хүрэл цамхаг",
+    "hanja": "銅塔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동태",
+    "translation": "Нөхцөл байдал",
+    "hanja": "動態",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동토",
+    "translation": "үхсэн газар",
+    "hanja": "凍土",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "동통",
+    "translation": "Өвчин, үрэвсэл",
+    "hanja": "疼痛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동트다",
+    "translation": "үүр цайх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동티",
+    "translation": "хүндрэл",
+    "hanja": "동티",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동티모르",
+    "translation": "Зүүн Тимор",
+    "hanja": "동티모르",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "동파",
+    "translation": "хөлдөлтөөс үүдэх эвдрэл",
+    "hanja": "凍破",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동파되다",
+    "translation": "хөлдөх, хөлдөж гэмтэх",
+    "hanja": "凍破되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동판",
+    "translation": "зэс хавтан, зэс таваг",
+    "hanja": "銅版",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동판화",
+    "translation": "зэс сийлбэр",
+    "hanja": "銅版畫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동패",
+    "translation": "баг, хэсэг",
+    "hanja": "同輩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동편",
+    "translation": "зүүн тал",
+    "hanja": "東便",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동포",
+    "translation": "Гадаад дахь иргэд",
+    "hanja": "同胞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동포애",
+    "translation": "элэг нэгтнүүдийн хайр",
+    "hanja": "同胞愛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동표",
+    "translation": "нэг тасалбар",
+    "hanja": "同票",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "동풍",
+    "translation": "дорнын салхи",
+    "hanja": "東風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동필",
+    "translation": "зэсийн үзэг",
+    "hanja": "銅筆",
+    "pos": "명са",
+    "cefr": "B2"
+  },
+  {
+    "word": "동하다",
+    "translation": "хөдлөх",
+    "hanja": "動하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "동학",
+    "translation": "ижил сургуулийн сурагч",
+    "hanja": "同學",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동해",
+    "translation": "Зүүн тэнгис",
+    "hanja": "東海",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동해안",
+    "translation": "Дорнод эрэг",
+    "hanja": "東海案",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동행",
+    "translation": "хамт явах",
+    "hanja": "同行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동행하다",
+    "translation": "хамт явах",
+    "hanja": "同行하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동향",
+    "translation": "Ижил чиг хандлага, нэг нутгийн хүн",
+    "hanja": "動向",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동헌",
+    "translation": "орон нутгийн захиргааны байшин",
+    "hanja": "東軒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동형",
+    "translation": "ижил төрөл, ижил хэлбэр",
+    "hanja": "同形",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동호",
+    "translation": "Адил хоббитой хүмүүс",
+    "hanja": "同好",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동호인",
+    "translation": "сонирхогчид",
+    "hanja": "同好人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동호회",
+    "translation": "сонирхогчдын клуб",
+    "hanja": "同好會(동호회)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동화",
+    "translation": "үлгэр",
+    "hanja": "童話",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동화되다",
+    "translation": "ижилсэх",
+    "hanja": "同化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동화시키다",
+    "translation": "ижилсгэх, уусгах",
+    "hanja": "同化시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동화집",
+    "translation": "үлгэрийн ном",
+    "hanja": "童話集",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동화책",
+    "translation": "үлгэрийн ном",
+    "hanja": "童話冊",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "동화하다",
+    "translation": "нийцүүлэх, уусгах",
+    "hanja": "同化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동황",
+    "translation": "Зүүн эзэн хаан",
+    "hanja": "東皇",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동회",
+    "translation": "хорооны зөвлөл",
+    "hanja": "洞會",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "word": "회",
+    "translation": "удаа",
+    "hanja": "回",
+    "pos": "의존명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "회갑",
+    "translation": "жаран насны ой",
+    "hanja": "回甲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회갑연",
+    "translation": "жаран насны ой",
+    "hanja": "回甲宴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회강",
+    "translation": "буцаж ирэх",
+    "hanja": "回講",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회개",
+    "translation": "наманчлах",
+    "hanja": "悔改",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회개하다",
+    "translation": "Наманчлах, гэмших",
+    "hanja": "悔改-하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "회견",
+    "translation": "уулзалт",
+    "hanja": "會見",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회계",
+    "translation": "нягтлан бодох бүртгэл",
+    "hanja": "會計",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회계사",
+    "translation": "нягтлан бодогч",
+    "hanja": "會計士",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "회고록",
+    "translation": "дурсамж",
+    "hanja": "回顧錄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회고하다",
+    "translation": "эргэн дурсах",
+    "hanja": "回顧하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "회관",
+    "translation": "хуралдааны танхим, байшин",
+    "hanja": "會館",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회교",
+    "translation": "Исламын шашин",
+    "hanja": "回教",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "회군하다",
+    "translation": "цэрэг эргүүлэн татах",
+    "hanja": "回軍하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회권",
+    "translation": "боть, ном",
+    "hanja": "繪卷",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "회귀",
+    "translation": "буцаж ирэх",
+    "hanja": "回歸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회귀하다",
+    "translation": "буцаж ирэх",
+    "hanja": "回歸하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회까닥",
+    "translation": "гэнэт эргэх",
+    "hanja": "회까닥",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회까닥하다",
+    "translation": "галзуурах",
+    "hanja": "회까닥하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회끼",
+    "translation": "саарал өнгө",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "회담",
+    "translation": "хэлэлцээ, яриа хэлцээ",
+    "hanja": "會談",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회담하다",
+    "translation": "хэлэлцээр хийх",
+    "hanja": "회담하다(會談하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회답",
+    "translation": "Хариу өгөх",
+    "hanja": "回答",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회답하다",
+    "translation": "хариулах",
+    "hanja": "回答하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "회당",
+    "translation": "цуглааны байшин",
+    "hanja": "會堂",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "회독",
+    "translation": "дахин унших, хэд дахин унших",
+    "hanja": "回讀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회독하다",
+    "translation": "дахин унших / хэд дахин унших",
+    "hanja": "回讀하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회동",
+    "translation": "Уулзалт",
+    "hanja": "會同",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회동하다",
+    "translation": "уулзах",
+    "hanja": "會同하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회랑",
+    "translation": "орчин",
+    "hanja": "回廊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회로",
+    "translation": "хэлхээ",
+    "hanja": "回路",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회백질",
+    "translation": "саарал бодис",
+    "hanja": "灰白質",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회벽",
+    "translation": "шохойн хана",
+    "hanja": "灰壁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회보",
+    "translation": "мэдээллийн товхимол",
+    "hanja": "會報",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "회복",
+    "translation": "сэргээх",
+    "hanja": "回復",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "회복기",
+    "translation": "сэргэлтийн үе",
+    "hanja": "回復期",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회복되다",
+    "translation": "сэргэх",
+    "hanja": "回復되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회복세",
+    "translation": "сэргэлтийн хандлага",
+    "hanja": "恢復勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회복시키다",
+    "translation": "Сэргээх",
+    "hanja": "回復시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회복실",
+    "translation": "Сэргээн засах өрөө",
+    "hanja": "回復室",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "회복하다",
+    "translation": "сэргэх",
+    "hanja": "恢復하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "회부",
+    "translation": "шилжүүлэх, хүлээлгэн өгөх",
+    "hanja": "回付",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회부되다",
+    "translation": "шинжлэхээр илгээгдэх",
+    "hanja": "回附되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회부하다",
+    "translation": "шилжүүлэх",
+    "hanja": "回付하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회분",
+    "translation": "үрэл",
+    "hanja": "灰分",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "회비",
+    "translation": "гишүүний татвар",
+    "hanja": "會費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회사",
+    "translation": "компани",
+    "hanja": "會社",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "회사원",
+    "translation": "компанийн ажилтан",
+    "hanja": "會社員",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "회사하다",
+    "translation": "сануулгах, дурсах",
+    "hanja": "回想하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "회삿돈",
+    "translation": "компаний мөнгө",
+    "hanja": "會社돈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회상",
+    "translation": "дурсамж",
+    "hanja": "回想",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회상되다",
+    "translation": "санахад хүргэх",
+    "hanja": "回想되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "회상하다",
+    "translation": "дурсах",
+    "hanja": "回想하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "회색",
+    "translation": "саарал",
+    "hanja": "灰色",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "회색빛",
+    "translation": "саарал өнгө",
+    "hanja": "灰色빛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회생",
+    "translation": "сэргэх, амьдралд ирэх",
+    "hanja": "回生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회생시키다",
+    "translation": "амилуулах",
+    "hanja": "回生시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회생하다",
+    "translation": "сэхэх",
+    "hanja": "回生하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회선",
+    "translation": "шугам",
+    "hanja": "回線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회성",
+    "translation": "Буцаж ирэх, дахин сэргэх",
+    "hanja": "回省",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회송",
+    "translation": "буцаан илгээх",
+    "hanja": "回送",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회수",
+    "translation": "буцааж авах, эргүүлэн татах",
+    "hanja": "回收",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회수권",
+    "translation": "тасалбар",
+    "hanja": "回數券",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회수되다",
+    "translation": "буцаагдах",
+    "hanja": "回收되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회수하다",
+    "translation": "татаж авах",
+    "hanja": "回收하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "회식",
+    "translation": "албан байгууллагын оройн зоог",
+    "hanja": "會食",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "회식하다",
+    "translation": "хамтдаа хооллох (компанийн)",
+    "hanja": "會食하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회신",
+    "translation": "хариу",
+    "hanja": "回信",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회신하다",
+    "translation": "хариулах, хариу бичих",
+    "hanja": "回信하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "회심하다",
+    "translation": "гэгээрэх",
+    "hanja": "回心하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회암사",
+    "translation": "Хуэамса сүм",
+    "hanja": "檜巖寺",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "회영",
+    "translation": "албан ёсны угталт",
+    "hanja": "會迎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회오리",
+    "translation": "хуй салхи",
+    "hanja": "회오리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회오리바람",
+    "translation": "хүчтэй салхи, хуй салхи",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회오리치다",
+    "translation": "Эргэлдэх",
+    "hanja": "회오리치다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "회용",
+    "translation": "нэг удаагийн хэрэглээ",
+    "hanja": "回用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회원",
+    "translation": "гишүүн",
+    "hanja": "會員",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "회원권",
+    "translation": "гишүүнчлэлийн карт",
+    "hanja": "會員權",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회유",
+    "translation": "яриа өрнүүлэх",
+    "hanja": " hoeyu",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "회유책",
+    "translation": "ялах арга, уруу татах арга",
+    "hanja": "懷柔策",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "회유하다",
+    "translation": "ялах, ятгах",
+    "hanja": "懷柔하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회의",
+    "translation": "хурал",
+    "hanja": "會議",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "회의감",
+    "translation": "Эргэлзээ, найдваргүй байдал",
+    "hanja": "懷疑感",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "회의록",
+    "translation": "Хурлын тэмдэглэл",
+    "hanja": "會議錄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회의실",
+    "translation": "хурлын өрөө",
+    "hanja": "會議室",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "회의장",
+    "translation": "хурлын танхим",
+    "hanja": "會議場",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "회의적",
+    "translation": "Эргэлзээтэй",
+    "hanja": "懷疑的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회의주의",
+    "translation": "үгүйсгэгч үзэл (Үйл үг)",
+    "hanja": "懷疑主義",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "회의하다",
+    "translation": "Хэлэлцэх",
+    "hanja": "會議하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회임",
+    "translation": "жирэмслэлт",
+    "hanja": "懷妊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회임하다",
+    "translation": "жирэмслэх",
+    "hanja": "懷妊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회자",
+    "translation": "яригдах, дурсагдах",
+    "hanja": "膾炙",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "회자되다",
+    "translation": "яригдах",
+    "hanja": "膾炙되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회자정리",
+    "translation": "уулзаад салах",
+    "hanja": "會者定離",
+    "pos": "нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "회장",
+    "translation": "дарга",
+    "hanja": "會長",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "회장단",
+    "translation": "Удирдах зөвлөл",
+    "hanja": "會長團",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회전",
+    "translation": "эргэлт",
+    "hanja": "回轉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회전되다",
+    "translation": "эргэлдэх",
+    "hanja": "回轉되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회전목마",
+    "translation": "Эргэдэг морь",
+    "hanja": "回轉木馬",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "회전시키다",
+    "translation": "эргүүлэх",
+    "hanja": "回轉시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회전의자",
+    "translation": "эргэдэг сандал",
+    "hanja": "回轉椅子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회전하다",
+    "translation": "эргэлдэх",
+    "hanja": "回轉하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "회절",
+    "translation": "дифракц",
+    "hanja": "回折",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "회정",
+    "translation": "Эргэн тодорхойлох",
+    "hanja": "回程",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "회주",
+    "translation": "сүм хийдийн тэргүүн",
+    "hanja": "會主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회중",
+    "translation": "хурал цуглах",
+    "hanja": "會衆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회중시계",
+    "translation": "халаасны цаг",
+    "hanja": "懷中時計",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회중전등",
+    "translation": "гар чийдэн",
+    "hanja": "懷中電燈",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "회진",
+    "translation": "тойрон шалгах",
+    "hanja": "回診",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회차",
+    "translation": "Анги, дугаар, эргэлт",
+    "hanja": "回次",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회초리",
+    "translation": "Ташуур",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회춘",
+    "translation": "залуужих, сэргэх",
+    "hanja": "回春",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회춘하다",
+    "translation": "залуужих",
+    "hanja": "回春하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회충",
+    "translation": "хорхой",
+    "hanja": "蛔蟲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회칠",
+    "translation": "Шохойдох",
+    "hanja": "灰漆",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "회칠하다",
+    "translation": "шохойдох",
+    "hanja": "灰漆하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회포",
+    "translation": "Сэтгэл, сэтгэлийн үг",
+    "hanja": "懷抱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회피",
+    "translation": "зайлсхийх",
+    "hanja": "回避",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회피하다",
+    "translation": "зугтаах",
+    "hanja": "回避-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회하다",
+    "translation": "тахил өргөх, эргэж харах",
+    "hanja": "懷하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회한",
+    "translation": "харамсал",
+    "hanja": "悔恨",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "회합",
+    "translation": "уулзалт, цуглаан",
+    "hanja": "會合",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회항",
+    "translation": "Буцах нислэг, эргэн ирэх",
+    "hanja": "回航",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회항하다",
+    "translation": "буцах",
+    "hanja": "회항하다(回航하다)",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회향",
+    "translation": "буцаж ирэх, гэртээ буцах",
+    "hanja": "回向",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회화",
+    "translation": "яриа, харилцан яриа",
+    "hanja": "會話",
+    "pos": "명사",
+    "cefr": "A2"
+  }
+]

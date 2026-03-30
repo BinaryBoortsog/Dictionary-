@@ -1,0 +1,1262 @@
+[
+  {
+    "word": "입",
+    "translation": "ам",
+    "hanja": "입",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "입가",
+    "translation": "амны булан",
+    "hanja": "入歌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입가심",
+    "translation": "амаа зайлах",
+    "hanja": "입가심",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입가심하다",
+    "translation": "амаа зайлах",
+    "hanja": "입가심하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입각",
+    "translation": "үүсэл, үндэс, суурь",
+    "hanja": "入閣",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "입각하다",
+    "translation": "тулгуурлах",
+    "hanja": "立脚하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입간판",
+    "translation": "Байрласан самбар",
+    "hanja": "立看板",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입감",
+    "translation": "хорих",
+    "hanja": "入監",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "입감되다",
+    "translation": "шоронд орох",
+    "hanja": "入監되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "입건되다",
+    "translation": "мөрдөн байцаалтад орох",
+    "hanja": "立件-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입건하다",
+    "translation": "Хэрэг үүсгэх",
+    "hanja": "立件하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입결",
+    "translation": "элсэлтийн үр дүн",
+    "hanja": "入結",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입계",
+    "translation": "хил рүү орох",
+    "hanja": "入界",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "입고되다",
+    "translation": "оруулах",
+    "hanja": "入庫되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "입고하다",
+    "translation": "Агуулах руу оруулах",
+    "hanja": "入庫하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입관",
+    "translation": "албан тушаалд орох, хавсралт",
+    "hanja": "入棺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입관하다",
+    "translation": "Толгойгоо бөхийлгөх",
+    "hanja": "入棺하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "입교",
+    "translation": "шашинд орох",
+    "hanja": "入敎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입교하다",
+    "translation": "сургуульд орох, сургалтад хамрагдах",
+    "hanja": "入校하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입구",
+    "translation": "орц",
+    "hanja": "入口",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "입국",
+    "translation": "улсад нэвтрэх",
+    "hanja": "入國",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입국하다",
+    "translation": "улсад нэвтрэх",
+    "hanja": "入國하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입궁",
+    "translation": "Ордонд орох",
+    "hanja": "入宮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "입궁하다",
+    "translation": "ордонд орох",
+    "hanja": "入宮하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입권",
+    "translation": "өргөдөг эрх",
+    "hanja": "入卷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입궐",
+    "translation": "ордонд орох",
+    "hanja": "入궐",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "입궐하다",
+    "translation": "ордонд орох",
+    "hanja": "入闕하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "입금",
+    "translation": "мөнгө шилжүүлэх",
+    "hanja": "入金",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "입금되다",
+    "translation": "дансанд орох",
+    "hanja": "入金되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "입금자",
+    "translation": "мөнгө хураагч",
+    "hanja": "入金者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입금하다",
+    "translation": "мөнгө хийх, депозит хийх",
+    "hanja": "入金하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "입김",
+    "translation": "амьсгал",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "입다",
+    "translation": "өмсөх",
+    "hanja": "입다",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "입단",
+    "translation": "бүлэгт элсэх, нэгдэх",
+    "hanja": "入團",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입단하다",
+    "translation": "багт орох",
+    "hanja": "入團하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입담",
+    "translation": "Ярианы ур чадвар",
+    "hanja": "입談",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입당",
+    "translation": "намд элсэх",
+    "hanja": "入黨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입당하다",
+    "translation": "намд элсэх",
+    "hanja": "入黨하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입대",
+    "translation": "цэрэгт элсэх",
+    "hanja": "入隊",
+    "pos": "NOUN",
+    "cefr": "B1"
+  },
+  {
+    "word": "입대하다",
+    "translation": "цэрэгт элсэх",
+    "hanja": "入隊—",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입덕",
+    "translation": "шүтэн бишрэгч болох",
+    "hanja": "入德",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입덕하다",
+    "translation": "Фэн болох, дурлах (ихэвчлэн хобби, алдартнуудад)",
+    "hanja": "入덕하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입덧",
+    "translation": "жирэмсний дотор муухайрах",
+    "hanja": "입덧",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "입덧하다",
+    "translation": "жирэмсний дотор муухайрах",
+    "hanja": "입덧하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입도",
+    "translation": "гурван сарын хугацаа",
+    "hanja": "入道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입도하다",
+    "translation": "арал руу нэвтрэх",
+    "hanja": "入島하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입동",
+    "translation": "өвлийн эхлэл",
+    "hanja": "立冬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입때",
+    "translation": "энэ үед",
+    "hanja": "입때",
+    "pos": "бу사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입력",
+    "translation": "оролт",
+    "hanja": "入力",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "입력되다",
+    "translation": "орох",
+    "hanja": "入力되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입력하다",
+    "translation": "оруулах",
+    "hanja": "入力하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "입마개",
+    "translation": "хошуувч",
+    "hanja": "입막이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입막음",
+    "translation": "Амыг нь таглах",
+    "hanja": "입막음",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "입막음하다",
+    "translation": "амыг нь таглах",
+    "hanja": "入막음하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "입말",
+    "translation": "Ярианы хэл",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입맛",
+    "translation": "амт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입맞춤",
+    "translation": "Үнсэлт",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입맞춤하다",
+    "translation": "үнсэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "입매",
+    "translation": "амны үзэгдэл",
+    "hanja": "입매",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입면",
+    "translation": "нүүр тал",
+    "hanja": "立面",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입문",
+    "translation": "Оршил",
+    "hanja": "入門",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "입문하다",
+    "translation": "Эхлэх",
+    "hanja": "入門하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입바르다",
+    "translation": "шударга шулуун ярих",
+    "hanja": "입바르다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입방아",
+    "translation": "хов жив",
+    "hanja": "입방아",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "입배",
+    "translation": "ам руу",
+    "hanja": "입배",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "입버릇",
+    "translation": "аманд орсон зуршил",
+    "hanja": "입버릇",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "입법",
+    "translation": "хууль тогтоох",
+    "hanja": "立法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입법권",
+    "translation": "хууль тогтоох эрх",
+    "hanja": "立法權",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "입법부",
+    "translation": "хууль тогтоох байгууллага",
+    "hanja": "立法府",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입법안",
+    "translation": "хуулийн төсөл",
+    "hanja": "立法案",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입법하다",
+    "translation": "хууль тогтоох",
+    "hanja": "立法하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입법화",
+    "translation": "хуульчлах",
+    "hanja": "立法化",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "입법화하다",
+    "translation": "хуульчлах",
+    "hanja": "立法化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입병",
+    "translation": "амны шарх",
+    "hanja": "입病",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "입봉",
+    "translation": "анхны бүтээл",
+    "hanja": "立峰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입부하다",
+    "translation": "мэргэших, хэсэгт элсэх",
+    "hanja": "入部하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "입사",
+    "translation": "ажилд орох",
+    "hanja": "入社",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "입사하다",
+    "translation": "ажилд орох",
+    "hanja": "入社-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입산",
+    "translation": "ууланд гарах, ууланд орох",
+    "hanja": "入山",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입산하다",
+    "translation": "ууланд орох",
+    "hanja": "入山하다",
+    "pos": "VV",
+    "cefr": "B2"
+  },
+  {
+    "word": "입상",
+    "translation": "шагналт байр эзлэх",
+    "hanja": "入賞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입상자",
+    "translation": "байр эзэлсэн хүн",
+    "hanja": "入賞者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "입상하다",
+    "translation": "шагналт байранд орох",
+    "hanja": "入賞하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "입석",
+    "translation": "зогсох зай",
+    "hanja": "立席",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입선",
+    "translation": "Шагналт байранд орох; шоргоолжны үүр рүү орох",
+    "hanja": "入選",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입선작",
+    "translation": "Шагналт бүтээл",
+    "hanja": "入選作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입선하다",
+    "translation": "입선하다",
+    "hanja": "入選하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입성",
+    "translation": "Орох",
+    "hanja": "入城",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입성하다",
+    "translation": "орох, нэвтрэх",
+    "hanja": "入城하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입센",
+    "translation": "Ибсен",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입소",
+    "translation": "орох",
+    "hanja": "入所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입소하다",
+    "translation": "орох, элсэх",
+    "hanja": "入所하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입속",
+    "translation": "ам доторх",
+    "hanja": "입속",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "입속말",
+    "translation": "шившигнэн ярих",
+    "hanja": "입속말",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입수",
+    "translation": "авах",
+    "hanja": "入手",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입수되다",
+    "translation": "олдоцтой болох",
+    "hanja": "入手되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입수하다",
+    "translation": "гарган авах",
+    "hanja": "入手-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입술",
+    "translation": "уруул",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "입시",
+    "translation": "элсэлтийн шалгалт",
+    "hanja": "入試",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "입시생",
+    "translation": "элсэлтийн шалгалт өгөгч",
+    "hanja": "入試生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입시하다",
+    "translation": "Элсэлтийн шалгалт өгөх",
+    "hanja": "入試하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입식",
+    "translation": "босоо зогсох хэлбэр",
+    "hanja": "立式",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "입신",
+    "translation": "амжилтанд хүрэх",
+    "hanja": "立身",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입신양명",
+    "translation": "амжилтанд хүрч нэрээ дуурсгах",
+    "hanja": "立身揚名",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "입신양명하다",
+    "translation": "нэр хүндтэй болох",
+    "hanja": "立身揚名하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "입신하다",
+    "translation": "нийгэмд байр суурь эзлэх",
+    "hanja": "立身하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입실",
+    "translation": "өрөөнд орох",
+    "hanja": "入室",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "입실하다",
+    "translation": "Өрөөнд орох",
+    "hanja": "入室하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입심",
+    "translation": "Хэл ам, үгний хүч",
+    "hanja": "입심",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입씨름",
+    "translation": "үгсийн маргаан, хэрүүл",
+    "hanja": "입씨름",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입씨름하다",
+    "translation": "үгээр маргах, хэрэлдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입안",
+    "translation": "ам дотор, төсөл",
+    "hanja": "입안(入案)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입안하다",
+    "translation": "боловсруулах",
+    "hanja": "立案하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입양",
+    "translation": "үрчлэх",
+    "hanja": "入養",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입양되다",
+    "translation": "үрчлэгдэх",
+    "hanja": "入養되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입양아",
+    "translation": "үрчлэгдсэн хүүхэд",
+    "hanja": "入養兒",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "입양하다",
+    "translation": "Үрчилж авах",
+    "hanja": "入養하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입어",
+    "translation": "Өмсөх, хувцаслах",
+    "hanja": "입어",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "입영",
+    "translation": "Цэрэгт татагдах",
+    "hanja": "入營",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "입영하다",
+    "translation": "цэрэгт татагдах",
+    "hanja": "入營하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입욕",
+    "translation": "угаал үйлдэх, усанд орох",
+    "hanja": "入浴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입욕하다",
+    "translation": "угаалга хийх",
+    "hanja": "入浴하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입원",
+    "translation": "эмнэлэгт хэвтэх",
+    "hanja": "入院",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "입원비",
+    "translation": "эмнэлэгт хэвтэх зардал",
+    "hanja": "入院費",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "입원시키다",
+    "translation": "эмнэлэгт хэвтүүлэх",
+    "hanja": "入院시키다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "입원실",
+    "translation": "эмнэлгийн өрөө",
+    "hanja": "入院室",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "입원하다",
+    "translation": "эмнэлэгт хэвтэх",
+    "hanja": "入院하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입이",
+    "translation": "Ам нь (хэт их ярих, хов жив ярих)",
+    "hanja": "입이",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "입자",
+    "translation": "бөөмс",
+    "hanja": "粒子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입장",
+    "translation": "байр суурь",
+    "hanja": "立場",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "입장객",
+    "translation": "зочин, оролцогч",
+    "hanja": "入場客",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입장권",
+    "translation": "тасалбар",
+    "hanja": "入場券",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "입장료",
+    "translation": "тасалбарын үнэ",
+    "hanja": "入場料",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "입장하다",
+    "translation": "орох",
+    "hanja": "入場하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "입적",
+    "translation": "оршихуй руу нэвтрэх",
+    "hanja": "入籍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "입적하다",
+    "translation": "бүртгэгдэх",
+    "hanja": "入籍하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입점",
+    "translation": "дэлгүүрт орох",
+    "hanja": "入店",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입점시키다",
+    "translation": "дэлгүүр нээлгэх, орж ирэхийг зөвшөөрөх",
+    "hanja": "入店시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입점하다",
+    "translation": "дүрэх",
+    "hanja": "入店하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입조심하다",
+    "translation": "амаа хамхих, болгоомжтой ярих",
+    "hanja": "입조심하다",
+    "pos": "v",
+    "cefr": "B2"
+  },
+  {
+    "word": "입주",
+    "translation": "орох",
+    "hanja": "入住",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입주하다",
+    "translation": "нүүж орох, оршин суух",
+    "hanja": "入住하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입증",
+    "translation": "Нотолгоо",
+    "hanja": "立證",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입증되다",
+    "translation": "Баталгаажих",
+    "hanja": "立證되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입증하다",
+    "translation": "нотлох, батлах",
+    "hanja": "立證하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입지",
+    "translation": "байршил, байр суурь",
+    "hanja": "立地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입지다",
+    "translation": "Өмсгөх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "입직",
+    "translation": "Албан тушаалд орох",
+    "hanja": "入職",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입질",
+    "translation": "Загас түлхэх, сонирхол",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입질하다",
+    "translation": "хазах",
+    "hanja": "입질하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입찰",
+    "translation": "тендер",
+    "hanja": "入札",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입찰하다",
+    "translation": "тендерт оролцох",
+    "hanja": "入札하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입천장",
+    "translation": "тагнай",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "입체",
+    "translation": "Гурван хэмжээст, эзэлхүүнт",
+    "hanja": "立體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입체적",
+    "translation": "гурван хэмжээст, гүн гүнзгий",
+    "hanja": "立體的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입촌하다",
+    "translation": "тосгонд орох",
+    "hanja": "入村하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "입추",
+    "translation": "Намрын эхлэл",
+    "hanja": "立秋",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "입춘",
+    "translation": "хаврын эхэн",
+    "hanja": "立春",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입춘대길",
+    "translation": "хаврын эхний өдөр их аз ирэг",
+    "hanja": "立春大吉",
+    "pos": "n",
+    "cefr": "C2"
+  },
+  {
+    "word": "입출금",
+    "translation": "мөнгө оруулах, гаргах",
+    "hanja": "入出金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입하",
+    "translation": "зуны эхлэл",
+    "hanja": "立夏",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "입학",
+    "translation": "сургуульд элсэх",
+    "hanja": "入學",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "입학금",
+    "translation": "элсэлтийн хураамж",
+    "hanja": "入學金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입학생",
+    "translation": "шинээр элсэгч",
+    "hanja": "入學生",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "입학시키다",
+    "translation": "элсүүлэх",
+    "hanja": "입학시키다(入學시키다)",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입학시험",
+    "translation": "элсэлтийн шалгалт",
+    "hanja": "入學試驗",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입학식",
+    "translation": "Элсэлтийн ёслол",
+    "hanja": "入學式",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "입학하다",
+    "translation": "Элсэх",
+    "hanja": "入學하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "입항",
+    "translation": "боомтод ирэх, усан онгоц ирэх",
+    "hanja": "入港",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입항하다",
+    "translation": "боомтод нэвтрэх",
+    "hanja": "入港하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입헌",
+    "translation": "үндсэн хуульт",
+    "hanja": "立憲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입헌주의",
+    "translation": "үндсэн хуульт ёс",
+    "hanja": "立憲主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입회",
+    "translation": "оролцох",
+    "hanja": "立會",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "입회비",
+    "translation": "элсэлтийн хураамж",
+    "hanja": "入會費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입회인",
+    "translation": "гэрч, байлцагч",
+    "hanja": "立會人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입회하다",
+    "translation": "оролцох, элсэх",
+    "hanja": "入會하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입후보",
+    "translation": "Нэр дэвших",
+    "hanja": "立候補",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입후보자",
+    "translation": "Нэр дэвшигч",
+    "hanja": "立候補者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입후보하다",
+    "translation": "нэр дэвших",
+    "hanja": "立候補하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입히다",
+    "translation": "өмсгөх",
+    "hanja": "입히다",
+    "pos": "Verb",
+    "cefr": "A2"
+  }
+]

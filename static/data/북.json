@@ -1,0 +1,604 @@
+[
+  {
+    "word": "북",
+    "translation": "хойд",
+    "hanja": "北",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "북가좌동",
+    "translation": "Букгажва-дон (газарзүйн нэр)",
+    "hanja": "北加佐洞",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "북경",
+    "translation": "Бээжин",
+    "hanja": "北京",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "북곤",
+    "translation": "Бүг-гон",
+    "hanja": "北坤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북관",
+    "translation": "хойд талын бэхлэлт",
+    "hanja": "北關",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "북괴",
+    "translation": "Умард Солонгос (тохуурхсан)",
+    "hanja": "北傀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북교",
+    "translation": "хойд захын дүүрэг",
+    "hanja": "北郊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북구",
+    "translation": "Хойд бүс",
+    "hanja": "北歐",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "북국",
+    "translation": "хойд улс",
+    "hanja": "北國",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "북군",
+    "translation": "хойд талын арми",
+    "hanja": "北軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북극",
+    "translation": "Хойд туйл",
+    "hanja": "北極",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북극곰",
+    "translation": "цагаан баавгай",
+    "hanja": "北極곰",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북극해",
+    "translation": "Хойд мөсөн далай",
+    "hanja": "北極海",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북남",
+    "translation": "хойд өмнөд",
+    "hanja": "北南",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "북녘",
+    "translation": "умар зүг",
+    "hanja": "北-",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "북단",
+    "translation": "хойд хэсэг, хойд зах",
+    "hanja": "北端",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북대",
+    "translation": "хойд талх",
+    "hanja": "北臺",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "북도",
+    "translation": "умардын зам",
+    "hanja": "北道",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북돋다",
+    "translation": "урамшуулах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북돋우다",
+    "translation": "урсгал авах, сэтгэл санааг дэмжих",
+    "hanja": "북돋우다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북동",
+    "translation": "зүүн хойд",
+    "hanja": "北東",
+    "pos": "name",
+    "cefr": "A1"
+  },
+  {
+    "word": "북동진하다",
+    "translation": "Зүүн хойшоо явах",
+    "hanja": "北東進-하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "북동쪽",
+    "translation": "Зүүн хойд",
+    "hanja": "北東쪽",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "북두",
+    "translation": "Их долоон од",
+    "hanja": "北斗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북두칠성",
+    "translation": "долоон бурхан орд",
+    "hanja": "北斗七星",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북로",
+    "translation": "умард зам",
+    "hanja": "北路",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "북면",
+    "translation": "Умард хэсэг",
+    "hanja": "北面",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북문",
+    "translation": "хойд хаалга",
+    "hanja": "北門",
+    "pos": "명са",
+    "cefr": null
+  },
+  {
+    "word": "북미",
+    "translation": "Хойд Америк",
+    "hanja": "北美",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "북반구",
+    "translation": "Хойд хагас бөмбөрцөг",
+    "hanja": "北半球",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "북받치다",
+    "translation": "оргилох, дүүрэх",
+    "hanja": "북받치다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "북방",
+    "translation": "Хойд зүг",
+    "hanja": "北方",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북벌",
+    "translation": "хойд зүгт хийсэн аян дайн",
+    "hanja": "北伐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "북변",
+    "translation": "Хойд хязгаар",
+    "hanja": "北邊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "북부",
+    "translation": "Умард хэсэг",
+    "hanja": "北部",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "북북",
+    "translation": "хурдан, сарвалзсан хөдөлгөөн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북산",
+    "translation": "умард уул",
+    "hanja": "北山",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "북상",
+    "translation": "хойд зүг рүү явах",
+    "hanja": "北上",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북상하다",
+    "translation": "Умар зүг рүү явах",
+    "hanja": "北上하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북새통",
+    "translation": "үймээн самуун",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북서쪽",
+    "translation": "баруун хойд зүг",
+    "hanja": "北西쪽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "북서풍",
+    "translation": "Баруун хойд салхи",
+    "hanja": "北西風",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "북소리",
+    "translation": "Бөмбөрийн дуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "북송",
+    "translation": "хойд зүг рүү буцах",
+    "hanja": "北送",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "북송되다",
+    "translation": "Хойд руу буцаж илгээгдэх",
+    "hanja": "北送되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북송하다",
+    "translation": "Умард руу буцаах",
+    "hanja": "北送하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북쇠",
+    "translation": "балба",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "북슬북슬하다",
+    "translation": "нүсэр",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북신",
+    "translation": "Хойд од",
+    "hanja": "北辰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "북아메리카",
+    "translation": "Хойд Америк",
+    "hanja": "北아메리카",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "북악",
+    "translation": "Бугаг уул",
+    "hanja": "北岳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북어",
+    "translation": "хатаасан цурхай",
+    "hanja": "北魚",
+    "pos": "м.н",
+    "cefr": "B1"
+  },
+  {
+    "word": "북어국",
+    "translation": "хатаасан загасны шөл",
+    "hanja": "北魚국",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북어포",
+    "translation": "Хатаасан хулсны загас",
+    "hanja": "北魚脯",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "북엇국",
+    "translation": "хатаасан загасны шөл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "북엔드",
+    "translation": "ном баригч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북위",
+    "translation": "Хойд өргөрөг",
+    "hanja": "北緯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북인",
+    "translation": "умардын хүн",
+    "hanja": "北人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "북적",
+    "translation": "бөөнөөрөө цугларах",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북적거리다",
+    "translation": "хөл хөдөлгөөн ихтэй байх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북적대다",
+    "translation": "хөл хөдөлгөөнтэй байх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북적북적",
+    "translation": "хөл хөдөлгөөн ихтэй",
+    "hanja": "북적북적",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북적북적하다",
+    "translation": "Бөөн бөөн, олон хүнтэй",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북적이다",
+    "translation": "дүүрэн байх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "북접",
+    "translation": "хойд хэсэг, умардын хил",
+    "hanja": "北接",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "북조",
+    "translation": "Хойд угсаа",
+    "hanja": "北朝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "북조선",
+    "translation": "Умард Солонгос",
+    "hanja": "北朝鮮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북주",
+    "translation": "Хойд Жоу",
+    "hanja": "北周",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "북중",
+    "translation": "Хойд болон төв",
+    "hanja": "北中",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "북중러",
+    "translation": "Умард Солонгос, Хятад, Орос",
+    "hanja": "北中露",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "북진",
+    "translation": "хойд зүг рүү нүүх",
+    "hanja": "北進",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "북진하다",
+    "translation": "Хойд зүг рүү явах",
+    "hanja": "北進하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "북쪽",
+    "translation": "хойд зүг",
+    "hanja": "北쪽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "북채",
+    "translation": "бөмбөрний таяг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북천",
+    "translation": "хойд тэнгэр",
+    "hanja": "北天",
+    "pos": "NNG",
+    "cefr": "C1"
+  },
+  {
+    "word": "북청",
+    "translation": "Пукчон (Хойд Солонгосын газар зүйн нэр)",
+    "hanja": "北靑",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "북촌",
+    "translation": "Бүгд Найрамдах Ардчилсан Солонгос Улс (Хойд Солонгос)",
+    "hanja": "北村",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "북측",
+    "translation": "хойд тал",
+    "hanja": "北側",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "북치",
+    "translation": "бөмбөрчин",
+    "hanja": "북치",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "북침",
+    "translation": "Умардаас довтлох, хойд талаас довтлох",
+    "hanja": "北侵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "북파",
+    "translation": "хойд зүг рүү илгээх",
+    "hanja": "北派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "북풍",
+    "translation": "Хойд салхи",
+    "hanja": "北風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북한",
+    "translation": "БНАСАУ",
+    "hanja": "北韓",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "북항",
+    "translation": "хойд боомт",
+    "hanja": "北港",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북해",
+    "translation": "Хойд тэнгис",
+    "hanja": "北海",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북향",
+    "translation": "Хойд зүг рүү харсан",
+    "hanja": "北向",
+    "pos": "Noun",
+    "cefr": "B1"
+  }
+]

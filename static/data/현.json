@@ -1,0 +1,877 @@
+[
+  {
+    "word": "현",
+    "translation": "одоогийн, одоогийн байдал",
+    "hanja": "現",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현감",
+    "translation": "хошууны дарга (옛 관직)",
+    "hanja": "縣監",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현강",
+    "translation": "Одоогийн лекц, одоогийн хичээл",
+    "hanja": "現講",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현격하다",
+    "translation": "хоорондын ялгаа их байх, эрс тэс байх",
+    "hanja": "懸隔하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현격히",
+    "translation": "ихээхэн",
+    "hanja": "懸隔히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현경",
+    "translation": "өнөөгийн байдал",
+    "hanja": "現境",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현관",
+    "translation": "үүдний өрөө",
+    "hanja": "玄關",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "현관문",
+    "translation": "үүдний хаалга",
+    "hanja": "玄關門",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "현궁",
+    "translation": "сүмийн орд",
+    "hanja": "玄宮",
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "현금",
+    "translation": "бэлэн мөнгө",
+    "hanja": "現金",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "현금화되다",
+    "translation": "Мөнгөн хэлбэрт шилжих, бэлэн мөнгө болох",
+    "hanja": "現金化-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현금화하다",
+    "translation": "мөнгө болгох",
+    "hanja": "現金化하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "현기",
+    "translation": "толгой эргэх, ухаан балартах",
+    "hanja": "眩氣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현기증",
+    "translation": "толгой эргэх",
+    "hanja": "眩氣症",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "현남",
+    "translation": "Хённам",
+    "hanja": "현남",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "현녀",
+    "translation": "ухаалаг эмэгтэй",
+    "hanja": "賢女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현대",
+    "translation": "орчин үе",
+    "hanja": "現代",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "현대사",
+    "translation": "Орчин үеийн түүх",
+    "hanja": "現代史",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현대성",
+    "translation": "Орчин үеийн байдал",
+    "hanja": "現代性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "현대식",
+    "translation": "орчин үеийн",
+    "hanja": "現代式",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "현대어",
+    "translation": "орчин үеийн хэл",
+    "hanja": "現代語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현대인",
+    "translation": "орчин үеийн хүн",
+    "hanja": "現代人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "현대적",
+    "translation": "орчин үеийн",
+    "hanja": "現代的",
+    "pos": "adj",
+    "cefr": "B1"
+  },
+  {
+    "word": "현대판",
+    "translation": "орчин үеийн хувилбар",
+    "hanja": "現代版",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "현대화",
+    "translation": "орчин үеийн болгох, шинэчлэх",
+    "hanja": "現代化",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "현대화되다",
+    "translation": "Орчин үеийн болж байна",
+    "hanja": "現代化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현대화하다",
+    "translation": "орчин үежүүлэх",
+    "hanja": "現代化하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "현덕",
+    "translation": "Сайн үйлс",
+    "hanja": "賢德",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현도",
+    "translation": "одоогийн зам",
+    "hanja": "現道",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현동",
+    "translation": "одоогийн өвөл (Хёндон-ийн жишиг)",
+    "hanja": "現冬",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "현란",
+    "translation": "хурц гялалзсан, сүрлэг",
+    "hanja": "絢爛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현란하다",
+    "translation": "гялалзсан",
+    "hanja": "絢爛하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "현령",
+    "translation": "аймгийн дарга (эртний)",
+    "hanja": "縣令",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현륭원",
+    "translation": "Хённюнгвон (газрын нэр)",
+    "hanja": "顯隆園",
+    "pos": "고유명са",
+    "cefr": "C2"
+  },
+  {
+    "word": "현리",
+    "translation": "Хёнри",
+    "hanja": "縣里",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현명",
+    "translation": "ухаалаг",
+    "hanja": "賢明",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현명하다",
+    "translation": "ухаалаг",
+    "hanja": "賢明하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "현모",
+    "translation": "ухаалаг эх",
+    "hanja": "賢母",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현모양처",
+    "translation": "сайн эхнэр, сайн эх",
+    "hanja": "賢母良妻",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현묘하다",
+    "translation": "нууцлаг, гүн гүнзгий",
+    "hanja": "玄妙하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "현무",
+    "translation": "Хар гүр",
+    "hanja": "玄武",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현무암",
+    "translation": "базальт",
+    "hanja": "玄武岩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현물",
+    "translation": "бодит эд зүйл, бараа",
+    "hanja": "現物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현미",
+    "translation": "хүрэн будаа",
+    "hanja": "玄米",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "현미경",
+    "translation": "микроскоп",
+    "hanja": "顯微鏡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현백",
+    "translation": "сүүлийн үеийн",
+    "hanja": "玄白",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현상",
+    "translation": "үзэгдэл, үйл явц",
+    "hanja": "現象",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현상금",
+    "translation": "шагнал мөнгө",
+    "hanja": "懸賞金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현상되다",
+    "translation": "илрэх, үүсэх",
+    "hanja": "現像되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현상하다",
+    "translation": "боловсруулах (зураг)",
+    "hanja": "現像하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현생",
+    "translation": "Одоогийн амьдрал",
+    "hanja": "現生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현선",
+    "translation": "одоогийн шугам",
+    "hanja": "現線",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현세",
+    "translation": "Энэ амьдрал, энэ үе, одоогийн ертөнц",
+    "hanja": "現世",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현손",
+    "translation": "хойт үеийн ач хүү",
+    "hanja": "玄孫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현수",
+    "translation": "Хёнсу (Нэр)",
+    "hanja": "懸垂",
+    "pos": "Proper Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "현수막",
+    "translation": "туг",
+    "hanja": "懸垂幕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현숙하다",
+    "translation": "ухаалаг",
+    "hanja": "賢淑하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현순",
+    "translation": "одоогийн шууд",
+    "hanja": "現順",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현시",
+    "translation": "одоогийн байдал",
+    "hanja": "現時",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현시대",
+    "translation": "орчин үе",
+    "hanja": "現時代",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현식",
+    "translation": "одоогийн хэв маяг, одоогийн хэлбэр",
+    "hanja": "現式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현신",
+    "translation": "илрэл",
+    "hanja": "現身",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현신하다",
+    "translation": "гарч ирэх",
+    "hanja": "現身하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "현실",
+    "translation": "бодит байдал",
+    "hanja": "現實",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "현실성",
+    "translation": "бодит байдал",
+    "hanja": "現實性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현실적",
+    "translation": "бодит, практик",
+    "hanja": "現實的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현실주의",
+    "translation": "реализм",
+    "hanja": "現實主義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현실화",
+    "translation": "Бодит байдал",
+    "hanja": "現實化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현실화되다",
+    "translation": "бодит болгох",
+    "hanja": "現實化되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "현실화하다",
+    "translation": "бодит болгох",
+    "hanja": "현실화(現實化)하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현악",
+    "translation": "Чавхдаст хөгжим",
+    "hanja": "絃樂",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "현악기",
+    "translation": "чавхдаст хөгжим",
+    "hanja": "絃樂器",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "현안",
+    "translation": "Одоогийн асуудал",
+    "hanja": "懸案",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현암",
+    "translation": "Ханам (газарзүйн нэр)",
+    "hanja": "玄岩",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "현업",
+    "translation": "одоогийн ажил, одоогийн салбар",
+    "hanja": "現業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현역",
+    "translation": "идэвхтэй алба",
+    "hanja": "現役",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현영",
+    "translation": "одоогийн дүрс",
+    "hanja": "現影",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "현옥",
+    "translation": "үзэсгэлэнтэй, тансаг",
+    "hanja": "炫玉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현옹",
+    "translation": "Одоогийн буянт хүн",
+    "hanja": "賢翁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "현왕",
+    "translation": "Одоогийн хаан",
+    "hanja": "現王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현용",
+    "translation": "одоогийн хэрэглээ",
+    "hanja": "現用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현우",
+    "translation": "Хён-у, одоогийн найз",
+    "hanja": "賢友",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "현웃",
+    "translation": "бодит инээд (интернет хэллэг)",
+    "hanja": "현웃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "현원",
+    "translation": "Одоогийн гишүүд, одоогийн тоо",
+    "hanja": "現員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현유",
+    "translation": "одоо байгаа, байх",
+    "hanja": "現有",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현인",
+    "translation": "мэргэн хүн, мэргэн",
+    "hanja": "賢人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현자",
+    "translation": "мэргэн хүн",
+    "hanja": "賢者",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "현장",
+    "translation": "үзэгдэл",
+    "hanja": "現場",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "현장감",
+    "translation": "бодит байдал",
+    "hanja": "現場感",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "현재",
+    "translation": "одоо",
+    "hanja": "現在",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "현재형",
+    "translation": "одоо цаг",
+    "hanja": "現在形",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "현저하다",
+    "translation": "тодорхой, илт",
+    "hanja": "顯著하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현저히",
+    "translation": "илт, мэдэгдэхүйц",
+    "hanja": "顯著히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현제",
+    "translation": "одоогийн",
+    "hanja": "現在",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "현조",
+    "translation": "өнөөгийн бодит байдал, одоогийн нөхцөл байдал",
+    "hanja": "現兆",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "현존",
+    "translation": "одоо байгаа",
+    "hanja": "現存",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "현존하다",
+    "translation": "Оршин тогтнох",
+    "hanja": "現存하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현종",
+    "translation": "Хёнжон",
+    "hanja": "顯宗",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "현주소",
+    "translation": "одоогийн хаяг, одоогийн байдал",
+    "hanja": "現住所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현지",
+    "translation": "орон нутаг",
+    "hanja": "현지(現地)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "현지인",
+    "translation": "Орон нутгийн иргэн",
+    "hanja": "現地人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "현지화되다",
+    "translation": "орон нутагт тохируулах",
+    "hanja": "現地化되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "현지화하다",
+    "translation": "нутагшуулах",
+    "hanja": "現地化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현직",
+    "translation": "одоогийн албан тушаал",
+    "hanja": "現職",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "현질",
+    "translation": "Бэлэн мөнгө",
+    "hanja": "現質",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현질하다",
+    "translation": "мөнгөөр худалдан авалт хийх (онлайн тоглоомонд)",
+    "hanja": "現質하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현찰",
+    "translation": "Бэлэн мөнгө",
+    "hanja": "現札",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "현철",
+    "translation": "ухаантай",
+    "hanja": "賢哲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현철하다",
+    "translation": "ухаалаг, мэргэн",
+    "hanja": "賢哲하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "현충일",
+    "translation": "Эх орончдын дурсгалын өдөр",
+    "hanja": "顯忠日",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현타",
+    "translation": "Бодит байдлыг мэдрэх, сэртхийх мэдрэмж (үгэн тоглоом)",
+    "hanja": "現타",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현판",
+    "translation": "хаяг, самбар",
+    "hanja": "懸板",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "현판식",
+    "translation": "Нээлтийн ёслол",
+    "hanja": "懸板式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현피",
+    "translation": "Бодит амьдрал дээрх тулаан",
+    "hanja": "現피",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "현학",
+    "translation": "Эрдэмтэн",
+    "hanja": "玄學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현학적",
+    "translation": "сэхүүн, эрдэм номоор гайхуулах",
+    "hanja": "衒學的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "현행",
+    "translation": "Одоогийн, хүчин төгөлдөр",
+    "hanja": "現行",
+    "pos": "관형사/명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현행범",
+    "translation": "Ноцтой гэмт хэрэг",
+    "hanja": "現行犯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현행법",
+    "translation": "Одоогийн хууль",
+    "hanja": "現行法",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "현현",
+    "translation": "илчлэгдэх, илрэх",
+    "hanja": "顯現",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "현현하다",
+    "translation": "илрэх, үзэгдэх",
+    "hanja": "顯現하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "현혹",
+    "translation": "хуурах, сэтгэлийг татах",
+    "hanja": "眩惑",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "현혹되다",
+    "translation": "Будилж төөрөх",
+    "hanja": "眩惑되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현혹하다",
+    "translation": "хуурах, сэтгэл татах",
+    "hanja": "眩惑하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현황",
+    "translation": "одоогийн байдал",
+    "hanja": "現況",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

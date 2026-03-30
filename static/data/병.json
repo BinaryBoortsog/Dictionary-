@@ -1,0 +1,688 @@
+[
+  {
+    "word": "병",
+    "translation": "өвчин",
+    "hanja": "病",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "병가",
+    "translation": "Эмнэлгийн чөлөө",
+    "hanja": "病暇",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "병간호",
+    "translation": "өвчтөн асаргах",
+    "hanja": "病看護",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "병간호하다",
+    "translation": "өвчтөнийг асрах",
+    "hanja": "病看護하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병거",
+    "translation": "байлдааны тэрэг",
+    "hanja": "兵車",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병결",
+    "translation": "өвчний улмаас чөлөө авах",
+    "hanja": "病缺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "병고",
+    "translation": "өвчний зовлон",
+    "hanja": "病苦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병과",
+    "translation": "мэргэжил",
+    "hanja": "兵科",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병구",
+    "translation": "эмгэг, өвчин, өвчтэй хэсэг",
+    "hanja": "病區",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병구완",
+    "translation": "өвчтөнийг асрах",
+    "hanja": "病咎完",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병권",
+    "translation": "цэргийн эрх мэдэл",
+    "hanja": "兵權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병균",
+    "translation": "бактери",
+    "hanja": "病菌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "병기",
+    "translation": "Зэвсэг",
+    "hanja": "兵器",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "병기되다",
+    "translation": "зэрэгцүүлэн бичигдэх",
+    "hanja": "竝記되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "병기하다",
+    "translation": "зэрэг бичих, хавсаргах",
+    "hanja": "竝記하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병나다",
+    "translation": "өвдөх",
+    "hanja": "病나다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "병동",
+    "translation": "эмнэлгийн тасаг",
+    "hanja": "病棟",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "병들다",
+    "translation": "өвдөх",
+    "hanja": "病들다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "병뚜껑",
+    "translation": "лонхны таг",
+    "hanja": "甁뚜껑",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "병란",
+    "translation": "дайн самуун",
+    "hanja": "兵亂",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "병력",
+    "translation": "цэргийн хүчин",
+    "hanja": "兵力",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "병렬",
+    "translation": "зэрэгцээ, параллель",
+    "hanja": "並列",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "병리",
+    "translation": "Эмгэг судлал",
+    "hanja": "病理",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병리학",
+    "translation": "эмгэг судлал",
+    "hanja": "病理學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병마",
+    "translation": "өвчин",
+    "hanja": "病魔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병마개",
+    "translation": "шилний бөглөө",
+    "hanja": "병마개",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "병맥",
+    "translation": "шил архи",
+    "hanja": "病脈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병맥주",
+    "translation": "лонхтой шар айраг",
+    "hanja": "甁麥酒",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "병명",
+    "translation": "Өвчний нэр",
+    "hanja": "病名",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "병모",
+    "translation": "Лонхны хүзүү",
+    "hanja": "瓶모",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "병목",
+    "translation": "боомт",
+    "hanja": "甁목",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "병문안",
+    "translation": "өрөвдөх",
+    "hanja": "病問安",
+    "pos": "мüns",
+    "cefr": "B1"
+  },
+  {
+    "word": "병법",
+    "translation": "цэргийн урлаг",
+    "hanja": "兵法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병변",
+    "translation": "эмгэг",
+    "hanja": "病變",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "병부",
+    "translation": "цэргийн яам",
+    "hanja": "兵部",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병사",
+    "translation": "цэрэг",
+    "hanja": "兵士",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "병사하다",
+    "translation": "өвчнөөр нас барах",
+    "hanja": "病死하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병상",
+    "translation": "ор",
+    "hanja": "病床",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병색",
+    "translation": "өвчний шинж тэмдэг",
+    "hanja": "病色",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "병서",
+    "translation": "цэргийн зохиол",
+    "hanja": "兵書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병석",
+    "translation": "өвчний оронд",
+    "hanja": "病席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병선",
+    "translation": "цэргийн хөлөг онгоц",
+    "hanja": "兵船",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "병세",
+    "translation": "өвчний явц",
+    "hanja": "病勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병수",
+    "translation": "Бён-сү",
+    "hanja": "炳洙",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "병식",
+    "translation": "Өвчний шинж тэмдэг",
+    "hanja": "病識",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "병신",
+    "translation": "Хөгжлийн бэрхшээлтэй хүн (доромж)",
+    "hanja": "病身",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병실",
+    "translation": "Эмнэлгийн өрөө",
+    "hanja": "病室",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "병심",
+    "translation": "өвчний шинж тэмдэг",
+    "hanja": "病心",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "병아",
+    "translation": "өвчний зохиол",
+    "hanja": "病兒",
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "병아리",
+    "translation": "дүгэрээ",
+    "hanja": "병아리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "병약하다",
+    "translation": "бие муутай, өвчин эмгэгтэй",
+    "hanja": "病弱하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병어",
+    "translation": "далбаат загас",
+    "hanja": "餠魚",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "병역",
+    "translation": "цэргийн алба",
+    "hanja": "兵役",
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "병영",
+    "translation": "хуаран",
+    "hanja": "兵營",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병옥",
+    "translation": "Бён-ок",
+    "hanja": "炳玉",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "병용",
+    "translation": "хамт хэрэглэх",
+    "hanja": "竝用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병용하다",
+    "translation": "хавсаргах, хамт хэрэглэх",
+    "hanja": "倂用하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병우",
+    "translation": "гэнэтийн бороо",
+    "hanja": "屛雨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병욱",
+    "translation": "Бён-ук (хүний нэр)",
+    "hanja": "炳昱",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "병원",
+    "translation": "эмнэлэг",
+    "hanja": "病院",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "병원균",
+    "translation": "өвчин үүсгэгч",
+    "hanja": "病原菌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병원장",
+    "translation": "эмнэлгийн дарга",
+    "hanja": "病院長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병원체",
+    "translation": "эмгэг төрүүлэгч",
+    "hanja": "病原體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병이",
+    "translation": "өвчин",
+    "hanja": "病異",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "병입",
+    "translation": "саванд хийх",
+    "hanja": "병입",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "병입하다",
+    "translation": "савлагдах",
+    "hanja": "甁入하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병자",
+    "translation": "өвчтэй хүн",
+    "hanja": "病者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병장",
+    "translation": "ахлах түрүүч",
+    "hanja": "兵長",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "병적",
+    "translation": "Өвчтэй, эмгэгтэй",
+    "hanja": "病的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병정",
+    "translation": "Цэрэг",
+    "hanja": "兵丁",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "병조",
+    "translation": "Бёнжо (эртний албан тушаал)",
+    "hanja": "병조",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "병존하다",
+    "translation": "зэрэгцэн орших",
+    "hanja": "並存하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병졸",
+    "translation": "Энгийн цэрэг",
+    "hanja": "兵卒",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "병종",
+    "translation": "цэргийн анги",
+    "hanja": "兵種",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병주",
+    "translation": "Хамт хөгжимдөх",
+    "hanja": "竝奏",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "병중",
+    "translation": "Өвчтэй байгаа үед",
+    "hanja": "病中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병증",
+    "translation": "өвчний шинж тэмдэг",
+    "hanja": "病症",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "병진",
+    "translation": "зэрэгцэн хөгжих",
+    "hanja": "並進",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병참",
+    "translation": "материал хангамж",
+    "hanja": "兵站",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병창",
+    "translation": "хоорондоо хавсарсан цонх",
+    "hanja": "竝窓",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "병천",
+    "translation": "Бёнчон (газрын нэр)",
+    "hanja": "竝川",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "병충해",
+    "translation": "хөнөөлт шавьж, өвчин",
+    "hanja": "病蟲害",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병치",
+    "translation": "зэрэгцүүлэн байрлуулах",
+    "hanja": "竝置",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "병치레",
+    "translation": "өвчнийг давж гарах, өвдөх",
+    "hanja": "病치레",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "병코돌고래",
+    "translation": "тогоруу хоншоорт далайн гахай",
+    "hanja": "병코돌고래",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병태",
+    "translation": "эмгэг төрх",
+    "hanja": "病態",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "병판",
+    "translation": "бюнпан (албан тушаал)",
+    "hanja": "兵判",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "병폐",
+    "translation": "Муу зуршил, гажуудал",
+    "hanja": "病弊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병풍",
+    "translation": "дэлгэц",
+    "hanja": "屛風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "병합",
+    "translation": "нэгтгэх",
+    "hanja": "倂合",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병합되다",
+    "translation": "нэгтгэгдэх, нийлүүлэгдэх",
+    "hanja": "倂合되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "병합하다",
+    "translation": "Нэгтгэх, хавсаргах",
+    "hanja": "倂合하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병해",
+    "translation": "өвчин хортон шавьж",
+    "hanja": "病害",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "병행",
+    "translation": "зэрэгцээ",
+    "hanja": "竝行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병행되다",
+    "translation": "зэрэг явагдах",
+    "hanja": "竝行되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병행하다",
+    "translation": "зэрэгцэн явах",
+    "hanja": "竝行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병현",
+    "translation": "Пёнхён",
+    "hanja": "炳賢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병환",
+    "translation": "Өвчин",
+    "hanja": "病患",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

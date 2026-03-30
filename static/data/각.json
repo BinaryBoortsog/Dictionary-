@@ -1,0 +1,534 @@
+[
+  {
+    "word": "각",
+    "translation": "Тус бүр",
+    "hanja": "各",
+    "pos": "대명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "각가지",
+    "translation": "төрөл бүрийн, янз бүрийн",
+    "hanja": "各가지",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각각",
+    "translation": "тус бүр, нэг бүр",
+    "hanja": "各各",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "각간",
+    "translation": "Кагкан (эрэгтэй хүний ​​нэр)",
+    "hanja": "角干",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "각개",
+    "translation": "тус бүр, нэг бүрчлэн",
+    "hanja": "各個",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각계",
+    "translation": "салбар бүр, бүх хүрээ",
+    "hanja": "各界",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "각계각층",
+    "translation": "нийгмийн бүх давхарга, бүх салбар",
+    "hanja": "各界各層",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각고",
+    "translation": "Хүнд хөдөлмөр",
+    "hanja": "刻苦",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "각광",
+    "translation": " анхаарал татах",
+    "hanja": "脚光",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "각국",
+    "translation": "улс орнууд",
+    "hanja": "各國",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "각궁",
+    "translation": "нум сум (солонгос уламжлалт)",
+    "hanja": "角弓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각권",
+    "translation": "бүх боть, ботиудыг тус бүр",
+    "hanja": "各卷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각급",
+    "translation": "бүх түвшин",
+    "hanja": "各級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각기",
+    "translation": "тус бүр",
+    "hanja": "各其",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "각다귀",
+    "translation": "шумуул, бясаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각도",
+    "translation": "өнцөг",
+    "hanja": "角度",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "각등",
+    "translation": "Булангийн гэрэл",
+    "hanja": "角燈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각론",
+    "translation": "тодорхой эссэ",
+    "hanja": "各論",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "각료",
+    "translation": "засгийн газрын гишүүн, сайд",
+    "hanja": "閣僚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각막",
+    "translation": "нүдний эвэрлэг бүрхэвч",
+    "hanja": "角膜",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "각막염",
+    "translation": "нүдний эвэрлэгийн үрэвсэл",
+    "hanja": "角膜炎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각목",
+    "translation": "дүгэрээд, дөрвөлжин мод",
+    "hanja": "角木",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "각박하다",
+    "translation": "хатуу ширүүн",
+    "hanja": "刻薄하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각반",
+    "translation": "богино ханцуйтай цамц",
+    "hanja": "脚絆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각방",
+    "translation": "тусдаа өрөө",
+    "hanja": "各房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "각별",
+    "translation": "онцгой",
+    "hanja": "각별(各別)",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "각별하다",
+    "translation": "онцгой, онцгой, онцгой",
+    "hanja": "恪別하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각별히",
+    "translation": "тусгайлан",
+    "hanja": "各別히",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "각본",
+    "translation": "зохиол",
+    "hanja": "脚本",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "각부",
+    "translation": "тус бүр",
+    "hanja": "各部",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "각상",
+    "translation": "булангийн ширээ",
+    "hanja": "角床",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각색",
+    "translation": "хөрвүүлэх, зохицуулах",
+    "hanja": "脚色",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "각색되다",
+    "translation": "зохицуулагдах, өөрчлөгдөх",
+    "hanja": "脚色되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "각색하다",
+    "translation": "Зохицох",
+    "hanja": "脚色하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각서",
+    "translation": "санамж бичиг",
+    "hanja": "覺書",
+    "pos": "сущ",
+    "cefr": "B1"
+  },
+  {
+    "word": "각석",
+    "translation": "бичээст чулуу",
+    "hanja": "刻石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각선미",
+    "translation": "хөлийн үзэсгэлэн",
+    "hanja": "脚線美",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "각설이",
+    "translation": "гуйлгачин",
+    "hanja": "覺說이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각설탕",
+    "translation": "чихрийн шоо",
+    "hanja": "角雪糖",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "각성",
+    "translation": "сэрэх",
+    "hanja": "覺醒",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "각성되다",
+    "translation": "сэхээрэх",
+    "hanja": "覺醒되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "각성시키다",
+    "translation": "сэрээх, ухааруулах",
+    "hanja": "覺醒시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각성제",
+    "translation": "сэргээгч бодис",
+    "hanja": "覺醒劑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각성하다",
+    "translation": "сэхээрэх, ухаарах",
+    "hanja": "覺醒하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각시",
+    "translation": "бэр, залуу эхнэр",
+    "hanja": "閣氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "각양",
+    "translation": "Төрөл бүрийн, олон янзын",
+    "hanja": "各樣",
+    "pos": "관형사 (Determiner)",
+    "cefr": "B2"
+  },
+  {
+    "word": "각양각색",
+    "translation": "олон төрөл",
+    "hanja": "各樣各色",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각오",
+    "translation": "шийдвэр, бэлтгэл",
+    "hanja": "覺悟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각오하다",
+    "translation": "бэлдэх",
+    "hanja": "覺悟하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각의",
+    "translation": "танхимын хурал",
+    "hanja": "閣議",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각이",
+    "translation": "өнцөгтэй",
+    "hanja": "角이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "각인",
+    "translation": "각лах",
+    "hanja": "刻印",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각인되다",
+    "translation": "хоногших",
+    "hanja": "刻印되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각인시키다",
+    "translation": "үлдэх",
+    "hanja": "刻印시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각인하다",
+    "translation": "Ой тогтоолгох",
+    "hanja": "刻印하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "각자",
+    "translation": "тус тусдаа",
+    "hanja": "各自",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "각자도생하다",
+    "translation": "бие даан амьдрах",
+    "hanja": "各自圖生하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "각조",
+    "translation": "тус бүрийн заалт",
+    "hanja": "各條",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각종",
+    "translation": "төрөл бүрийн",
+    "hanja": "各種類",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "각주",
+    "translation": "зүүлт тайлбар",
+    "hanja": "脚注",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각지",
+    "translation": "янз бүрийн газар",
+    "hanja": "各地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각지다",
+    "translation": "өнцөгтэй, хурц ирмэгтэй",
+    "hanja": "角지다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각질",
+    "translation": "эвэрлэг эд",
+    "hanja": "角質",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "각질화되다",
+    "translation": "кератинжих",
+    "hanja": "角質化되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "각처",
+    "translation": "газар газраас, олон талаас",
+    "hanja": "各處",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각축",
+    "translation": "өрсөлдөөн",
+    "hanja": "角逐",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "각축장",
+    "translation": "өрсөлдөх газар",
+    "hanja": "角逐場",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "각축전",
+    "translation": "Өрсөлдөөн, тэмцэл",
+    "hanja": "角逐戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각출하다",
+    "translation": "хувааж гаргах",
+    "hanja": "各出하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각층",
+    "translation": "давхарга бүр",
+    "hanja": "各層",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각하",
+    "translation": "эрхэмсэг ноёнтон",
+    "hanja": "閣下",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각하다",
+    "translation": "тахирдуулах, бөхийлгөх",
+    "hanja": "却下하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각하되다",
+    "translation": "Хүлээж авагдахгүй байх",
+    "hanja": "却下되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각하하다",
+    "translation": "хүсэлтийг хэрэгсэхгүй болгох",
+    "hanja": "却下하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "각혈",
+    "translation": "цус ханиалгах",
+    "hanja": "咯血",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "각형",
+    "translation": "дөрвөлжин хэлбэр",
+    "hanja": "각형",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

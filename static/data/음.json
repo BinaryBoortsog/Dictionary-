@@ -1,0 +1,737 @@
+[
+  {
+    "word": "음",
+    "translation": "дуу",
+    "hanja": "音",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "음가",
+    "translation": "дууны утга, үгийн утга",
+    "hanja": "音價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음각",
+    "translation": "хонхойлгож сийлэх",
+    "hanja": "陰刻",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음각되다",
+    "translation": "хонхойлгож сийлэгдэх",
+    "hanja": "陰刻되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음감",
+    "translation": "хөгжмийн мэдрэмж",
+    "hanja": "音感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음경",
+    "translation": "эр бэлэг эрхтэн, төмсөгний эрхтэн",
+    "hanja": "陰莖",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "음계",
+    "translation": "хөгжмийн өндөрлөг",
+    "hanja": "音階",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음극",
+    "translation": "сөрөг туйл, катод",
+    "hanja": "陰極",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음기",
+    "translation": "сөрөг энерги, хүйтэн энерги",
+    "hanja": "陰氣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음낭",
+    "translation": "төмсөгний уут",
+    "hanja": "陰囊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음냐",
+    "translation": "хмм",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "음녀",
+    "translation": "Тачаангуй эмэгтэй",
+    "hanja": "淫女",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "음담패설",
+    "translation": "садар яриа",
+    "hanja": "淫談悖說",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음대",
+    "translation": "хөгжмийн коллеж",
+    "hanja": "音大",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음덕",
+    "translation": "нууц буян",
+    "hanja": "陰德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음독",
+    "translation": "чангаар унших",
+    "hanja": "音讀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음독하다",
+    "translation": "Хоронд хордох; чангаар унших",
+    "hanja": "飮毒하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음란",
+    "translation": "садар самуун",
+    "hanja": "淫亂",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "음란물",
+    "translation": "садар самуун материал",
+    "hanja": "淫亂物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음란하다",
+    "translation": "садар самуун, ёс бус",
+    "hanja": "淫亂하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음량",
+    "translation": "дууны хэмжээ, дууны хүчдэл",
+    "hanja": "音量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "음력",
+    "translation": "Сарны хуанли",
+    "hanja": "陰曆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "음력설",
+    "translation": "цагаан сар, сарны тооллын шинэ жил",
+    "hanja": "陰曆설",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "음료",
+    "translation": "ундаа",
+    "hanja": "飲料",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "음료수",
+    "translation": "ундаа",
+    "hanja": "飮料水",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "음률",
+    "translation": "ая, хөгжим",
+    "hanja": "音律",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음림",
+    "translation": "мэнгэ, бохирдал",
+    "hanja": "陰霖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음마",
+    "translation": "Мангас",
+    "hanja": "陰魔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음매",
+    "translation": "Мөө (үнээний дуурайл)",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "음메",
+    "translation": "үхрийн дуу",
+    "hanja": "음메",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "음모",
+    "translation": "Хуйвалдаан",
+    "hanja": "陰謀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음모론자",
+    "translation": "хуйвалдааны онолч",
+    "hanja": "陰謀論者",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음모하다",
+    "translation": "хуйвалдах",
+    "hanja": "陰謀하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음미",
+    "translation": "таашаан амтлах",
+    "hanja": "吟味",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음미하다",
+    "translation": "амтлах",
+    "hanja": "吟味하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음반",
+    "translation": "Хөгжмийн цомог",
+    "hanja": "音盤",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "음방",
+    "translation": "Хөгжмийн нэвтрүүлэг",
+    "hanja": "音放",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "음방하다",
+    "translation": "нуун дарах",
+    "hanja": "陰防하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음복",
+    "translation": "тахилын хоол идэх",
+    "hanja": "飮福",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음부",
+    "translation": "бэлэг эрхтний хэсэг",
+    "hanja": "陰部",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음사",
+    "translation": "Сүүдэр ариун сүм",
+    "hanja": "陰祠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음산하다",
+    "translation": "гунигтай",
+    "hanja": "陰慘하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음상",
+    "translation": "дууны дүр, дууны хэлбэр",
+    "hanja": "音相",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음색",
+    "translation": "дуут өнгө",
+    "hanja": "音色",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "음서",
+    "translation": "нууц бичиг",
+    "hanja": "蔭敍",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "음성",
+    "translation": "дуу хоолой",
+    "hanja": "音聲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음성적",
+    "translation": "нууц, далд",
+    "hanja": "陰性的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음소",
+    "translation": "фонем",
+    "hanja": "音素",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "translation": "дууны хурд",
+    "hanja": "音速",
+    "pos": "명са",
+    "cefr": "C1",
+    "word": "음속"
+  },
+  {
+    "word": "음수",
+    "translation": "сөрөг тоо",
+    "hanja": "陰數",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "음습하다",
+    "translation": "чийдэн",
+    "hanja": "陰濕하다",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "음식",
+    "translation": "Хоол хүнс",
+    "hanja": "飮食",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "음식량",
+    "translation": "Хоолны хэмжээ",
+    "hanja": "飮食量",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "음식물",
+    "translation": "Хоол хүнс",
+    "hanja": "飮食物",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "음식상",
+    "translation": "Хоолны ширээ",
+    "hanja": "飮食床",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "음식점",
+    "translation": "хоолны газар",
+    "hanja": "飮食店",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "음쓰",
+    "translation": "хоолны хаягдал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "음악",
+    "translation": "хөгжим",
+    "hanja": "音樂",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "음악가",
+    "translation": "Хөгжимчин",
+    "hanja": "音樂家",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "음악성",
+    "translation": "хөгжмийн мэдрэмж",
+    "hanja": "音樂性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음악적",
+    "translation": "хөгжмийн",
+    "hanja": "音樂的",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "음악제",
+    "translation": "хөгжмийн наадам",
+    "hanja": "音樂祭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "음악하다",
+    "translation": "хөгжим тоглох, хөгжим зохиох",
+    "hanja": "音樂하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "음악회",
+    "translation": "хөгжмийн концерт",
+    "hanja": "音樂會",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "음압",
+    "translation": "сөрөг даралт",
+    "hanja": "陰壓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음양",
+    "translation": "инь-янь, эрэгтэй, эмэгтэй",
+    "hanja": "陰陽",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음양오행",
+    "translation": "инь-ян, таван элемент",
+    "hanja": "陰陽五行",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "음어",
+    "translation": "нууц үг",
+    "hanja": "隱語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음역",
+    "translation": "дууны цар хүрээ",
+    "hanja": "音域",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음역하다",
+    "translation": "Дуудлагаар орчуулах",
+    "hanja": "音譯하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음영",
+    "translation": "сүүдэр",
+    "hanja": "陰影",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음영하다",
+    "translation": "сүүдэрлэх",
+    "hanja": "陰影하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음욕",
+    "translation": "Тачаал, хүсэл тачаал",
+    "hanja": "淫慾",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "음용",
+    "translation": "уух",
+    "hanja": "飲用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음용수",
+    "translation": "Ундны ус",
+    "hanja": "飮用水",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "음운",
+    "translation": "авиа зүй",
+    "hanja": "音韻",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음울하다",
+    "translation": "гунигтай",
+    "hanja": "陰鬱하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음원",
+    "translation": "Дууны файл, эх үүсвэр",
+    "hanja": "音源",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "음유",
+    "translation": "яруу найраг өргөх, унших",
+    "hanja": "吟遊",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "음장",
+    "translation": "дууны талбар",
+    "hanja": "音場",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음절",
+    "translation": "Үе",
+    "hanja": "音節",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음정",
+    "translation": "хөгжмийн өндөр",
+    "hanja": "音程",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음조",
+    "translation": "Ая, өнгө",
+    "hanja": "音調",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "음주",
+    "translation": "архи уух",
+    "hanja": "飮酒",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "음주하다",
+    "translation": "архи уух",
+    "hanja": "飲酒하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "음중",
+    "translation": "дууны дунд",
+    "hanja": "音中",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "음지",
+    "translation": "сүүдэр",
+    "hanja": "陰地",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "음직",
+    "translation": "нуун дарагдсан байр суурь, сүүдрийн ажил",
+    "hanja": "陰職",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음질",
+    "translation": "дууны чанар",
+    "hanja": "音質",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음차",
+    "translation": "дууны орчуулга",
+    "hanja": "音借",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음청",
+    "translation": "дуу авиаг сонсох",
+    "hanja": "音聽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음치",
+    "translation": "Хөгжимний мэдрэмжгүй хүн",
+    "hanja": "音癡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음침하다",
+    "translation": "харанхуй",
+    "hanja": "陰沈하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음탕하다",
+    "translation": "садар самуун, ёс бус",
+    "hanja": "淫蕩하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "음파",
+    "translation": "Дууны долгион",
+    "hanja": "音波",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "음페",
+    "translation": "Умфе",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음표",
+    "translation": "хөгжмийн тэмдэглэгээ",
+    "hanja": "音標",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "음해",
+    "translation": "Муулах, гүтгэх",
+    "hanja": "陰害",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음핵",
+    "translation": "Умайн хүзүүний толгой",
+    "hanja": "陰核",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음행",
+    "translation": "садар самуун, ёс бус явдал",
+    "hanja": "淫行",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "음행하다",
+    "translation": "садарлахуй",
+    "hanja": "淫行하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "음향",
+    "translation": "дууны долгион, акустик",
+    "hanja": "音響",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "음험하다",
+    "translation": "харгис хэрцгий",
+    "hanja": "陰險하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음흉",
+    "translation": "зальтай, муу санаатай",
+    "hanja": "陰凶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "음흉하다",
+    "translation": "Муу санаатай",
+    "hanja": "陰凶하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  }
+]

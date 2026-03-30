@@ -1,0 +1,779 @@
+[
+  {
+    "word": "황",
+    "translation": "хүхэр",
+    "hanja": "黃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황가",
+    "translation": "эзэн хааны гэр бүл",
+    "hanja": "皇家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황개",
+    "translation": "Хуан Гай (хятад түүхэн хүн)",
+    "hanja": "黃蓋",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황게",
+    "translation": "шар хавч",
+    "hanja": "黃게",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황경",
+    "translation": "хаанчлалын хил хязгаар",
+    "hanja": "皇境",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "황공하다",
+    "translation": "айж эмээх",
+    "hanja": "惶恐하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황구",
+    "translation": "шар нохой",
+    "hanja": "黃狗",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "황국",
+    "translation": "эзэн хааны улс",
+    "hanja": "皇國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황군",
+    "translation": "эзэн хааны арми",
+    "hanja": "皇軍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황궁",
+    "translation": "эзэн хааны ордон",
+    "hanja": "皇宮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황권",
+    "translation": "эзэн хааны эрх мэдэл",
+    "hanja": "皇權",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황금",
+    "translation": "алт",
+    "hanja": "黃金",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "황금기",
+    "translation": "алтан үе",
+    "hanja": "黃金期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황금비",
+    "translation": "алтан харьцаа",
+    "hanja": "黃金比",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황금빛",
+    "translation": "алтан шаргал",
+    "hanja": "黃金빛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "황금색",
+    "translation": "Алтан шаргал өнгө",
+    "hanja": "黃金色",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "황금시대",
+    "translation": "алтан үе",
+    "hanja": "황금시대(黃金時代)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황급하다",
+    "translation": "Яаравчлах, сандрах",
+    "hanja": "遑急하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황급히",
+    "translation": "яаран сандран",
+    "hanja": "惶急히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황기",
+    "translation": "хуучин цаг",
+    "hanja": "黃旗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황남",
+    "translation": "шар өмнөд",
+    "hanja": "黃南",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황녀",
+    "translation": "гүнж",
+    "hanja": "皇女",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "황달",
+    "translation": "шар өвчин",
+    "hanja": "黃疸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황당무계하다",
+    "translation": "утга учиргүй, үндэслэлгүй",
+    "hanja": "荒唐無稽하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황당하다",
+    "translation": "утга учиргүй",
+    "hanja": "荒唐하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황도",
+    "translation": "шар жимсний лаазалсан компот",
+    "hanja": "黃桃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "황동",
+    "translation": "гууль",
+    "hanja": "黃銅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황량하다",
+    "translation": "хоосон, эзгүй",
+    "hanja": "荒涼하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황령산",
+    "translation": "Хваннён уул",
+    "hanja": "荒嶺山",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "황로",
+    "translation": "шар зам",
+    "hanja": "黃路",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황록색",
+    "translation": "Шар ногоон",
+    "hanja": "黃綠色",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "황룡",
+    "translation": "шар луу",
+    "hanja": "黃龍",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "황릉",
+    "translation": "хааны бунхан",
+    "hanja": "皇陵",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "황마",
+    "translation": "цагаан маалинга",
+    "hanja": "黃麻",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황망하다",
+    "translation": "цэцэн бус байх",
+    "hanja": "慌忙하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황망히",
+    "translation": "яаран сандран",
+    "hanja": "遑忙히",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "황명",
+    "translation": "хааны зарлиг",
+    "hanja": "皇命",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황모",
+    "translation": "шар үс",
+    "hanja": "黃毛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황무지",
+    "translation": "хоосон газар",
+    "hanja": "荒蕪地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황무하다",
+    "translation": "эзгүйрэх",
+    "hanja": "荒蕪하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황반",
+    "translation": "шар толбо",
+    "hanja": "黃斑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황변",
+    "translation": "шарлах",
+    "hanja": "黃變",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황보",
+    "translation": "Хванбу",
+    "hanja": "皇甫",
+    "pos": "성씨",
+    "cefr": "C2"
+  },
+  {
+    "word": "황비",
+    "translation": "Хатан хаан",
+    "hanja": "皇妃",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황사",
+    "translation": "Шар тоос (элс)",
+    "hanja": "黃沙",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "황산",
+    "translation": "Хүхрийн хүчил",
+    "hanja": "黃酸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황산화물",
+    "translation": "Хүхрийн исэл",
+    "hanja": "黃酸化物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황상",
+    "translation": "хаан",
+    "hanja": "皇上",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황새",
+    "translation": "хөхрөө",
+    "hanja": "황새",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "황색",
+    "translation": "Шар өнгө",
+    "hanja": "黃色",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "황성",
+    "translation": "хааны ордон",
+    "hanja": "皇城",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황소",
+    "translation": "Үхэр",
+    "hanja": "黃소",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "황소고집",
+    "translation": "зөрүүд, гөжүүд зан",
+    "hanja": "黃소고집",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황송하다",
+    "translation": "ичгүүртэй, хүндэтгэлтэй",
+    "hanja": "황송(惶悚)하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황숙",
+    "translation": "шарласан үр тариа",
+    "hanja": "黃熟",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황순원",
+    "translation": "Хван Сүн-вон (Зохиолч)",
+    "hanja": "黃順元",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황실",
+    "translation": "эзэн хааны ордон",
+    "hanja": "皇室",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황씨",
+    "translation": "Хван овогт",
+    "hanja": "黃氏",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "황야",
+    "translation": "Цөл",
+    "hanja": "荒野",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황어",
+    "translation": "шар загас",
+    "hanja": "黃魚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황옥",
+    "translation": "шар өнгөтэй хаш",
+    "hanja": "黃玉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황우",
+    "translation": "шар үхэр",
+    "hanja": "黃牛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황운",
+    "translation": "шар үүл",
+    "hanja": "黃雲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황월",
+    "translation": "шаргал сар",
+    "hanja": "黃月",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황위",
+    "translation": "хаан ширээ",
+    "hanja": "皇位",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황은",
+    "translation": "эзэн хааны ач ивээл",
+    "hanja": "皇恩",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황인종",
+    "translation": "шар арьстан",
+    "hanja": "黃人種",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황자",
+    "translation": "хунтайж",
+    "hanja": "皇子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황장",
+    "translation": "шар мод",
+    "hanja": "黃腸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황정",
+    "translation": "шар үнэг",
+    "hanja": "黃精",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황제",
+    "translation": "Эзэн хаан",
+    "hanja": "皇帝",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "황조",
+    "translation": "хоосон байдал",
+    "hanja": "荒兆",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황족",
+    "translation": "хааны гэр бүл",
+    "hanja": "皇族",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황종",
+    "translation": "хөгжмийн арван хоёр авианы эхнийх",
+    "hanja": "黃鍾",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황주",
+    "translation": "шар дарсыг; Хуанжү (газрын нэр)",
+    "hanja": "黃酒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "황지",
+    "translation": "элсэрхэг газар",
+    "hanja": "荒地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황진이",
+    "translation": "Хуан Жин-и (хүний нэр)",
+    "hanja": "黃眞伊",
+    "pos": "Proper Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "황차",
+    "translation": "шар цай",
+    "hanja": "黃茶",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "황천",
+    "translation": "Там, үхэгсдийн орон",
+    "hanja": "黃泉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황철석",
+    "translation": "баринт",
+    "hanja": "黃鐵石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황축",
+    "translation": "Шаргал тэнхлэг",
+    "hanja": "黃軸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황충",
+    "translation": "Царцаа / Шавьж",
+    "hanja": "蝗蟲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황태",
+    "translation": "Хатаасан минтай загас",
+    "hanja": "黃太",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "황태국",
+    "translation": "хуурай Минтай загасны шөл",
+    "hanja": "黃太국",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "황태자",
+    "translation": "хунтайж",
+    "hanja": "皇太子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "황탯국",
+    "translation": "хатаасан минжний шөл",
+    "hanja": "黃太국",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "황토",
+    "translation": "Шар шавар",
+    "hanja": "黃土",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "황토색",
+    "translation": "шар шороон өнгө, хөрсний өнгө",
+    "hanja": "黃土色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "황톳길",
+    "translation": "шавар зам",
+    "hanja": "黃土길",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황톳빛",
+    "translation": "шар шороон өнгө",
+    "hanja": "黃土빛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황폐",
+    "translation": "сүйтгэгдсэн, эзгүй",
+    "hanja": "荒廢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황폐하다",
+    "translation": "Сүйрэх",
+    "hanja": "荒廢하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "황폐화",
+    "translation": "хоосрол",
+    "hanja": "荒廢化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황폐화되다",
+    "translation": "сүйтгэгдэх",
+    "hanja": "荒廢化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황필",
+    "translation": "худал будалт",
+    "hanja": "黃筆",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "황하다",
+    "translation": "эзгүйрэх",
+    "hanja": "荒하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황해남도",
+    "translation": "Хванхэнамду муж",
+    "hanja": "黃海南道",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "황해도",
+    "translation": "Хванхэ муж",
+    "hanja": "黃海道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황해북도",
+    "translation": "Умард Хванхэ муж",
+    "hanja": "黃海北道",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황허",
+    "translation": "Хуанхэ",
+    "hanja": "黃河",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "황형",
+    "translation": "ах дүүс",
+    "hanja": "黃荊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황혼",
+    "translation": "бүрэнхий",
+    "hanja": "黃昏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황혼기",
+    "translation": "бүрэнхий цаг; амьдралын сүүл үе",
+    "hanja": "黃昏期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황홀",
+    "translation": "гайхамшигтай, сэтгэл татам",
+    "hanja": "恍惚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황홀감",
+    "translation": "Сэтгэл хөөрөл",
+    "hanja": "恍惚感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황홀경",
+    "translation": "гайхамшигт үзэгдэл",
+    "hanja": "황홀경(恍惚境)",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황홀하다",
+    "translation": "гайхамшигтай, сэтгэл татам",
+    "hanja": "恍惚하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "황홀히",
+    "translation": "Гайхамшигтайгаар, сэтгэл татам",
+    "hanja": "恍惚히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황화",
+    "translation": "Хүхэрдэх, шарах",
+    "hanja": "黃禍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황황히",
+    "translation": "яаран сандран",
+    "hanja": "遑遑-",
+    "pos": "Adverb",
+    "cefr": "C2"
+  },
+  {
+    "word": "황후",
+    "translation": "хатан хаан",
+    "hanja": "皇后",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

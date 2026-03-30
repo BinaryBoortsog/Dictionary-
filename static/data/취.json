@@ -1,0 +1,499 @@
+[
+  {
+    "word": "취",
+    "translation": "согтсон",
+    "hanja": "醉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "취객",
+    "translation": "Согтуу хүн",
+    "hanja": "醉客",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취구",
+    "translation": "үлээн амсар",
+    "hanja": "吹口",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "취국",
+    "translation": "насны цэцэг",
+    "hanja": "醉菊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취급",
+    "translation": "хандах",
+    "hanja": "取扱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취급당하다",
+    "translation": "харьцуулагдах, авч үзэгдэх",
+    "hanja": "取扱當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "취급되다",
+    "translation": "Харилцаж байх",
+    "hanja": "取扱되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취급하다",
+    "translation": "Харилцах, удирдах",
+    "hanja": "取扱하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "취나물",
+    "translation": "чвинамүль (уулнаас түүс мөөг, ногоо)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취득",
+    "translation": "олж авах",
+    "hanja": "取得",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "취득세",
+    "translation": "олж авсны татвар",
+    "hanja": "取得稅",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "취득하다",
+    "translation": "олж авах",
+    "hanja": "取得하다",
+    "pos": "үйл",
+    "cefr": "B2"
+  },
+  {
+    "word": "취락",
+    "translation": "суурин",
+    "hanja": "聚落",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "취리히",
+    "translation": "Цюрих (газар нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "취미",
+    "translation": "Хобби",
+    "hanja": "趣味",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "취사",
+    "translation": "хоол хийх",
+    "hanja": "炊事",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "취사병",
+    "translation": "Гал тогооны цэрэг",
+    "hanja": "炊事兵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취사선택",
+    "translation": "Сонгож хэрэглэх",
+    "hanja": "取捨選擇",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "취사선택하다",
+    "translation": "сонгож авах",
+    "hanja": "取捨選擇하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "취사장",
+    "translation": "гал тогоо, хоол бэлтгэх газар",
+    "hanja": "炊事場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "취사하다",
+    "translation": "хоол хийх",
+    "hanja": "炊事하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "취소",
+    "translation": "цуцлах",
+    "hanja": "取消",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "취소되다",
+    "translation": "Цуцлагдах",
+    "hanja": "取消되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "취소하다",
+    "translation": "цуцлах",
+    "hanja": "取消하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "취수",
+    "translation": "ус татах",
+    "hanja": "取水",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "취식",
+    "translation": "идэх",
+    "hanja": "取食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취약",
+    "translation": "Эмзэг",
+    "hanja": "脆弱",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취약성",
+    "translation": "эмзэг байдал, сул тал",
+    "hanja": "脆弱性",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "취약점",
+    "translation": "Сул тал",
+    "hanja": "脆弱點",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "취약하다",
+    "translation": "Эмзэг",
+    "hanja": "脆弱하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "취업",
+    "translation": "ажилд орох",
+    "hanja": "就業",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "취업률",
+    "translation": "ажлын байрны түвшин",
+    "hanja": "就業率",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "취업자",
+    "translation": "ажилтан",
+    "hanja": "就業者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "취업하다",
+    "translation": "Ажилд орох",
+    "hanja": "就業하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "취역하다",
+    "translation": "Албанд орох, үүрэг гүйцэтгэх",
+    "hanja": "就役하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "취이",
+    "translation": "Чигжиж оруулах",
+    "hanja": "취이",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "취임",
+    "translation": "албан тушаалд орох, тангараг өргөх",
+    "hanja": "就任",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "취임사",
+    "translation": "тангарагийн үг",
+    "hanja": "就任辭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "취임식",
+    "translation": "тангарагийн ёслол",
+    "hanja": "就任式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취임하다",
+    "translation": "албан тушаалд орох",
+    "hanja": "就任하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "취재",
+    "translation": "Сэтгүүл зүйн сурвалжлага",
+    "hanja": "取材",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "취재되다",
+    "translation": "судлагдах",
+    "hanja": "取材되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취재원",
+    "translation": "мэдээллийн эх сурвалж",
+    "hanja": "取材源",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취재진",
+    "translation": "сурвалжлагч баг",
+    "hanja": "取材陣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취재하다",
+    "translation": "мэдээлэл цуглуулах",
+    "hanja": "取材─",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "취저",
+    "translation": "миний таалалд нийцсэн",
+    "hanja": "趣狙",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취조",
+    "translation": "Байцаалт",
+    "hanja": "取調",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취조관",
+    "translation": "мөрдөн байцаагч",
+    "hanja": "取調官",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "취조실",
+    "translation": "байцаалтын өрөө",
+    "hanja": "取調室",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "취조하다",
+    "translation": "мөрдөн байцаах, байцаах",
+    "hanja": "取調하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "취준",
+    "translation": "ажлын хайлт",
+    "hanja": "就準",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취중",
+    "translation": "согтуу",
+    "hanja": "醉中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취지",
+    "translation": "зорилго, утга учир",
+    "hanja": "趣旨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "취직",
+    "translation": "ажилд орох",
+    "hanja": "就職",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "취직되다",
+    "translation": "ажилд орох",
+    "hanja": "就職되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "취직시키다",
+    "translation": "ажилд оруулах",
+    "hanja": "就職시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "취직자리",
+    "translation": "ажлын байр",
+    "hanja": "就職자리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취직하다",
+    "translation": "ажилд орох",
+    "hanja": "就職-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "취침",
+    "translation": "унтах",
+    "hanja": "就寢",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "취침하다",
+    "translation": "унтах",
+    "hanja": "就寢하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "취하",
+    "translation": "Татан авах, цуцлах",
+    "hanja": "取下",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취하다",
+    "translation": "авах",
+    "hanja": "取하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "취하되다",
+    "translation": "хүчингүй болгох, буцаагдах",
+    "hanja": "取下되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "취하하다",
+    "translation": "цуцлах",
+    "hanja": "取下하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취학",
+    "translation": "сургуульд орох",
+    "hanja": "就學",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "취합",
+    "translation": "цуглуулах, нэгтгэх",
+    "hanja": "聚合",
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "취합되다",
+    "translation": "цуглуулагдах, нэгтгэгдэх",
+    "hanja": "聚合되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취합하다",
+    "translation": "цуглуулах, нэгтгэх",
+    "hanja": "聚合하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취항",
+    "translation": "онгоц зогсох",
+    "hanja": "就航",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "취항하다",
+    "translation": "замналыг эхлэх",
+    "hanja": "就航하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "취향",
+    "translation": "амт",
+    "hanja": "趣向",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

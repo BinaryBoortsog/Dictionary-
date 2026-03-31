@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Layout from '@theme/Layout';
 import DictionarySidebar from '@site/src/components/DictionarySidebar';
 import useBaseUrl from '@docusaurus/useBaseUrl';
+import BottomNav from '@site/src/components/BottomNav';
 
 interface WordEntry {
   word: string;
@@ -101,19 +102,40 @@ export default function DictionaryPage() {
   return (
     <Layout title="kooOKIE Dictionary">
       <style>{`
-        .hero-container { display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 2rem 1rem; }
-        .logo-title-row { display: flex; align-items: center; justify-content: center; gap: 15px; }
-        .hero-title { font-size: 3.5rem; font-weight: 800; margin: 0; line-height: 1; }
-        .custom-input { width: 100%; max-width: 600px; padding: 14px 25px; font-size: 1.1rem; border-radius: 50px; border: 2px solid var(--ifm-color-primary); outline: none; box-shadow: var(--ifm-global-shadow-md); }
+        :root { --card-bg: var(--ifm-color-emphasis-0); }
+        .hero-container { display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 3rem 1rem; }
+        .logo-title-row { display: flex; align-items: center; justify-content: center; gap: 18px; }
+        .hero-title { font-size: 3.2rem; font-weight: 900; margin: 0; line-height: 1; letter-spacing: -1px }
+        .custom-input { width: 100%; max-width: 680px; padding: 14px 20px 14px 48px; font-size: 1.05rem; border-radius: 999px; border: 1px solid rgba(0,0,0,0.08); outline: none; box-shadow: 0 6px 20px rgba(2,6,23,0.08); transition: box-shadow .18s ease, transform .08s ease; background: #fff; }
+        .search-wrap { position: relative; }
+        .search-icon { position: absolute; left: 16px; top: 50%; transform: translateY(-50%); color: #94a3b8; font-size: 20px }
+        .custom-input:focus { box-shadow: 0 10px 30px rgba(2,6,23,0.12); transform: translateY(-1px) }
+
+        /* Desktop minimum height */
+        .dictionary-main { min-height: calc(100vh - 200px); }
+
+        .card.shadow--sm { border-radius: 12px; overflow: hidden; }
+        .card__body { padding: 14px 16px; }
+        .results-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; }
+        .result-card { background: var(--card-bg); border: 1px solid rgba(0,0,0,0.04); border-radius: 12px; transition: transform .12s ease, box-shadow .12s ease; height:100%; display:flex; align-items:flex-start }
+        .result-card:hover { transform: translateY(-6px); box-shadow: 0 12px 30px rgba(2,6,23,0.08) }
+        .result-body { padding: 14px; }
+        .result-word { font-weight: 800; font-size: 1.05rem; display:block }
+        .result-translation { margin-top:6px; color: rgba(2,6,23,0.7); font-size:0.9rem }
+        .badge-small { display:inline-block; padding:4px 8px; border-radius:999px; font-size:0.7rem; background: rgba(2,6,23,0.06); color: var(--ifm-color-primary); margin-left:8px }
+
         @media (max-width: 768px) {
           .logo-title-row { flex-direction: column; gap: 5px; }
-          .hero-title { font-size: 2.5rem !important; }
-          .sidebar-column { order: 2; margin-top: 2rem; }
+          .hero-title { font-size: 2.4rem !important; }
+          .sidebar-column { order: 2; margin-top: 1.25rem; }
           .results-column { order: 1; }
+
+          /* Prevent results from hiding under the bottom navbar */
+          .dictionary-main { padding-bottom: 120px !important; }
         }
       `}</style>
 
-      <main className="container margin-vert--lg">
+      <main className="container margin-vert--lg dictionary-main">
         <div className="hero-container">
           <div className="logo-title-row">
             <img src={logoUrl} alt="logo" style={{ width: 72, height: 72, borderRadius: 12, objectFit: 'contain' }} />
@@ -152,18 +174,16 @@ export default function DictionaryPage() {
                 </div>
               </div>
             ) : (
-              <div className="row">
-                {results.map((r, i) => (
-                  <div key={i} className="col col--6 col--md-4 margin-bottom--md">
-                    <div className="card shadow--sm" onClick={() => { setSelected(r); window.scrollTo({ top: 150, behavior: 'smooth' }); }} style={{ cursor: 'pointer', height: '100%' }}>
-                      <div className="card__body">
-                        <strong>{r.word}</strong>
-                        <p style={{ margin: 0, fontSize: '0.85rem', opacity: 0.8 }}>{r.translation}</p>
+                <div className="results-grid">
+                  {results.map((r, i) => (
+                    <div key={i} className="result-card" role="button" onClick={() => { setSelected(r); window.scrollTo({ top: 150, behavior: 'smooth' }); }}>
+                      <div className="result-body">
+                        <span className="result-word">{r.word} <span className="badge-small">{r.pos || ''}</span></span>
+                        <span className="result-translation">{r.translation} {r.cefr ? <span className="badge-small">{r.cefr}</span> : null}</span>
                       </div>
                     </div>
-                  </div>
-                ))}
-              </div>
+                  ))}
+                </div>
             )}
           </section>
 
@@ -172,6 +192,9 @@ export default function DictionaryPage() {
           </aside>
         </div>
       </main>
+
+      {/* Renders the App-like Navbar at the bottom on Mobile devices */}
+      <BottomNav />
     </Layout>
   );
 }

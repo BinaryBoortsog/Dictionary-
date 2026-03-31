@@ -1,0 +1,100 @@
+[
+  {
+    "word": "쌀",
+    "translation": "будаа",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "쌀가게",
+    "translation": "будааны дэлгүүр",
+    "hanja": "쌀가게",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쌀가루",
+    "translation": "Будааны гурил",
+    "hanja": "쌀가루",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "쌀다",
+    "translation": "боох, ороох",
+    "hanja": "쌀다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쌀독",
+    "translation": "будааны сав",
+    "hanja": "쌀독",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쌀뜨물",
+    "translation": "Будааны ус",
+    "hanja": "쌀뜨물",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쌀랑하다",
+    "translation": "хүйтэн, сэрүүн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쌀밥",
+    "translation": "будааны таваг",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "쌀쌀",
+    "translation": "хүйтэн, жиндүү",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쌀쌀맞다",
+    "translation": "хүйтэн ханддаг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쌀쌀하다",
+    "translation": "сэрүүхэн",
+    "hanja": "null",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "쌀알",
+    "translation": "будааны үр",
+    "hanja": "쌀알",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쌀집",
+    "translation": "будааны дэлгүүр",
+    "hanja": "쌀집",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "쌀통",
+    "translation": "будааны сав",
+    "hanja": "쌀통",
+    "pos": "명사",
+    "cefr": "A2"
+  }
+]

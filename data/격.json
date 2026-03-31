@@ -1,0 +1,569 @@
+[
+  {
+    "word": "격",
+    "translation": "Түвшин",
+    "hanja": "格",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "격감하다",
+    "translation": "эрс багасах",
+    "hanja": "激減하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "격구",
+    "translation": "Поло тоглоом (морин спорт)",
+    "hanja": "擊球",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "격납고",
+    "translation": "ангар",
+    "hanja": "格納庫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격년",
+    "translation": "хоёр жилд нэг удаа",
+    "hanja": "隔年",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "격노",
+    "translation": "уурлах, эгдүүцэх",
+    "hanja": "激怒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격노하다",
+    "translation": "маш их уурлах",
+    "hanja": "격노(激怒)하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "격돌",
+    "translation": "Мөргөлдөх",
+    "hanja": "激突",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "격돌하다",
+    "translation": "мөргөлдөх",
+    "hanja": "激突하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "격동",
+    "translation": "хөдөлгөөн, үймээн",
+    "hanja": "激動",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "격동기",
+    "translation": "хүнд хэцүү үе",
+    "hanja": "激動期",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격동하다",
+    "translation": "хөдөлгөөнд орох",
+    "hanja": "激動하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "격랑",
+    "translation": "Хүчтэй долгион",
+    "hanja": "激浪",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "격려",
+    "translation": "урамшуулал, зөвлөгөө",
+    "hanja": "激勵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격려금",
+    "translation": "урамшуулал",
+    "hanja": "激勵金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격려사",
+    "translation": "урам зориг өгөх үг",
+    "hanja": "激勵辭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격려하다",
+    "translation": "Урамшуулах",
+    "hanja": "激勵하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "격렬하다",
+    "translation": "ширүүн",
+    "hanja": "激烈하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격렬히",
+    "translation": "ширүүн, хүчтэйгээр",
+    "hanja": "激烈히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격론",
+    "translation": "халуун мэтгэлцээн",
+    "hanja": "激論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격류",
+    "translation": "хүчтэй урсгал",
+    "hanja": "激流",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격리",
+    "translation": "тусгаарлах, хорио цээр",
+    "hanja": "隔離",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격리되다",
+    "translation": "Тусгаарлагдах",
+    "hanja": "隔離되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "격리하다",
+    "translation": "тусгаарлах",
+    "hanja": "隔離하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격무",
+    "translation": "хүнд ажил",
+    "hanja": "激務",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격문",
+    "translation": "уриалга",
+    "hanja": "檄文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격물",
+    "translation": "Физикийн ухаан судлах",
+    "hanja": "格物",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "격발",
+    "translation": "буудах, идэвхжүүлэх",
+    "hanja": "激發",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격발하다",
+    "translation": "Гал авалцах, шатаж эхлэх",
+    "hanja": "激發하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "격벽",
+    "translation": "хаалт, босоо хана",
+    "hanja": "隔壁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격변",
+    "translation": "Эрс өөрчлөлт, хувьсал",
+    "hanja": "激變",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "격변기",
+    "translation": "эрчимтэй өөрчлөлтийн үе",
+    "hanja": "激變期",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격변하다",
+    "translation": "ихээр өөрчлөгдөх, огцом өөрчлөгдөх",
+    "hanja": "激變하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "격분",
+    "translation": "уур хилэн",
+    "hanja": "激憤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격분하다",
+    "translation": "хилэгнэх",
+    "hanja": "激憤–",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격상",
+    "translation": "дэмжих",
+    "hanja": "格上",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격상되다",
+    "translation": "зэрэг ахих",
+    "hanja": "格上되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "격상하다",
+    "translation": "Зэрэглэл ахих, дэвших",
+    "hanja": "格上하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격서",
+    "translation": "захидал, танилцуулга",
+    "hanja": "檄書",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "격세지감",
+    "translation": "хуучин цагийн сэтгэгдэл",
+    "hanja": "隔世之感",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "격식",
+    "translation": "ёс зүй, ёс журам",
+    "hanja": "格式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격실",
+    "translation": "тасалгаа",
+    "hanja": "隔室",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "격심하다",
+    "translation": "хүнд, ноцтой, маш хэцүү",
+    "hanja": "激甚하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격앙",
+    "translation": "Бачимдах, сэрүүцэх",
+    "hanja": "激昻",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "격앙되다",
+    "translation": "уурлах, хилэгнэх",
+    "hanja": "激昂되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "격앙하다",
+    "translation": "уурлах, бухимдах",
+    "hanja": "激昂—",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격양되다",
+    "translation": "хөөрөх",
+    "hanja": "激揚되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격언",
+    "translation": "сургаал, үг, зүйр үг",
+    "hanja": "格言",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격월",
+    "translation": "хоёр сард нэг удаа",
+    "hanja": "隔月",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "격일",
+    "translation": "Хоёр өдөр тутам",
+    "hanja": "隔日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "격자",
+    "translation": "тор",
+    "hanja": "格子",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "격전",
+    "translation": "ширүүн тулаан",
+    "hanja": "激戰",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "격전지",
+    "translation": "тулааны талбар",
+    "hanja": "激戰地",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "격정",
+    "translation": "хүчтэй сэтгэл хөдлөл",
+    "hanja": "激情",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "격정적",
+    "translation": "Сэтгэл хөдлөм, хүчтэй",
+    "hanja": "激情的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격조",
+    "translation": "нэр алдар, хүндэтгэл",
+    "hanja": "隔阻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격조하다",
+    "translation": "удаан уулзаагүй",
+    "hanja": "隔阻하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격주",
+    "translation": "Хоёр долоо хоногт нэг удаа",
+    "hanja": "隔週",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "격차",
+    "translation": "Ялгаа",
+    "hanja": "格差",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격찬",
+    "translation": "Өндөр магтаал",
+    "hanja": "激讚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격추",
+    "translation": "буудан унагах",
+    "hanja": "擊墜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격추되다",
+    "translation": "буудуулж унах, доош унах",
+    "hanja": "擊墜되다",
+    "pos": "동사 (Verb)",
+    "cefr": "C1"
+  },
+  {
+    "word": "격추하다",
+    "translation": "буудаж унагах",
+    "hanja": "擊墜하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격침",
+    "translation": "сөнөөх, живүүлэх",
+    "hanja": "擊沈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격침되다",
+    "translation": "живсэнд суух",
+    "hanja": "擊沈되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "격침하다",
+    "translation": "живүүлэх",
+    "hanja": "擊沈하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "격통",
+    "translation": "хурц өвдөлт",
+    "hanja": "激痛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격퇴",
+    "translation": "цохилт өгөх",
+    "hanja": "擊退",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격퇴하다",
+    "translation": "буцаах, няцаах",
+    "hanja": "擊退하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격투",
+    "translation": "тулаан",
+    "hanja": "格鬪",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "격투기",
+    "translation": "тулааны спорт",
+    "hanja": "格鬪技",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격투하다",
+    "translation": "Тэмцэлдэх, тулалдах",
+    "hanja": "格鬪하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격파",
+    "translation": "ялах",
+    "hanja": "擊破",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "격파하다",
+    "translation": "Бут цохих, ялах",
+    "hanja": "擊破하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격하",
+    "translation": "зэрэг буурах",
+    "hanja": "格下",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격하다",
+    "translation": "ширүүн, хүчтэй",
+    "hanja": "激하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "격하되다",
+    "translation": "зэрэг буурах",
+    "hanja": "降格되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "격화",
+    "translation": "хурцдах, ширүүсэх",
+    "hanja": "激化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격화되다",
+    "translation": "ширүүсэх",
+    "hanja": "激化되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "격화시키다",
+    "translation": "хурцатгах, ширүүн болгох",
+    "hanja": "激化시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격화하다",
+    "translation": "хурцдах, ширүүсэх",
+    "hanja": "激化하다",
+    "pos": "verb",
+    "cefr": "C1"
+  }
+]

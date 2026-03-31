@@ -1,0 +1,1794 @@
+[
+  {
+    "word": "성",
+    "translation": "хүйс",
+    "hanja": "性",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성가",
+    "translation": "сүмд дуулах дуу",
+    "hanja": "聖歌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성가대",
+    "translation": "сүм хийдийн найрал дуучид",
+    "hanja": "聖歌隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성가시다",
+    "translation": "залхуутай, хэцүү",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성가퀴",
+    "translation": "хэрмийн орой",
+    "hanja": "城가퀴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성감대",
+    "translation": "мэдрэмтгий хэсэг",
+    "hanja": "性感帶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성검",
+    "translation": "ариун сэлэм",
+    "hanja": "聖劍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성게",
+    "translation": "Далайн зараа",
+    "hanja": "海膽",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성격",
+    "translation": "зан чанар",
+    "hanja": "性格",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성견",
+    "translation": "насанд хүрсэн нохой",
+    "hanja": "成犬",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "성결",
+    "translation": "ариун, ариусгал",
+    "hanja": "聖潔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성결하다",
+    "translation": "ариун",
+    "hanja": "聖潔하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성경",
+    "translation": "библи",
+    "hanja": "聖經",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성계",
+    "translation": "оддын систем",
+    "hanja": "星系",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성골",
+    "translation": "язгууртан, онцгой угсаа",
+    "hanja": "聖骨",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "성공",
+    "translation": "амжилт",
+    "hanja": "成功",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성공률",
+    "translation": "амжилтын хувь",
+    "hanja": "成功率",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "성공리",
+    "translation": "성공적으로",
+    "hanja": "成功裏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성공시키다",
+    "translation": "Амжилттай болгох",
+    "hanja": "成功시키다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "성공적",
+    "translation": "Амжилттай",
+    "hanja": "成功的",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "성공하다",
+    "translation": "амжилтанд хүрэх",
+    "hanja": "成功하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성과",
+    "translation": "үр дүн",
+    "hanja": "成果",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "성과급",
+    "translation": "үр дүнд суурилсан цалин",
+    "hanja": "成果給",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성곽",
+    "translation": "Цайз",
+    "hanja": "城郭",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성관",
+    "translation": "секс харилцаа",
+    "hanja": "性觀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성관계",
+    "translation": "бэлгийн харилцаа",
+    "hanja": "性關係",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성관계하다",
+    "translation": "бэлгийн харьцаанд орох",
+    "hanja": "性關係하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성광",
+    "translation": "одны гэрэл",
+    "hanja": "星光",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성괴",
+    "translation": "мэс заслын аймшиг (гутаах нэр)",
+    "hanja": "成怪",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성교",
+    "translation": "бэлгийн харьцаа, хурьцал",
+    "hanja": "性交",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성교육",
+    "translation": "бэлгийн боловсрол",
+    "hanja": "性敎育",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성교하다",
+    "translation": "бэлгийн харьцаанд орох",
+    "hanja": "性交하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성구",
+    "translation": "ариун үгс",
+    "hanja": "聖句",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성국",
+    "translation": "сүм хийд",
+    "hanja": "聖國",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성군",
+    "translation": "мэргэн хаан",
+    "hanja": "聖君",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성궤",
+    "translation": "аяны авдар (Библийн)",
+    "hanja": "聖櫃",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성규",
+    "translation": "Сонгю (нээр)",
+    "hanja": "聖圭",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "성균관",
+    "translation": "Сонгюнгван (түүхэн боловсролын байгууллага)",
+    "hanja": "成均館",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성글다",
+    "translation": "Сийрэг, хоосон, холбоогүй",
+    "hanja": "---",
+    "pos": "Adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "성금",
+    "translation": "хандив, буян",
+    "hanja": "誠金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성급",
+    "translation": "яаруу",
+    "hanja": "性急",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성급하다",
+    "translation": "яаруу сандруу",
+    "hanja": "性急하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "성급히",
+    "translation": "яаран сандран",
+    "hanja": "性急히",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "성기",
+    "translation": "Бэлгийн эрхтэн",
+    "hanja": "性器",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성기다",
+    "translation": "сирхэг, ховор",
+    "hanja": null,
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "성깔",
+    "translation": "зан араншин, ааш",
+    "hanja": "性깔",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성나다",
+    "translation": "уурлах",
+    "hanja": "성나다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성남",
+    "translation": "Соннам хот",
+    "hanja": "城南",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성내다",
+    "translation": "Уурлах, 화나다",
+    "hanja": "성내다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성냥",
+    "translation": "чүдэнз",
+    "hanja": "성냥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성냥갑",
+    "translation": "Чүдэнзний хайрцаг",
+    "hanja": "성냥匣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성냥개비",
+    "translation": "шүдэнз",
+    "hanja": "성냥개비",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "성냥불",
+    "translation": "Чүдэнзний гал",
+    "hanja": "성냥불",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "성냥팔이",
+    "translation": "кибритчин (кибрит зардаг хүн)",
+    "hanja": "성냥팔이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성녀",
+    "translation": "гэгээн эмэгтэй",
+    "hanja": "聖女",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성년",
+    "translation": "насанд хүрсэн",
+    "hanja": "成年",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성년식",
+    "translation": "насанд хүрэгчдийн баяр",
+    "hanja": "成年式",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성능",
+    "translation": "гүйцэтгэл",
+    "hanja": "性能",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성단",
+    "translation": "оддын бөөгнөрөл",
+    "hanja": "星團",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성당",
+    "translation": "сүм",
+    "hanja": "聖堂",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성대",
+    "translation": "хоолойн утсууд",
+    "hanja": "聲帶",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성대모사",
+    "translation": "Дуу хоолой дуурайх",
+    "hanja": "聲帶模寫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성대하다",
+    "translation": "сүр жавхлантай байх",
+    "hanja": "盛大하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성대히",
+    "translation": "сүр жавхлантай",
+    "hanja": "盛大히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성덕",
+    "translation": "фанат",
+    "hanja": "成德",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성도",
+    "translation": "нийслэл",
+    "hanja": "成都",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성동",
+    "translation": "Сонгдонг (газарзүйн нэр)",
+    "hanja": "星東",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성동격서",
+    "translation": "Дорно зүгт сүрдүүлж, өрнө зүгт цохилт өгөх",
+    "hanja": "聲東擊西",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "성란",
+    "translation": "одны манан",
+    "hanja": "星亂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성래",
+    "translation": "ирэх",
+    "hanja": "成來",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성량",
+    "translation": "дууны хэмжээ",
+    "hanja": "聲量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성령",
+    "translation": "ариун сүнс",
+    "hanja": "聖靈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성례",
+    "translation": "ариун ёслол",
+    "hanja": "聖禮",
+    "pos": "명са",
+    "cefr": "B2"
+  },
+  {
+    "word": "성루",
+    "translation": "цайзын далан",
+    "hanja": "城樓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성리",
+    "translation": "амжилт, ялалт",
+    "hanja": "成利",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성리학",
+    "translation": "Сүн сурган",
+    "hanja": "性理學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성립",
+    "translation": "байгуулагдах, тогтох",
+    "hanja": "成立",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성립되다",
+    "translation": "Бий болох",
+    "hanja": "成立되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성립시키다",
+    "translation": "үүсгэх, бүрдүүлэх, бий болгох",
+    "hanja": "成立시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성립하다",
+    "translation": "Байгуулагдах",
+    "hanja": "成立하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성마르다",
+    "translation": "уурламтгай",
+    "hanja": "性─",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성막",
+    "translation": "Ариун майхан",
+    "hanja": "聖幕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성명",
+    "translation": "Мэдэгдэл",
+    "hanja": "聲明",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "성명서",
+    "translation": "Мэдэгдэл, тунхаг",
+    "hanja": "聲明書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성명하다",
+    "translation": "мэдэгдэх",
+    "hanja": "聲明하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성모",
+    "translation": "ариун эх",
+    "hanja": "聖母",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성묘",
+    "translation": "өвөг дээдсийн булшинд зочлох",
+    "hanja": "省墓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성묘객",
+    "translation": "оршуулганд ирэгсэд",
+    "hanja": "省墓客",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성묘하다",
+    "translation": "өвөг дээдсийн шарил дээр очих",
+    "hanja": "省墓하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성무",
+    "translation": "Ариун үүрэг",
+    "hanja": "聖務",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성문",
+    "translation": "хотын хаалга",
+    "hanja": "城門",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성문법",
+    "translation": "Бичигдсэн хууль, хуульчилсан хууль",
+    "hanja": "成文法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성물",
+    "translation": "ариун эдлэл, бурхан шашны эд зүйл",
+    "hanja": "聖物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성미",
+    "translation": "загнах, ааш",
+    "hanja": "性味",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성배",
+    "translation": "ариун аяга",
+    "hanja": "聖杯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성범죄",
+    "translation": "Бэлгийн хүчирхийлэл",
+    "hanja": "性犯罪",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "성벽",
+    "translation": "хэрмийн хана",
+    "hanja": "城壁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성별",
+    "translation": "хүйс",
+    "hanja": "性別",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "성별하다",
+    "translation": "Ялгах, ангилах",
+    "hanja": "性別하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성병",
+    "translation": "бэлгийн замын халдварт өвчин",
+    "hanja": "性病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성보",
+    "translation": "баялаг, эрдэнэс",
+    "hanja": "聖寶",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "성복",
+    "translation": "оршуулах хувцас",
+    "hanja": "成服",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성부",
+    "translation": "Эцэг, хөгжмийн бадаг",
+    "hanja": "聲部",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성북",
+    "translation": "Сонгбук",
+    "hanja": "城北",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성분",
+    "translation": "бүрэлдэхүүн",
+    "hanja": "成分",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성불",
+    "translation": "гэгээрэл, бурхан болох",
+    "hanja": "成佛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성불하다",
+    "translation": "гэгээрэх",
+    "hanja": "成佛하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "성비",
+    "translation": "хүйсийн харьцаа",
+    "hanja": "性比",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성사",
+    "translation": "Биелэл, амжилт",
+    "hanja": "成事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성사되다",
+    "translation": "Хэрэгжих",
+    "hanja": "成事되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성사시키다",
+    "translation": "амжилттай болгох",
+    "hanja": "成事시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성사하다",
+    "translation": "Биелүүлэх, амжилттай дуусгах",
+    "hanja": "成事하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "성산",
+    "translation": "ариун уул",
+    "hanja": "聖山",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성상",
+    "translation": "хэлбэр дүрс, байдал",
+    "hanja": "性狀/聖像",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성생활",
+    "translation": "бэлгийн амьдрал",
+    "hanja": "性生活",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성서",
+    "translation": "Библи",
+    "hanja": "聖書",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성선설",
+    "translation": "хүний мөн чанар сайн гэх онол",
+    "hanja": "性善說",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성성하다",
+    "translation": "хов хоосон, сийрэг",
+    "hanja": "惺惺하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성소",
+    "translation": "Ариун газар",
+    "hanja": "聖所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성수",
+    "translation": "ариун ус",
+    "hanja": "聖水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성수기",
+    "translation": "Оргил үе",
+    "hanja": "盛需期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성숙",
+    "translation": "Төлөвшил",
+    "hanja": "成熟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성숙기",
+    "translation": "боловсролын үе, төлөвших үе",
+    "hanja": "成熟期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성숙도",
+    "translation": "Боловсролын түвшин",
+    "hanja": "成熟度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성숙되다",
+    "translation": "боловсрох",
+    "hanja": "成熟되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성숙시키다",
+    "translation": "үдийн цайны цаг",
+    "hanja": "成熟시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성숙하다",
+    "translation": "боловсрох",
+    "hanja": "成熟하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성스럽다",
+    "translation": "ариун дагшин",
+    "hanja": "聖스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성시",
+    "translation": "хот",
+    "hanja": "城市",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성식",
+    "translation": "Нэр ба овог",
+    "hanja": "姓氏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성신",
+    "translation": "Ариун сүнс",
+    "hanja": "聖神",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성실",
+    "translation": "Үнэнч шударга, чин сэтгэл",
+    "hanja": "誠實",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성실성",
+    "translation": "үнэнч шударга байдал",
+    "hanja": "誠實性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성실하다",
+    "translation": "үнэнч шударга байх",
+    "hanja": "誠實하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "성실히",
+    "translation": "Үнэнчээр, чин сэтгэлээсээ",
+    "hanja": "誠實히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성심",
+    "translation": "чин сэтгэл, үнэнч байдал",
+    "hanja": "誠心",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "성심껏",
+    "translation": "чин сэтгэлээсээ, бүх зүрх сэтгэлээрээ",
+    "hanja": "誠心껏",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성싶다",
+    "translation": "- 것 шиг байна, - юм шиг байна",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "성씨",
+    "translation": "овог",
+    "hanja": "姓氏",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성악",
+    "translation": "дуулах урлаг",
+    "hanja": "聲樂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성악가",
+    "translation": "Дуучин, вокалист",
+    "hanja": "聲樂家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성악곡",
+    "translation": "дуурийн аялгуу",
+    "hanja": "聲樂曲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성악설",
+    "translation": "хүний мөн чанар муу гэсэн онол",
+    "hanja": "性惡說",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "성악하다",
+    "translation": "성악하다 (성품이 악하다)",
+    "hanja": "性惡하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성안",
+    "translation": "хүлээн авах, санал болгох",
+    "hanja": "成案",
+    "pos": "м.н",
+    "cefr": "B2"
+  },
+  {
+    "word": "성애",
+    "translation": "хайрлал",
+    "hanja": "性愛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성약",
+    "translation": "гэрээ",
+    "hanja": "聖約",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성어",
+    "translation": "ердийн хэлц, зүйр үг",
+    "hanja": "成語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성업",
+    "translation": "Бизнес амжилттай явагдах, цэцэглэх",
+    "hanja": "盛業",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성에",
+    "translation": "хяруу, цан",
+    "hanja": "霜",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성역",
+    "translation": "ариун газар",
+    "hanja": "聖域",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "성열",
+    "translation": "насны ялгаа",
+    "hanja": "性悅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성영",
+    "translation": "одны сүүдэр",
+    "hanja": "星影",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성오",
+    "translation": "ариун таван",
+    "hanja": "聖五",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성옥",
+    "translation": "баталгаажуулалт",
+    "hanja": "成玉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성왕",
+    "translation": "ариун хаан",
+    "hanja": "聖王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성욕",
+    "translation": "бэлгийн дур хүсэл",
+    "hanja": "性慾",
+    "pos": "м",
+    "cefr": "B2"
+  },
+  {
+    "word": "성용",
+    "translation": "Одгүй",
+    "hanja": "成龍",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성우",
+    "translation": "дууны жүжигчин",
+    "hanja": "聲優",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성운",
+    "translation": "мананцар",
+    "hanja": "星雲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성웅",
+    "translation": "баатар, аугаа баатар",
+    "hanja": "聖雄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성원하다",
+    "translation": "Дэмжих",
+    "hanja": "聲援하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성유",
+    "translation": "ариун тос",
+    "hanja": "聖油",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성읍",
+    "translation": "Хотын хана",
+    "hanja": "城邑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성의",
+    "translation": "чин сэтгэл",
+    "hanja": "誠意",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성의껏",
+    "translation": "чин сэтгэлээсээ",
+    "hanja": "誠意껏",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성이",
+    "translation": "овог нэр",
+    "hanja": "姓이",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "성인",
+    "translation": "насанд хүрсэн хүн",
+    "hanja": "成人",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "성인병",
+    "translation": "Насанд хүрэгчид өвчин",
+    "hanja": "成人病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성인식",
+    "translation": "Насанд хүрэгчид",
+    "hanja": "成人式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성일",
+    "translation": "ариун өдөр",
+    "hanja": "聖日",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "성자",
+    "translation": "ариун хүн",
+    "hanja": "聖者",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "성장",
+    "translation": "өсөлт, хөгжил",
+    "hanja": "成長",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성장기",
+    "translation": "Өсөлтийн үе",
+    "hanja": "成長期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성장되다",
+    "translation": "өсөх",
+    "hanja": "成長되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성장률",
+    "translation": "өсөлтийн хурд",
+    "hanja": "成長率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성장세",
+    "translation": "өсөлтийн хандлага",
+    "hanja": "成長勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성장시키다",
+    "translation": "Өсгөх",
+    "hanja": "成長시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성장통",
+    "translation": "Өсөлтийн өвдөлт",
+    "hanja": "成長痛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성장하다",
+    "translation": "Өсөн нэмэгдэх",
+    "hanja": "成長하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성적",
+    "translation": "дүн",
+    "hanja": "成績",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성적순",
+    "translation": "үнэлгээний дараалал, гүйцэтгэлийн дараалал",
+    "hanja": "成績順",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성적표",
+    "translation": "Дүнгийн хуудас",
+    "hanja": "成績表",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성전",
+    "translation": "үндсэн хууль, ариун дайн",
+    "hanja": "聖典",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "성정",
+    "translation": "зан чанар",
+    "hanja": "性情",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "성제",
+    "translation": "ариун эзэн хаан",
+    "hanja": "聖帝",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "성조",
+    "translation": "өнгө",
+    "hanja": "聲調",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성종",
+    "translation": "Сонжон(хааны нэр)",
+    "hanja": "成宗",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "성좌",
+    "translation": "одны орд",
+    "hanja": "星座",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성주",
+    "translation": "성주 (газрын нэр)",
+    "hanja": "星州",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성중",
+    "translation": "дундаж наслалт",
+    "hanja": "成中",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "성지",
+    "translation": "Ариун газар",
+    "hanja": "聖地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성직",
+    "translation": "сахиус, шашны алба",
+    "hanja": "聖職",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성직자",
+    "translation": "Шашны зүтгэлтэн",
+    "hanja": "聖職者",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "성질",
+    "translation": "зан чанар",
+    "hanja": "性質",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "성질나다",
+    "translation": "Уурлах, цухалдаж байна",
+    "hanja": "性質나다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "성질내다",
+    "translation": "Уурлах",
+    "hanja": "性質내다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성질부리다",
+    "translation": "уурлах",
+    "hanja": "성질부리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성징",
+    "translation": "хүйсний шинж тэмдэг",
+    "hanja": "性徵",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "성차별",
+    "translation": "хүйсээр ялгаварлан гадуурхах",
+    "hanja": "性差別",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성찰",
+    "translation": "өөрийгөө тунгаан бодох",
+    "hanja": "省察",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성찰하다",
+    "translation": "өөрийгөө дүгнэх",
+    "hanja": "省察하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성채",
+    "translation": "цайз, бэхлэлт",
+    "hanja": "城砦",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성천",
+    "translation": "ариун тэнгэр",
+    "hanja": "聖天",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성철",
+    "translation": "Сонгчөл",
+    "hanja": "性徹",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성첩",
+    "translation": "хэрмийн далан",
+    "hanja": "城堞",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성체",
+    "translation": "Бурхны бие",
+    "hanja": "成體",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성추행",
+    "translation": "бэлгийн хүчирхийлэл",
+    "hanja": "性醜行",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성추행당하다",
+    "translation": "бэлгийн дарамтад өртөх",
+    "hanja": "性醜行當하다",
+    "pos": "т.ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "성추행하다",
+    "translation": "бэлгийн хүчирхийлэл хийх",
+    "hanja": "性醜行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성충",
+    "translation": "Насанд хүрэгч шавьж",
+    "hanja": "成蟲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성취",
+    "translation": "Амжилт",
+    "hanja": "成就",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "성취감",
+    "translation": "амжилтын мэдрэмж",
+    "hanja": "成就感",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성취도",
+    "translation": "амжилтын түвшин",
+    "hanja": "成就度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성취되다",
+    "translation": "биелэгдэх",
+    "hanja": "聖就되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성취하다",
+    "translation": "биелүүлэх, гүйцэлдүүлэх",
+    "hanja": "成就-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성층권",
+    "translation": "стратосфер",
+    "hanja": "成層圈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성큼",
+    "translation": "хурдан алхах",
+    "hanja": "성큼",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "성큼성큼",
+    "translation": "том том алхах",
+    "hanja": "성큼성큼",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "성탄",
+    "translation": "христийн мэндэлсний баяр",
+    "hanja": "聖誕",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성탄절",
+    "translation": "Христийн мэндэлсний баяр",
+    "hanja": "聖誕節",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성탑",
+    "translation": "ариун цамхаг",
+    "hanja": "聖塔",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "성태",
+    "translation": "Сонг-Тэ (хувь хүний нэр)",
+    "hanja": "成太",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성터",
+    "translation": "хэрмийн туурь",
+    "hanja": "城터",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성토",
+    "translation": "шүүмжилсэн үг",
+    "hanja": "聲討",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성토하다",
+    "translation": "шүүмжлэх, зэмлэх",
+    "hanja": "聲討하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성패",
+    "translation": "амжилт ба бүтэлгүйтэл",
+    "hanja": "成敗",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성폭력",
+    "translation": "Бэлгийн хүчирхийлэл",
+    "hanja": "性暴力",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "성폭행",
+    "translation": "бэлгийн хүчирхийлэл",
+    "hanja": "성폭행(性暴行)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성폭행하다",
+    "translation": "бэлгийн хүчирхийлэл үйлдэх",
+    "hanja": "性暴行하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성표",
+    "translation": "одны тэмдэг",
+    "hanja": "星標",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "성품",
+    "translation": "зан чанар",
+    "hanja": "性品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성하다",
+    "translation": "өсөх, хөгжих, амжилттай байх",
+    "hanja": "盛하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성학",
+    "translation": "бэлгийн судал",
+    "hanja": "性學",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "성한",
+    "translation": "бүрэн бүтэн, гэмтэлгүй",
+    "hanja": " unscathed",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성함",
+    "translation": "нэр (хүндэтгэлийн)",
+    "hanja": "姓銜",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "성행",
+    "translation": "дэлгэрэх, тархах",
+    "hanja": "盛行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성행위",
+    "translation": "бэлгийн харьцаа",
+    "hanja": "성행위(性行爲)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성행하다",
+    "translation": "Дэлгэрэх",
+    "hanja": "盛行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성향",
+    "translation": "хандлага",
+    "hanja": "性向",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성형",
+    "translation": "гоо сайхны мэс засал",
+    "hanja": "成形",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성형외과",
+    "translation": "Гоо сайхны мэс заслын эмнэлэг",
+    "hanja": "成形外科",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성형하다",
+    "translation": "гоо сайхны мэс засал хийх",
+    "hanja": "成形하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성호",
+    "translation": "Ариун нэр",
+    "hanja": "聖號",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성호르몬",
+    "translation": "бэлгийн даавар",
+    "hanja": "性호르몬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성혼",
+    "translation": "гэрлэх",
+    "hanja": "成婚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성홍",
+    "translation": "улаан бурхан",
+    "hanja": "猩紅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성화",
+    "translation": "ариун гал",
+    "hanja": "聖火",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성황",
+    "translation": "амжилт, дэлгэрэнгүй байдал",
+    "hanja": "盛況",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "성황당",
+    "translation": "сүм, тахилганы газар",
+    "hanja": "城隍堂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성황리",
+    "translation": "амжилттай",
+    "hanja": "盛況裏",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성회",
+    "translation": "ариун цуглаан",
+    "hanja": "聖會",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성희",
+    "translation": "Сексийн доромжлол",
+    "hanja": "性戲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성희롱",
+    "translation": "бэлгийн дарамт",
+    "hanja": "性戲弄",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "성희롱하다",
+    "translation": "бэлгийн дарамт үзүүлэх",
+    "hanja": "性戲弄하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성히",
+    "translation": "бүхэл бүтэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  }
+]

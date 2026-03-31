@@ -1,0 +1,436 @@
+[
+  {
+    "word": "온",
+    "translation": "бүхэл, бүх",
+    "hanja": "온",
+    "pos": "관형사",
+    "cefr": "A2"
+  },
+  {
+    "word": "온갖",
+    "translation": "бүхий л",
+    "hanja": "온갖",
+    "pos": "Determiner",
+    "cefr": "B2"
+  },
+  {
+    "word": "온건파",
+    "translation": "хэт даврахгүй тал",
+    "hanja": "穩健派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "온건하다",
+    "translation": "дуугүй, дөлгөөн",
+    "hanja": "穩健—",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "온고지신",
+    "translation": "хуучныг судалж шинийг мэдэх",
+    "hanja": "溫故知新",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "온기",
+    "translation": "Дулаан / Халуун",
+    "hanja": "온기 (溫氣)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온난하다",
+    "translation": "Дулаан",
+    "hanja": "溫暖하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온난화",
+    "translation": "дулаарал",
+    "hanja": "溫暖化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "온누리",
+    "translation": "бүх дэлхий",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온니",
+    "translation": "зөвхөн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "온달",
+    "translation": "ондал",
+    "hanja": "溫達",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "온당하다",
+    "translation": "үр дүнд нийцсэн, зөв зохистой",
+    "hanja": "穩當하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "온대",
+    "translation": "сэрүүн бүс",
+    "hanja": "溫帶",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "온더록스",
+    "translation": "он 더 рокс (Архины төрөл, мөстэй уух)",
+    "hanja": "--",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "온데간데없다",
+    "translation": "ор сураггүй алга болох",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "온데간데없이",
+    "translation": "Ор сураггүй, гэнэт алга болох",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온도",
+    "translation": "температур",
+    "hanja": "溫度",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "온도계",
+    "translation": "термометр",
+    "hanja": "溫度計",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "온돌",
+    "translation": "ондол (Солонгос уламжлалт шалны халаалтын систем)",
+    "hanja": "溫突",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온돌바닥",
+    "translation": "ондол шал",
+    "hanja": "온돌바닥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온돌방",
+    "translation": "ондоль өрөө",
+    "hanja": "溫突房",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "온두라스",
+    "translation": "Гондурас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "온라인",
+    "translation": "онлайн",
+    "hanja": "online",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "온면",
+    "translation": "Халуун гоймон",
+    "hanja": "溫麵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온몸",
+    "translation": "бүх бие",
+    "hanja": "온몸",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "온보딩",
+    "translation": "онбординг",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "온산",
+    "translation": "Бүх уул",
+    "hanja": "溫山",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "온상",
+    "translation": "хүлэмж",
+    "hanja": "溫床",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "온성",
+    "translation": "Онсон",
+    "hanja": "穩城",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "온수",
+    "translation": "халуун ус",
+    "hanja": "溫水",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "온순하다",
+    "translation": "зөөлөн, ноомой",
+    "hanja": "溫順하다",
+    "pos": "тү",
+    "cefr": "B1"
+  },
+  {
+    "word": "온스",
+    "translation": "Унц",
+    "hanja": "ounce",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온습도계",
+    "translation": "термометр ба гигрометр",
+    "hanja": "溫濕度計",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "온실",
+    "translation": "Хүлэмж",
+    "hanja": "溫室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온실가스",
+    "translation": "хүлэмжийн хий",
+    "hanja": "溫室가스",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "온씨",
+    "translation": "Он овогт",
+    "hanja": "溫氏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "온양",
+    "translation": "халуун рашаан",
+    "hanja": "溫陽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "온열",
+    "translation": "Дулаан, илч",
+    "hanja": "溫熱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "온오프",
+    "translation": "асаах унтраах",
+    "hanja": "On/Off",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온유하다",
+    "translation": "Дөлгөөн, номхон, аядуу зөөлөн (зан ааш)",
+    "hanja": "溫柔하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "온장고",
+    "translation": "халаагч шүүгээ",
+    "hanja": "溫藏庫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "온전하다",
+    "translation": "бүрэн бүтэн, гэмтэлгүй",
+    "hanja": "穩全하다",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "온전히",
+    "translation": "бүрэн бүтэн",
+    "hanja": "穩全히",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "온점",
+    "translation": "бүхэл цэг",
+    "hanja": "溫點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "온정",
+    "translation": "дулаан сэтгэл",
+    "hanja": "溫情",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "온조왕",
+    "translation": "Онжо ван",
+    "hanja": "溫祚王",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "온종일",
+    "translation": "Өдөржингөө",
+    "hanja": "온종일",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "온주",
+    "translation": "Онжү (газар нэр)",
+    "hanja": "溫州",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "온처",
+    "translation": "дулаан газар",
+    "hanja": "溫處",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "온천",
+    "translation": "Рашаан",
+    "hanja": "溫泉",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "온천욕",
+    "translation": "халуун усны газар",
+    "hanja": "온천욕(溫泉浴)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온천하다",
+    "translation": "온천하다",
+    "hanja": "溫泉하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "온타리오",
+    "translation": "Онтарио",
+    "hanja": "온타리오",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온탕",
+    "translation": "халуун ус",
+    "hanja": "溫湯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온통",
+    "translation": "Бүхэлдээ",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온평리",
+    "translation": "Онпёнри (Газарзүйн нэр)",
+    "hanja": "溫坪里",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "온풍",
+    "translation": "бүлээн салхи",
+    "hanja": "溫風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온풍기",
+    "translation": "халаагуур",
+    "hanja": "溫風機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온혈",
+    "translation": "Бүлээн цуст",
+    "hanja": "溫血",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "온화",
+    "translation": "Дулаан, зөөлөн, тайван",
+    "hanja": "溫和",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "온화하다",
+    "translation": "түмэн амгалан",
+    "hanja": "溫和하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "온후하다",
+    "translation": "ийлдэг",
+    "hanja": "溫厚-",
+    "pos": "Adjective",
+    "cefr": "C1"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "word": "몸",
+    "translation": "бие",
+    "hanja": "몸",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "몸가짐",
+    "translation": "Биеэ авч явах байдал",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸값",
+    "translation": "үнийн дүнг, орлого",
+    "hanja": "몸값",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "몸놀림",
+    "translation": "биеийн хөдөлгөөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸단장",
+    "translation": "Гоо сайхан, хувцаслалт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸담다",
+    "translation": "Хамрагдах, оролцох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸동작",
+    "translation": "биеийн хөдөлгөөн",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸뚱아리",
+    "translation": "Бие махбодь",
+    "hanja": "몸뚱아리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸뚱어리",
+    "translation": "бие махбодь",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸뚱이",
+    "translation": "Бие",
+    "hanja": "몸뚱이",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "몸매",
+    "translation": "биеийн хэлбэр",
+    "hanja": "몸매",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸무게",
+    "translation": "жин",
+    "hanja": "몸무게",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "몸바사",
+    "translation": "Момбаса (хот)",
+    "hanja": "Mombasa",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "몸보신",
+    "translation": "биеэ тэнхрүүлэх",
+    "hanja": "몸보신",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸보신하다",
+    "translation": "биеэ тэнхрүүлэх",
+    "hanja": "몸保身하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸부림",
+    "translation": "тэмцэлдэх",
+    "hanja": "몸부림",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸부림치다",
+    "translation": "оролдох, хичээх, тэмцэх",
+    "hanja": "몸부림치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸뻬",
+    "translation": "өмд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "몸살",
+    "translation": "булчингийн өвчин",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸살감기",
+    "translation": "ханиад томуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "몸살기",
+    "translation": "хүнд өвчин тусах шинж тэмдэг",
+    "hanja": "몸살氣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸서리",
+    "translation": "зурвас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸서리치다",
+    "translation": "Биеэ чичрэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸소",
+    "translation": "биечлэн, өөрөө",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸속",
+    "translation": "Бие дотор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸수색하다",
+    "translation": "биеийг нь нэгжих",
+    "hanja": "몸搜索하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸싸움",
+    "translation": "Биеэр сөргөлдөх",
+    "hanja": "몸싸움",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸싸움하다",
+    "translation": "гардан зодолдох",
+    "hanja": "NaN",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸져눕다",
+    "translation": "өвдөж хэвтэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸조리",
+    "translation": "биеэ тэнхрүүлэх",
+    "hanja": "몸조리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸조심",
+    "translation": "биеэ бодох",
+    "hanja": "몸조심",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸조심하다",
+    "translation": "биеэ бодох",
+    "hanja": "몸조심하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸종",
+    "translation": "боол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸집",
+    "translation": "Бие",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸짓",
+    "translation": "биеийн хөдөлгөөн, дохио зангаа",
+    "hanja": "몸짓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸체",
+    "translation": "Бие, их бие",
+    "hanja": "몸體",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸치",
+    "translation": "хөдөлгөөн муутай хүн",
+    "hanja": "몸치",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "몸치장",
+    "translation": "өөрийгөө янзлах",
+    "hanja": "몸治粧",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "몸통",
+    "translation": "бие",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "몸풀다",
+    "translation": "дасгал хийх, бие халаах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  }
+]

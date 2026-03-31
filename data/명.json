@@ -1,0 +1,1192 @@
+[
+  {
+    "word": "명",
+    "translation": "хүн (тооны нэгж)",
+    "hanja": "名",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "명가",
+    "translation": "алдартай гэр бүл",
+    "hanja": "名家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명감독",
+    "translation": "алдартай найруулагч",
+    "hanja": "名監督",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명검",
+    "translation": "алдарт сэлэм",
+    "hanja": "名劍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명견",
+    "translation": "Сайн нохой",
+    "hanja": "名犬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명경지수",
+    "translation": "Тунгалаг ус (тайван сэтгэл)",
+    "hanja": "明鏡止水",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "명계",
+    "translation": "тами",
+    "hanja": "冥界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명곡",
+    "translation": "Сонгодог бүтээл",
+    "hanja": "名曲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명공",
+    "translation": "алдартай гар урчууд",
+    "hanja": "名工",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "명관",
+    "translation": "хүндэтгэлтэй албан тушаалтан",
+    "hanja": "名官",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명구",
+    "translation": "алдарт үг",
+    "hanja": "名句",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "명국",
+    "translation": "명나라",
+    "hanja": "明國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명군",
+    "translation": "сайн хаан",
+    "hanja": "明君",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명기",
+    "translation": "тодорхой бичих, тэмдэглэх",
+    "hanja": "明記",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명기되다",
+    "translation": "тодорхой бичигдсэн байх",
+    "hanja": "明記되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명기하다",
+    "translation": "тодорхой бичих",
+    "hanja": "明記하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명길",
+    "translation": "Мёнггил",
+    "hanja": "明吉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명단",
+    "translation": "Жагсаалт",
+    "hanja": "名單",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명답",
+    "translation": "зөв хариулт",
+    "hanja": "名答",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "명당",
+    "translation": "азтай газар",
+    "hanja": "名堂",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "명대",
+    "translation": "Түүхийн алдартай үе",
+    "hanja": "명대 (明代)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명덕",
+    "translation": "гэгээрсэн ёс зүй",
+    "hanja": "明德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "명도",
+    "translation": "гэрэлтүүлэг",
+    "hanja": "明度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명동",
+    "translation": "Мёндон",
+    "hanja": "明洞",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "명두",
+    "translation": "тодорхой",
+    "hanja": "明頭",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "명란",
+    "translation": "цуурайт",
+    "hanja": "明卵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명란젓",
+    "translation": "минкийн өндөгний давсалсан бүтээгдэхүүн",
+    "hanja": "明卵젓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명랑",
+    "translation": "хөгжилтэй, цоглог",
+    "hanja": "明朗",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명랑하다",
+    "translation": "Хөгжилтэй, цовоо",
+    "hanja": "明朗하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "명량",
+    "translation": "Мёнрян",
+    "hanja": "鳴梁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "명량하다",
+    "translation": "Хөгжилтэй, цовоо сэргэлэн",
+    "hanja": "明亮하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명령",
+    "translation": "тушаал",
+    "hanja": "命令",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명령권자",
+    "translation": "тушаагч",
+    "hanja": "命令權者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명령문",
+    "translation": "тушаал, заавар",
+    "hanja": "命令文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명령어",
+    "translation": "тушаал, командын үг",
+    "hanja": "命令語",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "명령조",
+    "translation": "тушаалын өнгө аяс",
+    "hanja": "命令調",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명령하다",
+    "translation": "тушаах, захирах",
+    "hanja": "命令하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "명령형",
+    "translation": "тушаалын хэлбэр, тушаалын байдал",
+    "hanja": "命令形",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명료하다",
+    "translation": "тодорхой байх",
+    "hanja": "明瞭하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명륜",
+    "translation": "ёс суртахуун",
+    "hanja": "明倫",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "명리",
+    "translation": "Данс, мөнгөний ашиг",
+    "hanja": "名利",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "명마",
+    "translation": "Алдарт морь, сайн морь",
+    "hanja": "名馬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명망",
+    "translation": "нэр хүнд",
+    "hanja": "名望",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명망가",
+    "translation": "нэр хүндтэй гэр бүл",
+    "hanja": "名望家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명맥",
+    "translation": "цус буюу амьдралын шугам",
+    "hanja": "命脈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명멸하다",
+    "translation": "анин унтрах, анивчих",
+    "hanja": "明滅하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명명",
+    "translation": "Нэрлэх",
+    "hanja": "命名",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명명되다",
+    "translation": "нэрлэгдэх",
+    "hanja": "命名되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명명백백하다",
+    "translation": "Тодорхой бэлхнээ",
+    "hanja": "明明白白-",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명명백백히",
+    "translation": "тодорхой",
+    "hanja": "明明白白히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명명하다",
+    "translation": "нэрлэх, нэр өгөх",
+    "hanja": "命名하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명모",
+    "translation": "Тодорхой байдал, ил тод байдал",
+    "hanja": "明謨",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "명목",
+    "translation": "нэрлэсэн, нэрээр",
+    "hanja": "名目",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명문",
+    "translation": "алдартай сургууль, сайн гэр бүл",
+    "hanja": "名門",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명문가",
+    "translation": "нэр хүндтэй гэр бүл",
+    "hanja": "名門家",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "명문장",
+    "translation": "сүрлэг өгүүлбэр, алдартай зохиол",
+    "hanja": "名文章",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명문화되다",
+    "translation": "бичгээр тусгагдах",
+    "hanja": "明文化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명문화하다",
+    "translation": "бичгээр тусгах",
+    "hanja": "明文化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명물",
+    "translation": "алдартай зүйл (бүс нутгийн)",
+    "hanja": "名物",
+    "pos": "н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "명민하다",
+    "translation": "ухаалаг",
+    "hanja": "明敏",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명반",
+    "translation": "насны тэмдэг",
+    "hanja": "命盤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명배우",
+    "translation": "алдартай жүжигчин",
+    "hanja": "名俳優",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "명백하다",
+    "translation": "тодорхой байх",
+    "hanja": "明白하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명백히",
+    "translation": "тодорхой",
+    "hanja": "明白히",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "명보",
+    "translation": "мэдэгдэл",
+    "hanja": "明報",
+    "pos": "신문명",
+    "cefr": "B2"
+  },
+  {
+    "word": "명복",
+    "translation": "сүнсний амгалан",
+    "hanja": "冥福",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명부",
+    "translation": "Бүртгэл",
+    "hanja": "名簿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명분",
+    "translation": "шалтгаан, нэр төр",
+    "hanja": "名分",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명불허전",
+    "translation": "нэрийн хуудас шиг",
+    "hanja": "名不虛傳",
+    "pos": "사자성어",
+    "cefr": "C2"
+  },
+  {
+    "word": "명사",
+    "translation": "нэр үг",
+    "hanja": "名詞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명사십리",
+    "translation": "нэр алдартай аравт, алдарт 10-н ли газар",
+    "hanja": "明沙十里",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "명산",
+    "translation": "алдарт уул",
+    "hanja": "名山",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명상",
+    "translation": "бясалгал",
+    "hanja": "명상(瞑想)",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "명상법",
+    "translation": "бясалгалын арга",
+    "hanja": "瞑想法",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "명상적",
+    "translation": "бясалгалын",
+    "hanja": "瞑想的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명상하다",
+    "translation": "Бясалгал хийх",
+    "hanja": "瞑想하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명색",
+    "translation": "нэр зүүсэн, ostensibly",
+    "hanja": "名色",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명석",
+    "translation": "Оюунлаг, бодолтой",
+    "hanja": "明皙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명석하다",
+    "translation": "оюун ухаантай, сэтгэлгээ сайтай",
+    "hanja": "明皙하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명성",
+    "translation": "алдар нэр",
+    "hanja": "名聲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명세",
+    "translation": "тодорхой",
+    "hanja": "明細",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명세서",
+    "translation": "мэдээллийн хуудас, тодорхойлолт",
+    "hanja": "明細書",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "명소",
+    "translation": "Алдартай газар",
+    "hanja": "名所",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "명수",
+    "translation": "нэр алдар, их тоо",
+    "hanja": "名手",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "명숙",
+    "translation": "Онцгой ухаалаг",
+    "hanja": "明淑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명승",
+    "translation": "алдарт жуулчны газар",
+    "hanja": "名勝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명승부",
+    "translation": "Сайхан тоглолт",
+    "hanja": "名勝負",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명승지",
+    "translation": "алдартай үзэсгэлэнт газар",
+    "hanja": "名勝地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명시",
+    "translation": "Тодорхой заах, тодорхойлох",
+    "hanja": "明示",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명시되다",
+    "translation": "Тодорхой заагдах",
+    "hanja": "明示되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명시적",
+    "translation": "тодорхой",
+    "hanja": "明示的",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "명시하다",
+    "translation": "тодорхой заах",
+    "hanja": "明示하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명식",
+    "translation": "нэрийн төрөл",
+    "hanja": "名式",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명신",
+    "translation": "нэр алдартай хүн",
+    "hanja": "名臣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명실공히",
+    "translation": "нэр алдартаа таарсан",
+    "hanja": "名實共히",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "명실상부하다",
+    "translation": "Нэр хүндтэй, бодит байдалтай нийцэх",
+    "hanja": "名實相符하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "명심",
+    "translation": "санаж явах, үргэлж бодож явах",
+    "hanja": "銘心",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명심하다",
+    "translation": "санаж явах",
+    "hanja": "銘心하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명아",
+    "translation": "мянган настай",
+    "hanja": "明芽",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "명아주",
+    "translation": "бургас",
+    "hanja": "명아주",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "명안",
+    "translation": "гэгээрсэн нүд",
+    "hanja": "明眼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명암",
+    "translation": "гэрэл сүүдэр",
+    "hanja": "明暗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명약",
+    "translation": "гайхамшигтай эм",
+    "hanja": "名藥",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "명약관화하다",
+    "translation": "тодорхой байх",
+    "hanja": "明若觀火하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명언",
+    "translation": "алдартай үг",
+    "hanja": "名言",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명예",
+    "translation": "алдар",
+    "hanja": "名譽",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "명예롭다",
+    "translation": "хүндэтгэлтэй",
+    "hanja": "名譽롭다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명예박사",
+    "translation": "хүндэт доктор",
+    "hanja": "名譽博士",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명예욕",
+    "translation": "алдар нэрийн хүсэл",
+    "hanja": "名譽欲",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "명예직",
+    "translation": "хүндэт албан тушаал",
+    "hanja": "名譽職",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "명예퇴직",
+    "translation": "хүндэтгэлтэй тэтгэвэрт гарах",
+    "hanja": "名譽退職",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "명예퇴직하다",
+    "translation": "хүндэтгэлтэй тэтгэвэрт гарах",
+    "hanja": "名譽退職하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명오",
+    "translation": "Гэрэл гэгээрэл / Тодорхой ойлголт",
+    "hanja": "明悟",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "명왕",
+    "translation": "Плутон",
+    "hanja": "冥王",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명우",
+    "translation": "Нэрт жүжигчин",
+    "hanja": "名優",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명운",
+    "translation": "хувь заяа",
+    "hanja": "命運",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명원",
+    "translation": "алдартай хүрээлэн",
+    "hanja": "名園",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명월",
+    "translation": "Тод сар",
+    "hanja": "明月",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "명의",
+    "translation": "нэрийн, өмчлөх эрх",
+    "hanja": "名義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명이",
+    "translation": "нэр, алдар",
+    "hanja": "名義",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명인",
+    "translation": "мастер",
+    "hanja": "名人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명일",
+    "translation": "маргааш",
+    "hanja": "明日",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "명자",
+    "translation": "нэр",
+    "hanja": "名字",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명작",
+    "translation": "сонгодог бүтээл, шилдэг бүтээл",
+    "hanja": "名作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명장",
+    "translation": "алдарт жанжин",
+    "hanja": "名將",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "명재",
+    "translation": "нэр алдар",
+    "hanja": "名宰",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "명저",
+    "translation": "алдартай ном",
+    "hanja": "名著",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명적",
+    "translation": "тодорхой ул мөр",
+    "hanja": "明跡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명절",
+    "translation": "Баяр ёслол",
+    "hanja": "名節",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "명절날",
+    "translation": "баяр ёслолын өдөр",
+    "hanja": "名節날",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "명정",
+    "translation": "машины нэр",
+    "hanja": "銘旌",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "명제",
+    "translation": "номлол, онол",
+    "hanja": "命題",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "명조",
+    "translation": "Мин улс (түүх)",
+    "hanja": "明朝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명종",
+    "translation": "Мёнжон (солонгосын хааны нэр)",
+    "hanja": "明宗",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "명주",
+    "translation": "торго",
+    "hanja": "明紬",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "명주실",
+    "translation": "торгоны утас",
+    "hanja": "明紬실",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "명줄",
+    "translation": "амь нас, хувь тавилангийн хэлхээ",
+    "hanja": "命줄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명중",
+    "translation": "онох",
+    "hanja": "命中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명중되다",
+    "translation": "онох",
+    "hanja": "命中되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "명중시키다",
+    "translation": "онох, буудаж онох",
+    "hanja": "命中시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명중하다",
+    "translation": "оновчтой онох",
+    "hanja": "命中하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "명지",
+    "translation": "Мёнжи",
+    "hanja": "明知",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "명징하다",
+    "translation": "тодорхой, нээлттэй байх",
+    "hanja": "明澄하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "명차",
+    "translation": "Нэртэй машин",
+    "hanja": "名車",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "명찰",
+    "translation": "Нэрний тэмдэг",
+    "hanja": "名札",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "명창",
+    "translation": "дуучин, алдартай дуучин",
+    "hanja": "名唱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명철",
+    "translation": "ухаантай",
+    "hanja": "明哲",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명철하다",
+    "translation": "ухаантай",
+    "hanja": "明哲하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "명칭",
+    "translation": "нэршил",
+    "hanja": "名稱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명쾌하다",
+    "translation": "Тодорхой байх",
+    "hanja": "明快하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명탐정",
+    "translation": "шилдэг мөрдөгч",
+    "hanja": "名探偵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명태",
+    "translation": "Загас (поллок)",
+    "hanja": "明太",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명태회",
+    "translation": "хатаасан минж загас",
+    "hanja": "明太膾",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명퇴",
+    "translation": "албан тушаалаас сайн дураараа гарах",
+    "hanja": "名退",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명판",
+    "translation": "Нэрийн хавтан",
+    "hanja": "名板",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명패",
+    "translation": "нэрийн хавтан",
+    "hanja": "名牌",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "명품",
+    "translation": "чанартай бүтээгдэхүүн",
+    "hanja": "名品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명필",
+    "translation": "уран бичээч",
+    "hanja": "名筆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명하다",
+    "translation": "Тушаах, нэрлэх",
+    "hanja": "命하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명학",
+    "translation": "Нэрлэх сурах",
+    "hanja": "名學",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "명함",
+    "translation": "нэрийн хуудас",
+    "hanja": "名啣",
+    "pos": "мüns",
+    "cefr": "A1"
+  },
+  {
+    "word": "명현",
+    "translation": "тодорхой харагдах",
+    "hanja": "明現",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "명호",
+    "translation": "Алдар нэр",
+    "hanja": "名號",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "명화",
+    "translation": "Алдарт зураг",
+    "hanja": "名畫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명확성",
+    "translation": "Тодорхой байдал",
+    "hanja": "明確性",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "명확하다",
+    "translation": "тодорхой, ойлгомжтой",
+    "hanja": "明確",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "명확히",
+    "translation": "тодорхой",
+    "hanja": "明確히",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "명회",
+    "translation": "нэр алдар",
+    "hanja": "名會",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명훈",
+    "translation": "Мён Хун (хувь хүний нэр байж болно)",
+    "hanja": "明勳",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "명희",
+    "translation": "Мёнхи",
+    "hanja": "明熙",
+    "pos": "명사",
+    "cefr": "A2"
+  }
+]

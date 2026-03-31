@@ -1,0 +1,821 @@
+[
+  {
+    "word": "체",
+    "translation": "Хүнээр",
+    "hanja": "",
+    "pos": "조사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체감",
+    "translation": "биет мэдрэмж",
+    "hanja": "體感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체감되다",
+    "translation": "мэдрэгдэх",
+    "hanja": "體感되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "체감하다",
+    "translation": "мэдрэх",
+    "hanja": "體感하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체격",
+    "translation": "бие бялдар",
+    "hanja": "體格",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체결",
+    "translation": "Хэлцэл хийх, баталгаажуулах",
+    "hanja": "締結",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체결되다",
+    "translation": "байгуулагдах",
+    "hanja": "締結되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체결하다",
+    "translation": "байгуулах, хийх",
+    "hanja": "締結하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체경",
+    "translation": "биеийн толь",
+    "hanja": "體鏡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체계",
+    "translation": "систем",
+    "hanja": "體系",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "체계성",
+    "translation": "системчлэл",
+    "hanja": "體系性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체계적",
+    "translation": "Системтэй",
+    "hanja": "체계적 (體系的)",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체계화",
+    "translation": "Системчлэх",
+    "hanja": "體系化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체계화되다",
+    "translation": "системчлэгдэх",
+    "hanja": "體系化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체계화하다",
+    "translation": "системчлэх",
+    "hanja": "體系化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체공",
+    "translation": "агаарт байх",
+    "hanja": "滯空",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체구",
+    "translation": "Биеийн хэлбэр, бие",
+    "hanja": "體軀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체급",
+    "translation": "жимний ангилал",
+    "hanja": "體級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체납",
+    "translation": "хугацаа хэтэрсэн төлбөр",
+    "hanja": "滯納",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체납되다",
+    "translation": "хоцрогдох",
+    "hanja": "滯納되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체납하다",
+    "translation": "хугацаа хоцроох (төлбөр)",
+    "hanja": "滯納하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "체내",
+    "translation": "бие дотор",
+    "hanja": "體內",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체념",
+    "translation": "санаа алдах, бууж өгөх",
+    "hanja": "체념(諦念)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체념하다",
+    "translation": "огцом орохгүй байх, тэвчих",
+    "hanja": "諦念하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체능",
+    "translation": "бие бялдрын чадвар",
+    "hanja": "體能",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "체다",
+    "translation": "Шилбүүрдэх, суулгах (малын)",
+    "hanja": "체다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체더치즈",
+    "translation": "Чеддар бяслаг",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "체득",
+    "translation": "биелүүлэх, ухамсарлах",
+    "hanja": "體得",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체득하다",
+    "translation": "өөрийн биеэр мэдрэх, ойлгох",
+    "hanja": "體得하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체력",
+    "translation": "биеийн хүч",
+    "hanja": "體力",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "체력장",
+    "translation": "бие тамирын талбай",
+    "hanja": "體力場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체로키",
+    "translation": "Чероки",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체료",
+    "translation": "оршин суух",
+    "hanja": "滯留",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체류",
+    "translation": "Оршин суух, үлдэх",
+    "hanja": "滯留",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "체류자",
+    "translation": "байнгын оршин суугч",
+    "hanja": "滯留者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체류하다",
+    "translation": "Оршин суух",
+    "hanja": "滯留하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체르노빌",
+    "translation": "Чернобыль",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "체르니",
+    "translation": "Черни",
+    "hanja": "체르니",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "체르니우치",
+    "translation": "Черновци",
+    "hanja": "체르니우치",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "체르니히우",
+    "translation": "Чернигов",
+    "hanja": "체르니히우",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체리",
+    "translation": "интоор",
+    "hanja": "체리",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "체면",
+    "translation": "нэр хүнд, нүүр царай",
+    "hanja": "體面",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체면치레",
+    "translation": "нүүр таглах, нүүр бардамлах",
+    "hanja": "體面치레",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체모",
+    "translation": "биеийн үс",
+    "hanja": "體毛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체벌",
+    "translation": "бие махбодийн шийтгэл",
+    "hanja": "體罰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체벌하다",
+    "translation": "бие махбодид шийтгэл оногдуулах",
+    "hanja": "體罰하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체불",
+    "translation": "Цалин хөлс төлөхгүй байх",
+    "hanja": "滯拂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체불되다",
+    "translation": "түгжрэх",
+    "hanja": "滯拂되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체불하다",
+    "translation": "хугацаа хэтрүүлэх",
+    "hanja": "滯拂하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체세포",
+    "translation": "биеийн эс",
+    "hanja": "體細胞",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "체수",
+    "translation": "биед агуулагдах ус",
+    "hanja": "체수(體水)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체스",
+    "translation": "шатар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체스터",
+    "translation": "честер",
+    "hanja": "Chester",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "체스터필드",
+    "translation": "Честерфилд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "체스트",
+    "translation": "цээж",
+    "hanja": "체스트",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "체신",
+    "translation": "итгэл, нэр хүнд",
+    "hanja": "體信",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체액",
+    "translation": "Биеийн шингэн",
+    "hanja": "體液",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "체열",
+    "translation": "биеийн дулаан",
+    "hanja": "體熱",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체온",
+    "translation": "Биеийн дулаан",
+    "hanja": "體溫",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체온계",
+    "translation": "термометр",
+    "hanja": "體溫計",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체외",
+    "translation": "биеэс гадна",
+    "hanja": "體外",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체위",
+    "translation": "биеийн байрлал (бэлгийн харилцаанд)",
+    "hanja": "體位",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "체육",
+    "translation": "Биеийн тамир",
+    "hanja": "體育",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "체육계",
+    "translation": "биеийн тамирын ертөнц",
+    "hanja": "體育界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체육관",
+    "translation": "спортын заал",
+    "hanja": "體育館",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체육복",
+    "translation": "спортын хувцас",
+    "hanja": "體育服",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체이서",
+    "translation": "араас уух зүйл",
+    "hanja": "chaser",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체이스",
+    "translation": "хөөх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체인",
+    "translation": "гинж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체인저",
+    "translation": "солигч",
+    "hanja": "changer",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체인점",
+    "translation": "Сүлжээ дэлгүүр",
+    "hanja": "chain店",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체인지업",
+    "translation": "чейндж-ап бөмбөг",
+    "hanja": "change-up",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체임버",
+    "translation": "Камер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체임버스",
+    "translation": "чеймберс",
+    "hanja": null,
+    "pos": "NNP",
+    "cefr": "C2"
+  },
+  {
+    "word": "체임벌린",
+    "translation": "чемберлен",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체자",
+    "translation": "тагнай",
+    "hanja": "遞子",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "체재하다",
+    "translation": "байрлах, амьдрах",
+    "hanja": "滯在하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체적",
+    "translation": "эзлэхүүн",
+    "hanja": "體積",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체전",
+    "translation": "спортын үндэсний наадам",
+    "hanja": "體典",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "체절",
+    "translation": "биеийн хэсэг, сегмент",
+    "hanja": "體節",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체제",
+    "translation": "систем",
+    "hanja": "體制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체조",
+    "translation": "Гимнастик",
+    "hanja": "體操",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "체조하다",
+    "translation": "биеийн тамираар хичээллэх",
+    "hanja": "體操하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체중",
+    "translation": "жин",
+    "hanja": "體重",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "체중계",
+    "translation": "жин хэмжээ",
+    "hanja": "體重計",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체증",
+    "translation": "Хоолны шингэц муудах",
+    "hanja": "滯症",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체질",
+    "translation": "бираан",
+    "hanja": "體質",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "체체파리",
+    "translation": "цеце ялаа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체취",
+    "translation": "биеийн үнэр",
+    "hanja": "體臭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체코",
+    "translation": "Чех",
+    "hanja": "체코",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체코슬로바키아",
+    "translation": "Чехословак",
+    "hanja": "체코슬로바키아",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체코어",
+    "translation": "чех хэл",
+    "hanja": "체코語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체크",
+    "translation": "шалгалт, чех",
+    "hanja": "체크",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체크되다",
+    "translation": "шалгуулах, шалгагдах",
+    "hanja": "check되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체크메이트",
+    "translation": "шахмат",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체크무늬",
+    "translation": "торгомсог хээ",
+    "hanja": "check무늬",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "체크아웃",
+    "translation": "чекаут хийх",
+    "hanja": "체크아웃",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체크아웃하다",
+    "translation": "буудлаас гарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체크인",
+    "translation": "Бүртгүүлэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체크인하다",
+    "translation": "бүртгүүлэх",
+    "hanja": "체크인하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체크하다",
+    "translation": "Шалгах",
+    "hanja": "check하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체킹",
+    "translation": "шалгах, хянах",
+    "hanja": "체킹",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "체통",
+    "translation": "нэр хүнд",
+    "hanja": "體統",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체포",
+    "translation": "баривчлах",
+    "hanja": "逮捕",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "체포당하다",
+    "translation": "баривчлагдах",
+    "hanja": "逮捕當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체포되다",
+    "translation": "баривчлагдах",
+    "hanja": "逮捕되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체포하다",
+    "translation": "баривчлах",
+    "hanja": "逮捕하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체하다",
+    "translation": "байх",
+    "hanja": "體—",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "체험",
+    "translation": "туршлага",
+    "hanja": "體驗",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체험담",
+    "translation": "туршлагын түүх",
+    "hanja": "體驗談",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체험하다",
+    "translation": "туршлага хуримтлуулах",
+    "hanja": "體驗하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "체현하다",
+    "translation": "биелүүлэх",
+    "hanja": "体現하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체형",
+    "translation": "биеийн хэлбэр",
+    "hanja": "체형(體型)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체호프",
+    "translation": "Чехов",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체화",
+    "translation": "биелэл, биежсэн байдал",
+    "hanja": "體化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "체화되다",
+    "translation": "биелэл болох",
+    "hanja": "體化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체화하다",
+    "translation": "биеллээ олох, хэрэгжүүлэх",
+    "hanja": "體化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  }
+]

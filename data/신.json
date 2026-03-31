@@ -1,0 +1,2249 @@
+[
+  {
+    "word": "신",
+    "translation": "бурхан",
+    "hanja": "神",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "신간",
+    "translation": "шинэ ном",
+    "hanja": "新刊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신강",
+    "translation": "Шинжаан",
+    "hanja": "新疆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신검",
+    "translation": "Шинэ сэлэм",
+    "hanja": "神劍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신격",
+    "translation": "Бурханы зэрэг, бурханлаг байдал",
+    "hanja": "神格",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신격화",
+    "translation": "бурханчлах",
+    "hanja": "神格化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신격화되다",
+    "translation": "бурханчлагдах",
+    "hanja": "神格化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신격화하다",
+    "translation": "бурханчлах",
+    "hanja": "神格化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신경",
+    "translation": "мэдрэл, анхаарал",
+    "hanja": "神經",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신경계",
+    "translation": "мэдрэлийн систем",
+    "hanja": "神經系",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신경과",
+    "translation": "мэдрэлийн тасаг",
+    "hanja": "神經科",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신경성",
+    "translation": "мэдрэлийн, мэдрэлээс үүдэлтэй",
+    "hanja": "神經性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신경외과",
+    "translation": "мэдрэлийн мэс засал",
+    "hanja": "神經外科",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신경전",
+    "translation": "үл ойлголцол, дайсагнал",
+    "hanja": "神經戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신경증",
+    "translation": "мэдрэлийн эмгэг, невроз",
+    "hanja": "神經症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신경질",
+    "translation": "уур, цочромтгой байдал",
+    "hanja": "神經質",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신경질적",
+    "translation": "уурламтгай, мэдрэл муутай",
+    "hanja": "神經質的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신경통",
+    "translation": "мэдрэлийн өвчин",
+    "hanja": "神經痛",
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "신계",
+    "translation": "тэнгэрийн орон",
+    "hanja": "神界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신고",
+    "translation": "Мэдэгдэл, гомдол",
+    "hanja": "申告",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신고되다",
+    "translation": "Мэдэгдэх, бүртгүүлэх",
+    "hanja": "申告되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신고식",
+    "translation": "Шинэ хүний наадам",
+    "hanja": "申告式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신고하다",
+    "translation": "мэдэгдэх",
+    "hanja": "申告-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신곡",
+    "translation": "шинэ дуу",
+    "hanja": "新曲",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "신공",
+    "translation": "Бурхны ур чадвар, агуу чадвар",
+    "hanja": "神功",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "신관",
+    "translation": "Шинэ байшин, шинэ барилга",
+    "hanja": "新館",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신광",
+    "translation": "шинэ гэрэл",
+    "hanja": "新光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신교",
+    "translation": "шинэ сүм",
+    "hanja": "新敎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신구",
+    "translation": "хуучин ба шинэ",
+    "hanja": "新舊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신국",
+    "translation": "Шинэ улс",
+    "hanja": "新國",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "신궁",
+    "translation": "бурхны сүм, сайн харваач",
+    "hanja": "神弓",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "신권",
+    "translation": "шинэ эрх",
+    "hanja": "新權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신규",
+    "translation": "шинэ",
+    "hanja": "新規",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신기다",
+    "translation": "өмсгөх, углах",
+    "hanja": "신기다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신기록",
+    "translation": "Шинэ амжилт",
+    "hanja": "新記錄",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신기루",
+    "translation": "хуурмаг зүйл",
+    "hanja": "蜃氣樓",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "신기방기하다",
+    "translation": "гайхалтай",
+    "hanja": "新奇方奇하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "신기술",
+    "translation": "Шинэ технологи",
+    "hanja": "新技術",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신기원",
+    "translation": "шинэ эрин үе, шинэ эхлэл",
+    "hanja": "新紀元",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신기하다",
+    "translation": "гайхалтай",
+    "hanja": "神奇하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "신나",
+    "translation": "хөөрөх",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신나다",
+    "translation": "баярлах, хөгжилдөх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "신낙균",
+    "translation": "Шин Нак-кюун",
+    "hanja": "申洛均",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신녀",
+    "translation": "лам эмэгтэй",
+    "hanja": "神女",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신년",
+    "translation": "шинэ жил",
+    "hanja": "新年",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신년맞이",
+    "translation": "шинэ жилийн баяр",
+    "hanja": "新年─",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신년회",
+    "translation": "Шинэ жилийн баяр, шинэ жилийн хүлээн авалт",
+    "hanja": "新年會",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신념",
+    "translation": "Итгэл үнэмшил",
+    "hanja": "信念",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신녕",
+    "translation": "Шинён (газрын нэр)",
+    "hanja": "新寧",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신다",
+    "translation": "өмсөх (гутал)",
+    "hanja": "신다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "신단",
+    "translation": "тахилын ширээ",
+    "hanja": "神壇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신당",
+    "translation": "Шинэ нам",
+    "hanja": "新黨",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "신대륙",
+    "translation": "шинэ тив",
+    "hanja": "新大陸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신더",
+    "translation": "шүдэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신데렐라",
+    "translation": "Үнсгэлжин",
+    "hanja": "신데렐라",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "신도",
+    "translation": "итгэлтэн",
+    "hanja": "信徒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신도시",
+    "translation": "шинэ хот",
+    "hanja": "新都市",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신돈",
+    "translation": "Шиндон (хүний нэр)",
+    "hanja": "辛旽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신동",
+    "translation": "Гайхамшигт хүүхэд",
+    "hanja": "神童",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "신동엽",
+    "translation": "Шин Дон-ёоб",
+    "hanja": "申東燁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신두",
+    "translation": "итгэл үнэмшил",
+    "hanja": "信頭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신드롬",
+    "translation": "Синдром",
+    "hanja": "Syndrome",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신드바드",
+    "translation": "Синдбад",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "신들리다",
+    "translation": "чөтгөр шүглэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신디케이트",
+    "translation": "синдикат",
+    "hanja": "syndicate",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "신라",
+    "translation": "Шилла улс",
+    "hanja": "新羅",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신랄하다",
+    "translation": "хурц, ширүүн",
+    "hanja": "辛辣하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신랑",
+    "translation": "хүргэн",
+    "hanja": "新郞",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "신랑감",
+    "translation": "Сүйт залуугийн өмд",
+    "hanja": "新郎감",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "신래",
+    "translation": "итгэл",
+    "hanja": "信來",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신력",
+    "translation": "шинэ хүч",
+    "hanja": "新力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신령",
+    "translation": "сүнс, бурхан, шүтээн",
+    "hanja": "神靈",
+    "pos": "н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "신령스럽다",
+    "translation": "ариун, ариун нандин",
+    "hanja": "神靈스럽다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "신령하다",
+    "translation": "ариун",
+    "hanja": "神靈하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신록",
+    "translation": "Шинэ навчис",
+    "hanja": "新綠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신뢰",
+    "translation": "итгэл, найдварт байдал",
+    "hanja": "信賴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신뢰감",
+    "translation": "итгэл",
+    "hanja": "信賴感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신뢰도",
+    "translation": "Итгэлцэл",
+    "hanja": "信賴度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신뢰성",
+    "translation": "найдваршил",
+    "hanja": "신뢰성(信賴性)",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신뢰하다",
+    "translation": "итгэх, найдах",
+    "hanja": "信賴하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신료",
+    "translation": "сайдын зөвлөл",
+    "hanja": "臣僚",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "신룡",
+    "translation": "ид шидийн луу",
+    "hanja": "神龍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신륵사",
+    "translation": "Шинлыкса сүм",
+    "hanja": "神勒寺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신림",
+    "translation": "Шинрим",
+    "hanja": "新林",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신립",
+    "translation": "Шинлип (хүний нэр)",
+    "hanja": "申砬",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "신맛",
+    "translation": "исгэлэн амт",
+    "hanja": "新맛",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신망",
+    "translation": "итгэл, нэр хүнд",
+    "hanja": "信望",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신명",
+    "translation": "хөөрөл, сэтгэл баясгах",
+    "hanja": "神明",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신모",
+    "translation": "шинэ эх",
+    "hanja": "新母",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신목",
+    "translation": "ариун мод",
+    "hanja": "神木",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신묘",
+    "translation": "гайхамшигтай, ид шидийн",
+    "hanja": "神妙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신묘하다",
+    "translation": "Гайхамшигтай, ид шидтэй, ер бусын",
+    "hanja": "神妙하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신묵",
+    "translation": "чимээгүй, дуугүй байх",
+    "hanja": "愼默",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신문",
+    "translation": "сонин",
+    "hanja": "新聞",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "신문명",
+    "translation": "шинэ соёл иргэншил",
+    "hanja": "新文明",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신문물",
+    "translation": "шинэ соёл иргэншил",
+    "hanja": "新文物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신문사",
+    "translation": "Сонины газар",
+    "hanja": "新聞社",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신문지",
+    "translation": "сонингийн цаас",
+    "hanja": "新聞紙",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신문하다",
+    "translation": "Байцаан шалгах",
+    "hanja": "신문하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신물",
+    "translation": "шар ус, хүчиллэг шингэн",
+    "hanja": "新物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신미",
+    "translation": "шинэ амт; шинэ гоо зүй",
+    "hanja": "新味",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신민",
+    "translation": "Энгийн иргэн",
+    "hanja": "臣民",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신바람",
+    "translation": "хүчтэй салхи, эрч хүч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신바이오틱스",
+    "translation": "Синбиотикс",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신박",
+    "translation": "шинэ, өвөрмөц",
+    "hanja": "新舶",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "신박하다",
+    "translation": "шинэлэг, сонирхолтой",
+    "hanja": "新舶하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신발",
+    "translation": "гутал",
+    "hanja": "신발",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "신발장",
+    "translation": "гуталны шүүгээ",
+    "hanja": "신발장",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신발주머니",
+    "translation": "гуталны уут",
+    "hanja": "신발주머니",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "신방",
+    "translation": "Шинэ хэвлэлийн өрөө",
+    "hanja": "新房",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신벌",
+    "translation": "бурхны шийтгэл",
+    "hanja": "神罰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신법",
+    "translation": "шинэ хууль",
+    "hanja": "新法",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신변",
+    "translation": "хувийн байдал",
+    "hanja": "身邊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신변잡기",
+    "translation": "хувийн тэмдэглэл",
+    "hanja": "身邊雜記",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신병",
+    "translation": "шинэ цэрэг",
+    "hanja": "新兵",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신보",
+    "translation": "шинэ мэдээ",
+    "hanja": "新報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신복",
+    "translation": "итгэлтэй боол",
+    "hanja": "臣僕",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신봉",
+    "translation": "бишрэх",
+    "hanja": "信奉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신봉자",
+    "translation": "Итгэгч",
+    "hanja": "信奉者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신봉하다",
+    "translation": "итгэх, дагах",
+    "hanja": "信奉하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신부",
+    "translation": "Сүйт бүсгүй",
+    "hanja": "新婦",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "신부감",
+    "translation": "Сүйт бүсгүй болох хүн",
+    "hanja": "新婦감",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신북",
+    "translation": "шинэ хойд зүг",
+    "hanja": "新北",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신분",
+    "translation": "статус, үнэмлэх",
+    "hanja": "身分",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신분당선",
+    "translation": "Шинбунданг шугам",
+    "hanja": "新盆唐線",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "신분제",
+    "translation": "Нийгмийн давхаргын систем",
+    "hanja": "身分制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신분증",
+    "translation": "иргэний үнэмлэх",
+    "hanja": "身分證",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신불",
+    "translation": "бурхан ба Будда",
+    "hanja": "神佛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신붓감",
+    "translation": "бэр болох охин",
+    "hanja": "新婦감",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신비",
+    "translation": "Нууц, ид шид",
+    "hanja": "神祕",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신비감",
+    "translation": "нууцлаг мэдрэмж",
+    "hanja": "神秘感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신비로움",
+    "translation": "нууцлаг байдал",
+    "hanja": "神祕로움",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신비롭다",
+    "translation": "нууцлаг",
+    "hanja": "神秘롭다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "신비스럽다",
+    "translation": "Нууцлаг",
+    "hanja": "神祕스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신비주의",
+    "translation": "Мистицизм",
+    "hanja": "神秘主義",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "신비하다",
+    "translation": "нууцлаг",
+    "hanja": "神秘하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신빙성",
+    "translation": "найдвар, үнэн бодит байдал",
+    "hanja": "信憑性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신사",
+    "translation": "Эрхэмсэг",
+    "hanja": "紳士",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신사복",
+    "translation": "Эрэгтэй костюм",
+    "hanja": "紳士服",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신사적",
+    "translation": "ноёнтон шиг",
+    "hanja": "紳士的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신산",
+    "translation": "хүнд хэцүү",
+    "hanja": "辛酸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신상",
+    "translation": "шинэ бараа",
+    "hanja": "新商",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신상명세서",
+    "translation": "хувийн мэдээллийн хуудас",
+    "hanja": "身上明細書",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신상품",
+    "translation": "шинэ бараа",
+    "hanja": "新商品",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "신새벽",
+    "translation": "үүр цайх",
+    "hanja": "新새벽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신생",
+    "translation": "шинээр үүссэн",
+    "hanja": "新生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신생국",
+    "translation": "шинэ тулгар улс",
+    "hanja": "新生國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신생대",
+    "translation": "шинэ үеийн",
+    "hanja": "新生代",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신생아",
+    "translation": "нярай хүүхэд",
+    "hanja": "新生兒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신석",
+    "translation": "шинэ чулуу",
+    "hanja": "新石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신석기",
+    "translation": "шинэ чулуун зэвсгийн үе",
+    "hanja": "新石器",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "신선",
+    "translation": "Лаванда",
+    "hanja": "神仙",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신선놀음",
+    "translation": "даосист үлгэрийн тоглоом",
+    "hanja": "神仙놀음",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신선하다",
+    "translation": "шинэ, цэнгэг",
+    "hanja": "新鮮하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신설",
+    "translation": "шинээр байгуулах",
+    "hanja": "新設",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신설되다",
+    "translation": "шинээр байгуулагдах",
+    "hanja": "新設되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "신설하다",
+    "translation": "шинээр байгуулах",
+    "hanja": "新設하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신섭",
+    "translation": "Шинсоп (Хүний нэр)",
+    "hanja": "申涉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신성",
+    "translation": "ариун",
+    "hanja": "神聖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신성불가침",
+    "translation": "халдашгүй ариун",
+    "hanja": "神聖不可侵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신성시되다",
+    "translation": "ариун гэж үзэгдэх",
+    "hanja": "神聖視되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신성시하다",
+    "translation": "ариун гэж үзэх, шүтэх",
+    "hanja": "神聖視하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신성하다",
+    "translation": "ариун, ариун дагшин",
+    "hanja": "神聖하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신세",
+    "translation": "тусламж",
+    "hanja": "신세(身世)",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "신세계",
+    "translation": "шинэ ертөнц",
+    "hanja": "新世界",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신세대",
+    "translation": "Шинэ үе",
+    "hanja": "新世代",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신세타령",
+    "translation": "хувь тавилангаа гомдох",
+    "hanja": "身世打令",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신소",
+    "translation": "шийтгэх",
+    "hanja": "呻訴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신소설",
+    "translation": "Шинэ роман",
+    "hanja": "新小說",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "신소재",
+    "translation": "шинэ материал",
+    "hanja": "新素材",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신속",
+    "translation": "хурдан шуурхай",
+    "hanja": "迅速",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신속성",
+    "translation": "шуурхай байдал",
+    "hanja": "迅速性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신속하다",
+    "translation": "Түргэн шуурхай",
+    "hanja": "迅速하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "신속히",
+    "translation": "шуурхай",
+    "hanja": "迅速히",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "신수",
+    "translation": "бие даасан",
+    "hanja": "身手",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신스틸러",
+    "translation": "үзэгдэл хулгайлагч",
+    "hanja": "scene stealer",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신승",
+    "translation": "жийргэвтэр ялалт",
+    "hanja": "辛勝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신시",
+    "translation": "шинэ хот",
+    "hanja": "新市",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신시내티",
+    "translation": "Синсинати",
+    "hanja": "辛辛那提",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신시사이저",
+    "translation": "Синтезатор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신식",
+    "translation": "шинэ хэв маяг",
+    "hanja": "新式",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신신당부",
+    "translation": "хатуу захих",
+    "hanja": "申申當付",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신신당부하다",
+    "translation": "хатуу захих",
+    "hanja": "申申當付하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "신실하다",
+    "translation": "үнэнч байх",
+    "hanja": "信實하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신심",
+    "translation": "итгэл",
+    "hanja": "信心",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신씨",
+    "translation": "Шин овогт хүн",
+    "hanja": "申氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신아",
+    "translation": "шинэ хүүхэд/залуу",
+    "hanja": "新芽",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "신안",
+    "translation": "Шин-ан (газар нэр)",
+    "hanja": "新安",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신앙",
+    "translation": "итгэл",
+    "hanja": "信仰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신앙심",
+    "translation": "итгэл үнэмшил",
+    "hanja": "信仰心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신앙하다",
+    "translation": "итгэх (шашин)",
+    "hanja": "信仰하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신애",
+    "translation": "жинхэнэ хайр",
+    "hanja": "信愛",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "신야",
+    "translation": "шинэ талбар",
+    "hanja": "新野",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신약",
+    "translation": "шинэ эм",
+    "hanja": "新藥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신양",
+    "translation": "шинэ нар",
+    "hanja": "新陽",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신언서판",
+    "translation": "бие даасан сэтгэгдэл",
+    "hanja": "身言書判",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신열",
+    "translation": "өндөр халуун",
+    "hanja": "身熱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신영",
+    "translation": "шинэ сүүдэр",
+    "hanja": "新影",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신예",
+    "translation": "шинэ залуу",
+    "hanja": "新銳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신오",
+    "translation": "шинэ тав",
+    "hanja": "新五",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신왕",
+    "translation": "шинэ хаан",
+    "hanja": "新王",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "신용",
+    "translation": "итгэл",
+    "hanja": "信用",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "신용하다",
+    "translation": "итгэх, найдах",
+    "hanja": "信用하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신원",
+    "translation": "иргэний үнэмлэх",
+    "hanja": "신원(身元)",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신원하다",
+    "translation": "таних, тодорхойлох",
+    "hanja": "身元하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신월",
+    "translation": "шинэ сар",
+    "hanja": "新月",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "신위",
+    "translation": "Бурхан",
+    "hanja": "神位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신유",
+    "translation": "шинэ эмчилгээ",
+    "hanja": "新癒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신윤복",
+    "translation": "Шин Юнбок (солонгос зураач)",
+    "hanja": "申潤福",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신음",
+    "translation": "ёолох",
+    "hanja": "呻吟",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신음하다",
+    "translation": "Уйтгарлах",
+    "hanja": "呻吟하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "신의",
+    "translation": "итгэл",
+    "hanja": "信義",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신이",
+    "translation": "Бурхан",
+    "hanja": "神異",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신이하다",
+    "translation": "гайхамшигтай, ер бусын",
+    "hanja": "神異하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신인",
+    "translation": "Шинээр гарч ирсэн хүн",
+    "hanja": "新人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신인왕",
+    "translation": "Шилдэг шинэ тоглогч",
+    "hanja": "新人王",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신임",
+    "translation": "итгэл, итгэх",
+    "hanja": "信任",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신임하다",
+    "translation": "итгэх",
+    "hanja": "信任하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신입",
+    "translation": "шинэ элсэгч",
+    "hanja": "新入",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신입생",
+    "translation": "Шинэ оюутан",
+    "hanja": "新入生",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신자",
+    "translation": "итгэгч, шүтлэгтэн",
+    "hanja": "信者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신자유주의",
+    "translation": "Неолиберализм",
+    "hanja": "新自由主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신작",
+    "translation": "шинэ бүтээл",
+    "hanja": "新作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신작로",
+    "translation": "шинэ зам, шинээр баригдсан зам",
+    "hanja": "新作路",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신장",
+    "translation": "бөөр",
+    "hanja": "腎臟",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신장개업",
+    "translation": "шинэ дэлгүүрийн нээлт",
+    "hanja": "新裝開業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신장개업하다",
+    "translation": "шинээр нээх",
+    "hanja": "新裝開業하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신장되다",
+    "translation": "өргөжих, тэлэх, уртсах",
+    "hanja": "伸張되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신장시키다",
+    "translation": "Өргөтгөх, тэлэх",
+    "hanja": "伸張시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신장염",
+    "translation": "бөөрний үрэвсэл",
+    "hanja": "腎臟炎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신장하다",
+    "translation": "Өргөжүүлэх",
+    "hanja": "伸張하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신재효",
+    "translation": "Шин Жехё",
+    "hanja": "申在孝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신적",
+    "translation": "бурханлаг, тэнгэрлэг",
+    "hanja": "神的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신전",
+    "translation": "сүм, ариун сүм",
+    "hanja": "神殿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신전하다",
+    "translation": "Түгээх, дэлгэрүүлэх",
+    "hanja": "伸展하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "신점",
+    "translation": "бурхны судлал",
+    "hanja": "神占",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신접하다",
+    "translation": "шинээр нэгдэх",
+    "hanja": "新接하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신정",
+    "translation": "Шинэ жил",
+    "hanja": "新正",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신제품",
+    "translation": "Шинэ бүтээгдэхүүн",
+    "hanja": "新製品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신조",
+    "translation": "итгэл үнэмшил, зарчим",
+    "hanja": "信條",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신조어",
+    "translation": "шинэ үг",
+    "hanja": "新造語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신족",
+    "translation": "бурхны гэр бүл, бурхдын овог",
+    "hanja": "神族",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신종",
+    "translation": "Шинэ төрөл",
+    "hanja": "新種",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신주",
+    "translation": "хүндэтгэлийн шүтээн",
+    "hanja": "神主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신주쿠구",
+    "translation": "Шинжуку дүүрэг",
+    "hanja": "新宿區",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신줏단지",
+    "translation": "Өвөг дээдсийн сүнсийг шүтэх сав",
+    "hanja": "신줏단지",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신중",
+    "translation": "болгоомжтой",
+    "hanja": "慎重",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신중하다",
+    "translation": "болгоомжтой байх",
+    "hanja": "愼重하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "신중히",
+    "translation": "хянуур",
+    "hanja": "愼重—",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "신진대사",
+    "translation": "бодисын солилцоо",
+    "hanja": "新陳代謝",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "신차",
+    "translation": "шинэ машин",
+    "hanja": "新車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신참",
+    "translation": "шинэ хүн",
+    "hanja": "新參",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신창",
+    "translation": "шинэ цонх",
+    "hanja": "新窓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신채호",
+    "translation": "Шин Чэхо (хүний нэр)",
+    "hanja": "申采浩",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신천",
+    "translation": "шинэ огтлол",
+    "hanja": "新天",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신천옹",
+    "translation": "альбатрос",
+    "hanja": "信天翁",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "신철",
+    "translation": "Шин Чол",
+    "hanja": "申哲",
+    "pos": "인명",
+    "cefr": "C2"
+  },
+  {
+    "word": "신첩",
+    "translation": "боол",
+    "hanja": "臣妾",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "신청",
+    "translation": "өргөдөл",
+    "hanja": "申請",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신청되다",
+    "translation": "одогдох",
+    "hanja": "申請되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신청서",
+    "translation": "өргөдлийн маягт",
+    "hanja": "申請書",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신청인",
+    "translation": "өргөдөл гаргагч",
+    "hanja": "申請人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신청자",
+    "translation": "өргөдөл гаргагч",
+    "hanja": "申請者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신청하다",
+    "translation": "Өргөдөл гаргах",
+    "hanja": "申請하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신체",
+    "translation": "бие",
+    "hanja": "身體",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "신체검사",
+    "translation": "биеийн үзлэг",
+    "hanja": "身體檢査",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신체발부",
+    "translation": "бие бүхэлдээ",
+    "hanja": "身體髮膚",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신체적",
+    "translation": "бие махбодийн",
+    "hanja": "身體的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신체제",
+    "translation": "шинэ систем",
+    "hanja": "新體制",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신촌",
+    "translation": "Шинчон (Солонгос дахь газар)",
+    "hanja": "新村",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "신축",
+    "translation": "шинээр барих",
+    "hanja": "新築",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신축되다",
+    "translation": "шинээр баригдах",
+    "hanja": "新築되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신축성",
+    "translation": "уян хатан чанар",
+    "hanja": "伸縮性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신축하다",
+    "translation": "шинээр барих",
+    "hanja": "新築하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신춘문예",
+    "translation": "шинэ жилийн уран зохиолын уралдаан",
+    "hanja": "新春文藝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신출귀몰",
+    "translation": "гарцгүй, гэнэтийн үзэгдэл",
+    "hanja": "神出鬼沒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신출귀몰하다",
+    "translation": "Гэнэт гарч ирэх, гэнэт алга болох",
+    "hanja": "神出鬼沒하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "신출내기",
+    "translation": "шинэ хүн, эхлэгч",
+    "hanja": "新出내기",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "신칸센",
+    "translation": "Шинкансэн (Японы хурдан галт тэрэг)",
+    "hanja": "新幹線",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "신탁",
+    "translation": "итгэлцэл",
+    "hanja": "信託",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신탁하다",
+    "translation": "итгэж даатгах",
+    "hanja": "信託하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신토불이",
+    "translation": "бие ба газар шороо салшгүй",
+    "hanja": "身土不二",
+    "pos": "Идиом",
+    "cefr": "C2"
+  },
+  {
+    "word": "신통",
+    "translation": "гайхамшигтай",
+    "hanja": "神通",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신통력",
+    "translation": "гайхамшигт хүч",
+    "hanja": "神通力",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신통방통하다",
+    "translation": "Үнэхээр гайхалтай, маш ухаантай",
+    "hanja": "神通方通하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신통찮다",
+    "translation": "онцын биш",
+    "hanja": "神通찮다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신통하다",
+    "translation": "шидэт, гайхамшигтай",
+    "hanja": "神通--",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신파",
+    "translation": "шинэ урсгал",
+    "hanja": "新派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신파극",
+    "translation": "шинэ урсгалын жүжиг",
+    "hanja": "新派劇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신판",
+    "translation": "шинэ хувилбар",
+    "hanja": "新版",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신평",
+    "translation": "Шинпён",
+    "hanja": "新平",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신포",
+    "translation": "Синпо (газарзүйн нэр)",
+    "hanja": "新浦",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신포니아",
+    "translation": "симфони",
+    "hanja": "신포니아",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신품",
+    "translation": "шинэ зүйл, шинэ бүтээгдэхүүн",
+    "hanja": "新品",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신필",
+    "translation": "бурхны бийр",
+    "hanja": "神筆",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신하",
+    "translation": "Түшмэл",
+    "hanja": "臣下",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신학",
+    "translation": "шашин судлал",
+    "hanja": "神學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신학문",
+    "translation": "шинэ ухаан, шинэ шинжлэх ухаан",
+    "hanja": "新學問",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신학원",
+    "translation": "Теологийн академи",
+    "hanja": "神學院",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신학자",
+    "translation": "шашин судлаач",
+    "hanja": "神學者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신한",
+    "translation": "Шинхан (банк)",
+    "hanja": "新韓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신한국당",
+    "translation": "Шинэ Солонгосын нам",
+    "hanja": "新韓國黨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신항",
+    "translation": "шинэ боомт",
+    "hanja": "新港",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신해",
+    "translation": "Шинхай (оны нэр)",
+    "hanja": "辛亥",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신행",
+    "translation": "шинэ гэрлэлт",
+    "hanja": "新行",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신현",
+    "translation": "Шинхён",
+    "hanja": "申鉉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신협",
+    "translation": "зээлийн хоршоо",
+    "hanja": "信協",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신형",
+    "translation": "Шинэ загвар",
+    "hanja": "新型",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신혜",
+    "translation": "Шинхэ",
+    "hanja": "申惠",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "신호",
+    "translation": "дохио",
+    "hanja": "信號",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "신호등",
+    "translation": "гэрлэн дохио",
+    "hanja": "신호등(信號燈)",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "신호음",
+    "translation": "дохионы дуу",
+    "hanja": "信號音",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신호탄",
+    "translation": "дохионы сум",
+    "hanja": "信號彈",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신호하다",
+    "translation": "дохио өгөх",
+    "hanja": "信號-",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "신혼",
+    "translation": "шинэ гэрлэлт",
+    "hanja": "新婚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신혼부부",
+    "translation": "Шинэхэн хос",
+    "hanja": "新婚夫婦",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신혼여행",
+    "translation": "бал сарын аялал",
+    "hanja": "新婚旅行",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신화",
+    "translation": "домог",
+    "hanja": "神話",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신후",
+    "translation": "үр удам",
+    "hanja": "身後",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신흥",
+    "translation": "шинэ",
+    "hanja": "新興",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신희",
+    "translation": "Шин Хий (хүний нэр)",
+    "hanja": "愼喜",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

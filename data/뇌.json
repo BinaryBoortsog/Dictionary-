@@ -1,0 +1,198 @@
+[
+  {
+    "word": "뇌",
+    "translation": "тархи",
+    "hanja": "腦",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "뇌간",
+    "translation": "тархины иш",
+    "hanja": "腦幹",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌관",
+    "translation": "дэлбэрэх хэрэгсэл, өдөөгч",
+    "hanja": "雷管",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "뇌까리다",
+    "translation": "яриа өрнүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌다",
+    "translation": "өдөөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌리",
+    "translation": "оюун санаа",
+    "hanja": "腦裏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뇌물",
+    "translation": "хээл хахууль",
+    "hanja": "賂物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뇌사",
+    "translation": "тархины үхэл",
+    "hanja": "腦死",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌사자",
+    "translation": "тархины үхэлтэй хүн",
+    "hanja": "腦死者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뇌사하다",
+    "translation": "Тархи нь үхэх",
+    "hanja": "腦死하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌섬엽",
+    "translation": "тархины арал",
+    "hanja": "腦섬葉",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "뇌성",
+    "translation": "аянга",
+    "hanja": "雷聲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뇌세포",
+    "translation": "тархины эс",
+    "hanja": "腦細胞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뇌수",
+    "translation": "Тархи",
+    "hanja": "腦髓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌압",
+    "translation": "тархины даралт",
+    "hanja": "腦壓",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌염",
+    "translation": "Тархины үрэвсэл",
+    "hanja": "腦炎",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "뇌옥",
+    "translation": "шов",
+    "hanja": "牢獄",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "뇌우",
+    "translation": "аянгат бороо",
+    "hanja": "雷雨",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뇌전",
+    "translation": "тархины үрэвсэл",
+    "hanja": "腦電",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌절",
+    "translation": "Мэдрэлийн таталт",
+    "hanja": "腦切",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "뇌조",
+    "translation": "хөхөө шувуу",
+    "hanja": "雷鳥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌졸중",
+    "translation": "Тархины харвалт",
+    "hanja": "腦卒中",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌졸증",
+    "translation": "тархины харвалт",
+    "hanja": "腦卒症",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뇌종양",
+    "translation": "Төвийн хавдар",
+    "hanja": "腦腫瘍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌진탕",
+    "translation": "тархины хөдлөлт",
+    "hanja": "腦震蕩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌출혈",
+    "translation": "тархины цус харвалт",
+    "hanja": "腦出血",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌파",
+    "translation": "тархины долгион",
+    "hanja": "腦波",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뇌회",
+    "translation": "тархины муруй (sulcus)",
+    "hanja": "腦回",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

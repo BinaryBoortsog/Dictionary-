@@ -1,0 +1,3502 @@
+[
+  {
+    "word": "기",
+    "translation": "хий",
+    "hanja": "氣",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기가",
+    "translation": "Гига",
+    "hanja": "기가",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기가다",
+    "translation": "мөлхөх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기가바이트",
+    "translation": "гигабайт",
+    "hanja": "기가바이트",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기가비트",
+    "translation": "гигабит",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기가헤르츠",
+    "translation": "гигагерц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "기각",
+    "translation": "татгалзах, үгүйсгэх",
+    "hanja": "棄却",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "기각되다",
+    "translation": "татгалзах, хэрэгсэхгүй болгох",
+    "hanja": "棄却되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "기각하다",
+    "translation": "хүлээн авахгүй байх",
+    "hanja": "棄却하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기간",
+    "translation": "Хугацаа",
+    "hanja": "期間",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "기간산업",
+    "translation": "үндсэн үйлдвэрлэл",
+    "hanja": "基幹産業",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기간토피테쿠스",
+    "translation": "Гигантопитек (амьтан)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "기갈",
+    "translation": "өлсгөлөн, цангаа",
+    "hanja": "飢渴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기갑",
+    "translation": "хуягт",
+    "hanja": "機甲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기강",
+    "translation": "сахилга бат, журам",
+    "hanja": "紀綱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기개",
+    "translation": "эр зориг, сэтгэл",
+    "hanja": "氣槪",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "기객",
+    "translation": "сонин хачин жуулчин",
+    "hanja": "奇客",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "기거",
+    "translation": "амьдрах",
+    "hanja": "寄居",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기거하다",
+    "translation": "амьдрах, оршин суух",
+    "hanja": "寄居하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기겁",
+    "translation": "Айх, цочих",
+    "hanja": "氣怯",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기겁하다",
+    "translation": "Айж цочих, аймшигтай байх",
+    "hanja": "氣怯하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기것",
+    "translation": "Хамгийн ихдээ, дээд тал нь",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기계",
+    "translation": "машин",
+    "hanja": "機械",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기계식",
+    "translation": "механик",
+    "hanja": "機械式",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "기계적",
+    "translation": "Механик",
+    "hanja": "機械的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기계화",
+    "translation": "механикжуулалт",
+    "hanja": "機械化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기계화되다",
+    "translation": "механикжих",
+    "hanja": "機械化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기고가",
+    "translation": "нийтлэгч",
+    "hanja": "寄稿家",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기고만장",
+    "translation": "бардам зан, өндөр сэтгэл",
+    "hanja": "氣高萬丈",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기고만장하다",
+    "translation": "сархад баалах",
+    "hanja": "기고만장하다(氣高萬丈하다)",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기고하다",
+    "translation": "бичиж оруулах",
+    "hanja": "寄稿하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "기골",
+    "translation": "багана яс",
+    "hanja": "奇骨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기공",
+    "translation": "барилгын ажлыг эхлүүлэх",
+    "hanja": "起工",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기공식",
+    "translation": "шав тавих ёслол",
+    "hanja": "起工式",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기관",
+    "translation": "байгууллага, эрхтэн",
+    "hanja": "機關",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "기관실",
+    "translation": "Машины өрөө",
+    "hanja": "機関室",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기관원",
+    "translation": "агент",
+    "hanja": "機關員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기관장",
+    "translation": "Машинч",
+    "hanja": "機關長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기관지",
+    "translation": "гуурсан хоолой",
+    "hanja": "氣管支",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기관지염",
+    "translation": "гуурсан хоолойн үрэвсэл",
+    "hanja": "氣管支炎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기관차",
+    "translation": "илчит тэрэг",
+    "hanja": "機關車",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기관총",
+    "translation": "Пулемёт",
+    "hanja": "機關銃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기광",
+    "translation": "Гэрэл, туяа",
+    "hanja": "氣光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기괴하다",
+    "translation": "хачин, сонин",
+    "hanja": "奇怪하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기교",
+    "translation": "ур чадвар",
+    "hanja": "技巧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기구",
+    "translation": "Хэрэгсэл, төхөөрөмж",
+    "hanja": "器具",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기구하다",
+    "translation": "хүнд хэцүү",
+    "hanja": "기구하다(崎嶇하다)",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기국",
+    "translation": "модны үндэс",
+    "hanja": "碁局",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기권",
+    "translation": "эрхээ татгалзах",
+    "hanja": "棄權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기권하다",
+    "translation": "эрхээ татгалзах",
+    "hanja": "棄權하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기근",
+    "translation": "үр тарианы хомсдол, өлсгөлөн",
+    "hanja": "飢饉",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기금",
+    "translation": "сан, хөрөнгө",
+    "hanja": "基金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기기",
+    "translation": "төхөөрөмж",
+    "hanja": "機器",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기기묘묘하다",
+    "translation": "сонин содон, ер бусын",
+    "hanja": "奇奇妙妙하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기꺼이",
+    "translation": "Дуртайяа",
+    "hanja": "",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기껍다",
+    "translation": "баярлах, таатай байх",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기껏",
+    "translation": "дээд тал нь",
+    "hanja": "null",
+    "pos": "д.ү.",
+    "cefr": "B1"
+  },
+  {
+    "word": "기껏해야",
+    "translation": "Ихдээ л",
+    "hanja": "기껏해야",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기낭",
+    "translation": "агаарын уут",
+    "hanja": "氣囊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기내",
+    "translation": "онгоцны дотор",
+    "hanja": "機內",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기내식",
+    "translation": "онгоцны хоол",
+    "hanja": "機內食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기냥",
+    "translation": "зүгээр л",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기네스",
+    "translation": "Гинесс",
+    "hanja": null,
+    "pos": "нэр",
+    "cefr": "C2"
+  },
+  {
+    "word": "기녀",
+    "translation": "гиний (хуучин БНСУ-д байсан урлагийн эмэгтэй)",
+    "hanja": "妓女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기념",
+    "translation": "дурсгал, тэмдэглэл",
+    "hanja": "記念",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기념관",
+    "translation": "дурсгалын танхим",
+    "hanja": "紀念館",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기념되다",
+    "translation": "Тэмдэглэгдэх; дурсагдах",
+    "hanja": "記念되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기념물",
+    "translation": "дурсгалын зүйл",
+    "hanja": "記念物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기념비",
+    "translation": "Хөшөө дурсгал",
+    "hanja": "記念碑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기념사",
+    "translation": "дурсгалын үг, илтгэл",
+    "hanja": "기념사(記念辭)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기념사진",
+    "translation": "дурсгалын зураг",
+    "hanja": "記念寫眞",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기념식",
+    "translation": "дурсгалын ёслол",
+    "hanja": "紀念式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기념일",
+    "translation": "ойн өдөр",
+    "hanja": "記念日",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기념주화",
+    "translation": "дурсгалын зоос",
+    "hanja": "記念鑄貨",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기념탑",
+    "translation": "дурсгалын хөшөө",
+    "hanja": "紀念塔",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기념품",
+    "translation": "Дурсгалын зүйл",
+    "hanja": "紀念品",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기념하다",
+    "translation": "тэмдэглэх",
+    "hanja": "記念하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "기념회",
+    "translation": "ой тэмдэглэх хурал",
+    "hanja": "記念會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기능",
+    "translation": "чиг үүрэг",
+    "hanja": "機能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기능공",
+    "translation": "ажилчин, гар урчууд",
+    "hanja": "技能工",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기능성",
+    "translation": "функциональ байдал",
+    "hanja": "機能性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기능적",
+    "translation": "үйл ажиллагааны",
+    "hanja": "機動的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기능하다",
+    "translation": "ажиллах",
+    "hanja": "機能하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기니",
+    "translation": "Гвиней",
+    "hanja": "Guinea",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기니비사우",
+    "translation": "Гвиней-Бисау",
+    "hanja": "기니비사우",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기다",
+    "translation": "мөлхөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기다랗다",
+    "translation": "урт, нарийхан",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기다리다",
+    "translation": "хүлээх",
+    "hanja": "기다리다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기다리지다",
+    "translation": "Хүлээцгүй болох",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기단",
+    "translation": "суурь, тавцан",
+    "hanja": "基壇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기달리다",
+    "translation": "хүлээх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "기대",
+    "translation": "хүлээлт",
+    "hanja": "期待",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기대감",
+    "translation": "хүлээлт",
+    "hanja": "期待感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기대다",
+    "translation": "түших, тавих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기대되다",
+    "translation": "Хүлээгдэж байна",
+    "hanja": "期待되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기대앉다",
+    "translation": "налан суух",
+    "hanja": "기대앉다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "기대주",
+    "translation": "ирээдүйтэй, найдвар тавих",
+    "hanja": "期待株",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기대하다",
+    "translation": "хүлээх, найдвар тавих",
+    "hanja": "期待하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기댓값",
+    "translation": "Хүлээгдэж буй утга",
+    "hanja": "期待값",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "기덕",
+    "translation": "ер бусын буян",
+    "hanja": "奇德",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기도",
+    "translation": "залбирал",
+    "hanja": "祈禱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기도문",
+    "translation": "залбирал",
+    "hanja": "祈禱文",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기도원",
+    "translation": "мөргөлийн газар",
+    "hanja": "祈禱院",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기도하다",
+    "translation": "Залбирах",
+    "hanja": "祈禱하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기독",
+    "translation": "христийн шашин",
+    "hanja": "基督",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기독교",
+    "translation": "христийн шашин",
+    "hanja": "基督敎",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기독교인",
+    "translation": "христийн шашинтан",
+    "hanja": "基督敎人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기동",
+    "translation": "Угсрах, ажиллуулах",
+    "hanja": "起動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기동대",
+    "translation": "хөдөлгөөнт баг",
+    "hanja": "機動隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기동력",
+    "translation": "хөдөлгөөний чадвар",
+    "hanja": "機動力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기동성",
+    "translation": "хөдөлгөөнт байдал",
+    "hanja": "機動性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기동하다",
+    "translation": "хөдлөх",
+    "hanja": "機動하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기두",
+    "translation": "Киду",
+    "hanja": "기두",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기둘리다",
+    "translation": "хүлээх (ярианы хэл)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기둥",
+    "translation": "багана",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "기둥뿌리",
+    "translation": "баганын суурь",
+    "hanja": "기둥뿌리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기둥서방",
+    "translation": "биеэ үнэлэгчийн эр",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기둥이",
+    "translation": "багана",
+    "hanja": "기둥",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "기드온",
+    "translation": "Гидеон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기득권",
+    "translation": "хуучин эрх",
+    "hanja": "旣得權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기때",
+    "translation": "туг далбаа",
+    "hanja": "旗때",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기또",
+    "translation": "мэдээж",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "기똥차다",
+    "translation": "гайхалтай, гайхамшигтай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기라성",
+    "translation": "оддын чуулган",
+    "hanja": "綺羅星",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기량",
+    "translation": "ур чадвар",
+    "hanja": "技倆",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기러기",
+    "translation": "галуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기럼",
+    "translation": "тийм бол",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기레기",
+    "translation": "сэтгүүлч-хог",
+    "hanja": "기레기",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기력",
+    "translation": "хүч чадал",
+    "hanja": "氣力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기령",
+    "translation": "тэмдэглэлийн нас",
+    "hanja": "記齡",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "기로",
+    "translation": "загалмайн зам",
+    "hanja": "岐路",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기록",
+    "translation": "Бүртгэл, бичих",
+    "hanja": "記錄",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기록되다",
+    "translation": "бүртгэгдэх, тэмдэглэгдэх",
+    "hanja": "記錄되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "기록문",
+    "translation": "баримтат зохиол, тэмдэглэл",
+    "hanja": "記錄文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기록부",
+    "translation": "Бүртгэлийн дэвтэр",
+    "hanja": "記錄簿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기록적",
+    "translation": "түүхэн",
+    "hanja": "記錄的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기록하다",
+    "translation": "тэмдэглэх, бичих",
+    "hanja": "記錄-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기뢰",
+    "translation": "Тэнгисийн мина",
+    "hanja": "機雷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기루",
+    "translation": "мэргэжил нэгт",
+    "hanja": "妓樓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기류",
+    "translation": "Агаарын урсгал",
+    "hanja": "氣流",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기르다",
+    "translation": "өсгөх, тэжээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기름",
+    "translation": "тос",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기름기",
+    "translation": "тослог, өөхлөг",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "기름때",
+    "translation": "тосны толбо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기름띠",
+    "translation": "тосны толбо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기름밥",
+    "translation": "Тостой хоол (механикчийн ажил)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기름보일러",
+    "translation": "газрын тосны зуух",
+    "hanja": "기름보일러",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기름종이",
+    "translation": "тосон цаас",
+    "hanja": "기름종이",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "기름지다",
+    "translation": "тослог",
+    "hanja": "기름지다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기름칠",
+    "translation": "тослох",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기름칠하다",
+    "translation": "тослох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기름투성이",
+    "translation": "тостой, тослог",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "기름하다",
+    "translation": "гулгамтгай, тослог байх",
+    "hanja": "기름하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기리",
+    "translation": "гайхамшигтай, сайн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기리다",
+    "translation": "хүндлэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기린",
+    "translation": "Анааш",
+    "hanja": "기린",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기림",
+    "translation": "хүндэтгэл",
+    "hanja": "祈臨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기립",
+    "translation": "босох",
+    "hanja": "起立",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기립하다",
+    "translation": "Босох",
+    "hanja": "起立하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "기마대",
+    "translation": "морьт цэрэг",
+    "hanja": "騎馬隊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기막히다",
+    "translation": "гайхамшигтай, гайхалтай",
+    "hanja": "氣막히다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기만",
+    "translation": "хууран мэхлэх",
+    "hanja": "欺瞞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기만전술",
+    "translation": "хууран мэхлэх тактик",
+    "hanja": "欺瞞戰術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기만하다",
+    "translation": "хуурах, мэхлэх",
+    "hanja": "欺瞞하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "기말",
+    "translation": "улирлын эцэс, жилийн эцэс",
+    "hanja": "期末",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기말고사",
+    "translation": "Эцсийн шалгалт",
+    "hanja": "期末考査",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기말시험",
+    "translation": "семестрийн шалгалт",
+    "hanja": "期末試驗",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기망",
+    "translation": "Мэхлэх, хуурах",
+    "hanja": "欺罔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기망하다",
+    "translation": "хууран мэхлэх",
+    "hanja": "欺罔하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기명",
+    "translation": "нэрт, гар бичмэл",
+    "hanja": "記名",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기모",
+    "translation": "савхан даавуу",
+    "hanja": "起毛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기모노",
+    "translation": "кимно",
+    "hanja": "기모노",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기묘",
+    "translation": "Сонин, этгээд",
+    "hanja": "奇妙",
+    "pos": "Adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "기묘하다",
+    "translation": "Сонин",
+    "hanja": "奇妙하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "기무",
+    "translation": "цэргийн нууц",
+    "hanja": "機務",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기무라",
+    "translation": "Кимура (Японы нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기문",
+    "translation": "хачирхалтай үг",
+    "hanja": "奇聞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기물",
+    "translation": "эд зүйлс, бараа",
+    "hanja": "器物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기미",
+    "translation": "Барцад, шинж тэмдэг",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기미하다",
+    "translation": "амтлах",
+    "hanja": "氣味하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기민",
+    "translation": "Сэргэг, хурц",
+    "hanja": "機敏",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "기민하다",
+    "translation": "сэргэлэн байх",
+    "hanja": "機敏하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기밀",
+    "translation": "нууц",
+    "hanja": "機密",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기밀문건",
+    "translation": "нууц бичиг баримт",
+    "hanja": "機密文件",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기밀문서",
+    "translation": "нууц баримт бичиг",
+    "hanja": "機密文書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기반",
+    "translation": "үндэс",
+    "hanja": "基盤",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기반하다",
+    "translation": "үндэслэх",
+    "hanja": "基盤하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기발",
+    "translation": "сонирхолтой санаа",
+    "hanja": "奇拔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기발하다",
+    "translation": "Гайхалтай, ухаалаг",
+    "hanja": "奇拔하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기방",
+    "translation": "гишүүний байшин (хуучирсан)",
+    "hanja": "妓房",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기백",
+    "translation": "эрмэг зориг",
+    "hanja": "氣魄",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기법",
+    "translation": "Техник, арга барил",
+    "hanja": "技法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기벽",
+    "translation": "содон зан",
+    "hanja": "奇癖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기변",
+    "translation": "Унадаг дугуйн өөрчлөлт",
+    "hanja": "騎變",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기별",
+    "translation": "мэдээ, захиа, мэдэгдэл",
+    "hanja": "寄別",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기별하다",
+    "translation": "мэдэгдэх",
+    "hanja": "奇別하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기병",
+    "translation": "морьт цэрэг",
+    "hanja": "騎兵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기병대",
+    "translation": "морин цэрэг",
+    "hanja": "騎兵隊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기보",
+    "translation": "нүүдлийн тэмдэглэл",
+    "hanja": "棋譜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기복",
+    "translation": "хэлбэлзэл",
+    "hanja": "起伏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기본",
+    "translation": "үндсэн",
+    "hanja": "基本",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기본권",
+    "translation": "Үндсэн эрх",
+    "hanja": "基本權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기본급",
+    "translation": "Үндсэн цалин",
+    "hanja": "基本給",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "기본기",
+    "translation": "Үндсэн ур чадвар, суурь",
+    "hanja": "基本技",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기본예절",
+    "translation": "үндсэн ёс зүй",
+    "hanja": "基本禮節",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기본요금",
+    "translation": "үндсэн төлбөр",
+    "hanja": "基本料金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기본적",
+    "translation": "үндсэн, гол",
+    "hanja": "基本的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기본형",
+    "translation": "үндсэн хэлбэр",
+    "hanja": "基本形",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기봉",
+    "translation": "тулгуур шон",
+    "hanja": "旗棒",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기부",
+    "translation": "хандив",
+    "hanja": "寄附",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기부금",
+    "translation": "хандив",
+    "hanja": "寄附金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기부되다",
+    "translation": "хандивлах",
+    "hanja": "寄附되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기부하다",
+    "translation": "хандивлах",
+    "hanja": "寄附하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "기분",
+    "translation": "сэтгэл санаа",
+    "hanja": "氣分",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기분파",
+    "translation": "сэтгэлийн хөдөлгөөнөөр амьдрагч",
+    "hanja": "氣分派",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "기브스",
+    "translation": "гипс",
+    "hanja": "gibbs",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "기비",
+    "translation": "харгис",
+    "hanja": "No Hanja",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기뻐하다",
+    "translation": "баярлах",
+    "hanja": "喜—",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기쁘다",
+    "translation": "баярлах, баяртай байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기쁨",
+    "translation": "Баяр баясгалан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기사",
+    "translation": "нийтлэл",
+    "hanja": "記事",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "기사도",
+    "translation": "Хишиг",
+    "hanja": "騎士道",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "기사문",
+    "translation": "Нийтлэл, өгүүлэл",
+    "hanja": "記事文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기사하다",
+    "translation": "нийтлэх",
+    "hanja": "기사하다(記事하다)",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기사화",
+    "translation": "мэдээлэх",
+    "hanja": "記事化",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "기사화되다",
+    "translation": "нийтлэгдэх",
+    "hanja": "記事化─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기사화하다",
+    "translation": "мэдээ болгох, нийтлэх",
+    "hanja": "記事化─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기사회생",
+    "translation": "амьдралд эргэн ирэх",
+    "hanja": "起死回生",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기사회생하다",
+    "translation": "амилах",
+    "hanja": "起死回生하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "기산",
+    "translation": "эхлэх уул",
+    "hanja": "起算",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기삿거리",
+    "translation": "мэдээний зүйл, нийтлэлийн сэдэв",
+    "hanja": "記事거리",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기상",
+    "translation": "цаг агаар",
+    "hanja": "氣象",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "기상대",
+    "translation": "цаг уурын станц",
+    "hanja": "氣象臺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기상천외",
+    "translation": "Гайхалтай, ер бусын",
+    "hanja": "奇想天外",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "기상천외하다",
+    "translation": "гайхалтай",
+    "hanja": "奇想天外하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기상청",
+    "translation": "цаг уурын товчоо",
+    "hanja": "氣象廳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기상하다",
+    "translation": "сэрэх",
+    "hanja": "起床하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기상학",
+    "translation": "цаг уур судлал",
+    "hanja": "氣象學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기색",
+    "translation": "шинж тэмдэг",
+    "hanja": "氣色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기생",
+    "translation": "гисэн (солонгосын зугаацуулагч эмэгтэй)",
+    "hanja": "妓生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기생충",
+    "translation": "Шимэгч хорхой",
+    "hanja": "寄生蟲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기생하다",
+    "translation": "паразитлах",
+    "hanja": "寄生하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "기석",
+    "translation": "суурь чулуу",
+    "hanja": "基石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기선",
+    "translation": "Уурын хөлөг онгоц",
+    "hanja": "汽船",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기성",
+    "translation": "бэлэн, тогтсон",
+    "hanja": "旣成",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기성세대",
+    "translation": "хуучин үеийнхэн",
+    "hanja": "旣成世代",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기성품",
+    "translation": "бэлэн бүтээгдэхүүн",
+    "hanja": "旣成品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기세",
+    "translation": "хүч, эрч хүч",
+    "hanja": "氣勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기세등등",
+    "translation": "Дайчин, ууртай, эрэлхэг",
+    "hanja": "氣勢騰騰",
+    "pos": "Adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "기세등등하다",
+    "translation": "хүчтэй",
+    "hanja": "氣勢騰騰하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기소",
+    "translation": "Яллах",
+    "hanja": "起訴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기소되다",
+    "translation": "буруутгагдах",
+    "hanja": "起訴되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기소장",
+    "translation": "Яллах дүгнэлт",
+    "hanja": "起訴狀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기소하다",
+    "translation": "ял эдлэх",
+    "hanja": "起訴하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "기속",
+    "translation": "захирагдах, хамаарах",
+    "hanja": "羈屬",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기수",
+    "translation": "уралдааны морь унаач",
+    "hanja": "騎手",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기숙",
+    "translation": "дотуур байр",
+    "hanja": "寄宿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기숙사",
+    "translation": "дотуур байр",
+    "hanja": "寄宿舍",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "기순",
+    "translation": "дараалал, дараа",
+    "hanja": "期順",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기술",
+    "translation": "техник, ур чадвар",
+    "hanja": "技術",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기술되다",
+    "translation": "тэмдэглэгдэх, бичигдэх",
+    "hanja": "記述되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기술력",
+    "translation": "технологийн чадвар",
+    "hanja": "技術力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기술상",
+    "translation": "техникийн хувьд",
+    "hanja": "技術上",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기술자",
+    "translation": "инженер, техникч",
+    "hanja": "技術者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기술적",
+    "translation": "техникийн",
+    "hanja": "技術的",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기술직",
+    "translation": "Техникийн ажилтан",
+    "hanja": "技術職",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기술진",
+    "translation": "техникийн баг",
+    "hanja": "技術陣",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "기술하다",
+    "translation": "Тайлбарлах, бичиж тэмдэглэх",
+    "hanja": "記述하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기스",
+    "translation": "зураас",
+    "hanja": "기스",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기슭",
+    "translation": "энгэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기습",
+    "translation": "гэнэтийн дайралт",
+    "hanja": "奇襲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기습적",
+    "translation": "гэнэтийн, дайралтын шинжтэй",
+    "hanja": "奇襲的",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기습하다",
+    "translation": "гэнэт дайрах",
+    "hanja": "奇襲하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기승",
+    "translation": "хүндрэл, эрчимжилт",
+    "hanja": "氣勝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기승전",
+    "translation": "эхлэл, хөгжил, төгсгөл",
+    "hanja": "起承轉",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기승전결",
+    "translation": "эхлэл, хөгжил, эргэлт, төгсгөл",
+    "hanja": "起承轉結",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기시",
+    "translation": "өмнө нь мэдэрсэн мэт",
+    "hanja": "旣視",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기시미",
+    "translation": "цагаан будааны гурилаар хийсэн боов",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기식",
+    "translation": "хоол хүнс гуйх",
+    "hanja": "寄食",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기싸움하다",
+    "translation": "Хүч сорих, өрсөлдөх",
+    "hanja": "氣싸움하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "기아",
+    "translation": "өлсгөлөн",
+    "hanja": "飢餓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기악",
+    "translation": "хөгжмийн зэмсгийн хөгжим",
+    "hanja": "器樂",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기악곡",
+    "translation": "хөгжмийн зохиол",
+    "hanja": "器樂曲",
+    "pos": "NNG",
+    "cefr": "C1"
+  },
+  {
+    "word": "기안",
+    "translation": "төсөл",
+    "hanja": "起案",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기암괴석",
+    "translation": "хачирхалтай хэлбэртэй чулуу, хад",
+    "hanja": "奇巖怪石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기암절벽",
+    "translation": "сонин хадтай эгц хавцал",
+    "hanja": "奇巖絕壁",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "기압",
+    "translation": "Агаарын даралт",
+    "hanja": "氣壓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기압골",
+    "translation": "даралтын хотгор",
+    "hanja": "氣壓골",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기약",
+    "translation": "Амлалт",
+    "hanja": "期約",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기약하다",
+    "translation": "ам хэлцэх",
+    "hanja": "期約하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기어",
+    "translation": "араа, хурдны хайрцаг",
+    "hanja": "機語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기어다니다",
+    "translation": "мөлхөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기어들다",
+    "translation": "Мөлхөж орох",
+    "hanja": "기어들다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기어오르다",
+    "translation": "Мөлхөж өгсөх, авирах",
+    "hanja": "기어오르다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기어이",
+    "translation": "Яаж ийж байгаад, эцсийн эцэст",
+    "hanja": "기어이",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기어코",
+    "translation": "эцсийн эцэст",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기억",
+    "translation": "Ой тогтоолт, дурсамж",
+    "hanja": "記憶",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "기억나다",
+    "translation": "санах",
+    "hanja": "記憶─",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "기억되다",
+    "translation": "Санагдах, дурсагдах",
+    "hanja": "記憶되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기억력",
+    "translation": "ой санамж",
+    "hanja": "記憶力",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기억시키다",
+    "translation": "Сануулах, тогтоож өгөх",
+    "hanja": "記憶시키다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "기억하다",
+    "translation": "санах",
+    "hanja": "記憶하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "기업",
+    "translation": "аж ахуйн нэгж, компани",
+    "hanja": "企業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기업가",
+    "translation": "бизнесмен",
+    "hanja": "企業家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기업인",
+    "translation": "бизнесмен, аж ахуйн нэгжийн эзэн",
+    "hanja": "企業人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기업적",
+    "translation": "бизнес, аж ахуйн",
+    "hanja": "企業的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기업주",
+    "translation": "аж ахуйн нэгжийн эзэн",
+    "hanja": "企業主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기업체",
+    "translation": "аж ахуйн нэгж",
+    "hanja": "企業體",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기업하다",
+    "translation": "Аж ахуй эрхлэх",
+    "hanja": "企業하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기업화",
+    "translation": "Аж үйлдвэржүүлэх",
+    "hanja": "企業化",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기여",
+    "translation": "хувь нэмэр",
+    "hanja": "寄與",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기여도",
+    "translation": "хувь нэмэр",
+    "hanja": "寄與度",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기여하다",
+    "translation": "хувь нэмэр оруулах",
+    "hanja": "寄與하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기역",
+    "translation": "기역 (Солонгос цагаан толгойн эхний үсэг)",
+    "hanja": "기역",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기연",
+    "translation": "аз завшаан",
+    "hanja": "奇緣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기열",
+    "translation": "ангилал",
+    "hanja": "기열(氣熱)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기염",
+    "translation": "гайхамшигтай амжилт",
+    "hanja": "氣焰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기엽다",
+    "translation": "хөөрхөн, сэтгэл татам",
+    "hanja": "기엽다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기영",
+    "translation": "хүндэтгэн хүлээн авах",
+    "hanja": "氣營",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기예",
+    "translation": "ур чадвар",
+    "hanja": "技藝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기오",
+    "translation": "гиё",
+    "hanja": "기오",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기옥",
+    "translation": "торлоно",
+    "hanja": "祈獄",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기온",
+    "translation": "Агаарын температур",
+    "hanja": "氣溫",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "기와",
+    "translation": "Ваар",
+    "hanja": "기와",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기와지붕",
+    "translation": "瓦 дээвэр",
+    "hanja": "기와지붕",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기와집",
+    "translation": "хэрэмт байшин, хавтан дээвэртэй байшин",
+    "hanja": "기와집",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기왓장",
+    "translation": "дээврийн вааран хавтан",
+    "hanja": "기왓장",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기왕",
+    "translation": "Аль хэдийнэ",
+    "hanja": "旣往",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기왕지사",
+    "translation": "өнгөрсөн хэрэг",
+    "hanja": "旣往之事",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기요미즈데라",
+    "translation": "Киёмизу-дэра",
+    "hanja": "清水寺",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "기요틴",
+    "translation": "гильотин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기욤",
+    "translation": "Гийом",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기용",
+    "translation": "ашиглах",
+    "hanja": "起用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기용되다",
+    "translation": "томилогдох, ажилд ашиглагдах",
+    "hanja": "起用되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기용하다",
+    "translation": "ажилд авах, томилох",
+    "hanja": "起用하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기우",
+    "translation": "бодлын шуурга, хэт их санаа зовох",
+    "hanja": "杞憂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기우뚱",
+    "translation": "үл мэдэг хазайна",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기우뚱거리다",
+    "translation": "налуулах, ганхах",
+    "hanja": "기우뚱거리다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "기우뚱하다",
+    "translation": "Налах, ганхах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "기우제",
+    "translation": "бороо оруулах зан үйл",
+    "hanja": "祈雨祭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기운",
+    "translation": "эрчим хүч",
+    "hanja": "氣運",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기운차다",
+    "translation": "хүчтэй, эрч хүчтэй байх",
+    "hanja": "氣運-",
+    "pos": "형용사 (Adjective)",
+    "cefr": "B2"
+  },
+  {
+    "word": "기울다",
+    "translation": "Хазайх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기울이다",
+    "translation": "Хазайлгах, зүтгэх",
+    "hanja": "기울이다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기웃",
+    "translation": "хоргодох",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기웃거리다",
+    "translation": "шагайх, хяламхийх",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기웃기웃",
+    "translation": "шагайх шагайх",
+    "hanja": "기웃기웃",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기웃기웃하다",
+    "translation": "гарч ирэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기웃대다",
+    "translation": "сэм харах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기원",
+    "translation": "Гарал үүсэл, эх сурвалж",
+    "hanja": "起源",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기원전",
+    "translation": "МЭӨ",
+    "hanja": "紀元前",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기원하다",
+    "translation": "ерөөх",
+    "hanja": "祈願하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기원후",
+    "translation": "манай эриний",
+    "hanja": "紀元後",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기유",
+    "translation": "Үндсэн тос",
+    "hanja": "基油",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기율",
+    "translation": "сахилга бат",
+    "hanja": "紀律",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기은",
+    "translation": "буянт сэтгэл",
+    "hanja": "奇恩",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기이",
+    "translation": "хачирхалтай",
+    "hanja": "奇異",
+    "pos": "Adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "기이하다",
+    "translation": "сонин хачин, ер бусын",
+    "hanja": "奇異하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기인",
+    "translation": "хачин хүн",
+    "hanja": "奇人",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기인하다",
+    "translation": "үүсэх, шалтгаалах",
+    "hanja": "基因-",
+    "pos": "동사 (Verb)",
+    "cefr": "C1"
+  },
+  {
+    "word": "기일",
+    "translation": "насны ой, таалал төгссөн өдөр",
+    "hanja": "忌日",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기입",
+    "translation": "Оруулах, бичих",
+    "hanja": "記入",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "기입되다",
+    "translation": "бүртгэгдэх, бичигдэх",
+    "hanja": "記入되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기입하다",
+    "translation": "Бөглөх, бичих, тэмдэглэх",
+    "hanja": "記入하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기자",
+    "translation": "Сэтгүүлч",
+    "hanja": " 기자(記者)",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "기자단",
+    "translation": "Сэтгүүлчдийн баг",
+    "hanja": "記者團",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기자실",
+    "translation": "сэтгүүлчдийн өрөө",
+    "hanja": " 기자실",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기자하다",
+    "translation": "тэмдэглэж байна",
+    "hanja": "記刺하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기작",
+    "translation": "механизм",
+    "hanja": "機作",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기장",
+    "translation": "ахмад",
+    "hanja": "機長",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기재",
+    "translation": "Бичих, бүртгэх",
+    "hanja": "記載",
+    "pos": "명사 (Noun) / 동사 (Verb)",
+    "cefr": "B1"
+  },
+  {
+    "word": "기재되다",
+    "translation": "бүртгэгдэх",
+    "hanja": "記載되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기재위",
+    "translation": "Эдийн засгийн бодлогын хэлтэс (Засгийн газрын)",
+    "hanja": "企財委",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "기재하다",
+    "translation": "бүртгэх, тэмдэглэх",
+    "hanja": "記載하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기저",
+    "translation": "үндэс, суурь",
+    "hanja": "基底",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기저귀",
+    "translation": "живх",
+    "hanja": "기저귀",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기적",
+    "translation": "Гайхамшиг",
+    "hanja": "奇蹟",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기적적",
+    "translation": "Гайхамшигтай",
+    "hanja": "奇蹟的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "기전",
+    "translation": "механизм",
+    "hanja": "機轉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기절",
+    "translation": "Ухаан алдах",
+    "hanja": "氣絕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기절초풍",
+    "translation": "айж балмагдах",
+    "hanja": "氣絕醋風",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기절초풍하다",
+    "translation": "айж үхэх шахсан, балмагдах",
+    "hanja": "氣絶初風하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기절하다",
+    "translation": "ухаан алдах",
+    "hanja": "氣絕하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기점",
+    "translation": "эхлэх цэг",
+    "hanja": "基點",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기정",
+    "translation": "Аль хэдийн тодорхойлогдсон",
+    "hanja": "既定",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기정사실",
+    "translation": "баримт болсон зүйл",
+    "hanja": "旣定事實",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기정사실화되다",
+    "translation": "Баримт болгох, биелэгдэх",
+    "hanja": "既定事實化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기정사실화하다",
+    "translation": "бодит үнэн мэт болгох",
+    "hanja": "旣定事實化하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기제",
+    "translation": "тоног төхөөрөмж",
+    "hanja": "機制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기조",
+    "translation": "үндсэн өнгө аяс",
+    "hanja": "基調",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기조연설",
+    "translation": "үндсэн илтгэл",
+    "hanja": "基調演說",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기존",
+    "translation": "одоо байгаа",
+    "hanja": "旣存",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기주",
+    "translation": "Эзэн",
+    "hanja": "寄主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기죽다",
+    "translation": "айх, зүрх шимших",
+    "hanja": "氣 죽다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기준",
+    "translation": "стандарт, шалгуур",
+    "hanja": "基準",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기준선",
+    "translation": "үүсгэх шугам",
+    "hanja": "基準線",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "기준점",
+    "translation": "Жишиг цэг",
+    "hanja": "基準點",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기준하다",
+    "translation": "Үндэслэх",
+    "hanja": "基準하다",
+    "pos": "Үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "기중",
+    "translation": "Дотроос, дундаас",
+    "hanja": "其中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기중기",
+    "translation": "кран",
+    "hanja": "起重機",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기증",
+    "translation": "хандив",
+    "hanja": "寄贈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기증되다",
+    "translation": "хандивлах",
+    "hanja": "寄贈되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기증받다",
+    "translation": "бэлэг болгон авах, хандиваар авах",
+    "hanja": "寄贈받다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기증자",
+    "translation": "хандивлагч",
+    "hanja": "寄贈者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기증하다",
+    "translation": "хандивлахаа",
+    "hanja": "寄贈하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기지",
+    "translation": "бааз",
+    "hanja": "基地",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기지개",
+    "translation": "суниах",
+    "hanja": "기지개",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기지국",
+    "translation": "базовый станц",
+    "hanja": "基地局",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기지배",
+    "translation": "Охин (ихэвчлэн жолоогүй, муу), хүүхэн",
+    "hanja": null,
+    "pos": "명사 (비표준어)",
+    "cefr": "C2"
+  },
+  {
+    "word": "기진",
+    "translation": "ядарсан, туйлдсан",
+    "hanja": "氣盡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기진맥진",
+    "translation": "ядарч сульдах",
+    "hanja": "氣盡脈盡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기진맥진하다",
+    "translation": "ядарч туйлдаж байна",
+    "hanja": "氣盡脈盡하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기진하다",
+    "translation": "ядарч туйлдаx",
+    "hanja": "氣盡하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기질",
+    "translation": "Зан авир",
+    "hanja": "氣質",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기집",
+    "translation": "хүүхэн",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "기차",
+    "translation": "Галт тэрэг",
+    "hanja": "汽車",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기차놀이",
+    "translation": "гал тэрэгний тоглоом",
+    "hanja": "汽車놀이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기차다",
+    "translation": "гайхамшигтай",
+    "hanja": "氣差다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "기차역",
+    "translation": "галт тэрэгний буудал",
+    "hanja": "汽車驛",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "기차표",
+    "translation": "галт тэрэгний тасалбар",
+    "hanja": "汽車票",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기착지",
+    "translation": "зогсох газар, завсарлах газар",
+    "hanja": "寄着地",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기찻길",
+    "translation": "Төмөр зам",
+    "hanja": "汽車길",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기창",
+    "translation": "Кичан",
+    "hanja": "기창",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기척",
+    "translation": "чимээ",
+    "hanja": "氣尺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기철",
+    "translation": "Кичõл",
+    "hanja": "기철",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기체",
+    "translation": "хийн биет",
+    "hanja": "氣體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기초",
+    "translation": "үндэс",
+    "hanja": "基礎",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기초적",
+    "translation": "Үндсэн",
+    "hanja": "基礎的",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "기초하다",
+    "translation": "үндэслэх",
+    "hanja": "基礎하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기초화장",
+    "translation": "суурь нүүр будалт",
+    "hanja": "基礎化粧",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기총",
+    "translation": "пулемёт",
+    "hanja": "機銃",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기축",
+    "translation": "үндсэн, тулгуур, гол",
+    "hanja": "基軸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기출",
+    "translation": "өмнө нь гарсан",
+    "hanja": "旣出",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기층",
+    "translation": "Суурь давхарга",
+    "hanja": "基層",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기침",
+    "translation": "ханиалгах",
+    "hanja": "기침",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기침하다",
+    "translation": "ханиалгах",
+    "hanja": "기침하다",
+    "pos": "ү",
+    "cefr": "A1"
+  },
+  {
+    "word": "기카다",
+    "translation": "Явж ирэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기쿠치",
+    "translation": "Кикүчи (Овог)",
+    "hanja": "菊池",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기타",
+    "translation": "бусад, гитар",
+    "hanja": "其他",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "기타리스트",
+    "translation": "гитарчин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기타큐슈",
+    "translation": "КитаКюүшюү",
+    "hanja": "北九州",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기탁",
+    "translation": "итгэмжлэх, өгөх",
+    "hanja": "寄託",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기탁하다",
+    "translation": "хадгалуулах, хадгалах",
+    "hanja": "寄託하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기탄없다",
+    "translation": "чөлөөтэй, илэн далангүй",
+    "hanja": "忌憚없다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기탄없이",
+    "translation": "нуулгүй, илэн далангүй",
+    "hanja": "忌憚없이",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기태",
+    "translation": "хачирхалтай байдал",
+    "hanja": "奇態",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기택",
+    "translation": "Ки-Тэк",
+    "hanja": "基澤",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기통",
+    "translation": "цилиндр (хөдөлгүүрийн)",
+    "hanja": "氣筒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기특하다",
+    "translation": "Мундаг, магтууштай",
+    "hanja": "奇特하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기틀",
+    "translation": "үндэс, суурь",
+    "hanja": "基틀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기판",
+    "translation": "электроникийн самбар",
+    "hanja": "基板",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기포",
+    "translation": "хийлэгдэх, бөмбөлөг",
+    "hanja": "氣泡",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기폭",
+    "translation": "тэсрэх бөмбөг",
+    "hanja": "起爆",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기폭제",
+    "translation": "тэсрэх бодис",
+    "hanja": "起爆劑",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "기표",
+    "translation": "тэмдэглэх, сонгуулийн хуудсанд тэмдэглэх",
+    "hanja": "記票",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기표소",
+    "translation": "санал хураах бүхээг",
+    "hanja": "記票所",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기표하다",
+    "translation": "тэмдэглэх",
+    "hanja": "記票하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기품",
+    "translation": "Язгууртны төрх, дэгжин байдал",
+    "hanja": "氣品",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기풍",
+    "translation": "уур амьсгал",
+    "hanja": "氣風",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기프트",
+    "translation": "бэлэг",
+    "hanja": "gift",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "기피",
+    "translation": "Зайлсхийх",
+    "hanja": "忌避",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기피하다",
+    "translation": "зайлсхийх",
+    "hanja": "忌避하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기필코",
+    "translation": "заавал",
+    "hanja": "期必코",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기하급수",
+    "translation": "геометрийн прогресс",
+    "hanja": "幾何級數",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기하급수적",
+    "translation": "геометрийн прогрессоор",
+    "hanja": "幾何級數的",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기하다",
+    "translation": "тогтоох, төлөвлөх",
+    "hanja": "期하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기하학",
+    "translation": "Геометр",
+    "hanja": "幾何學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기한",
+    "translation": "хугацаа",
+    "hanja": "期限",
+    "pos": "м.н",
+    "cefr": "B1"
+  },
+  {
+    "word": "기함",
+    "translation": "флагман хөлөг онгоц",
+    "hanja": "旗艦",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기함하다",
+    "translation": "Гайхаж цочих",
+    "hanja": "氣陷하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기합",
+    "translation": "Сэтгэлийн хүч, хичээл зүтгэл",
+    "hanja": "氣合",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기항",
+    "translation": "зогсох, зогсолт хийх (хөлөг онгоц)",
+    "hanja": "寄港",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기항하다",
+    "translation": "портод зогсох",
+    "hanja": "寄港하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "기행",
+    "translation": "аялал тэмдэглэл",
+    "hanja": "紀行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기행문",
+    "translation": "аяллын тэмдэглэл",
+    "hanja": "紀行文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기현상",
+    "translation": "сонин үзэгдэл",
+    "hanja": "奇現象",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기혈",
+    "translation": "хий хуйс, цус",
+    "hanja": "氣血",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기형",
+    "translation": "хөгжлийн гажиг",
+    "hanja": "畸形",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기형아",
+    "translation": "гажигтай хүүхэд",
+    "hanja": "畸形兒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기형적",
+    "translation": "гажиг, муухай хэлбэртэй",
+    "hanja": "畸形的",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기호",
+    "translation": "тэмдэг",
+    "hanja": "記號",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기호품",
+    "translation": "сонирхлын бараа",
+    "hanja": "嗜好品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기혼",
+    "translation": "гэрлэсэн",
+    "hanja": "旣婚",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기혼자",
+    "translation": "гэрлэсэн хүн",
+    "hanja": "既婚者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기화",
+    "translation": "уурших, хий болох",
+    "hanja": "氣化",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기화되다",
+    "translation": "уурших",
+    "hanja": "氣化되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "기화하다",
+    "translation": "уурших",
+    "hanja": "氣化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기회",
+    "translation": "боломж",
+    "hanja": "機會",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "기회균등",
+    "translation": "тэгш боломж",
+    "hanja": "機會均等",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기회주의",
+    "translation": "Опортюнизм",
+    "hanja": "機會主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기회주의자",
+    "translation": "оппортунист, ашиг хонжоо хайгч",
+    "hanja": "機會主義者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기회주의적",
+    "translation": "Опортюнист",
+    "hanja": "機會主義的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기획",
+    "translation": "төлөвлөгөө",
+    "hanja": "企劃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기획되다",
+    "translation": "төлөвлөгдөх",
+    "hanja": "企劃되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기획하다",
+    "translation": "төлөвлөх, зохион байгуулах",
+    "hanja": "企劃-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기후",
+    "translation": "уур амьсгал",
+    "hanja": "氣候",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "기후대",
+    "translation": "цаг уурын бүс",
+    "hanja": "氣候帶",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기훈",
+    "translation": "Ки Хун",
+    "hanja": "기훈",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "기흉",
+    "translation": "цагаан хоолойн үрэвсэл",
+    "hanja": "氣胸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기흥",
+    "translation": "Гихин",
+    "hanja": "器興",
+    "pos": "Noun",
+    "cefr": "C1"
+  }
+]

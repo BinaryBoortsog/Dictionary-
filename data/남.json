@@ -1,0 +1,1059 @@
+[
+  {
+    "word": "남",
+    "translation": "бусад, өрөөл",
+    "hanja": " 남",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남강",
+    "translation": "Намган",
+    "hanja": "南江",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남게",
+    "translation": "Үлдэгдэл",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "남경",
+    "translation": "Нанжин (хотын нэр)",
+    "hanja": "南京",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남고",
+    "translation": "эрэгтэйчүүдийн дунд сургууль",
+    "hanja": "男高",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남구",
+    "translation": "Өмнөд дүүрэг",
+    "hanja": "南區",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남국",
+    "translation": "өмнөд орон",
+    "hanja": "南國",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "남궁",
+    "translation": "Намгун",
+    "hanja": "南宮",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남극",
+    "translation": "өмнөд туйл",
+    "hanja": "南極",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "남극해",
+    "translation": "Өмнөд далай",
+    "hanja": "南極海",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "남근",
+    "translation": "Эрэгтэй хүний эрхтэн",
+    "hanja": "男根",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남기다",
+    "translation": "үлдээх",
+    "hanja": "남기다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "남김없이",
+    "translation": "бүгдийг нь",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남남",
+    "translation": "танихгүй хүмүүс",
+    "hanja": "男男",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남녀",
+    "translation": "эрэгтэй, эмэгтэй",
+    "hanja": "男女",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남녀노소",
+    "translation": "Эрэгтэй, эмэгтэй, хөгшин, залуу",
+    "hanja": "男女老少",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남녀별",
+    "translation": "эр, эмээр ялгах",
+    "hanja": "男女別",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남녀상열지사",
+    "translation": "эрэгтэй, эмэгтэй хоёрын хоорондын хүсэл",
+    "hanja": "男女相悅之事",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "남녀칠세부동석",
+    "translation": "эрэгтэй эмэгтэй долоон наснаас хойш тусдаа суудаг",
+    "hanja": "男女七歲不同席",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "남녀평등",
+    "translation": "Эрэгтэй, эмэгтэй хүмүүсийн тэгш байдал",
+    "hanja": "男女平等",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남녘",
+    "translation": "Эмэгтэй дүү",
+    "hanja": "南녘",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "남노",
+    "translation": "боол эрэгтэй",
+    "hanja": "男奴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "남다",
+    "translation": "үлдэх",
+    "hanja": "남다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남다르다",
+    "translation": "өвөрмөц, онцгой",
+    "hanja": "남다르다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "남단",
+    "translation": "Өмнөд үзүүр",
+    "hanja": "南端",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남달리",
+    "translation": "бусдаас онцгой",
+    "hanja": "null",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "남대문",
+    "translation": "намдэмүн (солонгосын хаалга)",
+    "hanja": "南大門",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남도",
+    "translation": "Өмнөд муж",
+    "hanja": "南道",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "남돌",
+    "translation": "эрэгтэй поп од",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남동",
+    "translation": "зүүн өмнөд",
+    "hanja": "南東",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남동생",
+    "translation": "Дүү (эрэгтэй)",
+    "hanja": "男同生",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "남동쪽",
+    "translation": "Зүүн өмнөд зүг",
+    "hanja": "南東쪽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남동풍",
+    "translation": "зүүн өмнөд салхи",
+    "hanja": "南東風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남라",
+    "translation": "намрын цай",
+    "hanja": "嵐羅",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "남루",
+    "translation": "Нимгэн, хуучирсан хувцас",
+    "hanja": "襤褸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남루하다",
+    "translation": "урсан, хуучирсан",
+    "hanja": "襤褸-",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남매",
+    "translation": "ах дүүс",
+    "hanja": "男妹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남매지간",
+    "translation": "ах дүүгийн хоорондын харилцаа",
+    "hanja": "男妹之間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남면",
+    "translation": "урт удаан наслах",
+    "hanja": "南面",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "남명",
+    "translation": "Наммён (Нэр)",
+    "hanja": "南冥",
+    "pos": "Proper Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "남모르다",
+    "translation": "хэнд ч мэдэгдэхгүй",
+    "hanja": "남모르다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남몰래",
+    "translation": "хэнд ч мэдэгдэлгуй",
+    "hanja": "남몰래",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남문",
+    "translation": "өмнөд хаалга",
+    "hanja": "남문(南門)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남미",
+    "translation": "Өмнөд Америк",
+    "hanja": "南美",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남반구",
+    "translation": "өмнөд хагас бөмбөрцөг",
+    "hanja": "南半球",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "남발",
+    "translation": "Хэт их гаргах",
+    "hanja": "濫發",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "남발되다",
+    "translation": "хэтрүүлэн хэрэглэх",
+    "hanja": "濫發되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남발하다",
+    "translation": "хэтрүүлэн хэрэглэх, хамаагүй гаргах",
+    "hanja": "濫發하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남방",
+    "translation": "өмнөд нутаг",
+    "hanja": "南方",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남방셔츠",
+    "translation": "халаазүй, халаастай цамц",
+    "hanja": "南方-",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남방큰돌고래",
+    "translation": "өмнөдийн далайн гахай",
+    "hanja": "南方큰돌고래",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남벌",
+    "translation": "өнмөр зүг рүү цохилт хийх",
+    "hanja": "南伐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남병철",
+    "translation": "Нам Бён-чол",
+    "hanja": "南秉哲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남부",
+    "translation": "урд хэсэг",
+    "hanja": "南部",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "남부끄럽다",
+    "translation": "бусдын нүдэнд ичих, ичгүүртэй",
+    "hanja": "羞恥스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "남부럽다",
+    "translation": "бусдын атаархлыг хөдөлгөхүйц",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "남북",
+    "translation": "хойд ба өмнөд",
+    "hanja": "南北",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남북통일",
+    "translation": "Хойд, Өмнөд Солонгосын нэгдэл",
+    "hanja": "南北統一",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남북한",
+    "translation": "хойд болон өмнөд Солонгос",
+    "hanja": "南北韓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남빛",
+    "translation": "хөх өнгө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남사",
+    "translation": "эр хүн",
+    "hanja": "男師",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남사스럽다",
+    "translation": "Ичмээр",
+    "hanja": "남사스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남사친",
+    "translation": "эрэгтэй найз",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남산",
+    "translation": "Намсан",
+    "hanja": "南山",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "남상",
+    "translation": "эрэгтэй дүрс, эрэгтэйчүүдийн төрх",
+    "hanja": "男相",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남새",
+    "translation": "ногоо, хүнсний ногоо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남색",
+    "translation": "Цэнхэр өнгө",
+    "hanja": "藍色",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "남생이",
+    "translation": "хулд",
+    "hanja": "남생이",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "남서쪽",
+    "translation": "баруун өмнөд зүг",
+    "hanja": "南西쪽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남서풍",
+    "translation": "баруун өмнөд салхи",
+    "hanja": "南西風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남성",
+    "translation": "эр хүн",
+    "hanja": "男性",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "남성미",
+    "translation": "эр хүний гоо үзэсгэлэн",
+    "hanja": "男性美",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남성복",
+    "translation": "эрэгтэй хувцас",
+    "hanja": "男性服",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남성스럽다",
+    "translation": "эршүүд",
+    "hanja": "男性스럽다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남성용",
+    "translation": "эрчүүдэд зориулсан",
+    "hanja": "男性用",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남성적",
+    "translation": "Эрэгтэйлэг",
+    "hanja": "男性的",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "남솔",
+    "translation": "Намсоль",
+    "hanja": "남솔",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "남송",
+    "translation": "Өмнөд Сүн улс",
+    "hanja": "南宋",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "남수",
+    "translation": "үнэндээ",
+    "hanja": "濫數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "translation": "эрэгтэй бурхан",
+    "hanja": "男神",
+    "pos": "명사",
+    "cefr": "B2",
+    "word": "남신"
+  },
+  {
+    "word": "남심",
+    "translation": "Эрэгтэй хүний сэтгэл",
+    "hanja": "男心",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "남씨",
+    "translation": "Нам овогтой",
+    "hanja": "南氏",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남아",
+    "translation": "хүү",
+    "hanja": "男兒",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "남아나다",
+    "translation": "үлдэх, хоцрох",
+    "hanja": "남아나다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남아돌다",
+    "translation": "Илүүдэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "남아메리카",
+    "translation": "Өмнөд Америк",
+    "hanja": "南america",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남양",
+    "translation": "Намъяан (газарзүйн нэр)",
+    "hanja": "南洋",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "남어",
+    "translation": "үлдсэн",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남영",
+    "translation": "өмнөд хуаран",
+    "hanja": "南營",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남옥",
+    "translation": "аквамарин",
+    "hanja": "藍玉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남용",
+    "translation": "хэтрүүлэн хэрэглэх",
+    "hanja": "濫用",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "남용되다",
+    "translation": "Буруугаар ашиглагдах, урвуулан ашиглагдах",
+    "hanja": "濫用되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남용하다",
+    "translation": "урвуулан ашиглах",
+    "hanja": "濫用하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남우",
+    "translation": "эрэгтэй жүжигчин",
+    "hanja": "男優",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "남원",
+    "translation": "Намвон",
+    "hanja": "南原",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남위",
+    "translation": "Өмнөд өргөрөг",
+    "hanja": "南緯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남이",
+    "translation": "бусдын, өөр хүн",
+    "hanja": "남이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "남인",
+    "translation": "өмнөд хүмүүс",
+    "hanja": "南人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남일",
+    "translation": "бусдын ажил, бусдын хэрэг",
+    "hanja": "男日",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남자",
+    "translation": "Эрэгтэй",
+    "hanja": "男子",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "남자관계",
+    "translation": "Эрэгтэй хүнтэй харилцаа",
+    "hanja": "男子關係",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남자아이",
+    "translation": "хүү",
+    "hanja": "男子아이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "남작",
+    "translation": "Барон",
+    "hanja": "男爵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남장",
+    "translation": "эр хувцас өмсөх",
+    "hanja": "男裝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남장하다",
+    "translation": "эрэгтэй хувцас өмсөх",
+    "hanja": "男裝하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "남전",
+    "translation": "Эрэгтэйчүүдийн тасаг",
+    "hanja": "男專",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남정",
+    "translation": "эр хүн",
+    "hanja": "男丁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남정네",
+    "translation": "эрэгтэй хүн",
+    "hanja": "男丁네",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남조",
+    "translation": "өмнөд династи",
+    "hanja": "南朝",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "남조선",
+    "translation": "Өмнөд Солонгос (БНАСАУ-ын хэрэглэдэг нэр)",
+    "hanja": "南朝鮮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "남존여비",
+    "translation": "эрэгтэйчүүдийг эрхэмлэх үзэл",
+    "hanja": "男尊女卑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "남종",
+    "translation": "эрэгтэй боол",
+    "hanja": "男從",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "남주",
+    "translation": "Эрэгтэй гол дүр",
+    "hanja": "男主",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "남중",
+    "translation": "өмнөд дунд",
+    "hanja": "南中",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "남중국해",
+    "translation": "Өмнөд Хятадын тэнгис",
+    "hanja": "南中國海",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남진",
+    "translation": "өмнө зүг рүү нүүдэл",
+    "hanja": "南進",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남짓",
+    "translation": "бага зэрэг илүү",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남짓하다",
+    "translation": "бага зэрэг давахуйц",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "남쪽",
+    "translation": "өмнөд",
+    "hanja": "南쪽",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "남창",
+    "translation": "бэлгийн ажилтан (эрэгтэй)",
+    "hanja": "男娼",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "남천",
+    "translation": "өмнө зүг рүү нүүдэллэх",
+    "hanja": "南遷",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "남초",
+    "translation": "эрэгтэйчүүд зонхилсон (нийгэм)",
+    "hanja": "男超",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남촌",
+    "translation": "Өмнөд тосгон",
+    "hanja": "南村",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "남측",
+    "translation": "өмнөд тал",
+    "hanja": "南側",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남친",
+    "translation": "найз залуу",
+    "hanja": "男親",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남침",
+    "translation": "Өмнө зүг рүү довтлох",
+    "hanja": "南侵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남침하다",
+    "translation": "өмнө зүг рүү дайрах",
+    "hanja": "南侵하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "남탕",
+    "translation": "эрэгтэйчүүдийн банн",
+    "hanja": "男湯",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "남태",
+    "translation": "өмнөд хэсэг",
+    "hanja": "南胎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남파",
+    "translation": "өмнөд",
+    "hanja": "南派",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "남편",
+    "translation": "нөхөр",
+    "hanja": "男便",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "남편감",
+    "translation": "нөхөр болох хүн",
+    "hanja": "男便감",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남평",
+    "translation": "Нампён",
+    "hanja": "南平",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남포",
+    "translation": "Наньпу (газар нэр)",
+    "hanja": "南浦",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남포등",
+    "translation": "газрын тосны дэнлүү",
+    "hanja": "남포燈",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "남풍",
+    "translation": "урд салхи",
+    "hanja": "南風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남하",
+    "translation": "өмнө зүг рүү явах",
+    "hanja": "南下",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남하하다",
+    "translation": "урвалдах",
+    "hanja": "南下",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "남학생",
+    "translation": "эрэгтэй сурагч",
+    "hanja": "男學生",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남한",
+    "translation": "Өмнөд Солонгос",
+    "hanja": "南韓",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "남항",
+    "translation": "Урд боомт",
+    "hanja": "南港",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남해",
+    "translation": "Өмнөд тэнгис",
+    "hanja": "南海",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남해안",
+    "translation": "өмнөд эрэг",
+    "hanja": "南海岸",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "남행",
+    "translation": "өмнө зүг рүү явах",
+    "hanja": "南行",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남향",
+    "translation": "өмнө зүг рүү харсан",
+    "hanja": "南向",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남향집",
+    "translation": "урд зүг рүү харсан байшин",
+    "hanja": "南向집",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남현동",
+    "translation": "Намхёндон (газарзүйн нэр)",
+    "hanja": "南峴洞",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "남혐",
+    "translation": "эрчүүдээс жигших үзэл",
+    "hanja": "男嫌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남호",
+    "translation": "Урд нуур",
+    "hanja": "南湖",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "남획",
+    "translation": "хэт их агнуур",
+    "hanja": "亂獲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남희",
+    "translation": "Тайвшрал, баяр хөөр",
+    "hanja": "男姬",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "word": "골",
+    "translation": "гол, хонхорхой",
+    "hanja": "골",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골간",
+    "translation": "ясны бүтэц",
+    "hanja": "骨幹",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "골격",
+    "translation": "Араг яс, бүтэц",
+    "hanja": "骨格",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "골고다",
+    "translation": "Голгоф",
+    "hanja": "골고다",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "골고루",
+    "translation": "тэгш, жигд",
+    "hanja": "골고루",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "골골거리다",
+    "translation": "өвдөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골골대다",
+    "translation": "тахир дутуу, өвчин зовонгуй",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골골하다",
+    "translation": "өвдөх, сул дорой байх",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골다",
+    "translation": "Хурхирах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골다공증",
+    "translation": "яс сийрэгжих өвчин",
+    "hanja": "骨多孔症",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골대",
+    "translation": "хаалга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "골덴",
+    "translation": "голден",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골동품",
+    "translation": "хуучны эд зүйлс",
+    "hanja": "骨董品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골두",
+    "translation": "гол толгой, үндсэн толгой",
+    "hanja": "骨頭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "골드",
+    "translation": "алт",
+    "hanja": "gold",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "골드스미스",
+    "translation": "Голдсмит",
+    "hanja": "Goldsmith",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "골든아워",
+    "translation": "алтан цаг",
+    "hanja": "골든아워",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "골디락스",
+    "translation": "Голдилокс (орон зай)",
+    "hanja": "골디락스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "골똘하다",
+    "translation": "гүн бодолд автах",
+    "hanja": "汨突하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "골똘히",
+    "translation": "гүн гүнзгий",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "골라내다",
+    "translation": "сонгож авах",
+    "hanja": null,
+    "pos": "үйл үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "골라먹다",
+    "translation": "Шилж идэх, сонгож идэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골라잡다",
+    "translation": "Сонгох, шилж авах",
+    "hanja": "N/A",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "골레다",
+    "translation": "Сонгох, ялгаж авах (хуучин хэллэг)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골루다",
+    "translation": "Сонгох, ялгаж авах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골르다",
+    "translation": "сонгох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "골리다",
+    "translation": "хуурах, шоолох",
+    "hanja": "골리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골리앗",
+    "translation": "Голиат",
+    "hanja": "골리앗",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골린",
+    "translation": "голф тоглогч (шинэ)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골망",
+    "translation": "Гоолын тор (спортын)",
+    "hanja": "골網",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골머리",
+    "translation": "толгойны өвчин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골목",
+    "translation": "гудамж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "골목골목",
+    "translation": "гудамж бүхэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골목길",
+    "translation": "Гудамж, хоорондын зам",
+    "hanja": "골목길",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "골목대장",
+    "translation": "гудамжны ахлагч, гудамжны дарга",
+    "hanja": "골목大將",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골몰하다",
+    "translation": "гүн орох, умбах",
+    "hanja": "汨沒하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "골몰히",
+    "translation": "зөвхөн нэг зүйлд анхаарлаа хандуулан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골무",
+    "translation": "Хуруувч (оёдол хийх хуруундаа өмсдөг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골문",
+    "translation": "гол хаалга",
+    "hanja": "골門",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골반",
+    "translation": "аарцаг",
+    "hanja": "骨盤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골반뼈",
+    "translation": "Аарцгийн яс",
+    "hanja": "骨盤뼈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골방",
+    "translation": "булангийн өрөө",
+    "hanja": "골房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골백번",
+    "translation": "олон зуун удаа",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골뱅이",
+    "translation": "мушгиа дун",
+    "hanja": "골뱅이",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "골병",
+    "translation": "Ясны өвчин, хууч өвчин",
+    "hanja": "骨病",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "골병들다",
+    "translation": "ясны өвчин тусах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "골비",
+    "translation": "ясны чөмөг",
+    "hanja": "骨脾",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "골상",
+    "translation": "Гавлын яс, хэлбэр",
+    "hanja": "骨相",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "골수",
+    "translation": "ясны чөмөг",
+    "hanja": "骨髓",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "골신",
+    "translation": "Гол сүнс, үндсэн сүнс",
+    "hanja": "骨神",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "골아떨어지다",
+    "translation": "Гүн нойронд автах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골육",
+    "translation": "Эхэн төрөл",
+    "hanja": "骨肉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "골인",
+    "translation": "гол оруулах",
+    "hanja": "goal-in",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골인하다",
+    "translation": "гол оруулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골자",
+    "translation": "гол санаа",
+    "hanja": "骨子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "골절",
+    "translation": "хугарал",
+    "hanja": "骨折",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "골절되다",
+    "translation": "хугарах",
+    "hanja": "骨折되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골절상",
+    "translation": "хугарал",
+    "hanja": "骨折傷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골조",
+    "translation": "Үндсэн бүтэц, каркас",
+    "hanja": "骨組",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "골질",
+    "translation": "зөрүүд, ууртай",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "골짜기",
+    "translation": "хөндий",
+    "hanja": "골짜기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골짝",
+    "translation": "хөндий",
+    "hanja": "골짝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골차다",
+    "translation": "мэргэн, чадварлаг",
+    "hanja": "None",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "골초",
+    "translation": "тамхичин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골치",
+    "translation": "толгойны өвчин, бэрхшээл",
+    "hanja": "골치",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골칫거리",
+    "translation": "асуудал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골칫덩어리",
+    "translation": "Асуудалтай зүйл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골칫덩이",
+    "translation": "бэрхшээл, асуудал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골키퍼",
+    "translation": "хаалгач",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "골탕",
+    "translation": "гашуун туршлага, бэрхшээл",
+    "hanja": "골탕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "골턴",
+    "translation": "Гальтон (нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "골통",
+    "translation": "Гавлын яс",
+    "hanja": "골통",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골판",
+    "translation": "картон",
+    "hanja": "골판",
+    "pos": "명са",
+    "cefr": "B1"
+  },
+  {
+    "word": "골판지",
+    "translation": "Үрлэн картон",
+    "hanja": "골판지",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골퍼",
+    "translation": "гольфчин",
+    "hanja": "golfer",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "골품",
+    "translation": "Ясны зэрэг",
+    "hanja": "骨品",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "골프",
+    "translation": "гольф",
+    "hanja": "golf",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "골프장",
+    "translation": "гольфын талбай",
+    "hanja": "골프場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골프채",
+    "translation": "гольфын цохиур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "골프하다",
+    "translation": "гольф тоглох",
+    "hanja": "Golf-",
+    "pos": "동사",
+    "cefr": "B1"
+  }
+]

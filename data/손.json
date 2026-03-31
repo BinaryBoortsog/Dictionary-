@@ -1,0 +1,674 @@
+[
+  {
+    "word": "손",
+    "translation": "гар",
+    "hanja": "손",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "손가락",
+    "translation": "хуруу",
+    "hanja": "손가락",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손가락질",
+    "translation": "Хуруугаар заах",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "손가락질하다",
+    "translation": "Хуруугаар заах, доромжлох",
+    "hanja": "손가락질하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손가방",
+    "translation": "цүнх",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "손거울",
+    "translation": "Гар толь",
+    "hanja": "손거울",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손곡",
+    "translation": "хөндий",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "손괴",
+    "translation": "эвдэх, гэмтээх",
+    "hanja": "損壞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "손금",
+    "translation": "алганы хээ, хувь тавилан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손길",
+    "translation": "гар хүрэх, тусламж",
+    "hanja": "손길",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "손깍지",
+    "translation": "гарын хуруунуудаа ороох",
+    "hanja": "손깍지",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "손꼽다",
+    "translation": "Хуруу даран тоолох, тэсэн ядан хүлээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손꼽히다",
+    "translation": "Тоологдох",
+    "hanja": "손꼽히다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손끝",
+    "translation": "хурууны үзүүр",
+    "hanja": "손끝",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "손나팔",
+    "translation": "Гар бүрээ, чанга яригч (гараар)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손날",
+    "translation": "гарын ир",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손녀",
+    "translation": "охины охин, ач охин",
+    "hanja": "孫女",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손녀딸",
+    "translation": "ач охин",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "손놀림",
+    "translation": "хурууны ур чадвар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손님",
+    "translation": "зочин",
+    "hanja": "손님",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "손님맞이",
+    "translation": "үйлчлэгч",
+    "hanja": "손님맞이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손님상",
+    "translation": "Зочны ширээ",
+    "hanja": "손님床",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손다이크",
+    "translation": "Торндайк",
+    "hanja": "Thorndike",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "손대다",
+    "translation": "хүрэх, оролдох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손도장",
+    "translation": "Гарын тэмдэг",
+    "hanja": "손도장",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "손동작",
+    "translation": "гарны хөдөлгөөн",
+    "hanja": "손動作",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손들다",
+    "translation": "гараа өргөх",
+    "hanja": "손들다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손등",
+    "translation": "гарын ар тал",
+    "hanja": "손등",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손때",
+    "translation": "гарын толбо",
+    "hanja": "손때",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손뜨개",
+    "translation": "гар нэхмэл",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손마디",
+    "translation": "хурууны үе",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손맛",
+    "translation": "гарын амт",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "손모",
+    "translation": "Гарны дарамт",
+    "hanja": "損耗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "손목",
+    "translation": "бугуй",
+    "hanja": "손목",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손목시계",
+    "translation": "Бугуйн цаг",
+    "hanja": "손목時計",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손바닥",
+    "translation": "алга",
+    "hanja": "손바닥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손발",
+    "translation": "гар хөл",
+    "hanja": "손발",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손방",
+    "translation": "чиглэл",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손배",
+    "translation": "Алдалтыг нөхөн төлөх",
+    "hanja": "損賠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손버릇",
+    "translation": "гарын зуршил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손벽",
+    "translation": "алга",
+    "hanja": "손벽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손병희",
+    "translation": "Сон Бён-хи (нэр)",
+    "hanja": "孫秉熙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "손보다",
+    "translation": "засварлах, халамжлах",
+    "hanja": "손보다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손빨래",
+    "translation": "гар угаалга",
+    "hanja": "손빨래",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손빨래하다",
+    "translation": "гараар хувцас угаах",
+    "hanja": "손빨래하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손뼉",
+    "translation": "алга ташилт",
+    "hanja": "손뼉",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손상",
+    "translation": "Гэмтэл",
+    "hanja": "損傷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손상되다",
+    "translation": "Эвдрэх",
+    "hanja": "損傷되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "손상하다",
+    "translation": "гэмтээх",
+    "hanja": "損傷하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손색",
+    "translation": "дутагдалгүй",
+    "hanja": "遜色",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "손색없다",
+    "translation": "дутах юмгүй",
+    "hanja": "遜色없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손세탁",
+    "translation": "гар угаалга",
+    "hanja": "손세탁",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손수",
+    "translation": "өөрийн гараар",
+    "hanja": "손수",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손수건",
+    "translation": "гар алчуур",
+    "hanja": "손수건",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "손수레",
+    "translation": "гар тэрэг",
+    "hanja": "손-수레",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손쉽다",
+    "translation": "Амархан",
+    "hanja": "손쉽다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손실",
+    "translation": "хохирол",
+    "hanja": "損失",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손실되다",
+    "translation": "алдагдах, хохирдох",
+    "hanja": "損失되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손실액",
+    "translation": "хохирлын хэмжээ",
+    "hanja": "損失額",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "손실하다",
+    "translation": "Хохирол амсах, алдах",
+    "hanja": "損失하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손쓰다",
+    "translation": "Арга хэрэглэх, арга хэмжээ авах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손씨",
+    "translation": "овгийн Сон",
+    "hanja": "孫氏",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손아",
+    "translation": "хүүхэд, залуу хүн",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "손아귀",
+    "translation": "гарын атгуул",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "손아랫사람",
+    "translation": "доод албан тушаалтан, харъяа хүн",
+    "hanja": "손아랫사람",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손안",
+    "translation": "гарын алган",
+    "hanja": "手안",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "손양",
+    "translation": "Сүн Ян",
+    "hanja": "孫梁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "손오공",
+    "translation": "Сүн Укун",
+    "hanja": "孫悟空",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "손옹",
+    "translation": "өнөөх өвгөн",
+    "hanja": "孫翁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "손위",
+    "translation": "ахмад, өндөр настай",
+    "hanja": "손-위",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손윗사람",
+    "translation": "ахмад хүн, дээд хүн",
+    "hanja": "손윗사람",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손이",
+    "translation": "Гарын хөдөлгөөн",
+    "hanja": "손이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손익",
+    "translation": "ашиг, алдагдал",
+    "hanja": "損益",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "손자",
+    "translation": "ач хүү",
+    "hanja": "孫子",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손자국",
+    "translation": "Гарын мөр",
+    "hanja": "손자국",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손잡다",
+    "translation": "гар барих, хамтрах",
+    "hanja": "손잡다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손잡이",
+    "translation": "барьж чадах хэсэг",
+    "hanja": "손잡이",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "손장난",
+    "translation": "хурууны тоглоом",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손재주",
+    "translation": "ур чадвар",
+    "hanja": "손재주",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손전등",
+    "translation": "Гар чийдэн",
+    "hanja": "손電燈",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손절",
+    "translation": "худалдах",
+    "hanja": " sonjeol",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "손절하다",
+    "translation": "харилцаагаа таслах",
+    "hanja": "損絶하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "손주",
+    "translation": "ач, зээ хүүхэд",
+    "hanja": "孫주",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손지갑",
+    "translation": "Түрийвч",
+    "hanja": "손紙匣",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "손질",
+    "translation": "засвар, арчилгаа",
+    "hanja": "손질",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손질되다",
+    "translation": "засварлагдах, тордогдох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손질하다",
+    "translation": "засварлах",
+    "hanja": "손질하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손짓",
+    "translation": "дохио",
+    "hanja": "손짓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손짓하다",
+    "translation": "Дохио өгөх",
+    "hanja": "손짓하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "손찌검",
+    "translation": "гар хүрэх, зодох",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손찌검하다",
+    "translation": "гараар цохих, зодох",
+    "hanja": "손찌검하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "손탁",
+    "translation": "зочны ширээ (table d'hôte)",
+    "hanja": "孫卓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "손톱",
+    "translation": "хумс",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "손톱깎이",
+    "translation": "хумсны хутга",
+    "hanja": "손톱깎이",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "손해",
+    "translation": "хохирол, гарз",
+    "hanja": "損害",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손해나다",
+    "translation": "хохирол амсах",
+    "hanja": "損害나다",
+    "pos": "동사",
+    "cefr": "B1"
+  }
+]

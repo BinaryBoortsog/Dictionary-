@@ -1,0 +1,1339 @@
+[
+  {
+    "word": "저",
+    "translation": "би",
+    "hanja": "저",
+    "pos": "Pronoun (humble)",
+    "cefr": "A1"
+  },
+  {
+    "word": "저가",
+    "translation": "хямд үнэ",
+    "hanja": "低價",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "저감하다",
+    "translation": "Багасгах",
+    "hanja": "低減하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "저개발",
+    "translation": "хөгжил буурай",
+    "hanja": "低開發",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저개발국",
+    "translation": "хөгжиж буй орон",
+    "hanja": "低開發國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저거",
+    "translation": "тэр юм",
+    "hanja": "저거",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "저것",
+    "translation": "тэр",
+    "hanja": null,
+    "pos": "Pronoun",
+    "cefr": "A1"
+  },
+  {
+    "word": "저격",
+    "translation": "буудах",
+    "hanja": "狙擊",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "저격범",
+    "translation": "буудагч, мэргэн бууч",
+    "hanja": "狙擊犯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저격하다",
+    "translation": "буудаж унагах, онож буудах",
+    "hanja": "狙擊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저고리",
+    "translation": "Дээлний дээд хэсэг",
+    "hanja": "저고리",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "저곳",
+    "translation": "Тэнд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "저공",
+    "translation": "Бага өндөр",
+    "hanja": "低空",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "저그",
+    "translation": "жаг (сав)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "저금",
+    "translation": "хадгаламж",
+    "hanja": "貯金",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "저금리",
+    "translation": "бага хүүтэй",
+    "hanja": "低金利",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저금통",
+    "translation": "Харамж",
+    "hanja": "貯金筒",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "저금하다",
+    "translation": "хуримтлуулах, хадгаламж хийх",
+    "hanja": "貯金하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저급하다",
+    "translation": "Чанар муутай",
+    "hanja": "低級하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "저기다",
+    "translation": "тэнд тавих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저기압",
+    "translation": "нам даралт",
+    "hanja": "低氣壓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저기하다",
+    "translation": "저기하다, 멈칫하다",
+    "hanja": "저기하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저까짓",
+    "translation": "тиймэрхүү",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저깟",
+    "translation": "тэр жаахан",
+    "hanja": null,
+    "pos": "determiner",
+    "cefr": "C1"
+  },
+  {
+    "word": "저냥",
+    "translation": "Тэр чигээрээ, түүний адилаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저널",
+    "translation": "Сэтгүүл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저널리스트",
+    "translation": "сэтгүүлч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저널리즘",
+    "translation": "сэтгүүлзүй",
+    "hanja": "저널리즘",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "저널링",
+    "translation": "өдрийн тэмдэглэл хөтлөх",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "저녁",
+    "translation": "орой",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "저녁거리",
+    "translation": "Оройн хоолны материал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "저녁나절",
+    "translation": "орой, оройн цаг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "저녁노을",
+    "translation": "үдшийн нар жаргах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저녁때",
+    "translation": "Оройн цагаар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "저녁밥",
+    "translation": "Оройн хоол",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "저녁상",
+    "translation": "оройн хоолны ширээ",
+    "hanja": "저녁床",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "저년",
+    "translation": "Тэр эмэгтэй (басамжлах)",
+    "hanja": "저年",
+    "pos": "대명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저놈",
+    "translation": "тэр эр",
+    "hanja": "저놈",
+    "pos": "대명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저누다",
+    "translation": "шахах, дарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저능",
+    "translation": "оюуны хомсдол",
+    "hanja": "低能",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저능아",
+    "translation": "оюуны хомсдолтой хүүхэд",
+    "hanja": "低能兒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "저능하다",
+    "translation": "оюуны хомсдолтой",
+    "hanja": "低能하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저니맨",
+    "translation": "аялагч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저다",
+    "translation": "хутгах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "저단",
+    "translation": "Нам шат",
+    "hanja": "低段",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저당",
+    "translation": "барьцаа",
+    "hanja": "抵當",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저당권",
+    "translation": "барьцааны эрх",
+    "hanja": "抵當權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저도",
+    "translation": "би ч бас",
+    "hanja": "저도(我也)",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "저돌적",
+    "translation": "Зоригтой",
+    "hanja": "猪突的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저동",
+    "translation": "хөдөлгөөнт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저드",
+    "translation": "Жадд",
+    "hanja": "저드",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "저디",
+    "translation": "Тедди",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "저따구",
+    "translation": "тиймэрхүү",
+    "hanja": "저따구",
+    "pos": "대명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저따위",
+    "translation": "тэр мэтийн, тиймэрхүү",
+    "hanja": "저따위",
+    "pos": "대명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저딴",
+    "translation": "тиймэрхүү, иймэрхүү муу зүйл",
+    "hanja": "저딴",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저떻다",
+    "translation": "тиймэрхүү",
+    "hanja": "저떻다",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "저러다",
+    "translation": "тиймэрхүү",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저렇다",
+    "translation": "тийм, тэр мэт",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "저력",
+    "translation": "далд хүч, потенциал",
+    "hanja": "底力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저렴이",
+    "translation": "Хямд бараа",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "저렴하다",
+    "translation": "хямдхан байх",
+    "hanja": "低廉-",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저류",
+    "translation": "ус хуримтлагдах",
+    "hanja": "貯留",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저류되다",
+    "translation": "Хуримтлагдах",
+    "hanja": "貯留되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "저리",
+    "translation": "тэр тийш",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "저리다",
+    "translation": "маш их өвдөх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저리되다",
+    "translation": "ийм болох",
+    "hanja": "저리되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "저리하다",
+    "translation": "тэгэх",
+    "hanja": "저리하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "저릿저릿",
+    "translation": "өвдөх",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저릿저릿하다",
+    "translation": "жирэлзэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": null
+  },
+  {
+    "word": "저릿하다",
+    "translation": "чихэрхийлэх, хатгах",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저마다",
+    "translation": "тус бүр",
+    "hanja": "저마다",
+    "pos": "pronoun",
+    "cefr": "B1"
+  },
+  {
+    "word": "저만큼",
+    "translation": "Тэр хэмжээгээр, тийм их",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저만하다",
+    "translation": "тэр чигээрээ",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저맘때",
+    "translation": "тэр үед",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저메인",
+    "translation": "жермен",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "저명",
+    "translation": "алдартай",
+    "hanja": "著名",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저명인사",
+    "translation": "Нэр хүндтэй хүн",
+    "hanja": "著名人士",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저명하다",
+    "translation": "Алдарт",
+    "hanja": "著名",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저물가",
+    "translation": "бага үнэ",
+    "hanja": "低物價",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저물녘",
+    "translation": "үдшийн бүрий",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저물다",
+    "translation": "Харанхуй болох, болох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저미다",
+    "translation": "нимгэн хэрчих",
+    "hanja": "저미다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저버리다",
+    "translation": "урвах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "저벅",
+    "translation": "Зархруулах дуу",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "저벅저벅",
+    "translation": "Гүйх, явах (дуу чимээ)",
+    "hanja": "저벅저벅",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저번",
+    "translation": "өмнөх удаа",
+    "hanja": "저番",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "저변",
+    "translation": "үндэс, доод тал, суурь",
+    "hanja": "底邊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저본",
+    "translation": "эх хувь",
+    "hanja": "底本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저분",
+    "translation": "тэр хүн",
+    "hanja": "저분",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "저사",
+    "translation": "энэ компани",
+    "hanja": "邸社",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "저상",
+    "translation": "낮은 үнэ",
+    "hanja": "底床",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저세상",
+    "translation": "нас барсны дараах ертөнц",
+    "hanja": "저世上",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저소득",
+    "translation": "бага орлоготой",
+    "hanja": "低所得",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저소득층",
+    "translation": "Бага орлоготой давхарга",
+    "hanja": "低所得層",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저속",
+    "translation": "хурд удаан",
+    "hanja": "低速",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저속하다",
+    "translation": "бүдүүлэг, муухай",
+    "hanja": "低俗하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저수",
+    "translation": "ус хуримтлуулах",
+    "hanja": "貯水",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저수지",
+    "translation": "усны сан, усан сан",
+    "hanja": "貯水池",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저술",
+    "translation": "бичсэн бүтээл, зохиол",
+    "hanja": "著述",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저술가",
+    "translation": "зохиолч, тэр бичигч",
+    "hanja": "著述家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저술하다",
+    "translation": "зохиох",
+    "hanja": "著述하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저승",
+    "translation": "тамын ертөнц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저승길",
+    "translation": "нас барсны дараах зам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저승사자",
+    "translation": "Үхлийн элч, үхэл дагуулдаг үхшиг",
+    "hanja": "저승使者",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "저신용자",
+    "translation": "бага зээлийн үнэлгээтэй хүн",
+    "hanja": "低信用者",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "저안",
+    "translation": "доорх",
+    "hanja": "底案",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "저압",
+    "translation": "бага даралт",
+    "hanja": "低壓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저애",
+    "translation": "хүндрэл, саад",
+    "hanja": "沮礙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저어",
+    "translation": "хөдөлгөх",
+    "hanja": "저어",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "저어되다",
+    "translation": "будаа идэх",
+    "hanja": "齟齬되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "저역",
+    "translation": "бага давтамж",
+    "hanja": "低域",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저열하다",
+    "translation": "муу, чанаргүй",
+    "hanja": "低劣하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저염",
+    "translation": "бага давстай",
+    "hanja": "低鹽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저온",
+    "translation": "бага температур",
+    "hanja": "低溫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저용",
+    "translation": "бага ашиглах",
+    "hanja": "低用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저우",
+    "translation": "Жоу (нэр)",
+    "hanja": "周",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "저울",
+    "translation": "жин",
+    "hanja": "—",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "저울질",
+    "translation": "Хэмжих, үнэлэх, жинлэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저울질하다",
+    "translation": "жинлэх",
+    "hanja": "저울질하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "저위",
+    "translation": "Доод түвшин",
+    "hanja": "低位",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저으다",
+    "translation": "сэгсрэх, зайлах, хутгах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저음",
+    "translation": "бас хоолой, нам дуу",
+    "hanja": "低音",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저의",
+    "translation": "далд санаа",
+    "hanja": "底意",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저이",
+    "translation": "тэр хүн",
+    "hanja": "저이",
+    "pos": "Pronoun",
+    "cefr": "B1"
+  },
+  {
+    "word": "저임금",
+    "translation": "бага цалин",
+    "hanja": "低賃金",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "저자",
+    "translation": "зохиогч",
+    "hanja": "著者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저자세",
+    "translation": "доод байрлал",
+    "hanja": "低姿勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저작",
+    "translation": "Зохиол бүтээл",
+    "hanja": "著作",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저작권",
+    "translation": "зохиогчийн эрх",
+    "hanja": "著作權",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "저작물",
+    "translation": "зохиогчийн бүтээл",
+    "hanja": "著作物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저작자",
+    "translation": "зохиогч",
+    "hanja": "著作者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "translation": "зах зээл",
+    "hanja": "市廛거리",
+    "pos": "명사",
+    "cefr": "B2",
+    "word": "저잣거리"
+  },
+  {
+    "word": "저장",
+    "translation": "хадгалах",
+    "hanja": "貯藏",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "저장고",
+    "translation": "агуулах, склад",
+    "hanja": "貯藏庫",
+    "pos": "м",
+    "cefr": "B1"
+  },
+  {
+    "word": "저장되다",
+    "translation": "хадгалагдах",
+    "hanja": "貯藏되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저장하다",
+    "translation": "хадгалах",
+    "hanja": "貯藏하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저저",
+    "translation": "Маш",
+    "hanja": "저저",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "저점",
+    "translation": "хамгийн доод цэг",
+    "hanja": "低點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저제",
+    "translation": "тэнд",
+    "hanja": "None",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "저조",
+    "translation": "доогуур",
+    "hanja": "低調",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저조하다",
+    "translation": "бага",
+    "hanja": "低調하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저주",
+    "translation": "харуусал",
+    "hanja": "詛呪",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "저주스럽다",
+    "translation": "Хараал хэлмээр",
+    "hanja": "詛呪스럽다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "저주파",
+    "translation": "Бага давтамж",
+    "hanja": "低周波",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "저주하다",
+    "translation": "Хараах",
+    "hanja": "詛呪하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저지",
+    "translation": "зогсоох, саад хийх",
+    "hanja": "沮止",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저지당하다",
+    "translation": "Зогсоогдох",
+    "hanja": "沮止當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저지대",
+    "translation": "нам дор газар",
+    "hanja": "低地帶",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저지되다",
+    "translation": "зогсоох, саатуулах",
+    "hanja": "沮止되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저지르다",
+    "translation": "хийх, үйлдэх (муу зүйл)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저지방",
+    "translation": "бага өөх тостой",
+    "hanja": "低脂肪",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저지선",
+    "translation": "хориглох шугам",
+    "hanja": "阻止線",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저지시티",
+    "translation": "Жерси Сити (хотын нэр)",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "저지하다",
+    "translation": "саатуулах",
+    "hanja": "沮止하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저질",
+    "translation": "Муу чанар, доод түвшин",
+    "hanja": "低質",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저질스럽다",
+    "translation": "муу муухай, доогуур чанарын",
+    "hanja": "低質스럽다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "저짝",
+    "translation": "Тэр тал",
+    "hanja": "저짝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저쪽",
+    "translation": "тэр тал, тэр зүг",
+    "hanja": "저쪽",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "저차",
+    "translation": "Тэр машин",
+    "hanja": "低次",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저채",
+    "translation": "Бага зэрэг, доогуур шатны",
+    "hanja": "低債",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저촉",
+    "translation": "зөрчил",
+    "hanja": "牴觸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저촉되다",
+    "translation": "зөрчих",
+    "hanja": "抵觸되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "저축",
+    "translation": "хуримтлал",
+    "hanja": "貯蓄",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "저축률",
+    "translation": "хуримтлалын хувь",
+    "hanja": "貯蓄率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저축하다",
+    "translation": "Хадгалах",
+    "hanja": "貯蓄하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저출산",
+    "translation": "Төрөлт багасах",
+    "hanja": "低出産",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "저층",
+    "translation": "доод давхар, нам давхарга",
+    "hanja": "低層",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저치",
+    "translation": "тэр хүн, тэр тал",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저칼로리",
+    "translation": "Бага илчлэгтэй",
+    "hanja": "低칼로리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저크",
+    "translation": "Жерк (хөдөлгөөн)",
+    "hanja": "jerk",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "저탄",
+    "translation": "нүүрс хуримтлуулах",
+    "hanja": "貯炭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저탄고지",
+    "translation": "нүүрс ус бага, өөх тос их",
+    "hanja": "低炭高脂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저택",
+    "translation": "ордон",
+    "hanja": "邸宅",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "저토록",
+    "translation": "тийм ихээр, тийм байдлаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저평가되다",
+    "translation": "үнэлгээгүй үлдэх",
+    "hanja": "低評價되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "저평가하다",
+    "translation": "Бага үнэлэх",
+    "hanja": "低評價하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저하",
+    "translation": "Буурах, доройтох",
+    "hanja": "低下",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저하되다",
+    "translation": "буурах, доройтох",
+    "hanja": "低下되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저하시키다",
+    "translation": "бууруулах",
+    "hanja": "低下시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저하하다",
+    "translation": "бууруулах",
+    "hanja": "低下하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저학년",
+    "translation": "Бага анги",
+    "hanja": "低학년",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "저학력",
+    "translation": "бага боловсролтой",
+    "hanja": "低學歷",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "저항",
+    "translation": "эсэргүүцэл",
+    "hanja": "저항(抵抗)",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "저항력",
+    "translation": "эсэргүүцэл",
+    "hanja": "抵抗力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저항하다",
+    "translation": "Эсэргүүцэх",
+    "hanja": "抵抗하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "저해",
+    "translation": "Саад тотгор",
+    "hanja": "沮害",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저해되다",
+    "translation": "хориглогдох",
+    "hanja": "沮害되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저해하다",
+    "translation": "саад хийх",
+    "hanja": "沮害하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저혈압",
+    "translation": "даралт буурах",
+    "hanja": "低血壓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저화",
+    "translation": "Тамхины иш",
+    "hanja": "底火",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "저희",
+    "translation": "бид (даруу)",
+    "hanja": null,
+    "pos": "pronoun",
+    "cefr": "A1"
+  }
+]

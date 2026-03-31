@@ -1,0 +1,779 @@
+[
+  {
+    "word": "절",
+    "translation": "сүм",
+    "hanja": "節",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "절간",
+    "translation": "Сүм хийд (хуучин үг)",
+    "hanja": "寺間",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절감",
+    "translation": "Хэмнэх, танах (зардал)",
+    "hanja": "節減",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절감되다",
+    "translation": "Хэмнэгдэх",
+    "hanja": "節減되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "절감하다",
+    "translation": "маш их мэдрэх",
+    "hanja": "切感하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "절개",
+    "translation": "Зүсэлт",
+    "hanja": "切開",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "절개하다",
+    "translation": "тайрах, зүсэх",
+    "hanja": "切開하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절경",
+    "translation": "гайхамшигтай үзэмж",
+    "hanja": "絕景",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "절교",
+    "translation": "нөхөрлөлөө таслах",
+    "hanja": "絕交",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절교하다",
+    "translation": "харилцаагаа таслах, найзлахаа болих",
+    "hanja": "絕交하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절구",
+    "translation": "морь",
+    "hanja": "절구",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절구다",
+    "translation": "Дарах, цохилох",
+    "hanja": "절구다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절구통",
+    "translation": "тээрэмний сав",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절규",
+    "translation": "хашгирах, орилох",
+    "hanja": "絕叫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절규하다",
+    "translation": "чангаар орилох",
+    "hanja": "絕叫하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절그럭거리다",
+    "translation": "чимээ гаргах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "절다",
+    "translation": "солигдох",
+    "hanja": "절다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절단",
+    "translation": "Огтлох",
+    "hanja": "切斷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절단기",
+    "translation": "хөрөө, зүсэгч",
+    "hanja": "切斷機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절단나다",
+    "translation": "тасрах, сүйрэх",
+    "hanja": "切斷나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절단되다",
+    "translation": "таслагдах",
+    "hanja": "切斷되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "절단하다",
+    "translation": "Хэрчих, таслах",
+    "hanja": "切斷하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절대",
+    "translation": "үнэмлэхүй, туйлын",
+    "hanja": "絕對",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절대다수",
+    "translation": "бүрэн дийлэнх",
+    "hanja": "絕對多數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절대량",
+    "translation": "үнэмлэхүй хэмжээ",
+    "hanja": "絕對量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절대루",
+    "translation": "үүрд",
+    "hanja": "絶對路",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절대복종하다",
+    "translation": "бүрэн дуулгавартай байх",
+    "hanja": "絕對服從하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절대자",
+    "translation": "бүхнийг чадагч",
+    "hanja": "絶對者",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "절대적",
+    "translation": "туйлын",
+    "hanja": "絕對的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절대하다",
+    "translation": "Абсолют, үнэмлэхүй",
+    "hanja": "絕對하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절댓값",
+    "translation": "абсолют утга",
+    "hanja": "絕댓값",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절도",
+    "translation": "Хулгай, хулгайлах",
+    "hanja": "竊盜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절도범",
+    "translation": "хулгайч",
+    "hanja": "竊盜犯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절도사",
+    "translation": "гол захирагч",
+    "hanja": "節度使",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "절도죄",
+    "translation": "хулгайн гэмт хэрэг",
+    "hanja": "竊盜罪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절도하다",
+    "translation": "хулгайлах",
+    "hanja": "竊盜하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절뚝",
+    "translation": "доош унах, доошлох",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절뚝거리다",
+    "translation": "доголох, мултрах",
+    "hanja": "절뚝거리다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "절뚝발이",
+    "translation": "Доголон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절뚝이다",
+    "translation": "доголох",
+    "hanja": "절뚝이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절뚝절뚝",
+    "translation": "тогтохгүй явах",
+    "hanja": "null",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "절레절레",
+    "translation": "Үгүй гэж толгой сэгсрэх",
+    "hanja": "절레절레",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절레절레하다",
+    "translation": "толгой сэгсрэх",
+    "hanja": "절레절레하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절룩거리다",
+    "translation": "доголох, мултрах",
+    "hanja": "절룩거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절룩이다",
+    "translation": "доголох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절룩절룩",
+    "translation": "доголон",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절름거리다",
+    "translation": "доголох",
+    "hanja": "절름거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절름발이",
+    "translation": "доголон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절리",
+    "translation": "хагархай",
+    "hanja": "節理",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "절망",
+    "translation": "цөхрөл",
+    "hanja": "絕望",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "절망감",
+    "translation": "айдас",
+    "hanja": "絕望感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절망스럽다",
+    "translation": "найдваргүй",
+    "hanja": "絕望스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절망적",
+    "translation": "Цөхөрмөөр",
+    "hanja": "絕望的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "절망하다",
+    "translation": "цөхрөх, найдваргүй болох",
+    "hanja": "絶望하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절멸",
+    "translation": "Устгах, мөхөөх",
+    "hanja": "絶滅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절명",
+    "translation": "амь таслах",
+    "hanja": "絕命",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절명하다",
+    "translation": "амьсгал хураах",
+    "hanja": "絕命하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "절묘하다",
+    "translation": "гайхамшигтай",
+    "hanja": "絕妙하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "절미",
+    "translation": "амттай сайхан амт",
+    "hanja": "絶味",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절박하다",
+    "translation": "яаралтай, тулгамдсан",
+    "hanja": "切迫하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절반",
+    "translation": "хагас",
+    "hanja": "折半",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절벽",
+    "translation": "хадан цохио, эгц хад",
+    "hanja": "絕壁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절복",
+    "translation": "итгүүлэх",
+    "hanja": "折伏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절삭",
+    "translation": "зүсэлт",
+    "hanja": "切削",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절상",
+    "translation": "Дээшлүүлэх, үнийг өсгөх",
+    "hanja": "切上",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절세",
+    "translation": "татвараас зайлсхийх",
+    "hanja": "節稅",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "절세미인",
+    "translation": "ховорхон гоо үзэсгэлэн",
+    "hanja": "絕世美人",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "절세하다",
+    "translation": "татвараас зайлсхийх",
+    "hanja": "節稅―",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절수",
+    "translation": "ус хэмнэх",
+    "hanja": "節水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절식",
+    "translation": "идэхээс татгалзах, хоолны дэглэм барих",
+    "hanja": "節食",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "절실하다",
+    "translation": "Яаралтай, чухал",
+    "hanja": "切實—",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "절실히",
+    "translation": "маш их, гүн гүнзгий",
+    "hanja": "切實히",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "절약",
+    "translation": "Хэмнэлт",
+    "hanja": "節約",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "절약되다",
+    "translation": "хэмнэгдэх",
+    "hanja": "節約되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절약하다",
+    "translation": "хэмнэх",
+    "hanja": "節約하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절연",
+    "translation": "тусгаарлах",
+    "hanja": "絕緣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절연하다",
+    "translation": "Харилцаагаа таслах, тусгаарлах",
+    "hanja": "絶緣하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "절이다",
+    "translation": "даршлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절임",
+    "translation": "дарсан",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "절전",
+    "translation": "цахилгаан хэмнэх",
+    "hanja": "節電",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "절전하다",
+    "translation": "цахилгаан хэмнэх",
+    "hanja": "節電하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절절",
+    "translation": "хэсэг хэсгээр, үе үе",
+    "hanja": "節節",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절절매다",
+    "translation": "Түгших, сандрах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절절하다",
+    "translation": "зүрх шимшрүүлэм",
+    "hanja": "切切--",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절절히",
+    "translation": "маш ихээр, гүн гүнзгийгээр",
+    "hanja": "切切이",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "절정",
+    "translation": "Оргил",
+    "hanja": "絶頂",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "절정기",
+    "translation": "оргил үе",
+    "hanja": "絶頂期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절제",
+    "translation": "тэсвэр тэвчээр",
+    "hanja": "節制",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "절제되다",
+    "translation": "хязгаарлагдах",
+    "hanja": "節制되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "절제하다",
+    "translation": "хэмжээгээ мэдэх",
+    "hanja": "節制하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절주",
+    "translation": "Ундааг хязгаарлах",
+    "hanja": "節酒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절차",
+    "translation": "журам",
+    "hanja": "節次",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절찬리",
+    "translation": "маш их сайшаалтайгаар",
+    "hanja": "絶讚裡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절창",
+    "translation": "гайхамшигтай дуулалт",
+    "hanja": "絶唱",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "절충",
+    "translation": "хэлэлцээр; тохиролцоо",
+    "hanja": "折衝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절충안",
+    "translation": "буулт",
+    "hanja": "折衝案",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절충하다",
+    "translation": "тохиролцох",
+    "hanja": "折衷-",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "절취",
+    "translation": "Таслах, огтлох",
+    "hanja": "切取",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절취하다",
+    "translation": "хулгайлах",
+    "hanja": "竊取하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절치부심",
+    "translation": "шүд зуун чармайх (өршөөлгүй)",
+    "hanja": "切齒腐心",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "절치부심하다",
+    "translation": "шүд зуун тэвчих",
+    "hanja": "切齒腐心하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절친",
+    "translation": "дотны найз",
+    "hanja": "絶親",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "절친하다",
+    "translation": "маш дотно",
+    "hanja": "切親하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절판",
+    "translation": "хэвлэлтээс гарсан",
+    "hanja": "絕版",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "절판되다",
+    "translation": "хэвлэгдэхээ больсон",
+    "hanja": "絶版되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "절편",
+    "translation": "хэрчсэн бялуу",
+    "hanja": "切片",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "절필하다",
+    "translation": "бичихээ болих",
+    "hanja": "絶筆하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절하다",
+    "translation": "мөргөх",
+    "hanja": "節하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "절하되다",
+    "translation": "үнэлэгээ нь буурах",
+    "hanja": "切下되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절하하다",
+    "translation": "үнэгүйдүүлэх",
+    "hanja": "切下하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절호",
+    "translation": "гайхамшигтай",
+    "hanja": "絕好",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

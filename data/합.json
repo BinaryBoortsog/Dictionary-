@@ -1,0 +1,765 @@
+[
+  {
+    "word": "합",
+    "translation": "Нийлбэр / Таг",
+    "hanja": "합 (合)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합가",
+    "translation": "гэрлэх",
+    "hanja": "合家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합가하다",
+    "translation": "гэрлэх",
+    "hanja": "合家하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합격",
+    "translation": "тэнцэх",
+    "hanja": "合格",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합격되다",
+    "translation": "тэнцэх",
+    "hanja": "合格되다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "합격시키다",
+    "translation": "тэнцүүлэх, шалгаруулах",
+    "hanja": "合格시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합격자",
+    "translation": "Тэнцсэн хүн",
+    "hanja": "合格者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합격증",
+    "translation": "тэнцсэн тухай гэрчилгээ",
+    "hanja": "合格證",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "합격하다",
+    "translation": "тэнцэх",
+    "hanja": "合格하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "합계",
+    "translation": "нийлбэр, нийт",
+    "hanja": "合計",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합공",
+    "translation": "хамтарсан довтолгоо",
+    "hanja": "合攻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합궁",
+    "translation": "гэрлэх",
+    "hanja": "合宮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "합금",
+    "translation": "хайлш",
+    "hanja": "合金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합기도",
+    "translation": "хапкидо",
+    "hanja": "合氣道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합당",
+    "translation": "тохиромжтой, зохистой",
+    "hanja": "合當",
+    "pos": "명사/형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합당하다",
+    "translation": "зохих",
+    "hanja": "合當하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "합동",
+    "translation": "Хамтарсан",
+    "hanja": "合同",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "합동하다",
+    "translation": "нэгдэх",
+    "hanja": "合同하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "합려",
+    "translation": "Хэлюй",
+    "hanja": "闔閭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "합력",
+    "translation": "Хүчээ нэгтгэх, хамтран ажиллах",
+    "hanja": "合力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합력하다",
+    "translation": "хамтран ажиллах",
+    "hanja": "合力하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합류",
+    "translation": "нийлэх",
+    "hanja": "合流",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합류되다",
+    "translation": "нэгдэх, нийлэх",
+    "hanja": "合流되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "합류시키다",
+    "translation": "нэгтгэх",
+    "hanja": "合流시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합류하다",
+    "translation": "нэгдэх, нийлэх",
+    "hanja": "合流하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "합리",
+    "translation": "Зохистой байдал",
+    "hanja": "合理",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "합리성",
+    "translation": "Үндэслэлтэй байдал, оновчтой байдал",
+    "hanja": "合理性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합리적",
+    "translation": "зохистой",
+    "hanja": "合理的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "합리주의",
+    "translation": "рационализм, учир зүйн үзэл",
+    "hanja": "合理主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합리화",
+    "translation": "Рационалчлах, үндэслэлтэй болгох",
+    "hanja": "合理化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합리화되다",
+    "translation": "Рационал болгох",
+    "hanja": "合理化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합리화하다",
+    "translation": "үндэслэх, бодитой болгох",
+    "hanja": "合理化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합반",
+    "translation": "нийлсэн анги",
+    "hanja": "合班",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합방",
+    "translation": "хамтын харилцаа",
+    "hanja": "合邦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합방하다",
+    "translation": "нэгдэх, холбоо байгуулах",
+    "hanja": "合邦하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합법",
+    "translation": "Хууль ёсны",
+    "hanja": "合法",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "합법성",
+    "translation": "хууль ёсны байдал",
+    "hanja": "合法性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합법적",
+    "translation": "хууль ёсны",
+    "hanja": "合法的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "합법하다",
+    "translation": "хууль ёсны",
+    "hanja": "合法하다",
+    "pos": "Adj",
+    "cefr": "B1"
+  },
+  {
+    "word": "합법화",
+    "translation": "Хуульчлах, хууль ёсны болгох",
+    "hanja": "合法化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합법화되다",
+    "translation": "хууль ёсны болгох",
+    "hanja": "合法化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합법화하다",
+    "translation": "Хууль ёсны болгох",
+    "hanja": "合法化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합병",
+    "translation": "нэгтгэх",
+    "hanja": "合倂",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "합병되다",
+    "translation": "нэгдэх",
+    "hanja": "合倂되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "합병증",
+    "translation": "хүндрэл",
+    "hanja": "合倂症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합병하다",
+    "translation": "нэгтгэх",
+    "hanja": "合倂하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합본",
+    "translation": "нэгтгэсэн боть",
+    "hanja": "合本",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합사",
+    "translation": "нийлүүлэн уях",
+    "hanja": "合絲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합사하다",
+    "translation": "нэгтгэх",
+    "hanja": "合祀하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "합산",
+    "translation": "нийлбэр, нийт дүн",
+    "hanja": "合算",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합산되다",
+    "translation": "нийлбэр дүнгээр тооцогдох",
+    "hanja": "合算되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합산하다",
+    "translation": "нэгтгэх, нийлүүлэх",
+    "hanja": "合算—",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "합석",
+    "translation": "хамт суух",
+    "hanja": "合席",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합석하다",
+    "translation": "нэг ширээнд суух",
+    "hanja": "合席하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합선",
+    "translation": "богино холболт",
+    "hanja": "合線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합선되다",
+    "translation": "богино холболт хийх",
+    "hanja": "合線되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합성",
+    "translation": "нийлэг, синтетик",
+    "hanja": "合成",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합성되다",
+    "translation": "нийлмэл байх",
+    "hanja": "合成되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합성법",
+    "translation": "нийлэгжүүлэх арга",
+    "hanja": "合成法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합성어",
+    "translation": "Нийлмэл үг",
+    "hanja": "合成語",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "합성음",
+    "translation": "Синтетик дуу",
+    "hanja": "合成音",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합성하다",
+    "translation": "Нийлүүлэх",
+    "hanja": "合成하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합세",
+    "translation": "нэгдэх, хамтрах",
+    "hanja": "合勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합세하다",
+    "translation": "нэгдэх, хамтрах",
+    "hanja": "合勢하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "합숙",
+    "translation": "Хамтдаа амрах, хамтад байрлах",
+    "hanja": "合宿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합숙소",
+    "translation": "байр, дотуур байр",
+    "hanja": "合宿所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합숙하다",
+    "translation": "хамт амьдрах",
+    "hanja": "合宿하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "합스부르크가",
+    "translation": "Хабсбургийнхан",
+    "hanja": "합스부르크家",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "합승",
+    "translation": "хамтдаа суух",
+    "hanja": "合乘",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "합승하다",
+    "translation": "зэрэг суух",
+    "hanja": "合乘하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합심",
+    "translation": "нэгдэх, зүрхээрээ нийлэх",
+    "hanja": "合心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합심하다",
+    "translation": "нэгдэх",
+    "hanja": "合心하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "합의",
+    "translation": "зөвшилцөл",
+    "hanja": "合議",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합의되다",
+    "translation": "Тохиролцох, зөвшилцөх",
+    "hanja": "合意되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "합의점",
+    "translation": "зөвшилцлийн цэг, тохиролцох цэг",
+    "hanja": "合意點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합의제",
+    "translation": "зөвшилцлийн систем",
+    "hanja": "合議制",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "합의하다",
+    "translation": "тохиролцох, зөвшилцөх",
+    "hanja": "合意하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합일",
+    "translation": "нэгдэл",
+    "hanja": "合一",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "합작",
+    "translation": "хамтын бүтээл, хамтын ажиллагаа",
+    "hanja": "合作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합작사",
+    "translation": "хамтарсан компани",
+    "hanja": "合資社",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합작품",
+    "translation": "хамтарсан бүтээл",
+    "hanja": "合作으로 만든 작품",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합작하다",
+    "translation": "хамтран ажиллах",
+    "hanja": "合作하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합장",
+    "translation": "гараа нийлүүлж мөргөх",
+    "hanja": "合掌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합장하다",
+    "translation": "мөргөх",
+    "hanja": "合掌하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합정",
+    "translation": "Хапжон (газрын нэр)",
+    "hanja": "合井",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "합종",
+    "translation": "нэгдэл (улс төр)",
+    "hanja": "合從",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "합주",
+    "translation": "хамтдаа тоглох",
+    "hanja": "合奏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합주하다",
+    "translation": "Хамтдаа хөгжимдөх, хамтдаа дуулах",
+    "hanja": "合奏하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합죽이",
+    "translation": "шүдгүй хүн",
+    "hanja": "合竹이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합중국",
+    "translation": "нэгдсэн улс",
+    "hanja": "合衆國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합지",
+    "translation": "Харьцангуй цаас",
+    "hanja": "合紙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합집합",
+    "translation": "нэгдэл",
+    "hanja": "合집합",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "합참",
+    "translation": "нэгдсэн штаб",
+    "hanja": "合參",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "합창",
+    "translation": "хор",
+    "hanja": "合唱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합창곡",
+    "translation": "хорын дуу",
+    "hanja": "合唱曲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합창단",
+    "translation": "найрал дууны хамтлаг",
+    "hanja": "合唱團",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합창하다",
+    "translation": "найрал дуулах",
+    "hanja": "合唱하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합천",
+    "translation": "Хамчон (Солонгосын газар зүйн нэр)",
+    "hanja": "陜川",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "합체",
+    "translation": "Нэгдэл, нэгдэх",
+    "hanja": "合體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합체되다",
+    "translation": "нэгдэх",
+    "hanja": "合體되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "합체하다",
+    "translation": "нэгдэх",
+    "hanja": "合體하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "합치다",
+    "translation": "нэгтгэх",
+    "hanja": "合치다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합치되다",
+    "translation": "тохирох",
+    "hanja": "合致되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합치하다",
+    "translation": "нийцэх, тохирох",
+    "hanja": "合致하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "합판",
+    "translation": "фанер",
+    "hanja": "合板",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "합하",
+    "translation": "нэгтгэх",
+    "hanja": "合下",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "합하다",
+    "translation": "нэгтгэх, нийлүүлэх",
+    "hanja": "合하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합헌",
+    "translation": "үндсэн хуульд нийцсэн",
+    "hanja": "合憲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합환주",
+    "translation": "хуримны дарс",
+    "hanja": "合歡酒",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

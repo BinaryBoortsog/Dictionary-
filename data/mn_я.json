@@ -1,0 +1,5049 @@
+[
+  {
+    "word": "가다",
+    "translation": "явах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "딱",
+    "translation": "яг",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "어떻다",
+    "translation": "ямар",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "말씀드리다",
+    "translation": "ярих",
+    "hanja": "말씀드리다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "어느",
+    "translation": "ямар",
+    "hanja": "어느",
+    "pos": "관형사",
+    "cefr": "A1"
+  },
+  {
+    "word": "특히",
+    "translation": "ялангуяа",
+    "hanja": "特히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얘기하다",
+    "translation": "ярих, хэлэх",
+    "hanja": "얘기하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "아무",
+    "translation": "ямар ч, хэн ч",
+    "hanja": "아무",
+    "pos": "대명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대화",
+    "translation": "яриа",
+    "hanja": "對話",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "차이",
+    "translation": "ялгаа",
+    "hanja": "差異",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "떠나다",
+    "translation": "явах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "왜냐하면",
+    "translation": "яагаад гэвэл",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "당장",
+    "translation": "яг одоо",
+    "hanja": "當場",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "똑같다",
+    "translation": "яг адилхан",
+    "hanja": "똑같다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다니다",
+    "translation": "явж ирэх, сургуульд явах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어차피",
+    "translation": "ямар ч байсан",
+    "hanja": "於此彼",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어떡",
+    "translation": "яах вэ",
+    "hanja": "어떡",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "아무튼",
+    "translation": "ямар ч байсан, ямар ч тохиолдолд",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이야기하다",
+    "translation": "ярих",
+    "hanja": "이야기하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "걷다",
+    "translation": "Явах",
+    "hanja": "걷다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "급하다",
+    "translation": "яаралтай",
+    "hanja": "急하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "인터뷰",
+    "translation": "ярилцлага",
+    "hanja": "interview",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어찌",
+    "translation": "яаж, хэрхэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피곤하다",
+    "translation": "Ядарсан",
+    "hanja": "疲困하다",
+    "pos": "adj",
+    "cefr": "A1"
+  },
+  {
+    "word": "승리",
+    "translation": "ялалт",
+    "hanja": "勝利",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이기다",
+    "translation": "ялах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "얘기",
+    "translation": "яриа",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "핑크",
+    "translation": "ягаан",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "파리",
+    "translation": "ялаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "직전",
+    "translation": "яг өмнө",
+    "hanja": "直前",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "그나마",
+    "translation": "Ядаж л",
+    "hanja": "그나마",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직후",
+    "translation": "Яг дараа нь",
+    "hanja": "直後",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말투",
+    "translation": "ярианы хэв маяг",
+    "hanja": " 말투",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하여튼",
+    "translation": "ямартай ч",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "우승",
+    "translation": "ялалт",
+    "hanja": "優勝",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가난하다",
+    "translation": "ядуу",
+    "hanja": "가난하다",
+    "pos": "adj",
+    "cefr": "A2"
+  },
+  {
+    "word": "도저히",
+    "translation": "Яагаад ч үгүй, огт",
+    "hanja": "到底히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "양반",
+    "translation": "ядган",
+    "hanja": "兩班",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "웬일",
+    "translation": "ямар хэрэг",
+    "hanja": "웬일",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "아무렇다",
+    "translation": "ямар нэгэн байдлаар",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "긴급",
+    "translation": "яаралтай",
+    "hanja": "緊急",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "승리하다",
+    "translation": "ялах, ялалт байгуулах",
+    "hanja": "勝利하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면접",
+    "translation": "ярилцлага",
+    "hanja": "面接",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대화하다",
+    "translation": "ярилцах",
+    "hanja": "對話하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "마구",
+    "translation": "Янз бүрийн, зоргоороо",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "일본어",
+    "translation": "Япон хэл",
+    "hanja": "日本語",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "보라색",
+    "translation": "ягаан өнгө",
+    "hanja": "보라色",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "비상",
+    "translation": "Яаралтай байдал",
+    "hanja": "非常",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "그나저나",
+    "translation": "Ямар ч байсан, дашрамд хэлэхэд",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "어쩌다",
+    "translation": "яаж",
+    "hanja": "어쩌다",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "통화하다",
+    "translation": "ярих",
+    "hanja": "通話하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "썩다",
+    "translation": "ялгарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급히",
+    "translation": "яаралтай",
+    "hanja": "急히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀족",
+    "translation": "Язгууртан",
+    "hanja": "貴族",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운행",
+    "translation": "Явах, хөдлөх",
+    "hanja": "運行",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구분하다",
+    "translation": "Ялгах, ангилах",
+    "hanja": "區分하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승부",
+    "translation": "ялалт эсвэл ялагдал",
+    "hanja": "勝負",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "마냥",
+    "translation": "яг",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "승",
+    "translation": "ялалт",
+    "hanja": "勝",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "차별",
+    "translation": "ялгаварлан гадуурхах",
+    "hanja": "差別",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서두르다",
+    "translation": "яарах",
+    "hanja": "서두르다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어찌하다",
+    "translation": "яах",
+    "hanja": "어찌하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "응급실",
+    "translation": "яаралтай тусламжийн өрөө",
+    "hanja": "응급실(應急室)",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "토크",
+    "translation": "яриа",
+    "hanja": "talk",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "피고인",
+    "translation": "ялтан",
+    "hanja": "被告人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우승하다",
+    "translation": "ялах",
+    "hanja": "優勝하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다름없다",
+    "translation": "ялгаагүй",
+    "hanja": "None",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "야호",
+    "translation": "яахо (баярлах үг)",
+    "hanja": "야호",
+    "pos": "interjection",
+    "cefr": "A2"
+  },
+  {
+    "word": "인터뷰하다",
+    "translation": "ярилцлага өгөх",
+    "hanja": "인터뷰하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "황급히",
+    "translation": "яаран сандран",
+    "hanja": "惶急히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "설득",
+    "translation": "ялах",
+    "hanja": "說得",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물리치다",
+    "translation": "ялах",
+    "hanja": "물리치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄인",
+    "translation": "ялтан",
+    "hanja": "罪人",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "패배",
+    "translation": "Ялагдал",
+    "hanja": "敗北",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시집",
+    "translation": "яруу найргийн түүвэр",
+    "hanja": "詩集",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암튼",
+    "translation": "ямар ч байсан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다급하다",
+    "translation": "яаралтай, тулгамдсан",
+    "hanja": "多急하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차이점",
+    "translation": "Ялгаа",
+    "hanja": "差異點",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "승자",
+    "translation": "Ялагч",
+    "hanja": "勝者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "분홍색",
+    "translation": "Ягаан өнгө",
+    "hanja": "粉紅色",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "뼈",
+    "translation": "яс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하여간",
+    "translation": "ямар ч байсан",
+    "hanja": "何如間",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시인",
+    "translation": "Яруу найрагч",
+    "hanja": "詩人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "그대로",
+    "translation": "Яг тэр хэвээр",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "기소",
+    "translation": "Яллах",
+    "hanja": "起訴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "당첨",
+    "translation": "Ялалт, хонж",
+    "hanja": "當籤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼭꼭",
+    "translation": "Яг, заавал",
+    "hanja": "꼭꼭",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따내다",
+    "translation": "Ялах / Хожих / Авах",
+    "hanja": "따내다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우승자",
+    "translation": "ялагч",
+    "hanja": "優勝者",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "기소하다",
+    "translation": "ял эдлэх",
+    "hanja": "起訴하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "횡단보도",
+    "translation": "Явган хүний гарц",
+    "hanja": "橫斷步道",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "응급",
+    "translation": "Яаралтай тусламж",
+    "hanja": "應急",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "절실하다",
+    "translation": "Яаралтай, чухал",
+    "hanja": "切實—",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "재촉하다",
+    "translation": "Яаруулах, шаардах",
+    "hanja": "再促하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시급하다",
+    "translation": "Яаралтай байх",
+    "hanja": "時急하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "구별하다",
+    "translation": "Ялгах, ангилах",
+    "hanja": "區別하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배출하다",
+    "translation": "ялгаруулах",
+    "hanja": "排出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "로제",
+    "translation": "ягаан дарстай соус",
+    "hanja": "로제",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왜",
+    "translation": "яагаад",
+    "hanja": "null",
+    "pos": "adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "하필",
+    "translation": "Яагаад заавал",
+    "hanja": "何必",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부패",
+    "translation": "Ялзрал, хордох",
+    "hanja": "腐敗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절박하다",
+    "translation": "яаралтай, тулгамдсан",
+    "hanja": "切迫하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어김없이",
+    "translation": "яг л",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여하튼",
+    "translation": "ямар ч гэсэн",
+    "hanja": "如何튼",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "그럭저럭",
+    "translation": "яаж ийж байгаад",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담화",
+    "translation": "Яриа",
+    "hanja": "談話",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설득력",
+    "translation": "Ятгах чадвартай",
+    "hanja": "說得力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패배하다",
+    "translation": "ялагдах",
+    "hanja": "敗北하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "분홍",
+    "translation": "ягаан",
+    "hanja": "粉紅",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가난",
+    "translation": "ядуурал",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "뉘앙스",
+    "translation": "ялгаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각지",
+    "translation": "янз бүрийн газар",
+    "hanja": "各地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조급하다",
+    "translation": "яарсан, тэвчээргүй",
+    "hanja": "躁急하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부치다",
+    "translation": "Явуулах",
+    "hanja": "附치다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "형량",
+    "translation": "Ял",
+    "hanja": "刑量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "초라하다",
+    "translation": "Ядуу",
+    "hanja": "草라하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "때마침",
+    "translation": "яг цагт нь",
+    "hanja": "때마침",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "양갱",
+    "translation": "янган",
+    "hanja": "羊羹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "양양",
+    "translation": "Янян (хот)",
+    "hanja": "襄陽",
+    "pos": "м.н.",
+    "cefr": "A1"
+  },
+  {
+    "word": "필승",
+    "translation": "ялах нь гарцаагүй",
+    "hanja": "必勝",
+    "pos": "exclamation",
+    "cefr": "B2"
+  },
+  {
+    "word": "섣불리",
+    "translation": "ялдамгүй, яаруу",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "거북이",
+    "translation": "яст мэлхий",
+    "hanja": "거북이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "성급하다",
+    "translation": "яаруу сандруу",
+    "hanja": "性急하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "염소",
+    "translation": "ямаа",
+    "hanja": "염素",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "떠나보내다",
+    "translation": "явуулах, үдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회화",
+    "translation": "яриа, харилцан яриа",
+    "hanja": "會話",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배설물",
+    "translation": "Ялгадас",
+    "hanja": "排泄物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기어이",
+    "translation": "Яаж ийж байгаад, эцсийн эцэст",
+    "hanja": "기어이",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "발리다",
+    "translation": "ялагдах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "위너",
+    "translation": "ялагч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "굴뚝",
+    "translation": "Яндан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "선고되다",
+    "translation": "яллагдах",
+    "hanja": "宣告되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승부욕",
+    "translation": "ялгуусан хүсэл",
+    "hanja": "勝負欲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정시",
+    "translation": "яг цагт",
+    "hanja": "定時",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분비",
+    "translation": "ялгаруулалт",
+    "hanja": "分泌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공소장",
+    "translation": "ял эдлүүлэх тогтоол",
+    "hanja": "公訴狀",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "양평",
+    "translation": "Янпён (хот)",
+    "hanja": "楊平",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "구분되다",
+    "translation": "ялгарах",
+    "hanja": "區分되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "거북",
+    "translation": "яст мэлхий",
+    "hanja": "거북",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차별하다",
+    "translation": "ялгаварлах",
+    "hanja": "差別─",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "허겁지겁",
+    "translation": "яарч сандрах",
+    "hanja": "허겁지겁",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승패",
+    "translation": "ялалт ба ялагдал",
+    "hanja": "勝敗",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "피로감",
+    "translation": "Ядаргаа",
+    "hanja": "疲勞感",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "배출",
+    "translation": "Ялгаруулалт",
+    "hanja": "排出",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "별말씀",
+    "translation": "Яамай",
+    "hanja": "別말씀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배출되다",
+    "translation": "ялгарах",
+    "hanja": "排出되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "다급히",
+    "translation": "яаралтай",
+    "hanja": "多急히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피로",
+    "translation": "Ядаргаа",
+    "hanja": "疲勞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부랴부랴",
+    "translation": "Яаравчлан",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무차별",
+    "translation": "ялгавартай бус",
+    "hanja": "無差別",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "하다못해",
+    "translation": "ядаж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고단하다",
+    "translation": "ядарсан, цуцсан",
+    "hanja": "苦難하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형벌",
+    "translation": "ял",
+    "hanja": "刑罰",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "말소리",
+    "translation": "ярианы дуу хоолой",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "트레킹",
+    "translation": "явган аялал",
+    "hanja": "trekking",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "승점",
+    "translation": "ялалтын оноо",
+    "hanja": "勝點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무턱대고",
+    "translation": "Ямар ч шалтгаангүйгээр, шууд л",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "위급하다",
+    "translation": "яаралтай, аюултай",
+    "hanja": "危急하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "도보",
+    "translation": "Явган",
+    "hanja": "徒步",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구별",
+    "translation": "Ялгах",
+    "hanja": "區別",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고상하다",
+    "translation": "Язгууртан, дээд зиндааны",
+    "hanja": "高尙하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성급",
+    "translation": "яаруу",
+    "hanja": "性急",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "권유",
+    "translation": "Ятгах, санал тавих",
+    "hanja": "勸誘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보행",
+    "translation": "явган явах",
+    "hanja": "步行",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "긴급하다",
+    "translation": "яаралтай, тулгамдсан",
+    "hanja": "緊急하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부패하다",
+    "translation": "ялзрах",
+    "hanja": "腐敗-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번아웃",
+    "translation": "Ядаргаа, сэтгэл санааны хоосрол",
+    "hanja": "번아웃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바이올렛",
+    "translation": "ягаан",
+    "hanja": "바이올렛",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "분비되다",
+    "translation": "Ялгаруулах",
+    "hanja": "分泌되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "양형",
+    "translation": "Ялын хэмжээ тогтоох",
+    "hanja": "量刑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "뼛속",
+    "translation": "Ясны гүн, ясан дотор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급박하다",
+    "translation": "яаралтай, хүнд",
+    "hanja": "急迫하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "양극화",
+    "translation": "ялгаатай байдал",
+    "hanja": "兩極化",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "바삐",
+    "translation": "яаран",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "격차",
+    "translation": "Ялгаа",
+    "hanja": "格差",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정각",
+    "translation": "Яг цагт",
+    "hanja": "正刻",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "흡사",
+    "translation": "Яг л",
+    "hanja": "恰似",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "분간",
+    "translation": "ялгах",
+    "hanja": "分揀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속수무책",
+    "translation": "яах ч аргагүй",
+    "hanja": "束手無策",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "승산",
+    "translation": "ялах боломж, давуу тал",
+    "hanja": "勝算",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방출하다",
+    "translation": "ялгаруулах, суллах",
+    "hanja": "放出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의기양양하다",
+    "translation": "ялалт байгуулсан мэт, бахархсан",
+    "hanja": "意氣揚揚하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무찌르다",
+    "translation": "ялах, бут цохих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가려내다",
+    "translation": "ялгах, сонгох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운운하다",
+    "translation": "ярих, дурдах",
+    "hanja": "云云하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천하무적",
+    "translation": "ялагдашгүй",
+    "hanja": "天下無敵",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "급급하다",
+    "translation": "Яарах, сандрах",
+    "hanja": "汲汲하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차별화",
+    "translation": "Ялгаварлан онцгойрох",
+    "hanja": "差別化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패하다",
+    "translation": "ялагдах",
+    "hanja": "敗하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발산하다",
+    "translation": "ялгаруулах",
+    "hanja": "發散하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말수",
+    "translation": "ярианы тоо",
+    "hanja": "말수",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조속히",
+    "translation": "Яаравчлан, шуурхай",
+    "hanja": "早速히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화법",
+    "translation": "ярианы арга, хэл аялга",
+    "hanja": "話法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무조건",
+    "translation": "ямар ч нөхцөлгүйгээр, бүх нөхцөлд",
+    "hanja": "無條件",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분홍빛",
+    "translation": "ягаан өнгөтэй",
+    "hanja": "粉紅빛",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "패배자",
+    "translation": "ялчигч",
+    "hanja": "敗北者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "피로하다",
+    "translation": "ядарсан, цуцсан",
+    "hanja": "疲勞하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "야쿠자",
+    "translation": "якуза",
+    "hanja": "やくざ",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "속되다",
+    "translation": "ялдамхай, хямсгар",
+    "hanja": "俗되다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차별화되다",
+    "translation": "ялгарах, онцгойрох",
+    "hanja": "差別化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방출되다",
+    "translation": "ялгарах, гаргах",
+    "hanja": "放出되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회유",
+    "translation": "яриа өрнүүлэх",
+    "hanja": " hoeyu",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "친일파",
+    "translation": "Японыг дэмжигч",
+    "hanja": "親日派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면접관",
+    "translation": "ярилцлага авч буй хүн",
+    "hanja": "面接官",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피곤",
+    "translation": "Ядаргаа",
+    "hanja": "疲困",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "골수",
+    "translation": "ясны чөмөг",
+    "hanja": "骨髓",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "면담하다",
+    "translation": "яриа өрнүүлэх, уулзах",
+    "hanja": "面談하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뼈다귀",
+    "translation": "Яс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "압승",
+    "translation": "Ялалт, давамгай ялалт",
+    "hanja": "壓勝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부리나케",
+    "translation": "яаралтай",
+    "hanja": "부리나케",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보병",
+    "translation": "Явган цэрэг",
+    "hanja": "步兵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발하다",
+    "translation": "Ялгаруулах",
+    "hanja": "發하다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "찌질이",
+    "translation": "Ядуу, дорой хүн",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누추하다",
+    "translation": "ядуу, бохир, заваан",
+    "hanja": "陋醜하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "슬",
+    "translation": "ярианы үгний дуу чимээ",
+    "hanja": "슬",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분별력",
+    "translation": "ялгах чадвар",
+    "hanja": "分別力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화자",
+    "translation": "яригч, өгүүлэгч",
+    "hanja": "話者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다름없이",
+    "translation": "ялгаагүй",
+    "hanja": "다름없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "떠벌리다",
+    "translation": "яриа дэлгэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빈곤",
+    "translation": "ядуурал",
+    "hanja": "貧困",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이킹",
+    "translation": "явган аялал",
+    "hanja": "하이킹",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "재규어",
+    "translation": "Ягуар (амьтан)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고달프다",
+    "translation": "Ядарч туйлдаж байна",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "배리",
+    "translation": "ялгаа",
+    "hanja": "bury",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "분간하다",
+    "translation": "Ялгах, таних",
+    "hanja": "分揀하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "야후",
+    "translation": "Яху!",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차등",
+    "translation": "ялгаа",
+    "hanja": "差等",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙찰되다",
+    "translation": "ялах, хожих (дуудлага худалдаанд)",
+    "hanja": "落札되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "야마",
+    "translation": "Ямаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분별하다",
+    "translation": "Ялгах",
+    "hanja": "分別하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연통",
+    "translation": "яндан",
+    "hanja": "煙筒",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어케",
+    "translation": "Яаж (어떻게-ийн товчилсон хэлбэр)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "정형외과",
+    "translation": "Ясны мэс засал",
+    "hanja": "整形外科",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "아무쪼록",
+    "translation": "ямар ч байсан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배기가스",
+    "translation": "яндангийн утаа",
+    "hanja": "排氣gas",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자메이카",
+    "translation": "Ямайк",
+    "hanja": "Jamaica",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "골다공증",
+    "translation": "яс сийрэгжих өвчин",
+    "hanja": "骨多孔症",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무차별적",
+    "translation": "ялгаваргүй, ялгалгүй",
+    "hanja": "無差別的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구별되다",
+    "translation": "ялгагдах",
+    "hanja": "區別되다",
+    "pos": "ү.ү",
+    "cefr": "B2"
+  },
+  {
+    "word": "가쇼",
+    "translation": "явсан уу",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "피폐하다",
+    "translation": "ядарсан, хоосрох",
+    "hanja": "疲弊하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "트래킹",
+    "translation": "явган аялал",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분별",
+    "translation": "ялгах",
+    "hanja": "分別",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승승장구하다",
+    "translation": "Ялалт байгуулах",
+    "hanja": "乘勝長驅하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격파",
+    "translation": "ялах",
+    "hanja": "擊破",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "긴급회의",
+    "translation": "яаралтай хурал",
+    "hanja": "緊急會議",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀인",
+    "translation": "язгууртан",
+    "hanja": "貴人",
+    "pos": "сущ",
+    "cefr": "C1"
+  },
+  {
+    "word": "항시",
+    "translation": "ямагт",
+    "hanja": "恒時",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬드기다",
+    "translation": "ялах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승률",
+    "translation": "ялсан хувь",
+    "hanja": "勝率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승소",
+    "translation": "ялах, шүүхэд ялах",
+    "hanja": "勝訴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간발",
+    "translation": "ялимгүй зай",
+    "hanja": "間髮",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "분비하다",
+    "translation": "ялгаруулах",
+    "hanja": "分泌--",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긴히",
+    "translation": "Яаралтай",
+    "hanja": "緊히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감형",
+    "translation": "ял хөнгөрүүлэх",
+    "hanja": "減刑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사대부",
+    "translation": "янбан (феодалын үеийн давхарга)",
+    "hanja": "士大夫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "죄목",
+    "translation": "ял зэм",
+    "hanja": "罪目",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "거북선",
+    "translation": "Яст мэлхий завь (солонгосын эртний байлдааны завь)",
+    "hanja": "龜船",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "추리다",
+    "translation": "Ялгаж авахаас сонгох",
+    "hanja": "추리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행차",
+    "translation": "Явах, айлчлал",
+    "hanja": "行次",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "일왕",
+    "translation": "Японы эзэн хаан",
+    "hanja": "日王",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "양구",
+    "translation": "Яангу (гадаад нэр)",
+    "hanja": "楊口",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "어찌어찌",
+    "translation": "яаж ийгээд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "회유하다",
+    "translation": "ялах, ятгах",
+    "hanja": "懷柔하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소추",
+    "translation": "ял эдлүүлэх",
+    "hanja": "訴追",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비천하다",
+    "translation": "ядуу дорой байх, бузарлах",
+    "hanja": "卑賤하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매한가지",
+    "translation": "Яг адилхан, нэг хэвээрээ",
+    "hanja": "매한가지",
+    "pos": "명사, 부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "결단코",
+    "translation": "ямар ч үнээр",
+    "hanja": "決斷코",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급선무",
+    "translation": "яаралтай ажил",
+    "hanja": "急先務",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈궁",
+    "translation": "ядуурал",
+    "hanja": "貧窮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "야마모토",
+    "translation": "Ямамото (нэр)",
+    "hanja": "山本",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "매연",
+    "translation": "яндангийн утаа",
+    "hanja": "煤煙",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "종용하다",
+    "translation": "яаравчлуулах",
+    "hanja": "慫慂하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "복역",
+    "translation": "ял эдлэх",
+    "hanja": "服役",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "판별하다",
+    "translation": "ялгах, тодорхойлох",
+    "hanja": "判別-",
+    "pos": "ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "통화료",
+    "translation": "ярианы төлбөр",
+    "hanja": "通話料",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탈진하다",
+    "translation": "ядарч сульдах",
+    "hanja": "脫盡하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "왜구",
+    "translation": "Японы дээрэмчин",
+    "hanja": "倭寇",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옹졸하다",
+    "translation": "ялдамгүй, нарийхан",
+    "hanja": "壅拙하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패자",
+    "translation": "ялагдсан хүн",
+    "hanja": "敗者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사골",
+    "translation": "ясны шөл",
+    "hanja": "사골(四骨)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "일식집",
+    "translation": "япон хоолны газар",
+    "hanja": "日食집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "담론",
+    "translation": "яриа хэлэлцүүлэг",
+    "hanja": "談論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문드러지다",
+    "translation": "Ялзрах, муудах, элэгдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뼈대",
+    "translation": "ясны бүтэц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무슨",
+    "translation": "ямар",
+    "hanja": null,
+    "pos": "관형사",
+    "cefr": "A1"
+  },
+  {
+    "word": "영락없다",
+    "translation": "яг таг",
+    "hanja": "永落없다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회자되다",
+    "translation": "яригдах",
+    "hanja": "膾炙되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈곤층",
+    "translation": "ядуу давхарга",
+    "hanja": "貧困層",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담소",
+    "translation": "яриа, хөөрөө",
+    "hanja": "談笑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이야깃거리",
+    "translation": "ярианы сэдэв",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "야드",
+    "translation": "ярд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기진맥진하다",
+    "translation": "ядарч туйлдаж байна",
+    "hanja": "氣盡脈盡하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분비물",
+    "translation": "ялгадас",
+    "hanja": "分泌物",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "얘기되다",
+    "translation": "Яригдсан",
+    "hanja": "얘기되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "썩히다",
+    "translation": "ялгаруулах, муутгах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "야요이",
+    "translation": "Яёой (Япон нэр)",
+    "hanja": "弥生",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "빼닮다",
+    "translation": "яг адилхан",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방출",
+    "translation": "ялгаруулах, суллах",
+    "hanja": "放出",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "빅토리",
+    "translation": "ялалт",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어짜피",
+    "translation": "ямар ч гэсэн, ямар ч байсан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어뜩하다",
+    "translation": "яах, ямар арга хэрэглэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "형기",
+    "translation": "ял эдлэх хугацаа",
+    "hanja": "刑期",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "궁핍하다",
+    "translation": "ядуу байх, хомсдолтой байх",
+    "hanja": "窮乏하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "자줏빛",
+    "translation": "ягаан өнгө, нил ягаан",
+    "hanja": "紫줏빛",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "개선문",
+    "translation": "ялгуусан хаалга",
+    "hanja": "凱旋門",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말솜씨",
+    "translation": "ярианы чадвар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무패",
+    "translation": "ялагдашгүй",
+    "hanja": "無敗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "양씨",
+    "translation": "Ян овогт",
+    "hanja": "梁氏",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보도블록",
+    "translation": "явган хүний зам",
+    "hanja": "步道block",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "완강히",
+    "translation": "ятгашгүй",
+    "hanja": "頑強히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "까짓",
+    "translation": "яахав, яадаг юм",
+    "hanja": "까짓",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "까짓거",
+    "translation": "яахав дээ",
+    "hanja": "까짓거",
+    "pos": "Interjection",
+    "cefr": "B1"
+  },
+  {
+    "word": "급파하다",
+    "translation": "Яаралтай илгээх",
+    "hanja": "急派하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "애기하다",
+    "translation": "Ярих",
+    "hanja": "얘기하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "야즈",
+    "translation": "ярд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말씨",
+    "translation": "Ярианы хэв маяг",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승승장구",
+    "translation": "Ялалтаар урагшлах",
+    "hanja": "乘勝長驅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이판사판",
+    "translation": "Ямар ч найдваргүй байдал",
+    "hanja": "이판사판",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가즈",
+    "translation": "явах",
+    "hanja": "가즈",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "출정식",
+    "translation": "явдал эхлэх ёслол",
+    "hanja": "出征式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "긴급히",
+    "translation": "яаралтайгаар, нэн даруй",
+    "hanja": "緊急히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "양키",
+    "translation": "янки",
+    "hanja": "Yankee",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파리채",
+    "translation": "ялаа цохих сүүлтэй мод",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "좌우지간",
+    "translation": "ямар ч байсан",
+    "hanja": "左右之間",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "졸속",
+    "translation": "яаралтай, муу хийсэн ажил",
+    "hanja": "拙速",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈곤하다",
+    "translation": "ядуу, хоосон",
+    "hanja": "貧困하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패전",
+    "translation": "ялагдал",
+    "hanja": "敗戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제비꽃",
+    "translation": "ягаан цэцэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가난뱅이",
+    "translation": "ядуу хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "터틀넥",
+    "translation": "яст мэлхийн хүзүүтэй цамц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왜병",
+    "translation": "японы цэрэг",
+    "hanja": "倭兵",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "어찌저찌",
+    "translation": "ямар нэгэн байдлаар",
+    "hanja": "어찌저찌",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "총총",
+    "translation": "ялгарсан",
+    "hanja": "叢叢",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "당선작",
+    "translation": "ялсан бүтээл",
+    "hanja": "當選作",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "패잔병",
+    "translation": "ялагдсан цэрэг",
+    "hanja": "敗殘兵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "영락없이",
+    "translation": "яг л",
+    "hanja": "永落없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불시착하다",
+    "translation": "Яаралтай буух",
+    "hanja": "不時着하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁색하다",
+    "translation": "ядуу байх, дутагдалтай байх, шалтаг олох",
+    "hanja": "窮塞하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설득되다",
+    "translation": "яриагаар ятгагдах, итгэгдэх",
+    "hanja": "說得되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면담",
+    "translation": "яриа, уулзалт",
+    "hanja": "面談",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단죄하다",
+    "translation": "ял оноох",
+    "hanja": "斷罪하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왜저",
+    "translation": "яагаад тэр",
+    "hanja": "None",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "속단하다",
+    "translation": "яаран шийдэх",
+    "hanja": "速斷하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "야미",
+    "translation": "Ями",
+    "hanja": "Yami",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "귀티",
+    "translation": "Язгууртан төрх",
+    "hanja": "貴티",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "양진",
+    "translation": "яггүй",
+    "hanja": "揚塵",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "말동무",
+    "translation": "ярианы хамтрагч",
+    "hanja": "말동무",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장강",
+    "translation": "Янз мөрөн",
+    "hanja": "長江",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "패망",
+    "translation": "ялагдал",
+    "hanja": "敗亡",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비기다",
+    "translation": "ялахгүй, тэнцэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구워삶다",
+    "translation": "яриагаар ятгах, арга хэрэглэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "웨",
+    "translation": "Яагаад",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "뼛조각",
+    "translation": "Ясны хэлтэрхий, ясны жижиг хэсэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고상",
+    "translation": "язгууртан, гоёмсог",
+    "hanja": "高尙",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패배감",
+    "translation": "ялагдлын мэдрэмж",
+    "hanja": "敗北感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시화",
+    "translation": "яруу найргийн зураг",
+    "hanja": "詩畫",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "승전",
+    "translation": "ялгуусан",
+    "hanja": "勝戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "노곤하다",
+    "translation": "ядарсан",
+    "hanja": "勞困하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "급전",
+    "translation": "яаралтай мөнгө",
+    "hanja": "急錢",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "이야기되다",
+    "translation": "яригдах",
+    "hanja": "이야기되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "궁상",
+    "translation": "ядуу байдал, өрөвдөлтэй байдал",
+    "hanja": "窮狀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "압승하다",
+    "translation": "ялалт байгуулах",
+    "hanja": "壓勝하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보라빛",
+    "translation": "ягаан туяа",
+    "hanja": "―빛",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "감별",
+    "translation": "ялгах",
+    "hanja": "鑑別",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "야키토리",
+    "translation": "якитори",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시급히",
+    "translation": "яаралтай, шуурхай",
+    "hanja": "時急히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차별화하다",
+    "translation": "ялгах, онцгой болгох",
+    "hanja": "差別化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감별하다",
+    "translation": "ялгаж таних",
+    "hanja": "鑑別하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구슬리다",
+    "translation": "ялах, ятгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "야끼소바",
+    "translation": "Якисоба (Япон хоол)",
+    "hanja": "야끼소바",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꾀다",
+    "translation": "ялах",
+    "hanja": "꾀다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "양장피",
+    "translation": "янжянпи (хятад хоол)",
+    "hanja": "凉拌皮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급조하다",
+    "translation": "Яаравчлан хийх, яаран барих",
+    "hanja": "急造하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "야훼",
+    "translation": "Яхве",
+    "hanja": "Yahweh",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "얘깃거리",
+    "translation": "ярианы сэдэв",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배설",
+    "translation": "ялгадас",
+    "hanja": "排泄",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "씨불이다",
+    "translation": "яриа өрнүүлэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "시참",
+    "translation": "яриа хийх, ярилцах",
+    "hanja": "詩參",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창기",
+    "translation": "янхан",
+    "hanja": "娼妓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈민",
+    "translation": "ядуу хүн",
+    "hanja": "貧民",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "배설하다",
+    "translation": "Ялгаруулах, бие засах",
+    "hanja": "排泄하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배타",
+    "translation": "ялгаварлан гадуурхах",
+    "hanja": "排他",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친일",
+    "translation": "Японтой найрсаг харилцаатай",
+    "hanja": "親日",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불패",
+    "translation": "Ялагдашгүй",
+    "hanja": "不敗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "황급하다",
+    "translation": "Яаравчлах, сандрах",
+    "hanja": "遑急하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왜이",
+    "translation": "яагаад",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "궁상맞다",
+    "translation": "ядуу зүдүү, өрөвдөлтэй харагдах",
+    "hanja": "窮狀맞다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "야차",
+    "translation": "яакша",
+    "hanja": "夜叉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "논외",
+    "translation": "ярианаас гадуур",
+    "hanja": "論外",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "회자",
+    "translation": "яригдах, дурсагдах",
+    "hanja": "膾炙",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "핑크뮬리",
+    "translation": "ягаан мюли",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인터뷰어",
+    "translation": "ярилцлага авч буй хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀천",
+    "translation": "язгууртан, энгийн иргэн",
+    "hanja": "貴賤",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성골",
+    "translation": "язгууртан, онцгой угсаа",
+    "hanja": "聖骨",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "성급히",
+    "translation": "яаран сандран",
+    "hanja": "性急히",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "발생량",
+    "translation": "ялгаралтын хэмжээ",
+    "hanja": "發生量",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "한가운데",
+    "translation": "яг голд, төв дунд",
+    "hanja": "한가운데",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잡담하다",
+    "translation": "яриа өрнүүлэх",
+    "hanja": "雜談하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급매",
+    "translation": "яаралтай худалдах",
+    "hanja": "急賣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판별",
+    "translation": "ялгах",
+    "hanja": "判別",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수형",
+    "translation": "Ялтан",
+    "hanja": "受刑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발산되다",
+    "translation": "ялгарах, цацагдах",
+    "hanja": "發散되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "웬",
+    "translation": "Ямар",
+    "hanja": "웬",
+    "pos": "관형사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문벌",
+    "translation": "Язгууртан",
+    "hanja": "門閥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "좌우간",
+    "translation": "ямар ч байсан, ямартай ч",
+    "hanja": "左右間",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "판이하다",
+    "translation": "ялгаатай байх, өөр байх",
+    "hanja": "판이하다(판異하다)",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단죄",
+    "translation": "ял оноох, буруушаах",
+    "hanja": "斷罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "야그",
+    "translation": "яриа",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "화젯거리",
+    "translation": "ярианы сэдэв",
+    "hanja": "話題거리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반촌",
+    "translation": "язгууртны суурин",
+    "hanja": "班村",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가자",
+    "translation": "явъя",
+    "hanja": null,
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "말벗",
+    "translation": "ярианы анд",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "분화되다",
+    "translation": "ялгарах",
+    "hanja": "分化되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "뼛가루",
+    "translation": "ясны үнс",
+    "hanja": "뼛가루",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뇌까리다",
+    "translation": "яриа өрнүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자수정",
+    "translation": "ягаан болор, аметист",
+    "hanja": "紫水晶",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "핫픽스",
+    "translation": "Яаралтай засвар",
+    "hanja": "hotfix",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구어체",
+    "translation": "Ярианы хэл",
+    "hanja": "口語體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "똑같이",
+    "translation": "яг адилхан; нэгэн адил",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기진",
+    "translation": "ядарсан, туйлдсан",
+    "hanja": "氣盡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탈진",
+    "translation": "ядрах, хүч тамиргүй болох",
+    "hanja": "脫盡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부패되다",
+    "translation": "ялзрах",
+    "hanja": "腐敗되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "진배없다",
+    "translation": "ялгаагүй, адилхан",
+    "hanja": "眞輩없다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다급",
+    "translation": "яаралтай, тулгамдсан",
+    "hanja": "多急",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍월",
+    "translation": "яруу найраг",
+    "hanja": "風月",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가고",
+    "translation": "явсан, өнгөрсөн",
+    "hanja": "歌鼓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우짜다",
+    "translation": "яах вэ",
+    "hanja": "우짜다",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "야마구치",
+    "translation": "Ямагүчи",
+    "hanja": "山口",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "얀",
+    "translation": "Ян",
+    "hanja": "얀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈익빈",
+    "translation": "ядуус улам ядуурч, баячууд улам баяжих",
+    "hanja": "貧益貧",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말허리",
+    "translation": "Ярианы дундуур таслах",
+    "hanja": "말허리",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "양곤",
+    "translation": "Янгон",
+    "hanja": "仰光",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "감형되다",
+    "translation": "Ял хөнгөрөх",
+    "hanja": "減刑되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "트라이엄프",
+    "translation": "Ялалт, амжилт",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "스피크",
+    "translation": "Ярих, хэлэх (영어: speak)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "급조되다",
+    "translation": "Яаравчлан хийгдсэн, яаран бүтээгдсэн",
+    "hanja": "急造되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적확하다",
+    "translation": "Яг таг, зөв, тодорхой",
+    "hanja": "的確하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왜인",
+    "translation": "Япон хүн",
+    "hanja": "倭人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우떻다",
+    "translation": "яах вэ",
+    "hanja": "우떻다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "긴박감",
+    "translation": "яаралтай байдал, дарамт шахалт",
+    "hanja": "緊迫感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "나나다",
+    "translation": "Явж байна",
+    "hanja": "나나다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "판자촌",
+    "translation": "ядуусын хороолол",
+    "hanja": "板子村",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁핍",
+    "translation": "ядуурал, дутагдал",
+    "hanja": "窮乏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경거망동",
+    "translation": "яс хаях, үг үйлдэл эелдэг бус байх",
+    "hanja": "輕舉妄動",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "패소",
+    "translation": "ял нэхэх",
+    "hanja": "敗訴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실어증",
+    "translation": "яриа сулрах өвчин",
+    "hanja": "失語症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "도태",
+    "translation": "ялгаж авах",
+    "hanja": "淘汰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이러나저러나",
+    "translation": "ямар ч байсан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발골",
+    "translation": "яснаас салгах",
+    "hanja": "發骨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골병",
+    "translation": "Ясны өвчин, хууч өвчин",
+    "hanja": "骨病",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "화술",
+    "translation": "ярианы ур чадвар",
+    "hanja": "話術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기카다",
+    "translation": "Явж ирэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "똑띠",
+    "translation": "Яг л",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "심봤다",
+    "translation": "Яг оллоо!",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연태",
+    "translation": "Янтай (хот)",
+    "hanja": "烟臺",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "썩이다",
+    "translation": "ялах, муудгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "앵앵거리다",
+    "translation": "яриа хийх (ялам хийх)",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구형되다",
+    "translation": "ял эдлэх",
+    "hanja": "求刑되다",
+    "pos": "동사",
+    "cefr": null
+  },
+  {
+    "word": "어쨌든",
+    "translation": "Ямар нэгэн байдлаар",
+    "hanja": "",
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "야코",
+    "translation": "Якоб",
+    "hanja": "Yako",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "곤궁하다",
+    "translation": "ядуу, хэцүү",
+    "hanja": "困窮하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "꼬장꼬장하다",
+    "translation": "Яхир, хатуу, нямбай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급파되다",
+    "translation": "яаралтай илгээгдэх",
+    "hanja": "急派되다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "청빈",
+    "translation": "ядуу, шударга",
+    "hanja": "淸貧",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "곤하다",
+    "translation": "ядарсан, сульдсан",
+    "hanja": "睏하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어떡해서",
+    "translation": "яаж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "니미럴",
+    "translation": "ялах",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "C2"
+  },
+  {
+    "word": "토커",
+    "translation": "яриач",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀족적",
+    "translation": "язгууртанлаг",
+    "hanja": "貴族的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차별되다",
+    "translation": "ялгаварлагдах",
+    "hanja": "差別되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "덕트",
+    "translation": "яндан",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면접하다",
+    "translation": "ярилцлага хийх",
+    "hanja": "面接하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "어떵",
+    "translation": "яаж, хэрхэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "참참",
+    "translation": "яг таг, яг цагтаа",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "진배",
+    "translation": "ялгаагүй",
+    "hanja": "陣排",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지기다",
+    "translation": "ялах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왜관",
+    "translation": "Японы дүүрэг",
+    "hanja": "倭館",
+    "pos": "명",
+    "cefr": "C2"
+  },
+  {
+    "word": "수형자",
+    "translation": "ял эдэлж буй хүн",
+    "hanja": "受刑者",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "야도",
+    "translation": "Ядо (Газарзүйн нэр)",
+    "hanja": "野島",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "유곽",
+    "translation": "янханы газар",
+    "hanja": "遊廓",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "냥반",
+    "translation": "янбан (хуучин БНСУ-ын язгууртан)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황망히",
+    "translation": "яаран сандран",
+    "hanja": "遑忙히",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "제곱근",
+    "translation": "ялгавар",
+    "hanja": " 제곱根",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왜국",
+    "translation": "Япон (эртний нэр)",
+    "hanja": "倭國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈부",
+    "translation": "ядуу, баян",
+    "hanja": "貧富",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "야누스",
+    "translation": "Янус",
+    "hanja": "",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어떠어떠하다",
+    "translation": "Ямар нэгэн байдлаар",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어찌케",
+    "translation": "Яаж, хэрхэн (амаар)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어찌어찌하다",
+    "translation": "ямар нэгэн байдлаар хийх",
+    "hanja": "어찌어찌하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "야오족",
+    "translation": "яо хүмүүс",
+    "hanja": "瑤族",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "패왕",
+    "translation": "Ялагч, хүчирхэг хаан",
+    "hanja": "覇王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방일",
+    "translation": "Японд зочлох",
+    "hanja": "訪日",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈자",
+    "translation": "ядуу хүн",
+    "hanja": "貧者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하이크",
+    "translation": "явган аялал",
+    "hanja": "하이크",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어떠케",
+    "translation": "яаж",
+    "hanja": "어떠케",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "역전패",
+    "translation": "ялагдсан",
+    "hanja": "逆轉敗",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "달동네",
+    "translation": "ядуусын хороолол (уулын орой дээрх)",
+    "hanja": "달동네",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여지없다",
+    "translation": "Ямар ч зай завсаргүй, гарцаагүй",
+    "hanja": "餘地없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중얼중얼하다",
+    "translation": "яриагаа хэлж гүвтнэнэ",
+    "hanja": "중얼중얼하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자미",
+    "translation": "ягаан интоор",
+    "hanja": "紫薇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "야쿠시마",
+    "translation": "Яакушима",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "면접시험",
+    "translation": "ярилцлагын шалгалт",
+    "hanja": "面接試驗",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하이킹하다",
+    "translation": "явган аялал хийх",
+    "hanja": "hiking하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "잡학",
+    "translation": "янз бүрийн мэдлэг",
+    "hanja": "雜學",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "승전가",
+    "translation": "Ялалтын дуу",
+    "hanja": "勝戰歌",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "패전국",
+    "translation": "ялагдсан улс",
+    "hanja": "敗戰國",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "골품",
+    "translation": "Ясны зэрэг",
+    "hanja": "骨品",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구용하다",
+    "translation": "Ялан дийлэх, дарах",
+    "hanja": "驅用하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "와카",
+    "translation": "Японы шүлэг",
+    "hanja": "和歌",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "야타다",
+    "translation": "Яарах (Япон үг)",
+    "hanja": "やた",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "야지마",
+    "translation": "Яжима (хувийн нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "승미",
+    "translation": "ялах, ялалт",
+    "hanja": "勝美",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어쩔라고",
+    "translation": "яах гээд байгаа юм?",
+    "hanja": "어쩔라고",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "감형하다",
+    "translation": "ял хөнгөрүүлэх",
+    "hanja": "減刑하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "말재주",
+    "translation": "ярианы чадвар, үгсийн баялаг",
+    "hanja": "말재주",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가랏",
+    "translation": "яв!",
+    "hanja": "가랏",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "야바",
+    "translation": "яба (мансууруулах бодис)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기진맥진",
+    "translation": "ядарч сульдах",
+    "hanja": "氣盡脈盡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골병들다",
+    "translation": "ясны өвчин тусах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈민층",
+    "translation": "ядуу давхарга",
+    "hanja": "貧民層",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "노블",
+    "translation": "язгууртан",
+    "hanja": "noble",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정영",
+    "translation": "ялангуяа, үнэнээр",
+    "hanja": "精營",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "어이하다",
+    "translation": "яах, юу хийх",
+    "hanja": "어이하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자하",
+    "translation": "ягаан үүл",
+    "hanja": "紫霞",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "음유",
+    "translation": "яруу найраг өргөх, унших",
+    "hanja": "吟遊",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "허탈",
+    "translation": "ядарсан байдал",
+    "hanja": "虛脫",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "양갓집",
+    "translation": "язгууртан айл",
+    "hanja": "良家집",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정죄",
+    "translation": "Яллах",
+    "hanja": "定罪",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "연분홍빛",
+    "translation": "ягаан өнгөтэй",
+    "hanja": "軟粉紅빛",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가양",
+    "translation": "Яруу найргийн төрөл",
+    "hanja": "歌釀",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가름하다",
+    "translation": "Ялгах",
+    "hanja": "가름하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보행하다",
+    "translation": "Явган явах",
+    "hanja": "步行하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파스닙",
+    "translation": "яншуй",
+    "hanja": "파스닙",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어떤",
+    "translation": "ямар нэг, зарим нэг",
+    "hanja": "어떤",
+    "pos": "관형사",
+    "cefr": "A1"
+  },
+  {
+    "word": "패배시키다",
+    "translation": "ялах, бут цохих",
+    "hanja": "敗北시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "아무려나",
+    "translation": "ямар ч байсан, ямар ч хамаагүй",
+    "hanja": "아무려나",
+    "pos": "ADV",
+    "cefr": "B1"
+  },
+  {
+    "word": "어떵하다",
+    "translation": "ямар, яах вэ",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "옌타이",
+    "translation": "Яньтай",
+    "hanja": "煙臺",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "야마나시",
+    "translation": "Яманаши",
+    "hanja": "山梨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대화체",
+    "translation": "ярианы хэлбэр",
+    "hanja": "對話體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의기양양",
+    "translation": "ялалт байгуулсан",
+    "hanja": "意氣揚揚",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역전패하다",
+    "translation": "ялагдах, буцаж ялагдах",
+    "hanja": "逆轉敗하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "속단",
+    "translation": "яаран шийдэх, яаруу дүгнэлт",
+    "hanja": "速斷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차별당하다",
+    "translation": "ялгаварлан гадуурхагдах",
+    "hanja": "差別當하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭패스럽다",
+    "translation": "ялагдсан",
+    "hanja": "狼狽스럽다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "야마가타",
+    "translation": "Ямагата (Японы аймаг)",
+    "hanja": "야마가타",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "일어",
+    "translation": "Япон хэл",
+    "hanja": "日語",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "골비",
+    "translation": "ясны чөмөг",
+    "hanja": "骨脾",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "급조",
+    "translation": "яаралтай хийх",
+    "hanja": "急造",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분별없이",
+    "translation": "ялгахгүйгээр, ялгаваргүйгээр",
+    "hanja": "分別없이",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "썪다",
+    "translation": "ялгарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갑시다",
+    "translation": "явцгаая",
+    "hanja": "null",
+    "pos": "туслах үг",
+    "cefr": "A1"
+  },
+  {
+    "word": "다름",
+    "translation": "ялгаатай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "빈궁하다",
+    "translation": "ядуу байх",
+    "hanja": "貧窮하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말거다",
+    "translation": "яриа өрнүүлэх",
+    "hanja": "말걸다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "이바구",
+    "translation": "яриа",
+    "hanja": "이바구",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인치대다",
+    "translation": "ялах, хожих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "니혼",
+    "translation": "Япон",
+    "hanja": "日本",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "무차별하다",
+    "translation": "ялгаваргүй, дураараа",
+    "hanja": "無差別하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "히매다",
+    "translation": "яарах, сандрах",
+    "hanja": "히매다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "도찐개찐",
+    "translation": "ялгаагүй, адилхан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부득불",
+    "translation": "яах аргагүй",
+    "hanja": "不得不",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가시리",
+    "translation": "явахад (хуучирсан арга)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "승전국",
+    "translation": "ялалт байгуулсан улс",
+    "hanja": "勝戰國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패배주의",
+    "translation": "ялагдагч үзэл",
+    "hanja": "敗北主義",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "언도받다",
+    "translation": "ял сонсох",
+    "hanja": "言渡받다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가라",
+    "translation": "яв",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "급보",
+    "translation": "яаралтай мэдээ",
+    "hanja": "急報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어찌다",
+    "translation": "яаж",
+    "hanja": "어찌다",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "궁상떨다",
+    "translation": "ядуу байдалтай байх",
+    "hanja": "窮狀떨다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급구",
+    "translation": "яаралтай ажил хайх",
+    "hanja": "急求",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배설되다",
+    "translation": "ялгарах",
+    "hanja": "排泄되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입말",
+    "translation": "Ярианы хэл",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기소장",
+    "translation": "Яллах дүгнэлт",
+    "hanja": "起訴狀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임란",
+    "translation": "Японы довтолгоо",
+    "hanja": "壬亂",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "대담",
+    "translation": "Ярилцлага",
+    "hanja": "對談",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발그스름하다",
+    "translation": "ялдам улаан",
+    "hanja": "발그스름하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "고단",
+    "translation": "ядарсан, цуцсан",
+    "hanja": "苦團",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "어김없다",
+    "translation": "Яг таг, алдаагүй",
+    "hanja": "",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "패전하다",
+    "translation": "Ялагдах, дайнд ялагдах",
+    "hanja": "敗戰하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "승승",
+    "translation": "ялалт цуглуулах",
+    "hanja": "乘勝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반일",
+    "translation": "японы эсрэг",
+    "hanja": "反日",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "아뭏다",
+    "translation": "ямар ч гэсэн (Үйл үг)",
+    "hanja": "N/A",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "야끼우동",
+    "translation": "яки удон (Хоол)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "패퇴",
+    "translation": "ялагдал",
+    "hanja": "敗退",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다이얼로그",
+    "translation": "яриа, харилцан яриа",
+    "hanja": "다이얼로그",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어드렇다",
+    "translation": "ямар ч байсан, яахав",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기진하다",
+    "translation": "ядарч туйлдаx",
+    "hanja": "氣盡하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "일드",
+    "translation": "япон драма",
+    "hanja": "日드",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뼛골",
+    "translation": "ясны чөмөг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "옴팡지다",
+    "translation": "ямар нэгэн зүйлд бүхнээ зориулах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하이튼",
+    "translation": "ямартай ч, богинохондоо",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "아갈아갈",
+    "translation": "ярзайх",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "고학생",
+    "translation": "ядуу оюутан",
+    "hanja": "苦學生",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "권찰",
+    "translation": "яриа, уриалга",
+    "hanja": "勸察",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플라크",
+    "translation": "Ялтас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헛개나무",
+    "translation": "японы ховдог мод",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대일",
+    "translation": "Японтой холбоотой",
+    "hanja": "対日",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어떠하다",
+    "translation": "ямар байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "일본잎갈나무",
+    "translation": "Япон гацуур",
+    "hanja": "日本잎갈나무",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보행교",
+    "translation": "явган хүний гүүр",
+    "hanja": "步行橋",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "입담",
+    "translation": "Ярианы ур чадвар",
+    "hanja": "입談",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "야구르트",
+    "translation": "Яакүрт (ундаа)",
+    "hanja": "Yakult",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "슬럼",
+    "translation": "Ядуурсан хороолол",
+    "hanja": "Slum",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡균",
+    "translation": "янз бүрийн бактери",
+    "hanja": "雜菌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변별",
+    "translation": "ялгах",
+    "hanja": "辨別",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "야부키",
+    "translation": "Ябүки (япон нэр)",
+    "hanja": "야부키",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "으찌",
+    "translation": "яаж",
+    "hanja": "으찌",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "탄금",
+    "translation": "Ятга тоглуулах",
+    "hanja": "彈琴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "야쿠모",
+    "translation": "Якумо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "노곤노곤",
+    "translation": "Ядарч сульдах",
+    "hanja": null,
+    "pos": "Дайвар үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "왜선",
+    "translation": "Япон хөлөг онгоц",
+    "hanja": "倭船",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시어",
+    "translation": "яруу найргийн хэл",
+    "hanja": "詩語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서둘다",
+    "translation": "яарах",
+    "hanja": "서둘다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "양기석",
+    "translation": "Ян Гыи Сок (хүний нэр)",
+    "hanja": "梁基碩",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "승구",
+    "translation": "ялан дийлэх",
+    "hanja": "勝句",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왜정",
+    "translation": "Японы колоничлол",
+    "hanja": "倭政",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "야스퍼스",
+    "translation": "Ясперс",
+    "hanja": "야스퍼스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어쩧다",
+    "translation": "яах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우찌하다",
+    "translation": "яах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자염",
+    "translation": "ягаан давс",
+    "hanja": "紫鹽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승전하다",
+    "translation": "ялалт байгуулах",
+    "hanja": "勝戰하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "왜장",
+    "translation": "Японы генерал",
+    "hanja": "倭將",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얄타",
+    "translation": "Ялта",
+    "hanja": "얄타",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "거지방",
+    "translation": "ядуусын газар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "야탑동",
+    "translation": "Яатапдон (Солонгос дахь газар нэр)",
+    "hanja": "野塔洞",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "옌볜",
+    "translation": "Яньбянь",
+    "hanja": "옌볜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종실",
+    "translation": "ягсарь",
+    "hanja": "宗室",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "어찌저찌하다",
+    "translation": "яаж ийгээд",
+    "hanja": "어찌저찌하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승세",
+    "translation": "ялах давуу тал",
+    "hanja": "勝勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응급하다",
+    "translation": "яаралтай",
+    "hanja": "應急하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언두",
+    "translation": "ярьж эхлэх",
+    "hanja": "言頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "황황히",
+    "translation": "яаран сандран",
+    "hanja": "遑遑-",
+    "pos": "Adverb",
+    "cefr": "C2"
+  },
+  {
+    "word": "패장",
+    "translation": "ялагдсан жанжин",
+    "hanja": "敗將",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "죄받다",
+    "translation": "ял авах",
+    "hanja": "罪받다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "자행",
+    "translation": "явуулах",
+    "hanja": "恣行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "일본",
+    "translation": "Япон",
+    "hanja": "日本",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "그러나저러나",
+    "translation": "ямар ч байсан",
+    "hanja": "그러나저러나",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "패수",
+    "translation": "ялагдсан цэрэг",
+    "hanja": "敗數",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "조급히",
+    "translation": "яаран сандрангуй",
+    "hanja": "躁急히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뼈살",
+    "translation": "яс, яс мах",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기품",
+    "translation": "Язгууртны төрх, дэгжин байдал",
+    "hanja": "氣品",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "변별하다",
+    "translation": "ялгах, тодорхойлох",
+    "hanja": "辨別―",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환골",
+    "translation": "Ясыг өөрчлөх",
+    "hanja": "換骨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "궁상스럽다",
+    "translation": "Ядуу, зовлонтой харагдах",
+    "hanja": "窮狀스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈촌",
+    "translation": "Ядуусын хороолол",
+    "hanja": "貧村",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차등하다",
+    "translation": "Ялгавартай байх, зөрүүтэй байх",
+    "hanja": "差等하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "거둥",
+    "translation": "Явдал, хөдөлгөөн (ихэвчлэн хааны)",
+    "hanja": "擧動",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "곤궁",
+    "translation": "Ядуурал, хүнд байдал",
+    "hanja": "困窮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급파",
+    "translation": "Яаралтай илгээх, шуурхай илгээх",
+    "hanja": "急派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "야관문",
+    "translation": "Яаванмун (ургамал)",
+    "hanja": "夜關門",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "회유책",
+    "translation": "ялах арга, уруу татах арга",
+    "hanja": "懷柔策",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "패퇴하다",
+    "translation": "ялагдаж ухрах",
+    "hanja": "敗退하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "칼퇴근하다",
+    "translation": "яг цагтаа ажил тарах",
+    "hanja": "칼退勤하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왜란",
+    "translation": "Японы түрэмгийлэл",
+    "hanja": "倭亂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급거",
+    "translation": "яаралтайгаар",
+    "hanja": "急遽",
+    "pos": "adv",
+    "cefr": "C1"
+  },
+  {
+    "word": "화급",
+    "translation": "яаралтай",
+    "hanja": "火急",
+    "pos": "n",
+    "cefr": "C2"
+  },
+  {
+    "word": "파죽",
+    "translation": "ясны шөл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분홍분홍하다",
+    "translation": "ягаан өнгөтэй байх",
+    "hanja": "분홍분홍하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화급하다",
+    "translation": "яаралтай",
+    "hanja": "火急─",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "양천",
+    "translation": "Янчон",
+    "hanja": "陽川",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "일제",
+    "translation": "Японы үйлдвэрлэсэн",
+    "hanja": "日製",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차등화하다",
+    "translation": "ялгаварлах, дифференциалчлах",
+    "hanja": "差別化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "안에이",
+    "translation": "ямар ч хамаагүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "얀데레",
+    "translation": "яндере",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "떠듬거리다",
+    "translation": "яаран сандран ярих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말동무하다",
+    "translation": "ярилцах",
+    "hanja": "말동무하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구분",
+    "translation": "ялгах",
+    "hanja": "區分",
+    "pos": "NNG",
+    "cefr": "B1"
+  },
+  {
+    "word": "언도",
+    "translation": "ял",
+    "hanja": "言渡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대승하다",
+    "translation": "ялгуусан ялалт байгуулах",
+    "hanja": "大勝하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타기하다",
+    "translation": "ялах",
+    "hanja": "唾棄하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "굳이",
+    "translation": "яаж ийж байгаад, зайлшгүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왜사",
+    "translation": "японы түүх",
+    "hanja": "倭史",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미분화",
+    "translation": "ялгаралгүй, дифференциалгүй",
+    "hanja": "未分化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우쨌든",
+    "translation": "ямар ч байсан",
+    "hanja": "우쨌든",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "야우",
+    "translation": "Яао (хүний нэр)",
+    "hanja": "堯",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "핑킹",
+    "translation": "Ягаан өнгөтэй болгох",
+    "hanja": "핑킹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "야라",
+    "translation": "яриа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "담하다",
+    "translation": "ярих, харьцах",
+    "hanja": "NaN",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "야페",
+    "translation": "Яффе (нэр)",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "디다",
+    "translation": "Ядарсан (Gyeongsang dialect)",
+    "hanja": "디다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "판별되다",
+    "translation": "ялгагдах, танигдах",
+    "hanja": "判別되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "양저우",
+    "translation": "Янжоу",
+    "hanja": "揚州",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요설",
+    "translation": "ялдам яриа",
+    "hanja": "饒舌",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "성별하다",
+    "translation": "Ялгах, ангилах",
+    "hanja": "性別하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "양규",
+    "translation": "Ян Гю (хүний нэр)",
+    "hanja": "梁規",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "야마카시",
+    "translation": "ямакаши",
+    "hanja": "야마카시",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈민가",
+    "translation": "ядуусын хороолол",
+    "hanja": "貧民街",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "야오야오",
+    "translation": "Яо Яо",
+    "hanja": "야오야오",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차연",
+    "translation": "ялгавартай байдал",
+    "hanja": "差延",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "어트케",
+    "translation": "Яаж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "이질성",
+    "translation": "Янз бүрийн байдал, өөр төрлийн байдал",
+    "hanja": "異質性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가타",
+    "translation": "яриа, хэлц",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "양시",
+    "translation": "Янши",
+    "hanja": "楊時",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "즉시즉시",
+    "translation": "яг одоо",
+    "hanja": "卽時卽時",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자포니즘",
+    "translation": "японизм",
+    "hanja": "Japonisme",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "방일하다",
+    "translation": "Японд айлчлах",
+    "hanja": "訪日하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벨르다",
+    "translation": "ялгах",
+    "hanja": "벨르다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하이커",
+    "translation": "явган аялагч",
+    "hanja": "hiker",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "설때다",
+    "translation": "яарах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "야벳",
+    "translation": "Япет (Библийн дүр)",
+    "hanja": "야벳",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "침니",
+    "translation": "Яндан",
+    "hanja": "chimney",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴비화하다",
+    "translation": "ялзмаг болгох",
+    "hanja": "堆肥化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "좌승",
+    "translation": "Ялалт суудал",
+    "hanja": "坐승",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배기하다",
+    "translation": "ялгаруулах; гаргах",
+    "hanja": "排氣하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부산스레",
+    "translation": "Яаравчлан, завгүй",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈농",
+    "translation": "Ядуу тариачин",
+    "hanja": "貧農",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군색하다",
+    "translation": "ядуу, өнгөгүй",
+    "hanja": "窘塞하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "진달래",
+    "translation": "ягаан цэцэг",
+    "hanja": "진달래",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "날름대다",
+    "translation": "ялгарч гарах, цухуйх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "떠벌떠벌",
+    "translation": "яриа өрнүүлэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "아속",
+    "translation": "янз бүрийн зан үйл, ёс суртахуун",
+    "hanja": "雅俗",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구차스럽다",
+    "translation": "Ядуу, ядмаг, муухай",
+    "hanja": "苟且스럽다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "야게",
+    "translation": "ярианы хэл (зөөлрүүлсэн)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왜색",
+    "translation": "Япон маягийн өнгө, хэв маяг",
+    "hanja": "倭色",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "야드파운드법",
+    "translation": "яард паундадын систем",
+    "hanja": "야드파운드法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급용",
+    "translation": "яаралтай хэрэглээ",
+    "hanja": "急用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "골간",
+    "translation": "ясны бүтэц",
+    "hanja": "骨幹",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "오찌",
+    "translation": "яаж",
+    "hanja": "오찌",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "자라",
+    "translation": "яст мэлхий",
+    "hanja": "자라",
+    "pos": "명사",
+    "cefr": "A2"
+  }
+]

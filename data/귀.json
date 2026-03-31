@@ -1,0 +1,940 @@
+[
+  {
+    "word": "귀",
+    "translation": "Чих",
+    "hanja": "耳",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "귀가",
+    "translation": "гэртээ харих",
+    "hanja": "歸家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀가시키다",
+    "translation": "гэртээ буцаах",
+    "hanja": "歸家시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀가하다",
+    "translation": "гэртээ харих",
+    "hanja": "歸家하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀감",
+    "translation": "үлгэр жишээ, сургамж",
+    "hanja": "龜鑑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀갓길",
+    "translation": "гэртээ харих зам",
+    "hanja": "歸家-",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀걸이",
+    "translation": "Ээмэг",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀견",
+    "translation": "буцаж харах",
+    "hanja": "歸見",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀결",
+    "translation": "үр дүн",
+    "hanja": "歸結",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀결되다",
+    "translation": "Дүгнэх",
+    "hanja": "歸結되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀결하다",
+    "translation": "үр дүнд хүрэх",
+    "hanja": "歸結하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀경",
+    "translation": "нийслэл рүү буцах",
+    "hanja": "歸京",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀경하다",
+    "translation": "нийслэлд буцах",
+    "hanja": "歸京하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀고리",
+    "translation": "ээмэг",
+    "hanja": "귀고리",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀곡",
+    "translation": "чөтгөрийн хөндий",
+    "hanja": "鬼谷",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀곡성",
+    "translation": "хилэнцэт сүнсний дуу",
+    "hanja": "鬼哭聲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀공",
+    "translation": "эрхэмсэг ноёнтон",
+    "hanja": "貴公",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀공자",
+    "translation": "ноёнтон",
+    "hanja": "貴公子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀관",
+    "translation": "та, таны эрхэм",
+    "hanja": "貴官",
+    "pos": "대명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀구",
+    "translation": "Эргээд ",
+    "hanja": "歸句",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀국",
+    "translation": "нутгаа буцах",
+    "hanja": "歸國",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀국하다",
+    "translation": "эх орондоо буцах",
+    "hanja": "歸國하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀금속",
+    "translation": "үнэт эдлэл, үнэт металл",
+    "hanja": "貴金屬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀나다",
+    "translation": "царцах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀납법",
+    "translation": "индукц",
+    "hanja": "歸納法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀납적",
+    "translation": "Индуктив",
+    "hanja": "歸納的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀녀",
+    "translation": "Эрхэмсэг бүсгүй",
+    "hanja": "貴女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀농",
+    "translation": "хөдөө рүү буцах",
+    "hanja": "歸農",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀농하다",
+    "translation": "хөдөө амьдрахаар буцах",
+    "hanja": "歸農하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀담다",
+    "translation": "анхааралтай сонсох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀담아듣다",
+    "translation": "анхааралтай сонсох",
+    "hanja": "귀담아듣다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀대하다",
+    "translation": "цэргийн ангида буцах",
+    "hanja": "歸隊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀댁",
+    "translation": "танай гэрт",
+    "hanja": "貴宅",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀도",
+    "translation": "Гвидо (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀도리",
+    "translation": "чихний хамгаалалт, чихэвч",
+    "hanja": "귀도리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀동냥",
+    "translation": "сонссон зүйл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀뚜라미",
+    "translation": "Царцаа",
+    "hanja": "귀뚜라미",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀뚤귀뚤",
+    "translation": "крикетний дуу (чихэнд)",
+    "hanja": "귀뚤귀뚤",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀뜸",
+    "translation": "Чихэнд шивнэх",
+    "hanja": "귀뜸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀뜸하다",
+    "translation": "чихэнд шивнэх, сэм мэдэгдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀띔",
+    "translation": "Чимээлэх, зөвлөх",
+    "hanja": "귀띔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀띔하다",
+    "translation": "чихэд шивнэх",
+    "hanja": "귀띔하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀로",
+    "translation": "буцах зам",
+    "hanja": "歸路",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀리",
+    "translation": "Овъёос",
+    "hanja": "귀리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀마개",
+    "translation": "чихний бөглөө",
+    "hanja": "귀마개",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀머거리",
+    "translation": "дүлий хүн",
+    "hanja": null,
+    "pos": "명사 (Noun)",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀먹다",
+    "translation": "Дүлийрэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀무가설",
+    "translation": "тэг таамаглал (статистик)",
+    "hanja": "歸無假說",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀문",
+    "translation": "чөтгөрийн хаалга",
+    "hanja": "鬼門",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀물",
+    "translation": "Үнэт зүйл",
+    "hanja": "貴物",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀밑",
+    "translation": "чихний доод тал",
+    "hanja": "귀밑",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀밑머리",
+    "translation": "чихий доорх үс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀부인",
+    "translation": "эрхэмсэг хатагтай",
+    "hanja": "貴婦人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀부하다",
+    "translation": "эргэж ирэх",
+    "hanja": "歸附하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀비",
+    "translation": "хатан хатан",
+    "hanja": "貴妃",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀빈",
+    "translation": "хүндэт зочин",
+    "hanja": "貴賓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀빈실",
+    "translation": "хүндэтгэлийн өрөө, VIP өрөө",
+    "hanja": "貴賓室",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀빠지다",
+    "translation": "төрөх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀사",
+    "translation": "Танай компани",
+    "hanja": "貴社",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀성",
+    "translation": "Төрсөн нутагтаа буцах",
+    "hanja": "歸省",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀성객",
+    "translation": "нутаг буцагч",
+    "hanja": "歸省客",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀성하다",
+    "translation": "төрсөн нутагтаа буцах",
+    "hanja": "歸省하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀속",
+    "translation": "хамаарах, эзэмших",
+    "hanja": "歸屬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀속되다",
+    "translation": "хамаарах",
+    "hanja": "歸屬되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀속하다",
+    "translation": "хамаарах",
+    "hanja": "歸屬하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀순",
+    "translation": "нэр алдар",
+    "hanja": "歸順",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀순자",
+    "translation": "Оргодогч/урвагч",
+    "hanja": "歸順者",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "귀순하다",
+    "translation": "Бууж өгөх",
+    "hanja": "歸順하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀스타브",
+    "translation": "Густав",
+    "hanja": "귀스타브",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀신",
+    "translation": "чөтгөр",
+    "hanja": "鬼神",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀신같다",
+    "translation": "сүнс шиг, ер бусын",
+    "hanja": "鬼神같다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀싸대기",
+    "translation": "Амьсгал хураах/Хүзүүдэх/Хацардах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀안",
+    "translation": "Чихний доторх (газар)",
+    "hanja": "鬼眼",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀애하다",
+    "translation": "хайрлах, нандигнах",
+    "hanja": "貴愛하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀양",
+    "translation": "цөлөгдөх, цөллөг",
+    "hanja": "歸鄕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀양살이",
+    "translation": "цөлөгдөх амьдрал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀엣말",
+    "translation": "чихэнд шивнэх үг",
+    "hanja": "귓엣말",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀여움",
+    "translation": "Хөөрхөн байдал, сэтгэл татам",
+    "hanja": "귀여움",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀여워하다",
+    "translation": "хөөрхөн гэж бодох, эрхлүүлэх",
+    "hanja": "--",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀염",
+    "translation": "Хөөрхөн, өхөөрдөм",
+    "hanja": "귀염",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀염귀염하다",
+    "translation": "хөөрхөн, сэтгэл татам",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀염둥이",
+    "translation": "Хайртай хүүхэд, өхөөрдөм",
+    "hanja": "귀염둥이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀염성",
+    "translation": "хөөрхөн",
+    "hanja": "可愛性",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀엽",
+    "translation": "хөөрхөн",
+    "hanja": "귀엽",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "귀엽다",
+    "translation": "хөөрхөн",
+    "hanja": "귀엽다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀옥",
+    "translation": "үнэт эрдэнэ",
+    "hanja": "貴玉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀요미",
+    "translation": "Хөөрхөн хүн, бяцхан",
+    "hanja": "귀요미",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀욤",
+    "translation": "хөөрхөн",
+    "hanja": "귀욤",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀울",
+    "translation": "чих шуугих",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀울림",
+    "translation": "чих шуугих",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀의하다",
+    "translation": "сүсэглэх",
+    "hanja": "歸依하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀이",
+    "translation": "чихний доторх чимээ",
+    "hanja": "耳",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "귀이개",
+    "translation": "чихний халбага",
+    "hanja": "귀이개",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀인",
+    "translation": "язгууртан",
+    "hanja": "貴人",
+    "pos": "сущ",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀재",
+    "translation": "авьяаслаг хүн",
+    "hanja": "鬼才",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀접",
+    "translation": "Сүнстэй харьцах",
+    "hanja": "鬼接",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀족",
+    "translation": "Язгууртан",
+    "hanja": "貴族",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀족적",
+    "translation": "язгууртанлаг",
+    "hanja": "貴族的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀주",
+    "translation": "үнэтэй архи",
+    "hanja": "貴酒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀중",
+    "translation": "үнэтэй, эрхэм",
+    "hanja": "貴重",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀중품",
+    "translation": "үнэт эдлэл",
+    "hanja": "貴重品",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀중하다",
+    "translation": "үнэтэй",
+    "hanja": "貴重하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀중히",
+    "translation": "үнэтэйгээр, чухалаар",
+    "hanja": "貴重히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀찌",
+    "translation": "чихний чимэг (бөгжгүй)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀차니스트",
+    "translation": "залхуу хүн",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀차니즘",
+    "translation": "залхуу байдал",
+    "hanja": "귀차니즘",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀착되다",
+    "translation": "дүгнэлтэд хүрэх, төгсөх",
+    "hanja": "歸着─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀찮다",
+    "translation": "залхуутай",
+    "hanja": "",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀찮아하다",
+    "translation": "залхуурах, дургүйцэх, тавгүйцэх",
+    "hanja": "귀찮아하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀책",
+    "translation": "Буруутгал, хариуцлага",
+    "hanja": "歸責",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀척",
+    "translation": "өндөр хөгжилтэй",
+    "hanja": "貴戚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀천",
+    "translation": "язгууртан, энгийн иргэн",
+    "hanja": "貴賤",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀청",
+    "translation": "Чихний хэнгэрэг",
+    "hanja": "耳廳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀촌",
+    "translation": "хөдөө амьдрахаар буцах",
+    "hanja": "歸村",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀촌하다",
+    "translation": "хөдөөд буцах",
+    "hanja": "歸村하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀추",
+    "translation": "Үр дүн, төгсгөл",
+    "hanja": "歸趨",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀침",
+    "translation": "чихний зүү",
+    "hanja": "耳針",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀태",
+    "translation": "өтгөн сайн төрөлт",
+    "hanja": "貴胎",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀퉁이",
+    "translation": "булан, өнцөг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀티",
+    "translation": "Язгууртан төрх",
+    "hanja": "貴티",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀하",
+    "translation": "эрхэм та",
+    "hanja": "貴下",
+    "pos": "대명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀하다",
+    "translation": "ховор",
+    "hanja": "貴하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀항",
+    "translation": "боомтод буцах",
+    "hanja": "歸港",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀항하다",
+    "translation": "боомтод буцах",
+    "hanja": "歸港하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀향",
+    "translation": "гэртээ эргэж ирэх",
+    "hanja": "歸鄕",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀향길",
+    "translation": "гэрийн зам",
+    "hanja": "歸鄕길",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀향하다",
+    "translation": "гэртээ харих",
+    "hanja": "歸鄕하다",
+    "pos": "동사",
+    "cefr": null
+  },
+  {
+    "word": "귀화",
+    "translation": "харьяат болох",
+    "hanja": "歸化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀화하다",
+    "translation": "Хамааруулах",
+    "hanja": "歸化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀환",
+    "translation": "буцаж ирэх",
+    "hanja": "歸還",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀환하다",
+    "translation": "буцаж ирэх, эргэж ирэх",
+    "hanja": "歸還하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀휴",
+    "translation": "гэрийн амралт",
+    "hanja": "歸休",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀희",
+    "translation": "Эрхэм хүн",
+    "hanja": "貴熙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀히",
+    "translation": "эрхэмсэгээр, үнэтэйгээр",
+    "hanja": "貴히",
+    "pos": "Adverb",
+    "cefr": "C1"
+  }
+]

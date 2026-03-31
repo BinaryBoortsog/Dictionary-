@@ -1,0 +1,1367 @@
+[
+  {
+    "word": "교",
+    "translation": "гүүр",
+    "hanja": "橋",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교가",
+    "translation": "сургуулийн дуу",
+    "hanja": "校歌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교각",
+    "translation": "гүүрний тулгуур",
+    "hanja": "橋脚",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "교감",
+    "translation": "Ойлголцол / Сэтгэлээр холбогдох / Багшийн туслах",
+    "hanja": "교감 (交感)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교감하다",
+    "translation": "ойлголцох",
+    "hanja": "交感–",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교계",
+    "translation": "сүм хийд",
+    "hanja": "敎界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교과",
+    "translation": "хичээлийн хөтөлбөр, сургалт",
+    "hanja": "敎科",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교과목",
+    "translation": "хичээл, сургалтын хөтөлбөр",
+    "hanja": "敎科目",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "교과서",
+    "translation": "сурах бичиг",
+    "hanja": "敎科書",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "교관",
+    "translation": "сургагч багш",
+    "hanja": "敎官",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교교",
+    "translation": "Нарлаг, тод",
+    "hanja": "皎皎",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교교하다",
+    "translation": "хүйтэн тунгалаг",
+    "hanja": "皎皎하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교구",
+    "translation": "сум, тойрог",
+    "hanja": "教區",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교권",
+    "translation": "багшийн эрх мэдэл",
+    "hanja": "敎權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교내",
+    "translation": "сургуулийн дотор",
+    "hanja": "校內",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교단",
+    "translation": "шашны байгууллага",
+    "hanja": "教團",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교대",
+    "translation": "ээлж",
+    "hanja": "交代",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교대하다",
+    "translation": "Ээлжлэх",
+    "hanja": "交替하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "교도",
+    "translation": "Шашны сургаал",
+    "hanja": "教導",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교도관",
+    "translation": "шоронгийн харгалзагч",
+    "hanja": "矯導官",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "교도소",
+    "translation": "Шорон",
+    "hanja": "矯導所",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "교동",
+    "translation": "Кёдон (газар нэр)",
+    "hanja": "校洞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교두보",
+    "translation": "байр суурь, түшиц газар",
+    "hanja": "橋頭堡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교란",
+    "translation": "самууруулах, үймүүлэх",
+    "hanja": "攪亂",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "교란되다",
+    "translation": "үймүүлэх",
+    "hanja": "攪亂되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교란하다",
+    "translation": "самууруулах, үймүүлэх",
+    "hanja": "攪亂—",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교량",
+    "translation": "гүүр",
+    "hanja": "橋梁",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "교류",
+    "translation": "харилцаа холбоо",
+    "hanja": "交流",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교류되다",
+    "translation": "солилцогдох",
+    "hanja": "交流되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교류하다",
+    "translation": "Солилцох",
+    "hanja": "交流하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교리",
+    "translation": "Сургаал",
+    "hanja": "敎理",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "교만",
+    "translation": "бардам зан, ихэмсэг байдал",
+    "hanja": "驕慢",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "교만하다",
+    "translation": "бардамнах",
+    "hanja": "驕慢하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교명",
+    "translation": "сургуулийн нэр",
+    "hanja": "校名",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교모",
+    "translation": "заль",
+    "hanja": "狡謀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교모세포종",
+    "translation": "глиобластома",
+    "hanja": "膠母細胞腫",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교목",
+    "translation": "Мод (өндөр)",
+    "hanja": "喬木",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "교묘하다",
+    "translation": "ов мэхтэй, ур чадвартай",
+    "hanja": "巧妙하다",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "교묘히",
+    "translation": "уран аргаар",
+    "hanja": "巧妙히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교무",
+    "translation": "Боловсролын ажил, сургуулийн ажил",
+    "hanja": "教務",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교무실",
+    "translation": "багш нарын өрөө",
+    "hanja": "敎務室(교무실)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교무처",
+    "translation": "Сургалтын алба",
+    "hanja": "敎務處",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교문",
+    "translation": "сургуулийн хаалга",
+    "hanja": "校門",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교미",
+    "translation": "Эвцэлдэх, ороо нийлэх",
+    "hanja": "交尾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교미하다",
+    "translation": "үүрлэх",
+    "hanja": "交尾하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "교민",
+    "translation": "гадаад иргэн",
+    "hanja": "僑民",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교방",
+    "translation": "дууны өрөө",
+    "hanja": "敎坊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교배",
+    "translation": "үржүүлэг, эрлийзжүүлэг",
+    "hanja": "交配",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "교배하다",
+    "translation": "эрлийзжүүлэх",
+    "hanja": "交配하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교범",
+    "translation": "Сургалтын гарын авлага",
+    "hanja": "教範",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교보",
+    "translation": "багшлах",
+    "hanja": "教保",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "교복",
+    "translation": "Сургуулийн дүрэмт хувцас",
+    "hanja": "校服",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "교본",
+    "translation": "сурах бичиг",
+    "hanja": "教本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교부",
+    "translation": "Олгох, гардуулах",
+    "hanja": "交付",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교부하다",
+    "translation": "Олгох",
+    "hanja": "交付하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교분",
+    "translation": "найз нөхөрлөл",
+    "hanja": "交分",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교비",
+    "translation": "сургуулийн төлбөр",
+    "hanja": "校費",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "교사",
+    "translation": "багш",
+    "hanja": "敎師",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "교사하다",
+    "translation": "заах",
+    "hanja": "教唆하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교살",
+    "translation": "боомилох",
+    "hanja": "絞殺",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "교살되다",
+    "translation": "боох",
+    "hanja": "絞殺되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교살하다",
+    "translation": "боох",
+    "hanja": "絞殺하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교상",
+    "translation": "хазалт",
+    "hanja": "咬傷",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교생",
+    "translation": "дадлагажигч багш",
+    "hanja": "敎生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교서",
+    "translation": "Хааны зарлиг",
+    "hanja": "敎書",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "교섭",
+    "translation": "хэлэлцээр, зөвшилцөх",
+    "hanja": "交涉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교섭하다",
+    "translation": "хэлэлцээ хийх",
+    "hanja": "交涉하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교성",
+    "translation": "Хүрхрэх, архирах",
+    "hanja": "叫聲",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "교세",
+    "translation": "шашны нөлөө",
+    "hanja": "敎勢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교수",
+    "translation": "профессор",
+    "hanja": "敎授",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교수대",
+    "translation": "цаазын тавцан",
+    "hanja": "絞首臺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교수법",
+    "translation": "заах арга",
+    "hanja": "教授法",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "교수진",
+    "translation": "багшлах бүрэлдэхүүн",
+    "hanja": "敎授陣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교수하다",
+    "translation": "заах",
+    "hanja": "敎授하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교수형",
+    "translation": "цаазын ял (дүүжилж)",
+    "hanja": "絞首刑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교습",
+    "translation": "заах, сургах",
+    "hanja": "敎習",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교습소",
+    "translation": "сургалтын газар",
+    "hanja": "敎習所",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "교시",
+    "translation": "хичээлийн цаг",
+    "hanja": "교시(敎示)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교신",
+    "translation": "Холбоо барих",
+    "hanja": "交信",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교신하다",
+    "translation": "харилцах, холбогдох",
+    "hanja": "交信하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "교실",
+    "translation": "анги танхим",
+    "hanja": "敎室",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "교안",
+    "translation": "Хичээлийн төлөвлөгөө; заах аргазүй",
+    "hanja": "敎案",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교양",
+    "translation": "боловсрол",
+    "hanja": "教養",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교양서",
+    "translation": "боловсролын ном",
+    "hanja": "敎養書",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "교양인",
+    "translation": "боловсролтой хүн",
+    "hanja": "敎養人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교양하다",
+    "translation": "боловсруулах",
+    "hanja": "敎養-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교역",
+    "translation": "худалдаа",
+    "hanja": "交易",
+    "pos": "мüns",
+    "cefr": "B2"
+  },
+  {
+    "word": "교역자",
+    "translation": "шашны зүтгэлтэн",
+    "hanja": "敎役者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교역하다",
+    "translation": "худалдаа хийх",
+    "hanja": "交易하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교외",
+    "translation": "хотын зах",
+    "hanja": "郊外",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교우",
+    "translation": "найз нөхөд, анд нөхөр",
+    "hanja": "交友",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "교원",
+    "translation": "багш, багшийн бүрэлдэхүүн",
+    "hanja": "教員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교위",
+    "translation": "ахмад",
+    "hanja": "교위(校尉)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교육",
+    "translation": "Боловсрол, сургалт",
+    "hanja": "敎育",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "교육가",
+    "translation": "боловсрол судлаач",
+    "hanja": "敎育家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교육계",
+    "translation": "боловсролын салбар",
+    "hanja": "敎育界",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "교육되다",
+    "translation": "боловсрол эзэмших, сургагдах",
+    "hanja": "敎育되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교육법",
+    "translation": "Боловсролын хууль",
+    "hanja": "敎育法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교육부",
+    "translation": "боловсролын яам",
+    "hanja": "敎育部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교육비",
+    "translation": "боловсролын зардал",
+    "hanja": "教育費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교육시키다",
+    "translation": "сургах",
+    "hanja": "敎育시키다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교육열",
+    "translation": "боловсролын сонирхол, сурах хүсэл",
+    "hanja": "敎育熱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교육용",
+    "translation": "боловсролын зориулалттай",
+    "hanja": "敎育用",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "교육자",
+    "translation": "багш",
+    "hanja": "敎育者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교육적",
+    "translation": "Боловсролын",
+    "hanja": "教育的",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교육청",
+    "translation": "Боловсролын газар",
+    "hanja": "敎育廳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교육하다",
+    "translation": "боловсрол олгох",
+    "hanja": "敎育하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교육학",
+    "translation": "боловсролын шинжлэх ухаан",
+    "hanja": "教育學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교의",
+    "translation": "сургаал",
+    "hanja": "敎義",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "교이하다",
+    "translation": "Аргалах, зальдах",
+    "hanja": "狡異하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교인",
+    "translation": "сүсэгтэн",
+    "hanja": "敎人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교자",
+    "translation": "сурвалжтан, ноён",
+    "hanja": "驕子",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교자상",
+    "translation": "намхан ширээ",
+    "hanja": "交子床",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교잡",
+    "translation": "эрлийзжүүлэг",
+    "hanja": "交雜",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "교장",
+    "translation": "хичээлийн эрхлэгч",
+    "hanja": "校長",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교장실",
+    "translation": "Захирлын өрөө",
+    "hanja": "校長室",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "교재",
+    "translation": "сурах бичиг",
+    "hanja": "教材",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "교전",
+    "translation": "Мөргөлдөөн, байлдаан",
+    "hanja": "交戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교전하다",
+    "translation": "тулалдах, байлдах",
+    "hanja": "交戰하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "교점",
+    "translation": "огтлолцол",
+    "hanja": "交點",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교접",
+    "translation": "эвцэлдэх, нийлэх",
+    "hanja": "交接",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교접하다",
+    "translation": "хоорондоо харилцах",
+    "hanja": "交接하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교정",
+    "translation": "Засах",
+    "hanja": "矯正",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교정기",
+    "translation": "Засварлах хэрэгсэл",
+    "hanja": "矯正器",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교정되다",
+    "translation": "залруулагдах, засварлагдах",
+    "hanja": "校正되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교정본",
+    "translation": "Зөвлөгөөний хувилбар",
+    "hanja": "校訂本",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교정지",
+    "translation": "засварлах хуудас",
+    "hanja": "校正紙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교정하다",
+    "translation": "Засварлах, зөв болгох",
+    "hanja": "矯正하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교제",
+    "translation": "харилцаа, нөхөрлөл",
+    "hanja": "交際",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교제하다",
+    "translation": "болзох, харилцах",
+    "hanja": "交際하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교조",
+    "translation": "Догма",
+    "hanja": "敎條",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교조적",
+    "translation": "догматик",
+    "hanja": "敎條的",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교종",
+    "translation": "Орчин үеийн",
+    "hanja": "交宗",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교주",
+    "translation": "шашны багш",
+    "hanja": "教主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교지",
+    "translation": "тушаал, зарлиг",
+    "hanja": "敎旨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교직",
+    "translation": "багшийн ажил",
+    "hanja": "敎職",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교직원",
+    "translation": "сургуулийн багш ажилчид",
+    "hanja": "教職員",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교집합",
+    "translation": "огтлолцол",
+    "hanja": "交集合",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교차",
+    "translation": "Огтлолцох, гар урсгал",
+    "hanja": "交叉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교차되다",
+    "translation": "огтлолцох, давхцах",
+    "hanja": "交叉-",
+    "pos": "동사 (Verb)",
+    "cefr": "B2"
+  },
+  {
+    "word": "교차로",
+    "translation": "замын уулзвар",
+    "hanja": "交叉路",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교차점",
+    "translation": "уулзвар",
+    "hanja": "交叉點",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "교차하다",
+    "translation": "хөндлөн гарах, огтлолцох",
+    "hanja": "交叉하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교착",
+    "translation": "гарцгүй байдал, зогсонги байдал",
+    "hanja": "膠着",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교착되다",
+    "translation": "мухардмал байдалд орох",
+    "hanja": "膠着되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교체",
+    "translation": "Солих, өөрчлөх",
+    "hanja": "交替",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "교체되다",
+    "translation": "Солигдох",
+    "hanja": "交替되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교체하다",
+    "translation": "солих, сэлгэх",
+    "hanja": "交替하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "교촌",
+    "translation": "Кёчон",
+    "hanja": "橋村",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교칙",
+    "translation": "сургуулийн дүрэм",
+    "hanja": "校則",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교카",
+    "translation": "кёока",
+    "hanja": "教化",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "교코",
+    "translation": "Кёоко (нэр)",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교탁",
+    "translation": "багшийн ширээ",
+    "hanja": "敎卓",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교태",
+    "translation": "уян зөөлөн",
+    "hanja": "嬌態",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교토",
+    "translation": "Киото",
+    "hanja": "京都",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "교토삼굴",
+    "translation": "баячуудын гурван нүх",
+    "hanja": "狡兎三窟",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "교통",
+    "translation": "замын хөдөлгөөн",
+    "hanja": "交通",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교통경찰",
+    "translation": "замын цагдаа",
+    "hanja": "交通警察",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교통난",
+    "translation": "замын түгжрэл",
+    "hanja": "交通難",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교통량",
+    "translation": "Замын хөдөлгөөн",
+    "hanja": "交通量",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교통비",
+    "translation": "замын зардал",
+    "hanja": "交通費",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교통사고",
+    "translation": "замын ослоос",
+    "hanja": "交通事故",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교통수단",
+    "translation": "тээврийн хэрэгсэл",
+    "hanja": "交通手段",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교통순경",
+    "translation": "Замын цагдаа",
+    "hanja": "交通巡警",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교통정리",
+    "translation": "замын хөдөлгөөн зохицуулах",
+    "hanja": "交通整理",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "교통질서",
+    "translation": "Замын хөдөлгөөний журам",
+    "hanja": "交通秩序",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교통편",
+    "translation": "Тээврийн хэрэгсэл",
+    "hanja": "交通便",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "교통하다",
+    "translation": "харилцах, холбогдох",
+    "hanja": "交通하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교파",
+    "translation": "шашны урсгал, бүлэг",
+    "hanja": "教派",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "교편",
+    "translation": "Багшийн ажлын хэрэгсэл",
+    "hanja": "敎鞭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교포",
+    "translation": "Гадаадад амьдардаг солонгос хүн",
+    "hanja": "僑胞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교표",
+    "translation": "сургуулийн тэмдэг",
+    "hanja": "校標",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교학",
+    "translation": "заах, сургах",
+    "hanja": "敎學",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "교합",
+    "translation": "нийлүүлэх, эвцэлдэх",
+    "hanja": "交合",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교합하다",
+    "translation": "Эвлэлдэн нэгдэх; Нийлүүлэх",
+    "hanja": "交合하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교향곡",
+    "translation": "Симфони",
+    "hanja": "交響曲",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "교향악",
+    "translation": "Симфони, цуурай хөгжим",
+    "hanja": "交響樂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교향악단",
+    "translation": "симфони найрал хөгжим",
+    "hanja": "交響樂團",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교현",
+    "translation": "хөндлөн огтлолын унжсан шугам",
+    "hanja": "交弦",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교화",
+    "translation": "боловсрол",
+    "hanja": "敎化",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "교화되다",
+    "translation": "Сурган хүмүүжүүлэх",
+    "hanja": "敎化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교화소",
+    "translation": "боловсролын газар",
+    "hanja": "敎化所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교화하다",
+    "translation": "Боловсруулах, соён гэгээрүүлэх",
+    "hanja": "敎化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교환",
+    "translation": "солилцоо",
+    "hanja": "交換",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "교환기",
+    "translation": "солилцооны хэрэгсэл",
+    "hanja": "交換機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교환되다",
+    "translation": "солигдох",
+    "hanja": "交換되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "교환하다",
+    "translation": "солих",
+    "hanja": "交換-",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교활하다",
+    "translation": "зальтай",
+    "hanja": "狡猾하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "교황",
+    "translation": "Пап лам",
+    "hanja": "敎皇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교회",
+    "translation": "сүм",
+    "hanja": "敎會",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교회당",
+    "translation": "сүм",
+    "hanja": "敎會堂",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교회하다",
+    "translation": "эргэлзэх",
+    "hanja": "交會하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교훈",
+    "translation": "сургамж",
+    "hanja": "교훈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교훈적",
+    "translation": "сургамжтай",
+    "hanja": "敎訓的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교훈하다",
+    "translation": "Сургах, заах",
+    "hanja": "敎訓하다",
+    "pos": "동사",
+    "cefr": "C1"
+  }
+]

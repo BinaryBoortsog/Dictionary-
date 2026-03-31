@@ -1,0 +1,457 @@
+[
+  {
+    "word": "숙",
+    "translation": "Шөл",
+    "hanja": "熟",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙경",
+    "translation": "Сукён (эмэгтэй нэр)",
+    "hanja": "淑慶",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙고하다",
+    "translation": "гүн гүнзгий бодох",
+    "hanja": "熟考하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "숙녀",
+    "translation": "хатагтай",
+    "hanja": "淑女",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙다",
+    "translation": "Хөгшрөх",
+    "hanja": "熟다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙달",
+    "translation": "чадвар",
+    "hanja": "熟達",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙달되다",
+    "translation": "чадваржих",
+    "hanja": "熟達되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙달하다",
+    "translation": "чадварлаг болох, эзэмших",
+    "hanja": "熟達하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙덕거리다",
+    "translation": "шивнэлдэх",
+    "hanja": "숙덕거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙려",
+    "translation": "Гүн гүнзгий бодох, сайтар бодох",
+    "hanja": "熟慮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙련",
+    "translation": "чадвар, туршлага",
+    "hanja": "熟練",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙련공",
+    "translation": "туршлагатай ажилчин",
+    "hanja": "熟練工",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙련되다",
+    "translation": "Ур чадвартай болох",
+    "hanja": "熟練되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙맥",
+    "translation": "тэнэг, мунхаг",
+    "hanja": "菽麥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙면",
+    "translation": "гүн нойр",
+    "hanja": "熟眠",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙면하다",
+    "translation": "гүн нойрсох",
+    "hanja": "熟眠하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙명",
+    "translation": "Хувь заяа",
+    "hanja": "宿命",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙명적",
+    "translation": "хувь тавилантай холбоотой",
+    "hanja": "宿命的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙모",
+    "translation": "авга эгч, нагац эгч",
+    "hanja": "叔母",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "숙박",
+    "translation": "байрлах",
+    "hanja": "宿泊",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "숙박부",
+    "translation": "буудлын бүртгэл",
+    "hanja": "宿泊簿",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙박비",
+    "translation": "байрны төлбөр",
+    "hanja": "宿泊費",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "숙박업",
+    "translation": "Зочид буудлын үйлчилгээ",
+    "hanja": "宿泊業",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙박업소",
+    "translation": "буудал",
+    "hanja": "宿泊業所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙박하다",
+    "translation": "хоноглох",
+    "hanja": "宿泊하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "숙변",
+    "translation": "Хуучин баас, өтгөн хатах",
+    "hanja": "宿便",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙부",
+    "translation": "Авга ах (аавын талын дүү)",
+    "hanja": "叔父",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙비",
+    "translation": "байрны зардал",
+    "hanja": "宿費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙사",
+    "translation": "Түр амрах газар, зоог",
+    "hanja": "宿事",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙성",
+    "translation": "боловсрох, исгэх",
+    "hanja": "熟成",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙성되다",
+    "translation": "боловсрох",
+    "hanja": "熟成되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙성하다",
+    "translation": "боловсрох, зохих",
+    "hanja": "熟成하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙소",
+    "translation": "Байр, буудал",
+    "hanja": "宿所",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "숙수",
+    "translation": "тогооч",
+    "hanja": "熟手",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙식",
+    "translation": "байр, хоол",
+    "hanja": "宿食",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙식하다",
+    "translation": "хоноглох",
+    "hanja": "宿食하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙아",
+    "translation": "Дүү (эгч нь дуудах)",
+    "hanja": "숙아",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙어",
+    "translation": "хэлц үг",
+    "hanja": "熟語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙연",
+    "translation": "хүндэтгэлтэй",
+    "hanja": "肅然",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙연하다",
+    "translation": "хүндэтгэлтэй",
+    "hanja": "肅然하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙영",
+    "translation": "майханд хоноглох",
+    "hanja": "宿營",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙용",
+    "translation": "Сукён (хааны татвар эм)",
+    "hanja": "淑容",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙원",
+    "translation": "удаан хүлээсэн хүсэл",
+    "hanja": "宿願",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙위",
+    "translation": "Шөнө унтах",
+    "hanja": "宿衛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "숙의",
+    "translation": "нарийн зөвлөлдөх",
+    "hanja": "熟議",
+    "pos": "명",
+    "cefr": "C2"
+  },
+  {
+    "word": "숙의하다",
+    "translation": "гүнзгий хэлэлцэх",
+    "hanja": "熟議하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙이다",
+    "translation": "М бөхийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "숙자",
+    "translation": "бичиг үсэг тайлагдсан хүн",
+    "hanja": "識者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙적",
+    "translation": "Эртний дайсан",
+    "hanja": "宿敵",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙제",
+    "translation": "Гэрийн даалгавар",
+    "hanja": "宿題",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "숙제하다",
+    "translation": "гэрийн даалгавар хийх",
+    "hanja": "宿題하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "숙종",
+    "translation": "Сүгжун",
+    "hanja": "肅宗",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "숙주",
+    "translation": "Эзэн",
+    "hanja": "宿主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙주나물",
+    "translation": "шошны үрсэлгээ",
+    "hanja": null,
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙지",
+    "translation": "бүрэн мэдэх",
+    "hanja": "熟知",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙지하다",
+    "translation": "сайн мэдэх",
+    "hanja": "熟知--",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙직",
+    "translation": "шөнийн ээлж",
+    "hanja": "宿直",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙직실",
+    "translation": "харуул хамгаалалтын өрөө",
+    "hanja": "宿直室",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙직하다",
+    "translation": "шөнийн ээлжинд гарах",
+    "hanja": "宿直하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "숙청",
+    "translation": "цэвэрлэгээ",
+    "hanja": "肅淸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙청되다",
+    "translation": "Цэвэрлэгдэх",
+    "hanja": "肅淸되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "숙청하다",
+    "translation": "цэвэрлэх",
+    "hanja": "肅淸하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙취",
+    "translation": "өлөнгөө тайлах",
+    "hanja": "宿醉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙환",
+    "translation": "архаг өвчин",
+    "hanja": "宿患",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "숙회",
+    "translation": "Утсан загас",
+    "hanja": "熟膾",
+    "pos": "Noun",
+    "cefr": "C1"
+  }
+]

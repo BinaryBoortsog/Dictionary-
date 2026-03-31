@@ -1,0 +1,604 @@
+[
+  {
+    "word": "농",
+    "translation": "хуурмаг, хошигнол",
+    "hanja": "籠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "농가",
+    "translation": "тариачин айл, ферм",
+    "hanja": "農家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농간",
+    "translation": "арга заль",
+    "hanja": "籠간",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농경",
+    "translation": "тариалан",
+    "hanja": "農耕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농경지",
+    "translation": "тариалангийн талбай",
+    "hanja": "農耕地",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "농고",
+    "translation": "Хөдөө аж ахуйн ахлах сургууль",
+    "hanja": "農高",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농구",
+    "translation": "сагсан бөмбөг",
+    "hanja": "籠球",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "농구공",
+    "translation": "Сагсан бөмбөг",
+    "hanja": "籠球공",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "농구장",
+    "translation": "сагсан бөмбөгийн талбай",
+    "hanja": "籠球場",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "농구하다",
+    "translation": "сагс тоглох",
+    "hanja": "籠球하다",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "농구화",
+    "translation": "сагсны гутал",
+    "hanja": "籠球靴",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "농군",
+    "translation": "тариачин",
+    "hanja": "農軍",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "농기계",
+    "translation": "хөдөө аж ахуйн машин",
+    "hanja": "農機械",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농기구",
+    "translation": "хөдөө аж ахуйн багаж",
+    "hanja": "農器具",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농노",
+    "translation": "тариачин",
+    "hanja": "農奴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "농단",
+    "translation": "Монополь",
+    "hanja": "壟斷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농단하다",
+    "translation": "монополдох",
+    "hanja": "壟斷하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농담",
+    "translation": "хошигнол",
+    "hanja": "弄談",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "농담조",
+    "translation": "хошигносон өнгө аяс",
+    "hanja": "弄談調",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농담하다",
+    "translation": "Хошигнох",
+    "hanja": "弄談하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "농대",
+    "translation": "хөдөө аж ахуйн их сургууль",
+    "hanja": "農大",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농도",
+    "translation": "концентраци",
+    "hanja": "濃度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농땡이",
+    "translation": "залхуурал",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "농락",
+    "translation": "Удирдах, хууран мэхлэх",
+    "hanja": "籠絡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농락당하다",
+    "translation": "мэхлэгдэх",
+    "hanja": "籠絡當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농락하다",
+    "translation": "Тоглох",
+    "hanja": "籠絡하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농로",
+    "translation": "хөдөө аж ахуйн зам",
+    "hanja": "農路",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농림",
+    "translation": "хөдөө аж ахуй, ойн аж ахуй",
+    "hanja": "農林",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농막",
+    "translation": "талбайн овоохой",
+    "hanja": "農幕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농무",
+    "translation": "Манан, өтгөн манан",
+    "hanja": "濃霧",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농민",
+    "translation": "Тариачин",
+    "hanja": "農民",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "농민군",
+    "translation": "тариачин арми",
+    "hanja": "農民軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농밀하다",
+    "translation": "шигүү, нягт",
+    "hanja": "濃密하다",
+    "pos": "т.ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "농번기",
+    "translation": "газар тариалангийн улирал",
+    "hanja": "農繁期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농법",
+    "translation": "газар тариалангийн арга",
+    "hanja": "農法",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "농부",
+    "translation": "тариачин",
+    "hanja": "農夫",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "농사",
+    "translation": "тариалан",
+    "hanja": "農事",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농사꾼",
+    "translation": "тариачин",
+    "hanja": "農사꾼",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "농사법",
+    "translation": "тариалангийн арга",
+    "hanja": "農事法",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농사일",
+    "translation": "газар тариалангийн ажил",
+    "hanja": "農事일",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농사짓다",
+    "translation": "тариа тарих",
+    "hanja": "農事짓다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "농사철",
+    "translation": "газар тариалангийн улирал",
+    "hanja": "農事철",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농사하다",
+    "translation": "газар тариалан эрхлэх",
+    "hanja": "農事하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농산어촌",
+    "translation": "хөдөө аж ахуй, загас агнуурын тосгон",
+    "hanja": "農山漁村",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농서",
+    "translation": "Газар тариалангийн ном",
+    "hanja": "農書",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "농성",
+    "translation": "Суулт хийх",
+    "hanja": "籠城",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "농성하다",
+    "translation": "сууж эсэргүүцэх",
+    "hanja": "籠城하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "농수산",
+    "translation": "Хөдөө аж ахуй, загас агнуурын бүтээгдэхүүн",
+    "hanja": "農水産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농수산물",
+    "translation": "хөдөө аж ахуй, загас агнуурын бүтээгдэхүүн",
+    "hanja": "農水産物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농수축산물",
+    "translation": "хөдөө аж ахуй, загас, мал аж ахуйн бүтээгдэхүүн",
+    "hanja": "農水畜産物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농심",
+    "translation": "тариачин сэтгэл, Нонгшим (компани)",
+    "hanja": "農心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농아",
+    "translation": "хэлгүй, дүлий хүн",
+    "hanja": "籠啞",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "농악",
+    "translation": "농악 (хөгжмийн төрөл)",
+    "hanja": "農樂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농악대",
+    "translation": "үндэсний хөгжмийн хамтлаг",
+    "hanja": "農樂隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농약",
+    "translation": "Пестицид",
+    "hanja": "農藥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농어",
+    "translation": "далайн алаг загас",
+    "hanja": "鱸魚",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "농어민",
+    "translation": "фермер, загасчин",
+    "hanja": "農漁民",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농어촌",
+    "translation": "хөдөө орон нутаг ба загас агнуурын суурин",
+    "hanja": "農漁村",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농업",
+    "translation": "хөдөө аж ахуй",
+    "hanja": "農業",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농업국",
+    "translation": "хөдөө аж ахуйн улс",
+    "hanja": "農業國",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농업용수",
+    "translation": "хөдөө аж ахуйн ус",
+    "hanja": "農業用水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농염하다",
+    "translation": "сэтгэл татам",
+    "hanja": "濃艶하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농요",
+    "translation": "хөдөө аж ахуйн дуу",
+    "hanja": "農謠",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "농원",
+    "translation": "ферм",
+    "hanja": "農園",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농익다",
+    "translation": "бүрэн боловсрох",
+    "hanja": "濃-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농인",
+    "translation": "хөгжимчин",
+    "hanja": "聾人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농작물",
+    "translation": "Тариалангийн бүтээгдэхүүн",
+    "hanja": "農作物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농장",
+    "translation": "ферм",
+    "hanja": "農場",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "농장주",
+    "translation": "фермер",
+    "hanja": "農場主",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "농지",
+    "translation": "Хөдөө аж ахуйн газар",
+    "hanja": "農地",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농지거리",
+    "translation": "наргиа, хошигнол",
+    "hanja": "弄지거리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농진청",
+    "translation": "Хөдөө аж ахуйн хөгжлийн газар",
+    "hanja": "農振廳",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "농촌",
+    "translation": "хөдөө орон нутаг",
+    "hanja": "農村",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "농축",
+    "translation": "өтгөрүүлэх, баяжуулах",
+    "hanja": "濃縮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "농축되다",
+    "translation": "өтгөрөх",
+    "hanja": "濃縮되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농축산물",
+    "translation": "хөдөө аж ахуйн бүтээгдэхүүн",
+    "hanja": "農畜産物",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "농축하다",
+    "translation": "шингэрүүлэх",
+    "hanja": "濃縮하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농토",
+    "translation": "газар тариалангийн газар",
+    "hanja": "農土",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농포",
+    "translation": "идээт үрэвсэл",
+    "hanja": "膿疱",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "농하다",
+    "translation": "тоглоом шоглоом хийх",
+    "hanja": "弄하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "농학",
+    "translation": "хөдөө аж ахуйн шинжлэх ухаан",
+    "hanja": "農學",
+    "pos": "NNG",
+    "cefr": "C1"
+  },
+  {
+    "word": "농한기",
+    "translation": "газар тариалангийн ажилгүй үе",
+    "hanja": "農閑期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농해수위",
+    "translation": "хөдөө аж ахуй, далай тэнгис, усны ашиглалт",
+    "hanja": "農海水委",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "농향",
+    "translation": "Хүчтэй үнэр",
+    "hanja": "濃香",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농협",
+    "translation": "хөдөө аж ахуйн хоршоо",
+    "hanja": "農協",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "농후하다",
+    "translation": "өтгөн, хүчтэй",
+    "hanja": "濃厚하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  }
+]

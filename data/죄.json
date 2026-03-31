@@ -1,0 +1,191 @@
+[
+  {
+    "word": "죄",
+    "translation": "гэмт хэрэг",
+    "hanja": "罪",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄과",
+    "translation": "гэмт хэрэг, нүгэл",
+    "hanja": "罪過",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄다",
+    "translation": "бүгд, бүхэлдээ",
+    "hanja": "죄다",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄명",
+    "translation": "гэмт хэргийн нэр",
+    "hanja": "罪名",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "죄목",
+    "translation": "ял зэм",
+    "hanja": "罪目",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄받다",
+    "translation": "ял авах",
+    "hanja": "罪받다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄사하다",
+    "translation": "нүглийг уучлах",
+    "hanja": "罪赦하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "죄상",
+    "translation": "гэмт хэрэг",
+    "hanja": "罪狀",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄송스럽다",
+    "translation": "уучлалт гуйх",
+    "hanja": "罪悚스럽다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "죄송하다",
+    "translation": "Уучлалт гуйх",
+    "hanja": "罪悚하다",
+    "pos": "Adjective",
+    "cefr": "A1"
+  },
+  {
+    "word": "죄수",
+    "translation": "хоригдол",
+    "hanja": "罪囚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "죄수복",
+    "translation": "Хоригдлын хувцас",
+    "hanja": "罪囚服",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄스럽다",
+    "translation": "гэмшүүлэх",
+    "hanja": "罪스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄악",
+    "translation": "Нүгэл",
+    "hanja": "罪惡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄악감",
+    "translation": "гэм буруугийн мэдрэмж",
+    "hanja": "罪惡感",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "죄악시",
+    "translation": "нүгэлт үйлдэл гэж үзэх",
+    "hanja": "罪惡視",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "죄악시하다",
+    "translation": "Нүгэл хэмээн үзэх",
+    "hanja": "罪惡視하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "죄어들다",
+    "translation": "чангарч орох, дарамтлах",
+    "hanja": "죄어들다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "죄업",
+    "translation": "Нүгэл, гэмт хэрэг",
+    "hanja": "罪業",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "죄의식",
+    "translation": "гэм буруугийн мэдрэмж",
+    "hanja": "罪意識",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄이다",
+    "translation": "чангалах, чагтлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄인",
+    "translation": "ялтан",
+    "hanja": "罪人",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "죄지다",
+    "translation": "нүгэл үйлдэх, гэм хийх",
+    "hanja": "罪-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄질",
+    "translation": "гэмт хэргийн шинж чанар",
+    "hanja": "罪質",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "죄짓다",
+    "translation": "Нүгэл үйлдэх, буруу зүйл хийх",
+    "hanja": "罪짓다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "죄책",
+    "translation": "гэм буруу",
+    "hanja": "罪責",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "죄책감",
+    "translation": "гэм буруугийн мэдрэмж",
+    "hanja": "罪責感",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

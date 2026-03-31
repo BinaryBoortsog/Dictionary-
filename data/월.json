@@ -1,0 +1,646 @@
+[
+  {
+    "word": "월",
+    "translation": "сар",
+    "hanja": "月",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "월가",
+    "translation": "Уолл Стрит",
+    "hanja": "월가",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "월간",
+    "translation": "Сарын",
+    "hanja": "月刊",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "월간지",
+    "translation": "сар тутмын сэтгүүл",
+    "hanja": "月刊志",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "월계",
+    "translation": "Лаврын мод",
+    "hanja": "月桂",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "월계관",
+    "translation": "улиасны титэм",
+    "hanja": "月桂冠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월계수",
+    "translation": "лаврын мод",
+    "hanja": "月桂樹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월곡",
+    "translation": "Волго",
+    "hanja": "月谷",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "월광",
+    "translation": "Сарны гэрэл",
+    "hanja": "月光",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월권",
+    "translation": "эрх мэдлээ урвуулан ашиглах",
+    "hanja": "越權",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "월권행위",
+    "translation": "Бүрэн эрхээ хэтрүүлсэн үйлдэл",
+    "hanja": "越權行爲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월급",
+    "translation": "Цалин",
+    "hanja": "月給",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "월급날",
+    "translation": "цалингийн өдөр",
+    "hanja": "月給날",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "월급봉투",
+    "translation": "цалингийн дугтуй",
+    "hanja": "月給封套",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "월급쟁이",
+    "translation": "цалинтан",
+    "hanja": "月給-이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "월급제",
+    "translation": "цалинтай систем",
+    "hanja": "月給制",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월남",
+    "translation": "Вьетнам",
+    "hanja": "越南",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "월남하다",
+    "translation": "Вьетнам руу явах",
+    "hanja": "越南하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "월넛",
+    "translation": "хушга",
+    "hanja": "Walnut",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월다",
+    "translation": "Валда",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "월담",
+    "translation": "хашаа давах",
+    "hanja": "越담",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월담하다",
+    "translation": "хашаа давж гарах",
+    "hanja": "越墻하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월대",
+    "translation": "сарын төлбөр",
+    "hanja": "月待",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월도",
+    "translation": "сарны хутга",
+    "hanja": "月刀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월동",
+    "translation": "өвлийн улирал",
+    "hanja": "越冬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월동지",
+    "translation": "өвөлжих газар",
+    "hanja": "越冬地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월동하다",
+    "translation": "өвөлжих",
+    "hanja": "越冬하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월드컵",
+    "translation": "дэлхийн цом",
+    "hanja": "월드컵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "월든",
+    "translation": "Уолден (номын нэр)",
+    "hanja": "월든",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "월등",
+    "translation": "давамгайлах, илүү сайн",
+    "hanja": "越等",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월등하다",
+    "translation": "Илүү, давамгай, давуу",
+    "hanja": "越等하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월등히",
+    "translation": "давуу талтай",
+    "hanja": "越等히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월랑",
+    "translation": "саран хүрээлэн",
+    "hanja": "月廊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월래",
+    "translation": "үүсвэр, эх",
+    "hanja": "原來",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월령",
+    "translation": "сарны нас",
+    "hanja": "月齡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월례",
+    "translation": "Сарын хэвшил",
+    "hanja": "月例",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월류",
+    "translation": "булангийн урсац",
+    "hanja": "越流",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "월리",
+    "translation": "Волли (нэр)",
+    "hanja": "월리",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "월리스",
+    "translation": "Уоллес",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "월말",
+    "translation": "сарын төгсгөл",
+    "hanja": "月末",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "월매",
+    "translation": "Волльмае (Симчхонг-жон зохиолын дүр)",
+    "hanja": "月梅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월맹",
+    "translation": "Вьетнам (хуучин нэр)",
+    "hanja": "越盟",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "월면",
+    "translation": "сарны гадаргуу",
+    "hanja": "月面",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월명",
+    "translation": "сарын нэр",
+    "hanja": "月名",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월무",
+    "translation": "саран бүжиг, саран бүжиглэх",
+    "hanja": "月舞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월미",
+    "translation": "Сарын сүүлч, сарын сүүлчийн өдөр",
+    "hanja": "月末",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월반",
+    "translation": "анги алгасах",
+    "hanja": "越班",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월반하다",
+    "translation": "анги алгасах",
+    "hanja": "越班하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월별",
+    "translation": "сар бүр",
+    "hanja": "月別",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "월병",
+    "translation": "сарны боов",
+    "hanja": "月餠",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "월보",
+    "translation": "сарын тайлан, сарын тогтмол хэвлэл",
+    "hanja": "月報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월봉",
+    "translation": "сар бүрийн цалин",
+    "hanja": "月俸",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "월부",
+    "translation": "сар бүрийн төлбөрт худалдаа",
+    "hanja": "月賦",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월북",
+    "translation": "Умард Солонгос руу нэвтрэх",
+    "hanja": "越北",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월북하다",
+    "translation": "Умард Солонгос руу нэвтрэх",
+    "hanja": "越北하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "월비",
+    "translation": "сарын зардал",
+    "hanja": "月費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월사금",
+    "translation": "Сар бүрийн хураамж",
+    "hanja": "月謝金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월석",
+    "translation": "Сарны чулуу",
+    "hanja": "月石",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "월선",
+    "translation": "сарыг тогтсон",
+    "hanja": "월선(越線)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월성",
+    "translation": "Волсон (газар зүйн нэр)",
+    "hanja": "月城",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월세",
+    "translation": "Сарын түрээс",
+    "hanja": "月貰",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "월세방",
+    "translation": "сарын түрээсийн өрөө",
+    "hanja": "月貰房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월셋집",
+    "translation": "сарын түрээсийн байр",
+    "hanja": "月貰-",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월수",
+    "translation": "сар бүрийн орлого",
+    "hanja": "月收",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월수입",
+    "translation": "сарын орлого",
+    "hanja": "月收入",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "월시",
+    "translation": "сар бүрийн яруу найраг",
+    "hanja": "月詩",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "월식",
+    "translation": "сар хиртэлт",
+    "hanja": "月蝕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월아",
+    "translation": "Сарны сар",
+    "hanja": "月牙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "월악산",
+    "translation": "Волаксан уул",
+    "hanja": "月嶽山",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월요병",
+    "translation": "Даваа гарагийн хам шинж",
+    "hanja": "月曜病",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월요일",
+    "translation": "Даваа гараг",
+    "hanja": "月曜日",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "월이",
+    "translation": "сарын ашиг",
+    "hanja": "月利",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월인천강지곡",
+    "translation": "Сар мянган голд туссан дуу",
+    "hanja": "月印千江之曲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "월정",
+    "translation": "сар бүрийн төлбөр",
+    "hanja": "月定",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "월족",
+    "translation": "Вьетнам үндэстэн",
+    "hanja": "越族",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "월주",
+    "translation": "сарын хугацаа",
+    "hanja": "越週",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월중",
+    "translation": "сарын дундуур",
+    "hanja": "月中",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월지",
+    "translation": "сарны газар",
+    "hanja": "月氏",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "월차",
+    "translation": "сарын цалинтай амралт",
+    "hanja": "月次",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월척",
+    "translation": "том загас",
+    "hanja": "越尺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월천",
+    "translation": "мөнх тэнгэр",
+    "hanja": "越千",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "월초",
+    "translation": "Сар эхний",
+    "hanja": "月初",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "월출",
+    "translation": "сар мандах",
+    "hanja": "月出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월클",
+    "translation": "дэлхийн хэмжээний",
+    "hanja": "월클(月克)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월터",
+    "translation": "Уолтер",
+    "hanja": "월터",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "월파",
+    "translation": "давсан давалгаа",
+    "hanja": "越波",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "월평",
+    "translation": "сарын үнэлгээ",
+    "hanja": "月評",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월평균",
+    "translation": "сарын дундаж",
+    "hanja": "月平均",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월풀",
+    "translation": "хуй салхи, Whirlpool (брэндийн нэр)",
+    "hanja": "Whirlpool",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월호",
+    "translation": "Сарны сав",
+    "hanja": "月湖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월화",
+    "translation": "Даваа, Мягмар (жишээ нь, 월화드라마)",
+    "hanja": "月火",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "월화수목금금금",
+    "translation": "Даваа, Мягмар, Лхагва, Пүрэв, Баасан, Бямба, Ням (бүх өдөр)",
+    "hanja": "月火水木金金金",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

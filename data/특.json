@@ -1,0 +1,653 @@
+[
+  {
+    "word": "특가",
+    "translation": "тусгай үнэ",
+    "hanja": "特價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특감",
+    "translation": "Тусгай хяналт/шалгалт",
+    "hanja": "特監",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "특강",
+    "translation": "тусгай лекц",
+    "hanja": "特講",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "특강하다",
+    "translation": "тусгай лекц хийх",
+    "hanja": "特講하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "특검",
+    "translation": "тусгай прокурор",
+    "hanja": "特檢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특고",
+    "translation": "Онцгой ангилал; тусгай ажилтан",
+    "hanja": "特高",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특공",
+    "translation": "тусгай халдлага",
+    "hanja": "特攻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특공대",
+    "translation": "тусгай хүчин, спецназ",
+    "hanja": "特攻隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특구",
+    "translation": "Тусгай бүс",
+    "hanja": "特區",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특권",
+    "translation": "давуу эрх",
+    "hanja": "特權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특권층",
+    "translation": "давуу эрхтэй давхарга",
+    "hanja": "特權層",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "특근",
+    "translation": "илүү цагаар ажиллах",
+    "hanja": "特勤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "특급",
+    "translation": "тусгай зэрэг",
+    "hanja": "特級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특기",
+    "translation": "тулагч чадвар",
+    "hanja": "特技",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "특기생",
+    "translation": "тусгай авьяастай оюутан",
+    "hanja": "特技生",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "특기하다",
+    "translation": "Тэмдэглэх, онцлон дурдах",
+    "hanja": "特記하다",
+    "pos": "동사 (Verb)",
+    "cefr": "B2"
+  },
+  {
+    "word": "특단",
+    "translation": "онцгой арга хэмжээ",
+    "hanja": "特斷",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "특대",
+    "translation": "онцгой том",
+    "hanja": "特大",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "특등",
+    "translation": "тусгай зэрэг",
+    "hanja": "特等",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특등급",
+    "translation": "тусгай зэрэглэл, дээд зэрэглэл",
+    "hanja": "特等級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특란",
+    "translation": "онцгой өндөг",
+    "hanja": "特卵",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "특례",
+    "translation": "тусгай дүрэм журам",
+    "hanja": "特例",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특례법",
+    "translation": "тусгай хууль",
+    "hanja": "特例法",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "특명",
+    "translation": "тусгай даалгавар",
+    "hanja": "特命",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특목고",
+    "translation": "тусгай зориулалтын ахлах сургууль",
+    "hanja": "特目高",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특무",
+    "translation": "тусгай үүрэг",
+    "hanja": "特務",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "특별",
+    "translation": "тусгай",
+    "hanja": "特別",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "특별나다",
+    "translation": "онцгой байх",
+    "hanja": "特別나다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특별법",
+    "translation": "тусгай хууль",
+    "hanja": "特別法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특별시",
+    "translation": "тусгай хот",
+    "hanja": "特別市",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "특별자치도",
+    "translation": "тусгай автономит муж",
+    "hanja": "特別自治道",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "특별하다",
+    "translation": "онцгой",
+    "hanja": "特別하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "특별히",
+    "translation": "тусгайлан",
+    "hanja": "特別-",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "특보",
+    "translation": "тусгай мэдээ",
+    "hanja": "特報",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특사",
+    "translation": "тусгай элч",
+    "hanja": "特使",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특사경",
+    "translation": "тусгай мөрдөн байцаагч",
+    "hanja": "特司警",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "특산물",
+    "translation": "онцгой бүтээгдэхүүн",
+    "hanja": "特産物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "특산품",
+    "translation": "нутгийн онцгой бүтээгдэхүүн",
+    "hanja": "特産品",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "특상",
+    "translation": "гайхамшигтай, онцгой шагнал",
+    "hanja": "特賞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특색",
+    "translation": "Онцлог",
+    "hanja": "特色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특선",
+    "translation": "тусгай сонголт",
+    "hanja": "特選",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특성",
+    "translation": "онцлог",
+    "hanja": "特性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특성화되다",
+    "translation": "Тусгай болгох, онцлогтой болох",
+    "hanja": "特成化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특송",
+    "translation": "тусгай хүргэлт, экспресс шуудан",
+    "hanja": "特送",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특수",
+    "translation": "онцгой, тусгай",
+    "hanja": "特殊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특수성",
+    "translation": "онцлог",
+    "hanja": "特殊性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특수하다",
+    "translation": "тусгай",
+    "hanja": "特殊하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특식",
+    "translation": "тусгай хоол",
+    "hanja": "特食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "특실",
+    "translation": "тусгай өрөө",
+    "hanja": "特室",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특약",
+    "translation": "тусгай гэрээ",
+    "hanja": "特約",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특위",
+    "translation": "Тусгай хороо",
+    "hanja": "特委",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특유",
+    "translation": "онцлог, өвөрмөц",
+    "hanja": "特有",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특유하다",
+    "translation": "онцгой, өвөрмөц",
+    "hanja": "特有하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특이",
+    "translation": "Онцгой, өвөрмөц",
+    "hanja": "特異",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "특이하다",
+    "translation": "онцгой, өвөрмөц",
+    "hanja": "特異하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특임",
+    "translation": "онцгой үүрэг",
+    "hanja": "特任",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "특장점",
+    "translation": "Онцгой давуу тал",
+    "hanja": "特長點",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "특전",
+    "translation": "онцгой эрх, давуу тал",
+    "hanja": "特典",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "특점",
+    "translation": "онцлог шинж",
+    "hanja": "特點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특정",
+    "translation": "тодорхой",
+    "hanja": "特定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특정되다",
+    "translation": "тодорхойлогдох",
+    "hanja": "特定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특정인",
+    "translation": "тодорхой хүн",
+    "hanja": "特定人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특정하다",
+    "translation": "тодорхой",
+    "hanja": "特定하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특제",
+    "translation": "тусгай зориулалтын",
+    "hanja": "特製",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "특종",
+    "translation": "Онцгой мэдээ",
+    "hanja": "特種",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "특주",
+    "translation": "Тусгай захиалга",
+    "hanja": "特注",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특진",
+    "translation": "тусгай дэвшил",
+    "hanja": "特進",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특진하다",
+    "translation": "тусгай албан тушаалд ахих",
+    "hanja": "特進하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특질",
+    "translation": "онцлог шинж, өвөрмөц чанар",
+    "hanja": "特質",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "특집",
+    "translation": "онцгой дугаар",
+    "hanja": "特輯",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "특집극",
+    "translation": "тусгай жүжиг",
+    "hanja": "特輯劇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특집호",
+    "translation": "тусгай дугаар",
+    "hanja": "特集號",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특징",
+    "translation": "Онцлог",
+    "hanja": "特徵",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "특징적",
+    "translation": "онцлог шинжтэй",
+    "hanja": "特徵的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특징짓다",
+    "translation": "онцлог шинжтэй",
+    "hanja": "特徵짓다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특채",
+    "translation": "тусгай сонгон шалгаруулалт",
+    "hanja": "特採",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특채되다",
+    "translation": "тусгай аргаар ажилд орох",
+    "hanja": "特採되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특출나다",
+    "translation": "онцгой, гайхалтай",
+    "hanja": "特出나다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특출하다",
+    "translation": "онцгой, гарамгай",
+    "hanja": "特出하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특파원",
+    "translation": "тусгай сурвалжлагч",
+    "hanja": "特派員",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특필",
+    "translation": "онцолж бичих",
+    "hanja": "特筆",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특필하다",
+    "translation": "онцолж бичих",
+    "hanja": "特筆하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "특허",
+    "translation": "патент",
+    "hanja": "特許",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특허권",
+    "translation": "Патентын эрх",
+    "hanja": "特許權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특혜",
+    "translation": "Давуу тал",
+    "hanja": "特惠",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "특화",
+    "translation": "тусад нь",
+    "hanja": "特化",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "특화되다",
+    "translation": "Дагнасан, мэргэжсэн",
+    "hanja": "特化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특화하다",
+    "translation": "Нарийвчлах, тусгайлах",
+    "hanja": "特化하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "특효",
+    "translation": "Онцгой үр нөлөө",
+    "hanja": "特效",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "특효약",
+    "translation": "гайхамшигтай эм",
+    "hanja": "特效藥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특훈",
+    "translation": "тусгай бэлтгэл",
+    "hanja": "特訓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특훈하다",
+    "translation": "тусгай сургалт хийх",
+    "hanja": "特訓하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "특히",
+    "translation": "ялангуяа",
+    "hanja": "特히",
+    "pos": "부사",
+    "cefr": "B1"
+  }
+]

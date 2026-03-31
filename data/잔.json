@@ -1,0 +1,541 @@
+[
+  {
+    "word": "잔",
+    "translation": "аяга",
+    "hanja": "盞",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잔가지",
+    "translation": "нарийн мөчир",
+    "hanja": "잔가지",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔고",
+    "translation": "үлдэгдэл",
+    "hanja": "殘高",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔광",
+    "translation": "үлдэгдэл гэрэл",
+    "hanja": "殘光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔교",
+    "translation": "хөлөг онгоцны зогсоол",
+    "hanja": "棧橋",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔금",
+    "translation": "үлдэгдэл мөнгө",
+    "hanja": "殘金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔기침",
+    "translation": "ханиалгах",
+    "hanja": "잔기침(殘-)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔꾀",
+    "translation": "ов мэх, арга заль",
+    "hanja": "잔꾀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔나",
+    "translation": "Чанна",
+    "hanja": "잔나",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔나비",
+    "translation": "сарлаг (хуучин үг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔뇨",
+    "translation": "Үлдэгдэл шээс",
+    "hanja": "殘尿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔니",
+    "translation": "Жанни (Итали нэр)",
+    "hanja": "잔니",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "잔당",
+    "translation": "үрлэгдэл",
+    "hanja": "殘黨",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "잔더",
+    "translation": "зандер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔도",
+    "translation": "нарийн зам",
+    "hanja": "棧道",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔돈",
+    "translation": "задгай мөнгө",
+    "hanja": "殘돈",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잔등",
+    "translation": "сээр (Бие)",
+    "hanja": "殘燈",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "잔디",
+    "translation": "зүлэг",
+    "hanja": "잔디",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잔디깎이",
+    "translation": "зүлэг хадагч машин",
+    "hanja": "잔디깎이",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔디밭",
+    "translation": "зүлэг",
+    "hanja": "잔디밭",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "잔뜩",
+    "translation": "дүүрэн",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔량",
+    "translation": "Үлдсэн хэмжээ",
+    "hanja": "殘量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔루",
+    "translation": "үлдсэн бөмбөг",
+    "hanja": "殘壘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔류",
+    "translation": "Үлдэх",
+    "hanja": "殘留",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔류하다",
+    "translation": "үлдэх, хоцрох",
+    "hanja": "殘留하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔말",
+    "translation": "Хов жив",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔망",
+    "translation": "Дэмий зүйл, хоосон зүйл",
+    "hanja": "잔망",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔망스럽다",
+    "translation": "тогтворгүй",
+    "hanja": "잔망스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔반",
+    "translation": "хоолны үлдэгдэл",
+    "hanja": "殘飯",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잔발",
+    "translation": "Жижиг алхаагаар явах",
+    "hanja": "殘發",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔병",
+    "translation": "жижиг өвчин",
+    "hanja": "殘病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔병치레",
+    "translation": "бага зэргийн өвчин",
+    "hanja": " 잔病치레",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔뿌리",
+    "translation": "нарийн үндэс",
+    "hanja": "잔뿌리",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔사",
+    "translation": "Үлдэгдэл",
+    "hanja": "殘渣",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔상",
+    "translation": "үлдсэн дүрс, арын дүрс",
+    "hanja": "殘像",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔소리",
+    "translation": "загнах",
+    "hanja": "殘소리",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔소리꾼",
+    "translation": "Гомдолч, үглээ",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔소리하다",
+    "translation": "гошигнох",
+    "hanja": " jansorihada",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔수",
+    "translation": "үлдсэн тоо",
+    "hanja": "殘數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔심부름",
+    "translation": "жижиг даалгавар, зар심",
+    "hanja": "殘心부름",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔악무도하다",
+    "translation": "Харгис хэрцгий",
+    "hanja": "殘惡無道하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "잔악하다",
+    "translation": "Харгис хэрцгий",
+    "hanja": "殘惡하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔액",
+    "translation": "үлдэгдэл",
+    "hanja": "殘額",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔업",
+    "translation": "Илүү цагаар ажиллах",
+    "hanja": "殘業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔여물",
+    "translation": "үлдэгдэл",
+    "hanja": "殘餘物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔열",
+    "translation": "үлдэгдэл дулаан",
+    "hanja": "殘熱",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "잔영",
+    "translation": "сүүдэр",
+    "hanja": "殘影",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔이랑",
+    "translation": "жижиг хөндий",
+    "hanja": "잔이랑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔인무도하다",
+    "translation": "хэрцгий догшин",
+    "hanja": "殘忍無道하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔인성",
+    "translation": "харгислал",
+    "hanja": "殘忍性",
+    "pos": "명са",
+    "cefr": "C2"
+  },
+  {
+    "word": "잔인하다",
+    "translation": "Хэрцгий, харгис",
+    "hanja": "殘忍하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔잔하다",
+    "translation": "Нам гүм",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔잔히",
+    "translation": "нам гүм, тайван",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔재",
+    "translation": "үлдсэн зүйл",
+    "hanja": "殘滓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔재주",
+    "translation": "Жижиг ур чадвар, арга заль",
+    "hanja": "孱재주",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔정",
+    "translation": "хонгор сэтгэл",
+    "hanja": "殘情",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔존하다",
+    "translation": "үлдэх",
+    "hanja": "잔존하다(殘存하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔주름",
+    "translation": "нүүрний үрчлээ",
+    "hanja": "殘주름",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔지바르",
+    "translation": "Занзибар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "잔차",
+    "translation": "үлдсэн зөрүү",
+    "hanja": "殘差",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "잔챙이",
+    "translation": "жижиг загас, өчүүхэн зүйл",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔치",
+    "translation": "баяр ёслол",
+    "hanja": "잔치",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔치상",
+    "translation": "Найрын ширээ",
+    "hanja": "잔치床",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잔치판",
+    "translation": "найрын талбар",
+    "hanja": "잔치판",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔치하다",
+    "translation": "найр хийх, баяр тэмдэглэх",
+    "hanja": "잔치하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔칫날",
+    "translation": "баяр ёслолын өдөр",
+    "hanja": "잔칫날",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔칫상",
+    "translation": "үдэшлэгийн ширээ",
+    "hanja": "잔치床",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔칫집",
+    "translation": "үдэшлэгийн байшин",
+    "hanja": "잔칫집",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔털",
+    "translation": "нимгэн үс",
+    "hanja": "殘털",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "잔하",
+    "translation": "үүрдийн",
+    "hanja": "盞下",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔학하다",
+    "translation": "хэрцгий",
+    "hanja": "殘虐하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔해",
+    "translation": "Үлдэгдэл",
+    "hanja": "殘骸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔향",
+    "translation": "үлдсэн үнэр",
+    "hanja": "殘響",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔혹",
+    "translation": "харгис хэрцгий",
+    "hanja": "잔혹(殘酷)",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔혹성",
+    "translation": "харгислал",
+    "hanja": "殘酷性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔혹하다",
+    "translation": "хэрцгий",
+    "hanja": "殘酷하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔흔",
+    "translation": "үлдэгдэл",
+    "hanja": "殘痕",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

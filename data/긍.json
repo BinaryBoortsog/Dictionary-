@@ -1,0 +1,79 @@
+[
+  {
+    "word": "긍가",
+    "translation": "тийм ээ, тийм үү?",
+    "hanja": "긍가",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "긍게",
+    "translation": "(ярианы хэллэг) тийм болохоор",
+    "hanja": "긍게",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "긍께",
+    "translation": "тэгэхээр, тиймээс (ярианы хэл)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "긍정",
+    "translation": "Эерэг, баталгаатай",
+    "hanja": "肯定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긍정문",
+    "translation": "батлах өгүүлбэр",
+    "hanja": "肯定文",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "긍정적",
+    "translation": "Эерэг",
+    "hanja": "肯定的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긍정하다",
+    "translation": "зөвшөөрөх, батлах",
+    "hanja": "肯定하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "긍지",
+    "translation": "бардам зан",
+    "hanja": "矜持",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긍휼",
+    "translation": "өршөөл, нигүүлсэл",
+    "hanja": "矜恤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "긍휼하다",
+    "translation": "өрөвдөх, нигүүлсэх",
+    "hanja": "矜恤하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "긍휼히",
+    "translation": "өрөвдөн, хайрлан",
+    "hanja": "矜恤히",
+    "pos": "부사",
+    "cefr": "C2"
+  }
+]

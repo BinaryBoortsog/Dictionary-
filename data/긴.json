@@ -1,0 +1,212 @@
+[
+  {
+    "word": "긴",
+    "translation": "урт",
+    "hanja": null,
+    "pos": "관형사",
+    "cefr": "A1"
+  },
+  {
+    "word": "긴가민가",
+    "translation": "тийм ч юм шиг, биш ч юм шиг",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "긴가민가하다",
+    "translation": "эргэлзэх, итгэлгүй байх",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "긴급",
+    "translation": "яаралтай",
+    "hanja": "緊急",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "긴급하다",
+    "translation": "яаралтай, тулгамдсан",
+    "hanja": "緊急하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "긴급회의",
+    "translation": "яаралтай хурал",
+    "hanja": "緊急會議",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긴급히",
+    "translation": "яаралтайгаар, нэн даруй",
+    "hanja": "緊急히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긴긴",
+    "translation": "Урт удаан",
+    "hanja": "null",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "긴꼬리딱새",
+    "translation": "урт сүүлтэй ялаа баригч",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "긴도",
+    "translation": "үнэ цэнэ",
+    "hanja": "斤度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "긴말",
+    "translation": "урт үг, олон үг",
+    "hanja": "긴말",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "긴말하다",
+    "translation": "урт үг хэлэх, нурших",
+    "hanja": "긴말하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긴밀하다",
+    "translation": "Нягт",
+    "hanja": "緊密하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "긴밀히",
+    "translation": "ойр, нягт",
+    "hanja": "緊密히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긴박감",
+    "translation": "яаралтай байдал, дарамт шахалт",
+    "hanja": "緊迫感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "긴박하다",
+    "translation": "шалмаг байх, нэн яаралтай байх",
+    "hanja": "緊迫하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "긴소매",
+    "translation": "Урт ханцуй",
+    "hanja": "긴소매",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "긴수염고래",
+    "translation": "фин халим",
+    "hanja": "긴수염고래",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "긴요하다",
+    "translation": "маш чухал байх",
+    "hanja": "緊要하다",
+    "pos": "형용사",
+    "cefr": "null"
+  },
+  {
+    "word": "긴자",
+    "translation": "Гинза (Токиогийн дүүрэг)",
+    "hanja": "銀座",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "긴장",
+    "translation": "хурцадмал байдал",
+    "hanja": "緊張",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "긴장감",
+    "translation": "хурцадмал байдал",
+    "hanja": "緊張感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긴장되다",
+    "translation": "санаа зовох, хурцадмал байдалтай болох",
+    "hanja": "緊張되다",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "긴장시키다",
+    "translation": "хурцатгах",
+    "hanja": "緊張시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긴장하다",
+    "translation": "санаа зовох",
+    "hanja": "緊張하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "긴축",
+    "translation": "хэмнэлт",
+    "hanja": "緊縮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긴축하다",
+    "translation": "Хэмнэх, танах, хязгаарлах",
+    "hanja": "緊縮하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긴팔",
+    "translation": "урт ханцуй",
+    "hanja": "긴팔",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "긴하다",
+    "translation": "чухал",
+    "hanja": "緊하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긴히",
+    "translation": "Яаралтай",
+    "hanja": "緊히",
+    "pos": "부사",
+    "cefr": "B2"
+  }
+]

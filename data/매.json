@@ -1,0 +1,1269 @@
+[
+  {
+    "word": "매",
+    "translation": "Бүс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매가리",
+    "translation": "хүч тамир",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "매각",
+    "translation": "худалдаалах",
+    "hanja": "賣却",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "매각되다",
+    "translation": "худалдагдсан, борлуулагдсан",
+    "hanja": "賣却되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "매각하다",
+    "translation": "худалдах",
+    "hanja": "賣却하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "매개",
+    "translation": "зуучлал",
+    "hanja": "媒介",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매개물",
+    "translation": "зуучлагч, дамжуулагч",
+    "hanja": "媒介物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매개자",
+    "translation": "зуучлагч",
+    "hanja": "媒介者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매개체",
+    "translation": "танилцуулах хэрэгсэл, дамжуулагч",
+    "hanja": "매개체",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매개하다",
+    "translation": "Зуучлах",
+    "hanja": "媒介하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매거",
+    "translation": "сэтгүүл",
+    "hanja": "매거",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "매곡",
+    "translation": "Майгок (газарзүйн нэр)",
+    "hanja": "梅谷",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매관매직",
+    "translation": "албан тушаал худалдах",
+    "hanja": "賣官賣職",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매구",
+    "translation": "илбэдэх",
+    "hanja": "魅句",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "매국",
+    "translation": "Эх орноосоо урвах",
+    "hanja": "賣國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매국노",
+    "translation": "урвагч",
+    "hanja": "賣國奴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매그놀리아",
+    "translation": "магнолиа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매기다",
+    "translation": "үнэлэх, дүгнэх",
+    "hanja": "매기다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매꾸다",
+    "translation": "нөхөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매끄럽다",
+    "translation": "гөлгөр",
+    "hanja": "null",
+    "pos": "ADJ",
+    "cefr": "B2"
+  },
+  {
+    "word": "매끈매끈하다",
+    "translation": "гөлгөр",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "매끈하다",
+    "translation": "гөлгөр",
+    "hanja": "null",
+    "pos": "ADJ",
+    "cefr": "B2"
+  },
+  {
+    "word": "매끌매끌하다",
+    "translation": "гөлгөр",
+    "hanja": "ㅡ",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매끼",
+    "translation": "Хоол болгон",
+    "hanja": "每끼",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매너",
+    "translation": "Ёс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매너리즘",
+    "translation": "хэв маяг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "매년",
+    "translation": "жил бүр",
+    "hanja": "每年",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매뉴얼",
+    "translation": "гарын авлага",
+    "hanja": "manual",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매니아",
+    "translation": "Маниа",
+    "hanja": "Mania",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매니저",
+    "translation": "менежер",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "매니지먼트",
+    "translation": "менежмент",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매니큐어",
+    "translation": "Маникюр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매니토바",
+    "translation": "Манитоба",
+    "hanja": "Manitoba",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매니페스토",
+    "translation": "тунхаглал, манифест",
+    "hanja": "Manifesto",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매니폴드",
+    "translation": "олон талын, янз бүрийн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매다",
+    "translation": "засах",
+    "hanja": "매다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매달",
+    "translation": "сар бүр",
+    "hanja": "每달",
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "매달리다",
+    "translation": "зүүгдэх",
+    "hanja": "매달리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매도",
+    "translation": "худалдах, муутган ярих",
+    "hanja": "賣渡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매도되다",
+    "translation": "худалдагдах",
+    "hanja": "罵倒되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "매도인",
+    "translation": "Худалдагч",
+    "hanja": "賣渡人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매도하다",
+    "translation": "буруушаах, ад үзэх, бүхэлд нь зарах",
+    "hanja": "罵倒/賣渡-하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매독",
+    "translation": "тэмбүү",
+    "hanja": "梅毒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매듭",
+    "translation": "зангилаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매듭짓다",
+    "translation": "Үйлсээ дуусгах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매디",
+    "translation": "Медди",
+    "hanja": "매디",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "매디슨",
+    "translation": "Мадисон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매력",
+    "translation": "Сэтгэл татам байдал",
+    "hanja": "魅力",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "매력적",
+    "translation": "сэтгэл татам",
+    "hanja": "魅力的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매렵다",
+    "translation": "бардам, ихэмсэг",
+    "hanja": "驕慢-",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "매료",
+    "translation": "сэтгэл татах, дур булаах",
+    "hanja": "魅了",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "매료당하다",
+    "translation": "Сэтгэл татагдах, уруу татагдах",
+    "hanja": "魅了當하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "매료되다",
+    "translation": "сэтгэл татагдах",
+    "hanja": "魅了되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "매료시키다",
+    "translation": "сэтгэлийг татах",
+    "hanja": "魅了시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매료하다",
+    "translation": "үзэсгэлэнтэй, татах",
+    "hanja": "魅了하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매리",
+    "translation": "давуу тал",
+    "hanja": "메리[트]",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매립",
+    "translation": "Газар дүүргэх",
+    "hanja": "埋立",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매립장",
+    "translation": "Хог хаягдлын цэг",
+    "hanja": "埋立場",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매립지",
+    "translation": "хогийн цэг, булшлах газар",
+    "hanja": "埋立地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매립하다",
+    "translation": "булах",
+    "hanja": "埋立하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매마르다",
+    "translation": "хатах",
+    "hanja": "매마르다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "매만지다",
+    "translation": "наах",
+    "hanja": "매만지다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매매",
+    "translation": "худалдаа, наймаа",
+    "hanja": "賣買",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매매되다",
+    "translation": "худалдагдах",
+    "hanja": "買賣되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매매하다",
+    "translation": "худалдах, худалдан авах",
+    "hanja": "賣買-",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "매머드",
+    "translation": "Мэмэнт",
+    "hanja": "mammoth",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매몰",
+    "translation": "булах, дарах",
+    "hanja": "埋沒",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "매몰되다",
+    "translation": "Булагдах, дарагдах",
+    "hanja": "埋沒되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매몰자",
+    "translation": "дарагдсан хүн",
+    "hanja": "埋沒者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매몰차다",
+    "translation": "хүйтэн, хатуу",
+    "hanja": "매몰차다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매무새",
+    "translation": "Гадаад байдал, өнгө үзэмж",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매물",
+    "translation": "худалдах бараа",
+    "hanja": "賣物",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "매미",
+    "translation": "царцаа",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "매번",
+    "translation": "Удаа бүр",
+    "hanja": "每番",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "매병",
+    "translation": "чанхлан зогссон ваар",
+    "hanja": "梅甁",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "매복",
+    "translation": "отолт",
+    "hanja": "매복(埋伏)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매복하다",
+    "translation": "отох",
+    "hanja": "埋伏하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매봉",
+    "translation": "мээбонг орой",
+    "hanja": "매봉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매부",
+    "translation": "хүргэн",
+    "hanja": "妹夫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매부리코",
+    "translation": "бүргэдийн хамар",
+    "hanja": "매부리코",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매사",
+    "translation": "Ажил бүр, үйлдэл бүр",
+    "hanja": "每事",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매사추세츠주",
+    "translation": "Массачусетс муж",
+    "hanja": "Massachusetts州",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매상",
+    "translation": "борлуулалт",
+    "hanja": "賣上",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매생이",
+    "translation": "далайн ургамал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매설",
+    "translation": "булах, газар доор тавих",
+    "hanja": "埋設",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매설되다",
+    "translation": "Ухаж дарах, булшлах",
+    "hanja": "埋設되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "매설하다",
+    "translation": "Булж суурилуулах",
+    "hanja": "埋設하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매섭다",
+    "translation": "ширүүн",
+    "hanja": "매섭다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매수",
+    "translation": "худалдан авах",
+    "hanja": "買收",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매수되다",
+    "translation": "худалдагдах, хахуульд идэгдэх",
+    "hanja": "買收되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매수인",
+    "translation": "худалдан авагч",
+    "hanja": "買受人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매수하다",
+    "translation": "худалдан авах",
+    "hanja": "買收하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매쉬",
+    "translation": "зутан",
+    "hanja": "Mash",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "매스",
+    "translation": "Олон нийт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매스껍다",
+    "translation": "дотор муухайрах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매스컴",
+    "translation": "Олон нийтийн мэдээллийн хэрэгсэл",
+    "hanja": "매스컴",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "매스터",
+    "translation": "мастер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매시",
+    "translation": "цаг бүр",
+    "hanja": "每時",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매시간",
+    "translation": "цаг тутам",
+    "hanja": "每時間",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매시트포테이토",
+    "translation": "нухаш, төмсний нухаш",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매실",
+    "translation": "чавга",
+    "hanja": "梅實",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매실주",
+    "translation": "чавганы дарс",
+    "hanja": "梅實酒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매양",
+    "translation": "үргэлж",
+    "hanja": "每樣",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매연",
+    "translation": "яндангийн утаа",
+    "hanja": "煤煙",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "매우다",
+    "translation": "дүүргэх",
+    "hanja": "메우다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매운맛",
+    "translation": "халуун амт",
+    "hanja": "매운맛",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매운탕",
+    "translation": "халуун ногоотой загасны шөл",
+    "hanja": "매운湯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매월",
+    "translation": "сар бүр",
+    "hanja": "每月",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매이",
+    "translation": "нэг буюу хоёр",
+    "hanja": "枚異",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매이다",
+    "translation": "Хүлэгдэх",
+    "hanja": "매이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매일",
+    "translation": "өдөр бүр",
+    "hanja": "每日",
+    "pos": "Adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "매일매일",
+    "translation": "өдөр бүр",
+    "hanja": "每日每日",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "매일반",
+    "translation": "өдөр бүр, тогтмол",
+    "hanja": "每日班",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "매입",
+    "translation": "худалдан авах",
+    "hanja": "買入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매입하다",
+    "translation": "Худалдан авах",
+    "hanja": "買入하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매장",
+    "translation": "Дэлгүүр",
+    "hanja": "賣場",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매장되다",
+    "translation": "оршуулагдах, булагдах",
+    "hanja": "埋葬되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매장량",
+    "translation": "нөөц",
+    "hanja": "埋藏量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "оршуулах",
+    "hanja": "埋葬하다",
+    "pos": "동사",
+    "cefr": "B2",
+    "word": "매장하다"
+  },
+  {
+    "word": "매점",
+    "translation": "дэлгүүр",
+    "hanja": "賣店",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매점매석",
+    "translation": "худалдаж авах, монопольчлох",
+    "hanja": "買占賣惜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매정하다",
+    "translation": "хатуу сэтгэлтэй",
+    "hanja": "N/A",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "매제",
+    "translation": "хүргэн",
+    "hanja": "妹弟",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "매주",
+    "translation": "Долоо хоног бүр",
+    "hanja": "毎週",
+    "pos": "Adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "매죽헌",
+    "translation": "Мэйжуон (хүний нэр эсвэл байршил)",
+    "hanja": "梅竹軒",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "매직",
+    "translation": "Ид шид",
+    "hanja": "magic",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매직컬",
+    "translation": "шидэт",
+    "hanja": "magical",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "매직펜",
+    "translation": "маркер",
+    "hanja": "magic pen",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "매직하다",
+    "translation": "шидэлдэх, хувиргах",
+    "hanja": "magic하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매진",
+    "translation": "бүх зүйл зарагдсан",
+    "hanja": "賣盡",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매진되다",
+    "translation": "Борлогдож дуусах",
+    "hanja": "賣盡되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매진하다",
+    "translation": "бүх хүчээ дайчлах",
+    "hanja": "邁進하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매질",
+    "translation": "Зүү",
+    "hanja": "매질",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매질하다",
+    "translation": "зодох, ташуурдах",
+    "hanja": "매質하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매집",
+    "translation": "цуглуулах",
+    "hanja": "買集",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매집하다",
+    "translation": "худалдан авах",
+    "hanja": "買集하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매천",
+    "translation": "Мэчон",
+    "hanja": "梅泉",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "매천야록",
+    "translation": "Мэчонъярок (ном)",
+    "hanja": "梅泉野錄",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "매체",
+    "translation": "Хэвлэл мэдээлэл",
+    "hanja": "媒體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매초",
+    "translation": "секунд тутамд",
+    "hanja": "每秒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매춘",
+    "translation": "биe үнэлэх, янханчлах",
+    "hanja": "賣春",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "매춘부",
+    "translation": "биеэ үнэлэгч",
+    "hanja": "賣春婦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매출",
+    "translation": "борлуулалт",
+    "hanja": "賣出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매출액",
+    "translation": "борлуулалтын хэмжээ",
+    "hanja": "賣出額",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매치",
+    "translation": "тэмцээн",
+    "hanja": "match",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매치되다",
+    "translation": "Тохирох",
+    "hanja": "Match되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매치하다",
+    "translation": "хоорондоо таарах, тохирох",
+    "hanja": "match-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매칭",
+    "translation": "тааруулах, нийцүүлэх",
+    "hanja": "matching",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매칭하다",
+    "translation": "тааруулах, тохируулах",
+    "hanja": "매칭하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매카시",
+    "translation": "Маккарти",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "매캐하다",
+    "translation": "хурц, гашуун",
+    "hanja": "",
+    "pos": "тэмдэг нэр",
+    "cefr": "B1"
+  },
+  {
+    "word": "매켄지",
+    "translation": "Макензи",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "매콤달콤하다",
+    "translation": "халуун амттай, чихэрлэг амттай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": null
+  },
+  {
+    "word": "매콤새콤하다",
+    "translation": "Халуун бөгөөд исгэлэн амттай",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매콤하다",
+    "translation": "халуун ногоотой",
+    "hanja": "매콤하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매크로",
+    "translation": "Макро",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "매클레인",
+    "translation": "Маклейн (хүний нэр)",
+    "hanja": "매클레인",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "매키다",
+    "translation": "багтах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "매킨리",
+    "translation": "МакКинли",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "매킨토시",
+    "translation": "Макинтош",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매트",
+    "translation": "дэвсгэр",
+    "hanja": "매트",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "매트리스",
+    "translation": "Гудас",
+    "hanja": "매트리스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매트릭스",
+    "translation": "матриц",
+    "hanja": "matrix",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매파",
+    "translation": "хатуу үзэлт",
+    "hanja": "매파",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "매표",
+    "translation": "тасалбар худалдах",
+    "hanja": "賣票",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매표소",
+    "translation": "тасалбар худалдаалах цэг",
+    "hanja": "賣票所",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매표원",
+    "translation": "кассчин",
+    "hanja": "賣票員",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "매핑",
+    "translation": "зураглал",
+    "hanja": "mapping",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "매한가지",
+    "translation": "Яг адилхан, нэг хэвээрээ",
+    "hanja": "매한가지",
+    "pos": "명사, 부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매해",
+    "translation": "Жил бүр",
+    "hanja": "每年",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매향",
+    "translation": "үнэр",
+    "hanja": "埋香",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매형",
+    "translation": "хүргэн ах",
+    "hanja": "妹兄",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매호",
+    "translation": "дугаар бүр",
+    "hanja": "每號",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매혹",
+    "translation": "сэтгэл татам",
+    "hanja": "魅惑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매혹당하다",
+    "translation": "Татагдах; дурлагдах",
+    "hanja": "魅惑당하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매혹되다",
+    "translation": "сэтгэл татагдах",
+    "hanja": "魅惑되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매혹시키다",
+    "translation": "Сэтгэлийг татах",
+    "hanja": "魅惑시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매혹적",
+    "translation": "сэтгэл татам",
+    "hanja": "魅惑的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매혹하다",
+    "translation": "сэтгэл татах",
+    "hanja": "魅惑하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매화",
+    "translation": "чангаанзны цэцэг",
+    "hanja": "梅花",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매회",
+    "translation": "бүх цуврал",
+    "hanja": "每回",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

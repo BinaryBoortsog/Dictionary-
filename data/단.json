@@ -1,0 +1,1514 @@
+[
+  {
+    "word": "단",
+    "translation": "Ганц, зөвхөн",
+    "hanja": "但",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단가",
+    "translation": "нэгжийн үнэ",
+    "hanja": "單價",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단감",
+    "translation": "амтат хүрэн",
+    "hanja": "丹감",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단거리",
+    "translation": "богино зай",
+    "hanja": "短距離",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단검",
+    "translation": "хутга",
+    "hanja": "단검(短劍)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단게",
+    "translation": "амттай хүнс",
+    "hanja": "啖鷄",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단견",
+    "translation": "богино хугацааны хараа",
+    "hanja": "短見",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "단결",
+    "translation": "эв нэгдэл",
+    "hanja": "團結",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "단결권",
+    "translation": "нэгдэх эрх",
+    "hanja": "團結權",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "단결되다",
+    "translation": "нэгдэх, нягтрах",
+    "hanja": "團結되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단결력",
+    "translation": "эв нэгдэл, нэгдэх чадвар",
+    "hanja": "團結力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단결심",
+    "translation": "Эв нэгдлийн сэтгэл",
+    "hanja": "團結心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단결하다",
+    "translation": "нэгдэх, эвлэх",
+    "hanja": "團結하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단계",
+    "translation": "үе шат, шат",
+    "hanja": "段階",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단계적",
+    "translation": "үе шаттай",
+    "hanja": "段階的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단골",
+    "translation": "байнгын үйлчлүүлэгч",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "단골손님",
+    "translation": "Байнгын үйлчлүүлэгч",
+    "hanja": " 단골손님",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단골집",
+    "translation": "байнгын үйлчлүүлэгчтэй газар",
+    "hanja": "단골집",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단과대",
+    "translation": "нэг факультеттай коллеж",
+    "hanja": "單科大",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단교",
+    "translation": "дипломат харилцаагаа таслах",
+    "hanja": "斷交",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "단교하다",
+    "translation": "Харилцаагаа таслах",
+    "hanja": "斷交하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "단구",
+    "translation": "богино үг хэллэг",
+    "hanja": "短句",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "단군",
+    "translation": "Тангүнь (солонгосын домогт хаан)",
+    "hanja": "檀君",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단궁",
+    "translation": "Богино нум",
+    "hanja": "短弓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단권",
+    "translation": "нэгэн боть",
+    "hanja": "單卷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단극",
+    "translation": "нэг туйл",
+    "hanja": "單極",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단근",
+    "translation": "үндэс огтлох",
+    "hanja": "斷根",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "단기",
+    "translation": "богино хугацааны",
+    "hanja": "短期",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "단기간",
+    "translation": "богино хугацаа",
+    "hanja": "短期間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단기적",
+    "translation": "богино хугацааны",
+    "hanja": "短期的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "단기전",
+    "translation": "Богино хугацааны тоглолт",
+    "hanja": "短期戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단꿈",
+    "translation": "амттай мөрөөдөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단내",
+    "translation": "чихрийн үнэр",
+    "hanja": "단내",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단념",
+    "translation": "орхих",
+    "hanja": "斷念",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "단념하다",
+    "translation": "орхих",
+    "hanja": "斷念하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "단님",
+    "translation": "Данним",
+    "hanja": "檀님",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "단단하다",
+    "translation": "хатуу",
+    "hanja": "단단하다",
+    "pos": "adj",
+    "cefr": "B1"
+  },
+  {
+    "word": "단단히",
+    "translation": "Бат бөх, нягт",
+    "hanja": "단단히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단답",
+    "translation": "товч хариулт",
+    "hanja": "短答",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단답형",
+    "translation": "богино хариулттай",
+    "hanja": "短答型",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단도",
+    "translation": "шууд, нэгэн агшинд",
+    "hanja": "單刀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단도직입적",
+    "translation": "шууд, эрс шууд",
+    "hanja": "單刀直入的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단독",
+    "translation": "ганц",
+    "hanja": "單獨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단독범",
+    "translation": "Ганцаар үйлдсэн гэмт хэрэгтэн",
+    "hanja": "單獨犯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단동",
+    "translation": "Ганц хүүхэд, ганц бие",
+    "hanja": "單童",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "단두대",
+    "translation": "гильотин",
+    "hanja": "斷頭臺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단둘",
+    "translation": "ганц хоёр",
+    "hanja": "單둘",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단둥",
+    "translation": "Дандун",
+    "hanja": "丹東",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단디",
+    "translation": "сайтар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단락",
+    "translation": "параграф, эргэлт",
+    "hanja": "段落",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "단란주점",
+    "translation": "караоке бар",
+    "hanja": "團欒酒點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단란하다",
+    "translation": "аз жаргалтай (гэр бүл)",
+    "hanja": "團欒하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단련",
+    "translation": "сайжруулах",
+    "hanja": "鍛鍊",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "단련되다",
+    "translation": "чангарсан",
+    "hanja": "鍛鍊되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "단련시키다",
+    "translation": "дасгалжуулах",
+    "hanja": "鍛鍊시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단련하다",
+    "translation": "бэхжүүлэх",
+    "hanja": "鍛鍊하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "단로",
+    "translation": "богино холболт",
+    "hanja": "短路",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단막",
+    "translation": "богино жүжиг, нэг хэсэг",
+    "hanja": "短幕",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "단막극",
+    "translation": "нэг үзэгдэлт жүжиг",
+    "hanja": "短幕劇",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "단말",
+    "translation": "төгсгөх",
+    "hanja": "端末",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단말기",
+    "translation": "терминал",
+    "hanja": "端末機",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단말마",
+    "translation": "үхлийн өвдөлт",
+    "hanja": "斷末魔",
+    "pos": "мөн",
+    "cefr": "C2"
+  },
+  {
+    "word": "단맛",
+    "translation": "амттай амт, чихэрлэг амт",
+    "hanja": "단맛",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "단면",
+    "translation": "хэсэг",
+    "hanja": "斷面",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단면도",
+    "translation": "хөндлөн огтлолын зураг, огтлол",
+    "hanja": "斷面圖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단면적",
+    "translation": "хөндлөн огтлол",
+    "hanja": "斷面積",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단명",
+    "translation": "Богино наслах",
+    "hanja": "短命",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "단명하다",
+    "translation": "богино наслах",
+    "hanja": "短命─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단모",
+    "translation": "богино үс",
+    "hanja": "短毛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단무지",
+    "translation": "Шар эргүүлэг",
+    "hanja": "단무지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단문",
+    "translation": "богино өгүүлбэр",
+    "hanja": "短文",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "단물",
+    "translation": "амттай ус",
+    "hanja": "단물",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단미",
+    "translation": "Хөөрхөн, хөөрхөн охин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단바",
+    "translation": "Тамба (Японы газар)",
+    "hanja": "丹波",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "단박",
+    "translation": "нэг дор",
+    "hanja": " danbak",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "단발",
+    "translation": "Богино үс, нэг удаагийн буудалт",
+    "hanja": "短髮/單發",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단발머리",
+    "translation": "богино үстэй",
+    "hanja": "斷髮머리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단발성",
+    "translation": "нэг удаагийн",
+    "hanja": "單發性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "단발하다",
+    "translation": "үс засах",
+    "hanja": "斷髮하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단방",
+    "translation": "Нэгэн зэрэг, шууд",
+    "hanja": "單方",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단백",
+    "translation": "Уураг",
+    "hanja": "蛋白",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단백질",
+    "translation": "уураг",
+    "hanja": "蛋白質",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "단벌",
+    "translation": "ганц хувцас",
+    "hanja": "單벌",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "단벽",
+    "translation": "Ганц хана",
+    "hanja": "單壁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단변",
+    "translation": "богино үг, хариу",
+    "hanja": "短辯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "단복",
+    "translation": "Иж бүрэн хувцас",
+    "hanja": "團服",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "단봉",
+    "translation": "ганц орой, нэг орой",
+    "hanja": "單峰",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "단부",
+    "translation": "Төгсгөл хэсэг",
+    "hanja": "端部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단비",
+    "translation": "ашигтай бороо",
+    "hanja": "단비",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단사",
+    "translation": "ганц утас",
+    "hanja": "單絲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단상",
+    "translation": "тайз",
+    "hanja": "壇上",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단색",
+    "translation": "нэг өнгө, дан өнгө",
+    "hanja": "單色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단서",
+    "translation": "сэжүүр",
+    "hanja": "端緖",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "단선",
+    "translation": "нэг шугам",
+    "hanja": "單線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단선적",
+    "translation": "нэг чиглэлтэй",
+    "hanja": "單線的",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "단세",
+    "translation": "тахилгын тавган дээрх савх",
+    "hanja": "壇稅",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "단세포",
+    "translation": "ганц эст эд",
+    "hanja": "單細胞",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "단소",
+    "translation": "ганц бие",
+    "hanja": "短簫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단속",
+    "translation": "хяналт, зохицуулалт",
+    "hanja": "團束",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단속되다",
+    "translation": "зогсоох, хяналтад орох",
+    "hanja": "團束되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단속반",
+    "translation": "хяналтын баг",
+    "hanja": "團束班",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "단속하다",
+    "translation": "Хянах",
+    "hanja": "團束하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "단수",
+    "translation": "ус таслах",
+    "hanja": "단수(斷水)",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "단순",
+    "translation": "энгийн, цэгцтэй",
+    "hanja": "單純",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단순명료하다",
+    "translation": "энгийн, тодорхой",
+    "hanja": "單純明瞭하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단순성",
+    "translation": "энгийн байдал",
+    "hanja": "單純性",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단순하다",
+    "translation": "энгийн",
+    "hanja": "單純하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "단순화",
+    "translation": "хялбарчлах",
+    "hanja": "單純化",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "단순화되다",
+    "translation": "хялбарчлагдах, энгийн болох",
+    "hanja": "單純化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단순화하다",
+    "translation": "хялбарчлах",
+    "hanja": "單純化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단순히",
+    "translation": "Зүгээр л, энгийнээр",
+    "hanja": "單純히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단시간",
+    "translation": "богино хугацаа",
+    "hanja": "短時間",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단식",
+    "translation": "мацаг барих",
+    "hanja": "斷食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단식하다",
+    "translation": "хоол хасах, өлсгөлөн зарлах",
+    "hanja": "斷食하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "단신",
+    "translation": "Ганц бие",
+    "hanja": "單身",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단심",
+    "translation": "Нэгэн сэтгэл, үнэнч сэтгэл",
+    "hanja": "丹心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단아하다",
+    "translation": "цэвэрхэн, дэгжин (эмэгтэйн хувьд)",
+    "hanja": "端雅하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단약",
+    "translation": "эм уухаа зогсоох",
+    "hanja": "斷藥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단양",
+    "translation": "Танян (хотын нэр)",
+    "hanja": "丹陽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단어",
+    "translation": "үг",
+    "hanja": "單語",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "단어장",
+    "translation": "үгийн дэвтэр",
+    "hanja": "單語帳",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단언",
+    "translation": "батлан хэлэх",
+    "hanja": "斷言",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "단언하다",
+    "translation": "Тууштай хэлэх",
+    "hanja": "斷言하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "단역",
+    "translation": "Жижиг дүр",
+    "hanja": "端役",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단연코",
+    "translation": "Эргэлзээгүй",
+    "hanja": "斷然코",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단열",
+    "translation": "дулаалга",
+    "hanja": "斷熱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단열재",
+    "translation": "дулаан тусгаарлагч материал",
+    "hanja": "斷熱材",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단오",
+    "translation": "Тано (5-р сарын 5-ны өдөр)",
+    "hanja": "端午",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단옷날",
+    "translation": "Далха өдөр",
+    "hanja": "端午날",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "단원",
+    "translation": "Гишүүн",
+    "hanja": "團員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단위",
+    "translation": "нэгж",
+    "hanja": "單位",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단이",
+    "translation": "дан баримт",
+    "hanja": "單-",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "단일",
+    "translation": "нэг",
+    "hanja": "單一",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단일성",
+    "translation": "нэгдмэл байдал",
+    "hanja": "單一性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단일하다",
+    "translation": "нэгдмэл",
+    "hanja": "單一하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "단일화",
+    "translation": "нэгтгэх",
+    "hanja": "單一化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단일화되다",
+    "translation": "нэгдэх",
+    "hanja": "單一化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단일화하다",
+    "translation": "нэгтгэх",
+    "hanja": "單一化―",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단자",
+    "translation": "холбогч",
+    "hanja": "端子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단잠",
+    "translation": "Амар тайван нойр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단장",
+    "translation": "Гоёх, чимэглэх",
+    "hanja": "丹粧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단장되다",
+    "translation": "гоёл чимэглэгдсэн",
+    "hanja": "丹粧되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단장하다",
+    "translation": "гоёх",
+    "hanja": "丹粧하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단재",
+    "translation": "цэвэрлэх (албан тушаалаас)",
+    "hanja": "斷裁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "단적",
+    "translation": "тодорхой",
+    "hanja": "端的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단전",
+    "translation": "цахилгаан тасрах",
+    "hanja": "斷電",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단절",
+    "translation": "Тасархай",
+    "hanja": "斷絕",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "단절되다",
+    "translation": "тасрах, хөндийрөх",
+    "hanja": "斷絶-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단절하다",
+    "translation": "таслах",
+    "hanja": "斷絶하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단점",
+    "translation": "Сул тал",
+    "hanja": "短點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단정",
+    "translation": "дүгнэлт",
+    "hanja": "斷定",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "단정되다",
+    "translation": "Тогтоогдох, батлагдах",
+    "hanja": "斷定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단정적",
+    "translation": "шийдвэртэй",
+    "hanja": "斷定的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단정하다",
+    "translation": "цэвэрхэн, нямбай",
+    "hanja": "端正하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단정히",
+    "translation": "цэвэрхэн, нямбай",
+    "hanja": "端正히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단조",
+    "translation": "хэвлэх",
+    "hanja": "鍛造",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단조롭다",
+    "translation": "нэгэн хэвийн",
+    "hanja": "單調롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단종",
+    "translation": "Үйлдвэрлэлээ зогсоох",
+    "hanja": "斷種",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단종되다",
+    "translation": "Үйлдвэрлэлээ зогсоох",
+    "hanja": "斷種되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단종하다",
+    "translation": "Үйлдвэрлэлийг зогсоох",
+    "hanja": "斷種하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단죄",
+    "translation": "ял оноох, буруушаах",
+    "hanja": "斷罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단죄하다",
+    "translation": "ял оноох",
+    "hanja": "斷罪하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "단주",
+    "translation": "Согтууруулах ундаанаас татгалзах",
+    "hanja": "斷酒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단증",
+    "translation": "Гэрчилгээ",
+    "hanja": "段證",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단지",
+    "translation": "зөвхөн",
+    "hanja": "但只",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단짝",
+    "translation": "Дотны найз",
+    "hanja": "단짝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단짠단짠",
+    "translation": "чихэрлэг, давслаг (амтны хослол)",
+    "hanja": "단짠단짠",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단차",
+    "translation": "жигд бус байдал, өндрийн зөрүү",
+    "hanja": "段差",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단창",
+    "translation": "Нэг давхар цонх",
+    "hanja": "單窓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단청",
+    "translation": "уламжлалт хээ угалзтай будаг",
+    "hanja": "丹靑",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "단체",
+    "translation": "байгууллага, бүлэг",
+    "hanja": "團體",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단체전",
+    "translation": "багийн тоглолт",
+    "hanja": "團體戰",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "단초",
+    "translation": "Эхлэл, эх үндэс",
+    "hanja": "端初",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단촐하다",
+    "translation": "энгийн, цомхон",
+    "hanja": "단촐하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단추",
+    "translation": "Товч",
+    "hanja": "단추",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "단축",
+    "translation": "богиносгох, хураах",
+    "hanja": "短縮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단축되다",
+    "translation": "богиносох, хураагдах",
+    "hanja": "短縮되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단축하다",
+    "translation": "Богиносгох, хураах",
+    "hanja": "短縮하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "단출하다",
+    "translation": "энгийн, цомхон",
+    "hanja": "單-하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단춧구멍",
+    "translation": "товчны нүх",
+    "hanja": "단춧구멍",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단층",
+    "translation": "нэг давхар",
+    "hanja": "單層",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "단층집",
+    "translation": "нэг давхар байшин",
+    "hanja": "單層집",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단치",
+    "translation": "ганц шүд",
+    "hanja": "單齒",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "단칸방",
+    "translation": "Нэг өрөө",
+    "hanja": "単칸房",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "단칼",
+    "translation": "ганц хутга",
+    "hanja": "單칼",
+    "pos": "сущ",
+    "cefr": "B1"
+  },
+  {
+    "word": "단콘",
+    "translation": "ганц бие тоглолт",
+    "hanja": "단콘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단타",
+    "translation": "богино хугацааны худалдаа",
+    "hanja": "短打",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단테",
+    "translation": "Данте",
+    "hanja": "",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "단파",
+    "translation": "богино долгион",
+    "hanja": "短波",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단판",
+    "translation": "Нэг үе, нэг удаагийн тоглолт",
+    "hanja": "單판",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단팥",
+    "translation": "амтат улаан шошны чанамал",
+    "hanja": "丹팥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단팥죽",
+    "translation": "амтат будааны зутан",
+    "hanja": "단팥粥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단편",
+    "translation": "богино хэмжээний",
+    "hanja": "短篇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단편집",
+    "translation": "богино өгүүллэгийн цуглуулга",
+    "hanja": "短編集",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단품",
+    "translation": "Нэг ширхэг бүтээгдэхүүн",
+    "hanja": "單品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단풍",
+    "translation": "намар навч",
+    "hanja": "丹楓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "단풍나무",
+    "translation": "агч мод",
+    "hanja": "丹楓나무",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "단풍놀이",
+    "translation": "намар навч үзэх аялал",
+    "hanja": "丹楓놀이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단풍잎",
+    "translation": "намар шарласан навч",
+    "hanja": "丹楓잎",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단하",
+    "translation": "тайван, сэтгэл тайван",
+    "hanja": "端雅",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "단합",
+    "translation": "нэгдэл, эв нэгдэл",
+    "hanja": "團合",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단합되다",
+    "translation": "нэгдэх",
+    "hanja": "團合되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단합하다",
+    "translation": "эвлэлдэн нэгдэх",
+    "hanja": "團合하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단항",
+    "translation": "нэг нэр томъёо",
+    "hanja": "單項",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단해",
+    "translation": "ганц тэнгис",
+    "hanja": "單海",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단행",
+    "translation": "Ганцхан удаа хийх",
+    "hanja": "斷行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단행되다",
+    "translation": "гүйцэтгэх",
+    "hanja": "斷行되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단행본",
+    "translation": "ганц боть ном",
+    "hanja": "單行本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단행하다",
+    "translation": "гүйцэтгэх, хийх",
+    "hanja": "斷行-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단향",
+    "translation": "зандан модны үнэр",
+    "hanja": "檀香",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단형",
+    "translation": "богино хэлбэр",
+    "hanja": "單型",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단호",
+    "translation": "шийдвэртэй, тууштай",
+    "hanja": "斷乎",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단호박",
+    "translation": "хулуу",
+    "hanja": "단호박",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "단호하다",
+    "translation": "шийдвэртэй байх",
+    "hanja": "斷乎하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단호히",
+    "translation": "хатуу ширүүн",
+    "hanja": "斷乎히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단화",
+    "translation": "Богино түрийтэй гутал",
+    "hanja": "短靴",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

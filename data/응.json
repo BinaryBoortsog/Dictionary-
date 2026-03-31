@@ -1,0 +1,527 @@
+[
+  {
+    "word": "응",
+    "translation": "тийм",
+    "hanja": null,
+    "pos": "interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "응가",
+    "translation": "Баас (хүүхдийн хэллэг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "응가하다",
+    "translation": "баас хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "응결",
+    "translation": "агшилт",
+    "hanja": "凝結",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응결되다",
+    "translation": "Нэгдэх, бөөгнөрөх, 응결되다",
+    "hanja": "凝結되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응결하다",
+    "translation": "Нягтарших",
+    "hanja": "凝結하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "응고",
+    "translation": "бөглөрөх",
+    "hanja": "凝固",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "응고되다",
+    "translation": "Бэхжих, царцах",
+    "hanja": "凝固되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응급",
+    "translation": "Яаралтай тусламж",
+    "hanja": "應急",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "응급실",
+    "translation": "яаралтай тусламжийн өрөө",
+    "hanja": "응급실(應急室)",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "응급조치",
+    "translation": "анхны тусламж",
+    "hanja": "應急措置",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "응급하다",
+    "translation": "яаралтай",
+    "hanja": "應急하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응달",
+    "translation": "сүүдэр",
+    "hanja": "陰 달",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "응달지다",
+    "translation": "Сүүдэрлэх, сүүдэр татаж байна",
+    "hanja": "陰 달지다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "응답",
+    "translation": "хариу",
+    "hanja": "應答",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "응답률",
+    "translation": "хариу өгөх хувь",
+    "hanja": "應答率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응답자",
+    "translation": "хариулагч",
+    "hanja": "應答者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "응답하다",
+    "translation": "Хариулах",
+    "hanja": "應答하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "응대",
+    "translation": "хариулах",
+    "hanja": "應對",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응대하다",
+    "translation": "хариулах, хариу өгөх",
+    "hanja": "應對하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응력",
+    "translation": "Хүчдэл",
+    "hanja": "應力",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "응모",
+    "translation": "оролцох, өргөдөл гаргах",
+    "hanja": "応募",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응모되다",
+    "translation": "өргөдөл гаргах",
+    "hanja": "應募되다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "응모자",
+    "translation": "оролцогч, бүртгүүлэгч",
+    "hanja": "應募者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응모작",
+    "translation": "уралдаанд ирүүлсэн бүтээл",
+    "hanja": "應募作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응모하다",
+    "translation": "бүртгүүлэх",
+    "hanja": "應募하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "응방",
+    "translation": "бүргэдийн анчдын газар",
+    "hanja": "鷹坊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응보",
+    "translation": "хариу нэхэх, нүгэл буянгийн үр",
+    "hanja": "應報",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응봉",
+    "translation": "Унгбон",
+    "hanja": "鷹峰",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "응분",
+    "translation": "зохих ёсоор",
+    "hanja": "應分",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "응사",
+    "translation": "хариу үйлдэл",
+    "hanja": "應射",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응사하다",
+    "translation": "хариулах",
+    "hanja": "應射하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응석",
+    "translation": "эрхлүүлэлт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응속",
+    "translation": "хариу урвал",
+    "hanja": "應俗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응수",
+    "translation": "хариу нэхэх, хариу өгөх",
+    "hanja": "應酬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응수하다",
+    "translation": "хариулах, хариу үйлдэл хийх",
+    "hanja": "應手하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응시",
+    "translation": "Ширтэх",
+    "hanja": "凝視",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "응시자",
+    "translation": "шалгуулагч",
+    "hanja": "應試者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응시하다",
+    "translation": "ширтэх",
+    "hanja": "凝視하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "응신",
+    "translation": "Хариу үйлдэл үзүүлэх",
+    "hanja": "應身",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "응아",
+    "translation": "Баас",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "응암",
+    "translation": "Ынгам",
+    "hanja": "鷹岩",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "응애",
+    "translation": "мөлхөгч, хүүхэд (дуудлага)",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "응애응애",
+    "translation": "уйлах дуу",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "응어리",
+    "translation": "бөөрөнхий, үрчилсэн зүйл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응어리지다",
+    "translation": "бөөн болох, бөөрөнхий болох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응오",
+    "translation": "унго",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": null
+  },
+  {
+    "word": "응용",
+    "translation": "Хэрэглээ",
+    "hanja": "應用",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "응용되다",
+    "translation": "хэрэглэгдэх, ашиглагдах",
+    "hanja": "應用되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응용하다",
+    "translation": "хэрэглэх, ашиглах",
+    "hanja": "應用하다(응용하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응원",
+    "translation": "дэмжлэг",
+    "hanja": "應援",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "응원가",
+    "translation": "дэмжлэг үзүүлэх дуу",
+    "hanja": "應援歌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "응원군",
+    "translation": "туслах хүчин, нэмэлт цэрэг",
+    "hanja": "應援軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응원단",
+    "translation": "хөгжөөн дэмжигчдийн баг",
+    "hanja": "응원단(應援團)",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "응원석",
+    "translation": "Дэмжигчдийн суудал",
+    "hanja": "應援席",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "응원전",
+    "translation": "хөгжөөн дэмжих кампанит ажил",
+    "hanja": "應援戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응원하다",
+    "translation": "дэмжих, хөгжөөн дэмжих",
+    "hanja": "應援하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "응응",
+    "translation": "мм-м",
+    "hanja": "응응",
+    "pos": "interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "응전",
+    "translation": "тулалдах",
+    "hanja": "應戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응전하다",
+    "translation": "хариу тулалдах, хариулах",
+    "hanja": "應戰하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응접",
+    "translation": "Зочин хүлээн авах",
+    "hanja": "應接",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "응접세트",
+    "translation": "зочны өрөөний тавилга",
+    "hanja": "應接세트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "응접실",
+    "translation": "хүлээн авах өрөө",
+    "hanja": "應接室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "응집",
+    "translation": "Нэгдэх",
+    "hanja": "凝集",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응집되다",
+    "translation": "бөөгнөрөх, нягтрах",
+    "hanja": "凝集되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응집력",
+    "translation": "Нэгдэх чадвар",
+    "hanja": "凝集力",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "응집하다",
+    "translation": "бөөгнөрүүлэх",
+    "hanja": "凝集-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응징",
+    "translation": "шил, шийтгэл",
+    "hanja": "膺懲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응징하다",
+    "translation": "шийтгэх",
+    "hanja": "膺懲하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응차",
+    "translation": "тухайн үед",
+    "hanja": "應次",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "응축",
+    "translation": "өтгөрөх",
+    "hanja": "凝縮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응축되다",
+    "translation": "Асхруулах",
+    "hanja": "凝縮되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응축하다",
+    "translation": "Конденсатлах, хураах",
+    "hanja": "凝縮하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "응큼하다",
+    "translation": "заваан, бузар, муу санаат",
+    "hanja": "null",
+    "pos": "형용사 (Adjective)",
+    "cefr": "B1"
+  },
+  {
+    "word": "응하다",
+    "translation": "хариу өгөх, хүлээн авах",
+    "hanja": "應하다",
+    "pos": "verb",
+    "cefr": "B2"
+  }
+]

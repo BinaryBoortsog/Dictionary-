@@ -1,0 +1,1941 @@
+[
+  {
+    "word": "선",
+    "translation": "шугам",
+    "hanja": "線",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선각",
+    "translation": "алсын хараатай хүн",
+    "hanja": "先覚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선각자",
+    "translation": "сэтгэгч",
+    "hanja": "先覺者",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선객",
+    "translation": "буддын лам",
+    "hanja": "禪客",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선거",
+    "translation": "сонгууль",
+    "hanja": "選擧",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "선거구",
+    "translation": "сонгуулийн тойрог",
+    "hanja": "選擧區",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선거권",
+    "translation": "сонгох эрх",
+    "hanja": "選擧權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선거일",
+    "translation": "Сонгуулийн өдөр",
+    "hanja": "選擧日",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "선거전",
+    "translation": "сонгуулийн кампанит ажил",
+    "hanja": "選擧戰",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선거철",
+    "translation": "сонгуулийн үе",
+    "hanja": "選擧철",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선거하다",
+    "translation": "Сонгох",
+    "hanja": "選擧하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "선견지명",
+    "translation": "урдчилан харах",
+    "hanja": "先見之明",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선결",
+    "translation": "урьдчилан шийдэх",
+    "hanja": "先決",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선결제하다",
+    "translation": "урьдчилж төлөх",
+    "hanja": "先決濟하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선경",
+    "translation": "үнэхээр гоё үзэгдэл",
+    "hanja": "仙境(선경)",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선계",
+    "translation": "Үлгэрийн орон",
+    "hanja": "仙界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선고",
+    "translation": "шийдвэр, зарлиг",
+    "hanja": "宣告",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선고되다",
+    "translation": "яллагдах",
+    "hanja": "宣告되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선고하다",
+    "translation": "шийдвэр гаргах",
+    "hanja": "宣告하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "선곡",
+    "translation": "Дуу сонгох",
+    "hanja": "選曲",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "선곡하다",
+    "translation": "дуу сонгох",
+    "hanja": "選曲하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선공",
+    "translation": "эхэлж довтлох, эхэлж тоглох",
+    "hanja": "先攻",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선공개되다",
+    "translation": "Өмнө нь нийтэд тавигдах",
+    "hanja": "先公開되다",
+    "pos": "동사 (Verb)",
+    "cefr": "B2"
+  },
+  {
+    "word": "선공개하다",
+    "translation": "өмнө нь нийтлэх",
+    "hanja": "先公開하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선공하다",
+    "translation": "өмнө нь дайрах",
+    "hanja": "先攻하다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "선관",
+    "translation": "ахлагч",
+    "hanja": "善官",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선관위",
+    "translation": "сонгуулийн хороо",
+    "hanja": "選管委",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "선광",
+    "translation": "гэрэлтүүлэг",
+    "hanja": "선광(閃光)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선교",
+    "translation": "номын айлтгал",
+    "hanja": "宣敎",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선교사",
+    "translation": "номийн багш",
+    "hanja": "宣敎師",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선교하다",
+    "translation": "номын айлтгал хийх",
+    "hanja": "宣敎하다",
+    "pos": "үйл үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "선교회",
+    "translation": "шашны номлогчийн нийгэмлэг",
+    "hanja": "宣敎會",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선구",
+    "translation": "Анхдагч, урдаа барих",
+    "hanja": "先驅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선구매하다",
+    "translation": "урьдчилан худалдан авах",
+    "hanja": "先購買하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선구자",
+    "translation": "Анхдагч, пионер",
+    "hanja": "先驅者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선구적",
+    "translation": "анхдагч",
+    "hanja": "先驅的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선국",
+    "translation": "диваажин",
+    "hanja": "仙國",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선군",
+    "translation": "арми нэгдүгээрт",
+    "hanja": "先軍",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "선규",
+    "translation": "захирагч",
+    "hanja": "善規",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선그라스",
+    "translation": "нарны шил",
+    "hanja": "선글라스",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "선글라스",
+    "translation": "нарны шил",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "선금",
+    "translation": "урьдчилгаа мөнгө",
+    "hanja": "先金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선급",
+    "translation": "Урьдчилгаа төлбөр",
+    "hanja": "先給",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선기",
+    "translation": "бурханчлаг чанар",
+    "hanja": "仙氣",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "선남선녀",
+    "translation": "сайхан залуус",
+    "hanja": "善男善女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선납",
+    "translation": "урьдчилгаа төлбөр",
+    "hanja": "先納",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "선납하다",
+    "translation": "урьдчилан төлөх",
+    "hanja": "先納하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선내",
+    "translation": "онгоцны дотор",
+    "hanja": "船內",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선녀",
+    "translation": "дагина",
+    "hanja": "仙女",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선단",
+    "translation": "хүч",
+    "hanja": "船團",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선달",
+    "translation": "түрүүлж ирэх",
+    "hanja": "先達",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선대왕",
+    "translation": "Өмнөх хаан",
+    "hanja": "先大王",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "선대하다",
+    "translation": "урьдчилан төлөх",
+    "hanja": "先代하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선덕",
+    "translation": "Сондок хатан хаан",
+    "hanja": "善德",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "선도",
+    "translation": "хууль сахиулах",
+    "hanja": "善導",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "선도자",
+    "translation": "Манлайлагч",
+    "hanja": "先導者",
+    "pos": "Нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "선도적",
+    "translation": "Тэргүүлэх",
+    "hanja": "先導的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선도하다",
+    "translation": "тэргүүлэх",
+    "hanja": "先導하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선동",
+    "translation": "Өдөөн хатгах, турхирах",
+    "hanja": "煽動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선동가",
+    "translation": "уриалагч",
+    "hanja": "煽動家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선동되다",
+    "translation": "өдөөн хатгагдах",
+    "hanja": "煽動되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "선동적",
+    "translation": "өгөөмөр",
+    "hanja": "煽動的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선동하다",
+    "translation": "айлган сүрдүүлэх, уриалах",
+    "hanja": "煽動-하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선두",
+    "translation": "Хамгийн түрүүнд, тэргүүлэгч",
+    "hanja": "先頭",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "선득하다",
+    "translation": "гэнэт хүйт оргих",
+    "hanja": null,
+    "pos": "т.ү.",
+    "cefr": "B2"
+  },
+  {
+    "word": "선디",
+    "translation": "сандэй (зайрмаг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선뜩하다",
+    "translation": "хүйт даах, сэрүүцэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선뜻",
+    "translation": "шууд",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선뜻하다",
+    "translation": "хүйтэн сэрүүхэн",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "선라이즈",
+    "translation": "наран мандах",
+    "hanja": "선라이즈",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "선량",
+    "translation": "сайн сэтгэлтэй",
+    "hanja": "善良",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "선량하다",
+    "translation": "сайхан сэтгэлтэй, уриалгахан",
+    "hanja": "善良하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선령",
+    "translation": "усан онгоцны нас",
+    "hanja": "船齡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선례",
+    "translation": "өмнөх жишиг, үлгэр жишээ",
+    "hanja": "先例",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선로",
+    "translation": "Зам",
+    "hanja": "線路",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "선루프",
+    "translation": "нарны дээвэр",
+    "hanja": "선루프",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "선릉",
+    "translation": "Соннын бунхан",
+    "hanja": "宣陵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "хүсэл тэмүүлэл",
+    "hanja": "羨望",
+    "pos": "명사",
+    "cefr": "C1",
+    "word": "선망"
+  },
+  {
+    "word": "선망하다",
+    "translation": " атаархах, бишрэх",
+    "hanja": "羨望하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선머슴",
+    "translation": "мунхаг зарц, яльгүй завтай зарц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선명",
+    "translation": "тодорхой",
+    "hanja": "鮮明",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선명하다",
+    "translation": "Тод",
+    "hanja": "鮮明하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선명히",
+    "translation": "Тод",
+    "hanja": "鮮明히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선무",
+    "translation": "суртал ухуулга хийх",
+    "hanja": "宣撫",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선무당",
+    "translation": "Туршлагагүй бөө, шинэ бөө",
+    "hanja": "譃巫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선문",
+    "translation": "Зэнгийн асуулт, сүмийн ёслол",
+    "hanja": "禪門",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선문답",
+    "translation": "Зэн бясалгал",
+    "hanja": "禪問答",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선물",
+    "translation": "бэлэг",
+    "hanja": "膳物",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "선물하다",
+    "translation": "Бэлэглэх",
+    "hanja": "膳物하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "선미",
+    "translation": "Завины хойд хэсэг",
+    "hanja": "船尾",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선민의식",
+    "translation": "сонгогдсон хүмүүсийн сэтгэлгээ",
+    "hanja": "選民意識",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선박",
+    "translation": "хөлөг онгоц",
+    "hanja": "선박(船舶)",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선반",
+    "translation": "тавиур",
+    "hanja": "膳棚",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "선반영되다",
+    "translation": "урьдчилан тусгагдах",
+    "hanja": "先反映되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선발",
+    "translation": "сонгох",
+    "hanja": "選拔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선발대",
+    "translation": "тэргүүлэх анги",
+    "hanja": "先發隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선발되다",
+    "translation": "сонгогдох",
+    "hanja": "選拔되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선발전",
+    "translation": "Сонгон шалгаруулах тэмцээн",
+    "hanja": "選拔戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선발팀",
+    "translation": "сонгон шалгаруулах баг",
+    "hanja": "選拔팀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선발하다",
+    "translation": "Сонгох",
+    "hanja": "選拔하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선방",
+    "translation": "сайн хийх",
+    "hanja": "善防",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선방하다",
+    "translation": "Үлгэр жишээ байх",
+    "hanja": "善防하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선배",
+    "translation": "ахлах, ах эгч",
+    "hanja": "先輩",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "선번",
+    "translation": "нарны түлэгдэлт",
+    "hanja": "sunburn",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선법",
+    "translation": "аргуун, ёс журам",
+    "hanja": "選法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선벨트",
+    "translation": "нартай бүс",
+    "hanja": "Sun Belt",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선별",
+    "translation": "Сонгох",
+    "hanja": "選別",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선별되다",
+    "translation": "сонгогдох",
+    "hanja": "選別되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선별적",
+    "translation": "сонгомол",
+    "hanja": "選別的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "선별하다",
+    "translation": "Сонгох",
+    "hanja": "選別하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "선보",
+    "translation": "урьдчилан танилцуулах",
+    "hanja": " 선보",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선보다",
+    "translation": "танилцах уулзалт хийх (гэрлэх зорилгоор)",
+    "hanja": "膳—",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선보이다",
+    "translation": "үзүүлэх",
+    "hanja": "膳보이다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "선봉",
+    "translation": "тэргүүлэх, авангард",
+    "hanja": "先鋒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선봉대",
+    "translation": "авангард, тэргүүн эгнээ",
+    "hanja": "先鋒隊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선봉장",
+    "translation": "тэргүүн",
+    "hanja": "先鋒將",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선뵈다",
+    "translation": "үзүүлэх",
+    "hanja": " 선보이다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "선분",
+    "translation": "шулуун шугам",
+    "hanja": "線分",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선불",
+    "translation": "урьдчилгаа төлбөр",
+    "hanja": "先拂",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선비",
+    "translation": "Эрдэмтэн / Ноён",
+    "hanja": "선비",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선사",
+    "translation": "Бэлэглэх",
+    "hanja": "膳賜",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선사하다",
+    "translation": "Бэлэглэх",
+    "hanja": "膳賜하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "선산",
+    "translation": "удам угсааны булш",
+    "hanja": "先山",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선상",
+    "translation": "Онгоцон дээр, хөлөг онгоцон дээр",
+    "hanja": "船上",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선생",
+    "translation": "багш",
+    "hanja": "先生",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "선생님",
+    "translation": "багш",
+    "hanja": "先生님",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "선서",
+    "translation": "тангараг",
+    "hanja": "宣誓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선서문",
+    "translation": "тангарагийн бичиг",
+    "hanja": "宣誓文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선서하다",
+    "translation": "тангараглах",
+    "hanja": "宣誓하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선석",
+    "translation": "онгоцны буудал",
+    "hanja": "船席",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선선하다",
+    "translation": "сэрүүхэн",
+    "hanja": "宣宣하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선선히",
+    "translation": "аяархан, сэрүүнхэн",
+    "hanja": "先先히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선세",
+    "translation": "өмнөх үе",
+    "hanja": "先世",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선수",
+    "translation": "тамирчин",
+    "hanja": "選手",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선수권",
+    "translation": "аварга шалгаруулах тэмцээн",
+    "hanja": "選手權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선수단",
+    "translation": "Тамирчдын баг",
+    "hanja": "選手團",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선수촌",
+    "translation": "Тамирчдын тосгон",
+    "hanja": "選手村",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선수하다",
+    "translation": "урьтаж хийх",
+    "hanja": "先手하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선숙",
+    "translation": "түрүүлж унтах",
+    "hanja": "先熟",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선순환",
+    "translation": "эерэг эргэлт, сайн цикл",
+    "hanja": "善循環",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선술집",
+    "translation": "бар, паб",
+    "hanja": "膳述집",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선스크린",
+    "translation": "нарны тос",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "선승",
+    "translation": "буддын лам",
+    "hanja": "禪僧",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "선식",
+    "translation": "түүхий хоол",
+    "hanja": "禪食",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선신",
+    "translation": "бурхан, сайн сүнс",
+    "hanja": "善神",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선실",
+    "translation": "хөлгийн тасалгаа",
+    "hanja": "船室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선심",
+    "translation": "сайхан сэтгэл",
+    "hanja": "善心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선악",
+    "translation": "сайн муу",
+    "hanja": "善惡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선악과",
+    "translation": "сайн мууг ялгах модны жимс",
+    "hanja": "善惡果",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선암",
+    "translation": "зөв чулуу",
+    "hanja": "仙岩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선약",
+    "translation": "өмнөх томилолт",
+    "hanja": "先約",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선양",
+    "translation": "Шэньян",
+    "hanja": "瀋陽",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "선양하다",
+    "translation": "сурталчлах",
+    "hanja": "宣揚하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선어",
+    "translation": "шинэхэн загас",
+    "hanja": "鮮魚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선언",
+    "translation": "туйлын",
+    "hanja": "宣言",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "선언되다",
+    "translation": "туун зарлагдах",
+    "hanja": "宣言되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선언문",
+    "translation": "тушаал",
+    "hanja": "宣言文",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선언서",
+    "translation": "туйлын бичиг",
+    "hanja": "宣言書",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선언적",
+    "translation": "тунхаглалын",
+    "hanja": "宣言的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선언하다",
+    "translation": "зарлах",
+    "hanja": "宣言하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "선업",
+    "translation": "буян, сайн үйл",
+    "hanja": "善業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선역",
+    "translation": "сайн үйлс",
+    "hanja": "善役",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선연",
+    "translation": "тодорхой, шийдэмгий",
+    "hanja": "鮮然",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선연습",
+    "translation": "Угжрах бэлтгэл",
+    "hanja": "禪練習",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선연하다",
+    "translation": "тодорхой, тод, гэрэлтсэн",
+    "hanja": "鮮演하다",
+    "pos": "т.ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "선열",
+    "translation": "үе үеийн баатар",
+    "hanja": "선열(先烈)",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선예도",
+    "translation": "тодорхой байдал, хурц тод байдал",
+    "hanja": "鮮銳度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선왕",
+    "translation": "талийгаач хаан",
+    "hanja": "先王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선외",
+    "translation": "Гадна тал, гадаад",
+    "hanja": "船外",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "선용",
+    "translation": "сайтар ашиглах",
+    "hanja": "善用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선우",
+    "translation": "Сонү",
+    "hanja": "鮮于",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선원",
+    "translation": "далайчин",
+    "hanja": "船員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선위",
+    "translation": "Хаан ширээг шилжүүлэх",
+    "hanja": "禪位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선의",
+    "translation": "Сайн санаа, зорилго",
+    "hanja": "善意",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선이",
+    "translation": "Шугам, хүрээ",
+    "hanja": "線이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선인",
+    "translation": "сайн хүн",
+    "hanja": "善人",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선인장",
+    "translation": "Кактус",
+    "hanja": "仙人掌",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "선임",
+    "translation": "Ахмад ажилтан/удирдагч",
+    "hanja": "先任",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선임되다",
+    "translation": "Томилогдох, сонгогдох (албан тушаалд)",
+    "hanja": "選任되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선임하다",
+    "translation": "томилох, сонгох",
+    "hanja": "選任하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선입",
+    "translation": "урьдчилан орох, түрүүлж орох",
+    "hanja": "先入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선입견",
+    "translation": "Урьдчилсан төсөөлөл",
+    "hanja": "先入見",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "선입관",
+    "translation": "урьдчилсан ойлголт",
+    "hanja": "先入觀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선입금하다",
+    "translation": "урьдчилгаа төлөх",
+    "hanja": "先入金하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선자",
+    "translation": "сонгогч",
+    "hanja": "選者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선잠",
+    "translation": "богино нойр",
+    "hanja": "淺잠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선장",
+    "translation": "ахмад",
+    "hanja": "船長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선재",
+    "translation": "Утас",
+    "hanja": "線材",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선적",
+    "translation": "ачаа ачих",
+    "hanja": "船積",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선적되다",
+    "translation": "ачигдах",
+    "hanja": "船積되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선적하다",
+    "translation": "ачих, хөлөг онгоцонд ачих",
+    "hanja": "船積하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "선전",
+    "translation": "Сурталчилгаа",
+    "hanja": "宣傳",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선전되다",
+    "translation": "сурталчлагдах",
+    "hanja": "宣傳되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "선전물",
+    "translation": "сурталчилгааны материал",
+    "hanja": "宣傳物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선전용",
+    "translation": "сурталчилгааны, суртал ухуулгын",
+    "hanja": "宣傳用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선전하다",
+    "translation": "сурталчлах",
+    "hanja": "宣傳하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선점",
+    "translation": "өмнө нь эзлэх",
+    "hanja": "先占",
+    "pos": "name",
+    "cefr": "C1"
+  },
+  {
+    "word": "선점하다",
+    "translation": "Өрсөж эзлэх",
+    "hanja": "先占하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선정",
+    "translation": "сонголт",
+    "hanja": "選定",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선정되다",
+    "translation": "сонгогдох, шилэгдэх",
+    "hanja": "選定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선정성",
+    "translation": "садар самуун",
+    "hanja": "煽情性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선정적",
+    "translation": "садар самуун",
+    "hanja": "煽情的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선정하다",
+    "translation": "сонгох",
+    "hanja": "選定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선제",
+    "translation": "урьдчилан тавих заалт",
+    "hanja": "先制",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "선제공격",
+    "translation": "урьдчилан довтлох",
+    "hanja": "先制攻擊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선제공격하다",
+    "translation": "Урьдчилан довтлох",
+    "hanja": "先制攻擊하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선제타격",
+    "translation": "урьдчилан цохилт өгөх",
+    "hanja": "先制打擊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선조",
+    "translation": "өвөг дээдэс",
+    "hanja": "선조",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선종",
+    "translation": "Буддын шашны нэг урсгал (Зэн буддизм)",
+    "hanja": "禪宗",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선종하다",
+    "translation": "Нас барах",
+    "hanja": "善終하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선주",
+    "translation": "хөлөг онгоцны эзэн",
+    "hanja": "船主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선죽교",
+    "translation": "Сонжүк гүүр",
+    "hanja": "善竹橋",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선지",
+    "translation": "цус",
+    "hanja": "鮮血",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선지급하다",
+    "translation": "Урьдчилан төлөх",
+    "hanja": "先支給하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선지자",
+    "translation": "бошиглогч",
+    "hanja": "先知者",
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "선진",
+    "translation": "хөгжингүй, дэвшилтэт",
+    "hanja": "先進",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선진국",
+    "translation": "Хөгжингүй орон",
+    "hanja": "先進國",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선진적",
+    "translation": "дэвшилттэй",
+    "hanja": "先進的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "선진화",
+    "translation": "дэвшилтэт болгох",
+    "hanja": "先進化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선진화되다",
+    "translation": "дэвшилттэй болсон",
+    "hanja": "先進化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선집",
+    "translation": "сонгодог бүтээлийн цуглуулга",
+    "hanja": "選集",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선짓국",
+    "translation": "цустай шөл",
+    "hanja": "선짓국",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선착",
+    "translation": "Эхэлсэн",
+    "hanja": "先着",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선착순",
+    "translation": "эхний хүмүүст",
+    "hanja": "先着順",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선착장",
+    "translation": "завины зогсоол",
+    "hanja": "船着場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선창",
+    "translation": "онгоцны зогсоол",
+    "hanja": "船艙",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "선창하다",
+    "translation": "Дуулах эхлэх",
+    "hanja": "先唱하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선채",
+    "translation": "сэлүүрт завь",
+    "hanja": "船艙",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선처",
+    "translation": "сайхан хандлага",
+    "hanja": " seoncheo",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "선처하다",
+    "translation": "шийдвэрлэх",
+    "hanja": "善處하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선천",
+    "translation": "Төрөлхийн",
+    "hanja": "先天",
+    "pos": "명사/관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선천성",
+    "translation": "төрөлхийн",
+    "hanja": "先天性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선천적",
+    "translation": "төрөлхийн",
+    "hanja": "先天적",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "선체",
+    "translation": "Хөлгийн их бие",
+    "hanja": "船體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선축",
+    "translation": "урд талын нутаг, (зураг) эхний зураг",
+    "hanja": "先軸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선출",
+    "translation": "сонгох",
+    "hanja": "選出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선출되다",
+    "translation": "сонгогдох",
+    "hanja": "選出되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선출하다",
+    "translation": "сонгох",
+    "hanja": "選出하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "선충",
+    "translation": "нематод",
+    "hanja": "線蟲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선취",
+    "translation": "өмнө нь авах, түрүүлэн авах",
+    "hanja": "先取",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선친",
+    "translation": "талийгаач эцэг",
+    "hanja": "선친(先親)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선태",
+    "translation": "үр хөврөл",
+    "hanja": "蘚苔",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선택",
+    "translation": "сонголт",
+    "hanja": "選擇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선택권",
+    "translation": "сонгох эрх",
+    "hanja": "選擇權",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선택되다",
+    "translation": "сонгогдох",
+    "hanja": "選擇되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "선택적",
+    "translation": "сонголтот",
+    "hanja": "選擇的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선택하다",
+    "translation": "сонгох",
+    "hanja": "選擇하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "선탠",
+    "translation": "шарлах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "선팅",
+    "translation": "нарны хамгаалалттай шил",
+    "hanja": "No Hanja",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선포",
+    "translation": "тушаал",
+    "hanja": "宣布",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선포되다",
+    "translation": "зарлагдах",
+    "hanja": "宣布되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선포하다",
+    "translation": "Тушаах, зарлах",
+    "hanja": "宣布—",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "선풍",
+    "translation": "салхины үзэгдэл, шуурга",
+    "hanja": "旋風",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "선풍기",
+    "translation": "Сэнс",
+    "hanja": "扇風機",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "선풍적",
+    "translation": "салхи давалгаа мэт",
+    "hanja": "旋風的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선하다",
+    "translation": "сайн (хүн)",
+    "hanja": "善하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선학",
+    "translation": "урьдын судлал",
+    "hanja": "先學",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선행",
+    "translation": "сайн үйл",
+    "hanja": "善行",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "선행되다",
+    "translation": "өмнө нь явагдах",
+    "hanja": "先行되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "선행상",
+    "translation": "сайн үйлсийн шагнал",
+    "hanja": "善行賞",
+    "pos": "NNG",
+    "cefr": "B2"
+  },
+  {
+    "word": "선행하다",
+    "translation": "Өмнө нь хийх, урьдчилан гүйцэтгэх",
+    "hanja": "先行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선향",
+    "translation": "бүх зүгт үнэрлэх",
+    "hanja": "善香",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선혈",
+    "translation": "Шинэхэн цус",
+    "hanja": "鮮血",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선형",
+    "translation": "шугаман",
+    "hanja": "線形",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선혜청",
+    "translation": "сонгэчон (Солонгосын Жосонь улсын байгууллага)",
+    "hanja": "宣惠廳",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "선호",
+    "translation": "илүүд үзэх",
+    "hanja": "選好",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선호도",
+    "translation": "таашаал",
+    "hanja": "選好度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선호되다",
+    "translation": "илүүд үзэгдэх, таашаагдах",
+    "hanja": "選好되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선호하다",
+    "translation": "илүүд үзэх",
+    "hanja": "選好하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "선홍",
+    "translation": "тод улаан",
+    "hanja": "鮮紅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선홍색",
+    "translation": "тод улаан өнгө",
+    "hanja": "鮮紅色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선화",
+    "translation": "сайн үйл, буян",
+    "hanja": "善化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선황",
+    "translation": "Өмнөх хаан",
+    "hanja": "先皇",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선회",
+    "translation": "эргэлдэх, тойрох",
+    "hanja": "旋回",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선회하다",
+    "translation": "эргэх, тойрох",
+    "hanja": "旋回하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "선후배",
+    "translation": "Ах, дүү (сургуулийн/ажлын)",
+    "hanja": "先後輩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선히",
+    "translation": "тодорхой",
+    "hanja": "鮮히",
+    "pos": "부사",
+    "cefr": "B2"
+  }
+]

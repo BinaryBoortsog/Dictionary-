@@ -1,0 +1,3152 @@
+[
+  {
+    "word": "소",
+    "translation": "үхэр",
+    "hanja": "소",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소가죽",
+    "translation": "үхрийн арьс",
+    "hanja": "所가죽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소각",
+    "translation": "Шатаах",
+    "hanja": "燒却",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소각되다",
+    "translation": "шатаагдах",
+    "hanja": "燒却되다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "소각로",
+    "translation": "шатаах зуух",
+    "hanja": "燒却爐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소각장",
+    "translation": "Шатаах газар",
+    "hanja": "燒却場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소각하다",
+    "translation": "Шатаах",
+    "hanja": "燒却하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소갈머리",
+    "translation": "хөдөлгөөний, зодооны",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소갈비찜",
+    "translation": "үхрийн хавирганы шөл",
+    "hanja": "소갈비찜",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소감",
+    "translation": "сэтгэгдэл",
+    "hanja": "所感",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소감하다",
+    "translation": "сэтгэгдэл илэрхийлэх",
+    "hanja": "所感하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소강",
+    "translation": "намжмал байдал",
+    "hanja": "小康",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소강당",
+    "translation": "жижиг танхим",
+    "hanja": "小講堂",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소개",
+    "translation": "танилцуулга",
+    "hanja": "紹介",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "소개되다",
+    "translation": "танилцуулагдах",
+    "hanja": "紹介되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소개비",
+    "translation": "зуучлалын хураамж",
+    "hanja": "紹介費",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소개서",
+    "translation": "танилцуулга",
+    "hanja": "紹介書",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "소개소",
+    "translation": "зуучлах газар",
+    "hanja": "紹介所",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소개장",
+    "translation": "танилцуулга бичиг",
+    "hanja": "紹介狀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소개팅",
+    "translation": "танилцуулгын болзоо",
+    "hanja": "紹介팅",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "소개팅하다",
+    "translation": "сохор болзоотой болох",
+    "hanja": "紹介팅하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소개하다",
+    "translation": "танилцуулах",
+    "hanja": "紹介하다",
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "소거",
+    "translation": "устгах",
+    "hanja": "消去",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소거되다",
+    "translation": "устгагдах",
+    "hanja": "消去되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소거하다",
+    "translation": "устгах, арчих",
+    "hanja": "消去하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소검",
+    "translation": "бага сэлэм",
+    "hanja": "小劍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소견",
+    "translation": "үзэл бодол, санал",
+    "hanja": "所見",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소견서",
+    "translation": "санал хүсэлт, дүгнэлт",
+    "hanja": "所見書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소경",
+    "translation": "сохор",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소고",
+    "translation": "жижиг бөмбөр",
+    "hanja": "小鼓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소고기",
+    "translation": "үхрийн мах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "소고깃집",
+    "translation": "үр хоолны газар",
+    "hanja": null,
+    "pos": "NNG",
+    "cefr": "A2"
+  },
+  {
+    "word": "소곤거리다",
+    "translation": "Шивнэх",
+    "hanja": "소곤거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소곤대다",
+    "translation": "Шивнэх, сэм хувьсах",
+    "hanja": "---",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "소곤소곤",
+    "translation": "шившигнэх, хов жив ярих, нам гүм ярих",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소공",
+    "translation": "Жижиг нүх",
+    "hanja": "小孔",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소공원",
+    "translation": "жижиг цэцэрлэгт хүрээлэн",
+    "hanja": "小公園",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소과",
+    "translation": "Бага жимс",
+    "hanja": "小果",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소관",
+    "translation": "Хариуцсан хэрэг, хамаарал",
+    "hanja": "所管",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소구",
+    "translation": "нэхэмжлэх, шаардах",
+    "hanja": "訴求",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소구하다",
+    "translation": "хохирлыг авахыг шаардах",
+    "hanja": "遡求하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소국",
+    "translation": "жижиг улс",
+    "hanja": "小國",
+    "pos": "name",
+    "cefr": "B2"
+  },
+  {
+    "word": "소굴",
+    "translation": "үүр",
+    "hanja": " sogul",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소권",
+    "translation": "нэхэмжлэх эрх",
+    "hanja": "訴權",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소규모",
+    "translation": "жижиг хэмжээний",
+    "hanja": "小規模",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소극",
+    "translation": "хошин шог",
+    "hanja": "笑劇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소극장",
+    "translation": "бага театр",
+    "hanja": "小劇場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소극적",
+    "translation": "идэвхгүй, сөрөг",
+    "hanja": "消極的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소근",
+    "translation": "сог үг",
+    "hanja": "소근",
+    "pos": "명",
+    "cefr": "B2"
+  },
+  {
+    "word": "소근거리다",
+    "translation": "шивших, хов жив ярих",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "소근소근",
+    "translation": "шивнээ, сэм сэм",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소금",
+    "translation": "давс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "소금기",
+    "translation": "давсны амт, давсжилт",
+    "hanja": "소금기",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소금물",
+    "translation": "Давстай ус",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "소금장수",
+    "translation": "Давсчин (давс зардаг хүн)",
+    "hanja": "소금장수",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소금쟁이",
+    "translation": "усан гахай",
+    "hanja": "소금쟁이",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소급",
+    "translation": "Ухран эргэх",
+    "hanja": "遡及",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소기업",
+    "translation": "Жижиг бизнес",
+    "hanja": "小企業",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소꼬리",
+    "translation": "үхрийн сүүл",
+    "hanja": "소꼬리",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "소꿉",
+    "translation": "тоголчны тоглоом, бяцхан хэрэгсэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소꿉놀이",
+    "translation": "хүүхдийн тоглоом",
+    "hanja": "소꿉놀이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소꿉놀이하다",
+    "translation": "хүүхдийн тоглоом тоглох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소꿉장난",
+    "translation": "хүүхдийн тоглоом, соёлын тоглоом",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소꿉장난하다",
+    "translation": "хүүхэлдэйн тоглоом тоглох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소나",
+    "translation": "соно",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소나기",
+    "translation": "аадар бороо",
+    "hanja": "소나기",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소나무",
+    "translation": "нарс",
+    "hanja": "소나무",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소나이",
+    "translation": "залуу, хөвгүүн (хуучин хэллэг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소나타",
+    "translation": "сонат (хөгжмийн зохиомж)",
+    "hanja": "Sonata",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소낙비",
+    "translation": "Аадар бороо",
+    "hanja": "소낙비",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소낭",
+    "translation": "жижиг уут",
+    "hanja": "小囊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소네트",
+    "translation": "сонет",
+    "hanja": "소네트",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소녀",
+    "translation": "Охин",
+    "hanja": "少女",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "소녀소녀하다",
+    "translation": "охин шиг",
+    "hanja": "少女少女하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소녀스럽다",
+    "translation": "Охин шиг",
+    "hanja": "少女스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소년",
+    "translation": "хөвгүүн",
+    "hanja": "少年",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소년기",
+    "translation": "бага нас, хүүхэд нас",
+    "hanja": "少年期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소년원",
+    "translation": "хүүхдийн засан хүмүүжүүлэх газар",
+    "hanja": "少年院",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "소노",
+    "translation": "Хүндэтгэх",
+    "hanja": "疏奴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소노마",
+    "translation": "Сонома",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소뇌",
+    "translation": "Бага тархи",
+    "hanja": "小腦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소니",
+    "translation": "Сони",
+    "hanja": "소니",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "소님",
+    "translation": "ноёд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소다",
+    "translation": "сод",
+    "hanja": "소다",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소다수",
+    "translation": "содын ус",
+    "hanja": "소다水",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소단원",
+    "translation": "дэд бүлэг",
+    "hanja": "小單元",
+    "pos": "NNG",
+    "cefr": "B2"
+  },
+  {
+    "word": "소달구지",
+    "translation": "үнээний тэрэг",
+    "hanja": "소달구지",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소담스럽다",
+    "translation": "элбэг дэлбэг",
+    "hanja": "소담스럽다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "소담하다",
+    "translation": "бялхсан, дүүрэн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소대",
+    "translation": "баг",
+    "hanja": "小隊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소대원",
+    "translation": "тасгийн гишүүн",
+    "hanja": "小隊員",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "소대장",
+    "translation": "цэргийн дарга",
+    "hanja": "소대장(小隊長)",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소도",
+    "translation": "бяцхан арал",
+    "hanja": "小島",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소도구",
+    "translation": "Жижиг хэрэгсэл, өргөтгөсөн хэрэгсэл",
+    "hanja": "小道具",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소도둑",
+    "translation": "үхэр хулгайч",
+    "hanja": "소도둑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소도시",
+    "translation": "жижиг хот",
+    "hanja": "小都市",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소독",
+    "translation": "ариутгал",
+    "hanja": "消毒",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소독되다",
+    "translation": "ариутгагдах, халдваргүйжүүлэх",
+    "hanja": "消毒되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소독약",
+    "translation": "Ариутгалын эм",
+    "hanja": "消毒藥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소독하다",
+    "translation": "ариутгах",
+    "hanja": "消毒하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "소돔",
+    "translation": "Содом",
+    "hanja": "Sodom",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소동",
+    "translation": "Хуйвалдаан",
+    "hanja": "騷動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소동하다",
+    "translation": "үймүүлэх",
+    "hanja": "騷動하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "소두",
+    "translation": "жижиг толгой",
+    "hanja": "小頭",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소듐",
+    "translation": "натри",
+    "hanja": "소듐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소드락",
+    "translation": "хурц, гүн гүнзгий (дууны)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소득",
+    "translation": "орлого",
+    "hanja": "所得",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소득세",
+    "translation": "Орлогын татвар",
+    "hanja": "所得稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소들다",
+    "translation": "гарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소등",
+    "translation": "гэрэл унтраах",
+    "hanja": "消燈",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소등하다",
+    "translation": "Гэрлийг унтраах",
+    "hanja": "消燈-",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "소떡",
+    "translation": "соус хийсэн талх",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소똥",
+    "translation": "үхрийн баас",
+    "hanja": "소똥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소띠",
+    "translation": "Үхэр жил",
+    "hanja": "소띠",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소라",
+    "translation": "дух",
+    "hanja": "소라",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소라게",
+    "translation": "далайн нялцгай биетэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소란",
+    "translation": "үймээн",
+    "hanja": "騷亂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소란스럽다",
+    "translation": "Шуугиант",
+    "hanja": "騷亂스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "소란스레",
+    "translation": "үймээн самуун",
+    "hanja": "騷亂스레",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "소란하다",
+    "translation": "шуумгай, үймээн самуунтай",
+    "hanja": "騷亂하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소랑",
+    "translation": "Соран (нэрийг)",
+    "hanja": null,
+    "pos": "н.н.",
+    "cefr": "C2"
+  },
+  {
+    "word": "소량",
+    "translation": "бага хэмжээ",
+    "hanja": "少量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소렌토",
+    "translation": "Соренто",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소렐",
+    "translation": "шар будаа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소련",
+    "translation": "Зөвлөлт Холбоот Улс",
+    "hanja": "蘇聯",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소령",
+    "translation": "майор",
+    "hanja": "少領",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소로",
+    "translation": "бороотой",
+    "hanja": "小路",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "소론",
+    "translation": "багахан хэлэлцүүлэг",
+    "hanja": "小論",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소롱포",
+    "translation": "шөлний бууз",
+    "hanja": "小籠包",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소름",
+    "translation": "арьс өрвийх",
+    "hanja": "소름",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소리",
+    "translation": "дуу",
+    "hanja": "소리",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "소리글자",
+    "translation": "авианы үсэг, фонограм",
+    "hanja": "소리글자",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소리꾼",
+    "translation": "Дуучин (уламжлалт)",
+    "hanja": "소리꾼",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소리소리",
+    "translation": "чангаар орилох",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소리쟁이",
+    "translation": "шар мод",
+    "hanja": "소리쟁이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소리치다",
+    "translation": "Хашгирах, орилох",
+    "hanja": "소리치다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소리통",
+    "translation": "дууны хайрцаг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소리하다",
+    "translation": "үгүйсгэх",
+    "hanja": "疎離하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소린",
+    "translation": "дуу хоолой",
+    "hanja": "소린",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "소림",
+    "translation": "Шуулин(сүмийн нэр)",
+    "hanja": "少林",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소립자",
+    "translation": "элементар бөөмс",
+    "hanja": "素粒子",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "소마",
+    "translation": "сома",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소만",
+    "translation": "бага дүүрэн",
+    "hanja": "小滿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소말리아",
+    "translation": "Сомали",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "소망하다",
+    "translation": "хүсэх",
+    "hanja": "所望하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소매",
+    "translation": "Ханцуй",
+    "hanja": "小賣",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소매가",
+    "translation": "жижиглэнгийн үнэ",
+    "hanja": "小賣價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소매상",
+    "translation": "жижиглэн худалдаа",
+    "hanja": "小賣商",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소매업",
+    "translation": "жижиглэн худалдаа",
+    "hanja": "小賣業",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소매점",
+    "translation": "жижиглэнгийн худалдааны дэлгүүр",
+    "hanja": "小賣店",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소매치기",
+    "translation": "Халтас",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소매치기하다",
+    "translation": "Түрийвч хулгайлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소매통",
+    "translation": "ханцуй",
+    "hanja": "소매통",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소맥",
+    "translation": "Сожү болон пивоны хольц",
+    "hanja": "燒麥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소맷부리",
+    "translation": "ханцуйны үзүүр",
+    "hanja": "소맷부리",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소맷자락",
+    "translation": "ханцуйны үзүүр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소면",
+    "translation": "Нимгэн гоймон",
+    "hanja": "素麵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소멸",
+    "translation": "устгах",
+    "hanja": "消滅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소멸되다",
+    "translation": "устах",
+    "hanja": "消滅—",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "소멸시키다",
+    "translation": "устгах",
+    "hanja": "消滅시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소멸하다",
+    "translation": "устгах",
+    "hanja": "消滅하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "소명",
+    "translation": "зэвсэг",
+    "hanja": "疏明",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소명하다",
+    "translation": "дуудагдах, тайлбарлах, нотлох",
+    "hanja": "召命/疏明-하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소모",
+    "translation": "хэрэглээ, зарцуулалт",
+    "hanja": "消耗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소모되다",
+    "translation": "хэрэглэгдэх, зарцуулагдах",
+    "hanja": "消耗되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "소모임",
+    "translation": "жижиг цуглаан",
+    "hanja": "小모임",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소모적",
+    "translation": "зардалтай",
+    "hanja": "消耗的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소모전",
+    "translation": "шавхагдах дайн",
+    "hanja": "消耗戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소모품",
+    "translation": "хэрэглээний материал",
+    "hanja": "消耗品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소모하다",
+    "translation": "хэрэглэх, зарцуулах",
+    "hanja": "消耗하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소목",
+    "translation": "мод (засах)",
+    "hanja": "小木",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "소묘",
+    "translation": "зураг, эскиз",
+    "hanja": "素描",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소문",
+    "translation": "цуу",
+    "hanja": "所聞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소문나다",
+    "translation": "цуурах",
+    "hanja": "所聞나다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "소문내다",
+    "translation": "цуурхал тараах",
+    "hanja": "所聞내다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소문자",
+    "translation": "жижиг үсэг",
+    "hanja": "小文字",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소믈리에",
+    "translation": "сомелье",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소미",
+    "translation": "Жаалхан амт",
+    "hanja": "小味",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소바",
+    "translation": "соба (гоймон)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소박",
+    "translation": "энгийн, даруу",
+    "hanja": "素樸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소박맞다",
+    "translation": "орхигдох",
+    "hanja": "疎薄맞다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소박하다",
+    "translation": "энгийн",
+    "hanja": "素朴하다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "소반",
+    "translation": "жижиг ширээ",
+    "hanja": "小盤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소발",
+    "translation": "жолоогүй",
+    "hanja": "素髮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소방",
+    "translation": "гал түймэр унтраах",
+    "hanja": "消防",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소방관",
+    "translation": "гал сөнөөгч",
+    "hanja": "消防官",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소방서",
+    "translation": "Гал түймрийн газар",
+    "hanja": "消防署",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소방수",
+    "translation": "гал сөнөөгч",
+    "hanja": "消防手",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소방차",
+    "translation": "галын машин",
+    "hanja": "消防車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소백산",
+    "translation": "Субэк уул",
+    "hanja": "小白山",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "소백산맥",
+    "translation": "Собаек нуруу",
+    "hanja": "小白山脈",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소범",
+    "translation": "бага хэмжээ",
+    "hanja": "小範",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소변",
+    "translation": "шээс",
+    "hanja": "小便",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소변보다",
+    "translation": "Шээх",
+    "hanja": "小便보다",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "소보",
+    "translation": "Хишиг, тэтгэмж",
+    "hanja": "小補",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소보로빵",
+    "translation": "соборо талх",
+    "hanja": "소보로빵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소복",
+    "translation": "энгийн хувцас",
+    "hanja": "素服",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소복소복",
+    "translation": "бум бум, дүүрэн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소복하다",
+    "translation": "дүүрэн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소부",
+    "translation": "будааны будаа",
+    "hanja": "소부",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소부장",
+    "translation": "Бага дэд дарга",
+    "hanja": "小部長",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소북",
+    "translation": "жижиг бөмбөр",
+    "hanja": "小鼓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소분",
+    "translation": "хуваан савлах, жижиг хэмжээгээр хуваах",
+    "hanja": "小分",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소분하다",
+    "translation": "хуваарилах",
+    "hanja": "小分하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "소비",
+    "translation": "хэрэглээ",
+    "hanja": "消費",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소비되다",
+    "translation": "хэрэглэгдэх",
+    "hanja": "消費되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "소비량",
+    "translation": "хэрэглээний хэмжээ",
+    "hanja": "消費量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소비세",
+    "translation": "хэрэглээний татвар",
+    "hanja": "消費稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소비액",
+    "translation": "зардал",
+    "hanja": "消費額",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소비에트",
+    "translation": "зөвлөлт",
+    "hanja": "No Hanja",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소비자",
+    "translation": "хэрэглэгч",
+    "hanja": "消費者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소비하다",
+    "translation": "хэрэглэх",
+    "hanja": "消費하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소빙하기",
+    "translation": "жижиг мөстлөгийн үе",
+    "hanja": "小氷河期",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소뿔",
+    "translation": "үхрийн эвэр",
+    "hanja": "소뿔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소사",
+    "translation": "Шатаах",
+    "hanja": "燒死",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소산",
+    "translation": "үр дүн",
+    "hanja": "所産",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소상",
+    "translation": "дэлгэрэнгүй",
+    "hanja": "昭詳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소상하다",
+    "translation": "томоохон",
+    "hanja": "昭詳하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소상히",
+    "translation": "тодорхой, дэлгэрэнгүй",
+    "hanja": "詳",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소생",
+    "translation": "сэргэх, амь орох",
+    "hanja": "蘇生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소생수",
+    "translation": "сэргээх ус",
+    "hanja": "蘇生水",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소생시키다",
+    "translation": "сэхээх, амилуулах",
+    "hanja": "蘇生시키다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "소생하다",
+    "translation": "Амилах, сэргэх",
+    "hanja": "蘇生하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "소서",
+    "translation": "Бага халуун (24 улирлын нэг)",
+    "hanja": "小暑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소석",
+    "translation": "цөөн тооны хүн",
+    "hanja": "小石",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소설",
+    "translation": "роман",
+    "hanja": "小說",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "소설가",
+    "translation": "зохиолч",
+    "hanja": "小說家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소설책",
+    "translation": "зохиолын ном",
+    "hanja": "小說冊",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소설화하다",
+    "translation": "роман болгох",
+    "hanja": "小說化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소성",
+    "translation": "шатаах, хатаах (керамик)",
+    "hanja": "燒成",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소세지",
+    "translation": "хиам, зайдас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소셜",
+    "translation": "Нийгмийн",
+    "hanja": "social",
+    "pos": "명사/관형사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소소",
+    "translation": "Жижиг сажиг, бага зэрэг",
+    "hanja": "小小",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소소하다",
+    "translation": "жижиг сажиг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소속",
+    "translation": "харьяалал",
+    "hanja": "所屬",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소속감",
+    "translation": "харьяалагдах мэдрэмж",
+    "hanja": "所屬感",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소속되다",
+    "translation": "харьяалагдах",
+    "hanja": "所屬-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소속하다",
+    "translation": "харьяалагдах",
+    "hanja": "所屬하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "소손",
+    "translation": "шатаах, гэмтээх",
+    "hanja": "燒損",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소손녕",
+    "translation": "Со Сонён (хүний нэр)",
+    "hanja": "蕭遜寧",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소송",
+    "translation": "Шүүхийн нэхэмжлэл, шүүхдээн",
+    "hanja": "訴訟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소송법",
+    "translation": "шударга ёсны хууль",
+    "hanja": "訴訟法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소송비",
+    "translation": "шүүхийн зардал",
+    "hanja": "訴訟費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소송장",
+    "translation": "нэхэмжлэх",
+    "hanja": "訴訟狀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소송하다",
+    "translation": "Шүүхэд зарга үүсгэх",
+    "hanja": "訴訟하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "소수",
+    "translation": "цөөхөн",
+    "hanja": "少數",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소수당",
+    "translation": "цөөнхийн нам",
+    "hanja": "少數黨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소수림왕",
+    "translation": "Сосуримван",
+    "hanja": "小獸林王",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소수점",
+    "translation": "аравтын бутархай",
+    "hanja": "小數點",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소수파",
+    "translation": "Цөөнх",
+    "hanja": "少數派",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소스",
+    "translation": "соус",
+    "hanja": "sauce",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "소스라치다",
+    "translation": "Хөл нь гарах, гэнэт цочих",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소슬하다",
+    "translation": "сэрүүхэн, зүрх шимшрэм",
+    "hanja": "蕭瑟하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소승",
+    "translation": "хүлэг, бага хөлгөн",
+    "hanja": "小乘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소시",
+    "translation": "Бага нас",
+    "hanja": "少時",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소시민",
+    "translation": "жижиг хотын иргэн",
+    "hanja": "小市民",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소시민적",
+    "translation": "жижиг хотын иргэнлэг",
+    "hanja": "小市民的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소시지",
+    "translation": "Хиам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "소식",
+    "translation": "мэдээ, сураг",
+    "hanja": "消息",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소식가",
+    "translation": "бага иддэг хүн",
+    "hanja": "小食家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소식통",
+    "translation": "мэдээллийн эх сурвалж",
+    "hanja": "消息通",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소식하다",
+    "translation": "бага идэх",
+    "hanja": "少食하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소신",
+    "translation": "хувийн итгэл үнэмшил",
+    "hanja": "所信",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소신껏",
+    "translation": "өөрийн итгэлээр",
+    "hanja": "所信껏",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소실",
+    "translation": "шатах, алга болох",
+    "hanja": "焼失",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소실되다",
+    "translation": "үгүй болох, шатах",
+    "hanja": "燒失되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "소실하다",
+    "translation": "шатаж алга болох",
+    "hanja": "燒失하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소심",
+    "translation": "аймхай",
+    "hanja": "小心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소심하다",
+    "translation": "хулчгар, аймхай",
+    "hanja": "小心하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소싯적",
+    "translation": "залуу насанд, бага насанд",
+    "hanja": "少時적",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소아",
+    "translation": "хүүхэд",
+    "hanja": "小兒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소아과",
+    "translation": "Хүүхдийн эмнэлэг",
+    "hanja": "小兒科",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소아마비",
+    "translation": "полиомиелит",
+    "hanja": "小兒麻痺",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소애",
+    "translation": "жижиг хайр",
+    "hanja": "小愛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소액",
+    "translation": "бага хэмжээний мөнгө",
+    "hanja": "少額",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소야",
+    "translation": "Сояа",
+    "hanja": "小夜",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소양",
+    "translation": "чадвар, боловсрол",
+    "hanja": "素養",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소여",
+    "translation": "өгөгдсөн, гарсан",
+    "hanja": "所與",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소염",
+    "translation": "Үрэвслийг дарах",
+    "hanja": "消炎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소오",
+    "translation": "Бага Од",
+    "hanja": "小五",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소오름",
+    "translation": "арьс өрвийх, айх",
+    "hanja": "소오름",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소왕",
+    "translation": "Бага хаан",
+    "hanja": "小王",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소왕국",
+    "translation": "жижиг хаант улс",
+    "hanja": "小王國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소외",
+    "translation": "гадуурхагдах",
+    "hanja": "疎外",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소외감",
+    "translation": "гадуурхагдсан байдал",
+    "hanja": "疎外感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소외당하다",
+    "translation": "гадуурхагдах",
+    "hanja": "疏外當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소외되다",
+    "translation": "гадуурхагдах, тусгаарлагдах",
+    "hanja": "疎外되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소외시키다",
+    "translation": "гадагшлуулах",
+    "hanja": "疎外시키다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "소요",
+    "translation": "үймээн",
+    "hanja": "騷擾",
+    "pos": "сущ",
+    "cefr": "B2"
+  },
+  {
+    "word": "소요되다",
+    "translation": "Шаардагдах",
+    "hanja": "所要되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "소요량",
+    "translation": "Шаардлагатай хэмжээ",
+    "hanja": "所要量",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소요하다",
+    "translation": "шаардах",
+    "hanja": "所要하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소용",
+    "translation": "Хэрэглээ, ашиг тус",
+    "hanja": "所用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소용돌이",
+    "translation": "хуй салхи, эргүүлэг",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소용돌이치다",
+    "translation": "хуйларч эргэх",
+    "hanja": "騷擾-치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소용되다",
+    "translation": "ашиглагдах",
+    "hanja": "所用되다",
+    "pos": "VV",
+    "cefr": "B2"
+  },
+  {
+    "word": "소용없다",
+    "translation": "хэрэггүй",
+    "hanja": "所用없다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소용없이",
+    "translation": "үүний хэрэггүй",
+    "hanja": "所用─",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소울",
+    "translation": "Сүнс",
+    "hanja": "Soul",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소원",
+    "translation": "хүсэл",
+    "hanja": "所願",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소원하다",
+    "translation": "Хүсэх",
+    "hanja": "所願하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소월",
+    "translation": "Совол (хүний нэр)",
+    "hanja": "素月",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소위",
+    "translation": "ихэнхдээ",
+    "hanja": "所謂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소유",
+    "translation": "Өмчлөх / Эзэмших",
+    "hanja": "소유 (所有)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소유권",
+    "translation": "Өмчлөх эрх",
+    "hanja": "所有權",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소유되다",
+    "translation": "Өмчлөгдөх",
+    "hanja": "所有되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소유물",
+    "translation": "өмч",
+    "hanja": "所有物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소유욕",
+    "translation": "өмчлөх хүсэл",
+    "hanja": "所有欲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소유자",
+    "translation": "өмчлөгч",
+    "hanja": "所有者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소유주",
+    "translation": "Эзэмшигч",
+    "hanja": "所有主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소유하다",
+    "translation": "Эзэмших",
+    "hanja": "所有하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "소음",
+    "translation": "Дуу чимээ",
+    "hanja": "騷音",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "소읍",
+    "translation": "жижиг хот",
+    "hanja": "小邑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소의",
+    "translation": "хуучин хувцас",
+    "hanja": "素衣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소이하다",
+    "translation": "утга учиртай байх",
+    "hanja": "所以하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소인",
+    "translation": "Хувь хүн",
+    "hanja": "小人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소인배",
+    "translation": "жижиг хүн, ёс суртахуунгүй хүн",
+    "hanja": "小人輩",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "소일",
+    "translation": "цагаан махны идээ",
+    "hanja": "消日",
+    "pos": "NNG",
+    "cefr": "B2"
+  },
+  {
+    "word": "소일거리",
+    "translation": "цаг нөхцөөх зүйл",
+    "hanja": "消日거리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소일하다",
+    "translation": "цагийг өнгөрөөх",
+    "hanja": "消日하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소임",
+    "translation": "үүрэг",
+    "hanja": "所任",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소자",
+    "translation": "бага хэрэглэгч",
+    "hanja": "小子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소자본",
+    "translation": "бага хөрөнгө",
+    "hanja": "小資本",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소작",
+    "translation": "газар тариалан",
+    "hanja": "小作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소작농",
+    "translation": "тариачин (газар эзэмшигч)",
+    "hanja": "小作農",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소작료",
+    "translation": "түрээсийн төлбөр",
+    "hanja": "小作料",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소작인",
+    "translation": "газар тариаланч, үрээчин",
+    "hanja": "小作人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소장",
+    "translation": "захирал, хурандаа",
+    "hanja": "所長",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소장되다",
+    "translation": "хадгалагдах, цуглуулагдах",
+    "hanja": "所藏되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소장파",
+    "translation": "залуу үеийн, залуу хүч",
+    "hanja": "少壯派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소장품",
+    "translation": "цуглуулгын зүйл",
+    "hanja": "所藏品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소장하다",
+    "translation": "эзэмших, хадгалах",
+    "hanja": "所藏하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소재",
+    "translation": "материал, сэдэл",
+    "hanja": "素材",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소재지",
+    "translation": "байршил",
+    "hanja": "所在地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소재하다",
+    "translation": "орших",
+    "hanja": "所在하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소저",
+    "translation": "Эмэгтэй",
+    "hanja": "小姐",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소절",
+    "translation": "Хөгжмийн бадгууд",
+    "hanja": "小節",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소점",
+    "translation": "жижиг дэлгүүр",
+    "hanja": "小店",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소제",
+    "translation": "цэвэрлэх",
+    "hanja": "掃除",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소제목",
+    "translation": "дэд гарчиг",
+    "hanja": "小題目",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소조",
+    "translation": "жижиг баримал",
+    "hanja": "塑造",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소좌",
+    "translation": "хошууч",
+    "hanja": "少佐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소주",
+    "translation": "сожү",
+    "hanja": "燒酒",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "소주병",
+    "translation": "сожүны шил",
+    "hanja": "소주병",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소주성",
+    "translation": "Сожосон (нэр)",
+    "hanja": "小州城",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소주잔",
+    "translation": "сожү аяга",
+    "hanja": " sojujan",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "소줏값",
+    "translation": "сожүний үнэ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소줏고리",
+    "translation": "сожү архины сав",
+    "hanja": "燒酒고리",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소중",
+    "translation": "нарийн, чухал",
+    "hanja": "所重",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소중이",
+    "translation": "Үнэгэн шодой",
+    "hanja": "소중이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소중하다",
+    "translation": "Үнэтэй",
+    "hanja": "所重하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "소중히",
+    "translation": "үнэтэй, эрхэм",
+    "hanja": "所重히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소지",
+    "translation": "Эзэмшил",
+    "hanja": "所持",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소지자",
+    "translation": "эзэмшигч",
+    "hanja": "所持者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소지품",
+    "translation": "Биедээ авч яваа зүйл",
+    "hanja": "所持品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소지하다",
+    "translation": "эзэмшиж байх",
+    "hanja": "所持하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소진",
+    "translation": "шавхагдал, дуусгах",
+    "hanja": "燒盡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소진되다",
+    "translation": "Шавхагдах, дуусах",
+    "hanja": "消盡되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소진하다",
+    "translation": "дуусгах",
+    "hanja": "消盡하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "소질",
+    "translation": "идэвх",
+    "hanja": "素質",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소집",
+    "translation": "хуралдах",
+    "hanja": "召集",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소집단",
+    "translation": "жижиг бүлэг",
+    "hanja": "小集團",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소집되다",
+    "translation": "Цуглуулах, хуралдуулах",
+    "hanja": "召集되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소집하다",
+    "translation": "хуралдуулах",
+    "hanja": "召集하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소쩍새",
+    "translation": "Шувуу (бухаг шувуу)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소창",
+    "translation": "цонх",
+    "hanja": "小窓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소책자",
+    "translation": "танилцуулга",
+    "hanja": "小冊子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소천",
+    "translation": "таалал төгсөх",
+    "hanja": "召天",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "소첩",
+    "translation": "татвар эм, бага эхнэр",
+    "hanja": "小妾",
+    "pos": "명사 (Noun)",
+    "cefr": "C2"
+  },
+  {
+    "word": "소청",
+    "translation": "гомдол, хүсэлт",
+    "hanja": "訴請",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소체",
+    "translation": "бяцхан биет",
+    "hanja": "小體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소초",
+    "translation": "жижиг салаа",
+    "hanja": "小哨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소총",
+    "translation": "Буу",
+    "hanja": "小銃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소총수",
+    "translation": "Бууч, мэргэн бууч",
+    "hanja": "小銃手",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소추",
+    "translation": "ял эдлүүлэх",
+    "hanja": "訴追",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소추하다",
+    "translation": "мөрдөн шалгах",
+    "hanja": "訴追하다",
+    "pos": "VV",
+    "cefr": "C2"
+  },
+  {
+    "word": "소출",
+    "translation": "гарц, ургац",
+    "hanja": "所出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소취",
+    "translation": "Мөнгөний алдагдал; үнэр авах; бага зэрэг авах",
+    "hanja": "小取",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소치",
+    "translation": "үр дүн",
+    "hanja": "所致",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소켓",
+    "translation": "розетка",
+    "hanja": "socket",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소쿠리",
+    "translation": "сагс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소크",
+    "translation": "цохилт, цохих",
+    "hanja": "소크",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소크라테스",
+    "translation": "Сократ",
+    "hanja": "소크라테스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소키",
+    "translation": "Соки",
+    "hanja": "소키",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소타",
+    "translation": "Сота (нэр)",
+    "hanja": null,
+    "pos": "proper noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "소탈하다",
+    "translation": "энгийн",
+    "hanja": "素脫하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소탐대실",
+    "translation": "бага ашиг харж, ихээхэн алдах",
+    "hanja": "小貪大失",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소탐대실하다",
+    "translation": "жижиг юманд шунаж, том зүйлээ алдах",
+    "hanja": "小貪大失하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소탕",
+    "translation": "цэвэрлэх, устгах",
+    "hanja": "掃蕩",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소탕되다",
+    "translation": "цэвэрлэх, устгах",
+    "hanja": "掃蕩되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소탕하다",
+    "translation": "устгах",
+    "hanja": "掃蕩하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소태",
+    "translation": "маш гашуун",
+    "hanja": "蘇太",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소테",
+    "translation": "цуйван",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소테른",
+    "translation": "Сотерн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소토",
+    "translation": "хөдөө гаргах",
+    "hanja": "疎土",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소통",
+    "translation": "харилцаа холбоо",
+    "hanja": "疎通",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소통능력",
+    "translation": "харилцааны чадвар",
+    "hanja": "疏通能力",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소통되다",
+    "translation": "харилцан ойлголцох",
+    "hanja": "疏通되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소통하다",
+    "translation": "харилцах",
+    "hanja": "소통하다(疏通하다)",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "소트",
+    "translation": "ангилах",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소파",
+    "translation": "буйдан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "소패",
+    "translation": "цөөхөн хүн",
+    "hanja": "少輩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소포",
+    "translation": "илгээмж",
+    "hanja": "小包",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "소포클레스",
+    "translation": "Софокл",
+    "hanja": "소포클레스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "소폭",
+    "translation": "бага зэрэг",
+    "hanja": "小幅",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "소품",
+    "translation": "туслах хэрэгсэл",
+    "hanja": "小品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소풍",
+    "translation": "Аялал, зугаалга",
+    "hanja": "逍風",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "소풍하다",
+    "translation": "Зугаалах",
+    "hanja": "消風하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소프라노",
+    "translation": "сопрано",
+    "hanja": "소프라노",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소프트볼",
+    "translation": "софтбол",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소프트아이스크림",
+    "translation": "Зөөлөн зайрмаг",
+    "hanja": "Soft Ice Cream",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "소프트웨어",
+    "translation": "програм хангамж",
+    "hanja": "software",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소프트크림",
+    "translation": "зөөлөн зайрмаг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소피",
+    "translation": "Софи (эмэгтэй нэр)",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "소피스트",
+    "translation": "софист",
+    "hanja": "소피스트",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소피아",
+    "translation": "Софиа",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "소하",
+    "translation": "жижиг гол",
+    "hanja": "小河",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소하다",
+    "translation": "Хунгарлах, овоолох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소학",
+    "translation": "бага сургууль, бага сургуулийн хичээл",
+    "hanja": "小學",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소학교",
+    "translation": "бага сургууль",
+    "hanja": "小學校",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "소한",
+    "translation": "Их хүйтний өмнөх үе",
+    "hanja": "小寒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소행",
+    "translation": "Засгийн газар",
+    "hanja": "所行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소행성",
+    "translation": "Жижиг гараг",
+    "hanja": "小行星",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소형",
+    "translation": "Жижиг хэмжээтэй",
+    "hanja": "小型",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "소형차",
+    "translation": "жижиг машин",
+    "hanja": "小型車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소형화",
+    "translation": "жижигрүүлэх",
+    "hanja": "小型化",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소형화되다",
+    "translation": "жижиг болгох",
+    "hanja": "小型化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소형화하다",
+    "translation": "жижигрүүлэх",
+    "hanja": "小型化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소혜",
+    "translation": "сохэ",
+    "hanja": "昭惠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소호",
+    "translation": "жижиг оффис, гэрийн оффис",
+    "hanja": "SOHO",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "소홀",
+    "translation": "хайнга, үл тоомсорлосон",
+    "hanja": "疏忽",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소홀하다",
+    "translation": "хайнга байх",
+    "hanja": "疎忽하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "소홀히",
+    "translation": "үл тоомсорлон, хайхрамжгүй",
+    "hanja": "疎忽히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소화",
+    "translation": "шингээх",
+    "hanja": "消化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소화기",
+    "translation": "гал унтраагч",
+    "hanja": "消火器",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소화되다",
+    "translation": "шингэх",
+    "hanja": "消化되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소화시키다",
+    "translation": "хоол шингээх",
+    "hanja": "消化시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소화액",
+    "translation": "хоол боловсруулах шүүс",
+    "hanja": "消化液",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소화전",
+    "translation": "галын гидрант",
+    "hanja": "消火栓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소화제",
+    "translation": "Хоол боловсруулах эм",
+    "hanja": "消化劑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소화하다",
+    "translation": "шингээх",
+    "hanja": "消化하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "소확행",
+    "translation": "бяцхан аз жаргал",
+    "hanja": "小確幸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소환",
+    "translation": "Дуудлага",
+    "hanja": "召喚",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소환되다",
+    "translation": "дуудагдсан",
+    "hanja": "召喚되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소환장",
+    "translation": "дуудсан мэдэгдэл",
+    "hanja": "召喚狀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소환하다",
+    "translation": "дуудах",
+    "hanja": "召喚-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "хувийн бодол",
+    "hanja": "所懷",
+    "pos": "명사",
+    "cefr": "C2",
+    "word": "소회"
+  },
+  {
+    "word": "소후",
+    "translation": "Бага ханхүү, Бага хатан",
+    "hanja": "小侯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소흔",
+    "translation": "жижиг ул мөр",
+    "hanja": "小痕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소희",
+    "translation": "Сохи",
+    "hanja": "昭熙",
+    "pos": "고유명사",
+    "cefr": "A2"
+  }
+]

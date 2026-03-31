@@ -1,0 +1,51 @@
+[
+  {
+    "word": "값",
+    "translation": "үнэ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "값비싸다",
+    "translation": "үнэтэй, үнэ өндөр",
+    "hanja": "값비싸다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "값싸다",
+    "translation": "хямдхан",
+    "hanja": "값싸다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "값어치",
+    "translation": "үнэ цэнэ, үнэ",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "값없이",
+    "translation": "үнэгүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "값지다",
+    "translation": "Үнэтэй, эрхэм",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "값하다",
+    "translation": "үнэ хүрэх, зохих",
+    "hanja": "값하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  }
+]

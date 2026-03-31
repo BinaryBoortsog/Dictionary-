@@ -1,0 +1,177 @@
+[
+  {
+    "word": "습",
+    "translation": "Чийг",
+    "hanja": "濕",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "습격",
+    "translation": "довтолгоо, дайралт",
+    "hanja": "襲擊",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "습격당하다",
+    "translation": "дайнтуулгагдах, довтолгоонд өртөх",
+    "hanja": "襲擊당하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "습격하다",
+    "translation": "дарах, гэнэт дайрах",
+    "hanja": "襲擊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "습관",
+    "translation": "дадал",
+    "hanja": "習慣",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "습관성",
+    "translation": "дадал зуршилтай, зуршил болсон",
+    "hanja": "習慣性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "습관적",
+    "translation": "Дадал болсон, зуршлын",
+    "hanja": "習慣的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "습관화",
+    "translation": "дадал болгох, дадал суух",
+    "hanja": "習慣化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "습관화되다",
+    "translation": "Дадал болох",
+    "hanja": "習慣化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "습관화하다",
+    "translation": "Дадал болгох",
+    "hanja": "習慣化하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "습다",
+    "translation": "чийглэг байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "습도",
+    "translation": "Чийгшил",
+    "hanja": "濕度",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "습도계",
+    "translation": "Чийг хэмжигч",
+    "hanja": "濕度計",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "습득",
+    "translation": "Эзэмших",
+    "hanja": "習得",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "습득되다",
+    "translation": "олж авах, сурах",
+    "hanja": "習得되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "습득하다",
+    "translation": "эзэмших",
+    "hanja": "習得하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "습벽",
+    "translation": "дадал",
+    "hanja": "習癖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "습설",
+    "translation": "нойтон цас",
+    "hanja": "濕雪",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "습성",
+    "translation": "Зан авир",
+    "hanja": "習性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "습속",
+    "translation": "загвар",
+    "hanja": "習俗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "습식",
+    "translation": "Нойтон, чийгтэй",
+    "hanja": "濕式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "습작",
+    "translation": "дадлага ажил",
+    "hanja": "習作",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "습작하다",
+    "translation": "дасгал хийх",
+    "hanja": "習作하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "습지",
+    "translation": "Намгархаг газар",
+    "hanja": "濕地",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "습진",
+    "translation": "чонон хөрвөс",
+    "hanja": "濕疹",
+    "pos": "Noun",
+    "cefr": "C1"
+  }
+]

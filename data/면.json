@@ -1,0 +1,520 @@
+[
+  {
+    "word": "면",
+    "translation": "тал",
+    "hanja": "面",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면갑",
+    "translation": "Нүүрний таг",
+    "hanja": "面甲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면경",
+    "translation": "толь",
+    "hanja": "面鏡",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "면구스럽다",
+    "translation": "ичиж зовох, нүүр хийх газаргүй болох",
+    "hanja": "面咎스럽다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "면기",
+    "translation": "тахир",
+    "hanja": "麵器",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "면담",
+    "translation": "яриа, уулзалт",
+    "hanja": "面談",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면담하다",
+    "translation": "яриа өрнүүлэх, уулзах",
+    "hanja": "面談하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면도",
+    "translation": "Үс хусах",
+    "hanja": "面刀",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "면도날",
+    "translation": "хутганы ир",
+    "hanja": "面刀날",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "면도칼",
+    "translation": "сахал хусах хутга",
+    "hanja": "面刀 칼",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "면도하다",
+    "translation": "сахал хусах",
+    "hanja": "面刀하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "면류",
+    "translation": "гурилан бүтээгдэхүүн, гоймон төрлийн хоол",
+    "hanja": "麵類",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면면",
+    "translation": "нүүр царай",
+    "hanja": "面面",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "면면히",
+    "translation": "тасралтгүй, үе дамжин",
+    "hanja": "綿綿히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면모",
+    "translation": "Гадаад байдал, дүр төрх",
+    "hanja": "面貌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면목",
+    "translation": "нүүр царай, нэр хүнд",
+    "hanja": "面目",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면밀하다",
+    "translation": "нарийн, нягт",
+    "hanja": "綿密하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면밀히",
+    "translation": "Нарийвчлан",
+    "hanja": "綿密히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면바지",
+    "translation": "даавуун өмд",
+    "hanja": "綿바지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "면박",
+    "translation": "нүүрэн дээр нь загнах",
+    "hanja": "面駁",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "면발",
+    "translation": "гоймонгийн утас",
+    "hanja": "麵발",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면벽",
+    "translation": "хана руу харах",
+    "hanja": "面壁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면보",
+    "translation": "даавуун алчуур",
+    "hanja": "棉布",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면봉",
+    "translation": "хөвөн савх",
+    "hanja": "棉棒",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "면사",
+    "translation": "нэхсэн торгон даавуу",
+    "hanja": "綿紗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면사무소",
+    "translation": "сум",
+    "hanja": "面事務所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면사포",
+    "translation": "ороолт, хөшиг",
+    "hanja": "面紗布",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면상",
+    "translation": "нүүр царай (бүдүүлэг үг)",
+    "hanja": "面相",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "면세",
+    "translation": "татвараас чөлөөлөх",
+    "hanja": "免稅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면세점",
+    "translation": "татваргүй барааны дэлгүүр",
+    "hanja": "免稅店",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "면세하다",
+    "translation": "татвараас чөлөөлөх",
+    "hanja": "免稅하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면소",
+    "translation": "Хэрэгсэхгүй болгох",
+    "hanja": "免訴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "면수",
+    "translation": "хүн амын тоо",
+    "hanja": "面數",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "면식",
+    "translation": "танил",
+    "hanja": "面識",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면역",
+    "translation": "дархлаа",
+    "hanja": "免疫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면역되다",
+    "translation": "дархлаажих, дархлаа тогтох",
+    "hanja": "免疫되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면역력",
+    "translation": "дархлаа",
+    "hanja": "免疫力",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "면역성",
+    "translation": "дархлаа",
+    "hanja": "免疫性",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "면장",
+    "translation": "Сумын дарга",
+    "hanja": "面長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면장갑",
+    "translation": "Даавуун бээлий",
+    "hanja": "綿手袋",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "면적",
+    "translation": "Талбай",
+    "hanja": "面積",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면전",
+    "translation": "Нүүрэн дээр, өмнө",
+    "hanja": "面前",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면접",
+    "translation": "ярилцлага",
+    "hanja": "面接",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면접관",
+    "translation": "ярилцлага авч буй хүн",
+    "hanja": "面接官",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면접시험",
+    "translation": "ярилцлагын шалгалт",
+    "hanja": "面接試驗",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면접하다",
+    "translation": "ярилцлага хийх",
+    "hanja": "面接하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "면제",
+    "translation": "чөлөөлөх",
+    "hanja": "免除",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면제되다",
+    "translation": "Чөлөөлөгдөх",
+    "hanja": "免除되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면제하다",
+    "translation": "чөлөөлөх",
+    "hanja": "免除하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면죄",
+    "translation": "Гэмшээл",
+    "hanja": "免罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면죄부",
+    "translation": "өршөөл, уучлал",
+    "hanja": "免罪符",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "면직",
+    "translation": "ажлаас халах, албан тушаалаас чөлөөлөх",
+    "hanja": "免職",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "면직되다",
+    "translation": "албан тушаалаас халагдах",
+    "hanja": "免職되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면직물",
+    "translation": "хөвөн даавуу",
+    "hanja": "綿織物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면직하다",
+    "translation": "халах, ажлаас чөлөөлөх",
+    "hanja": "免職하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "면책",
+    "translation": "хариуцлагаас чөлөөлөх",
+    "hanja": "免責",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "면책되다",
+    "translation": "Хариуцлагаас чөлөөлөгдөх, өршөөгдөх",
+    "hanja": "免責되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면책하다",
+    "translation": "хариуцлагаас чөлөөлөх",
+    "hanja": "免責하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면천",
+    "translation": "боолчлолоос чөлөөлөх",
+    "hanja": "免賤",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "면천하다",
+    "translation": "боолчлолоос чөлөөлөгдөх",
+    "hanja": "免賤하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "면체",
+    "translation": "Олон талт биет",
+    "hanja": "面體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면탈",
+    "translation": "зугтах, зайлсхийх",
+    "hanja": "免脫",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "면포",
+    "translation": "даавуу",
+    "hanja": "綿布",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면피",
+    "translation": "Нүүрний арьс",
+    "hanja": "面皮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "면피하다",
+    "translation": "нүүрээ хадгалах",
+    "hanja": "免避하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면하다",
+    "translation": "зайлах, мултрах",
+    "hanja": "免하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면학",
+    "translation": "Эрдэм сурах",
+    "hanja": "勉學",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "면허",
+    "translation": "үнэмлэх, зөвшөөрөл",
+    "hanja": "免許",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "면허증",
+    "translation": "үнэмлэх, зөвшөөрлийн бичиг",
+    "hanja": "免許證",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "면화",
+    "translation": "хөвөн",
+    "hanja": "棉花",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면회",
+    "translation": "уулзалт",
+    "hanja": "面會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면회소",
+    "translation": "уулзалтын өрөө",
+    "hanja": "面會所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면회실",
+    "translation": "уулзалтын өрөө",
+    "hanja": "面會室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "면회하다",
+    "translation": "уулзах",
+    "hanja": "면회하다(面會하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

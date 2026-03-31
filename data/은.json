@@ -1,0 +1,786 @@
+[
+  {
+    "word": "은",
+    "translation": "Мөнгө",
+    "hanja": "銀",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "은각사",
+    "translation": "Гинкаку-Жу (Мөнгөн Павильон сүм)",
+    "hanja": "銀閣寺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은거하다",
+    "translation": "ганцаар амьдрах",
+    "hanja": "隱居하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은경",
+    "translation": "мөнгөн толь",
+    "hanja": "銀鏡",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "은공",
+    "translation": "Гавьяа, тус",
+    "hanja": "恩功",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은광",
+    "translation": "мөнгөний уурхай",
+    "hanja": "銀鑛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "은광아",
+    "translation": "мөнгөн уурхай (хүний нэр байж болно)",
+    "hanja": "銀光아",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "은괴",
+    "translation": "Мөнгөн гулдмай",
+    "hanja": "銀塊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은교",
+    "translation": "мөнгөн гүүр",
+    "hanja": "銀橋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은구",
+    "translation": "мөнгөн бөмбөг",
+    "hanja": "銀球",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "은그릇",
+    "translation": "мөнгөн аяга",
+    "hanja": "銀그릇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은근",
+    "translation": "далд",
+    "hanja": "慇懃",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은근슬쩍",
+    "translation": "чимээгүй, нууцаар",
+    "hanja": "殷勤슬쩍",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은근하다",
+    "translation": "гүн гүнзгий, далд, намуухан",
+    "hanja": "慇懃하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은근히",
+    "translation": "нууцаар",
+    "hanja": "慇懃히",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "은금",
+    "translation": "Мөнгө ба алт",
+    "hanja": "銀金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은기",
+    "translation": "мөнгөн гэрэл",
+    "hanja": "銀氣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은니",
+    "translation": "мөнгөн шүд",
+    "hanja": "銀泥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은닉",
+    "translation": "Нуух, далдлах",
+    "hanja": "隱匿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은닉되다",
+    "translation": "нуугдах, далдуур байх",
+    "hanja": "隱匿되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은닉죄",
+    "translation": "은닉죄",
+    "hanja": "隱匿罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은닉하다",
+    "translation": "Нуух, далдалдах",
+    "hanja": "은닉하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은단",
+    "translation": "мөнгөн бөмбөлөг",
+    "hanja": "銀丹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은덕",
+    "translation": "ач буян",
+    "hanja": "恩德",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은둔",
+    "translation": "далд явах",
+    "hanja": "隱遁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "은둔자",
+    "translation": "даяанч",
+    "hanja": "隱遁者",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "은둔하다",
+    "translation": "Нуугдах, ууланд гарах",
+    "hanja": "隱遁하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은로",
+    "translation": "мөнгөн зам",
+    "hanja": "銀爐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은마",
+    "translation": "мөнгөн морь",
+    "hanja": "銀馬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "은막",
+    "translation": "мөнгөн дэлгэц",
+    "hanja": "銀幕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은메달",
+    "translation": "мөнгөн медаль",
+    "hanja": "銀메달",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "은명",
+    "translation": "Далд нэр",
+    "hanja": "隱名",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "은모",
+    "translation": "мөнгөн үс",
+    "hanja": "銀毛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은밀하다",
+    "translation": "нууц",
+    "hanja": "隱密하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은밀히",
+    "translation": "Нууцаар",
+    "hanja": "隱密히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은박",
+    "translation": "мөнгөн тугалган цаас",
+    "hanja": "銀箔",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "은박지",
+    "translation": "цагаан тугалган цаас",
+    "hanja": "銀箔紙",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "은반",
+    "translation": "мөнгөн таваг, мөсөн талбай",
+    "hanja": "銀盤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은발",
+    "translation": "мөнгөн үстэй",
+    "hanja": "銀髮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "은방울",
+    "translation": "Мөнгөн хонх",
+    "hanja": "銀방울",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "은백색",
+    "translation": "Мөнгөлөг цагаан",
+    "hanja": "銀白色",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "은보",
+    "translation": "мөнгөн тавиур",
+    "hanja": "銀洑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은봉",
+    "translation": "Мөнгөн дугтуй",
+    "hanja": "銀封",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은비",
+    "translation": "Нууц, далд, далдлах",
+    "hanja": "隱秘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은빛",
+    "translation": "Мөнгөн өнгө",
+    "hanja": "銀빛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "은사",
+    "translation": "багш (хүндэтгэлийн)",
+    "hanja": "恩師",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "은산",
+    "translation": "мөнгөн уул",
+    "hanja": "銀山",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은상",
+    "translation": "мөнгөн шагнал",
+    "hanja": "銀賞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "은색",
+    "translation": "мөнгөлөг өнгө",
+    "hanja": "銀色",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "은선",
+    "translation": "мөнгөн утас",
+    "hanja": "銀線",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "은섬",
+    "translation": "мөнгөн арал",
+    "hanja": "銀蟾",
+    "pos": "мөн",
+    "cefr": "C2"
+  },
+  {
+    "word": "은신",
+    "translation": "нуун далдлах",
+    "hanja": "隱身",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "은신처",
+    "translation": "Орогнох газар",
+    "hanja": "隱身處",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "은신하다",
+    "translation": "은신하다, 숨다",
+    "hanja": "隱身하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은애",
+    "translation": "хайрлах",
+    "hanja": "恩愛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "은애하다",
+    "translation": "хайрлах, энхрийлэх",
+    "hanja": "恩愛하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "은어",
+    "translation": "нууц хэл",
+    "hanja": "隱語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은연",
+    "translation": "Далд байдал",
+    "hanja": "隱然",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은연중",
+    "translation": "санаандгүй, далд ухамсартайгаар",
+    "hanja": "隱然中",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은우",
+    "translation": "Мөнгөн бороо",
+    "hanja": "銀雨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "은원",
+    "translation": "өшөө хонзон",
+    "hanja": "恩怨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "은월",
+    "translation": "Мөнгөн сар",
+    "hanja": "銀月",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "은유",
+    "translation": "зүйрлэл",
+    "hanja": "隱喩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은유적",
+    "translation": "зүйрлэсэн",
+    "hanja": "隱喩的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "은유하다",
+    "translation": "зүйрлэх",
+    "hanja": "隱喩하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은은하다",
+    "translation": "бүдэг",
+    "hanja": "隱隱하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "은은히",
+    "translation": "бүдэгхэн",
+    "hanja": "隱隱히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은의",
+    "translation": "буян",
+    "hanja": "恩義",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "은이",
+    "translation": "Мөнгөн утас",
+    "hanja": "銀耳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은인",
+    "translation": "аврагч",
+    "hanja": "恩人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은일",
+    "translation": "далд, нууц",
+    "hanja": "隱逸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은자",
+    "translation": "далавч",
+    "hanja": "隱者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은장",
+    "translation": "Мөнгөн чимэглэл",
+    "hanja": "銀粧",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "은장도",
+    "translation": "мөнгөн хутга (эрэгтэйчүүдийн хувцсан дээр чимэглэдэг)",
+    "hanja": "銀粧刀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은전",
+    "translation": "мөнгөн зоос",
+    "hanja": "銀錢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은제",
+    "translation": "мөнгөн эдлэл",
+    "hanja": "銀製",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은조",
+    "translation": "мөнгөн таяг",
+    "hanja": "銀條",
+    "pos": "н.",
+    "cefr": "null"
+  },
+  {
+    "word": "은종",
+    "translation": "мөнгөн хонх",
+    "hanja": "銀鐘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은주",
+    "translation": "мөнгөн бөмбөлөг",
+    "hanja": "銀珠",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "은지",
+    "translation": "унж",
+    "hanja": "銀紙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은채",
+    "translation": "мөнгөн өнгө",
+    "hanja": "銀釵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은천",
+    "translation": "Мөнгөн горхи",
+    "hanja": "銀川",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "은총",
+    "translation": "адис, ивээл",
+    "hanja": "恩寵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은크루마",
+    "translation": "Энхрума (хүний нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "은태",
+    "translation": "тэтгэвэрт гарах",
+    "hanja": "隱退",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은택",
+    "translation": "буян, тус",
+    "hanja": "恩澤",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "은퇴",
+    "translation": "тэтгэвэрт гарах",
+    "hanja": "隱退",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "은퇴자",
+    "translation": "Тэтгэвэрт гарсан хүн",
+    "hanja": "隱退者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "은퇴하다",
+    "translation": "тэтгэвэрт гарах",
+    "hanja": "隱退하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "은파",
+    "translation": "Мөнгөн долгион",
+    "hanja": "銀波",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은팔찌",
+    "translation": "мөнгөн бугуйвч",
+    "hanja": "銀팔찌",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "은평",
+    "translation": "Ынпён (солонгосын газар зүйн нэр)",
+    "hanja": "恩平",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "은폐",
+    "translation": "Нуух",
+    "hanja": "隱蔽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은폐되다",
+    "translation": "нуугдах, далдуурдах",
+    "hanja": "隱蔽-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은폐하다",
+    "translation": "нуух",
+    "hanja": "隱蔽하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은표",
+    "translation": "мөнгөн тэмдэг",
+    "hanja": "銀票",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은하계",
+    "translation": "галактик",
+    "hanja": "銀河系",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은하수",
+    "translation": "сүүний зам",
+    "hanja": "銀河水",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "은행",
+    "translation": "банк",
+    "hanja": "銀行",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "은행가",
+    "translation": "банкны ажилтан",
+    "hanja": "銀行家",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "은행나무",
+    "translation": "гинкго мод",
+    "hanja": "銀行나무",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "은행원",
+    "translation": "банкны ажилтан",
+    "hanja": "銀行員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "은행잎",
+    "translation": "Гинкго модны навч",
+    "hanja": "銀杏잎",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "은행털이",
+    "translation": "банк дээрэмдэх",
+    "hanja": "銀行털이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은혈",
+    "translation": "далд цус алдалт",
+    "hanja": "隱血",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "은형",
+    "translation": "Нэвт харах",
+    "hanja": "隱形",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은혜",
+    "translation": "ач ивээл",
+    "hanja": "恩惠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은혜롭다",
+    "translation": "өгөөмөр",
+    "hanja": "恩惠롭다",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "은호",
+    "translation": "мөнгөн тахиа",
+    "hanja": "銀毫",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "은혼식",
+    "translation": "мөнгөн хурим",
+    "hanja": "銀婚式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "은화",
+    "translation": "Мөнгөн зоос",
+    "hanja": "銀貨",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "은환",
+    "translation": "Мөнгөн бөгж",
+    "hanja": "銀環",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

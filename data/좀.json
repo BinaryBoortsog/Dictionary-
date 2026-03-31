@@ -1,0 +1,79 @@
+[
+  {
+    "word": "좀",
+    "translation": "조금",
+    "hanja": "좀",
+    "pos": "Adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "좀도둑",
+    "translation": "жижиг хулгайч",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "좀먹다",
+    "translation": "Идэх, тэмтрүүлэн идэх",
+    "hanja": "좀먹다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "좀벌레",
+    "translation": "Шавж, хөнөөлт шавж (хуурай хорхой)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "좀비",
+    "translation": "Зомби",
+    "hanja": "좀비",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "좀스럽다",
+    "translation": "жижиг сажиг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "좀약",
+    "translation": "ариун цэвэр, шавьжны эсрэг эм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "좀좀",
+    "translation": "бага багаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "좀체",
+    "translation": "ихэвчлэн, бараг",
+    "hanja": "좀체",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "좀팽이",
+    "translation": "жижигхэн, өчүүхэн; шуналтай хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "좀하다",
+    "translation": "Бага зэрэг хийх",
+    "hanja": "좀하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  }
+]

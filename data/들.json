@@ -1,0 +1,751 @@
+[
+  {
+    "word": "들",
+    "translation": "Тал хээр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "들가다",
+    "translation": "орох",
+    "hanja": "들어가다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "들개",
+    "translation": "зэрлэг нохой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "들것",
+    "translation": "Суниах ор",
+    "hanja": "들것",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들게",
+    "translation": "кунжут",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "들고나다",
+    "translation": "авч гарах",
+    "hanja": "들고나다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들고양이",
+    "translation": "зэрлэг муур",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "들고일어나다",
+    "translation": "Бослого гаргах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "들고파다",
+    "translation": "ухах, сэндийлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들구",
+    "translation": "орох хаалга",
+    "hanja": "들口",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "들국화",
+    "translation": "зэрлэг хризантем",
+    "hanja": "들국화",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "들기름",
+    "translation": "Цагаан гүнжидийн тос",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들길",
+    "translation": "Хөдөөгийн зам",
+    "hanja": "들길",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "들깨",
+    "translation": "гүнжидийн үр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "들깻가루",
+    "translation": "гүргэмний үрийн нунтаг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들꽃",
+    "translation": "зэрлэг цэцэг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "들끓다",
+    "translation": "Буцлах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "들녘",
+    "translation": "хөдөө тал",
+    "hanja": "들녘",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "들다",
+    "translation": "өгөх, барих, орох",
+    "hanja": "들다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "들다보다",
+    "translation": "харах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "들들",
+    "translation": "Дуу чимээ гаргах",
+    "hanja": "들들",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들뛰다",
+    "translation": "цэлхэртэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "들뜨다",
+    "translation": "Хөөрсөн",
+    "hanja": "들뜨다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들뜸",
+    "translation": "хөөрөл",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "들라크루아",
+    "translation": "Делакруа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "들락",
+    "translation": "орж гарах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들락거리다",
+    "translation": "орж гарч байх",
+    "hanja": "들락거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들락날락",
+    "translation": "орж гарч, ороод гараад",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들락날락거리다",
+    "translation": "нааш цааш гүйх",
+    "hanja": "들락날락거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들락날락하다",
+    "translation": "орж гарч байх",
+    "hanja": "들락날락하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들락대다",
+    "translation": "Орж гарч байх, эргэлдэх",
+    "hanja": "들락대다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "들러리",
+    "translation": "дагалдан",
+    "hanja": "들러리",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "들러붙다",
+    "translation": "наалдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들롱",
+    "translation": "Делон",
+    "hanja": "들롱",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "들르다",
+    "translation": "дагуулах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "들리다",
+    "translation": "сонсогдох",
+    "hanja": "들리다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "들먹거리다",
+    "translation": "Жирэлзэх, хөдлөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들먹이다",
+    "translation": "хөдөлгөх, хөдлөх",
+    "hanja": "들먹이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들물",
+    "translation": "далайн түрлэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들보",
+    "translation": "Дээврийн дам нуруу, тулгуур",
+    "hanja": "들보",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들볶다",
+    "translation": "тахиахах, дарамтлах, зовоох",
+    "hanja": "들볶다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들볶이다",
+    "translation": "Уйгагүй шаардах, дарамтлах",
+    "hanja": "들볶이다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "들불",
+    "translation": "ой хээрийн түймэр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들새",
+    "translation": "Хөдөөний шувуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들소",
+    "translation": "Ойн үхэр",
+    "hanja": "들소",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들숨",
+    "translation": "амьсгаа авах, уушгинд агаар орох",
+    "hanja": "들숨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들썩",
+    "translation": "Дээш доош хөдлөх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들썩거리다",
+    "translation": "хөдөлгөөн орох",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "들썩들썩",
+    "translation": "босч суун, өргөгдөн",
+    "hanja": "들썩들썩",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들썩들썩하다",
+    "translation": "хөдөлгөөн орох, үймэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "들썩이다",
+    "translation": "хөдөлгөөн орох, үймэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들썩하다",
+    "translation": "хөдөлгөөн орох, шуугих",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "들쑤시다",
+    "translation": "өдөөх",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들쑥날쑥",
+    "translation": "тогтохгүй, хэлбэлзэлтэй",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "들쑥날쑥하다",
+    "translation": "жигд бус байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들쓰다",
+    "translation": "Нойтон байх, чийглэг байх",
+    "hanja": "들쓰다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "들어나다",
+    "translation": "илчлэгдэх",
+    "hanja": "—",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들어내다",
+    "translation": "гаргах",
+    "hanja": "들어내다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "들어맞다",
+    "translation": "Тааруулах",
+    "hanja": "들어맞다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들어먹다",
+    "translation": "алдагдуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "들어박히다",
+    "translation": "орох, шигдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "들어서다",
+    "translation": "орох",
+    "hanja": "들어서다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "들어앉다",
+    "translation": "суух, дотор орох, суурьших",
+    "hanja": "들어앉다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들어앉히다",
+    "translation": "оруулж суулгах",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들어엎다",
+    "translation": "Унагаах; Онхолдуулах",
+    "hanja": "들어엎다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들어올리기",
+    "translation": "Өргөх",
+    "hanja": "들어올리기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들어차다",
+    "translation": "дүүрэх",
+    "hanja": "",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "들여다보다",
+    "translation": "орж харах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "들여다보이다",
+    "translation": "харагдах, шагайж харах",
+    "hanja": "들여다보이다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "들여보내다",
+    "translation": "Оруулах",
+    "hanja": "들여보내다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "들여쓰기",
+    "translation": "догол мөр татах",
+    "hanja": "들여쓰기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들여앉히다",
+    "translation": "оруулж суулгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "들오다",
+    "translation": "үүднээр орох",
+    "hanja": "들오다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "들이",
+    "translation": "хэмжээ, багтаамж",
+    "hanja": "들이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들이다",
+    "translation": "оруулах",
+    "hanja": "들이다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "들이닥치다",
+    "translation": "гэнэт дайрах, гэнэт ирэх",
+    "hanja": "들이닥치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들이대다",
+    "translation": "ойртуулах",
+    "hanja": null,
+    "pos": "үйл",
+    "cefr": "B1"
+  },
+  {
+    "word": "들이마시다",
+    "translation": "Амьсгалах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들이밀다",
+    "translation": "дотор нь түлхэх, хүчээр оруулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들이박다",
+    "translation": "мөргөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "들이받다",
+    "translation": "мөргөх",
+    "hanja": "없음",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "들이받히다",
+    "translation": "Мөргүүлэх, мөргүүлэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "들이붓다",
+    "translation": "юүлж асгах",
+    "hanja": "들이붓다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들이쉬다",
+    "translation": "Амьсгалах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들이차다",
+    "translation": "бүрэн дүүрэх, хэтрэх",
+    "hanja": "들이차다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "들이치다",
+    "translation": "цохих",
+    "hanja": "들이치다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "들이켜다",
+    "translation": "Амьсгаа авах, уух (том хэмжээгээр)",
+    "hanja": "들이켜다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "들이키다",
+    "translation": "залгих, сорох",
+    "hanja": "들이키다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "들일",
+    "translation": "ажил, үүрэг",
+    "hanja": "들일",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들입다",
+    "translation": "гэнэт, хүчтэй",
+    "hanja": "들입다",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "들장미",
+    "translation": "зэрлэг сарнай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들쥐",
+    "translation": "хээрийн хулгана",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들짐승",
+    "translation": "зэрлэг амьтан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들쭉",
+    "translation": "зэрлэг гүзээлзгэнэ",
+    "hanja": "들쭉",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "들쭉날쭉",
+    "translation": "тэгш бус",
+    "hanja": "들쭉날쭉",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "들쭉날쭉하다",
+    "translation": "жигд бус, тэгш бус",
+    "hanja": "들쭉날쭉하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "들창코",
+    "translation": "Сөхсөн хамартай",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "들추다",
+    "translation": "сөхөх",
+    "hanja": "揭",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들추어내다",
+    "translation": "илчлэх",
+    "hanja": "들추어내다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들춰내다",
+    "translation": "илрүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "들치다",
+    "translation": "хулгайлах",
+    "hanja": "들치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들큰하다",
+    "translation": "бага зэрэг амттай",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "들키다",
+    "translation": "Баригдах",
+    "hanja": "들키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들통",
+    "translation": "Илчлэгдэх",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "들통나다",
+    "translation": "илчлэгдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들판",
+    "translation": "хээр, тал хээр",
+    "hanja": "들판",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "들풀",
+    "translation": "Зэрлэг өвс, таримал бус өвс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  }
+]

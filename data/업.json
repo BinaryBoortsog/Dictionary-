@@ -1,0 +1,268 @@
+[
+  {
+    "word": "업",
+    "translation": "ажил, карьер",
+    "hanja": "業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "업계",
+    "translation": "Салбар",
+    "hanja": "業界",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "업그레이드",
+    "translation": "шинэчлэх",
+    "hanja": "업그레이드",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "업그레이드되다",
+    "translation": "Шинэчлэгдэх, сайжрах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "업그레이드하다",
+    "translation": "шинэчлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "업글",
+    "translation": "шинэчлэх",
+    "hanja": "업글",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "업글하다",
+    "translation": "шинэчлэх",
+    "hanja": "업글하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "업다",
+    "translation": "үүрэх",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "업데이트",
+    "translation": "шинэчлэх",
+    "hanja": "업데이트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "업데이트하다",
+    "translation": "шинэчлэх",
+    "hanja": "update하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "업뎃",
+    "translation": "шинэчлэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "translation": "сэтгэл өндөр байх",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "B1",
+    "word": "업되다"
+  },
+  {
+    "word": "업라이트",
+    "translation": "аппарэт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "업력",
+    "translation": "үйлийн үр",
+    "hanja": "業力",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "업로더",
+    "translation": "оруулагч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "업로드",
+    "translation": "байршуулах",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "업로드되다",
+    "translation": "байршуулах",
+    "hanja": "upload되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "업로드하다",
+    "translation": "байршуулах",
+    "hanja": "업로드하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "업무",
+    "translation": "ажил",
+    "hanja": "業務",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "업무용",
+    "translation": "албан хэрэгцээний",
+    "hanja": "업무용(業務用)",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "업무하다",
+    "translation": "ажил үүрэг гүйцэтгэх",
+    "hanja": "業務하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "업보",
+    "translation": "үйлийн үр, карма",
+    "hanja": "業報",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "업사이클",
+    "translation": "апсайкл (дахин боловсруулах)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "업사이클링",
+    "translation": "хог хаягдлыг дахин боловсруулж ашиглах",
+    "hanja": "업사이클링",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "업소",
+    "translation": "байгууллага, газар",
+    "hanja": "業所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "업스케일링",
+    "translation": "өндөр нягтралтай болгох",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "업신",
+    "translation": "доромжлох",
+    "hanja": "業神",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "업신여기다",
+    "translation": "доромжлох",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "업자",
+    "translation": "Мэргэжилтэн, ажилтан",
+    "hanja": "業者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "업장",
+    "translation": "үүд",
+    "hanja": "業場",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "업적",
+    "translation": "Амжилт",
+    "hanja": "業績",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "업종",
+    "translation": "салбар, төрөл",
+    "hanja": "業種",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "업주",
+    "translation": "бизнесийн эзэн",
+    "hanja": "業主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "업체",
+    "translation": "үйлдвэр, аж ахуйн нэгж",
+    "hanja": "業體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "업하다",
+    "translation": "дэмжих, хөгжүүлэх (тоглоомд)",
+    "hanja": "UP하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "업화",
+    "translation": "үйлийн үр",
+    "hanja": "業火",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "업황",
+    "translation": "салбарын байдал",
+    "hanja": "業況",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "업히다",
+    "translation": "үүрэгдэх",
+    "hanja": "업히다",
+    "pos": "Verb",
+    "cefr": "B1"
+  }
+]

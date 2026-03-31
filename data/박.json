@@ -1,0 +1,744 @@
+[
+  {
+    "word": "박",
+    "translation": "хаан",
+    "hanja": "朴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "박공",
+    "translation": "фронтон",
+    "hanja": "牔栱",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박구",
+    "translation": "хуучин газар",
+    "hanja": "朴舊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박국",
+    "translation": "Цагаан эгнээ",
+    "hanja": "薄局",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박꽃",
+    "translation": "Хунгийн цэцэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박노갑",
+    "translation": "Баг Но Габ (нэр)",
+    "hanja": "朴魯甲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박다",
+    "translation": "Хадах, зоох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박대하다",
+    "translation": "муугаар хандах, хүйтнээр хандах",
+    "hanja": "薄待하다",
+    "pos": "VERB",
+    "cefr": "B2"
+  },
+  {
+    "word": "박도",
+    "translation": "хурдтай",
+    "hanja": "迫到",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박도하다",
+    "translation": "орох",
+    "hanja": "迫到하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박동",
+    "translation": "цохилт",
+    "hanja": "搏動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박동하다",
+    "translation": "цохилох, лугших",
+    "hanja": "搏動하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박두",
+    "translation": "ойртох",
+    "hanja": "迫頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박람회",
+    "translation": "үзэсгэлэн",
+    "hanja": "博覽會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박력",
+    "translation": "хүч, эрч хүч",
+    "hanja": "迫力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박리",
+    "translation": "салгах",
+    "hanja": "剝離",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "박리하다",
+    "translation": "холдчих",
+    "hanja": "剝離하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "박막",
+    "translation": "нимгэн хальс",
+    "hanja": "薄膜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박멸",
+    "translation": "устгах",
+    "hanja": "撲滅",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "박멸되다",
+    "translation": "Устгагдах",
+    "hanja": "撲滅되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박멸하다",
+    "translation": "Устгах",
+    "hanja": "撲滅-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박명",
+    "translation": "бүүдгэр гэрэл",
+    "hanja": "薄明",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박명하다",
+    "translation": "аз муутай",
+    "hanja": "薄命하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박모",
+    "translation": "Үдшийн бүрий, харуй бүрий",
+    "hanja": "薄暮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박목월",
+    "translation": "Пак Мог-вол (нэр)",
+    "hanja": "朴木月",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박무",
+    "translation": "манан",
+    "hanja": "薄霧",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박물관",
+    "translation": "музей",
+    "hanja": "博物館",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "박미",
+    "translation": "арьс гуужуулагч",
+    "hanja": "剝미",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박민하다",
+    "translation": "ухаалаг, сэргэлэн, хурц сэтгэх",
+    "hanja": "博敏하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박변",
+    "translation": "хавтгай хувирал",
+    "hanja": "薄變",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박병",
+    "translation": "хүнд өвчин",
+    "hanja": "薄病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박보",
+    "translation": "гэнэтийн таамаглал",
+    "hanja": "薄報",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "박복",
+    "translation": "азгүй",
+    "hanja": "薄福",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박복하다",
+    "translation": "хувьгүй, азгүй",
+    "hanja": "薄福하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박봉",
+    "translation": "бага цалин",
+    "hanja": "薄俸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박빙",
+    "translation": "нимгэн мөс",
+    "hanja": "薄氷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박사",
+    "translation": "доктор",
+    "hanja": "博士",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "박살",
+    "translation": "Бутлах, үнслэх",
+    "hanja": "撲殺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박상",
+    "translation": "халдвар",
+    "hanja": "薄相",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박새",
+    "translation": "хөхөөт шувуу",
+    "hanja": "박새",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "박색",
+    "translation": "муухай царай",
+    "hanja": "薄色",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "박서하다",
+    "translation": "нухчин дарах",
+    "hanja": "搏捽하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "박석",
+    "translation": "хавтгай чулуу",
+    "hanja": "薄石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박설",
+    "translation": "таамаглал",
+    "hanja": "泊說",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박성",
+    "translation": "хатуу чанар",
+    "hanja": "樸性",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박세영",
+    "translation": "Пак Сэ Ён (хувийн нэр)",
+    "hanja": "朴世榮",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "박소",
+    "translation": "Инээд, хөхөрсөн дуу",
+    "hanja": "拍笑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "박수",
+    "translation": "алга ташилт",
+    "hanja": "拍手",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "박수갈채",
+    "translation": "алга ташилт",
+    "hanja": "拍手喝采",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "박수무당",
+    "translation": "эр удган",
+    "hanja": " 박수巫堂",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박수하다",
+    "translation": "алга таших",
+    "hanja": "拍手하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "박스",
+    "translation": "хайрцаг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "박승",
+    "translation": "Пак Сын (хүн нэр)",
+    "hanja": "朴承",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "박시",
+    "translation": "бөөнөөр",
+    "hanja": "博識",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "박시하다",
+    "translation": "сул, өргөн",
+    "hanja": "박시하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "박식하다",
+    "translation": "Боловсролтой, мэдлэгтэй",
+    "hanja": "博識하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "박씨",
+    "translation": "ноён Пак/Пак овогт",
+    "hanja": "朴氏",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "박애",
+    "translation": "хүнлэг энэрэл",
+    "hanja": "博愛",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "박약하다",
+    "translation": "сул дорой",
+    "hanja": "薄弱하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박옥",
+    "translation": "нефрит",
+    "hanja": "璞玉",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "박완서",
+    "translation": "Пак Ван-со (зохиолч)",
+    "hanja": "박완서",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박용",
+    "translation": "завьд ашиглах",
+    "hanja": "舶用",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박은식",
+    "translation": "Пак Ынсик (хүний нэр)",
+    "hanja": "朴殷植",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박음질",
+    "translation": "машин оёдол",
+    "hanja": "박음질",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "박음질하다",
+    "translation": "оёх",
+    "hanja": "박음질하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "박이다",
+    "translation": "шингэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박자",
+    "translation": "хэмнэл",
+    "hanja": "拍子",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "박장대소",
+    "translation": "чанга инээх",
+    "hanja": "拍掌大笑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박장대소하다",
+    "translation": "чанга инээх",
+    "hanja": "拍掌大笑하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박재홍",
+    "translation": "Пак Жэ-хон",
+    "hanja": "朴栽弘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박절",
+    "translation": "харгис, хатуу",
+    "hanja": "薄切",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "박절하다",
+    "translation": "Тасрах",
+    "hanja": "薄切하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박정하다",
+    "translation": "Хүйтэн сэтгэлтэй",
+    "hanja": "薄情하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "박제",
+    "translation": "чийдмэл",
+    "hanja": "剝製",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박제되다",
+    "translation": "амьтан чихэх",
+    "hanja": "剝製되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "박제하다",
+    "translation": "чигжих",
+    "hanja": "剝製하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박종훈",
+    "translation": "Пак Жон-хун (нэр)",
+    "hanja": "朴鍾勳",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "박주",
+    "translation": "хөгшин архи",
+    "hanja": "舶酒",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "박쥐",
+    "translation": "сарьсан багваахай",
+    "hanja": "박쥐",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "박진",
+    "translation": "박진감",
+    "hanja": "迫眞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박진감",
+    "translation": "Бодитой байдал, бодит мэт",
+    "hanja": "迫眞感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박차",
+    "translation": "хурдасгах",
+    "hanja": "拍車",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "박차다",
+    "translation": "тахимаар цохих",
+    "hanja": "박차다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박찬",
+    "translation": "хүндэтгэлтэй",
+    "hanja": "朴贊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박철",
+    "translation": "Бак Чол",
+    "hanja": "朴哲",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "박치기하다",
+    "translation": "мөргөх, толгойгоор мөргөх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "박탈",
+    "translation": "хасах",
+    "hanja": "剝奪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박탈감",
+    "translation": "хохирлын мэдрэмж",
+    "hanja": "剝奪感",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "박탈당하다",
+    "translation": "эрхээ хасуулах",
+    "hanja": "剝奪當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박탈되다",
+    "translation": "Хасагдах",
+    "hanja": "剝奪되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박탈하다",
+    "translation": "хасах, хураах",
+    "hanja": "剝奪하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박태준",
+    "translation": "Пак Тэжүн",
+    "hanja": "朴泰俊",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "박테리아",
+    "translation": "бактери",
+    "hanja": "박테리아",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "박토",
+    "translation": "үржил шимгүй хөрс",
+    "hanja": "薄土",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박트리아",
+    "translation": "Бактри",
+    "hanja": "박트리아",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박팽년",
+    "translation": "Пак Пэнгён",
+    "hanja": "朴彭年",
+    "pos": "고유명사",
+    "cefr": "N/A"
+  },
+  {
+    "word": "박편",
+    "translation": "нимгэн хэлтэрхий",
+    "hanja": "薄片",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박피",
+    "translation": "арьс гуужуулах",
+    "hanja": "剝皮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박하",
+    "translation": "гавар",
+    "hanja": "薄荷",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "박하다",
+    "translation": "хатуу, нимгэн",
+    "hanja": "薄하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박하사탕",
+    "translation": "гомбон чихэр",
+    "hanja": "薄荷사탕",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "박학다식",
+    "translation": "Өргөн мэдлэгтэй, олон юм мэддэг",
+    "hanja": "博學多識",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "박학다식하다",
+    "translation": "олон зүйл мэдэх",
+    "hanja": "博學多識하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박해",
+    "translation": "хавчлага, мөрдлөг",
+    "hanja": "迫害",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박혁거세",
+    "translation": "Пак Хёк-госэ (Солонгосын хаан)",
+    "hanja": "朴赫居世",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박히다",
+    "translation": "шаагдах",
+    "hanja": "박히다",
+    "pos": "Verb",
+    "cefr": "B2"
+  }
+]

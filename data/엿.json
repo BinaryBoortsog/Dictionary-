@@ -1,0 +1,51 @@
+[
+  {
+    "word": "엿",
+    "translation": "хөлдөөсөн чихэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "엿같다",
+    "translation": "муухай, муу, аймшигтай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "엿기름",
+    "translation": "соёолж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "엿듣다",
+    "translation": "Чимээгүй сонсох, чагнах",
+    "hanja": "엿듣다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "엿보다",
+    "translation": "нууцаар харах",
+    "hanja": "엿보다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "엿보이다",
+    "translation": "харсан",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "엿새",
+    "translation": "зургаан өдөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  }
+]

@@ -1,0 +1,2487 @@
+[
+  {
+    "word": "어",
+    "translation": "Загас",
+    "hanja": "魚",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "어간",
+    "translation": "үйл үгийн үндэс",
+    "hanja": "語幹",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "어감",
+    "translation": "утга санаа, мэдрэмж",
+    "hanja": "語感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어거",
+    "translation": "ачаа",
+    "hanja": "語句",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어게다",
+    "translation": "урвалгүй байх, хөдөлгөөнгүй байх",
+    "hanja": "어게다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어게인",
+    "translation": "дахин",
+    "hanja": "again",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어공",
+    "translation": "аяархан",
+    "hanja": "漁公",
+    "pos": "Adverb",
+    "cefr": "C2"
+  },
+  {
+    "word": "어구",
+    "translation": "үг хэллэг",
+    "hanja": "語句",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어귀",
+    "translation": "бэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어그러지다",
+    "translation": "буруудах, таарахгүй байх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어그로",
+    "translation": "агро (интернэтээр уур хилэн үүсгэх)",
+    "hanja": "어그로",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어근",
+    "translation": "үндэс (үгийн)",
+    "hanja": "語根",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "어글다",
+    "translation": "хутгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어금니",
+    "translation": "араа шүд",
+    "hanja": null,
+    "pos": "м.н",
+    "cefr": "A2"
+  },
+  {
+    "word": "어긋나다",
+    "translation": "зөрөх, таарахгүй байх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어긋남",
+    "translation": "зөрчил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어긋맞다",
+    "translation": "тохирохгүй байх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어기다",
+    "translation": "зөрчих",
+    "hanja": "어기다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어기여차",
+    "translation": "어기여차 (хөдөлмөрийн дууны аялга)",
+    "hanja": "어기여차",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어기영차",
+    "translation": "хөгжөөнт дуу (хүнд зүйл өргөхдөө)",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어기적거리다",
+    "translation": "тогтохгүй хөдөлгөөн хийх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어기적어기적",
+    "translation": "гацаж ацах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어김없다",
+    "translation": "Яг таг, алдаагүй",
+    "hanja": "",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "어김없이",
+    "translation": "яг л",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어깃장",
+    "translation": "хөндлөн гулд мод",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "어깡",
+    "translation": "мөрний булчин",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어깨",
+    "translation": "мөр",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어깨너머",
+    "translation": "мэдэлгүй, сураггүй",
+    "hanja": "어깨너머",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어깨동무",
+    "translation": "Мөрөөрөө нийлэх",
+    "hanja": "어깨동무",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어깨동무하다",
+    "translation": "мөр мөрөө түших",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어깨춤",
+    "translation": "мөрний бүжиг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어깻숨",
+    "translation": "Мөрний амьсгал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어깻죽지",
+    "translation": "Мөрний хэсэг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어나",
+    "translation": "ай",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어나니머스",
+    "translation": "Анонимус",
+    "hanja": "어나니머스",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "어내",
+    "translation": "авах",
+    "hanja": "None",
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "어눌하다",
+    "translation": "Дүлий",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어느",
+    "translation": "ямар",
+    "hanja": "어느",
+    "pos": "관형사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어느덧",
+    "translation": "хэдийнээ, үл мэдэгдэм",
+    "hanja": "어느덧",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "어느새",
+    "translation": "хэдийнээ",
+    "hanja": "어느새",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어니",
+    "translation": "эрни",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어답터",
+    "translation": "адаптер",
+    "hanja": "어답터",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "어댑터",
+    "translation": "Хувиргагч",
+    "hanja": "adapter",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어데",
+    "translation": "хаана",
+    "hanja": "어데",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어도",
+    "translation": "загасны зам (голд)",
+    "hanja": "魚道",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "어도비",
+    "translation": "Адобе",
+    "hanja": "Adobe",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어동",
+    "translation": "загас",
+    "hanja": "魚冬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어두운색",
+    "translation": "бараан өнгө",
+    "hanja": "No Hanja",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어두움",
+    "translation": "харанхуй",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어두육미",
+    "translation": "загасны толгой, махны сүүл",
+    "hanja": "魚頭肉尾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어두침침하다",
+    "translation": "бүүдгэр",
+    "hanja": "어두침침하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "어두컴컴하다",
+    "translation": "Бүрий татсан, харанхуй",
+    "hanja": "어두컴컴하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어둑어둑",
+    "translation": "бүдэг бадаг",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어둑어둑하다",
+    "translation": "Бүрийх, харанхуйлах",
+    "hanja": "어둑어둑하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어둑하다",
+    "translation": "Бүрий болсон, харанхуйдуу",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어둠",
+    "translation": "Харанхуй",
+    "hanja": "어둠",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어둠침침하다",
+    "translation": "бүүдгэр",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어둡다",
+    "translation": "Харанхуй",
+    "hanja": "어둡다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어드",
+    "translation": "Зар сурталчилгаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어드렇다",
+    "translation": "ямар ч байсан, яахав",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어드레스",
+    "translation": "Хаяг",
+    "hanja": "어드레스",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "어드메",
+    "translation": "Хаанах, хаана",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어드바이스",
+    "translation": "зөвлөгөө",
+    "hanja": "어드바이스",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어드밴티지",
+    "translation": "Давуу тал",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "어등산",
+    "translation": "Өдунгсан уул",
+    "hanja": "魚登山",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어디",
+    "translation": "хаана",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "어디메",
+    "translation": "хаана",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어딜다",
+    "translation": "хаашаа ч явах",
+    "hanja": "어딜다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "어따",
+    "translation": "хөөх, ёоё (хайхрамжгүй) / хаашаа",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어떠어떠하다",
+    "translation": "Ямар нэгэн байдлаар",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어떠케",
+    "translation": "яаж",
+    "hanja": "어떠케",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어떠하다",
+    "translation": "ямар байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어떡",
+    "translation": "яах вэ",
+    "hanja": "어떡",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어떡해서",
+    "translation": "яаж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어떤",
+    "translation": "ямар нэг, зарим нэг",
+    "hanja": "어떤",
+    "pos": "관형사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어떵",
+    "translation": "яаж, хэрхэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어떵하다",
+    "translation": "ямар, яах вэ",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어떻다",
+    "translation": "ямар",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "어뜩하다",
+    "translation": "яах, ямар арга хэрэглэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어라하",
+    "translation": "Эолаха (албан тушаалтан)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어란",
+    "translation": "загасны түрс",
+    "hanja": "魚卵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어래",
+    "translation": "өнгөрсөн жил",
+    "hanja": "於來",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어런",
+    "translation": "хүнд, ноцтой",
+    "hanja": null,
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어럽쇼",
+    "translation": "Өө, ямар сонин юм бэ!",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어레이",
+    "translation": "массив",
+    "hanja": "array",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어레인지",
+    "translation": "Зохион байгуулах (англи arrange-ээс)",
+    "hanja": "어레인지",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "어려",
+    "translation": "хэцүү",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어려움",
+    "translation": "Хүндрэл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어려워하다",
+    "translation": "хэцүүлэх",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "어련하다",
+    "translation": "хүндэтгэлтэй",
+    "hanja": "어련하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "어련히",
+    "translation": "мэдээж, сайн",
+    "hanja": "어련히",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "어렴풋이",
+    "translation": "бүдэг бадаг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어렴풋하다",
+    "translation": "бүдэг бадаг",
+    "hanja": "어렴풋하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "어렵",
+    "translation": "хэцүү",
+    "hanja": "어렵-",
+    "pos": "Adj",
+    "cefr": "A2"
+  },
+  {
+    "word": "어렵다",
+    "translation": "хэцүү",
+    "hanja": "어렵다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어렵다",
+    "translation": "хэцүү",
+    "hanja": "어렵다",
+    "pos": "adjective",
+    "cefr": "A1"
+  },
+  {
+    "word": "어렵사리",
+    "translation": "хэцүүхэн",
+    "hanja": "어렵사리",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어록",
+    "translation": "сургууль, үгийн сан",
+    "hanja": "語錄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어뢰",
+    "translation": "торпед",
+    "hanja": "魚雷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어룡",
+    "translation": "Загасан гүрвэл",
+    "hanja": "魚龍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어루러기",
+    "translation": "арьсны өвчин",
+    "hanja": "어루러기",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어루만지다",
+    "translation": "Илж таалах",
+    "hanja": "어루만지다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "어류",
+    "translation": "Загас",
+    "hanja": "魚類",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "어르",
+    "translation": "Уйлж аргадах",
+    "hanja": "어르",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "어르다",
+    "translation": "тоглох, наадах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어르신",
+    "translation": "ахмад настан",
+    "hanja": "어르신",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어른",
+    "translation": "насанд хүрсэн хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어른거리다",
+    "translation": "Бүдэгхэн харагдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어른스럽다",
+    "translation": "насанд хүрсэн мэт аашлах",
+    "hanja": "",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "어른어른",
+    "translation": "Бүдэгхэн, сүүмгэр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어리",
+    "translation": "сүлжээ",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어리광",
+    "translation": "хүүхдийн ааш",
+    "hanja": "어리광",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "어리굴젓",
+    "translation": "хясааны давсалсан амтлагч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어리다",
+    "translation": "залуу, бага",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어리둥절하다",
+    "translation": "гайхах, төөрөлдөх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어리바리",
+    "translation": "түймэр шиг",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "null"
+  },
+  {
+    "word": "어리바리하다",
+    "translation": "эв хавгүй, тэнэгдүү",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어리버리하다",
+    "translation": "самуурсан, эргэлзсэн",
+    "hanja": "어리버리하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어리벙벙하다",
+    "translation": "гайхах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어리석다",
+    "translation": "Тэнэг, мунхаг",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "어리숙하다",
+    "translation": "Гэнэн, цайлган",
+    "hanja": "어리숙하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어린",
+    "translation": "залуу, бага",
+    "hanja": "null",
+    "pos": "관형사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어린아이",
+    "translation": "хүүхэд",
+    "hanja": "어린아이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어린애",
+    "translation": "хүүхэд",
+    "hanja": "어린애",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어린이",
+    "translation": "Хүүхэд",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "어린이날",
+    "translation": "хүүхдийн баяр",
+    "hanja": "어린이날",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어린이집",
+    "translation": "хүүхдийн цэцэрлэг",
+    "hanja": "어린이집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어림",
+    "translation": "орчим",
+    "hanja": "어림",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어림없다",
+    "translation": "боломжгүй",
+    "hanja": "어림없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어림잡다",
+    "translation": "ойролцоогоор тооцоолох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어림짐작",
+    "translation": "ойролцоогоор тооцоолох",
+    "hanja": "어림짐작",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어림짐작하다",
+    "translation": "ойролцоогоор тооцоолох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어림하다",
+    "translation": "таамаглах",
+    "hanja": "어림하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어릿광대",
+    "translation": "инээдмийн жүжигчин",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어마",
+    "translation": "ээжээ",
+    "hanja": "어마",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어마어마하다",
+    "translation": "асар том",
+    "hanja": "於磨於磨하다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "어마이",
+    "translation": "ээж (аялагуунаас)",
+    "hanja": "어마이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어마하다",
+    "translation": "маш их, асар их",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어매",
+    "translation": "Ээж (аялгуу буюу хуучны хэллэг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어머나",
+    "translation": "өө бурхан минь",
+    "hanja": null,
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "어머니",
+    "translation": "ээж",
+    "hanja": "null",
+    "pos": "NOUN",
+    "cefr": "A1"
+  },
+  {
+    "word": "어머님",
+    "translation": "ээж",
+    "hanja": "어머님",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "어머머",
+    "translation": "Өө бурхан минь! (гайхширал илэрхийлэх дуу)",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어머이",
+    "translation": "ээж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어멈",
+    "translation": "ээж",
+    "hanja": "어멈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어멋",
+    "translation": "Өө",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어멍",
+    "translation": "Ээж (Жэжу аялгуу)",
+    "hanja": "어멍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어멓다",
+    "translation": "Гайхалтай",
+    "hanja": null,
+    "pos": "Тэмдэг нэр",
+    "cefr": "B1"
+  },
+  {
+    "word": "어메",
+    "translation": "өө бурхан",
+    "hanja": "어메",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어메니티",
+    "translation": "тав тух",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어명",
+    "translation": "түшмэлийн тушаал",
+    "hanja": "御命",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어무",
+    "translation": "Эх",
+    "hanja": "御母",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어무이",
+    "translation": "эх (аялга)",
+    "hanja": "어무이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어묵",
+    "translation": "загасны бөөрөнхий",
+    "hanja": "어묵",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어물거리다",
+    "translation": "Хойшлуулах, эргэлзэх",
+    "hanja": "—",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어물어물",
+    "translation": "түгэлзэх",
+    "hanja": "어물어물",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "어물어물하다",
+    "translation": "хойш тавих, цаг алдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어물쩍",
+    "translation": "хойшлуулах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어물쩡",
+    "translation": "эргэлзэж тээнэгэлзэх",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어미",
+    "translation": "эх",
+    "hanja": "어미",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어민",
+    "translation": "загасчин",
+    "hanja": "漁民",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어버버",
+    "translation": "үг гацах, сатаарах",
+    "hanja": "어버버",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어버버거리다",
+    "translation": "эрүүлэх",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어버버하다",
+    "translation": "эмээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어버이",
+    "translation": "эцэг эх",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "어버이날",
+    "translation": "эцэг эхийн өдөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "translation": "хэлзүйн дүрэм",
+    "hanja": "語法",
+    "pos": "명사",
+    "cefr": "B2",
+    "word": "어법"
+  },
+  {
+    "word": "어벙이",
+    "translation": "тэнэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어벙하다",
+    "translation": "тэнэгдүү",
+    "hanja": "어벙하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어벤저",
+    "translation": "өрлөг",
+    "hanja": "어벤저",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어보",
+    "translation": "хааны тамга",
+    "hanja": "御寶",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "어복",
+    "translation": "загасны гэдэс",
+    "hanja": "魚腹",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "어부",
+    "translation": "Загасчин",
+    "hanja": "漁夫",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어부바",
+    "translation": "ардаа үүрэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어부바하다",
+    "translation": "үүрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어부지리",
+    "translation": "загасчны ашиг",
+    "hanja": "漁夫之利",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "어불성설",
+    "translation": "Утгагүй үг, үл зохицох зүйл",
+    "hanja": "語不成說",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "어뷰징",
+    "translation": "урвуулан ашиглах",
+    "hanja": "abusing",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어비",
+    "translation": "загасны хураамж",
+    "hanja": "漁費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어빙",
+    "translation": "Ирвинг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어사",
+    "translation": "Хааны элч",
+    "hanja": "御史",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "어색",
+    "translation": "бэрхшээлтэй",
+    "hanja": "語塞",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어색하다",
+    "translation": "эвгүй",
+    "hanja": "어색하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어서어서",
+    "translation": "хурдан хурдан, яараарай",
+    "hanja": null,
+    "pos": "д.ү.",
+    "cefr": "A1"
+  },
+  {
+    "word": "어선",
+    "translation": "загас агнуурын хөлөг онгоц",
+    "hanja": "漁船",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어설프다",
+    "translation": "Дургүй, эвгүй",
+    "hanja": "어설프다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어셈블",
+    "translation": "угсрах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어셈블리",
+    "translation": "угсралт, хурал",
+    "hanja": "assembly",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어수",
+    "translation": "бүх тоо",
+    "hanja": "漁數",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "어수룩하다",
+    "translation": "гэнэн, үнэмшдэг, шулуун",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어수선하다",
+    "translation": "Эмх замбараагүй",
+    "hanja": "어수선하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "어순",
+    "translation": "үгийн дараалал",
+    "hanja": "語順",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어스",
+    "translation": "дэлхий",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어스레하다",
+    "translation": "бүдэг бадаг",
+    "hanja": "어스레하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어스름",
+    "translation": "үүрийн гэгээ",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어스름하다",
+    "translation": "бүүдгэр, бүдэг бадаг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어슬렁",
+    "translation": "Унжгар, сул зөрөх (амьтан)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어슬렁거리다",
+    "translation": "тэнэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어슬렁대다",
+    "translation": "тэнүүчлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어슬렁어슬렁",
+    "translation": "зэлэн зэлэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어슴푸레",
+    "translation": "희미하게, 어렴풋이",
+    "hanja": "어슴푸레",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어슴푸레하다",
+    "translation": "бүүдгэр, бүдэг бадаг",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어슷썰다",
+    "translation": "ташуу хэрчих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어슷하다",
+    "translation": "ташуурах",
+    "hanja": "어슷하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어시",
+    "translation": "туслах ажилтан",
+    "hanja": "assist",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어시스턴트",
+    "translation": "туслах ажилтан",
+    "hanja": "assistant",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어시스트",
+    "translation": "Туслах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어시스트하다",
+    "translation": "туслах",
+    "hanja": "assist하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어시장",
+    "translation": "загасны зах",
+    "hanja": "魚市場",
+    "pos": "name",
+    "cefr": "A2"
+  },
+  {
+    "word": "어쏘",
+    "translation": "Холбоотой",
+    "hanja": null,
+    "pos": "Нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "어아",
+    "translation": "бүүвэйлэх дуу",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어안",
+    "translation": "Тархи",
+    "hanja": "魚眼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "어야디야",
+    "translation": "охийн дуу (завиар аялах үед дуулдаг)",
+    "hanja": "어야디야",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어언",
+    "translation": "бараг",
+    "hanja": "於焉",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어업",
+    "translation": "Загас агнуур",
+    "hanja": "漁業",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어여쁘다",
+    "translation": "Хөөрхөн",
+    "hanja": "---",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어여삐",
+    "translation": "хөөрхөн",
+    "hanja": "어여삐",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어엿하다",
+    "translation": "Нэр хүндтэй, зохистой",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어영",
+    "translation": "тэнүүчлэх",
+    "hanja": "瘀泳",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어영부영",
+    "translation": "хойшлуулах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어영부영하다",
+    "translation": "Цаг нөхцөөх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "어용",
+    "translation": "Засгийн газрын",
+    "hanja": "御用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어우르다",
+    "translation": "нийлүүлэх, хольж хутгах",
+    "hanja": "어우르다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어욱",
+    "translation": "Ук (хүний нэр)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "어울다",
+    "translation": "холимог",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "어울리다",
+    "translation": "тохирох, зохицох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어워드",
+    "translation": "Шагнал",
+    "hanja": "award",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어원",
+    "translation": "үгийн үндэс, этимологи",
+    "hanja": "語源",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어유",
+    "translation": "загасны тос",
+    "hanja": "魚油",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어육",
+    "translation": "Загасны мах",
+    "hanja": "魚肉",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "어으",
+    "translation": "Өө (огцом цочирдсон үед)",
+    "hanja": null,
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "어은",
+    "translation": "загасчлах",
+    "hanja": "漁隱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어음",
+    "translation": "төлбөрийн вексель",
+    "hanja": "어음",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어응",
+    "translation": "үгүй, тийм ээ",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어의",
+    "translation": "эзэн хааны эмч",
+    "hanja": "어의(御醫)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어이",
+    "translation": "эрүү",
+    "hanja": null,
+    "pos": "interjection",
+    "cefr": "B2"
+  },
+  {
+    "word": "어이구",
+    "translation": "Өө",
+    "hanja": "",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어이어이",
+    "translation": "хөөе хөөе",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어이없다",
+    "translation": "утгагүй",
+    "hanja": "어이없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어이없이",
+    "translation": "утгагүйгээр, гэнэт",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "어이쿠",
+    "translation": "ай чөтгөр (дуу алдах)",
+    "hanja": "어이쿠",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어이하다",
+    "translation": "яах, юу хийх",
+    "hanja": "어이하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어인",
+    "translation": "загасчин",
+    "hanja": "漁人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어자",
+    "translation": "загас баригч, загасчин",
+    "hanja": "漁者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어장",
+    "translation": "загас агнуурын газар",
+    "hanja": "漁場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어저께",
+    "translation": "өчигдөр",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "어전",
+    "translation": "хааны өмнө",
+    "hanja": "御前",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어절",
+    "translation": "үгийн хэллэг",
+    "hanja": "語節",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "어절씨구",
+    "translation": "хөөх, ёстой үнэн",
+    "hanja": "어절씨구",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어정거리다",
+    "translation": "хулхидах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어정어정",
+    "translation": "Ганхалзан, удаан алхах",
+    "hanja": "어정어정",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "어정쩡",
+    "translation": "эвгүй, ялимгүй, 어중간하다",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어정쩡하다",
+    "translation": "эвгүй байх",
+    "hanja": "어정쩡하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어제",
+    "translation": "өчигдөр",
+    "hanja": "어제",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어제밤",
+    "translation": "өчигдөр орой",
+    "hanja": "어제밤",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어제오늘",
+    "translation": "өчигдөр өнөөдөр, саяхан",
+    "hanja": "어제오늘",
+    "pos": "м/дбү",
+    "cefr": "B2"
+  },
+  {
+    "word": "어제저녁",
+    "translation": "өчигдөр орой",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "어제하다",
+    "translation": "Боловсруулах, үйлдвэрлэх",
+    "hanja": "御製하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어젠다",
+    "translation": "хэлэлцэх асуудал",
+    "hanja": "agenda",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어젯밤",
+    "translation": "өнгөрсөн шөнө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어조",
+    "translation": "өнгө аяс",
+    "hanja": "語調",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어족",
+    "translation": "Загасны төрөл, загасны овог",
+    "hanja": "魚族",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어좁이",
+    "translation": "Нарийхан мөртэй хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어종",
+    "translation": "Загасны төрөл",
+    "hanja": "魚種",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어좌",
+    "translation": "хаан ширээ, сэнтий",
+    "hanja": "御座",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어죽",
+    "translation": "загасны шөл",
+    "hanja": "魚粥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어줍다",
+    "translation": "ичиж зовох",
+    "hanja": "어줍다",
+    "pos": "тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "어줍잖다",
+    "translation": "бэрхшээлтэй, төвөгтэй, эвгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어중간",
+    "translation": "дундаж, тодорхойгүй",
+    "hanja": "어중간",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어중간하다",
+    "translation": "Дунд зэргийн, тодорхой бус",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어중이떠중이",
+    "translation": "Олон янзын хүмүүс",
+    "hanja": "어중이떠중이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어즙",
+    "translation": "Загасны шүүс",
+    "hanja": "魚汁",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "어지간하다",
+    "translation": "хангалттай байх",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "어지간히",
+    "translation": "제법, нэлээд",
+    "hanja": "어지간히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어지러이",
+    "translation": "самуун, замбараагүй",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어지럼",
+    "translation": "толгой эргэх",
+    "hanja": "어지럼",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어지럼증",
+    "translation": "Толгой эргэх өвчин",
+    "hanja": "어지럼증",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어지럽다",
+    "translation": "толгой эргэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어지럽히다",
+    "translation": "замбараагүй болгох",
+    "hanja": "어지럽히다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "어지르다",
+    "translation": "замбараагүй болгох",
+    "hanja": "어지르다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "어질리티",
+    "translation": "уян хатан байдал",
+    "hanja": "agility",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어질어질하다",
+    "translation": "толгой эргэх, дотор муухайрах",
+    "hanja": "어질어질하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어질하다",
+    "translation": "толгой эргэх",
+    "hanja": "null",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "어짜피",
+    "translation": "ямар ч гэсэн, ямар ч байсан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어쨌든",
+    "translation": "Ямар нэгэн байдлаар",
+    "hanja": "",
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "어쩌고",
+    "translation": "Ийм тэрийгээр, гэх мэт",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어쩌고저쩌고",
+    "translation": "ийш тийш",
+    "hanja": "—",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "어쩌고저쩌고하다",
+    "translation": "ингэ тэгээд ярих",
+    "hanja": "어쩌고저쩌고하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어쩌구저쩌구",
+    "translation": "ингэж тэгж",
+    "hanja": "어쩌구저쩌구",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "어쩌다",
+    "translation": "яаж",
+    "hanja": "어쩌다",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어쩔라고",
+    "translation": "яах гээд байгаа юм?",
+    "hanja": "어쩔라고",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어쩧다",
+    "translation": "яах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어쭈",
+    "translation": "хөөе",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어쭈구리",
+    "translation": "어쭈구리 (감탄사)",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어쭙잖다",
+    "translation": "өчүүхэн, үнэ цэнгүй",
+    "hanja": "—찮다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어찌",
+    "translation": "яаж, хэрхэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어찌다",
+    "translation": "яаж",
+    "hanja": "어찌다",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어찌어찌",
+    "translation": "яаж ийгээд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어찌어찌하다",
+    "translation": "ямар нэгэн байдлаар хийх",
+    "hanja": "어찌어찌하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어찌저찌",
+    "translation": "ямар нэгэн байдлаар",
+    "hanja": "어찌저찌",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "어찌저찌하다",
+    "translation": "яаж ийгээд",
+    "hanja": "어찌저찌하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어찌케",
+    "translation": "Яаж, хэрхэн (амаар)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어찌하다",
+    "translation": "яах",
+    "hanja": "어찌하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "어찔어찔하다",
+    "translation": "толгой эргэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어차피",
+    "translation": "ямар ч байсан",
+    "hanja": "於此彼",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어창",
+    "translation": "загасны агуулах",
+    "hanja": "漁艙",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "어처구니없다",
+    "translation": "утга учиргүй, гайхмаар",
+    "hanja": "어처구니없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어처구니없이",
+    "translation": "утгагүйгээр",
+    "hanja": "어처구니없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어초",
+    "translation": "Загасны өвс",
+    "hanja": "魚草",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어촌",
+    "translation": "загасчдын тосгон",
+    "hanja": "漁村",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어케",
+    "translation": "Яаж (어떻게-ийн товчилсон хэлбэр)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어코드",
+    "translation": "тохиролцоо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어쿠스틱",
+    "translation": "акустик",
+    "hanja": "어쿠스틱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어클다",
+    "translation": "эрүүлэх, ухах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어탕",
+    "translation": "загасны шөл",
+    "hanja": "魚湯",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어택",
+    "translation": "Дайралт",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어투",
+    "translation": "хэлний өнгө аяс",
+    "hanja": "語套",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어트랙션",
+    "translation": "сонирхол татах зүйл",
+    "hanja": "어트랙션",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어트케",
+    "translation": "Яаж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어패",
+    "translation": "загасны царцдас",
+    "hanja": "魚貝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어패럴",
+    "translation": "хувцас",
+    "hanja": "apparel",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어패류",
+    "translation": "далайн амьтад (загас, хясаа)",
+    "hanja": "魚貝類",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어퍼컷",
+    "translation": "Дээд цохилт",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어폐",
+    "translation": "Үгийн зөрчил, үгний алдаа",
+    "hanja": "語弊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어포",
+    "translation": "загасны хатаасан мах",
+    "hanja": "魚脯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어표",
+    "translation": "утга тэмдэг",
+    "hanja": "語標",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어푸",
+    "translation": "усанд орох чимээ",
+    "hanja": "어푸",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어푸어푸",
+    "translation": "усан дотор амьсгалах авиа",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어프다",
+    "translation": "Хүнд хэцүү",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어프로치",
+    "translation": "хандах, ойртох",
+    "hanja": "approach",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어플",
+    "translation": "Апп",
+    "hanja": "app",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어플리케이션",
+    "translation": "Аппликейшн, програм хангамж",
+    "hanja": "application",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어피",
+    "translation": "Загасны арьс",
+    "hanja": "魚皮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어필",
+    "translation": "давж заалдах",
+    "hanja": "어필",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "어하다",
+    "translation": "эхнэрийг нь хориглох",
+    "hanja": "漁하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "어학",
+    "translation": "хэлний судлал",
+    "hanja": "語學",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어학연수",
+    "translation": "Хэлний сургалт",
+    "hanja": "語學研修",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어학원",
+    "translation": "хэлний сургууль",
+    "hanja": "語學院",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어항",
+    "translation": "загасны аквариум",
+    "hanja": "魚缸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어향",
+    "translation": "Загасны үнэр",
+    "hanja": "魚香",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어허",
+    "translation": "хөөе (уриулга)",
+    "hanja": "어허",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어허허",
+    "translation": "ох хох (гайхах, шоолох дуу)",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어험",
+    "translation": "хүүе",
+    "hanja": "어험",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어헛",
+    "translation": "Өө",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어혈",
+    "translation": "бөглөрсөн цус (Анагаах)",
+    "hanja": "瘀血",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "어형",
+    "translation": "загасны хэлбэр",
+    "hanja": "魚形",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어호",
+    "translation": "Загасны нуур",
+    "hanja": "漁湖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어화둥둥",
+    "translation": "өнгийг минь",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어획",
+    "translation": "загасчлах",
+    "hanja": "漁獲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "загасны багц",
+    "hanja": "漁獲量",
+    "pos": "명사",
+    "cefr": "C1",
+    "word": "어획량"
+  },
+  {
+    "word": "어휘",
+    "translation": "Үгийн сан",
+    "hanja": "語彙",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어휘력",
+    "translation": "Үгийн баялаг",
+    "hanja": "語彙力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어휴",
+    "translation": "Өөш",
+    "hanja": "어휴",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어흠",
+    "translation": "э-хэм (хоолой засах дуу)",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "어흥",
+    "translation": "архирах (дуу)",
+    "hanja": "어흥",
+    "pos": "부사",
+    "cefr": "A1"
+  }
+]

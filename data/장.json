@@ -1,0 +1,2011 @@
+[
+  {
+    "word": "장",
+    "translation": "хуудас",
+    "hanja": "張",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "장가",
+    "translation": "Хүргэн",
+    "hanja": "丈家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장가계",
+    "translation": "Жанжиажие",
+    "hanja": "張家界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장가들다",
+    "translation": "Эхнэр авах, гэрлэх (эрэгтэй)",
+    "hanja": "娶嫁들다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "장가보내다",
+    "translation": "хүүгээ гэрлүүлэх",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "장각",
+    "translation": "Доош хөл",
+    "hanja": "長脚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장갑",
+    "translation": "бээлий",
+    "hanja": "掌甲",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장강",
+    "translation": "Янз мөрөн",
+    "hanja": "長江",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장거",
+    "translation": "урт хугацаа",
+    "hanja": "長거리",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "장거리",
+    "translation": "Холын зай",
+    "hanja": "長距離",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장검",
+    "translation": "урт илд",
+    "hanja": "長劍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장경",
+    "translation": "урт",
+    "hanja": "長經",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장계",
+    "translation": "албан бичиг",
+    "hanja": "狀啓",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "장고",
+    "translation": "чанго (хөгжмийн зэмсэг)",
+    "hanja": "杖鼓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장고하다",
+    "translation": "удаан бодох, удаан тунгаах",
+    "hanja": "長考하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장곡",
+    "translation": "урт хөндий",
+    "hanja": "長谷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장골",
+    "translation": "хонгоны яс",
+    "hanja": "腸骨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장관",
+    "translation": "Сайд",
+    "hanja": "長官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장관하다",
+    "translation": "Байцаах, үзэх",
+    "hanja": "壯觀하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "장광",
+    "translation": "нарийн, урт",
+    "hanja": "長廣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장광설",
+    "translation": "урт үг хэллэг",
+    "hanja": "長廣舌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장교",
+    "translation": "офицер",
+    "hanja": "將校",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "장구",
+    "translation": "бөмбөр",
+    "hanja": "長鼓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장구하다",
+    "translation": "удаан үргэлжлэх, урт настай",
+    "hanja": "長久하다",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "장국",
+    "translation": "Шөл",
+    "hanja": "醬국",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장군",
+    "translation": "генерал",
+    "hanja": "將軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장군감",
+    "translation": "жанжин байх хүн",
+    "hanja": "將軍감",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장궁",
+    "translation": "Урт нум",
+    "hanja": "長弓",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "장권",
+    "translation": "эртний бичвэр",
+    "hanja": "藏卷",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장기",
+    "translation": "удаан хугацаа, шатар",
+    "hanja": "長期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장기간",
+    "translation": "удаан хугацаа",
+    "hanja": "長期間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장기다",
+    "translation": "зузаан байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장기수",
+    "translation": "урт хугацааны хоригдол",
+    "hanja": "長期囚",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "장기적",
+    "translation": "Урт хугацааны",
+    "hanja": "長期的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "장기전",
+    "translation": "Удаан хугацааны тулаан",
+    "hanja": "長期戰",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "장기판",
+    "translation": "шатарт самбар",
+    "hanja": "將棋板",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장기하다",
+    "translation": "Удаан оршин суух, удаан үргэлжлэх",
+    "hanja": "長期하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장기화",
+    "translation": "Удаан хугацааны",
+    "hanja": "長期化",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "장기화되다",
+    "translation": "урт хугацаагаар үргэлжлэх",
+    "hanja": "長期化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장기화하다",
+    "translation": "удаан үргэлжлэх",
+    "hanja": "長期化하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "장꾸",
+    "translation": "тоглоом шоглоом",
+    "hanja": "장꾸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장끼",
+    "translation": "эр тагтаа",
+    "hanja": "장끼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장난",
+    "translation": "тоглоом, шоглоом",
+    "hanja": "장난",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장난감",
+    "translation": "тоглоом",
+    "hanja": "장난감",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "장난기",
+    "translation": "Тоглоомч зан",
+    "hanja": "장난氣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장난꾸러기",
+    "translation": "дүрсгүй хүүхэд",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "장난삼다",
+    "translation": "тоглоом шоглоом хийх",
+    "hanja": "장난삼다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "장난스럽다",
+    "translation": "Тоглоомтой",
+    "hanja": "장난스럽다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장난스레",
+    "translation": "тоглоом шоглоомоор",
+    "hanja": "장난스레",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장난질",
+    "translation": "тоглоом шоглоом, хорлон сүйтгэх ажиллагаа",
+    "hanja": "장난질",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장난질하다",
+    "translation": "дүрсгүйтэх",
+    "hanja": "장난질하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장난치다",
+    "translation": "тоглоом хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장난하다",
+    "translation": "тоглох",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "장날",
+    "translation": "захын өдөр",
+    "hanja": "場날",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장남",
+    "translation": "ууган хүү",
+    "hanja": "長男",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장남하다",
+    "translation": "тоглох",
+    "hanja": "злона",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장내",
+    "translation": "талбар дотор, газар дотор",
+    "hanja": "場內",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장녀",
+    "translation": "ууган охин",
+    "hanja": "長女",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장년",
+    "translation": "Дунд нас",
+    "hanja": "壯年",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "장년기",
+    "translation": "Өндөр настай үе",
+    "hanja": "壯年期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장년층",
+    "translation": "Дунд насны хүмүүс",
+    "hanja": "壯年層",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "장농",
+    "translation": "хувцасны шүүгээ, шүүгээ",
+    "hanja": "장롱",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장님",
+    "translation": "сохор хүн",
+    "hanja": "장님",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장다리",
+    "translation": "өндөр хүн",
+    "hanja": "長다리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장단",
+    "translation": "хэмнэл",
+    "hanja": "長短(장단)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장단점",
+    "translation": "давуу болон сул тал",
+    "hanja": "長短點",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장닭",
+    "translation": "азарган тахиа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장담",
+    "translation": "баталгаа, амбиц",
+    "hanja": "壯談",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "장담하다",
+    "translation": "ам өгөх, баталгаа өгөх",
+    "hanja": "壯談하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "장대",
+    "translation": "Урт мод",
+    "hanja": "長대",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장대높이뛰기",
+    "translation": "Тулгууртай өндрийн харайлт",
+    "hanja": "杖대높이뛰기",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "장대비",
+    "translation": "Шүршүүр бороо",
+    "hanja": "長대비",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장대하다",
+    "translation": "сүрлэг, гайхамшигтай",
+    "hanja": "壯大하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "장덕준",
+    "translation": "Чандокжун",
+    "hanja": "張德俊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장도",
+    "translation": "Урт зам",
+    "hanja": "壯途",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장도리",
+    "translation": "Авцас (багаж)",
+    "hanja": "長도리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장독",
+    "translation": "Жангийн сав",
+    "hanja": "장독",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장독대",
+    "translation": "соусны амбаар",
+    "hanja": "醬독대",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장동",
+    "translation": "Урт өвс",
+    "hanja": "長冬",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "장두",
+    "translation": "босс, тэргүүн",
+    "hanja": "長頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장두하다",
+    "translation": "толгой урт байх",
+    "hanja": "長頭하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장딴지",
+    "translation": "шиншил",
+    "hanja": "장딴지",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장땡",
+    "translation": "хамгийн сайн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장래",
+    "translation": "ирээдүй",
+    "hanja": "將來",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "장래성",
+    "translation": "Ирээдүйтэй байдал",
+    "hanja": "將來性",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "장량",
+    "translation": "Жан Лян (хүний нэр)",
+    "hanja": "張良",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "장려",
+    "translation": "урамшуулах",
+    "hanja": "獎勵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장려금",
+    "translation": "урамшуулал, дэмжлэг",
+    "hanja": "奬勵金",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장려되다",
+    "translation": "Урамшуулагдах",
+    "hanja": "奬勵되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "장려상",
+    "translation": "урамшууллын шагнал",
+    "hanja": "獎勵賞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장려하다",
+    "translation": "Урамшуулах",
+    "hanja": "奬勵하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "장력",
+    "translation": "хүчдэл",
+    "hanja": "張力",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장렬하다",
+    "translation": "баатарлаг",
+    "hanja": "壯烈하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장렬히",
+    "translation": "баатарлагаар, зоригтойгоор",
+    "hanja": "壯烈히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장령",
+    "translation": "офицер, дарга",
+    "hanja": "將領",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장례",
+    "translation": "оршуулга",
+    "hanja": "葬禮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장례식",
+    "translation": "оршуулга",
+    "hanja": "葬禮式",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장례식장",
+    "translation": "оршуулгын газар",
+    "hanja": "葬禮式場",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "장례하다",
+    "translation": "оршуулах ёслол хийх",
+    "hanja": "葬禮하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "장로",
+    "translation": "Ахлагч",
+    "hanja": "長老",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장롱",
+    "translation": "Шүүгээ",
+    "hanja": "장籠",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장료",
+    "translation": "Жан Ряо (хүний нэр)",
+    "hanja": "張遼",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "장루",
+    "translation": "гэдэсний хөндий",
+    "hanja": "腸瘺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장류",
+    "translation": "соусны төрөл",
+    "hanja": "醬類",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장르",
+    "translation": "Төрөл, жанр",
+    "hanja": "장르",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장릉",
+    "translation": "бунхан",
+    "hanja": "長陵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장리",
+    "translation": "Удирдлага, зохион байгуулах",
+    "hanja": "掌理",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장마",
+    "translation": "борооны улирал",
+    "hanja": "長마",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장마철",
+    "translation": "борооны улирал",
+    "hanja": "장마철",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장막",
+    "translation": "Хөшиг",
+    "hanja": "帳幕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장만",
+    "translation": "Бэлдэх, зохицуулах",
+    "hanja": "長晩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장만하다",
+    "translation": "Бэлтгэх, хангах",
+    "hanja": "장만하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장맛",
+    "translation": "коосны амт",
+    "hanja": "醬맛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장면",
+    "translation": "үзэгдэл",
+    "hanja": "場面",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장모",
+    "translation": "Хадам эх (эхнэр талын)",
+    "hanja": "丈母",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장모님",
+    "translation": "хадам эх",
+    "hanja": "丈母님",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장묘",
+    "translation": "оршуулга",
+    "hanja": "葬墓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장무",
+    "translation": "урт наст",
+    "hanja": "長畝",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "장문",
+    "translation": "урт бичвэр",
+    "hanja": "長文",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장물",
+    "translation": "хулгайлагдсан эд зүйлс",
+    "hanja": "贓物",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "장물아비",
+    "translation": "хулгайлсан эд зүйлийг борлуулагч",
+    "hanja": "贓物아비",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장미",
+    "translation": "сарнай",
+    "hanja": "薔薇",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장민",
+    "translation": "урт удаан амьдрал",
+    "hanja": "長命",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장밋빛",
+    "translation": "Сарнайн өнгөтэй",
+    "hanja": "薔薇빛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장바구니",
+    "translation": "худалдааны сагс",
+    "hanja": "null",
+    "pos": "м.н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "장바닥",
+    "translation": "захын талбай, захын газар",
+    "hanja": "場바닥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "translation": "урт хугацааны кемп",
+    "hanja": "長泊",
+    "pos": "명사",
+    "cefr": "C1",
+    "word": "장박"
+  },
+  {
+    "word": "장발",
+    "translation": "урт үстэй",
+    "hanja": "長髮",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "장발하다",
+    "translation": "Урт үстэй байх",
+    "hanja": "長髮하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장백",
+    "translation": "Жанбэг (нэр)",
+    "hanja": "長白",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장벽",
+    "translation": "хаалт, саад",
+    "hanja": "障壁",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "장병",
+    "translation": "офицер, цэрэг",
+    "hanja": "將兵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장보",
+    "translation": "худалдааны мэдээлэл",
+    "hanja": "帳簿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장본인",
+    "translation": "Үүсгэгч",
+    "hanja": "張本人",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "장봉",
+    "translation": "урт оргил",
+    "hanja": "長峰",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "장부",
+    "translation": "бүртгэл, дэвтэр",
+    "hanja": "帳簿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장비",
+    "translation": "тоног төхөөрөмж",
+    "hanja": "裝備",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장비하다",
+    "translation": "тоноглох",
+    "hanja": "裝備하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장빙",
+    "translation": "урт мөс",
+    "hanja": "長氷",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "장사",
+    "translation": "худалдаа",
+    "hanja": "商事",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "장사꾼",
+    "translation": "худалдаачин",
+    "hanja": "장사꾼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장사정포",
+    "translation": "алсын тусгалтай их буу",
+    "hanja": "長射程砲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장사진",
+    "translation": "урт дараалал",
+    "hanja": "長蛇陣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장사치",
+    "translation": "худалдаачин",
+    "hanja": "장사치",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장사하다",
+    "translation": "худалдаа хийх",
+    "hanja": "장사하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장산",
+    "translation": "Урт уул (газар нэр)",
+    "hanja": "長山",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장삼",
+    "translation": "бурхны шашны лам нарын нөмрөг",
+    "hanja": "長衫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장삿속",
+    "translation": "ашгийн шунал, худалдааны заль мэх",
+    "hanja": "장삿속",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장상",
+    "translation": "Жанжин, сайд",
+    "hanja": "將相",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장생",
+    "translation": "удаан наслах",
+    "hanja": "長生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장서",
+    "translation": "ном сан",
+    "hanja": "藏書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장석",
+    "translation": "фиелдспар (эрдэс)",
+    "hanja": "長石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장선",
+    "translation": "дам нуруу, шон",
+    "hanja": "長線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장선희",
+    "translation": "жансонхи",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "장성",
+    "translation": "насанд хүрэх",
+    "hanja": "長成",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장성하다",
+    "translation": "том болох",
+    "hanja": "長成하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장세",
+    "translation": "Зах зээлийн байдал",
+    "hanja": "場勢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장소",
+    "translation": "байршил",
+    "hanja": "場所",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장손",
+    "translation": "ууган хүү",
+    "hanja": "長孫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장송",
+    "translation": "оршуулгын дуу",
+    "hanja": "葬送",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장송곡",
+    "translation": "оршуулгын дуу, гашуудлын дуу",
+    "hanja": "葬送曲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장수",
+    "translation": "урт наслах",
+    "hanja": "長壽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장수연",
+    "translation": "урт наслах баяр",
+    "hanja": "長壽宴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장수하다",
+    "translation": "урт удаан наслах",
+    "hanja": "長壽하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "장순",
+    "translation": "урт удаан хугацаагаар дагах",
+    "hanja": "長旬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장승",
+    "translation": "Хөшөө",
+    "hanja": "長承",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장승업",
+    "translation": "Жансын-оп (Солонгосын зураач)",
+    "hanja": "張承業",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장시",
+    "translation": "нээлтийн цаг",
+    "hanja": "場始",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "장시간",
+    "translation": "удаан хугацаа",
+    "hanja": "長時間",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장식",
+    "translation": "чимэглэл",
+    "hanja": "裝飾",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장식되다",
+    "translation": "Чимэглэсэн",
+    "hanja": "裝飾되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "장식물",
+    "translation": "чимэглэл, гоёл чимэглэл",
+    "hanja": "裝飾物",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장식장",
+    "translation": "Тавиур",
+    "hanja": "裝飾欌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장식품",
+    "translation": "чимэглэл",
+    "hanja": "裝飾品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장식하다",
+    "translation": "чимэглэх",
+    "hanja": "裝飾하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "장신",
+    "translation": "өндөр биетэй",
+    "hanja": "長身",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "장신구",
+    "translation": "гоёл чимэглэл",
+    "hanja": "裝身具",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장쑤",
+    "translation": "Жянсу (муж)",
+    "hanja": "江蘇",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "장씨",
+    "translation": "Жан овогт",
+    "hanja": "張氏",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "장아",
+    "translation": "хүүхдийн тоглоом (хуруу барих)",
+    "hanja": "掌兒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장아찌",
+    "translation": "Даршилсан ногоо",
+    "hanja": "장아찌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장악",
+    "translation": "Хяналтдаа авах, эзэмдэх",
+    "hanja": "掌握",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장악되다",
+    "translation": "хяналтад орох",
+    "hanja": "掌握되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장악하다",
+    "translation": "Хянах, эзлэх",
+    "hanja": "掌握하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장안",
+    "translation": "Нийслэл хот",
+    "hanja": "長安",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장안성",
+    "translation": "Шиань хот",
+    "hanja": "長安城",
+    "pos": "고유명사",
+    "cefr": null
+  },
+  {
+    "word": "장암",
+    "translation": "чангам (солонгосын газарзүйн нэр)",
+    "hanja": "長岩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장애",
+    "translation": "хөгжлийн бэрхшээл",
+    "hanja": "障害",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장애물",
+    "translation": "саад",
+    "hanja": "障礙物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장애아",
+    "translation": "хөгжлийн бэрхшээлтэй хүүхэд",
+    "hanja": "障礙兒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장애인",
+    "translation": "хөгжлийн бэрхшээлтэй хүн",
+    "hanja": "障礙人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장애자",
+    "translation": "Хөгжлийн бэрхшээлтэй хүн",
+    "hanja": "障碍者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "장약",
+    "translation": "Далд хуруу, гол хуруу (анатоми)",
+    "hanja": "長約",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장양",
+    "translation": "материалыг татах",
+    "hanja": "張揚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장어",
+    "translation": "загас",
+    "hanja": "長魚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장엄",
+    "translation": "сүр жавхлантай",
+    "hanja": "莊嚴",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "장엄하다",
+    "translation": "Сүр жавхлантай",
+    "hanja": "莊嚴─",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장연",
+    "translation": "Урт үргэлжлэх",
+    "hanja": "長淵",
+    "pos": "명사",
+    "cefr": "N/A"
+  },
+  {
+    "word": "장염",
+    "translation": "гэдэсний үрэвсэл",
+    "hanja": "腸炎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장영",
+    "translation": "урт удаан хугацаа",
+    "hanja": "長營",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장온",
+    "translation": "Урт дулаан",
+    "hanja": "長溫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장옷",
+    "translation": "урт дээл (Солонгос уламжлалт)",
+    "hanja": "長옷",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "장외",
+    "translation": "зах зээлийн гадна",
+    "hanja": "場外",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장우",
+    "translation": "жан-ү (хүний нэр)",
+    "hanja": "張祐",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "장욱",
+    "translation": "Жан Ук (хүний нэр)",
+    "hanja": "張旭",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "장욱진",
+    "translation": "Жан Укжин (хүний нэр)",
+    "hanja": "張旭鎭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장웅",
+    "translation": "Жан Ун (хүний нэр)",
+    "hanja": "張雄",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장원",
+    "translation": "эзэмшил газар, ялагч",
+    "hanja": "莊園",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장원하다",
+    "translation": "урт удаан",
+    "hanja": "壯元하다",
+    "pos": "VA",
+    "cefr": "C1"
+  },
+  {
+    "word": "장위",
+    "translation": "гэдэс ходоод",
+    "hanja": "腸胃",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "장유",
+    "translation": "урт ба богино",
+    "hanja": "長幼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장유유서",
+    "translation": "ахмад настан, залуу хоёрын хоорондын эрэмбэ дараа",
+    "hanja": "長幼有序",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장음",
+    "translation": "Удаан дуудлага, урт аялга",
+    "hanja": "長音",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장의",
+    "translation": "оршуулгын ёслол, оршуулга",
+    "hanja": "葬儀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장의사",
+    "translation": "оршуулах газар",
+    "hanja": "葬儀社",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "장인",
+    "translation": "урчуудын",
+    "hanja": "匠人",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "장인어른",
+    "translation": "Хадам эцэг",
+    "hanja": "丈人어른",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장자",
+    "translation": "ууган хүү",
+    "hanja": "長子",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "장자제",
+    "translation": "Жанжиажие",
+    "hanja": "張家界",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장작",
+    "translation": "Түлээ",
+    "hanja": "長斫",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "장작개비",
+    "translation": "түлээний мод",
+    "hanja": "長작개비",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장작불",
+    "translation": "түлээний гал",
+    "hanja": "장작불",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장장",
+    "translation": "урт удаан",
+    "hanja": "장장(長長)",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장재이",
+    "translation": "гар урлалч",
+    "hanja": "장재이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장저우",
+    "translation": "Жанжоу",
+    "hanja": "漳州",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장전",
+    "translation": "буугаа цэнэглэх",
+    "hanja": "裝塡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장전되다",
+    "translation": "ачаалагдах, сум оруулах",
+    "hanja": "裝塡되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장전하다",
+    "translation": "буугаа цэнэглэх",
+    "hanja": "裝塡하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장절하다",
+    "translation": "урт удаан",
+    "hanja": "長絶하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장점",
+    "translation": "давуу тал",
+    "hanja": "長點",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "장정",
+    "translation": "залуу эрэгтэй",
+    "hanja": "壯丁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장조",
+    "translation": "ихэнх, гол",
+    "hanja": "長調",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장조림",
+    "translation": "соустай чанасан мах",
+    "hanja": "醬조림",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장족",
+    "translation": "Түвд үндэстэн",
+    "hanja": "藏族",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장주",
+    "translation": "Чанжу (Нэр)",
+    "hanja": "張主",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장죽",
+    "translation": "тахир тамхи",
+    "hanja": "長竹",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장준",
+    "translation": "урт бөгөөд өтгөн",
+    "hanja": "長駿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장중",
+    "translation": "хүндэтгэлтэй",
+    "hanja": "莊重",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장중하다",
+    "translation": "Цог жавхлантай",
+    "hanja": "莊重하다",
+    "pos": "Тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "장지",
+    "translation": "оршуулгын газар",
+    "hanja": "葬地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장진",
+    "translation": "Жанжин",
+    "hanja": "長津",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "장진주",
+    "translation": "чанжинжү",
+    "hanja": "將進酒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장차다",
+    "translation": "багаж, хэрэгсэл",
+    "hanja": "裝次다",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "장착",
+    "translation": "суурилуулалт",
+    "hanja": "裝着",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장착되다",
+    "translation": "суулгах, тоноглох",
+    "hanja": "裝着되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "장착하다",
+    "translation": "суурилуулах, тоноглох",
+    "hanja": "裝着하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장창",
+    "translation": "урт жад",
+    "hanja": "長槍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장철",
+    "translation": "Төмөр",
+    "hanja": "長鐵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장체",
+    "translation": "гэдэс",
+    "hanja": "腸體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장초",
+    "translation": "Урт өвс",
+    "hanja": "長草",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장총",
+    "translation": "урт буу",
+    "hanja": "長銃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장축",
+    "translation": "урт тэнхлэг",
+    "hanja": "長軸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장춘",
+    "translation": "Жанчунь (хот)",
+    "hanja": "長春",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "장충",
+    "translation": "Жанчун",
+    "hanja": "奬忠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장치",
+    "translation": "Төхөөрөмж",
+    "hanja": "裝置",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장치되다",
+    "translation": "угсрагдах, суурилагдах",
+    "hanja": "裝置되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장치하다",
+    "translation": "тоноглох, байрлуулах",
+    "hanja": "裝置하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장쾌하다",
+    "translation": "маш том",
+    "hanja": "壯快─",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장타",
+    "translation": "хүчтэй цохилт (голф, бэйсболд)",
+    "hanja": "長打",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "장터",
+    "translation": "худалдааны талбай",
+    "hanja": "場터",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장투",
+    "translation": "урт хугацааны хөрөнгө оруулалт",
+    "hanja": "長投",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장티푸스",
+    "translation": "гэдэсний хижиг",
+    "hanja": "腸티푸스",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "장판",
+    "translation": "Шалны хулдаас",
+    "hanja": "長板",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장편",
+    "translation": "Урт өгүүллэг, роман",
+    "hanja": "長篇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장평",
+    "translation": "урт тэгш талбай",
+    "hanja": "長坪",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장포",
+    "translation": "бөртөн",
+    "hanja": "帳鋪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장표",
+    "translation": "Тэмдэглэл, баримт",
+    "hanja": "帳票",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장풍",
+    "translation": "урт салхи",
+    "hanja": "掌風",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장하다",
+    "translation": "гайхамшигтай, сүрлэг",
+    "hanja": "壯하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장학",
+    "translation": "тэтгэлэг",
+    "hanja": "奬學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장학금",
+    "translation": "тэтгэлэг",
+    "hanja": "獎學金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장학생",
+    "translation": "тэтгэлэгт оюутан",
+    "hanja": "獎學生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장한",
+    "translation": "Баатарлаг, гайхалтай, урт үзэн ядалт",
+    "hanja": "壯漢",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "장항",
+    "translation": "Жанхан",
+    "hanja": "長項",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장해",
+    "translation": "Саад бэрхшээл",
+    "hanja": "障害",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장향",
+    "translation": "хүнсний амтлагч",
+    "hanja": "醬香",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장허",
+    "translation": "Бахдам, сайхан",
+    "hanja": "壯하며",
+    "pos": "감탄사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장형",
+    "translation": "өндөр настай ах",
+    "hanja": "丈兄",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장호",
+    "translation": "цонх",
+    "hanja": "障戶",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장호원",
+    "translation": "Жанховон (Солонгосын газар зүйн нэр)",
+    "hanja": "長湖院",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장홍",
+    "translation": "Жанхун (хүний нэр)",
+    "hanja": "張弘",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장화",
+    "translation": "Урт түрийтэй гутал",
+    "hanja": "長靴",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장황하다",
+    "translation": "урт",
+    "hanja": "張皇하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장훈",
+    "translation": "Чан Хун (хүний нэр)",
+    "hanja": "張勳",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "장흥",
+    "translation": "Жанхын (газар нэр)",
+    "hanja": "長興",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장희",
+    "translation": "Жан Хи (хүний нэр)",
+    "hanja": "張禧",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장히",
+    "translation": "маш их",
+    "hanja": "壯히",
+    "pos": "adverb",
+    "cefr": "B2"
+  }
+]

@@ -1,0 +1,513 @@
+[
+  {
+    "word": "점",
+    "translation": "Цэг",
+    "hanja": "點",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "점거",
+    "translation": "Эзлэн авах",
+    "hanja": "占據",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점거하다",
+    "translation": "эзлэх, эзлэн авах",
+    "hanja": "占據하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "점검",
+    "translation": "шалгах",
+    "hanja": "點檢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점검하다",
+    "translation": "шалгуулах, шалгах",
+    "hanja": "點檢하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점괘",
+    "translation": "мэргэний үг, таамаг",
+    "hanja": "占卦",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점대",
+    "translation": "үзэгдэхүйц",
+    "hanja": "点大",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "점도",
+    "translation": "зуурамтгай чанар",
+    "hanja": "粘度",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "점등",
+    "translation": "гэрэл асаах",
+    "hanja": "點燈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점등되다",
+    "translation": "гэрэл асаах",
+    "hanja": "點燈되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "점등하다",
+    "translation": "гэрэл асаах",
+    "hanja": "點燈하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "점령당하다",
+    "translation": "эзлэгдэх",
+    "hanja": "占領當-",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "점령되다",
+    "translation": "эзлэгдэх",
+    "hanja": "占領되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점령하다",
+    "translation": "Эзлэх, эзлэн авах",
+    "hanja": "占領하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점마",
+    "translation": "тэр хүн",
+    "hanja": "null",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "점막",
+    "translation": "салст бүрхэвч",
+    "hanja": "점막(粘膜)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "점멸",
+    "translation": "анин асаж унрах",
+    "hanja": "點滅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "점멸하다",
+    "translation": "Оргилох",
+    "hanja": "點滅하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점바치",
+    "translation": "мэргэч",
+    "hanja": null,
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "점박이",
+    "translation": "толботой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "점방",
+    "translation": "мухлаг",
+    "hanja": "店房",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "점보",
+    "translation": "аварга том",
+    "hanja": "점보(jumbo)",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "점복",
+    "translation": "мэргэ төлөг",
+    "hanja": "占卜",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "점사",
+    "translation": "зурхай",
+    "hanja": "占詞",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "점선",
+    "translation": "цуваа шугам",
+    "hanja": "點線",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "점성",
+    "translation": "нялцгай, наалдамхай чанар",
+    "hanja": "粘性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "점성술",
+    "translation": "зурхай",
+    "hanja": "占星術",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "점수",
+    "translation": "оноо, дүн",
+    "hanja": "點數",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "점수화하다",
+    "translation": "оноо өгөх",
+    "hanja": "點數化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점술",
+    "translation": "зөн совин",
+    "hanja": "占術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점식",
+    "translation": "цагийн хоол",
+    "hanja": "點食",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "점심",
+    "translation": "үдийн хоол",
+    "hanja": "點心",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "점심때",
+    "translation": "Үдийн хоолны үеэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "점심밥",
+    "translation": "үдийн хоол",
+    "hanja": "點心밥",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "점심시간",
+    "translation": "үдийн цайны цаг",
+    "hanja": "點心時間",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "점액",
+    "translation": "салс, шүүрэл",
+    "hanja": "粘液",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "점오",
+    "translation": "архивын тэмдэглэл хөтлөх; таван цэг",
+    "hanja": "點午",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "점용",
+    "translation": "эзлэх",
+    "hanja": "占庸",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "점원",
+    "translation": "худалдагч",
+    "hanja": "店員",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "점유",
+    "translation": "эзэмших",
+    "hanja": "占有",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점유율",
+    "translation": "эзлэх хувь",
+    "hanja": "占有率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "점유하다",
+    "translation": "эзлэх",
+    "hanja": "占有하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점이",
+    "translation": "булан",
+    "hanja": "點이",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "점자",
+    "translation": "Брайль үсэг",
+    "hanja": "點字",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "점잔",
+    "translation": "тайван, даруу",
+    "hanja": "點잖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점잖다",
+    "translation": "даруу",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "점장",
+    "translation": "дэлгүүрийн менежер",
+    "hanja": "店長",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "점쟁이",
+    "translation": "Мэргэч",
+    "hanja": "占쟁이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "점저",
+    "translation": "үдийн цай ба оройн хоолны хоорондох хоол",
+    "hanja": "점저",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점점",
+    "translation": "аажмаар",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "점정",
+    "translation": "Цэг тавих, өнгөлөх",
+    "hanja": "點睛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "점주",
+    "translation": "дэлгүүрийн эзэн",
+    "hanja": "店主",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "점지",
+    "translation": "өвлөх, сонгох",
+    "hanja": "點指",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "점지하다",
+    "translation": "зааж өгөх",
+    "hanja": "點指하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점진적",
+    "translation": "Аажмаар, үе шаттай",
+    "hanja": "漸進的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "점집",
+    "translation": "мэргэ төлгийн газар",
+    "hanja": "占집",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점찍다",
+    "translation": "цэг тавих",
+    "hanja": "點찍다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "점차",
+    "translation": "аажмаар, үе шаттайгаар",
+    "hanja": "漸次",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점착",
+    "translation": "наалдах, наалдуулах",
+    "hanja": "粘着",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점철되다",
+    "translation": "тэмдэглэгдсэн байх",
+    "hanja": "點綴되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "점치다",
+    "translation": "мэргэлэх",
+    "hanja": "점치다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "점토",
+    "translation": "Шавар",
+    "hanja": "粘土",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "점퍼",
+    "translation": "жакет, цамц",
+    "hanja": "점퍼",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "점포",
+    "translation": "Дэлгүүр",
+    "hanja": "店鋪",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "점프",
+    "translation": "Үсрэх",
+    "hanja": "jump",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "점프하다",
+    "translation": "үсрэх",
+    "hanja": "Jump하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "점핑",
+    "translation": "үсрэлт",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "점하다",
+    "translation": "эзлэх, хуваарилах, таамаглах",
+    "hanja": "占하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점호",
+    "translation": "амралт",
+    "hanja": "點呼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점호하다",
+    "translation": "Бүртгэл хийх, байцаах",
+    "hanja": "點呼하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점화",
+    "translation": "галлах, асаах",
+    "hanja": "點火",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "점화되다",
+    "translation": "асаах",
+    "hanja": "點火되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "점화하다",
+    "translation": "гал дүрэлзүүлэх",
+    "hanja": "點火하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

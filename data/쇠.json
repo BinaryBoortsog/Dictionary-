@@ -1,0 +1,226 @@
+[
+  {
+    "word": "쇠",
+    "translation": "төмөр",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "쇠고기",
+    "translation": "Үхрийн мах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "쇠고리",
+    "translation": "төмөр цагираг",
+    "hanja": "쇠고리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쇠공",
+    "translation": "төмөр бөмбөг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쇠귀",
+    "translation": "үхрийн чих",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쇠기름",
+    "translation": "үхрийн өөх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쇠뇌",
+    "translation": "Хөндлөн нум",
+    "hanja": "쇠腦",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "쇠다",
+    "translation": "хуучирах, өтлөх; баяр тэмдэглэх",
+    "hanja": "쇠다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "쇠독",
+    "translation": "Төмрийн хордлого",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쇠돌",
+    "translation": "төмрийн хүдэр",
+    "hanja": "쇠돌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쇠똥",
+    "translation": "үхрийн баас",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "쇠똥구리",
+    "translation": "хорхой, хувалз",
+    "hanja": "쇠똥구리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쇠라",
+    "translation": "Сёра (уран зураач)",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "쇠락",
+    "translation": "унагаах",
+    "hanja": "衰落",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쇠락하다",
+    "translation": "дордойх, буурах",
+    "hanja": "衰落하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쇠문",
+    "translation": "төмөр хаалга",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쇠붙이",
+    "translation": "төмөр эдлэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쇠뿔",
+    "translation": "үхрийн эвэр",
+    "hanja": "쇠뿔",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "쇠사슬",
+    "translation": "төмөр гинж",
+    "hanja": "쇠사슬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쇠소깍",
+    "translation": "Соэсоккак /газар нэр/",
+    "hanja": "쇠소깍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쇠스랑",
+    "translation": "шанага",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쇠약",
+    "translation": "сул дорой байдал",
+    "hanja": "衰弱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쇠약하다",
+    "translation": "Сульдах",
+    "hanja": "衰弱하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쇠잔하다",
+    "translation": "Муудах",
+    "hanja": "衰殘하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쇠줄",
+    "translation": "Төмөр утас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쇠창살",
+    "translation": "төмөр тор",
+    "hanja": "쇠창살",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쇠톱",
+    "translation": "төмөр хөрөө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쇠통",
+    "translation": "Төмөр хувин, төмөр хоолой",
+    "hanja": "쇠筒",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "쇠퇴",
+    "translation": "бууралт",
+    "hanja": "衰退",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "쇠퇴하다",
+    "translation": "унагаах",
+    "hanja": "衰退하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쇠파리",
+    "translation": "махан ялаа",
+    "hanja": "쇠파리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쇠하다",
+    "translation": "буурах, мөхөх",
+    "hanja": "衰하다",
+    "pos": "동사",
+    "cefr": "C1"
+  }
+]

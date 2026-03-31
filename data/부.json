@@ -1,0 +1,3215 @@
+[
+  {
+    "word": "부",
+    "translation": "Хэлтэс, хэсэг",
+    "hanja": "部",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "부가",
+    "translation": "нэмэлт",
+    "hanja": "附加",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "부가되다",
+    "translation": "нэмэгдэх",
+    "hanja": "附加되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부가하다",
+    "translation": "нэхэмжлэх, нэмэх",
+    "hanja": "附加하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부각되다",
+    "translation": "Тодрон харагдах",
+    "hanja": "浮刻되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "부각하다",
+    "translation": "Тодотгох, онцлох",
+    "hanja": "浮刻하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부감",
+    "translation": "дээрээс харах",
+    "hanja": "俯瞰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부강",
+    "translation": "Баян хүчирхэг",
+    "hanja": "富强",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부강하다",
+    "translation": "баялаг, хүчирхэг байх",
+    "hanja": "富強하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부개",
+    "translation": "будааны хальс",
+    "hanja": "稃蓋",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부거",
+    "translation": "бугeо (хуурай загас)",
+    "hanja": "북어",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부검",
+    "translation": "задлан шинжилгээ",
+    "hanja": "剖檢",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "부검하다",
+    "translation": "задлан шинжилгээ хийх",
+    "hanja": "剖檢하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부겐빌레아",
+    "translation": "буганбил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부결",
+    "translation": "татгалзах",
+    "hanja": "否決",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부결되다",
+    "translation": "татгалагдах",
+    "hanja": "否決되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부결하다",
+    "translation": "татгалзах, хэрэгсэхгүй болгох",
+    "hanja": "否決하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부경",
+    "translation": "Дэд дарга, орлогч захирал",
+    "hanja": "副經",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부계",
+    "translation": "эцгийн шугам, эцгийн тал",
+    "hanja": "父系",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부고",
+    "translation": "Гашуудлын мэдээ",
+    "hanja": "訃告",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부곡",
+    "translation": "Бугок (газарзүйн нэр)",
+    "hanja": "釜谷",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "부과",
+    "translation": "Тавих, хураамж тавих",
+    "hanja": "賦課",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부과금",
+    "translation": "нэмэлт хураамж",
+    "hanja": "賦課金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부과되다",
+    "translation": "Оноогдох, ногдуулагдах",
+    "hanja": "賦課되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부과하다",
+    "translation": "ногдуулах",
+    "hanja": "賦課하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부곽",
+    "translation": "нэмэлт",
+    "hanja": "副槨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부관",
+    "translation": "туслах ажилтан",
+    "hanja": "부관(副官)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부관장",
+    "translation": "дэд захирал",
+    "hanja": "副館長",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부교",
+    "translation": "хөвөгч гүүр",
+    "hanja": "浮橋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부교수",
+    "translation": "дэд профессор",
+    "hanja": "副教授",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부교장",
+    "translation": "орлогч захирал",
+    "hanja": "副校長",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부교재",
+    "translation": "нэмэлт сурах бичиг",
+    "hanja": "副教材",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부국",
+    "translation": "баян улс",
+    "hanja": "富國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부국강병",
+    "translation": "улс орноо баян, хүчирхэг болгох",
+    "hanja": "富國強兵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부군",
+    "translation": "нөхөр (남편의 높임말)",
+    "hanja": "夫君",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부귀",
+    "translation": "баялаг, хүндэтгэл",
+    "hanja": "富貴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부귀영화",
+    "translation": "баялаг тансаг амьдрал",
+    "hanja": "富貴榮華",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부귀하다",
+    "translation": "баян, алдартай",
+    "hanja": "富貴하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부근",
+    "translation": "ойр орчмын",
+    "hanja": "附近",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부글거리다",
+    "translation": "буцлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부글대다",
+    "translation": "буцлах",
+    "hanja": "부글대다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부글부글",
+    "translation": "буцлах чимээ, уурлах чимээ",
+    "hanja": "N/A",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부글부글하다",
+    "translation": "буцлах, уурлах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부금",
+    "translation": "Оролцооны хураамж, татвар",
+    "hanja": "賦金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부기맨",
+    "translation": "аймшгийн хүн, айдсын дүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부기우기",
+    "translation": "буги-вуги (хөгжмийн жанр)",
+    "hanja": "boogie-woogie",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부기장",
+    "translation": "туслах нисгэгч",
+    "hanja": "副機長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부꾸미",
+    "translation": "Бүхэл үрийн будааны хайруулын тавагны бялуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부끄",
+    "translation": "ичгүүр, ичих",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부끄다",
+    "translation": "Зээлэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부끄러움",
+    "translation": "ичгүүр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "부끄러워하다",
+    "translation": "ичих, ичгүүрлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부끄럼",
+    "translation": "ичих",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부끄럽다",
+    "translation": "ичих",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부내",
+    "translation": "бүхэл дотор",
+    "hanja": "部內",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부녀",
+    "translation": "эх охин",
+    "hanja": "父女",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부녀간",
+    "translation": "эцэг охины хооронд",
+    "hanja": "父女間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부녀자",
+    "translation": "эмэгтэйчүүд",
+    "hanja": "婦女子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부녀지간",
+    "translation": "эцэг охин хоёрын харилцаа",
+    "hanja": "父女之間",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부녀회",
+    "translation": "эмэгтэйчүүдийн холбоо",
+    "hanja": "婦女會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부농",
+    "translation": "баян тариачин",
+    "hanja": "富農",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부닌",
+    "translation": "Бунин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부다페스트",
+    "translation": "Будапешт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "부닥치다",
+    "translation": "мөргөх, тулгарах",
+    "hanja": "부닥치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부단하다",
+    "translation": "Тасралтгүй, үргэлжийн",
+    "hanja": "不斷하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부단히",
+    "translation": "тасралтгүй, байнга",
+    "hanja": "不斷히",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부담",
+    "translation": "ачаалал",
+    "hanja": "負擔",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부담감",
+    "translation": "дарамт",
+    "hanja": "負擔感",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부담금",
+    "translation": "Төлбөр",
+    "hanja": "負擔金",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부담되다",
+    "translation": "дарамт болох",
+    "hanja": "負擔되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부담스럽다",
+    "translation": "Хүндээр тусах, чирэгдэлтэй байх",
+    "hanja": "부담스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부담시키다",
+    "translation": "ачаа үүрүүлэх, дарамт үүрүүлэх",
+    "hanja": "負擔시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부담액",
+    "translation": "төлөх дүн",
+    "hanja": "負擔額",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부담하다",
+    "translation": "хариуцах",
+    "hanja": "負擔하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부답",
+    "translation": "хариу өгөхгүй байх",
+    "hanja": "不答",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부당",
+    "translation": "үндэслэлгүй",
+    "hanja": "不當",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부당성",
+    "translation": "шударга бус байдал",
+    "hanja": "不當性",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부당하다",
+    "translation": "зохисгүй",
+    "hanja": "不當하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "부대",
+    "translation": "анги",
+    "hanja": "部隊",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "부대끼다",
+    "translation": "тэмцэх, зовох",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부대시설",
+    "translation": "туслах байгууламж",
+    "hanja": "附帶施設",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부대장",
+    "translation": "дэд дарга",
+    "hanja": "副隊長",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부대찌개",
+    "translation": "Пудэ-чигэ",
+    "hanja": "部隊찌개",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부덕",
+    "translation": "ёс суртахуунгүй",
+    "hanja": "不德",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부덕하다",
+    "translation": "буянгүй",
+    "hanja": "不德하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부도",
+    "translation": "дампуурах",
+    "hanja": "不渡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부도나다",
+    "translation": "дампуурах",
+    "hanja": "不渡나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부도내다",
+    "translation": "дампууруулах",
+    "hanja": "不渡내다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부도덕",
+    "translation": "ёс суртахуунгүй",
+    "hanja": "不道德",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부도덕하다",
+    "translation": "ёс суртахуунгүй, адгууслаг",
+    "hanja": "不道德하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부동",
+    "translation": "хөдөлгөөнгүй",
+    "hanja": "不動",
+    "pos": "н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "부동산",
+    "translation": "үл хөдлөх хөрөнгө",
+    "hanja": "不動産",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부동산업",
+    "translation": "үнэ хөдлөхгүй хөрөнгийн бизнес",
+    "hanja": "不動産業",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부동자세",
+    "translation": "хөдөлгөөнгүй байдал",
+    "hanja": "不動姿勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부두",
+    "translation": "усан онгоцны зогсоол, боомт",
+    "hanja": "埠頭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부둣가",
+    "translation": "Усан онгоцны зогсоол",
+    "hanja": "埠頭가",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부둥부둥",
+    "translation": "тэврэлдэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부둥켜안다",
+    "translation": "тэврэх",
+    "hanja": "부둥켜안다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부둥키다",
+    "translation": "тэврэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부드득",
+    "translation": "мурийхад гарах дуу",
+    "hanja": "null",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부드럽다",
+    "translation": "зөөлөн",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부득불",
+    "translation": "яах аргагүй",
+    "hanja": "不得不",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부득이하다",
+    "translation": "аргагүйдэх, зайлшгүй шаардлагатай",
+    "hanja": "不得已하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부들거리다",
+    "translation": "чичиргээх, салганах",
+    "hanja": "부들거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부들부들",
+    "translation": "чичигнэх",
+    "hanja": "부들부들",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부들부들하다",
+    "translation": "хүйт даах, салганах",
+    "hanja": "부들부들하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부등",
+    "translation": "Тэнцүү биш байдал, ялгаа",
+    "hanja": "不等",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부등식",
+    "translation": "тэнцэтгэл биш",
+    "hanja": "不等式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부등호",
+    "translation": "тэнцүү биш тэмдэг (<, >)",
+    "hanja": "不等號",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부디",
+    "translation": "гуйя, яаж ийгээд",
+    "hanja": "부디",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부딪다",
+    "translation": "мөргөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부딪치다",
+    "translation": "мөргөх",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "부딪히다",
+    "translation": "мөргөлдөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부뚜막",
+    "translation": "пийшингийн тавиур",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부라리다",
+    "translation": "бэлэг эрхтэн",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부라퀴",
+    "translation": "амьтан, адгуусан",
+    "hanja": "부라퀴",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "부락",
+    "translation": "тосгон",
+    "hanja": "部落",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "부락민",
+    "translation": "тосгоны оршин суугч",
+    "hanja": "部落民",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부랑아",
+    "translation": "тэнүүлч хүүхэд",
+    "hanja": "浮浪兒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부랑자",
+    "translation": "тэнүүлч",
+    "hanja": "浮浪者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부랴부랴",
+    "translation": "Яаравчлан",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부러뜨리다",
+    "translation": "хугалах",
+    "hanja": "부러뜨리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부러움",
+    "translation": "Атаархал",
+    "hanja": "부러움",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "부러워하다",
+    "translation": "атаархах",
+    "hanja": "부러워하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부러트리다",
+    "translation": "хугалах",
+    "hanja": "Q",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부럼",
+    "translation": "бурам (уламжлалт хүнс)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부럽다",
+    "translation": "атаархах",
+    "hanja": "부럽다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부레",
+    "translation": "Загасны уут",
+    "hanja": "浮袋",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부력",
+    "translation": "хөвөх хүч",
+    "hanja": "浮力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부록",
+    "translation": "Хавсралт",
+    "hanja": "附錄",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부루퉁하다",
+    "translation": "царай муутай",
+    "hanja": null,
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "부룬디",
+    "translation": "Бурунди",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부류",
+    "translation": "төрөл",
+    "hanja": "部類",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "부르가스",
+    "translation": "Бургас",
+    "hanja": "부르가스",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부르고뉴",
+    "translation": "Бургунди",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부르다",
+    "translation": "Дуудах, дуулах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "부르르",
+    "translation": "Жирэлзэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부르릉",
+    "translation": "Уржиг нахиа (дууны дуураймал)",
+    "hanja": "부르릉",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부르릉대다",
+    "translation": "хүргэн дуугарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부르스",
+    "translation": "блюз",
+    "hanja": "blues",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부르조아",
+    "translation": "буржуа",
+    "hanja": "부르조아",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부르주아",
+    "translation": "буржуа",
+    "hanja": "부르주아",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부르쥐다",
+    "translation": "атгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부르짖다",
+    "translation": "Хашгирах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부르카",
+    "translation": "Буурка",
+    "hanja": "부르카",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부르키나파소",
+    "translation": "Буркина Фасо",
+    "hanja": "Burkina Faso",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "부르키니",
+    "translation": "буркини (усанд сэлэх хувцас)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부르트다",
+    "translation": "Хөхрөх, цэврүүтэх, хавагнах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부름",
+    "translation": "дуудах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부릅뜨다",
+    "translation": "нүдээ бүлтийлгэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부릉",
+    "translation": "буруун (хөдөлгүүрийн дуу)",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부릉부릉",
+    "translation": "хөдөлгүүрийн дуу (бум, бум)",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "부리",
+    "translation": "хошуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부리나케",
+    "translation": "яаралтай",
+    "hanja": "부리나케",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부리다",
+    "translation": "хэрэглэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부리부리",
+    "translation": "Эрч хүчтэй",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부리부리하다",
+    "translation": "том том, сүрлэг, нүд бүлтийсэн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부리토",
+    "translation": "буррито",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부마",
+    "translation": "Хүргэн, хааны хүргэн (хунтайж)",
+    "hanja": "駙馬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부먹",
+    "translation": "асгаж идэх",
+    "hanja": "부먹",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부메랑",
+    "translation": "бумеранг",
+    "hanja": "boomerang",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부모",
+    "translation": "Эцэг эх",
+    "hanja": "父母",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "부모님",
+    "translation": "эцэг эх",
+    "hanja": "父母님",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "부목",
+    "translation": "Хугарсан үед бэхлэх хэрэгсэл",
+    "hanja": "副木",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부문",
+    "translation": "салбар",
+    "hanja": "部門",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부미",
+    "translation": "буми (хоолны нэр)",
+    "hanja": "부미",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부바",
+    "translation": "Буба",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "부반장",
+    "translation": "дэд дарга",
+    "hanja": "副班長",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부병",
+    "translation": "хөвөгч цэрэг",
+    "hanja": "浮兵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부복하다",
+    "translation": "сөхөрч бөхийх",
+    "hanja": "俯伏─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부부",
+    "translation": "гэр бүл",
+    "hanja": "夫婦",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부부간",
+    "translation": "гэр бүлийн хооронд",
+    "hanja": "夫婦間",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부부애",
+    "translation": "гэр бүлийн хайр",
+    "hanja": "夫婦愛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부부젤라",
+    "translation": "вувузела",
+    "hanja": "부부젤라",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부부지간",
+    "translation": "эр нөхөр, эхнэр хоёрын хоорондын харилцаа",
+    "hanja": "夫婦之間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부분",
+    "translation": "хэсэг",
+    "hanja": "部分",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부분적",
+    "translation": "хэсэгчилсэн",
+    "hanja": "部分的",
+    "pos": "adj",
+    "cefr": "B1"
+  },
+  {
+    "word": "부비",
+    "translation": "бүүби",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부비다",
+    "translation": "үрж, арчих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부비새",
+    "translation": "буби шувуу",
+    "hanja": "부비새",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "부사",
+    "translation": "дагавар үг",
+    "hanja": "副詞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부사관",
+    "translation": "Бага офицер",
+    "hanja": "副士官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부사다",
+    "translation": "эвдэх, бутлах",
+    "hanja": "부수다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부사어",
+    "translation": "үйл үгийн тэмдэг",
+    "hanja": "副詞語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부사장",
+    "translation": "дэд ерөнхийлөгч",
+    "hanja": "副社長",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부산",
+    "translation": "Пусаан",
+    "hanja": "釜山",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "부산물",
+    "translation": "дагалдах бүтээгдэхүүн",
+    "hanja": "副産物",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부산스럽다",
+    "translation": "завгүй, үймэрсэн",
+    "hanja": "부산스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "부산스레",
+    "translation": "Яаравчлан, завгүй",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부산하다",
+    "translation": "Завгүй байх",
+    "hanja": "繁忙하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부삽",
+    "translation": "хүрз",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부상",
+    "translation": "гэмтэл",
+    "hanja": "負傷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부상당하다",
+    "translation": "гэмтэх",
+    "hanja": "부상당하다(負傷當하다)",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부상병",
+    "translation": "шархдаж гэмтсэн цэрэг",
+    "hanja": "負傷兵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부상자",
+    "translation": "шархдагсад",
+    "hanja": "負傷者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부상하다",
+    "translation": "нэвтрэх, гарч ирэх",
+    "hanja": "浮上하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부생",
+    "translation": "дүрвэгч, дагуу амьдрал",
+    "hanja": "浮生",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부서",
+    "translation": "Хэлтэс",
+    "hanja": "部署",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "부서뜨리다",
+    "translation": "бутаргах, эвдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부서트리다",
+    "translation": "бутлах, эвдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부석",
+    "translation": "хөвөгч чулуу",
+    "hanja": "浮石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부석부석하다",
+    "translation": "сэвсгэр, хуурай",
+    "hanja": "부석부석하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부설",
+    "translation": "суурилуулах, байгуулах",
+    "hanja": "敷設",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부성",
+    "translation": "эцэг хүний шинж чанар",
+    "hanja": "父性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부성애",
+    "translation": "эцэг хүний хайр",
+    "hanja": "父性愛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부셰",
+    "translation": "Буше",
+    "hanja": "부셰",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부소산성",
+    "translation": "Бусосан цайз",
+    "hanja": "扶蘇山城",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부속",
+    "translation": "хэсэг",
+    "hanja": "附屬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부속되다",
+    "translation": "Хамаарах, хавсаргагдах",
+    "hanja": "附屬되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부속물",
+    "translation": "хавсралт",
+    "hanja": "附屬物",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부속실",
+    "translation": "нэмэлт өрөө",
+    "hanja": "附屬室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부속품",
+    "translation": "дагалдах хэрэгсэл",
+    "hanja": "附屬品",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "부수",
+    "translation": "эвдэх, бусниулах, радикал (хятад ханзны)",
+    "hanja": "部首",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부수다",
+    "translation": "эвдэх",
+    "hanja": "부수다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "부수입",
+    "translation": "нэмэлт орлого",
+    "hanja": "副收入",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부수적",
+    "translation": "Тухайн",
+    "hanja": "附隨的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "부숭부숭하다",
+    "translation": "Үсэрхэг, сэвсгэр",
+    "hanja": "부숭부숭하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "부쉬",
+    "translation": "бутаар, бутны мод",
+    "hanja": "부쉬",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부슈",
+    "translation": "буш (нэр)",
+    "hanja": "부슈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부스",
+    "translation": "Буудлын",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부스러기",
+    "translation": "Үлдэгдэл, бутархай",
+    "hanja": "부스러기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부스러뜨리다",
+    "translation": "буталгах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부스러지다",
+    "translation": "бутрах, хагарах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부스럭",
+    "translation": "Шажигнах",
+    "hanja": "부스럭",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부스럭거리다",
+    "translation": "шажигнах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부스럭대다",
+    "translation": "шажигнах, шуугиах",
+    "hanja": "부스럭대다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부스럭부스럭",
+    "translation": "шажигнах чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부스럼",
+    "translation": "шарх",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부스스",
+    "translation": "Үс сарних, замбраагүй болох",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부스스하다",
+    "translation": "сэгсийх, үс нь босох",
+    "hanja": "부스스하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부스터",
+    "translation": "нэмэлт хүч",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부슬부슬",
+    "translation": "ширхэг ширхэгээр",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부슬부슬하다",
+    "translation": "Үсэрхэг, бүдэг бадаг",
+    "hanja": "—",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부슬비",
+    "translation": "ширүүн бороо",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부시",
+    "translation": "Буш",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부시다",
+    "translation": "шатаах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부시럭",
+    "translation": "шуугиа, шажигнах чимээ",
+    "hanja": "부시럭",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부시리",
+    "translation": "бусири (загасны төрөл)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부시맨",
+    "translation": "Бушман",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부시시",
+    "translation": "үсийг задгай, савалган",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부시시하다",
+    "translation": "Самбагар, үрчийсэн",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "부시장",
+    "translation": "орлогч хотын дарга",
+    "hanja": "副市長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부식",
+    "translation": "зэврэлт",
+    "hanja": "腐蝕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부식되다",
+    "translation": "зэврэх",
+    "hanja": "腐蝕되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부신",
+    "translation": "Бөөрний дээд булчирхай",
+    "hanja": "副腎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부실",
+    "translation": "хангалтгүй",
+    "hanja": " busil",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부실시공",
+    "translation": "муу барилга",
+    "hanja": "不實施工",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "부실하다",
+    "translation": "сул",
+    "hanja": "不實하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "부실화",
+    "translation": "дампууруулах",
+    "hanja": "不實化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부심",
+    "translation": "сэтгэл зовних",
+    "hanja": "副心",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부싯돌",
+    "translation": "цахиур чулуу",
+    "hanja": "부싯돌",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "부아",
+    "translation": "Уур, хорсол",
+    "hanja": "憤火",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부안",
+    "translation": "Буан",
+    "hanja": "扶安",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부앙",
+    "translation": "дэмжлэг болон эсэргүүцэл",
+    "hanja": "俯仰",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "부야베스",
+    "translation": "Буябесс",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부양",
+    "translation": "тэтгэх, өргөх",
+    "hanja": "扶養",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부양하다",
+    "translation": "Тэтгэх",
+    "hanja": "扶養하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부어오르다",
+    "translation": "хавдах, цүндийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부어터지다",
+    "translation": "хавдаж дэлбэрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부억",
+    "translation": "гал тогоо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "부업",
+    "translation": "нэмэлт ажил, хажуугийн ажил",
+    "hanja": "副業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부엉",
+    "translation": "ууль",
+    "hanja": "―",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부엉부엉",
+    "translation": "Шувуухай дуу гаргах чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부엉이",
+    "translation": "Уулын шар шувуу",
+    "hanja": "부엉이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부엌",
+    "translation": "гал тогоо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "부엌데기",
+    "translation": "гал тогооны туслах (доод тавилттай)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부에노스아이레스",
+    "translation": "Буэнос-Айрес",
+    "hanja": "부에노스아이레스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부여",
+    "translation": "оруулах",
+    "hanja": "附與",
+    "pos": "сущ",
+    "cefr": "B2"
+  },
+  {
+    "word": "부여되다",
+    "translation": "олгогдох, өгөгдөх",
+    "hanja": "賦與—",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부여잡다",
+    "translation": "чанга барих",
+    "hanja": "부여잡다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부여하다",
+    "translation": "олгох, өгөх",
+    "hanja": "附與하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부역",
+    "translation": "хүнд хөдөлмөр",
+    "hanja": "赴役",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부역자",
+    "translation": "хамтран зүтгэгч, түнш",
+    "hanja": "附逆者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부역하다",
+    "translation": "урвах",
+    "hanja": "附逆하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부연",
+    "translation": "тайлбарлах",
+    "hanja": "敷衍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부연하다",
+    "translation": "нарийвчлан тайлбарлах",
+    "hanja": "敷衍하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "부영",
+    "translation": "баяжих",
+    "hanja": "富榮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부옇다",
+    "translation": "бүүдгэр",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부왕",
+    "translation": "эцэг хаан",
+    "hanja": "父王",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부요",
+    "translation": "баялаг",
+    "hanja": "富饒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부요하다",
+    "translation": "баян тансаг",
+    "hanja": "富饒하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부용",
+    "translation": "бадамлянхуа",
+    "hanja": "芙蓉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부울경",
+    "translation": "Буулгён (Бүсан, Үлсан, Кёнсан)",
+    "hanja": "釜蔚慶",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부웅부웅",
+    "translation": "хүнгэнэх дуу",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부원",
+    "translation": "түйрийн гишүүн",
+    "hanja": "部員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부위",
+    "translation": "хэсэг",
+    "hanja": "部位",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부유",
+    "translation": "хөвж явах",
+    "hanja": "浮遊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부유층",
+    "translation": "чинээлэг давхарга",
+    "hanja": "富裕層",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부유하다",
+    "translation": "Хөрөнгөлөг",
+    "hanja": "富裕하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "부응",
+    "translation": "хангалттай байх",
+    "hanja": "副應",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부응하다",
+    "translation": "хангах",
+    "hanja": "副應하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부의",
+    "translation": "Оршуулгын мөнгө",
+    "hanja": "賻儀",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부의금",
+    "translation": "Оршуулгын зардал",
+    "hanja": "賻儀金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부의하다",
+    "translation": "санал оруулах",
+    "hanja": "附議하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부이",
+    "translation": "부표, 띄우개",
+    "hanja": "부이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부익부",
+    "translation": "баялаг улам баялаг болно",
+    "hanja": "富益富",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부인",
+    "translation": "эхнэр",
+    "hanja": "夫人",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "부인과",
+    "translation": "Эмэгтэйчүүдийн эмч",
+    "hanja": "婦人科",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부인되다",
+    "translation": "үл зөвшөөрөгдөх",
+    "hanja": "否認되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부인하다",
+    "translation": "үгүйсгэх, үл хүлээн зөвшөөрөх",
+    "hanja": "否認하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부임지",
+    "translation": "томилолтын газар",
+    "hanja": "赴任地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부임하다",
+    "translation": "ажилд томилогдох",
+    "hanja": "赴任하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부자",
+    "translation": "баян",
+    "hanja": "富者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부자간",
+    "translation": "Эцэг хүү хоёрын хооронд",
+    "hanja": "父子間",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부자연스럽다",
+    "translation": "хэвийн бус",
+    "hanja": "不自然스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부자유",
+    "translation": "эрх чөлөөгүй",
+    "hanja": "不自由",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부자유스럽다",
+    "translation": "эрх чөлөөгүй",
+    "hanja": "不自由스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부자유하다",
+    "translation": "Чөлөөгүй, эрх чөлөөгүй",
+    "hanja": "不自由하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부자지간",
+    "translation": "эцэг хүү хоёрын хооронд",
+    "hanja": "父子之間",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부자집",
+    "translation": "баян айл",
+    "hanja": "富者집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부작",
+    "translation": "Бүтээл",
+    "hanja": "部作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부작용",
+    "translation": "ганц үр дагавар",
+    "hanja": "副作用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부잣집",
+    "translation": "Баян айл",
+    "hanja": "富者집",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부장",
+    "translation": "хэлтсийн дарга",
+    "hanja": "部長",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부재",
+    "translation": "Байхгүй байх",
+    "hanja": "不在",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부재자",
+    "translation": "байхгүй хүн",
+    "hanja": "不在者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부재중",
+    "translation": "байхгүй",
+    "hanja": "不在中",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "부재하다",
+    "translation": "байхгүй байх",
+    "hanja": "不在─",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부저",
+    "translation": "зурвас",
+    "hanja": "buzzer",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부적",
+    "translation": "сахиус",
+    "hanja": "符籍",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "부적격",
+    "translation": "тохиромжгүй, шаардлага хангахгүй",
+    "hanja": "不適格",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부적격자",
+    "translation": "тэнцэхгүй хүн, шаардлага хангахгүй хүн",
+    "hanja": "不適格者",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부적격하다",
+    "translation": "тэнцэхгүй байх",
+    "hanja": "不適格하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부적응",
+    "translation": "дасан зохицох чадваргүй байдал",
+    "hanja": "不適應",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부적절하다",
+    "translation": "зохисгүй байх",
+    "hanja": "不適切하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부적합",
+    "translation": "тохиромжгүй",
+    "hanja": "不適合",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부적합하다",
+    "translation": "тохиромжгүй",
+    "hanja": "不適合하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부전",
+    "translation": "тэмцээний чөлөө",
+    "hanja": "不戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부전공",
+    "translation": "туслах мэргэжил",
+    "hanja": "副專攻",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "부전승하다",
+    "translation": "Өрсөлдөгчгүйгээр хожих",
+    "hanja": "不戰勝하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부전자전",
+    "translation": "эцэг нь ямар, хүү нь тийм",
+    "hanja": "父傳子傳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부점",
+    "translation": "салбар дэлгүүр",
+    "hanja": "部店",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부젓가락",
+    "translation": "гал тогооны хэрэгсэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부정",
+    "translation": "үл зөвшөөрөх, үгүйсгэх",
+    "hanja": "否定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부정되다",
+    "translation": "үүсгэгдэхгүй байх",
+    "hanja": "否定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부정맥",
+    "translation": "хэм алдагдах",
+    "hanja": "不整脈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부정문",
+    "translation": "үгүйсгэх өгүүлбэр",
+    "hanja": "否定文",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부정부패",
+    "translation": "авлига",
+    "hanja": "不正腐敗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부정부패하다",
+    "translation": "авлигад идэгдсэн",
+    "hanja": "不正腐敗하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부정사",
+    "translation": "үйл үгийн ерөнхий нэр",
+    "hanja": "不定詞",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부정적",
+    "translation": "Сөрөг",
+    "hanja": "否定的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "부정하다",
+    "translation": "үгүйсгэх",
+    "hanja": "否定하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "부정행위",
+    "translation": "залилан, шударга бус үйлдэл",
+    "hanja": "不正行爲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부정형",
+    "translation": "тодорхойгүй хэлбэр, хувьсамтгай хэлбэр",
+    "hanja": "不定形",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부정확하다",
+    "translation": "тодорхойгүй",
+    "hanja": "不正確하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부제",
+    "translation": "дэд гарчиг",
+    "hanja": "副題",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부조",
+    "translation": "Тусламж, дэмжлэг",
+    "hanja": "扶助",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부조금",
+    "translation": "тусламжийн мөнгө",
+    "hanja": "扶助金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부조리",
+    "translation": "Учир утгагүй, зохисгүй",
+    "hanja": "不條理",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부조리하다",
+    "translation": "утга учиргүй байх",
+    "hanja": "不條理하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부조하다",
+    "translation": "туслах, дээрэлхэх",
+    "hanja": "扶助하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부조화",
+    "translation": "Үл зохицол, зөрчилдөөн",
+    "hanja": "不調和",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부족",
+    "translation": "хомсдол",
+    "hanja": "不足",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부족분",
+    "translation": "Дутагдалтай хэсэг",
+    "hanja": "不足分",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부족하다",
+    "translation": "хангалтгүй, дутагдалтай",
+    "hanja": "不足하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부종",
+    "translation": "хаван",
+    "hanja": "浮腫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부주",
+    "translation": "хойд",
+    "hanja": "副主",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부주석",
+    "translation": "дэд дарга",
+    "hanja": "副主席",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부주의",
+    "translation": "Хайнга байдал",
+    "hanja": "不注意",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부주의하다",
+    "translation": "үл хайхрамжтай байх",
+    "hanja": "不注意하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "부중",
+    "translation": "Дэмжлэг, тусламж",
+    "hanja": "扶助",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부지",
+    "translation": "газар, талбай",
+    "hanja": "敷地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부지기수",
+    "translation": "тоо томшгүй олон",
+    "hanja": "不知其數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부지깽이",
+    "translation": "түлээний түлхүүр, гал хөдөлгөгч мод",
+    "hanja": "부지깽이",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "부지런",
+    "translation": "хичээнгүй",
+    "hanja": "부지런",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "부지런하다",
+    "translation": "хичээнгүй, шаргуу",
+    "hanja": "부지런하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부지런히",
+    "translation": "хичээнгүйлэн",
+    "hanja": "부지런히",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부지불식간",
+    "translation": "мэдэлгүйгээр",
+    "hanja": "不知不識間",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부지중",
+    "translation": "Мэдэлгүйгээр, санамсаргүйгээр",
+    "hanja": "不知中",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부지하다",
+    "translation": "мэдэх, таних",
+    "hanja": "不知하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부진",
+    "translation": "удаашрал",
+    "hanja": "不振",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부진하다",
+    "translation": "удаашрах, муудах",
+    "hanja": "不振하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부질없다",
+    "translation": "Дэмгүй",
+    "hanja": "부질없다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부질없이",
+    "translation": "дэмий, хоосон",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부쩍",
+    "translation": "гүйхээр",
+    "hanja": "",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부쩍부쩍",
+    "translation": "хурдтайгаар",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부차",
+    "translation": "хоёрдогч",
+    "hanja": "副次",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부차적",
+    "translation": "хоёрдогч, туслах",
+    "hanja": "副次的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부착",
+    "translation": "наах, хавсрах",
+    "hanja": "付着",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부착되다",
+    "translation": "хавсаргагдсан, наагдсан",
+    "hanja": "付着되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부착하다",
+    "translation": "наах",
+    "hanja": "付着하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부창부수",
+    "translation": "Эр нөхөр, эхнэр хоёр бие биенээ дагах",
+    "hanja": "夫唱婦隨",
+    "pos": "Idiom",
+    "cefr": "C2"
+  },
+  {
+    "word": "부채",
+    "translation": "сэнс, өр",
+    "hanja": "負債/付債",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부채꼴",
+    "translation": "сэнсний хэлбэр",
+    "hanja": "부채꼴",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "부채질",
+    "translation": "сэнсээр сэвэх, өдөөн хатгах",
+    "hanja": "부채질",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부채질하다",
+    "translation": "сэнслэх, сэвэх",
+    "hanja": "부채질하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "бээлийн бүжиг",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B2",
+    "word": "부채춤"
+  },
+  {
+    "word": "부챗살",
+    "translation": "сэнсний яс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부처",
+    "translation": "будда",
+    "hanja": "佛處",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부처님",
+    "translation": "бурхан багш",
+    "hanja": "부처님",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부천",
+    "translation": "Пучон",
+    "hanja": "富川",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "부초",
+    "translation": "дэмжлэгт ургамал",
+    "hanja": "扶草",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부촌",
+    "translation": "баячуудын хороолол",
+    "hanja": "富村",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부총리",
+    "translation": "шадар сайд",
+    "hanja": "副總理",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부총장",
+    "translation": "Дэд захирал",
+    "hanja": "副總長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부총재",
+    "translation": "дэд ерөнхийлөгч",
+    "hanja": "副總裁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부추",
+    "translation": "Бяслаг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부추기다",
+    "translation": "өдөөх",
+    "hanja": "부추기다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부축",
+    "translation": "түших, тулах (хүнийг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부축하다",
+    "translation": "Дэмжих, түших",
+    "hanja": "扶祝하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부츠",
+    "translation": "Гутал",
+    "hanja": "boots",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부치다",
+    "translation": "Явуулах",
+    "hanja": "附치다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부칙",
+    "translation": "нэмэлт дүрэм",
+    "hanja": "附則",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "부친",
+    "translation": "Эцэг",
+    "hanja": "父親",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부친상",
+    "translation": "эцгийгээ алдах",
+    "hanja": "父親喪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부침개",
+    "translation": "пучимге",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부케",
+    "translation": "Баглаа цэцэг",
+    "hanja": "Bouquet",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부쿠레슈티",
+    "translation": "Бухарест",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부크다",
+    "translation": "хавдах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부킹",
+    "translation": "захиалга",
+    "hanja": "부킹",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "부킹하다",
+    "translation": "захиалга хийх",
+    "hanja": "booking하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부탁",
+    "translation": "гуйлт",
+    "hanja": "付託",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "부탁하다",
+    "translation": "гуйх",
+    "hanja": "付託하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부탄",
+    "translation": "Бутан",
+    "hanja": "부탄",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부탄가스",
+    "translation": "бутан хий",
+    "hanja": "butane gas",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부터",
+    "translation": "-аас эхлэн",
+    "hanja": null,
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "부토",
+    "translation": "Буто (бүжгийн төрөл)",
+    "hanja": "butoh",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부통령",
+    "translation": "дэд ерөнхийлөгч",
+    "hanja": "副統領",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부트다",
+    "translation": "хагарах",
+    "hanja": "부트다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부티",
+    "translation": "баялаг, тансаг байдал",
+    "hanja": "富-",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부티다",
+    "translation": "хүндэтгэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부티크",
+    "translation": "бутик",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부팅",
+    "translation": "ачаалах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부팅하다",
+    "translation": "ачаалах (компьютер)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부패",
+    "translation": "Ялзрал, хордох",
+    "hanja": "腐敗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부패되다",
+    "translation": "ялзрах",
+    "hanja": "腐敗되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부패하다",
+    "translation": "ялзрах",
+    "hanja": "腐敗-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부페",
+    "translation": "буфет, швед ширээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부평",
+    "translation": "Бупён (газар нэр)",
+    "hanja": "富平",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부평초",
+    "translation": "усан замгуй",
+    "hanja": "浮萍草",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부표",
+    "translation": "хөвүүр",
+    "hanja": "浮標",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부풀다",
+    "translation": "Хийлэх, хавагнах",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부풀리다",
+    "translation": "хөөрөгдөх, томруулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부품",
+    "translation": "сэлбэг",
+    "hanja": "部品",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "부피",
+    "translation": "Эзлэхүүн",
+    "hanja": "부피",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부하",
+    "translation": "Ачаалал, даралт; доод тушаалын хүн",
+    "hanja": "負荷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "хавсаргах",
+    "hanja": "附하다",
+    "pos": "동사",
+    "cefr": "C1",
+    "word": "부하다"
+  },
+  {
+    "word": "부합",
+    "translation": "тохирох",
+    "hanja": "符合",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부합되다",
+    "translation": "нийцэх",
+    "hanja": "符合되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부합하다",
+    "translation": "Тохирох, нийцэх",
+    "hanja": "符合하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "부항",
+    "translation": "Бунх",
+    "hanja": "附缸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부호",
+    "translation": "тэмдэг, тэмдэглэгээ",
+    "hanja": "符號",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부화",
+    "translation": "ангаахай гаргах",
+    "hanja": "孵化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부화뇌동",
+    "translation": "мунхаг дагах",
+    "hanja": "附和雷同",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부화뇌동하다",
+    "translation": "хүний үгэнд үедэх",
+    "hanja": "附和雷同하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부화되다",
+    "translation": "инкубатор хийх",
+    "hanja": "孵化되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "부화하다",
+    "translation": "дүрээр болох",
+    "hanja": "孵化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부활",
+    "translation": "дахин сэхэлт",
+    "hanja": "復活",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부활되다",
+    "translation": "амилах",
+    "hanja": "復活되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부활시키다",
+    "translation": "амилуулах, сэргээх",
+    "hanja": "復活시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부활절",
+    "translation": "Улаан өндөгний баяр",
+    "hanja": "復活節",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부활하다",
+    "translation": "сэргэх",
+    "hanja": "復活하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "부황",
+    "translation": "хаван, цус алдах өвчин",
+    "hanja": "浮黃",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부회장",
+    "translation": "дэд захирал",
+    "hanja": "副會長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부흥",
+    "translation": "сэргэн мандалт",
+    "hanja": "復興",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "부흥기",
+    "translation": "сэргэн мандалтын үе",
+    "hanja": "復興期",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부흥시키다",
+    "translation": "сэргээн босгох",
+    "hanja": "復興시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부흥하다",
+    "translation": "сэргээн босгох",
+    "hanja": "復興하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "부흥회",
+    "translation": "Сэргээх хурал, сэргэлтийн цуглаан",
+    "hanja": "復興會",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

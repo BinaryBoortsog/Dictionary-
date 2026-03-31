@@ -1,0 +1,723 @@
+[
+  {
+    "word": "운",
+    "translation": "хувь тавилан",
+    "hanja": "運",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "운검",
+    "translation": "захирагчийн сэлэм",
+    "hanja": "雲劍",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "운계",
+    "translation": "운계",
+    "hanja": "運溪",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운광",
+    "translation": "үүлний гэрэл, оддын гэрэл",
+    "hanja": "雲光",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운구",
+    "translation": "цогцос зөөх",
+    "hanja": "運柩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운구되다",
+    "translation": "оршуулагдах",
+    "hanja": "運柩되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운구하다",
+    "translation": "оршуулах газар руу зөөх",
+    "hanja": "運柩하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운기",
+    "translation": "энергийг хянах (бясалгал)",
+    "hanja": "運氣",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "운남",
+    "translation": "Юньнань",
+    "hanja": "雲南",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운니",
+    "translation": "Цагаан шавар, шавар",
+    "hanja": "運泥",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "운동",
+    "translation": "дасгал",
+    "hanja": "運動",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "운동가",
+    "translation": "Идэвхтэн",
+    "hanja": "運動家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운동권",
+    "translation": "хөдөлгөөний бүлэг, оюутны хөдөлгөөн",
+    "hanja": "運動圈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운동량",
+    "translation": "хөдөлгөөний хэмжээ",
+    "hanja": "運動量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운동모자",
+    "translation": "Спортын малгай",
+    "hanja": "運動帽子",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운동복",
+    "translation": "Спортын хувцас",
+    "hanja": "運動服",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "운동부",
+    "translation": "спортын клуб",
+    "hanja": "運動部",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운동선수",
+    "translation": "тамирчин",
+    "hanja": "運動選手",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운동원",
+    "translation": "спортын тамирчин",
+    "hanja": "運動員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운동장",
+    "translation": "тамир талбай",
+    "hanja": "運動場",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "운동하다",
+    "translation": "дасгал хийх, хөдлөх",
+    "hanja": "運動",
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "운동화",
+    "translation": "спорт гутал",
+    "hanja": "運動靴",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운동회",
+    "translation": "спортын наадам",
+    "hanja": "運動會",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운라",
+    "translation": "Үүлэн хөшиг (уран зохиолын утга)",
+    "hanja": "雲羅",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "운명",
+    "translation": "хувь тавилан",
+    "hanja": "運命",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운명론",
+    "translation": "хувь заяаны онол",
+    "hanja": "運命論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운명적",
+    "translation": "Хувь заяаны",
+    "hanja": "運命的",
+    "pos": "тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "운명하다",
+    "translation": "таалал барах, нас барах",
+    "hanja": "殞命하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운모",
+    "translation": "үнжмөө",
+    "hanja": "雲母",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운무",
+    "translation": "манан",
+    "hanja": "雲霧",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운문",
+    "translation": "шүлэг, яруу найраг",
+    "hanja": "韻文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운반",
+    "translation": "зөөвөрлөх, тээвэрлэх",
+    "hanja": "運搬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운반되다",
+    "translation": "тээвэрлэгдэх",
+    "hanja": "運搬되다",
+    "pos": "үйл үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "운반비",
+    "translation": "тээврийн зардал, хүргэлтийн зардал",
+    "hanja": "運搬費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운반선",
+    "translation": "Тээврийн хөлөг онгоц",
+    "hanja": "運搬船",
+    "pos": "명са",
+    "cefr": "B2"
+  },
+  {
+    "word": "운반하다",
+    "translation": "Тээвэрлэх",
+    "hanja": "運搬하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운발",
+    "translation": "аз",
+    "hanja": "運발",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운보",
+    "translation": "Орилох/дуулах хэлбэрээр унших",
+    "hanja": "吟步",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "운봉",
+    "translation": "үүлэн оргил, үүлэн дээвэр",
+    "hanja": "雲峰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운사",
+    "translation": "үнсэн хувцас",
+    "hanja": "雲紗",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "운서",
+    "translation": "дууны толь бичиг",
+    "hanja": "韻書",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "운석",
+    "translation": "солир",
+    "hanja": "隕石",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "운성",
+    "translation": "үүлэн од",
+    "hanja": "隕星",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운세",
+    "translation": "хувь тавилан, аз завшаан",
+    "hanja": "運勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운송",
+    "translation": "Тээвэрлэлт",
+    "hanja": "運送",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운송되다",
+    "translation": "тээвэрлэгдэх",
+    "hanja": "運送되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운송료",
+    "translation": "тээврийн хөлс",
+    "hanja": "運送料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운송비",
+    "translation": "тээврийн зардал",
+    "hanja": "運送費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운송업",
+    "translation": "тээврийн үйлчилгээ",
+    "hanja": "運送業",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "운송하다",
+    "translation": "тээвэрлэх",
+    "hanja": "運送하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "운수",
+    "translation": "тээвэр",
+    "hanja": "運輸",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "운수업",
+    "translation": "тээвэрлэлтийн бизнес",
+    "hanja": "運輸業",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "운신",
+    "translation": "хөдөлгөөн хийх (Үйлдэл)",
+    "hanja": "運身",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "운신하다",
+    "translation": "Хөдлөх",
+    "hanja": "運身하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운심",
+    "translation": "үүлэн зүрх",
+    "hanja": "雲心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운아",
+    "translation": "үр, нэгдэл",
+    "hanja": " induct",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "운암",
+    "translation": "үнэртэй чулуу",
+    "hanja": "雲岩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운영",
+    "translation": "үйл ажиллагаа, удирдлага",
+    "hanja": "運營",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운영난",
+    "translation": "үйл ажиллагааны хүндрэл",
+    "hanja": "運營難",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운영되다",
+    "translation": "ажиллах",
+    "hanja": "運營되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운영비",
+    "translation": "Үйл ажиллагааны зардал",
+    "hanja": "運營費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운영하다",
+    "translation": "ажиллуулах",
+    "hanja": "運營하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운용",
+    "translation": "ашиглах, удирдлага",
+    "hanja": "運用(운용)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운용되다",
+    "translation": "хэрэгжих, ашиглагдах",
+    "hanja": "運用되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운용하다",
+    "translation": "ашиглах",
+    "hanja": "運用하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운운",
+    "translation": "гээд л",
+    "hanja": "云云",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운운하다",
+    "translation": "ярих, дурдах",
+    "hanja": "云云하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "운율",
+    "translation": "хэмнэл, аялга",
+    "hanja": "韻律",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운임",
+    "translation": "тээврийн хөлс",
+    "hanja": "運賃",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "운자",
+    "translation": "эгшиг үсэг, эгшиг аялга",
+    "hanja": "韻字",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "운적",
+    "translation": "мөр, ул мөр (хуучирсан)",
+    "hanja": "隕跡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "운전",
+    "translation": "жолоодох",
+    "hanja": "運轉",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "운전기사",
+    "translation": "Жолооч",
+    "hanja": "運轉技士",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운전대",
+    "translation": "Жолооны хүрд",
+    "hanja": "運轉대",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운전면허",
+    "translation": "Жолооны үнэмлэх",
+    "hanja": "運轉免許",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운전면허증",
+    "translation": "жолооны үнэмлэх",
+    "hanja": "運轉免許證",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운전병",
+    "translation": "жолооч цэрэг",
+    "hanja": "運轉兵",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "운전사",
+    "translation": "жолооч",
+    "hanja": "運轉士",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운전석",
+    "translation": "жолоочийн суудал",
+    "hanja": "運轉席",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운전수",
+    "translation": "жолооч",
+    "hanja": "運轉手",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운전실",
+    "translation": "жолоочийн бүхээг",
+    "hanja": "運轉室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운전원",
+    "translation": "жолооч",
+    "hanja": "運轉員",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "운전자",
+    "translation": "жолооч",
+    "hanja": "運轉者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "운전하다",
+    "translation": "жолоодох",
+    "hanja": "運轉하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "운정",
+    "translation": "Жолоодох, жолоо барих",
+    "hanja": "運轉",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "운종가",
+    "translation": "хотын төв, гудамж",
+    "hanja": "雲從街",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "운주",
+    "translation": "зам тээвэр",
+    "hanja": "運籌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운집",
+    "translation": "цугларах",
+    "hanja": "雲集",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운집하다",
+    "translation": "цугларах, бөөгнөрөх",
+    "hanja": "雲集하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "운차",
+    "translation": "Ачаа тээвэрлэх машин",
+    "hanja": "運車",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운초",
+    "translation": "Унчо (хүн нэр)",
+    "hanja": "雲초",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "운칠기삼",
+    "translation": "аз долоо, авьяас гурав",
+    "hanja": "運七技三",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "운평",
+    "translation": "үнэгүй багш",
+    "hanja": "雲萍",
+    "pos": "n",
+    "cefr": "C2"
+  },
+  {
+    "word": "운필",
+    "translation": "үзэг барих",
+    "hanja": "運筆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운하",
+    "translation": "суваг",
+    "hanja": "運河",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운학",
+    "translation": "үүлтэй тогоруу",
+    "hanja": "雲鶴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "운항",
+    "translation": "нислэг, аялал",
+    "hanja": "運航",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운항하다",
+    "translation": "нислэг үйлдэх",
+    "hanja": "運航하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운행",
+    "translation": "Явах, хөдлөх",
+    "hanja": "運行",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "운행되다",
+    "translation": "ажиллах, үйлчлэх",
+    "hanja": "運行되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "운행하다",
+    "translation": "ажиллуулах, явах",
+    "hanja": "運行하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "운현궁",
+    "translation": "Унхён гун (ордон)",
+    "hanja": "雲峴宮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "운형",
+    "translation": "үүлний хэлбэр",
+    "hanja": "雲形",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

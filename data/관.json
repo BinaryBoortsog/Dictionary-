@@ -1,0 +1,1262 @@
+[
+  {
+    "word": "관",
+    "translation": "усан онгоц",
+    "hanja": "棺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관개",
+    "translation": "услах",
+    "hanja": "灌漑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관객",
+    "translation": "үзэгч",
+    "hanja": "觀客",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "관객석",
+    "translation": "Үзэгчдийн суудал",
+    "hanja": "観客席",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관건",
+    "translation": "гол түлхүүр",
+    "hanja": "關鍵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관경",
+    "translation": "орчин",
+    "hanja": "觀境",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관계",
+    "translation": "харилцаа",
+    "hanja": "關係",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "관계되다",
+    "translation": "Холбогдох",
+    "hanja": "關係되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "관계없다",
+    "translation": "Хамаагүй",
+    "hanja": "關係없다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관계없이",
+    "translation": "хамааралгүйгээр",
+    "hanja": "關係없이",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "관계있다",
+    "translation": "хамаатай, холбоотой",
+    "hanja": "關係있다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "관계자",
+    "translation": "хамааралтай хүн, албан тушаалтан",
+    "hanja": "關係者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관계하다",
+    "translation": "хамаарах",
+    "hanja": "關係하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관골",
+    "translation": "хацар яс",
+    "hanja": "觀骨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관공",
+    "translation": "Улсын албан, төрийн албан",
+    "hanja": "官公",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관공서",
+    "translation": "төрийн байгууллага",
+    "hanja": "官公署",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "관광",
+    "translation": "аялал жуулчлал",
+    "hanja": "觀光",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "관광객",
+    "translation": "Жуулчин",
+    "hanja": "觀光客",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "관광버스",
+    "translation": "аялалын автобус",
+    "hanja": "觀光버스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "관광업",
+    "translation": "Аялал жуулчлал",
+    "hanja": "觀光業",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관광지",
+    "translation": "Аялал жуулчлалын газар",
+    "hanja": "觀光地",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "관광하다",
+    "translation": "Аялах, жуулчлах",
+    "hanja": "觀光하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "관광호텔",
+    "translation": "관광 зочид буудал",
+    "hanja": "觀光호텔",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "관구",
+    "translation": "тойрог, дүүрэг",
+    "hanja": "管區",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관군",
+    "translation": "төрийн цэрэг, засгийн газрын арми",
+    "hanja": "官軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관권",
+    "translation": "төрийн эрх мэдэл",
+    "hanja": "官權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관급",
+    "translation": "төрөөс олгох",
+    "hanja": "官給",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관기",
+    "translation": "хаан",
+    "hanja": "官妓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관내",
+    "translation": "Хариуцсан хэсэг, харьяа нутаг",
+    "hanja": "管內",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관념",
+    "translation": "үзэл баримтлал, санаа",
+    "hanja": "觀念",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관념론",
+    "translation": "идеализм",
+    "hanja": "觀念論",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "관념적",
+    "translation": "үзэл баримтлалтай, хийсвэр",
+    "hanja": "觀念的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관노",
+    "translation": "үйлчлэгч",
+    "hanja": "官奴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관능",
+    "translation": "мэдрэмж",
+    "hanja": "官能",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관능적",
+    "translation": "Тачаангуй",
+    "hanja": "官能的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관대하다",
+    "translation": "өргөн сэтгэлтэй",
+    "hanja": "寬大하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "관도",
+    "translation": "захирах зам, хаан зам",
+    "hanja": "官道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관동",
+    "translation": "Кантон",
+    "hanja": "關東",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관두다",
+    "translation": "болих",
+    "hanja": "관두다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관등",
+    "translation": "албан тушаал, цол хэргэм",
+    "hanja": "官等",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관람",
+    "translation": "Үзэх",
+    "hanja": "觀覽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관람객",
+    "translation": "Үзэгч",
+    "hanja": "觀覽客",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관람권",
+    "translation": "үзвэрийн тасалбар",
+    "hanja": "觀覽券",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "관람료",
+    "translation": "үзвэрийн хураамж",
+    "hanja": "觀覽料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관람석",
+    "translation": "үзэгчдийн суудлын талбай",
+    "hanja": "觀覽席",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관람자",
+    "translation": "үзэгч",
+    "hanja": "觀覽者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "관람하다",
+    "translation": "Үзэх, сонирхон үзэх",
+    "hanja": "觀覽하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관련",
+    "translation": "холбоо, хамаарал",
+    "hanja": "關聯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관련되다",
+    "translation": "холбогдох",
+    "hanja": "關聯되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "관련성",
+    "translation": "Холбоотой байдал",
+    "hanja": "關聯性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관련시키다",
+    "translation": "холбох, хамаатуулах",
+    "hanja": "關聯시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관련짓다",
+    "translation": "холбох, холбогдуулах",
+    "hanja": "關聯짓다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관련하다",
+    "translation": "холбогдох",
+    "hanja": "關聯하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관례",
+    "translation": "ёс, нийцэл",
+    "hanja": "慣例",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관로",
+    "translation": "хоолойн шугам",
+    "hanja": "管路",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관록",
+    "translation": "Онгуу, туршлага",
+    "hanja": "貫祿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관료",
+    "translation": "Төрийн албан хаагч",
+    "hanja": "官僚",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "관료제",
+    "translation": "хүнд суртал",
+    "hanja": "官僚制",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관료주의",
+    "translation": "хүнд суртал",
+    "hanja": "官僚主義",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "관리",
+    "translation": "Удирдлага, зохион байгуулалт",
+    "hanja": "管理",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관리국",
+    "translation": "удирдлагын газар",
+    "hanja": "管理局",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관리되다",
+    "translation": "удирдагдах",
+    "hanja": "管理되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관리비",
+    "translation": "менежментийн хураамж",
+    "hanja": "管理費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관리소",
+    "translation": "аж ахуйн алба",
+    "hanja": "管理所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관리실",
+    "translation": "удирдлагын өрөө, менежментийн өрөө",
+    "hanja": "管理室",
+    "pos": "н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "관리인",
+    "translation": "админ",
+    "hanja": "管理人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관리자급",
+    "translation": "менежерийн түвшин",
+    "hanja": "管理者級",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관리직",
+    "translation": "удирдлагын албан тушаал",
+    "hanja": "管理職",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관리하다",
+    "translation": "удирдах",
+    "hanja": "管理하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "관망",
+    "translation": "эргэцүүлэн харах",
+    "hanja": "觀望",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관망하다",
+    "translation": "Ажиглах",
+    "hanja": "觀望하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관모",
+    "translation": "титэм",
+    "hanja": "冠帽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관목",
+    "translation": "бутаар өсөх мод",
+    "hanja": "灌木",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관문",
+    "translation": "нэвтрэн өнгөрөх хаалга",
+    "hanja": "關門",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관방",
+    "translation": "орон сууц, өрөө",
+    "hanja": "官房",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관법",
+    "translation": "бясалгалын арга",
+    "hanja": "觀法",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "관변",
+    "translation": "албан ёсны бус",
+    "hanja": "官邊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관병",
+    "translation": "төрийн цэрэг",
+    "hanja": "官兵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "관보",
+    "translation": "албан ёсны сонин, төрийн мэдээлэл",
+    "hanja": "官報",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관복",
+    "translation": "албан тушаалтны хувцас",
+    "hanja": "官服",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관부",
+    "translation": "захиргаа, албан газар",
+    "hanja": "官府",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관비",
+    "translation": "төрийн зардлаар",
+    "hanja": "官費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관사",
+    "translation": "Төлөөлөгч",
+    "hanja": "官舍",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관상",
+    "translation": "нүүрний өнгө",
+    "hanja": "觀相",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관상어",
+    "translation": "гоёл чимэглэлийн загас",
+    "hanja": "觀賞魚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관상용",
+    "translation": "гоёл чимэглэлийн зориулалттай",
+    "hanja": "觀賞用",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "관상쟁이",
+    "translation": "мэргэч",
+    "hanja": "觀相쟁이",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관서",
+    "translation": "албан газар",
+    "hanja": "官署",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관성",
+    "translation": "Инерци",
+    "hanja": "慣性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "관세",
+    "translation": "гааль",
+    "hanja": "關稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관세음",
+    "translation": "Авалокитешвара",
+    "hanja": "觀世音",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "관속",
+    "translation": "Авсан дотор",
+    "hanja": "棺 속",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "관수",
+    "translation": "байгууллага",
+    "hanja": "關數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관습",
+    "translation": "зан үйл",
+    "hanja": "慣習",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관습법",
+    "translation": "заншлын хууль",
+    "hanja": "慣習法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관습적",
+    "translation": "уламжлалт",
+    "hanja": "慣習的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "관시",
+    "translation": "харилцаа, хамаарал",
+    "hanja": "關시",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "관식",
+    "translation": "албан ёсны хувцас",
+    "hanja": "冠飾",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관심",
+    "translation": "сонирхол",
+    "hanja": "關心",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "관심거리",
+    "translation": "сонирхол татахуйц зүйл",
+    "hanja": "關心거리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관심사",
+    "translation": "сонирхол",
+    "hanja": "關心事",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관아",
+    "translation": "захиргааны байгууллага",
+    "hanja": "官衙",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "관악",
+    "translation": "царгил хөгжим",
+    "hanja": "管樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관악기",
+    "translation": "үүтэх хөгжмийн зэмсэг",
+    "hanja": "管樂器",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관양",
+    "translation": "Гуанъян",
+    "hanja": "廣陽",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "관여",
+    "translation": "оролцоо",
+    "hanja": "關與",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관여되다",
+    "translation": "хамаарах, оролцох",
+    "hanja": "關與되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관여하다",
+    "translation": "оролцох",
+    "hanja": "關與하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "관역",
+    "translation": "Бай, сумны бай",
+    "hanja": "貫役",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관엽",
+    "translation": "Навч харах (ургамал)",
+    "hanja": "觀葉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관영",
+    "translation": "төрийн өмчийн",
+    "hanja": "官營",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관외",
+    "translation": "Хамааралгүй газар, харьяаллаас гадуур",
+    "hanja": "管外",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관용",
+    "translation": "үлгэр жишээ",
+    "hanja": "慣用",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "관용구",
+    "translation": "хэлц үг, тогтмол хэллэ",
+    "hanja": "慣用句",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관용어",
+    "translation": "хэлц үг",
+    "hanja": "慣用語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관용적",
+    "translation": "ёс суртахууны, хэлц үгийн",
+    "hanja": "慣用的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관용차",
+    "translation": "албаны машин",
+    "hanja": "官用車",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관용하다",
+    "translation": "Өршөөх, хүлцэнгүй байх",
+    "hanja": "寬容하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관운",
+    "translation": "албан тушаалын аз",
+    "hanja": "官運",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관원",
+    "translation": "төрийн албан хаагч",
+    "hanja": "관원(官員)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관유",
+    "translation": "албан ёсны тос",
+    "hanja": "官油",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "관음",
+    "translation": "Арьяабал бурхан",
+    "hanja": "觀音",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관의",
+    "translation": "Албан ёсны, засгийн газрын",
+    "hanja": "官議",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "관인",
+    "translation": "Тамга, бичиг баримт",
+    "hanja": "官印",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관자",
+    "translation": "хялгас, гахайн толгойн мах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관자놀이",
+    "translation": "чамархай",
+    "hanja": null,
+    "pos": "м.н",
+    "cefr": "A2"
+  },
+  {
+    "word": "관장",
+    "translation": "Захирал",
+    "hanja": "館長",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관장하다",
+    "translation": "хариуцах",
+    "hanja": "管掌하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관저",
+    "translation": "Албан ёсны оршин суух газар",
+    "hanja": "官邸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관전",
+    "translation": "тэмцээн үзэх",
+    "hanja": "觀戰",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "관전자",
+    "translation": "үзэгч",
+    "hanja": "觀戰者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "관전하다",
+    "translation": "Үзэх, ажиглах",
+    "hanja": "觀戰하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관절",
+    "translation": "үе",
+    "hanja": "關節",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관절염",
+    "translation": "үе мөчний үрэвсэл",
+    "hanja": "關節炎",
+    "pos": "м",
+    "cefr": "B2"
+  },
+  {
+    "word": "관점",
+    "translation": "үзэл бодол",
+    "hanja": "觀點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관정",
+    "translation": "Уст цооног",
+    "hanja": "管井",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관제",
+    "translation": "хяналт, зохицуулалт",
+    "hanja": "官製",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "관제탑",
+    "translation": "хяналтын цамхаг",
+    "hanja": "管制塔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관조",
+    "translation": "бясалгал",
+    "hanja": "觀照",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관조하다",
+    "translation": "тунгаан бодох",
+    "hanja": "觀照하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관족",
+    "translation": "хоолойлог хөл",
+    "hanja": "管足",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "관졸",
+    "translation": "түшмэл цэрэг",
+    "hanja": "官卒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관종",
+    "translation": "анхаарал хандуулахыг эрэлхийлэх",
+    "hanja": "關種",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관주",
+    "translation": "тайлбар, тэмдэглэл",
+    "hanja": "串主",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "관중",
+    "translation": "Үзэгчид",
+    "hanja": "觀衆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관중석",
+    "translation": "үзэгчдийн суудлын хэсэг",
+    "hanja": "觀衆席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관직",
+    "translation": "албан тушаал, хэргэм зэрэг",
+    "hanja": "官職",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관찰",
+    "translation": "ажиглах",
+    "hanja": "觀察",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관찰되다",
+    "translation": "Ажиглагдах",
+    "hanja": "觀察되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "관찰력",
+    "translation": "ажиглах чадвар",
+    "hanja": "觀察力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관찰자",
+    "translation": "Ажиглагч",
+    "hanja": "觀察者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관찰하다",
+    "translation": "ажиглах",
+    "hanja": "觀察하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관창",
+    "translation": "Хадны цоорхой, агуй",
+    "hanja": "關窓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관철",
+    "translation": "гүйцэлдүүлэх",
+    "hanja": "貫徹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관철되다",
+    "translation": "амжилттай хэрэгжих, биелэх",
+    "hanja": "貫徹되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "관철시키다",
+    "translation": "хэрэгжүүлэх, 관철시킬",
+    "hanja": "貫徹시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관철하다",
+    "translation": "хэрэгжүүлэх, гүйцэлдүүлэх",
+    "hanja": "貫徹하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관청",
+    "translation": "Засгийн газрын байгууллага, албан газар",
+    "hanja": "官廳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관측",
+    "translation": "ажиглалт, хэмжилт",
+    "hanja": "觀測",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관측기",
+    "translation": "Ажиглалтын багаж",
+    "hanja": "觀測器",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관측되다",
+    "translation": "ажиглагдах",
+    "hanja": "觀測되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관측소",
+    "translation": "Ажиглалтын төв",
+    "hanja": "觀測所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관측하다",
+    "translation": "хараглах, ажиглах",
+    "hanja": "觀測하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관통",
+    "translation": "нэвтлэх",
+    "hanja": "貫通",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "관통되다",
+    "translation": "нэвтлэх",
+    "hanja": "貫通되다",
+    "pos": "v",
+    "cefr": "B2"
+  },
+  {
+    "word": "관통상",
+    "translation": "нэвтэрсэн шарх",
+    "hanja": "貫通傷",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "관통하다",
+    "translation": "нэвтлэх",
+    "hanja": "貫通하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "관품",
+    "translation": "Албан тушаал",
+    "hanja": "官品",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "관하다",
+    "translation": "тухай, холбогдох",
+    "hanja": "關하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관학",
+    "translation": "төрийн сургууль",
+    "hanja": "官學",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "관한하다",
+    "translation": "хамаарах",
+    "hanja": "關限하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관할",
+    "translation": "харьяа",
+    "hanja": "管轄",
+    "pos": "сущ",
+    "cefr": "B2"
+  },
+  {
+    "word": "관할하다",
+    "translation": "эрхлэх",
+    "hanja": "管轄하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관행",
+    "translation": "дадал",
+    "hanja": "慣行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관헌",
+    "translation": "хууль сахиулагч",
+    "hanja": "官憲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관현악",
+    "translation": "цахилгаан хөгжмийн найрал хөгжим",
+    "hanja": "管絃樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관현악단",
+    "translation": "найрал хөгжим",
+    "hanja": "管絃樂團",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관형사",
+    "translation": "тодотгогч",
+    "hanja": "冠形詞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관형어",
+    "translation": "Тодотгогч үг",
+    "hanja": "冠形語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관혼상제",
+    "translation": "Насны дөрвөн ёслол",
+    "hanja": "冠婚喪祭",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

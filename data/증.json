@@ -1,0 +1,758 @@
+[
+  {
+    "word": "증",
+    "translation": "сертификат",
+    "hanja": "證",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "증가",
+    "translation": "Нэмэгдэл, өсөлт",
+    "hanja": "增加",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "증가되다",
+    "translation": "ихсэх",
+    "hanja": "增加되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "증가량",
+    "translation": "нэмэгдэх хэмжээ",
+    "hanja": "增加量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증가세",
+    "translation": "Өсөлтийн хандлага",
+    "hanja": "增加勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증가시키다",
+    "translation": "нэмэгдүүлэх",
+    "hanja": "增加시키다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "증가율",
+    "translation": "Өсөлтийн хувь",
+    "hanja": "增加率",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "증가하다",
+    "translation": "Нэмэгдэх",
+    "hanja": "增加하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "증감",
+    "translation": "нэмэгдэх, буурах",
+    "hanja": "增減",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증강",
+    "translation": "нэмэгдүүлэх",
+    "hanja": "增强",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증강되다",
+    "translation": "нэмэгдэх, өсөх",
+    "hanja": "增强되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증강하다",
+    "translation": "хүчийг нэмэгдүүлэх, бэхжүүлэх",
+    "hanja": "增强하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증거",
+    "translation": "нотолгоо",
+    "hanja": "證據",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증거물",
+    "translation": "Нотолгоо",
+    "hanja": "證據物",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "증거품",
+    "translation": "нотлох баримт",
+    "hanja": "證據品",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증권",
+    "translation": "Үнэт цаас",
+    "hanja": "證券",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증권가",
+    "translation": "Хувьцааны зах зээл, үнэт цаасны гудамж",
+    "hanja": "證券街",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증권사",
+    "translation": "үнэт цаасны компани",
+    "hanja": "證券社",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증기",
+    "translation": "уур",
+    "hanja": "蒸氣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "증대",
+    "translation": "Нэмэгдүүлэх",
+    "hanja": "增大",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "증대되다",
+    "translation": "нэмэгдэх, өсөх",
+    "hanja": "增大되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증대하다",
+    "translation": "нэмэгдүүлэх",
+    "hanja": "增大하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증득하다",
+    "translation": "Хүлээн авах",
+    "hanja": "證得-",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "증량",
+    "translation": "Хэмжээг нэмэгдүүлэх",
+    "hanja": "增量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증량하다",
+    "translation": "хэмжээг нэмэгдүүлэх",
+    "hanja": "增量하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "증류",
+    "translation": "нэрэх",
+    "hanja": "蒸溜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증류되다",
+    "translation": "нэрэгдэх",
+    "hanja": "蒸溜되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증류수",
+    "translation": "нэрмэл ус",
+    "hanja": "蒸溜水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증류액",
+    "translation": "Нэрмэл шингэн",
+    "hanja": "蒸溜液",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "증류하다",
+    "translation": "нэрэх",
+    "hanja": "蒸溜하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증말",
+    "translation": "үнэхээр",
+    "hanja": "증말",
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "증명",
+    "translation": "Баримтжуулах, нотлох",
+    "hanja": "證明",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "증명되다",
+    "translation": "баталгаатай болох",
+    "hanja": "證明되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증명사진",
+    "translation": "иргэний үнэмлэхний зураг",
+    "hanja": "證明寫眞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "증명서",
+    "translation": "Гэрчилгээ",
+    "hanja": "證明書",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "증명하다",
+    "translation": "нотлох",
+    "hanja": "證明하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증발",
+    "translation": "уурших",
+    "hanja": "蒸發",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증발되다",
+    "translation": "уурших",
+    "hanja": "蒸發되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "증발시키다",
+    "translation": "ууршуулах",
+    "hanja": "蒸發시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증발하다",
+    "translation": "уурших",
+    "hanja": "蒸發하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "증빙",
+    "translation": "нотлох баримт",
+    "hanja": "證憑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증빙하다",
+    "translation": "Баримтжуулах, нотлох",
+    "hanja": "證憑하다",
+    "pos": "동사 (Verb)",
+    "cefr": "B2"
+  },
+  {
+    "word": "증산",
+    "translation": "Үйлдвэрлэлийг нэмэгдүүлэх",
+    "hanja": "增産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증산하다",
+    "translation": "үйлдвэрлэл нэмэгдүүлэх",
+    "hanja": "增産하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증상",
+    "translation": "шинж тэмдэг",
+    "hanja": "症狀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "증서",
+    "translation": "гэрчилгээ, баримт бичиг",
+    "hanja": "證書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증선위",
+    "translation": "Сонгуулийн хороо",
+    "hanja": "證選委",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증설",
+    "translation": "Нэмэлт өргөтгөл",
+    "hanja": "增設",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "증설되다",
+    "translation": "Нэмж байгуулагдах, өргөжүүлэх",
+    "hanja": "增設되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증설하다",
+    "translation": "Нэмж байгуулах, өргөтгөн барих",
+    "hanja": "增設하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증세",
+    "translation": "шинж тэмдэг",
+    "hanja": "症勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증손",
+    "translation": "ач хүүгийн хүү, ачийн хүү",
+    "hanja": "曾孫",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "증손녀",
+    "translation": "ач охин",
+    "hanja": "曾孫女",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증손자",
+    "translation": "Ач хүүгийн хүү",
+    "hanja": "曾孫子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증쇄",
+    "translation": "дахин хэвлэх",
+    "hanja": "増刷",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "증시",
+    "translation": "хөрөнгийн зах зээл",
+    "hanja": "證市",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증식",
+    "translation": "үржих",
+    "hanja": " jeungsik",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "증식되다",
+    "translation": "Үржих, олшрох, ихсэх",
+    "hanja": "增殖되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증식하다",
+    "translation": "үнэ цэнэ өсгөх",
+    "hanja": "增殖-하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "증액",
+    "translation": "хэмжээ нэмэх",
+    "hanja": "增額",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "증액되다",
+    "translation": "нэмэгдэх (мөнгөн дүн)",
+    "hanja": "增額되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증액하다",
+    "translation": "нэмэгдүүлэх",
+    "hanja": "增額-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증언",
+    "translation": "мэдэгдэл",
+    "hanja": "證言",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증언하다",
+    "translation": "гэрчлэх",
+    "hanja": "證言하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "증여",
+    "translation": "бэлэглэл, бэлэг",
+    "hanja": "贈與",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증여세",
+    "translation": "бэлгийн татвар",
+    "hanja": "贈與稅",
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "증여하다",
+    "translation": "бэлэглэх",
+    "hanja": "贈與하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증오",
+    "translation": "Үзэн ядалт",
+    "hanja": "증오 (憎惡)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증오감",
+    "translation": "үзэн ядалт",
+    "hanja": "憎惡感",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "증오스럽다",
+    "translation": "үзэн ядахуйц",
+    "hanja": "憎惡스럽다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "증오심",
+    "translation": "үзэн ядалт",
+    "hanja": "憎惡心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증오하다",
+    "translation": "Үзэн ядах",
+    "hanja": "憎惡하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증원",
+    "translation": "нэхэмжлэл, нэмэгдэл хүч",
+    "hanja": "增援",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증원되다",
+    "translation": "нэмэгдэх",
+    "hanja": "增員되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "증원하다",
+    "translation": "нэмэх",
+    "hanja": "增員",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "증인",
+    "translation": "гэрч",
+    "hanja": "證人",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "증인석",
+    "translation": "гэрчийн суудал",
+    "hanja": "證人席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증자",
+    "translation": "Хөрөнгө нэмэгдүүлэх",
+    "hanja": "增資",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증장",
+    "translation": "удирдлага",
+    "hanja": "增長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증정",
+    "translation": "Бэлэг өгөх",
+    "hanja": "贈呈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증정되다",
+    "translation": "Бэлэг болгон өгөгдөх",
+    "hanja": "贈呈되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증정하다",
+    "translation": "Бэлэглэх",
+    "hanja": "贈呈하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증조",
+    "translation": "ургийн дөрөв дэх үе",
+    "hanja": "曾祖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증조모",
+    "translation": "Эмэг эх, өвөг эх",
+    "hanja": "曾祖母",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "증조부",
+    "translation": "өвөөгийн аав",
+    "hanja": "曾祖父",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "증조부모",
+    "translation": "Өвөг эцэг, эмэг эх",
+    "hanja": "曾祖父母",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증조할머니",
+    "translation": "элэнц эмээ",
+    "hanja": "曾祖할머니",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "증조할아버지",
+    "translation": "элэнц өвөө",
+    "hanja": "曾祖할아버지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "증좌",
+    "translation": "баримт нотолгоо",
+    "hanja": "證左",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증진",
+    "translation": "дэмжих, нэмэгдүүлэх",
+    "hanja": "增進",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증진되다",
+    "translation": "нэмэгдүүлэх, сайжруулах",
+    "hanja": "增進되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증진하다",
+    "translation": "дэвшүүлэх, сайжруулах",
+    "hanja": "增進하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증차",
+    "translation": "машины тоог нэмэгдүүлэх",
+    "hanja": "増車",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증착",
+    "translation": "угаах",
+    "hanja": "蒸着",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "증착되다",
+    "translation": "хуримтлагдсан",
+    "hanja": "蒸着-",
+    "pos": "피동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증축",
+    "translation": "нэмж барих",
+    "hanja": "增築",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증축되다",
+    "translation": "нэмж баригдах",
+    "hanja": "增築되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증축하다",
+    "translation": "Өргөтгөх, нэмэлт барилга барих",
+    "hanja": "增築하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증편",
+    "translation": "нэмсэн талх",
+    "hanja": "蒸片",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "증편하다",
+    "translation": "Нэмэгдүүлэх, өсгөх",
+    "hanja": "增編하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "증평",
+    "translation": "Зэнгпён",
+    "hanja": "曾坪",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "증폭",
+    "translation": "өргөтгөх, нэмэгдүүлэх",
+    "hanja": "增幅",
+    "pos": "м",
+    "cefr": "C1"
+  },
+  {
+    "word": "증폭되다",
+    "translation": "нэмэгдэх, өсөх",
+    "hanja": "增幅되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "증폭시키다",
+    "translation": "өсгөх, хүчирхэгжүүлэх",
+    "hanja": "增幅시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증폭하다",
+    "translation": "өсгөх",
+    "hanja": "증폭하다(增幅하다)",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증표",
+    "translation": "баталгаа",
+    "hanja": "증표(證票)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증후",
+    "translation": "Шинж тэмдэг",
+    "hanja": "症候",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증후군",
+    "translation": "хам шинж",
+    "hanja": "症候群",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

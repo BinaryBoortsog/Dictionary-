@@ -1,0 +1,387 @@
+[
+  {
+    "word": "맹",
+    "translation": "сохор, үнэнчээр",
+    "hanja": "盲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹견",
+    "translation": "догшин нохой",
+    "hanja": "猛犬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹공",
+    "translation": "ширүүн дайралт",
+    "hanja": "猛攻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹공격",
+    "translation": "ширүүн дайралт",
+    "hanja": "猛攻擊",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹공하다",
+    "translation": "ширүүн дайрах",
+    "hanja": "猛攻하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹구",
+    "translation": "мангар",
+    "hanja": "盲龜",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹그로브",
+    "translation": "мангровын мод",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹글다",
+    "translation": "хийх, бүтээх (방언)",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "맹꽁이",
+    "translation": "Мэлхий, (шилж. утгаар) тэнэг хүн",
+    "hanja": "맹꽁이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹독",
+    "translation": "хүчтэй хор",
+    "hanja": "猛毒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹독성",
+    "translation": "хортой",
+    "hanja": "猛毒性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹랑하다",
+    "translation": "гэнэн, намайг доромжилсон",
+    "hanja": "罔浪하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹렬하다",
+    "translation": "хүчтэй, ширүүн",
+    "hanja": "猛烈하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹렬히",
+    "translation": "ширүүн, хүчтэй",
+    "hanja": "猛烈-히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹맹하다",
+    "translation": "солиотой",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹모",
+    "translation": "Мэнзийн эх",
+    "hanja": "孟母",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹모삼천지교",
+    "translation": "Мэнгзийн эх гурван удаа нүүсэн нь",
+    "hanja": "孟母三遷之敎",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "맹목",
+    "translation": "Сохор итгэл, харалган байдал",
+    "hanja": "盲目",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹목적",
+    "translation": "сохор, үлгэр жишээ",
+    "hanja": "盲目的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹물",
+    "translation": "цэвэр ус",
+    "hanja": "맹물",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "맹방",
+    "translation": "холбоотон улс",
+    "hanja": "盟邦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹비난",
+    "translation": "хүчтэй шүүмжлэх",
+    "hanja": "猛非難",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹비난하다",
+    "translation": "ширүүн шүүмжлэх, хүчтэй загнах",
+    "hanja": "猛非難하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹서",
+    "translation": "Тангараг, амлалт",
+    "hanja": "盟誓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹세",
+    "translation": "тангараг",
+    "hanja": "盟誓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹세코",
+    "translation": "тангараглая",
+    "hanja": "盟誓-, 盟誓코",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹세하다",
+    "translation": "тангараглах",
+    "hanja": "盟誓하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹수",
+    "translation": "араатан",
+    "hanja": "猛獸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹숭맹숭하다",
+    "translation": "амтгүй",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹신",
+    "translation": "сохроор итгэх",
+    "hanja": "盲信",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹신하다",
+    "translation": "сохроор итгэх, үнэнээр итгэх",
+    "hanja": "盲信하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹약",
+    "translation": "тангараг, амлалт",
+    "hanja": "盟約",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "맹연습하다",
+    "translation": "маш их дасгал хийх",
+    "hanja": "猛練習하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹위",
+    "translation": "харгис хүч",
+    "hanja": "猛威",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "맹인",
+    "translation": "Хараагүй хүн",
+    "hanja": "盲人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맹자",
+    "translation": "Мэнций",
+    "hanja": "孟子",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹장",
+    "translation": "Мухар олгой",
+    "hanja": "盲腸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맹장염",
+    "translation": "мухар олгой",
+    "hanja": "盲腸炎",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "맹점",
+    "translation": "сохор цэг",
+    "hanja": "盲點",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹종",
+    "translation": "Сохроор дагаж мөрдөх",
+    "hanja": "盲從",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹종하다",
+    "translation": "сохроор дагах",
+    "hanja": "盲從하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹주",
+    "translation": "манлайлагч, тэргүүлэгч",
+    "hanja": "盟主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹지",
+    "translation": "харанхуй газар",
+    "hanja": "盲地",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹추",
+    "translation": "мулгуу эр",
+    "hanja": "盲推",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹추격",
+    "translation": "Шидсэн мөхөр",
+    "hanja": "猛追擊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "맹출",
+    "translation": "соёолох, цухуйх",
+    "hanja": "萌出",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹타",
+    "translation": "Хүчтэй цохилт",
+    "hanja": "猛打",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹탕",
+    "translation": "утгагүй, хоосон, дэмий",
+    "hanja": "盲湯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹폭",
+    "translation": "Хүчтэй бөмбөгдөлт",
+    "hanja": "猛爆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹폭하다",
+    "translation": "ширүүн бөмбөгдөх",
+    "hanja": "猛爆하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹하다",
+    "translation": "Будачих, ойлгохгүй байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹호",
+    "translation": "хэрцгий бар",
+    "hanja": "猛虎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹활약",
+    "translation": "идэвхтэй үйл ажиллагаа",
+    "hanja": "猛活躍",
+    "pos": "name",
+    "cefr": "B2"
+  },
+  {
+    "word": "맹활약하다",
+    "translation": "идэвхтэй оролцох, чухал үүрэг гүйцэтгэх",
+    "hanja": "猛活躍하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "맹훈련",
+    "translation": "эрчимтэй бэлтгэл",
+    "hanja": "猛訓練",
+    "pos": "n",
+    "cefr": "B2"
+  }
+]

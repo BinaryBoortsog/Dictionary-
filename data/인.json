@@ -1,0 +1,2403 @@
+[
+  {
+    "word": "인",
+    "translation": "хүн (хятад ханзаас)",
+    "hanja": "人",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인가",
+    "translation": "зөвшөөрөх",
+    "hanja": "認可",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인가이",
+    "translation": "Ингай",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "인가하다",
+    "translation": "зөвшөөрөх",
+    "hanja": "認可하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인간",
+    "translation": "хүн",
+    "hanja": "人間",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인간관",
+    "translation": "хүний тухай үзэл",
+    "hanja": "인간관(人間觀)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인간관계",
+    "translation": "хүний харилцаа",
+    "hanja": "人間關係",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인간다움",
+    "translation": "Хүн чанар",
+    "hanja": "人間다움",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인간문화재",
+    "translation": "амьд үндэсний өв",
+    "hanja": "人間文化財",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인간미",
+    "translation": "хүн чанар",
+    "hanja": "人間味",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인간사",
+    "translation": "Хүн төрөлхтний үйл явдал",
+    "hanja": "人間事",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인간상",
+    "translation": "хүний дүр төрх",
+    "hanja": "人間像",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인간성",
+    "translation": "хүний мөн чанар",
+    "hanja": "人間性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인간애",
+    "translation": "хүнлэг энэрэл",
+    "hanja": "人間愛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인간이",
+    "translation": "хүн (хүний)",
+    "hanja": "人間이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "인간적",
+    "translation": "хүнлэг",
+    "hanja": "人間的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인감",
+    "translation": "Тамга, лац",
+    "hanja": "印鑑",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인감도장",
+    "translation": "лац, тамга",
+    "hanja": "印鑑圖章",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인강",
+    "translation": "интернэт хичээл",
+    "hanja": "因講",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인건비",
+    "translation": "хөдөлмөрийн зардал",
+    "hanja": "人件費",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인걸",
+    "translation": "Гайхамшигтай хүн, ер бусын хүн",
+    "hanja": "人傑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인격",
+    "translation": "Хувийн зан чанар",
+    "hanja": "人格",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인격적",
+    "translation": "хувийн, хувь хүний",
+    "hanja": "人格的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "인격체",
+    "translation": "хувь хүн",
+    "hanja": "人格體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인견",
+    "translation": "вискоз",
+    "hanja": "人絹",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인경",
+    "translation": "цохилж дуугаргах",
+    "hanja": "人境",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인계",
+    "translation": "хүлээлгэн өгөх",
+    "hanja": "引繼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인계되다",
+    "translation": "шилжүүлэх",
+    "hanja": "引繼되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인계하다",
+    "translation": "шилжүүлэх",
+    "hanja": "引繼-",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "인고",
+    "translation": "тэвчээр, хатуужил",
+    "hanja": "忍苦",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인골",
+    "translation": "хүний яс",
+    "hanja": "人骨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인공",
+    "translation": "хиймэл",
+    "hanja": "人工",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인공강우",
+    "translation": "хиймэл бороо",
+    "hanja": "人工降雨",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인공눈",
+    "translation": "хиймэл цас",
+    "hanja": "人工눈",
+    "pos": "NOUN",
+    "cefr": "B1"
+  },
+  {
+    "word": "인공위성",
+    "translation": "хиймэл дагуул",
+    "hanja": "人工衛星",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인공조명",
+    "translation": "хиймэл гэрэлтүүлэг",
+    "hanja": "人工照明",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인공호흡",
+    "translation": "хиймэл амьсгал",
+    "hanja": "人工呼吸",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인과",
+    "translation": "үүсэл шалтгаан, үр дагавар",
+    "hanja": "因果",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인과응보",
+    "translation": "үйлийн үр",
+    "hanja": "因果應報",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인광",
+    "translation": "Гэрэлтэх",
+    "hanja": "燐光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인구",
+    "translation": "хүн ам",
+    "hanja": "人口",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "인구론",
+    "translation": "хүн амын тухай онол",
+    "hanja": "人口論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인구수",
+    "translation": "хүн амын тоо",
+    "hanja": "人口數",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인국",
+    "translation": "Хөрш орон",
+    "hanja": "隣國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인군",
+    "translation": "бурхан багш",
+    "hanja": "人君",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인권",
+    "translation": "хүний эрх",
+    "hanja": "人權",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인극",
+    "translation": "хүний жүжиг",
+    "hanja": "人劇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인근",
+    "translation": "ойр орчим",
+    "hanja": "인근",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인기",
+    "translation": "алдартай байдал",
+    "hanja": "人氣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인기리",
+    "translation": "алдартай байх үед, амжилттайгаар",
+    "hanja": "人氣裡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인기척",
+    "translation": "Хүний хөдөлгөөн",
+    "hanja": "人氣척",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인나다",
+    "translation": "үүсэх, гарах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인내",
+    "translation": "тэсвэр тэвчээр",
+    "hanja": "忍耐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인내력",
+    "translation": "тэсвэр тэвчээр",
+    "hanja": "忍耐力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인내심",
+    "translation": "тэвчээр",
+    "hanja": "忍耐心",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인내천",
+    "translation": "хүн бол тэнгэр",
+    "hanja": "人乃天",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인내하다",
+    "translation": "тэсвэрлэх",
+    "hanja": "忍耐--",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인니",
+    "translation": "инжин, лаг",
+    "hanja": "印尼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인당",
+    "translation": "нэг хүнд",
+    "hanja": "人當",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인더스강",
+    "translation": "Инд мөрөн",
+    "hanja": "인더스江",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인덕",
+    "translation": "хүний жудаг",
+    "hanja": "人德",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인덕션",
+    "translation": "индукц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인덱스",
+    "translation": "Индекс",
+    "hanja": "index",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인덱싱",
+    "translation": "Индексжүүлэлт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인도",
+    "translation": "Энэтхэг",
+    "hanja": "印度",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "인도네시아",
+    "translation": "Индонези",
+    "hanja": "인도네시아",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "인도네시아어",
+    "translation": "Индонез хэл",
+    "hanja": "인도네시아語",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인도되다",
+    "translation": "хүлээлгэн өгөх",
+    "hanja": "引渡되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인도양",
+    "translation": "Энэтхэгийн далай",
+    "hanja": "印度洋",
+    "pos": "н.н",
+    "cefr": "A2"
+  },
+  {
+    "word": "인도적",
+    "translation": "Хүмүүнлэгийн",
+    "hanja": "人道的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인도주의",
+    "translation": "хүмүүнлэг үзэл",
+    "hanja": "人道主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인도차이나",
+    "translation": "Энэтхэг-Хятад",
+    "hanja": "인도차이나",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인도하다",
+    "translation": "хөтлөх, удирдах",
+    "hanja": "引導-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인동",
+    "translation": "индон ургамал",
+    "hanja": "忍冬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인두",
+    "translation": "индуктор",
+    "hanja": "人頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인두겁",
+    "translation": "хүний хэлбэр",
+    "hanja": "人頭겁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인듀어런스",
+    "translation": "тэсвэр тэвчээр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인드라",
+    "translation": "индра",
+    "hanja": "인드라",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인디",
+    "translation": "Энэтхэг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인디고",
+    "translation": "индиго",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인디아",
+    "translation": "Энэтхэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "인디안",
+    "translation": "индиан",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인디애나대",
+    "translation": "Индиана их сургууль",
+    "hanja": "인디애나大",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인디애나주",
+    "translation": "Индиана муж",
+    "hanja": "인디애나주",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인디애나폴리스",
+    "translation": "Индианаполис",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "인디언",
+    "translation": "Индиан",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인디오",
+    "translation": "индианчууд",
+    "hanja": "Indio",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인디케이터",
+    "translation": "индикатор",
+    "hanja": "인디케이터",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인라인스케이트",
+    "translation": "роллер скэйт",
+    "hanja": "인라인스케이트",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인력",
+    "translation": "Хүний нөөц",
+    "hanja": "人力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인력난",
+    "translation": "хүний нөөцийн хомсдол",
+    "hanja": "人力難",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인류",
+    "translation": "хүн төрөлхтөн",
+    "hanja": "人類",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인류학",
+    "translation": "хүн судлал",
+    "hanja": "人類學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인륜",
+    "translation": "хүний жудаг",
+    "hanja": "人倫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인륜지대사",
+    "translation": "хүн төрөлхтний чухал үйл явдал",
+    "hanja": "인륜지대사(人倫之大事)",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인마",
+    "translation": "эх, хүүхэд",
+    "hanja": "人馬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인망",
+    "translation": "нэр хүнд",
+    "hanja": "人望",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인맥",
+    "translation": "хүний нөөц",
+    "hanja": "人脈",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인면수심",
+    "translation": "хүний нүүртэй, араатны зүрхтэй",
+    "hanja": "人面獸心",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "인멸",
+    "translation": "устгах",
+    "hanja": "湮滅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인멸되다",
+    "translation": "устгагдах, арчигдах",
+    "hanja": "湮滅되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인멸하다",
+    "translation": "устгах, хог хаягдал болгох",
+    "hanja": "湮滅-하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인명",
+    "translation": "хүний амь, хүний нэр",
+    "hanja": "人命",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인명사전",
+    "translation": "намтрын толь бичиг",
+    "hanja": "人名辭典",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인모",
+    "translation": "Хүний үс",
+    "hanja": "人毛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인무",
+    "translation": "хүн-үргэлжлэх",
+    "hanja": "人務",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인문",
+    "translation": "хүмүүнлэг",
+    "hanja": "人文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인문계",
+    "translation": "нийгмийн ухааны салбар",
+    "hanja": "人文系",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인문학",
+    "translation": "хүмүүнлэг",
+    "hanja": "人文學",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인물",
+    "translation": "хүн",
+    "hanja": "人物",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인물화",
+    "translation": "хөрөг зураг",
+    "hanja": "人物畫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인민",
+    "translation": "Ардын",
+    "hanja": "人民",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인민학교",
+    "translation": "Ардын сургууль",
+    "hanja": "人民學校",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "인바",
+    "translation": "Илүүдэл",
+    "hanja": "인바",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인바운드",
+    "translation": "инбаунд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인방",
+    "translation": "хүмүүс",
+    "hanja": "人訪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인배",
+    "translation": "Хүмүүсийн цуваа, хүмүүсийн бүлэг",
+    "hanja": "人輩",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인버터",
+    "translation": "инвертер",
+    "hanja": "인버터",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인벤",
+    "translation": "Инвен (тоглоомын нэр)",
+    "hanja": "Inven",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인벤토리",
+    "translation": "Бараа материал",
+    "hanja": "Inventory",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인보이스",
+    "translation": "Нэхэмжлэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인복",
+    "translation": "Хүмүүсийн өглөг, хүмүүсийн аз жаргал",
+    "hanja": "人福",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인본주의",
+    "translation": "хүмүүнлэг үзэл",
+    "hanja": "人本主義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인부",
+    "translation": "ажилчин",
+    "hanja": "人夫",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인비",
+    "translation": "урилга",
+    "hanja": "人費",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인사",
+    "translation": "мэндлэх, мэндчилгээ",
+    "hanja": "人事",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인사권",
+    "translation": "Хүний нөөцийн эрх мэдэл",
+    "hanja": "人事權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인사말",
+    "translation": "мэндчилгээ",
+    "hanja": "人事말",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인사불성",
+    "translation": "ухаан алдах",
+    "hanja": "인사불성(人事不省)",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인사성",
+    "translation": "гэр бүлсэг, харилцаа",
+    "hanja": "人事性",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인사시키다",
+    "translation": "танилцуулах",
+    "hanja": "人事시키다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인사이동",
+    "translation": "боловсон хүчний өөрчлөлт",
+    "hanja": "人事異動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인사이드",
+    "translation": "дотор, дотор тал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인사치레",
+    "translation": "ёс төдий мэндчилгээ",
+    "hanja": "人事치레",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인사하다",
+    "translation": "мэндлэх",
+    "hanja": "人事하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "인산",
+    "translation": "фосфорын хүчил",
+    "hanja": "燐酸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인산인해",
+    "translation": "хүн олон цугларсан",
+    "hanja": "人山人海",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인삼",
+    "translation": "Сам",
+    "hanja": "人蔘",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인삼주",
+    "translation": "Самрын архи",
+    "hanja": "人蔘酒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인삼차",
+    "translation": "хүн орхоодой цай",
+    "hanja": "人蔘茶",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "인삿말",
+    "translation": "Мэндчилгээ",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "인상",
+    "translation": "сэтгэгдэл, төрх",
+    "hanja": "印象",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인상되다",
+    "translation": "нэмэгдэх, өсөх",
+    "hanja": "引上되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인상률",
+    "translation": "нэмэгдсэн хувь",
+    "hanja": "引上率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인상적",
+    "translation": "сэтгэлд хоногшсон, мартагдашгүй",
+    "hanja": "印象的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인상착의",
+    "translation": "хүний гадаад төрх, хувцаслалт",
+    "hanja": "人相着衣",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인상하다",
+    "translation": "нэмэгдүүлэх",
+    "hanja": "引上하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인색",
+    "translation": "хайхрамжгүй",
+    "hanja": "吝嗇",
+    "pos": "тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "인색하다",
+    "translation": "харамч, нарийн сэтгэлтэй",
+    "hanja": "吝嗇하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "인생",
+    "translation": "амьдрал",
+    "hanja": "人生",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인생관",
+    "translation": "амьдралын үзэл",
+    "hanja": "人生觀",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인생길",
+    "translation": "амьдралын зам",
+    "hanja": "人生길",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인생무상",
+    "translation": "амьдрал хувирамтгай",
+    "hanja": "人生無常",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인생살이",
+    "translation": "амьдрал, амьдралын замнал",
+    "hanja": "人生살이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인생철학",
+    "translation": "амьдралын философи",
+    "hanja": "人生哲學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인서트",
+    "translation": "Оруулах",
+    "hanja": "인서트",
+    "pos": "Noun (English loan)",
+    "cefr": "B1"
+  },
+  {
+    "word": "인석",
+    "translation": "Хүндэтгэлийн суудал",
+    "hanja": "人席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인선",
+    "translation": "хүн сонгох",
+    "hanja": "人選",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인선하다",
+    "translation": "хүн сонгох",
+    "hanja": "人選하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "인세",
+    "translation": "зохиогчийн эрхийн төлбөр",
+    "hanja": "印稅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인센티브",
+    "translation": "урамшуулал",
+    "hanja": "incentive",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인소",
+    "translation": "интернэт роман",
+    "hanja": null,
+    "pos": "м.н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "인솔",
+    "translation": "удирдамж, хөтөлбөр",
+    "hanja": "引率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인솔하다",
+    "translation": "удирдах, дагуулах",
+    "hanja": "引率하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인쇄",
+    "translation": "Хэвлэх",
+    "hanja": "印刷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인쇄되다",
+    "translation": "Хэвлэгдэх",
+    "hanja": "印刷되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "인쇄물",
+    "translation": "хэвлэмэл материал",
+    "hanja": "印刷物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인쇄하다",
+    "translation": "хэвлэх",
+    "hanja": "印刷하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인수",
+    "translation": "Хүлээн авах, худалдан авах",
+    "hanja": "引受",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인수되다",
+    "translation": "хүлээж авах",
+    "hanja": "引受되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인수인계",
+    "translation": "Ажил хүлээлцэх",
+    "hanja": "引受引繼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인수인계하다",
+    "translation": "хүлээлгэн өгөх, хүлээж авах",
+    "hanja": "引受引繼하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인수하다",
+    "translation": "хүлээн авах",
+    "hanja": "인수하다(引受하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인숙",
+    "translation": "эелдэг; дөлгөөн",
+    "hanja": "仁淑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인순",
+    "translation": "хүлцэл",
+    "hanja": "忍順",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인술",
+    "translation": "хүнлэг эмчилгээ",
+    "hanja": "仁術",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인슐린",
+    "translation": "Инсулин",
+    "hanja": "insulin",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인스",
+    "translation": "инч (хэмжээ)",
+    "hanja": "인스",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인스브루크",
+    "translation": "Инсбрук (хот)",
+    "hanja": "Innsbruck",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인스턴스",
+    "translation": "жишээ, тохиолдол, инстанс",
+    "hanja": "Instance",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인스턴트",
+    "translation": "Түргэн хоол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인스턴트식품",
+    "translation": "түргэн хоол",
+    "hanja": "instant食品",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인스트",
+    "translation": "инструктор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인스트럭터",
+    "translation": "зааварлагч",
+    "hanja": "인스트럭터",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인스트루먼트",
+    "translation": "Хөгжмийн зэмсэг",
+    "hanja": "인스트루먼트",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인스펙션",
+    "translation": "үзлэг",
+    "hanja": "inspection",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인스펙터",
+    "translation": "хяналт шалгагч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인습",
+    "translation": "хуучин заншил, мухар сүсэг",
+    "hanja": "因襲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인승",
+    "translation": "хүний багтаамж",
+    "hanja": "人乘",
+    "pos": "접미사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인시",
+    "translation": "бар цаг (өглөөний 3-5 цаг)",
+    "hanja": "寅時",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인식",
+    "translation": "ойлголт",
+    "hanja": "認識",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인식되다",
+    "translation": "ойлгогдох, танигдах",
+    "hanja": "認識되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인식시키다",
+    "translation": "таниулах",
+    "hanja": "認識시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인식하다",
+    "translation": "ойлгох",
+    "hanja": "認識하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "인신",
+    "translation": "хүний бие",
+    "hanja": "人身",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인신공격",
+    "translation": "хувийн дайралт",
+    "hanja": "人身攻擊",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인신공격하다",
+    "translation": "Хувийн довтолгоо хийх",
+    "hanja": "人身攻擊하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "인신매매",
+    "translation": "хүний наймаа",
+    "hanja": "人身賣買",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인심",
+    "translation": "хүний сэтгэл",
+    "hanja": "人心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인싸",
+    "translation": "алдартай хүн",
+    "hanja": "인싸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인애",
+    "translation": "хүн чанар, хайр",
+    "hanja": "仁愛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인양",
+    "translation": "татаж авах",
+    "hanja": "引揚",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인양되다",
+    "translation": "дээш татагдах, өргөдөх",
+    "hanja": "引揚되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인양하다",
+    "translation": "Өргөх, татан гаргах",
+    "hanja": "引揚하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인어",
+    "translation": "лусын дагина",
+    "hanja": "人魚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인연",
+    "translation": "хувь тавилан, заяа",
+    "hanja": "因緣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인엽",
+    "translation": "Хүний навч (ихэвчлэн ургамлын нэр)",
+    "hanja": "鱗葉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인옥",
+    "translation": "хүний гэр",
+    "hanja": "人屋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인왕",
+    "translation": "Инван",
+    "hanja": "仁王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인왕제색도",
+    "translation": "Инванжэсэнду",
+    "hanja": "仁王霽色圖",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인외",
+    "translation": "хүнээс гадуур, хүний бус",
+    "hanja": "人外",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인욕",
+    "translation": "түмэн хүн",
+    "hanja": "人慾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인용",
+    "translation": "Иш татах",
+    "hanja": "引用",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인용되다",
+    "translation": "ишлэл татагдах",
+    "hanja": "引用되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인용문",
+    "translation": "Ишлэл, ишлэлийн өгүүлбэр",
+    "hanja": "引用文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인용하다",
+    "translation": "иш татах",
+    "hanja": "引用하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인원",
+    "translation": "боловсон хүчин",
+    "hanja": "人員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인월",
+    "translation": "хүний сар",
+    "hanja": "人月",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인위",
+    "translation": "хүний хийсэн, зохиомол",
+    "hanja": "人爲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인위적",
+    "translation": "Хиймэл",
+    "hanja": "人爲的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "인육",
+    "translation": "хүний мах",
+    "hanja": "人肉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인의",
+    "translation": "хүмүүнлэг, шударга ёс",
+    "hanja": "仁義",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "인의예지",
+    "translation": "энэрэнгүй, шударга, ёс суртахуун, мэргэн ухаан",
+    "hanja": "仁義禮智",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인자",
+    "translation": "хүний хүү",
+    "hanja": "因子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인자하다",
+    "translation": "нигүүлсэнгүй",
+    "hanja": "仁慈하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인장",
+    "translation": "Тамга",
+    "hanja": "印章",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인재",
+    "translation": "авьяаслаг хүн, чадварлаг боловсон хүчин",
+    "hanja": "人材",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인적",
+    "translation": "хүнгүйдэл",
+    "hanja": "人跡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인절미",
+    "translation": "Инжолми (цагаан будааны наалддаг бялуу)",
+    "hanja": "引節미",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인접",
+    "translation": "хөрш",
+    "hanja": "鄰接",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인접하다",
+    "translation": "хөршийн",
+    "hanja": "隣接하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "인정",
+    "translation": "хүлээн зөвшөөрөх",
+    "hanja": "認定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인정되다",
+    "translation": "хүлээн зөвшөөрөгдөх",
+    "hanja": "認定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인정머리",
+    "translation": "хүний мөс, энэрэнгүй сэтгэл",
+    "hanja": "人情",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인정받다",
+    "translation": "зөвшөөрөгдөх",
+    "hanja": "認定받다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인정사정",
+    "translation": "энэрэнгүй",
+    "hanja": "人情事情",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "인정사정없다",
+    "translation": "өршөөлгүй, хатуу ширүүн",
+    "hanja": "人情事定없다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인정사정없이",
+    "translation": "хэрцгийгээр",
+    "hanja": "人情事正없이",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인정하다",
+    "translation": "зөвшөөрөх, хүлээн зөвшөөрөх",
+    "hanja": "認定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인제",
+    "translation": "Одоо",
+    "hanja": "이제",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인젝터",
+    "translation": "Инжектор",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인조",
+    "translation": "хиймэл, зохиомол",
+    "hanja": "人造",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인조인간",
+    "translation": "хиймэл хүн, робот",
+    "hanja": "人造人間",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인족",
+    "translation": "Хүн төрөлхтөн",
+    "hanja": "人族",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인종",
+    "translation": "угсаатан",
+    "hanja": "人種",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "인종적",
+    "translation": "угсаатны",
+    "hanja": "人種的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인종주의",
+    "translation": "арьс өнгөөр ялгаварлан гадуурхах үзэл",
+    "hanja": "人種主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인주",
+    "translation": "тамганы бэх",
+    "hanja": "印朱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인준하다",
+    "translation": "соёрхон батлах",
+    "hanja": "認准하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인줄",
+    "translation": "гэж бодох",
+    "hanja": null,
+    "pos": "어미",
+    "cefr": "A2"
+  },
+  {
+    "word": "인중",
+    "translation": "хөмсөгний завсар",
+    "hanja": "人中",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인증",
+    "translation": "баталгаажуулалт",
+    "hanja": "認證",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인증되다",
+    "translation": "батлагдах, гэрчлэгдэх",
+    "hanja": "認證되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "인증하다",
+    "translation": "баталгаажуулах, гэрчлэх",
+    "hanja": "認證하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인지",
+    "translation": "таних",
+    "hanja": "認知",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인지도",
+    "translation": "танигдсан байдал",
+    "hanja": "認知度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인지되다",
+    "translation": "танин мэдэгдэх, хүлээн зөвшөөрөгдөх",
+    "hanja": "認知되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "인지상정",
+    "translation": "нийтлэг хүний мэдрэмж",
+    "hanja": "人情常情",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "인지하다",
+    "translation": "таних, мэдрэх",
+    "hanja": "認知하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인진",
+    "translation": "шар өвс",
+    "hanja": "茵蔯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인질",
+    "translation": "барьцааны хүн",
+    "hanja": "人質",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인질극",
+    "translation": "барьцааны нөхцөл байдал",
+    "hanja": "人質劇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인차",
+    "translation": "хүн тэрэг",
+    "hanja": "人車",
+    "pos": "NNG",
+    "cefr": "C1"
+  },
+  {
+    "word": "인척",
+    "translation": "хамаатан (эцэг эхийн талаас)",
+    "hanja": "姻戚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인천",
+    "translation": "Инчон",
+    "hanja": "仁川",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "인체",
+    "translation": "Хүний бие",
+    "hanja": "人體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인출",
+    "translation": "мөнгө авах",
+    "hanja": "引出",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인출기",
+    "translation": "бэлэн мөнгөний машин",
+    "hanja": "引出機",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인출되다",
+    "translation": "татагдах",
+    "hanja": "引出되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인출하다",
+    "translation": "мөнгө авах",
+    "hanja": "引出하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인치",
+    "translation": "инч",
+    "hanja": "인치",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인치대다",
+    "translation": "ялах, хожих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인친",
+    "translation": "хамаатан садан",
+    "hanja": "姻親",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인칭",
+    "translation": "төлөөний нэр (би, чи, тэр)",
+    "hanja": "人稱",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인코더",
+    "translation": "инкодер",
+    "hanja": "encoder",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인코딩",
+    "translation": "Кодчилол",
+    "hanja": "인코딩",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인코딩하다",
+    "translation": "кодлох",
+    "hanja": "인코딩하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인코스",
+    "translation": "дотор зам",
+    "hanja": "in-course",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인큐",
+    "translation": "инкубатор",
+    "hanja": "인큐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인큐베이터",
+    "translation": "инкубатор",
+    "hanja": "incubator",
+    "pos": "name",
+    "cefr": "B2"
+  },
+  {
+    "word": "인클라인",
+    "translation": "налуу зам",
+    "hanja": "incline",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인클로저",
+    "translation": "хүрээлэн",
+    "hanja": "enclosure",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인태",
+    "translation": "хүний ​​хэвлий",
+    "hanja": "人胎",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "인터내셔널",
+    "translation": "Олон улсын",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인터넷",
+    "translation": "интернет",
+    "hanja": "internet",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "인터라켄",
+    "translation": "Интерлакен",
+    "hanja": "Interlaken",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인터랙션",
+    "translation": "харилцан үйлчлэл",
+    "hanja": "interaction",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인터랙티브",
+    "translation": "интерактив",
+    "hanja": "interactive",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인터미디어",
+    "translation": "завсрын",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인터벌",
+    "translation": "завсарлага",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인터뷰",
+    "translation": "ярилцлага",
+    "hanja": "interview",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인터뷰어",
+    "translation": "ярилцлага авч буй хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인터뷰하다",
+    "translation": "ярилцлага өгөх",
+    "hanja": "인터뷰하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인터셉트",
+    "translation": "таслан зогсоох",
+    "hanja": "Intercept",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인터셉트하다",
+    "translation": "таслах, зогсоох",
+    "hanja": "인터셉트하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인터스텔라",
+    "translation": "од хоорондын",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인터체인지",
+    "translation": "замын уул",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인터페론",
+    "translation": "интерферон",
+    "hanja": "인터페론",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인터페이스",
+    "translation": "интерфейс",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인터폰",
+    "translation": "дотуур утас",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "인터폴",
+    "translation": "Интерпол",
+    "hanja": "인터폴",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인터프리터",
+    "translation": "орчуулагч (компьютер)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인터플레이",
+    "translation": "харилцан ажиллах",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인턴",
+    "translation": "дадлагажигч",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인턴쉽",
+    "translation": "дадлага",
+    "hanja": "인턴쉽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인턴십",
+    "translation": "дадлагын ажил",
+    "hanja": "internship",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인테리어",
+    "translation": "Дотоод засал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인텔리",
+    "translation": "сэхээтэн",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인토네이션",
+    "translation": "интонаци",
+    "hanja": "intonation",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인트라넷",
+    "translation": "интранет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인트로",
+    "translation": "оршил",
+    "hanja": "인트로",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "인티",
+    "translation": "инти (хэмжих нэгж)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인파",
+    "translation": "Олон хүн",
+    "hanja": "人波",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인파이터",
+    "translation": "довтолгоонч",
+    "hanja": "in-fighter",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인편",
+    "translation": "хүний гараар, дамжуулан",
+    "hanja": "人便",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인포",
+    "translation": "мэдээлэл",
+    "hanja": "인포",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인포그래픽",
+    "translation": "инфографик",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인포테인먼트",
+    "translation": "мэдээлэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인표",
+    "translation": "тамга, тэмдэг",
+    "hanja": "印票",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인품",
+    "translation": "хүний зан чанар",
+    "hanja": "人品",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인풋",
+    "translation": "оролт",
+    "hanja": "N/A",
+    "pos": "Noun (English loan)",
+    "cefr": "N/A"
+  },
+  {
+    "word": "인퓨저",
+    "translation": "инфузер",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인프라",
+    "translation": "дэд бүтэц",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인프라스트럭처",
+    "translation": "дэд бүтэц",
+    "hanja": "infrastructure",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "인플레",
+    "translation": "инфляци",
+    "hanja": "inflation",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인플레이션",
+    "translation": "инфляци",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인플루엔자",
+    "translation": "Томуу",
+    "hanja": "인플루엔자",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인피",
+    "translation": "Хүний арьс",
+    "hanja": "人皮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인하",
+    "translation": "бууруулах",
+    "hanja": " inha",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인하다",
+    "translation": "Улмаас, үүдэн",
+    "hanja": "因하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인하되다",
+    "translation": "буурах, хямдрах",
+    "hanja": "引下되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인하하다",
+    "translation": "буулгах, хямдруулах",
+    "hanja": "引下하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인핸서",
+    "translation": "сайжруулагч",
+    "hanja": "enhancer",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인혁",
+    "translation": "хүн-хувьсгал",
+    "hanja": "人革",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인형",
+    "translation": "хүүхэлдэй",
+    "hanja": "人形",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인형극",
+    "translation": "хүүхэлдэйн театр",
+    "hanja": "人形劇",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인형술사",
+    "translation": "хүүхэлдэйн урлаач",
+    "hanja": "人形術士",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인화",
+    "translation": "эв эе, галын тархалт, фото зураг угаах",
+    "hanja": "人和/引火/印畫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인화되다",
+    "translation": "гаргах, хөгжүүлэх (зураг)",
+    "hanja": "印畫되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인화성",
+    "translation": "Шатдаг чанар",
+    "hanja": "引火性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인화하다",
+    "translation": "зураг хэвлэх, гал тавих",
+    "hanja": "印畫하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인회",
+    "translation": "фосфор",
+    "hanja": "燐灰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인후",
+    "translation": "залгиур",
+    "hanja": "咽喉",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

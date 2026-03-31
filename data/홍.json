@@ -1,0 +1,660 @@
+[
+  {
+    "word": "홍",
+    "translation": "хон (овог)",
+    "hanja": "洪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍가",
+    "translation": "Улаан гэр",
+    "hanja": "紅家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍경",
+    "translation": "Хон Гён",
+    "hanja": "洪慶",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍경래",
+    "translation": "Хун Гён-Рэ (хувьсгалч)",
+    "hanja": "洪景來",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "홍계훈",
+    "translation": "Хун Гэ Хун (хүний нэр)",
+    "hanja": "洪啓勳",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "홍공",
+    "translation": "Улаан алдар",
+    "hanja": "紅功",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍구",
+    "translation": "Хонг-гу (хүний нэр эсвэл газар зүйн нэр)",
+    "hanja": "洪九",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍군",
+    "translation": "улаан арми",
+    "hanja": "紅軍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "홍규",
+    "translation": "хонгио",
+    "hanja": "洪閨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍기",
+    "translation": "Улаан туг",
+    "hanja": "紅旗",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍길동",
+    "translation": "Хон Гиль Дон (нээр)",
+    "hanja": "洪吉童",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "홍길동전",
+    "translation": "Хон Гилдонгийн намтар",
+    "hanja": "洪吉童傳",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍단",
+    "translation": "улаан бөмбөг",
+    "hanja": "紅 단",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍당무",
+    "translation": "лууван",
+    "hanja": "홍당무",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "홍대",
+    "translation": "Хондэ",
+    "hanja": "弘大",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "홍도",
+    "translation": "Хондо арал",
+    "hanja": "紅島",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍동백서",
+    "translation": "улаан зүүн талд, цагаан баруун талд",
+    "hanja": "紅東白西",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍두",
+    "translation": "улаан толгой",
+    "hanja": "紅頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍두깨",
+    "translation": "гурилын илд",
+    "hanja": "홍두깨",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍등",
+    "translation": "улаан дэнлүү",
+    "hanja": "紅燈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍등가",
+    "translation": "улаан дэнлүүний хороолол",
+    "hanja": "紅燈街",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍란",
+    "translation": "хонь, хунт",
+    "hanja": "紅蘭",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍련",
+    "translation": "улаан бадамлянхуа",
+    "hanja": "紅蓮",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍로",
+    "translation": "үүдний танхим",
+    "hanja": "弘路",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍륜",
+    "translation": "Хунрюн (хүний нэр)",
+    "hanja": "洪倫",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍릉",
+    "translation": "Хонлэн (оршуулгын газар)",
+    "hanja": "洪陵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍매",
+    "translation": "улаан чавга",
+    "hanja": "紅梅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍명",
+    "translation": "Улаан нэр",
+    "hanja": "紅名",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍모",
+    "translation": "улаан үс",
+    "hanja": "紅毛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍무",
+    "translation": "Хун У",
+    "hanja": "洪武",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍문",
+    "translation": "Хоңмүн",
+    "hanja": "弘文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍미",
+    "translation": "улаан будаа",
+    "hanja": "紅米",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍반",
+    "translation": "улаан толбо",
+    "hanja": "紅斑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍범",
+    "translation": "Их дүрэм",
+    "hanja": "洪範",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍벽",
+    "translation": "улаан хана",
+    "hanja": "紅壁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍보",
+    "translation": "сурталчилгаа",
+    "hanja": "弘報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍보물",
+    "translation": "сурталчилгааны материал",
+    "hanja": "弘報物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍보전",
+    "translation": "сурталчилгааны кампанит ажил",
+    "hanja": "弘報戰",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍보하다",
+    "translation": "сурталчлах",
+    "hanja": "弘報하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "홍복",
+    "translation": "Адислал",
+    "hanja": "洪福",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍비",
+    "translation": "улаан нум",
+    "hanja": "虹霏",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍삼",
+    "translation": "улаан сам",
+    "hanja": "紅蔘",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍상",
+    "translation": "унгар",
+    "hanja": "紅裳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍색",
+    "translation": "улаан өнгө",
+    "hanja": "紅色",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "홍석",
+    "translation": "홍석",
+    "hanja": "紅石",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍설",
+    "translation": "их цас, хүчтэй цас",
+    "hanja": "洪雪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍성",
+    "translation": "Хонсон (Солонгосын хот)",
+    "hanja": "洪城",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍소",
+    "translation": "Улаан инээд, халуун инээд",
+    "hanja": "哄笑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍수",
+    "translation": "үр хойч",
+    "hanja": "洪水",
+    "pos": "NOUN",
+    "cefr": "B1"
+  },
+  {
+    "word": "홍순",
+    "translation": "Хонсун",
+    "hanja": "洪淳",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍시",
+    "translation": "боловсорсон хүрэн хоормог",
+    "hanja": "紅枾",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "홍심",
+    "translation": "Хонгшим (хүн нэр)",
+    "hanja": "洪心",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "홍씨",
+    "translation": "Хон овогт (нэр)",
+    "hanja": "洪氏",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "홍아",
+    "translation": "хүү, хүүхэд (заримдаа хэлэх)",
+    "hanja": "紅兒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍안",
+    "translation": "улаан нүүр",
+    "hanja": "紅顔",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍양",
+    "translation": "хөхүүдийн хамар, хамар нь улайсан",
+    "hanja": "紅陽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍어",
+    "translation": "скат загас (хонгор)",
+    "hanja": "洪魚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍역",
+    "translation": "улаан бурхан",
+    "hanja": "紅疫",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍연",
+    "translation": "улаан холбоо",
+    "hanja": "紅緣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍염",
+    "translation": "улаан дөл",
+    "hanja": "紅焰",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍예",
+    "translation": "солонго",
+    "hanja": "虹霓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍옥",
+    "translation": "улаан мана",
+    "hanja": "紅玉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍운",
+    "translation": "улаан үүл",
+    "hanja": "紅雲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍원",
+    "translation": "Хонвон",
+    "hanja": "洪原",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍위병",
+    "translation": "Улаан хамгаалагчид",
+    "hanja": "紅衛兵",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍이",
+    "translation": "Хонги (Хүний нэр)",
+    "hanja": "洪二",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "홍익",
+    "translation": "хүн төрөлхтөнд тус болох",
+    "hanja": "弘益",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍익인간",
+    "translation": "хүн төрөлхтний сайн сайхны төлөө",
+    "hanja": "弘益人間",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍인",
+    "translation": "Хон Ин (хүний нэр)",
+    "hanja": "弘仁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍자",
+    "translation": "Цагаан будааны төрөл",
+    "hanja": "紅紫",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍장",
+    "translation": "Улаан алт",
+    "hanja": "紅掌",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍점",
+    "translation": "улаан цэг",
+    "hanja": "紅點",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "홍제",
+    "translation": "Хонгже (газрын нэр эсвэл хүний нэр)",
+    "hanja": "弘濟",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍조",
+    "translation": "нүүр улайх",
+    "hanja": "紅潮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "홍주",
+    "translation": "улаан архи",
+    "hanja": "紅酒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍지",
+    "translation": "Хунжи (хүний нэр)",
+    "hanja": "弘志",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍차",
+    "translation": "хар цай",
+    "hanja": "紅茶",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "홍창",
+    "translation": "Улаан цонх",
+    "hanja": "紅窓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍채",
+    "translation": "солонгон бүрхэвч",
+    "hanja": "虹彩",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍천",
+    "translation": "Хончон (газар нэр)",
+    "hanja": "洪川",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍초",
+    "translation": "Улаан цуу",
+    "hanja": "紅醋",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍치",
+    "translation": "Хонг Жи (эзэн хаан)",
+    "hanja": "弘治",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍콩",
+    "translation": "Хонг Конг",
+    "hanja": "香港",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "홍타이지",
+    "translation": "Хон Тайж",
+    "hanja": "洪太箸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "홍탁",
+    "translation": "улаан будааны архи",
+    "hanja": "紅濁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍탕",
+    "translation": "улаан шөл",
+    "hanja": "紅湯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍패",
+    "translation": "улаан карт",
+    "hanja": "紅牌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍포",
+    "translation": "Улаан нөмрөг",
+    "hanja": "紅袍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍학",
+    "translation": "шимбэр шувуу",
+    "hanja": "紅鶴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "홍합",
+    "translation": "хясаа",
+    "hanja": "紅蛤",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "홍해",
+    "translation": "Улаан тэнгис",
+    "hanja": "紅海",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍홍",
+    "translation": "хөхрөх",
+    "hanja": "哄哄",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍화",
+    "translation": "Гурвалжин цэцэг",
+    "hanja": "紅花",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홍희",
+    "translation": "хүндэтгэлийн баяр",
+    "hanja": "洪禧",
+    "pos": "noun",
+    "cefr": "C2"
+  }
+]

@@ -1,0 +1,576 @@
+[
+  {
+    "word": "꼬",
+    "translation": "Сүүл",
+    "hanja": "꼬",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "꼬깃꼬깃",
+    "translation": "үхэрхийлсэн, үрчлээтсэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬깃꼬깃하다",
+    "translation": "үрэлчийсэн байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬깜",
+    "translation": "хатаасан хүрэн алмаа",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬꼬",
+    "translation": "Тахиа (хүүхдийн хэл)",
+    "hanja": "꼬꼬",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "꼬꼬닭",
+    "translation": "Дэгдээхэй (дуудлагын үг)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "꼬꼬댁",
+    "translation": "тахианы дуу",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "꼬꼬마",
+    "translation": "бяцхан хүүхэд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꼬끄",
+    "translation": "загвар",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "꼬끼오",
+    "translation": "кукареку",
+    "hanja": "―",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "꼬나들다",
+    "translation": "дээш өргөх, дээшээ харах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬나물다",
+    "translation": "Ам унжуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬나쥐다",
+    "translation": "Шатчих, багалзуурдах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꼬냑",
+    "translation": "коньяк",
+    "hanja": "코냑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬다",
+    "translation": "мушгих, эргүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬다리",
+    "translation": "суурь",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬독꼬독",
+    "translation": "шажигнуур",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꼬독꼬독하다",
+    "translation": "Ширүүн, хатуу",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꼬드기다",
+    "translation": "ялах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬들꼬들",
+    "translation": "Залхуу",
+    "hanja": "N/A",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬들꼬들하다",
+    "translation": "хүнхгэр",
+    "hanja": null,
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬라박다",
+    "translation": "хутгана ханзлах, цохих",
+    "hanja": "꼬라박다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬라지",
+    "translation": "байдал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꼬락서니",
+    "translation": "байдал, хэлбэр, дүр",
+    "hanja": "꼬락서니",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬랑지",
+    "translation": "сүүл",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꼬로록",
+    "translation": "гэдэс ходоод дуугарах чимээ",
+    "hanja": "꼬로록",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬롬하다",
+    "translation": "залитай, муу санаатай",
+    "hanja": "꼬롬하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "꼬르",
+    "translation": "Гэдэс ходоод дуугарах чимээ",
+    "hanja": "꼬르",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꼬르륵",
+    "translation": "Гулгиан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬르륵거리다",
+    "translation": "ходоод хоржигнох",
+    "hanja": "꼬르륵거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬륵",
+    "translation": "гэдэс ходоод дуугарах чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꼬리",
+    "translation": "сүүл",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "꼬리곰탕",
+    "translation": "үхрийн сүүлний шөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬리명주나비",
+    "translation": "Сүүлний торгон эрвээхэй",
+    "hanja": "꼬리명주나비",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꼬리뼈",
+    "translation": "сүүлний яс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬리치",
+    "translation": "сүүлээ шарвах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬리표",
+    "translation": "шошго",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꼬마",
+    "translation": "бяцхан хүүхэд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "꼬마물떼새",
+    "translation": "бяцхан усны шувуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꼬막",
+    "translation": "нэг төрлийн хясаа",
+    "hanja": "꼬막",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "꼬매다",
+    "translation": "оёх, нөхөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬맹이",
+    "translation": "бяцхан хүүхэд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꼬물",
+    "translation": "жижигхэн зүйл",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꼬물거리다",
+    "translation": "хөдөлж зогсохгүй байх, гөлөгнөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬물꼬물",
+    "translation": "Бултах, мушийх",
+    "hanja": "꼬물꼬물",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬미",
+    "translation": "жижигхэн багц, шургуулга",
+    "hanja": "꼬미",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꼬미꼬미",
+    "translation": "мушгирсан, орооцолдсон",
+    "hanja": "꼬미꼬미",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꼬박",
+    "translation": "бүхэлд нь",
+    "hanja": "꼬박",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬박꼬박",
+    "translation": "тогтмол, цаг үргэлж",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬봉",
+    "translation": "хүүхдийн тоглоом, бөмбөг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꼬부다",
+    "translation": "Муруйлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬부라지다",
+    "translation": "мурийх, тахийх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬부랑",
+    "translation": "атираат, муруй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬불거리다",
+    "translation": "мурийх",
+    "hanja": "꼬불거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬불꼬불",
+    "translation": "Муруй, ороо бус, мушгирсан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬불꼬불하다",
+    "translation": "муруй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬불치다",
+    "translation": "нууж хадгалах, нуух",
+    "hanja": "None",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬붕",
+    "translation": "дагалдан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꼬비",
+    "translation": "мэлхий",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꼬소하다",
+    "translation": "амттай, сайхан үнэртэй",
+    "hanja": "Q",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬순내",
+    "translation": "Шарсан үнэр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬숩다",
+    "translation": "амттай, тослог",
+    "hanja": "꼬숩다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬시다",
+    "translation": "Уруу татах, хоргоох",
+    "hanja": "꼬시다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬시래기",
+    "translation": "бөгсөн биеийн мах",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "꼬실다",
+    "translation": "уралах, ятгах",
+    "hanja": "꼬실다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬야",
+    "translation": "хүүхдийн тоглоом (нэр)",
+    "hanja": "꼬야",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "꼬이",
+    "translation": "байдал муудах",
+    "hanja": "꼬이",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬이다",
+    "translation": "Эхлэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬장",
+    "translation": "Уур, уцаар; зөрүүд ааш",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬장꼬장하다",
+    "translation": "Яхир, хатуу, нямбай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꼬질",
+    "translation": "бохир, заваан",
+    "hanja": "꼬질",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬질꼬질",
+    "translation": "бохир, заваан",
+    "hanja": "꼬질꼬질",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬질꼬질하다",
+    "translation": "хувцсыг нь угаах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬집",
+    "translation": "Чиглүүлэх",
+    "hanja": "꼬집",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꼬집다",
+    "translation": "Чимхэх",
+    "hanja": "꼬집다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬집히다",
+    "translation": "Чимхүүлэх, шүүмжлүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬챙이",
+    "translation": "шор",
+    "hanja": "꼬챙이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬추",
+    "translation": "эр бэлэг эрхтэн",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "꼬치",
+    "translation": "шорлог",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꼬치구이",
+    "translation": "шорлог",
+    "hanja": "꼬치구이",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬치꼬치",
+    "translation": "нарийн ширийн, дэлгэрэнгүй",
+    "hanja": "꼬치꼬치",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼬투리",
+    "translation": "Говь, үндэс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

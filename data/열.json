@@ -1,0 +1,464 @@
+[
+  {
+    "word": "열",
+    "translation": "Халуун, дулаан; эгнээ",
+    "hanja": "熱",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "열감",
+    "translation": "халуурах мэдрэмж",
+    "hanja": "熱感",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "열거되다",
+    "translation": "жагсаагдах",
+    "hanja": "列擧되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열거하다",
+    "translation": "Жагсаан бичих, дурдах",
+    "hanja": "列擧하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "열곡",
+    "translation": "халуун хөндий",
+    "hanja": "裂谷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "열공하다",
+    "translation": "хичээлдээ шамдах",
+    "hanja": "熱工하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "열광",
+    "translation": "Хэт их догдлол, урам зориг",
+    "hanja": "熱狂",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "열광시키다",
+    "translation": "шуумрах, сүйхийг нь хөдөлгөх",
+    "hanja": "熱狂시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열광적",
+    "translation": "улайран дурласан",
+    "hanja": "熱狂的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열광하다",
+    "translation": "улайрах",
+    "hanja": "熱狂하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열기구",
+    "translation": "агаарын бөмбөлөг",
+    "hanja": "熱氣球",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "열나다",
+    "translation": "халуурах",
+    "hanja": "熱나다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "열녀",
+    "translation": "үнэнч эмэгтэй",
+    "hanja": "烈女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "열녀문",
+    "translation": "үнэнч эмэгтэйн хаалга/хөшөө",
+    "hanja": "烈女門",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "열다",
+    "translation": "нээх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "열대림",
+    "translation": "халуун орны ой",
+    "hanja": "熱帶林",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "열대성",
+    "translation": "халуун орны",
+    "hanja": "熱帶性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열대야",
+    "translation": "халуун шөнө",
+    "hanja": "熱帶夜",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "열대어",
+    "translation": "халуун орны загас",
+    "hanja": "熱帶魚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "열댓",
+    "translation": "арав бат",
+    "hanja": "null",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열등감",
+    "translation": "дорд үзэх сэтгэл",
+    "hanja": "劣等感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열등의식",
+    "translation": "доогуур гэж бодох сэтгэл",
+    "hanja": "劣等意識",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열등하다",
+    "translation": "доод, дорой",
+    "hanja": "劣等하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "열띠다",
+    "translation": "халуун дулаан, эрч хүчтэй",
+    "hanja": "熱띠다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열락",
+    "translation": "их баяр баясгалан",
+    "hanja": "悅樂",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "열람",
+    "translation": "үзэх, шалгах",
+    "hanja": "閱覽",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열람실",
+    "translation": "уншлагын танхим",
+    "hanja": "閱覽室",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "열람하다",
+    "translation": "үзэж танилцах, унших",
+    "hanja": "閱覽하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "열렬하다",
+    "translation": "хүчтэй, халуун дотно",
+    "hanja": "熱烈—",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열렬히",
+    "translation": "Улайран",
+    "hanja": "熱烈히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열리다",
+    "translation": "нээгдэх, эхлэх",
+    "hanja": "열리다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "열망",
+    "translation": "Хүсэл тэмүүлэл",
+    "hanja": "熱望",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "열망하다",
+    "translation": "хүсэн тэмүүлэх",
+    "hanja": "熱望하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "열무김치",
+    "translation": "залуу манжингийн кимчи",
+    "hanja": "열무김치",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "열반하다",
+    "translation": "нирваан дүрд орох",
+    "hanja": "涅槃하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "열받다",
+    "translation": "уурлах",
+    "hanja": "열받다(熱받다)",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "열변",
+    "translation": "Хүсэл тэмүүлэлтэй үг",
+    "hanja": "熱辯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열사병",
+    "translation": "халуунд цохиулах",
+    "hanja": "熱射病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열성적",
+    "translation": "эрч хүчтэй, идэвхтэй",
+    "hanja": "熱誠的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "열성팬",
+    "translation": "Үнэнч шүтэн бишрэгч",
+    "hanja": "熱誠팬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "열쇠",
+    "translation": "Түлхүүр",
+    "hanja": "열쇠",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "열쇠고리",
+    "translation": "түлхүүрийн оосор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "열심",
+    "translation": "хичээл зүтгэлтэй",
+    "hanja": "熱心",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "열심히",
+    "translation": "Шийдэмгийгээр, хичээнгүйлэн",
+    "hanja": "熱心히",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "열십자",
+    "translation": "загалмайн тэмдэг",
+    "hanja": "熱十字",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "열악하다",
+    "translation": "муу",
+    "hanja": "劣惡하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "열애",
+    "translation": "халуун дурлал",
+    "hanja": "열애(熱愛)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "열어",
+    "translation": "нээх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "열어젖히다",
+    "translation": "онгойлгох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "열없다",
+    "translation": "ичгүүртэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "열연하다",
+    "translation": "хүчтэй тоглох, маш сайн дүр бүтээх",
+    "hanja": "熱演하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열왕기",
+    "translation": "Хаадын ном",
+    "hanja": "列王記",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "열외",
+    "translation": "дугаараас гадуур",
+    "hanja": "列外",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "열의",
+    "translation": "урам зориг, хүсэл тэмүүлэл",
+    "hanja": "熱意",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "열이다",
+    "translation": "Халуун байх, халуурах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "열일하다",
+    "translation": "шаргуу ажиллах",
+    "hanja": "열일하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열정적",
+    "translation": "Огцом, хүсэл тэмүүлэлтэй",
+    "hanja": "熱情的",
+    "pos": "관형사/명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열중쉬어",
+    "translation": "анхааралгүй",
+    "hanja": "列中쉬어",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "열중하다",
+    "translation": "Шийдэмгий оролцох",
+    "hanja": "熱中하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열창하다",
+    "translation": "Дуулах (их хүсэл тэмүүлэлтэй)",
+    "hanja": "熱唱하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "열처리",
+    "translation": "халуунаар боловсруулах",
+    "hanja": "熱處理",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열폭하다",
+    "translation": "Уурлах, бухимдах",
+    "hanja": "열폭하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열풍",
+    "translation": "халуун салхи",
+    "hanja": "熱風",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "열혈",
+    "translation": "халуун сэтгэл",
+    "hanja": "熱血",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "열화",
+    "translation": "доройтол, муудах",
+    "hanja": "劣化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "열흘",
+    "translation": "арав хоног",
+    "hanja": "열흘",
+    "pos": "명사",
+    "cefr": "A2"
+  }
+]

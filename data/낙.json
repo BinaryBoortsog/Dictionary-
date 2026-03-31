@@ -1,0 +1,625 @@
+[
+  {
+    "word": "낙",
+    "translation": "баяр баясгалан",
+    "hanja": "樂",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙과",
+    "translation": "унасан жимс",
+    "hanja": "落果",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙관",
+    "translation": "Өөдрөг, сайхнаар харах",
+    "hanja": "樂觀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙관론",
+    "translation": "оптимизм",
+    "hanja": "樂觀論",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙관론자",
+    "translation": "өөдрөг үзэлтэн",
+    "hanja": "樂觀論者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙관적",
+    "translation": "оптимист",
+    "hanja": "樂觀的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙관주의",
+    "translation": "Өөдрөг үзэл",
+    "hanja": "樂觀主義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙관하다",
+    "translation": "өөдрөгөөр харах, сайн сайхан бодно",
+    "hanja": "樂觀하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙귀",
+    "translation": "унасан чөтгөр",
+    "hanja": "落鬼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "낙낙하다",
+    "translation": "хангалттай",
+    "hanja": "넉넉하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙낙하다",
+    "translation": "хүртээмжтэй, хангалттай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙농",
+    "translation": "сүүний аж ахуй",
+    "hanja": "酪農",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙농업",
+    "translation": "Малын аж ахуй",
+    "hanja": "酪農業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙담",
+    "translation": "урам хугарах",
+    "hanja": "落膽",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙담하다",
+    "translation": "Урам хугарах",
+    "hanja": "落膽하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙도",
+    "translation": "алс бөглүү арал",
+    "hanja": "落島",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙동강",
+    "translation": "Нагдон хатан",
+    "hanja": "洛東江",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙랑",
+    "translation": "Накран",
+    "hanja": "樂浪",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "낙뢰",
+    "translation": "аянга буух",
+    "hanja": "落雷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙마",
+    "translation": "мориноос унах",
+    "hanja": "落馬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙마시키다",
+    "translation": "Морьноос унагах, албан тушаалаас буулгах",
+    "hanja": "落馬시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙마하다",
+    "translation": "Морьноос унах",
+    "hanja": "落馬하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙망하다",
+    "translation": "найдвар алдах",
+    "hanja": "落望하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙방",
+    "translation": "Унах",
+    "hanja": "落榜",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙방하다",
+    "translation": "шалгалганд унах",
+    "hanja": "落榜하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙법",
+    "translation": "унагаах арга",
+    "hanja": "落法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙사",
+    "translation": "унаж үхэх",
+    "hanja": "落死",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙산",
+    "translation": "Унасан уул",
+    "hanja": "落山",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙상",
+    "translation": "Уналт",
+    "hanja": "落傷",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙상하다",
+    "translation": "унаж бэртэх",
+    "hanja": "落傷하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙서",
+    "translation": "Граффити",
+    "hanja": "落書",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙서하다",
+    "translation": "зураг зурах, сараачих",
+    "hanja": "落書하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙석",
+    "translation": "чулуу нурах, чулуу унах",
+    "hanja": "落石",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙선",
+    "translation": "сонгуульд унах",
+    "hanja": "落選",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙선되다",
+    "translation": "Сонгуульд унах",
+    "hanja": "落選되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙선자",
+    "translation": "сонгуульд ялагдагсад",
+    "hanja": "落選者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙선하다",
+    "translation": "сонгуульд ялагдах",
+    "hanja": "落選하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙성",
+    "translation": "Бүрэн гүйцэтгэх",
+    "hanja": "落成",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙수",
+    "translation": "дусах ус, борооны дусал",
+    "hanja": "落水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙숫물",
+    "translation": "дээврээс дуслах ус",
+    "hanja": "落水물",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙스",
+    "translation": "Накс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "낙승",
+    "translation": "Амархан ялалт",
+    "hanja": "樂勝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙심",
+    "translation": "сэтгэлээр унах",
+    "hanja": "落心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙심되다",
+    "translation": "сэтгэлээр унах, урам хугарах",
+    "hanja": "落心되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙심하다",
+    "translation": "хийхээс шантрах",
+    "hanja": "落心하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙안",
+    "translation": "Сэтгэл санаа тайван байх",
+    "hanja": "樂安",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙양",
+    "translation": "налуу наран",
+    "hanja": "落陽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙엽",
+    "translation": "навч унах, хагдран унасан навч",
+    "hanja": "落葉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙오",
+    "translation": "хоцрох",
+    "hanja": "落伍",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙오되다",
+    "translation": "хоцрох, хоцрогдох",
+    "hanja": "落伍되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙오자",
+    "translation": "хоцрогч, хоцорсон хүн",
+    "hanja": "落伍者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙오하다",
+    "translation": "хоцрогдох, гээгдэх",
+    "hanja": "落伍하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙원",
+    "translation": "Диваажин",
+    "hanja": "樂園",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙인",
+    "translation": "тамга, сэв",
+    "hanja": "烙印",
+    "pos": "м",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙인찍다",
+    "translation": "тамга дарах, шошго зүүх",
+    "hanja": "烙印찍다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙인찍히다",
+    "translation": "тэмдэг тавигдах, нэр хүнд унах",
+    "hanja": "烙印찍히다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙장",
+    "translation": "алдагдсан хуудас",
+    "hanja": "落張",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙장불입",
+    "translation": "буцаах аргагүй, нэгэнт шийдэгдсэн",
+    "hanja": "落張不入",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "낙점",
+    "translation": "сонгох, томилох",
+    "hanja": "落點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙점되다",
+    "translation": "сонгогдох, томилогдох",
+    "hanja": "落點되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙점하다",
+    "translation": "Баталгаажуулах, томилох",
+    "hanja": "落點하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙제",
+    "translation": "шалгалтанд унах",
+    "hanja": "落第",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙제생",
+    "translation": "сурагчийн бүтэлгүйтэл",
+    "hanja": "落第生",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙제점",
+    "translation": "унасан оноо",
+    "hanja": "落第點",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙제하다",
+    "translation": "шалгалтан дээр унах, тэнцэхгүй байх",
+    "hanja": "落第하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙조",
+    "translation": "нар жаргах",
+    "hanja": "落照",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "낙주",
+    "translation": "унгалдах",
+    "hanja": "落株",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙지",
+    "translation": "жижиг наймалж",
+    "hanja": "낙지",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙진",
+    "translation": "тоосонцор, тунамал",
+    "hanja": "落塵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙차",
+    "translation": "Уналт, урсгал",
+    "hanja": "落差",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙찰",
+    "translation": "дуудлагаар худалдах",
+    "hanja": "落札",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙찰되다",
+    "translation": "ялах, хожих (дуудлага худалдаанд)",
+    "hanja": "落札되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙찰자",
+    "translation": "тендер хүлээн авагч",
+    "hanja": "落札者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙찰하다",
+    "translation": "дуудлага худалдаагаар авах",
+    "hanja": "落札하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙천",
+    "translation": "итгэлтэй байдал",
+    "hanja": "樂天",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙천적",
+    "translation": "оптимист",
+    "hanja": "樂天的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙천주의",
+    "translation": "оптимизм",
+    "hanja": "樂天主義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙타",
+    "translation": "тэмээ",
+    "hanja": "駱駝",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙태",
+    "translation": "үр хөндөлт",
+    "hanja": "落胎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙태하다",
+    "translation": "үргүйдүүлэх, үр хөндүүлэх",
+    "hanja": "落胎하다",
+    "pos": "동사 (Verb)",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙폭",
+    "translation": "Уналтын хэмжээ",
+    "hanja": "낙폭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙하",
+    "translation": "унагаах, уналт",
+    "hanja": "落下",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙하산",
+    "translation": "Шүхэр",
+    "hanja": "落下傘",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙하하다",
+    "translation": "Унах",
+    "hanja": "落下",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙향하다",
+    "translation": "нутаг буцах",
+    "hanja": "落鄕하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙화",
+    "translation": "Унасан цэцэг",
+    "hanja": "落花",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낙후",
+    "translation": "Хоцрогдол",
+    "hanja": "落後",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "хоцрогдсон байх",
+    "hanja": "落後되다",
+    "pos": "동사",
+    "cefr": "C1",
+    "word": "낙후되다"
+  },
+  {
+    "word": "낙후하다",
+    "translation": "хоцрогдсон",
+    "hanja": "落後─",
+    "pos": "형용사",
+    "cefr": "B2"
+  }
+]

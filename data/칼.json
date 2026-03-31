@@ -1,0 +1,352 @@
+[
+  {
+    "word": "칼",
+    "translation": "хутга",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "칼같다",
+    "translation": "хутга шиг",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칼국수",
+    "translation": "Халцан гоймон",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "칼국숫집",
+    "translation": "мяс шөлний ресторан",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "칼끝",
+    "translation": "Хутганы үзүүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼날",
+    "translation": "хутганы ир",
+    "hanja": "칼날",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼데라",
+    "translation": "кальдера",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칼데아",
+    "translation": "Халдей",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칼라",
+    "translation": "Энгэр",
+    "hanja": "collar",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "칼라스",
+    "translation": "Каллас",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "칼라일",
+    "translation": "Карлайл",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "칼럼",
+    "translation": "булан",
+    "hanja": "column",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼럼니스트",
+    "translation": "тоймч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칼레",
+    "translation": "Кале (хот)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "칼로",
+    "translation": "Хутгаар",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "칼로리",
+    "translation": "Илчлэг",
+    "hanja": "칼로리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "칼루가",
+    "translation": "Калуга",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "칼륨",
+    "translation": "калий",
+    "hanja": "칼륨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칼리",
+    "translation": "Кали (нээр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "칼리굴라",
+    "translation": "Калигула",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "칼리닌그라드",
+    "translation": "Калининград",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": null
+  },
+  {
+    "word": "칼리스토",
+    "translation": "Каллисто",
+    "hanja": "칼리스토",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼리오페",
+    "translation": "Каллиопа (урлагийн бурхан)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "칼리파",
+    "translation": "халиф (удирдагч)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칼리프",
+    "translation": "халиф",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칼립소",
+    "translation": "Калипсо",
+    "hanja": "칼립소",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼마르",
+    "translation": "Кальмар (хот)",
+    "hanja": "---",
+    "pos": "지명",
+    "cefr": "C1"
+  },
+  {
+    "word": "칼맛",
+    "translation": "хутганы үнэ",
+    "hanja": "칼맛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칼모틴",
+    "translation": "Калмотин (химийн нэгдэл)",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "칼바람",
+    "translation": "хүйтэн салхи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼뱅",
+    "translation": "Кальвин",
+    "hanja": "칼뱅",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "칼부림",
+    "translation": "хутгалдаан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칼부림하다",
+    "translation": "хутгалдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칼비노",
+    "translation": "Калвино (Нэр)",
+    "hanja": "칼비노",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "칼슘",
+    "translation": "Кальци",
+    "hanja": "칼슘",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼스",
+    "translation": "Карлс",
+    "hanja": "Carls",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "칼싸움",
+    "translation": "хутганы тулаан",
+    "hanja": "칼싸움",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼싸움하다",
+    "translation": "илдээр тулалдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼자루",
+    "translation": "хутганы ир",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칼잡이",
+    "translation": "хутгачин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼조네",
+    "translation": "калцоне",
+    "hanja": "칼조네",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칼질",
+    "translation": "Хутгаар зүсэх",
+    "hanja": "칼질",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "칼질하다",
+    "translation": "Хутгаар зүсэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼집",
+    "translation": "хутганы гэр",
+    "hanja": "칼집",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼춤",
+    "translation": "илдээр бүжиглэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼치",
+    "translation": "дарц (загас)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칼칼하다",
+    "translation": "халуун ногоотой",
+    "hanja": "칼칼하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼텍",
+    "translation": "Кальтек",
+    "hanja": null,
+    "pos": "Нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "칼퇴근하다",
+    "translation": "яг цагтаа ажил тарах",
+    "hanja": "칼退勤하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼퇴하다",
+    "translation": "Ажлаас цагтаа гарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

@@ -1,0 +1,10320 @@
+[
+  {
+    "word": "오늘",
+    "translation": "өнөөдөр",
+    "hanja": "今日",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "입다",
+    "translation": "өмсөх",
+    "hanja": "입다",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "방",
+    "translation": "өрөө",
+    "hanja": "房",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "아침",
+    "translation": "өглөө",
+    "hanja": "아침",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "직접",
+    "translation": "өөрийн биеэр",
+    "hanja": "直接",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "컬러",
+    "translation": "өнгө",
+    "hanja": "컬러",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어제",
+    "translation": "өчигдөр",
+    "hanja": "어제",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "높다",
+    "translation": "өндөр",
+    "hanja": "높다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자신",
+    "translation": "өөрийгөө",
+    "hanja": "自身",
+    "pos": "대명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자체",
+    "translation": "Өөрөө",
+    "hanja": "自體",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "날",
+    "translation": "Өдөр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "아프다",
+    "translation": "Өвдөх, зовох",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "본인",
+    "translation": "өөрийн бие",
+    "hanja": "本人",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고",
+    "translation": "өндөр",
+    "hanja": "高",
+    "pos": "prefix",
+    "cefr": "B1"
+  },
+  {
+    "word": "예전",
+    "translation": "өнгөрсөн",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "드리다",
+    "translation": "өгөх (хүндэтгэлийн хэлбэр)",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "스스로",
+    "translation": "өөртөө",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "환자",
+    "translation": "өвчтөн",
+    "hanja": "患者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다르다",
+    "translation": "өөр, ялгаатай",
+    "hanja": "다르다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "들다",
+    "translation": "өгөх, барих, орох",
+    "hanja": "들다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "낮",
+    "translation": "өдөр",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "변화",
+    "translation": "өөрчлөлт",
+    "hanja": "變化",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "넓다",
+    "translation": "өргөн",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미리",
+    "translation": "өмнө нь",
+    "hanja": "미리",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바뀌다",
+    "translation": "өөрчлөгдөх",
+    "hanja": "바뀌다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "할아버지",
+    "translation": "өвөө",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "과거",
+    "translation": "өнгөрсөн",
+    "hanja": "過去",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "색깔",
+    "translation": "өнгө",
+    "hanja": "色깔",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "지나다",
+    "translation": "өнгөрөх",
+    "hanja": "지나다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "무릎",
+    "translation": "өвдөг",
+    "hanja": "무릎",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "에이",
+    "translation": "Өө",
+    "hanja": "에이",
+    "pos": "interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "작년",
+    "translation": "өнгөрсөн жил",
+    "hanja": "昨年",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "전",
+    "translation": "өмнө",
+    "hanja": "前",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "높이",
+    "translation": "өндөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "겨울",
+    "translation": "Өвөл",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "배고프다",
+    "translation": "Өлссөн",
+    "hanja": "null",
+    "pos": "adj",
+    "cefr": "A1"
+  },
+  {
+    "word": "달리",
+    "translation": "Өөрөөр",
+    "hanja": "null",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "병",
+    "translation": "өвчин",
+    "hanja": "病",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "저번",
+    "translation": "өмнөх удаа",
+    "hanja": "저番",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "변하다",
+    "translation": "өөрчлөгдөх",
+    "hanja": "變하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "문장",
+    "translation": "өгүүлбэр",
+    "hanja": "文章",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지난번",
+    "translation": "өнгөрсөн удаа",
+    "hanja": " 지난番",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어젯밤",
+    "translation": "өнгөрсөн шөнө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "똥",
+    "translation": "өтгөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "색",
+    "translation": "өнөөс",
+    "hanja": "色",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "데이터",
+    "translation": "өгөгдөл",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자신감",
+    "translation": "өөртөө итгэх итгэл",
+    "hanja": "自信感",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "걸치다",
+    "translation": "өлгөх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "청소년",
+    "translation": "өсвөр насны хүүхэд",
+    "hanja": "青少年",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성장",
+    "translation": "өсөлт, хөгжил",
+    "hanja": "成長",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "높이다",
+    "translation": "өндөрлөх, нэмэгдүүлэх",
+    "hanja": "높이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신청하다",
+    "translation": "Өргөдөл гаргах",
+    "hanja": "申請하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어휴",
+    "translation": "Өөш",
+    "hanja": "어휴",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성장하다",
+    "translation": "Өсөн нэмэгдэх",
+    "hanja": "成長하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신청",
+    "translation": "өргөдөл",
+    "hanja": "申請",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불쌍하다",
+    "translation": "өрөвдөх",
+    "hanja": "불쌍하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "색감",
+    "translation": "Өнгийн мэдрэмж",
+    "hanja": "色感",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "으",
+    "translation": "Өө",
+    "hanja": null,
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "지난주",
+    "translation": "өнгөрсөн долоо хоног",
+    "hanja": "지난週",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "경쟁",
+    "translation": "Өрсөлдөөн",
+    "hanja": "競爭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "엉덩이",
+    "translation": "Өгзөг",
+    "hanja": "엉덩이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "독특하다",
+    "translation": "Өвөрмөц, онцгой",
+    "hanja": "獨特하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "색상",
+    "translation": "өнгө",
+    "hanja": "色相",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "틴트",
+    "translation": "өнгө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "입히다",
+    "translation": "өмсгөх",
+    "hanja": "입히다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "전남",
+    "translation": "Өмнөд Чолла",
+    "hanja": "全南",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "오르다",
+    "translation": "Өгсөх",
+    "hanja": "오르다",
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "폭",
+    "translation": "өргөн",
+    "hanja": "幅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내다",
+    "translation": "өгөх",
+    "hanja": "내다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "도시락",
+    "translation": "өдрийн хоолны хайрцаг",
+    "hanja": "도시락",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신다",
+    "translation": "өмсөх (гутал)",
+    "hanja": "신다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "남쪽",
+    "translation": "өмнөд",
+    "hanja": "南쪽",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "제기하다",
+    "translation": "өргөн барих",
+    "hanja": "提起하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "제기되다",
+    "translation": "өргөн баригдсан",
+    "hanja": "提起되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "제출하다",
+    "translation": "өгөх, гардуулах",
+    "hanja": "提出",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "달걀",
+    "translation": "өндөг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "바치다",
+    "translation": "өгөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자존심",
+    "translation": "өөрөө өөрийгөө хүндлэх сэтгэл",
+    "hanja": "自尊心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재산",
+    "translation": "өрөнгө, хөрөнгө",
+    "hanja": "財産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기르다",
+    "translation": "өсгөх, тэжээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "착용하다",
+    "translation": "өмсөх",
+    "hanja": "着用─",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "데일리",
+    "translation": "өдөр тутмын",
+    "hanja": "daily",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "확대하다",
+    "translation": "өргөжүүлэх, томруулах",
+    "hanja": "擴大하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "확대",
+    "translation": "өргөжүүлэх",
+    "hanja": "擴大",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "알",
+    "translation": "өндөг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매일매일",
+    "translation": "өдөр бүр",
+    "hanja": "每日每日",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "통증",
+    "translation": "өвдөлт",
+    "hanja": "痛症",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어머나",
+    "translation": "өө бурхан минь",
+    "hanja": null,
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "앓다",
+    "translation": "өвдөх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "상승",
+    "translation": "өсөлт, дээшлэх",
+    "hanja": "上昇",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "빚",
+    "translation": "өр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사소하다",
+    "translation": "Өчүүхэн",
+    "hanja": "些少하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발색",
+    "translation": "өнгийг гаргах",
+    "hanja": "發色",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "씌우다",
+    "translation": "өмсгөх",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "계란",
+    "translation": "өндөг",
+    "hanja": "鷄卵",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "오우",
+    "translation": "өө",
+    "hanja": "",
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "각도",
+    "translation": "өнцөг",
+    "hanja": "角度",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "오늘날",
+    "translation": "Өнөөдөр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "앗",
+    "translation": "Өө!",
+    "hanja": null,
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "질병",
+    "translation": "өвчин",
+    "hanja": "疾病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "끌어올리다",
+    "translation": "Өндийлгөх, дээш татах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "확대되다",
+    "translation": "өргөжих",
+    "hanja": "擴大되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "엏다",
+    "translation": "өгөхгүй байх",
+    "hanja": "엏다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하루하루",
+    "translation": "өдөр өдрөөр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "변경",
+    "translation": "өөрчлөлт",
+    "hanja": "變更",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "한심하다",
+    "translation": "ө жалга",
+    "hanja": "寒心하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "굶다",
+    "translation": "өлсөх",
+    "hanja": "굶다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "널리",
+    "translation": "өргөнөөр",
+    "hanja": "널리",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "넓히다",
+    "translation": "өргөтгөх, тэлэх",
+    "hanja": "넓히다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고프다",
+    "translation": "өлсөх",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어이구",
+    "translation": "Өө",
+    "hanja": "",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "매일",
+    "translation": "өдөр бүр",
+    "hanja": "每日",
+    "pos": "Adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "착용",
+    "translation": "өмсөх",
+    "hanja": "着用",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "색다르다",
+    "translation": "өвөрмөц",
+    "hanja": "色다르다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "미처",
+    "translation": "өмнө нь, түрүүлж",
+    "hanja": "미처",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "팬츠",
+    "translation": "өгзөгний өмд",
+    "hanja": "pants",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가시",
+    "translation": "өргөс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "깃털",
+    "translation": "өд",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "아따",
+    "translation": "Өө, за",
+    "hanja": "null",
+    "pos": "Interjection",
+    "cefr": "A2"
+  },
+  {
+    "word": "제공되다",
+    "translation": "өгөгдөх",
+    "hanja": "提供되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "자기소개",
+    "translation": "өөрийгөө танилцуулах",
+    "hanja": "自己紹介",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "룸",
+    "translation": "өрөө",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고위",
+    "translation": "өндөр тушаалтай",
+    "hanja": "高位",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정체성",
+    "translation": "өөрийгөө тодорхойлох",
+    "hanja": "正體性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "웜",
+    "translation": "өт",
+    "hanja": "웜",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "진작",
+    "translation": "өмнө нь, түрүүнд",
+    "hanja": "진작",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "전날",
+    "translation": "өмнөх өдөр",
+    "hanja": "前날",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "질환",
+    "translation": "өвчин",
+    "hanja": "疾患",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "셀프",
+    "translation": "өөрийгөө",
+    "hanja": "셀프",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "경쟁력",
+    "translation": "өрсөлдөх чадвар",
+    "hanja": "競爭力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "일당",
+    "translation": "өдрийн хөлс",
+    "hanja": "日當",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전후",
+    "translation": "өмнө ба хойно",
+    "hanja": "前後",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "일상생활",
+    "translation": "өдөр тутмын амьдрал",
+    "hanja": "日常生活",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전작",
+    "translation": "өмнөх бүтээл",
+    "hanja": "前作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자제하다",
+    "translation": "өөрийгөө барих",
+    "hanja": "自制하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변경하다",
+    "translation": "өөрчлөх",
+    "hanja": "變更하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "겨울철",
+    "translation": "өвлийн улирал",
+    "hanja": "겨울철",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다이어리",
+    "translation": "Өдрийн тэмдэглэл",
+    "hanja": "diary",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남해안",
+    "translation": "өмнөд эрэг",
+    "hanja": "南海岸",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "도발",
+    "translation": "өдөөн хатгах",
+    "hanja": "挑發",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "변화하다",
+    "translation": "өөрчлөгдөх",
+    "hanja": "變化하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "어제저녁",
+    "translation": "өчигдөр орой",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "남극",
+    "translation": "өмнөд туйл",
+    "hanja": "南極",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원수",
+    "translation": "Өшөөтөн",
+    "hanja": "怨讐",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "어조",
+    "translation": "өнгө аяс",
+    "hanja": "語調",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경쟁하다",
+    "translation": "Өрсөлдөх",
+    "hanja": "競爭하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "오르막",
+    "translation": "Өгсүүр, дээшлэх",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비참하다",
+    "translation": "Өрөвдөлтэй, золгүй",
+    "hanja": "悲慘하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "남다르다",
+    "translation": "өвөрмөц, онцгой",
+    "hanja": "남다르다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "확장하다",
+    "translation": "өргөтгөх",
+    "hanja": "擴張하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤집어쓰다",
+    "translation": "Өмсөх, хуулах (бурууг)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불러일으키다",
+    "translation": "Өдөөх, уриалах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "일기장",
+    "translation": "Өдрийн тэмдэглэл",
+    "hanja": "日記帳",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "태극기",
+    "translation": "Өмнөд Солонгосын туг",
+    "hanja": "太極旗",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "사춘기",
+    "translation": "Өсвөр нас",
+    "hanja": "思春期",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반성",
+    "translation": "өөрийгөө шүүмжлэх",
+    "hanja": "反省",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잉",
+    "translation": "Өө",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "라이벌",
+    "translation": "Өрсөлдөгч",
+    "hanja": "라이벌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지난달",
+    "translation": "Өнгөрсөн сар",
+    "hanja": "지난달",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "온종일",
+    "translation": "Өдөржингөө",
+    "hanja": "온종일",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "앰프",
+    "translation": "Өсгөгч",
+    "hanja": "앰프",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소유",
+    "translation": "Өмчлөх / Эзэмших",
+    "hanja": "소유 (所有)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물려받다",
+    "translation": "Өвлөн авах",
+    "hanja": "물려받다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유산",
+    "translation": "Өв",
+    "hanja": "遺産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "겨루다",
+    "translation": "Өрсөлдөх, тэмцэх",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "일상적",
+    "translation": "Өдөр тутмын, энгийн",
+    "hanja": "日常的",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "대대적",
+    "translation": "өргөн цар хүрээтэй, их хэмжээний",
+    "hanja": "大大적",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변호인",
+    "translation": "Өмгөөлөгч",
+    "hanja": "辯護人",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경쟁자",
+    "translation": "Өрсөлдөгч",
+    "hanja": "競爭者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "어머머",
+    "translation": "Өө бурхан минь! (гайхширал илэрхийлэх дуу)",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "복수하다",
+    "translation": "Өшөөгөө авах",
+    "hanja": "復讐하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "엇",
+    "translation": "Өө",
+    "hanja": "엇",
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "고도",
+    "translation": "Өндөр",
+    "hanja": "高度",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전생",
+    "translation": "Өмнөх амьдрал",
+    "hanja": "前生",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "킥",
+    "translation": "Өшиглөх",
+    "hanja": "킥",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "개편",
+    "translation": "Өөрчлөлт, шинэчлэл",
+    "hanja": "改編",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본능적",
+    "translation": "өнчин",
+    "hanja": "本能的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풀",
+    "translation": "өвс",
+    "hanja": "풀",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "채도",
+    "translation": "өнгийн ханалт",
+    "hanja": "彩度",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "빛깔",
+    "translation": "Өнгө, өнгө аяс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채권",
+    "translation": "Өрийн бичиг, бонд",
+    "hanja": "債券",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하여금",
+    "translation": "өөртөө, өөрт нь",
+    "hanja": "null",
+    "pos": "조사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고가",
+    "translation": "өндөр үнэ",
+    "hanja": "高價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "색조",
+    "translation": "өнгөний туяа",
+    "hanja": "色調",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "남미",
+    "translation": "Өмнөд Америк",
+    "hanja": "南美",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "일교차",
+    "translation": "өдрийн температурын зөрүү",
+    "hanja": "日較差",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "베풀다",
+    "translation": "өгөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지원자",
+    "translation": "өргөдөл гаргагч",
+    "hanja": "志願者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성장률",
+    "translation": "өсөлтийн хурд",
+    "hanja": "成長率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예년",
+    "translation": "өмнөх жилүүд",
+    "hanja": "例年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "안쓰럽다",
+    "translation": "өвдөх, харамсах",
+    "hanja": "안쓰럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고속",
+    "translation": "өндөр хурд",
+    "hanja": "高速",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변화시키다",
+    "translation": "өөрчлөх",
+    "hanja": "變化시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대낮",
+    "translation": "өдөр дунд",
+    "hanja": "대낮",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자체적",
+    "translation": "Өөрийн",
+    "hanja": "自體的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병들다",
+    "translation": "өвдөх",
+    "hanja": "病들다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "밤낮",
+    "translation": "өдөр шөнөгүй",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "색소",
+    "translation": "Өнгийн бодис",
+    "hanja": "色素",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지나가다",
+    "translation": "Өнгөрөх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "변신",
+    "translation": "Өөрчлөгдөх",
+    "hanja": "變身",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변론",
+    "translation": "Өмгөөлөл",
+    "hanja": "辯論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남한",
+    "translation": "Өмнөд Солонгос",
+    "hanja": "南韓",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "탈색",
+    "translation": "өнгө хувиргах",
+    "hanja": "脫色",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어저께",
+    "translation": "өчигдөр",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "와이드",
+    "translation": "Өргөн",
+    "hanja": "None",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "노른자",
+    "translation": "Өндөгний шар",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "착색",
+    "translation": "өнгө оруулах",
+    "hanja": "着色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우뚝",
+    "translation": "өөдөө",
+    "hanja": "우뚝",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선조",
+    "translation": "өвөг дээдэс",
+    "hanja": "선조",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상승세",
+    "translation": "өсөх хандлага",
+    "hanja": "上昇勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쳇",
+    "translation": "өгшөө",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "오메",
+    "translation": "өнөөх",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변동",
+    "translation": "өөрчлөлт",
+    "hanja": "變動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전년",
+    "translation": "өмнөх жил",
+    "hanja": "前年",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한낮",
+    "translation": "өдрийн дунд, өдөр",
+    "hanja": "한낮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자수하다",
+    "translation": "Өөрийгөө өгөх (цагдаад)",
+    "hanja": "自首하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밉다",
+    "translation": "Өөдгүй",
+    "hanja": "밉다",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "소유자",
+    "translation": "өмчлөгч",
+    "hanja": "所有者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고령",
+    "translation": "өндөр нас",
+    "hanja": "高齡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "굶주리다",
+    "translation": "өлсөх, хоосон байх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "종전",
+    "translation": "өмнө нь",
+    "hanja": "從前",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "스토리텔링",
+    "translation": "өгүүлэх урлаг",
+    "hanja": "스토리텔링",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "굴리다",
+    "translation": "өнхрүүлэх",
+    "hanja": "굴리다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "확장되다",
+    "translation": "өргөжүүлэх",
+    "hanja": "擴張되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "광범위하다",
+    "translation": "өргөн хүрээтэй",
+    "hanja": "廣範圍하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "전례",
+    "translation": "өмнөх тохиолдол",
+    "hanja": "前例",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "변",
+    "translation": "өөрчлөлт",
+    "hanja": "變",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가엾다",
+    "translation": "өрөвдөлтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "아이참",
+    "translation": "өө, яанаа",
+    "hanja": null,
+    "pos": "interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "고층",
+    "translation": "өндөр давхар",
+    "hanja": "高層",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전환되다",
+    "translation": "өөрчлөгдөх, шилжих",
+    "hanja": "轉換되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전까지",
+    "translation": "өмнө нь, хүртэл",
+    "hanja": "前까지",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내걸다",
+    "translation": "өлгөх",
+    "hanja": "내걸다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "변경되다",
+    "translation": "өөрчлөгдөх",
+    "hanja": "變更되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "너그럽다",
+    "translation": "Өгөөмөр, өршөөнгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭넓다",
+    "translation": "өргөн хүрээтэй",
+    "hanja": "幅넓다",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "아차",
+    "translation": "өөрсдөө!",
+    "hanja": "",
+    "pos": "interjection",
+    "cefr": "A2"
+  },
+  {
+    "word": "짠하다",
+    "translation": "өндөр, үзэсгэлэнтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전개되다",
+    "translation": "өргөжих, хөгжих",
+    "hanja": "展開되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤꿈치",
+    "translation": "Өсгий",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "아침밥",
+    "translation": "Өглөөний хоол",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "리프팅",
+    "translation": "Өргөлт",
+    "hanja": "lifting",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간밤",
+    "translation": "өнгөрсөн шөнө",
+    "hanja": "間밤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경쟁률",
+    "translation": "өрсөлдөөний түвшин",
+    "hanja": "競爭率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "섭",
+    "translation": "өвс, сүрэл",
+    "hanja": "섭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "앵글",
+    "translation": "өнцөг",
+    "hanja": "angle",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "색채",
+    "translation": "өнгө",
+    "hanja": "色彩",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "라이즈",
+    "translation": "Өсөлт",
+    "hanja": "rise",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고기압",
+    "translation": "Өндөр даралт (агаарын)",
+    "hanja": "高氣壓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "진통제",
+    "translation": "Өвчин намдаах эм",
+    "hanja": "鎭痛劑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "아픔",
+    "translation": "Өвдөлт, зовлон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고양",
+    "translation": "Өргөмжлөх, хөгжүүлэх",
+    "hanja": "高揚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "오르막길",
+    "translation": "өндөрлөг зам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부추기다",
+    "translation": "өдөөх",
+    "hanja": "부추기다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "넓이",
+    "translation": "өргөн",
+    "hanja": "넓이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "으이구",
+    "translation": "Өө",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "한겨울",
+    "translation": "Өвлийн дунд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "해장",
+    "translation": "Өглөөний цай",
+    "hanja": "解酲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "옹호하다",
+    "translation": "Өмгөөлөх",
+    "hanja": "擁護하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방구석",
+    "translation": "Өрөөний булан",
+    "hanja": "房구석",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "변함없이",
+    "translation": "өөрчлөгдөөгүй",
+    "hanja": "變함없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쳐들다",
+    "translation": "Өндийлгөх",
+    "hanja": "쳐들다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풀밭",
+    "translation": "Өвсөн талбай",
+    "hanja": "풀밭",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "리프트",
+    "translation": "Өргөгч",
+    "hanja": "lift",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "룸메이트",
+    "translation": "өрөөний анд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "색연필",
+    "translation": "өнгийн харандаа",
+    "hanja": "色鉛筆",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "소유권",
+    "translation": "Өмчлөх эрх",
+    "hanja": "所有權",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지난날",
+    "translation": "өнгөрсөн өдрүүд",
+    "hanja": "지난날",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동정",
+    "translation": "өрөвдөх сэтгэл",
+    "hanja": "同情",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙취",
+    "translation": "өлөнгөө тайлах",
+    "hanja": "宿醉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이남",
+    "translation": "өмнөд",
+    "hanja": "以南",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "브런치",
+    "translation": "өглөөний цай / өдрийн хоол хосолсон",
+    "hanja": "brunch",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "상속",
+    "translation": "өвлөх",
+    "hanja": "相續",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "진통",
+    "translation": "Өвдөлт",
+    "hanja": "陣痛",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "딱하다",
+    "translation": "Өрөвдөлтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "롤링",
+    "translation": "Өнхрөх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "굴러다니다",
+    "translation": "өндөрлөгөөс буух",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미미하다",
+    "translation": "өчүүхэн, багахан",
+    "hanja": "微微하다(미미하다)",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "양육",
+    "translation": "өсгөн хүмүүжүүлэх",
+    "hanja": "養育",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "널찍하다",
+    "translation": "өргөн, зайтай",
+    "hanja": "None",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "데이터베이스",
+    "translation": "Өгөгдлийн сан",
+    "hanja": "database",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "일과",
+    "translation": "Өдрийн ажил, хийх зүйлс",
+    "hanja": "日課",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "성장기",
+    "translation": "Өсөлтийн үе",
+    "hanja": "成長期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광각",
+    "translation": "өргөн өнцөг",
+    "hanja": "廣角",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채무",
+    "translation": "өр төлбөр",
+    "hanja": "債務",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자책하다",
+    "translation": "Өөрийгөө буруутгах",
+    "hanja": "自責하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승계",
+    "translation": "Өв залгамжлах",
+    "hanja": "承繼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산타클로스",
+    "translation": "Өвлийн өвгөн",
+    "hanja": "Santa Claus",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "변함없다",
+    "translation": "өөрчлөгдөхгүй",
+    "hanja": "變함없다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "자신만만하다",
+    "translation": "өөртөө хэт итгэлтэй байх",
+    "hanja": "自信滿滿하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "할멈",
+    "translation": "өгөөмөр",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "착용감",
+    "translation": "өмсөх мэдрэмж",
+    "hanja": "着用感",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "오예",
+    "translation": "өөе",
+    "hanja": null,
+    "pos": "interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "변비",
+    "translation": "өтгөн хатах",
+    "hanja": "便秘",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자처하다",
+    "translation": "өөрийгөө тодорхойлох, өөртөө хүлээх",
+    "hanja": "自處하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연민",
+    "translation": "өрөвдөх сэтгэл",
+    "hanja": "憐憫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "너비",
+    "translation": "өргөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "힐",
+    "translation": "Өсгий",
+    "hanja": "heel",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "무색하다",
+    "translation": "Өнгөгүй, утгагүй",
+    "hanja": "無色하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자작",
+    "translation": "Өөрөө хийсэн, хувийн эзэмшил",
+    "hanja": "自作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변화되다",
+    "translation": "Өөрчлөгдөх, хувирах",
+    "hanja": "變化되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자성",
+    "translation": "өөрөөсөө ирэх, өөрөөсөө болох",
+    "hanja": "自省",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고금리",
+    "translation": "өндөр хүү",
+    "hanja": "高金利",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남측",
+    "translation": "өмнөд тал",
+    "hanja": "南側",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판례",
+    "translation": "өмнөх шийдвэр",
+    "hanja": "判例",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내러티브",
+    "translation": "өгүүлэмж",
+    "hanja": "narrative",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "으이그",
+    "translation": "Өө (дургүйцлийг илэрхийлэх)",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광활하다",
+    "translation": "Өргөн уудам",
+    "hanja": "廣闊하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발병",
+    "translation": "өвчин гарах",
+    "hanja": "發病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바지",
+    "translation": "өмд",
+    "hanja": "바지",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고위급",
+    "translation": "Өндөр албан тушаалтай",
+    "hanja": "高位級",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성장시키다",
+    "translation": "Өсгөх",
+    "hanja": "成長시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관대하다",
+    "translation": "өргөн сэтгэлтэй",
+    "hanja": "寬大하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "에그",
+    "translation": "өндөг",
+    "hanja": "egg",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "큰길",
+    "translation": "Өргөн зам, их зам",
+    "hanja": "큰길",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "방바닥",
+    "translation": "Өрөөний шал",
+    "hanja": "房바닥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "변호",
+    "translation": "Өмгөөлөх, хамгаалах",
+    "hanja": "辯護",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변호하다",
+    "translation": "өмгөөлөх",
+    "hanja": "辯護하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "고액",
+    "translation": "өндөр үнэ",
+    "hanja": "高額",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "할배",
+    "translation": "өвөө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비계",
+    "translation": "өөх",
+    "hanja": "肥肉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동정심",
+    "translation": "Өрөвдөх сэтгэл",
+    "hanja": "同情心",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "친히",
+    "translation": "Өөрийн биеэр",
+    "hanja": "親히",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "겨울잠",
+    "translation": "Өвлийн нойр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "어으",
+    "translation": "Өө (огцом цочирдсон үед)",
+    "hanja": null,
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "대변",
+    "translation": "өтгөн, баас",
+    "hanja": "大便",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "으어",
+    "translation": "Өө (гүйцэгдэх, өвдөх үед гарах авиа)",
+    "hanja": "으어",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "생필품",
+    "translation": "өдөр тутмын хэрэгцээт бараа",
+    "hanja": "生活必需品",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자제",
+    "translation": "Өөрийгөө хянах, тэвчих",
+    "hanja": "自制",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드넓다",
+    "translation": "Өргөн уудам, дэлгэр",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과거사",
+    "translation": "өнгөрсөн түүх",
+    "hanja": "過去事",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고성능",
+    "translation": "өндөр хүчин чадалтай",
+    "hanja": "高性能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남구",
+    "translation": "Өмнөд дүүрэг",
+    "hanja": "南區",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고열",
+    "translation": "Өндөр халуун",
+    "hanja": "高熱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흰자",
+    "translation": "өндөгний цагаан",
+    "hanja": "흰자",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자신하다",
+    "translation": "өөртөө итгэлтэй байх",
+    "hanja": "自信하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고물가",
+    "translation": "өндөр үнэ",
+    "hanja": "高物價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "노프다",
+    "translation": "өнөөдөр",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "색종이",
+    "translation": "өнгөт цаас",
+    "hanja": "色종이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자아",
+    "translation": "өөрийгөө",
+    "hanja": "自我",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "달리하다",
+    "translation": "өөрөөр хийх",
+    "hanja": "달리하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광역",
+    "translation": "өргөн хүрээ",
+    "hanja": "廣域",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발색하다",
+    "translation": "Өнгөө гаргах, өнгөтэй болох",
+    "hanja": "發色하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "디폴트",
+    "translation": "Өндөрлөх, үндсэн",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "드릴",
+    "translation": "Өрөм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "도색",
+    "translation": "Өнгөлөх, будах",
+    "hanja": "塗色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증가세",
+    "translation": "Өсөлтийн хандлага",
+    "hanja": "增加勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "아침저녁",
+    "translation": "өглөө орой",
+    "hanja": "아침저녁",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "크레파스",
+    "translation": "өнгөт харандаа",
+    "hanja": "크레파스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신청서",
+    "translation": "өргөдлийн маягт",
+    "hanja": "申請書",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신청자",
+    "translation": "өргөдөл гаргагч",
+    "hanja": "申請者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "나날",
+    "translation": "өдөр хоног, өдөр бүр",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "이색",
+    "translation": "өвөрмөц, онцгой",
+    "hanja": "異色",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이힐",
+    "translation": "өндөр өсгийт",
+    "hanja": "High Heels",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "멀쩡히",
+    "translation": "өөрчлөгдөөгүй, бүрэн бүтэн",
+    "hanja": "멀쩡히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자초하다",
+    "translation": "өөрөө өдөөх, өөрөө үүсгэх",
+    "hanja": "自招하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풀숲",
+    "translation": "өвсөн бут",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "오름세",
+    "translation": "өсөх хандлага",
+    "hanja": "오름勢",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자각",
+    "translation": "өөрийгөө танин мэдэхүй",
+    "hanja": "自覺",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "출출하다",
+    "translation": "өлсөх",
+    "hanja": "出出하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "하의",
+    "translation": "өмд",
+    "hanja": "下衣",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "때깔",
+    "translation": "өнгө төрх, өнгө зүс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "일간지",
+    "translation": "өдөр тутмын сонин",
+    "hanja": "日刊紙",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병문안",
+    "translation": "өрөвдөх",
+    "hanja": "病問安",
+    "pos": "мüns",
+    "cefr": "B1"
+  },
+  {
+    "word": "품속",
+    "translation": "Өвөр, Цээжний дотор",
+    "hanja": "품속",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "편찮다",
+    "translation": "Өвдөх, тавгүй байх",
+    "hanja": "편찮다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "띠다",
+    "translation": "Өнгөө өөрчлөх, үүрч явах",
+    "hanja": "띠다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고원",
+    "translation": "өндөрлөг, талбар газар",
+    "hanja": "高原",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "투병",
+    "translation": "Өвчний эсрэг тэмцэх",
+    "hanja": "鬪病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난자",
+    "translation": "Өндгөн эс",
+    "hanja": "卵子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자전",
+    "translation": "өөрийгөө эргүүлэх",
+    "hanja": "自轉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천차만별",
+    "translation": "өөр өөр",
+    "hanja": "千差萬別",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "도발하다",
+    "translation": "Өдөөх",
+    "hanja": "挑發하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "증가율",
+    "translation": "Өсөлтийн хувь",
+    "hanja": "增加率",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "병자",
+    "translation": "өвчтэй хүн",
+    "hanja": "病者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "호실",
+    "translation": "өрөөний дугаар",
+    "hanja": "號室",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "상속세",
+    "translation": "өв залгамжлалын татвар",
+    "hanja": "相續稅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "에라이",
+    "translation": "өтгөн новш",
+    "hanja": "null",
+    "pos": "interjection",
+    "cefr": "C1"
+  },
+  {
+    "word": "고위직",
+    "translation": "өндөр албан тушаал",
+    "hanja": "高位職",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "풀잎",
+    "translation": "өвсний навч",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "고조",
+    "translation": "өндөрлөг",
+    "hanja": "高潮",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자칭",
+    "translation": "өөрийгөө нэрлэх",
+    "hanja": "自稱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동정하다",
+    "translation": "өрөвдөх, хайрлах",
+    "hanja": "同情하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고주파",
+    "translation": "өндөр давтамж",
+    "hanja": "高周波",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "일진",
+    "translation": "өдрийн аз",
+    "hanja": "日辰",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고온",
+    "translation": "өндөр температур",
+    "hanja": "高溫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배변",
+    "translation": "өтгөн гадагшлуулах",
+    "hanja": "排便",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "애처롭다",
+    "translation": "өрөвдөлтэй",
+    "hanja": "哀처롭다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성찰",
+    "translation": "өөрийгөө тунгаан бодох",
+    "hanja": "省察",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "널널하다",
+    "translation": "өргөн чөлөөтэй",
+    "hanja": "널널하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "진간장",
+    "translation": "өтгөн соё соус",
+    "hanja": "진간장",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선동",
+    "translation": "Өдөөн хатгах, турхирах",
+    "hanja": "煽動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자가",
+    "translation": "өөрийн",
+    "hanja": "自家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낮술",
+    "translation": "өдрийн архидалт",
+    "hanja": "낮술",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "굴러떨어지다",
+    "translation": "Өнхөрч унах",
+    "hanja": "굴러떨어지다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가차",
+    "translation": "Өршөөлгүй",
+    "hanja": "假借",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불쌍히",
+    "translation": "өрөвдөн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전후하다",
+    "translation": "өмнө ба дараа",
+    "hanja": "前後하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별생각",
+    "translation": "өөр бодол",
+    "hanja": "別생각",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천만에",
+    "translation": "Өчүүхэн ч үгүй, тавтай морилно уу",
+    "hanja": "千萬에",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "아파하다",
+    "translation": "өвдөх, зовох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "독학",
+    "translation": "өөрийгөө сургах",
+    "hanja": "獨學",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "굽",
+    "translation": "өсгий",
+    "hanja": " gup",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "확충",
+    "translation": "өргөтгөх",
+    "hanja": " hwakchung",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "룸메",
+    "translation": "өрөөний хамтрагч",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "들쑤시다",
+    "translation": "өдөөх",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자책",
+    "translation": "өөрийгөө буруутгах",
+    "hanja": "自責",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자부하다",
+    "translation": "өөрийгөө хүндлэх",
+    "hanja": "自負하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "승부하다",
+    "translation": "Өрсөлдөх, тулалдах",
+    "hanja": "勝負하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자력",
+    "translation": "Өөрийн хүч",
+    "hanja": "自力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배색",
+    "translation": "Өнгөний зохицол",
+    "hanja": "配色",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전조",
+    "translation": "Өнж",
+    "hanja": "前兆",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "앙심",
+    "translation": "Өс хонзон",
+    "hanja": "怏心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "정당방위",
+    "translation": "Өөрийгөө хамгаалах",
+    "hanja": "正當防衛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "나으",
+    "translation": "Өндөр, намайг аварна уу",
+    "hanja": null,
+    "pos": "독립언",
+    "cefr": "C1"
+  },
+  {
+    "word": "서양인",
+    "translation": "Өрнөдийн хүн",
+    "hanja": "西洋人",
+    "pos": "мөн",
+    "cefr": "A2"
+  },
+  {
+    "word": "선례",
+    "translation": "өмнөх жишиг, үлгэр жишээ",
+    "hanja": "先例",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빚지다",
+    "translation": "өрөнд орох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성장세",
+    "translation": "өсөлтийн хандлага",
+    "hanja": "成長勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상온",
+    "translation": "өрөөний температур",
+    "hanja": "常溫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "청소년기",
+    "translation": "өсвөр нас",
+    "hanja": "靑少年期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왕년",
+    "translation": "өнгөрсөн жилүүд",
+    "hanja": "往年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "높낮이",
+    "translation": "өндөр нам",
+    "hanja": "높낮이",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "팽창하다",
+    "translation": "Өргөжих, тэлэх",
+    "hanja": "膨脹하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선점하다",
+    "translation": "Өрсөж эзлэх",
+    "hanja": "先占하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "워메",
+    "translation": "өү май год",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "빚쟁이",
+    "translation": "өрийг төлөх",
+    "hanja": "빚쟁이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "후하다",
+    "translation": "өөгшүүлсэн, өгөөмөр",
+    "hanja": "厚하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "자국민",
+    "translation": "өөрийн улсын иргэн",
+    "hanja": "自國民",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "모나다",
+    "translation": "өнцөгтэй",
+    "hanja": "모나다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남아메리카",
+    "translation": "Өмнөд Америк",
+    "hanja": "南america",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성묘",
+    "translation": "өвөг дээдсийн булшинд зочлох",
+    "hanja": "省墓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자제력",
+    "translation": "Өөрийгөө хянах чадвар",
+    "hanja": "自制力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동계",
+    "translation": "өвлийн улирал",
+    "hanja": "冬季",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자화상",
+    "translation": "өөрийн хөрөг",
+    "hanja": "自畫像",
+    "pos": "м",
+    "cefr": "B1"
+  },
+  {
+    "word": "조부모",
+    "translation": "өвөө эмээ",
+    "hanja": "祖父母",
+    "pos": "м",
+    "cefr": "A2"
+  },
+  {
+    "word": "증폭",
+    "translation": "өргөтгөх, нэмэгдүүлэх",
+    "hanja": "增幅",
+    "pos": "м",
+    "cefr": "C1"
+  },
+  {
+    "word": "어제오늘",
+    "translation": "өчигдөр өнөөдөр, саяхан",
+    "hanja": "어제오늘",
+    "pos": "м/дбү",
+    "cefr": "B2"
+  },
+  {
+    "word": "딴생각",
+    "translation": "өөр бодол, анхаарал саринах",
+    "hanja": "딴생각",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전에",
+    "translation": "өмнө, өмнө нь",
+    "hanja": "前에",
+    "pos": "Adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "할아버님",
+    "translation": "өвөө",
+    "hanja": " grandparents",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "발뒤꿈치",
+    "translation": "өрөм",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가엽다",
+    "translation": "Өрөвдөм",
+    "hanja": "가엽다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실온",
+    "translation": "Өрөөний температур",
+    "hanja": "室溫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전처",
+    "translation": "өмнөх эхнэр",
+    "hanja": "前妻",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선약",
+    "translation": "өмнөх томилолт",
+    "hanja": "先約",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "탈색하다",
+    "translation": "өнгө алдуулах",
+    "hanja": "脫色하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가련하다",
+    "translation": "Өрөвдөлтэй",
+    "hanja": "可憐하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발병하다",
+    "translation": "Өвчин үүсэх",
+    "hanja": "發病하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경쟁적",
+    "translation": "Өрсөлдөөнтэй",
+    "hanja": "競爭的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원서",
+    "translation": "өргөдлийн маягт",
+    "hanja": "願書",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "빛바래다",
+    "translation": "өнгө нь гарах",
+    "hanja": "빛바래다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "딴판",
+    "translation": "өөр орчин",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처량하다",
+    "translation": "Өрөвдөлтэй, ганцаардмал",
+    "hanja": "凄凉하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "노부인",
+    "translation": "Өндөр настан эмэгтэй",
+    "hanja": "老婦人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레거시",
+    "translation": "өв, өмч хөрөнгө",
+    "hanja": "legacy",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자필",
+    "translation": "өөрийн гараар бичсэн",
+    "hanja": "自筆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "역전되다",
+    "translation": "өөрчлөгдөх, эргэлт хийх",
+    "hanja": "逆轉되다",
+    "pos": "ү.ү",
+    "cefr": "C1"
+  },
+  {
+    "word": "까치발",
+    "translation": "өрөмгөн хөл",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고압",
+    "translation": "өрөг өндөр, дарангуйлал",
+    "hanja": "高壓",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공양",
+    "translation": "өргөл, өглөг",
+    "hanja": "供養",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "증폭시키다",
+    "translation": "өсгөх, хүчирхэгжүүлэх",
+    "hanja": "增幅시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "일용직",
+    "translation": "Өдрийн ажилтан",
+    "hanja": "日用職",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "재산권",
+    "translation": "өрөнгийн эрх",
+    "hanja": "財産權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "그날그날",
+    "translation": "өдөр бүр",
+    "hanja": "그날그날",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "촉발되다",
+    "translation": "өдөөгдөх",
+    "hanja": "觸發되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현경",
+    "translation": "өнөөгийн байдал",
+    "hanja": "現境",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남방",
+    "translation": "өмнөд нутаг",
+    "hanja": "南方",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자긍심",
+    "translation": "өөрийгөө үнэлэх сэтгэл",
+    "hanja": "自矜心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "도발적",
+    "translation": "өдөөн хатгасан, түрэмгий",
+    "hanja": "挑發的",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "색색",
+    "translation": "өнгийн",
+    "hanja": "色色",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "초식",
+    "translation": "өрөмтгий",
+    "hanja": "草食",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자의식",
+    "translation": "өөрийгөө ухамсарлах",
+    "hanja": "自意識",
+    "pos": "сущ",
+    "cefr": "C1"
+  },
+  {
+    "word": "키다리",
+    "translation": "өндөр хүн",
+    "hanja": "키다리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "딴사람",
+    "translation": "өөр хүн",
+    "hanja": "딴사람",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자폭",
+    "translation": "өөрийгөө дэлбэлэх",
+    "hanja": "自爆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "컬러풀하다",
+    "translation": "өнгөлөг",
+    "hanja": "컬러풀하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자위대",
+    "translation": "өөрийгөө хамгаалах хүчин",
+    "hanja": "自衛隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "측은하다",
+    "translation": "өрөвдөх сэтгэл төрөх, харамсах",
+    "hanja": "惻隱하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지게차",
+    "translation": "өгөөч машин",
+    "hanja": "지게차",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "병적",
+    "translation": "Өвчтэй, эмгэгтэй",
+    "hanja": "病的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남중국해",
+    "translation": "Өмнөд Хятадын тэнгис",
+    "hanja": "南中國海",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병명",
+    "translation": "Өвчний нэр",
+    "hanja": "病名",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채색하다",
+    "translation": "өнгөөр будах",
+    "hanja": "彩色하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소유물",
+    "translation": "өмч",
+    "hanja": "所有物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자비롭다",
+    "translation": "өршөөнгүй, нигүүлсэнгүй",
+    "hanja": "慈悲롭다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "깃",
+    "translation": "өрөөсөн, зах",
+    "hanja": "깃",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레이즈",
+    "translation": "өсгөх",
+    "hanja": "레이즈",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자격지심",
+    "translation": "Өөрийгөө дорд үзэх сэтгэл",
+    "hanja": "自激之心",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대범하다",
+    "translation": "өргөн сэтгэлтэй",
+    "hanja": "大汎하다",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "초겨울",
+    "translation": "Өвлийн эхэн",
+    "hanja": "初겨울",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자중하다",
+    "translation": "өөрийгөө хянах",
+    "hanja": "自重하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "고품질",
+    "translation": "өндөр чанар",
+    "hanja": "高品質",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "훤칠하다",
+    "translation": "өндөр, шулуун",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "적수",
+    "translation": "өрсөлдөгч, дайсан",
+    "hanja": "敵手",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "으잉",
+    "translation": "өө, хэмээн гайхах дуу",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "착색되다",
+    "translation": "Өнгөтэй болох",
+    "hanja": "着色되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원귀",
+    "translation": "өшөөт сүнс, өс хонзонгийн сүнс",
+    "hanja": "怨鬼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크레용",
+    "translation": "өнгөт харандаа",
+    "hanja": "크레용",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "자작곡",
+    "translation": "өөрийн дуу (зохиол)",
+    "hanja": "自作曲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고지대",
+    "translation": "өндөрлөг газар",
+    "hanja": "高地帶",
+    "pos": "명са",
+    "cefr": "B1"
+  },
+  {
+    "word": "대납",
+    "translation": "өгөх, өглөг",
+    "hanja": "代納",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "면죄부",
+    "translation": "өршөөл, уучлал",
+    "hanja": "免罪符",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수준급",
+    "translation": "өндөр түвшний",
+    "hanja": "水準級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자기애",
+    "translation": "өөрийгөө хайрлах",
+    "hanja": "自己愛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "란생",
+    "translation": "Өнөөгийн амьдрал",
+    "hanja": "蘭生",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "앞줄",
+    "translation": "өмнөх эгнээ",
+    "hanja": "앞줄",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "서술하다",
+    "translation": "өгүүлэх",
+    "hanja": "敍述하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "일용하다",
+    "translation": "өдөр тутмын хэрэгцээнд хэрэглэх",
+    "hanja": "日用하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고퀄리티",
+    "translation": "өндөр чанартай",
+    "hanja": "高quality",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여념",
+    "translation": "өөр зүйлд сатаарах",
+    "hanja": "餘念",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "컬러링",
+    "translation": "өнгө засах",
+    "hanja": "컬러링",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대가족",
+    "translation": "өргөн гэр бүл, том гэр бүл",
+    "hanja": "大家族",
+    "pos": "н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "양육하다",
+    "translation": "өсгөх, хүмүүжүүлэх",
+    "hanja": "養育-하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "녹진하다",
+    "translation": "өтгөн, шингэн биш",
+    "hanja": "녹진-하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "병세",
+    "translation": "өвчний явц",
+    "hanja": "病勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "겨울날",
+    "translation": "өвлийн өдөр",
+    "hanja": "겨울날",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자상",
+    "translation": "өөрийгөө гэмтээх",
+    "hanja": "刺傷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무참히",
+    "translation": "өршөөлгүйгээр, харгисаар",
+    "hanja": "無慘히",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "더부룩하다",
+    "translation": "өтгөн, зузаан",
+    "hanja": "더부룩하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄원서",
+    "translation": "өргөдөл, хүсэлт",
+    "hanja": "歎願書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내레이션",
+    "translation": "өгүүлэмж, нэмэлт тайлбар",
+    "hanja": "narration",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지원서",
+    "translation": "өргөдлийн маягт, хүсэлт",
+    "hanja": "志願書",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "곤이",
+    "translation": "Өндөг (загасны)",
+    "hanja": "곤이",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자부심",
+    "translation": "өөрийгөө хүндэтгэх сэтгэл",
+    "hanja": "자부심(自負心)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "업스케일링",
+    "translation": "өндөр нягтралтай болгох",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행거",
+    "translation": "өлгүүр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "경쟁심",
+    "translation": "өрсөлдөх сэтгэл",
+    "hanja": "競爭心",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "활달하다",
+    "translation": "өргөн сэтгэлтэй",
+    "hanja": "闊達하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성찰하다",
+    "translation": "өөрийгөө дүгнэх",
+    "hanja": "省察하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농축",
+    "translation": "өтгөрүүлэх, баяжуулах",
+    "hanja": "濃縮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "마음대로",
+    "translation": "өөрийн дураар",
+    "hanja": "마음대로",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "나레이션",
+    "translation": "өгүүллийн хэлбэрээр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "아량",
+    "translation": "өргөн сэтгэл",
+    "hanja": "雅量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "알량하다",
+    "translation": "өчүүхэн",
+    "hanja": "알량하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "품",
+    "translation": "өнөөдрийн ажлын хөлс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시일",
+    "translation": "өдөр",
+    "hanja": "時日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개편되다",
+    "translation": "өөрчлөгдөх",
+    "hanja": "改編되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배양",
+    "translation": "өсгөн үржүүлэх",
+    "hanja": "培養",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "등석",
+    "translation": "өгсөх",
+    "hanja": "登釋",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "딴청",
+    "translation": "өөр зүйл хийх",
+    "hanja": "딴청",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방중",
+    "translation": "өрөөний дунд",
+    "hanja": "房中",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자의",
+    "translation": "өөрийн дураар",
+    "hanja": "自意",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "확충하다",
+    "translation": "өргөтгөх, нэмэгдүүлэх",
+    "hanja": "擴充하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산문",
+    "translation": "өгүүллэг, зохиол",
+    "hanja": "散文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전월",
+    "translation": "өмнөх сар",
+    "hanja": "前月",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자작하다",
+    "translation": "өөрийгөө золиослох",
+    "hanja": "自作하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "혼잣말하다",
+    "translation": "Өөртөө ярих",
+    "hanja": "혼잣말하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빤쓰",
+    "translation": "Өмд",
+    "hanja": "빤쓰",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "과거형",
+    "translation": "Өнгөрсөн цаг",
+    "hanja": "過去形",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "촉발하다",
+    "translation": "Өдөөх, түлхэх",
+    "hanja": "觸發하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "딴소리",
+    "translation": "өөр яриа",
+    "hanja": "딴소리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고위층",
+    "translation": "өндөр албан тушаалтай хүмүүс",
+    "hanja": "高位層",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "변색",
+    "translation": "өнгө өөрчлөгдөх",
+    "hanja": "變色",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "사면하다",
+    "translation": "өршөөх",
+    "hanja": "赦免하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배율",
+    "translation": "Өсгөх коэффициент",
+    "hanja": "倍率",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방장",
+    "translation": "Өрөөний эзэн",
+    "hanja": "房長",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "translation": "өөдгүй хүн",
+    "hanja": "廢人",
+    "pos": "명사",
+    "cefr": "C1",
+    "word": "폐인"
+  },
+  {
+    "translation": "өндрийн харайлт",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1",
+    "word": "높이뛰기"
+  },
+  {
+    "word": "내드리다",
+    "translation": "өгөх, барих",
+    "hanja": "내드리다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문병",
+    "translation": "өвчтөн эргэх",
+    "hanja": "問病",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "겨울옷",
+    "translation": "өвлийн хувцас",
+    "hanja": "겨울옷",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "꿇리다",
+    "translation": "өвдөг сөхөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변색되다",
+    "translation": "өнгө өөрчлөгдөх",
+    "hanja": "變色되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발색되다",
+    "translation": "өнгө гарах, өнгөлөг болох",
+    "hanja": "發色되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무아지경",
+    "translation": "өөрийгөө умартсан байдал, догдлол",
+    "hanja": "無我之境",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바끼다",
+    "translation": "өөрчлөгдөх (바뀌다-ийн 방언)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자율",
+    "translation": "өөрийн эрхээр ажиллах",
+    "hanja": "自律",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방세",
+    "translation": "өрөөний түрээс",
+    "hanja": "房貰",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "허기지다",
+    "translation": "өлсөх",
+    "hanja": "허기지다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "누각",
+    "translation": "өрөөт сүм",
+    "hanja": "樓閣",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "남반구",
+    "translation": "өмнөд хагас бөмбөрцөг",
+    "hanja": "南半球",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발꿈치",
+    "translation": "өсгий",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "환자복",
+    "translation": "өвчтөний хувцас",
+    "hanja": "患者服",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자립하다",
+    "translation": "Өөрөө амьдрах",
+    "hanja": "自立하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악센트",
+    "translation": "өргөлт, акцент",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "노년층",
+    "translation": "өндөр настнууд",
+    "hanja": "老年層",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바뀌",
+    "translation": "өөрчлөгдөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지방산",
+    "translation": "өөхний хүчил",
+    "hanja": "脂肪酸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변모하다",
+    "translation": "өөрчлөгдөх, хувирах",
+    "hanja": "變貌하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이테크",
+    "translation": "өндөр технологи",
+    "hanja": "하이테크",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자해",
+    "translation": "өөрийгөө гэмтээх",
+    "hanja": "自害",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "노총각",
+    "translation": "өндөр настай ганц бие эрэгтэй",
+    "hanja": "老總角",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전편",
+    "translation": "өмнөх анги",
+    "hanja": "前篇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "위도",
+    "translation": "өргөрөг",
+    "hanja": "緯度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자업자득",
+    "translation": "өөрийн үйлдэж ийм үр дүн хүртэх",
+    "hanja": "自業自得",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강된장",
+    "translation": "өрөмтэй шар буурцагны шөл",
+    "hanja": "강된장",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전세가",
+    "translation": "өрхийн талбайн түрээс",
+    "hanja": "傳貰價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통성명",
+    "translation": "өөрийгөө танилцуулах",
+    "hanja": "通性名",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고음",
+    "translation": "өндөр дуу",
+    "hanja": "高音",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고승",
+    "translation": "өндөр үнэлэлт",
+    "hanja": "高僧",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고소득",
+    "translation": "өндөр орлого",
+    "hanja": "高所得",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "버핑",
+    "translation": "өнгөлөх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남국",
+    "translation": "өмнөд орон",
+    "hanja": "南國",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "별종",
+    "translation": "өөр хэлбэр",
+    "hanja": "別種",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자만심",
+    "translation": "өөртөө хэт итгэх",
+    "hanja": "自慢心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자기만족",
+    "translation": "өөрийгөө хангалуун мэдрэх",
+    "hanja": "自己滿足",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "변론하다",
+    "translation": "Өмгөөлөх",
+    "hanja": "辯論하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배양하다",
+    "translation": "Өсгөн үржүүлэх",
+    "hanja": "培養하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고관",
+    "translation": "Өндөр албан тушаалтай хүн",
+    "hanja": "高官",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채무자",
+    "translation": "өртэй хүн, өр барагдуулагч",
+    "hanja": "債務者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자위",
+    "translation": "өөрийгөө хамгаалах",
+    "hanja": "自慰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자축하다",
+    "translation": "өөрийгөө баярлуулах",
+    "hanja": "自祝하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자평하다",
+    "translation": "өөрийгөө үнэлэх",
+    "hanja": "自評하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가시밭길",
+    "translation": "Өргөст зам",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "멜빵",
+    "translation": "Өндөр өсгийтэй гутал",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시장하다",
+    "translation": "Өлсөх",
+    "hanja": "시장하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고아",
+    "translation": "өндөр наслалт",
+    "hanja": "高雅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙관하다",
+    "translation": "өөдрөгөөр харах, сайн сайхан бодно",
+    "hanja": "樂觀하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전임자",
+    "translation": "өмнөх албан тушаалтан",
+    "hanja": "前任者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "할애비",
+    "translation": "өвөө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "미조",
+    "translation": "өнөөдрийг хүртэл",
+    "hanja": "未組",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전수받다",
+    "translation": "өгөгдөх, дамжуулах",
+    "hanja": "傳授받다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풀벌레",
+    "translation": "өвсөн дээрх шавж",
+    "hanja": "풀벌레",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내걸리다",
+    "translation": "өлгөгдөх",
+    "hanja": "내걸리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사주하다",
+    "translation": "өдөөх",
+    "hanja": "使嗾―",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "굶기다",
+    "translation": "өлсгөх",
+    "hanja": "―",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "변혁",
+    "translation": "өөрчлөлт",
+    "hanja": "變革",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "진즉",
+    "translation": "өмнө нь",
+    "hanja": "진즉",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "선점",
+    "translation": "өмнө нь эзлэх",
+    "hanja": "先占",
+    "pos": "name",
+    "cefr": "C1"
+  },
+  {
+    "word": "농축되다",
+    "translation": "өтгөрөх",
+    "hanja": "濃縮되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성장통",
+    "translation": "Өсөлтийн өвдөлт",
+    "hanja": "成長痛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "촉발",
+    "translation": "өдөөх",
+    "hanja": "觸發",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자포자기하다",
+    "translation": "өөрийгөө орхих, найдваргүй болох",
+    "hanja": "自暴自棄하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무소유",
+    "translation": "өмчгүй байдал",
+    "hanja": "無所有",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남방큰돌고래",
+    "translation": "өмнөдийн далайн гахай",
+    "hanja": "南方큰돌고래",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병마",
+    "translation": "өвчин",
+    "hanja": "病魔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "소유욕",
+    "translation": "өмчлөх хүсэл",
+    "hanja": "所有欲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "호신술",
+    "translation": "Өөрийгөө хамгаалах урлаг",
+    "hanja": "護身術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "곯다",
+    "translation": "Өлсөх, хоосон хонох",
+    "hanja": "곯다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선행되다",
+    "translation": "өмнө нь явагдах",
+    "hanja": "先行되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "상속하다",
+    "translation": "өв залгамжлах",
+    "hanja": "相續하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "흰자위",
+    "translation": "Өндөгний цагаан",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "하이파이",
+    "translation": "Өндөр чанартай дуу",
+    "hanja": "Hi-Fi",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "경과하다",
+    "translation": "Өнгөрөх, дайран өнгөрөх",
+    "hanja": "經過하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "고공",
+    "translation": "өндөр тэнгэр",
+    "hanja": "高空",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가시덤불",
+    "translation": "өргөст бут",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전환시키다",
+    "translation": "өөрчлөх",
+    "hanja": "轉換시키다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "계란빵",
+    "translation": "өндөгтэй талх",
+    "hanja": "계란빵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "아뿔싸",
+    "translation": "Өө бурхан минь",
+    "hanja": "아뿔싸",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자작극",
+    "translation": "өөрийн зохиосон жүжиг, хуурамч явдал",
+    "hanja": "自作劇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남조선",
+    "translation": "Өмнөд Солонгос (БНАСАУ-ын хэрэглэдэг нэр)",
+    "hanja": "南朝鮮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "상속자",
+    "translation": "өмчлөгч",
+    "hanja": "相續者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "똥오줌",
+    "translation": "өтгөн шингэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "겨울용",
+    "translation": "Өвлийн хэрэглээний",
+    "hanja": "冬用",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전년도",
+    "translation": "өмнөх жил",
+    "hanja": "前年度",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체득하다",
+    "translation": "өөрийн биеэр мэдрэх, ойлгох",
+    "hanja": "體得하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연마",
+    "translation": "өнгөлөх, сайжруулах",
+    "hanja": "硏磨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "펑퍼짐하다",
+    "translation": "өндийх, хөөх",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자폭하다",
+    "translation": "өөрийгөө дэлбэлэх",
+    "hanja": "自爆하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어메",
+    "translation": "өө бурхан",
+    "hanja": "어메",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "딴짓하다",
+    "translation": "өөр зүйл хийх",
+    "hanja": "딴짓하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "존심",
+    "translation": "Өөрийгөө хүндлэх сэтгэл",
+    "hanja": "尊心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무색",
+    "translation": "өнгөгүй",
+    "hanja": "無色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고수익",
+    "translation": "өндөр ашиг",
+    "hanja": "高收益",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자급자족",
+    "translation": "Өөрийгөө тэтгэх",
+    "hanja": "自給自足",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인양하다",
+    "translation": "Өргөх, татан гаргах",
+    "hanja": "引揚하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "딴생각하다",
+    "translation": "Өөр зүйл бодох",
+    "hanja": "딴생각하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출원",
+    "translation": "Өргөдөл гаргах",
+    "hanja": "出願",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자행되다",
+    "translation": "өөрсдөө хийх, дур мэдэн хийх",
+    "hanja": "恣行되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이염",
+    "translation": "Өнгө алдах",
+    "hanja": "移染",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천정부지",
+    "translation": "өндөр үнэ, хязгааргүй өсөх",
+    "hanja": "天井不知",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "긍휼",
+    "translation": "өршөөл, нигүүлсэл",
+    "hanja": "矜恤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무통",
+    "translation": "өвдөлтгүй",
+    "hanja": "無痛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "할아비",
+    "translation": "өвөө",
+    "hanja": "할아비",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바짓가랑이",
+    "translation": "өмдний шуумаг",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전의",
+    "translation": "өмнөх утга; өмнөх санал",
+    "hanja": "前議",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "추대하다",
+    "translation": "Өргөмжлөх, дэвшүүлэх",
+    "hanja": "推戴하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "떼우다",
+    "translation": "Өнгөрөөх, залхуудах",
+    "hanja": "떼우다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접때",
+    "translation": "өнгөрсөн удаад, түрүүнд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "아차차",
+    "translation": "Өө, би мартаж орхижээ!",
+    "hanja": null,
+    "pos": "Interjection",
+    "cefr": "A2"
+  },
+  {
+    "word": "모닝빵",
+    "translation": "өглөөний талх",
+    "hanja": null,
+    "pos": "명사 (Noun)",
+    "cefr": "A1"
+  },
+  {
+    "word": "고도화",
+    "translation": "өндөр түвшинд хүргэх",
+    "hanja": "高度化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "오이소박이",
+    "translation": "өргөст хэмхний кимчи",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "각지다",
+    "translation": "өнцөгтэй, хурц ирмэгтэй",
+    "hanja": "角지다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "진정서",
+    "translation": "өргөдөл, гомдол",
+    "hanja": "陳情書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자화자찬",
+    "translation": "өөрийгөө магтах",
+    "hanja": "自畵自讚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "일상화되다",
+    "translation": "Өдөр тутмын амьдралд нэвтрэх",
+    "hanja": "日常化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고각",
+    "translation": "өндөр өнцөг",
+    "hanja": "高角",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전번",
+    "translation": "өмнөх удаа, өмнөх дугаар",
+    "hanja": "前番",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두통약",
+    "translation": "өвчин намдаах эм",
+    "hanja": "頭痛藥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남해",
+    "translation": "Өмнөд тэнгис",
+    "hanja": "南海",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남중",
+    "translation": "өмнөд дунд",
+    "hanja": "南中",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "제집",
+    "translation": "өөрийн байшин",
+    "hanja": "제집",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "호소문",
+    "translation": "өргөдөл, гомдол",
+    "hanja": "呼訴文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자숙",
+    "translation": "өөрийгөө хязгаарлах, өөрийгөө хянасан байдал",
+    "hanja": "自肅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빚더미",
+    "translation": "өр овоолох, өрийн хуримтлал",
+    "hanja": "빚더미",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내정하다",
+    "translation": "өмнө нь шийдвэрлэх, томилох",
+    "hanja": "內定하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "지론",
+    "translation": "өөрийн үзэл бодол",
+    "hanja": "持論",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "모닝커피",
+    "translation": "өглөөний кофе",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "주어",
+    "translation": "өгүүлэгдэхүүн",
+    "hanja": "主語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성조",
+    "translation": "өнгө",
+    "hanja": "聲調",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "딴",
+    "translation": "өөр, бусад",
+    "hanja": "---",
+    "pos": "관형사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소여",
+    "translation": "өгөгдсөн, гарсан",
+    "hanja": "所與",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "입동",
+    "translation": "өвлийн эхлэл",
+    "hanja": "立冬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자책감",
+    "translation": "өөрөө өөрийгөө буруутгах мэдрэмж",
+    "hanja": "自責感",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "외상값",
+    "translation": "өрийн мөнгө",
+    "hanja": "外상값",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "걸이",
+    "translation": "өлгүүр",
+    "hanja": "걸이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "알까기",
+    "translation": "Өндөг гаргах тоглоом",
+    "hanja": "알까기",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒹굴뒹굴",
+    "translation": "өлхөн хөрвөөх",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "독학하다",
+    "translation": "өөрийгөө сургах",
+    "hanja": "獨學-",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "자해하다",
+    "translation": "өөрийгөө гэмтээх",
+    "hanja": "자해하다(自害하다)",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "높히다",
+    "translation": "өндөрлөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "병증",
+    "translation": "өвчний шинж тэмдэг",
+    "hanja": "病症",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "옛다",
+    "translation": "өгье (хэн нэгэнд юм өгөхдөө хэрэглэх үг)",
+    "hanja": "null",
+    "pos": "Interjection",
+    "cefr": "B1"
+  },
+  {
+    "word": "병원균",
+    "translation": "өвчин үүсгэгч",
+    "hanja": "病原菌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "딴소리하다",
+    "translation": "өөр юм ярих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작금",
+    "translation": "өнөө үе",
+    "hanja": "灼今",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조간신문",
+    "translation": "өглөөний сонин",
+    "hanja": "朝刊新聞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남향",
+    "translation": "өмнө зүг рүү харсан",
+    "hanja": "南向",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴색되다",
+    "translation": "өнгө нь гарах",
+    "hanja": "退色되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전전",
+    "translation": "өмнө, өмнө нь",
+    "hanja": "前前",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자타",
+    "translation": "өөрийгөө болон бусдыг",
+    "hanja": "自他",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자뻑",
+    "translation": "Өөрийгөө магтах, бишрэх",
+    "hanja": "자뻑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남단",
+    "translation": "Өмнөд үзүүр",
+    "hanja": "南端",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소신껏",
+    "translation": "өөрийн итгэлээр",
+    "hanja": "所信껏",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병나다",
+    "translation": "өвдөх",
+    "hanja": "病나다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "앞가림",
+    "translation": "өөрийгөө зохицуулах",
+    "hanja": "앞가림",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투병하다",
+    "translation": "өвчний эсрэг тэмцэх",
+    "hanja": "鬪病하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "대범",
+    "translation": "Өргөн цар хүрээтэй, өгөөмөр",
+    "hanja": "大凡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "겨울바람",
+    "translation": "өвлийн салхи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "증폭하다",
+    "translation": "өсгөх",
+    "hanja": "증폭하다(增幅하다)",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발병률",
+    "translation": "өвчний тархалт",
+    "hanja": "발병률(發病率)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출원하다",
+    "translation": "өгдөл гаргах",
+    "hanja": "출원하다(出願하다)",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고차원적",
+    "translation": "Өндөр түвшний",
+    "hanja": "高次元的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "발다",
+    "translation": "өлгөх",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월동",
+    "translation": "өвлийн улирал",
+    "hanja": "越冬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장신",
+    "translation": "өндөр биетэй",
+    "hanja": "長身",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "상속인",
+    "translation": "өв залгамжлагч",
+    "hanja": "相續人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "긍휼히",
+    "translation": "өрөвдөн, хайрлан",
+    "hanja": "矜恤히",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "겨울비",
+    "translation": "өвлийн бороо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "난소",
+    "translation": "өндгөвч",
+    "hanja": "卵巢",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "일상복",
+    "translation": "өдөр тутмын хувцас",
+    "hanja": "日常服",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "환우",
+    "translation": "өвчтэй хүн, өвчтөн",
+    "hanja": "患友",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프리퀄",
+    "translation": "Өмнөх түүх",
+    "hanja": "prequel",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "워크아웃",
+    "translation": "Өр зохион байгуулалт",
+    "hanja": "workout",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "은원",
+    "translation": "өшөө хонзон",
+    "hanja": "恩怨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "아점",
+    "translation": "өглөөний оройн хоол (brunch)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "초로",
+    "translation": "өвсөн дээрх шүүдэр",
+    "hanja": "草露",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "농후하다",
+    "translation": "өтгөн, хүчтэй",
+    "hanja": "濃厚하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서술어",
+    "translation": "өгүүлбэрийн туслах гишүүн",
+    "hanja": "敍述語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증조부",
+    "translation": "өвөөгийн аав",
+    "hanja": "曾祖父",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "은혜롭다",
+    "translation": "өгөөмөр",
+    "hanja": "恩惠롭다",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "고난도",
+    "translation": "өндөр хүндрэлтэй, их хүндрэлтэй",
+    "hanja": "高難度",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "주야",
+    "translation": "өдөр шөнөгүй",
+    "hanja": "晝夜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광폭",
+    "translation": "өргөн, тэлэлт",
+    "hanja": "廣幅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편향적",
+    "translation": "өвөрмөц, нэг талыг барьсан",
+    "hanja": "偏向的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한심스럽다",
+    "translation": "өрөвдөлтэй, ичмээр",
+    "hanja": "寒心스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "응모되다",
+    "translation": "өргөдөл гаргах",
+    "hanja": "應募되다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "변동되다",
+    "translation": "өөрчлөгдөх",
+    "hanja": "變動되다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "아상",
+    "translation": "өөрийгөө дээдлэх үзэл",
+    "hanja": "我相",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공양하다",
+    "translation": "өргөх",
+    "hanja": "供養하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자조",
+    "translation": "өөрийгөө гоочлох",
+    "hanja": "自嘲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지방질",
+    "translation": "өөх тос",
+    "hanja": "脂肪質",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낙관",
+    "translation": "Өөдрөг, сайхнаар харах",
+    "hanja": "樂觀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대납하다",
+    "translation": "Өмнөөс нь төлөх",
+    "hanja": "代納하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁디",
+    "translation": "Өгзөг (нутгийн аялгуугаар)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고준",
+    "translation": "өндөрлөг, өндөр, үлгэр жишээ",
+    "hanja": "高峻",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어쭙잖다",
+    "translation": "өчүүхэн, үнэ цэнгүй",
+    "hanja": "—찮다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꿇어앉다",
+    "translation": "Өвдөг сөгдөх",
+    "hanja": "꿇어앉다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁뎅이",
+    "translation": "Өгзөг",
+    "hanja": "궁뎅이",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "산란하다",
+    "translation": "Өндөглөх (амьтан)",
+    "hanja": "産卵하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "유색",
+    "translation": "өнгөт",
+    "hanja": "有色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자아실현",
+    "translation": "өөрийгөө гүйцэлдүүлэх",
+    "hanja": "自我實現",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풀떼기",
+    "translation": "өвс ургамал (үл тоомсорлож хэлэх)",
+    "hanja": "풀떼기",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "자수성가",
+    "translation": "өөрийн хүчээр амжилтад хүрэх",
+    "hanja": "自手成家",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "증축하다",
+    "translation": "Өргөтгөх, нэмэлт барилга барих",
+    "hanja": "增築하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "논조",
+    "translation": "өгүүллийн өнгө аяс",
+    "hanja": "論調",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고단백",
+    "translation": "өндөр уураг",
+    "hanja": "高蛋白",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고화질",
+    "translation": "өндөр нягтрал",
+    "hanja": "高畫質",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분변",
+    "translation": "өтгөн, баас",
+    "hanja": "糞便",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고효율",
+    "translation": "өндөр үр ашигтай",
+    "hanja": "高效率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배다르다",
+    "translation": "өөр эхтэй (ах дүү)",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자생하다",
+    "translation": "өөрөө ургах, бие даан амьдрах",
+    "hanja": "自生하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고육지책",
+    "translation": "өөрийгөө золиослох тактик",
+    "hanja": "苦肉之策",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "앞주머니",
+    "translation": "өмнөх халаас",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고강도",
+    "translation": "өндөр хүчдэл",
+    "hanja": "高強度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통각",
+    "translation": "өвдөлтийн мэдрэмж",
+    "hanja": "痛覺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제풀에",
+    "translation": "өөрийн эрхгүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고소득층",
+    "translation": "өндөр орлоготой давхарга",
+    "hanja": "高所得層",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예열하다",
+    "translation": "өмнө халаах",
+    "hanja": "豫熱하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "경진",
+    "translation": "өрсөлдөөн",
+    "hanja": "競進",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "오늘내일",
+    "translation": "өдөр ирэх тусам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자립심",
+    "translation": "Өөртөө найдах сэтгэл",
+    "hanja": "自立心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투서",
+    "translation": "Өргөдөл",
+    "hanja": "投書",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "맞수",
+    "translation": "Өрсөлдөгч",
+    "hanja": "맞수",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자위권",
+    "translation": "Өөрийгөө хамгаалах эрх",
+    "hanja": "自衛權",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이계",
+    "translation": "өөр орон зай",
+    "hanja": "異界",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "호평하다",
+    "translation": "өндрөөр үнэлэх",
+    "hanja": "好評하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "동절기",
+    "translation": "Өвлийн улирал",
+    "hanja": "冬節期",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "남인",
+    "translation": "өмнөд хүмүүс",
+    "hanja": "南人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조색하다",
+    "translation": "өнгө холих",
+    "hanja": "調色하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "놉다",
+    "translation": "өндөр",
+    "hanja": "놉다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "엉덩",
+    "translation": "өндгөний цагаан",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꺽다리",
+    "translation": "Өндөр туранхай хүн",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전초전",
+    "translation": "Өмнөх тулаан",
+    "hanja": "前哨戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남침",
+    "translation": "Өмнө зүг рүү довтлох",
+    "hanja": "南侵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사면되다",
+    "translation": "өгшөөгдөх",
+    "hanja": "赦免되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병간호",
+    "translation": "өвчтөн асаргах",
+    "hanja": "病看護",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "색맹",
+    "translation": "өнгө ялгахгүй өвчин",
+    "hanja": "色盲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자수성가하다",
+    "translation": "өөрийн хүчээр амжилтад хүрэх",
+    "hanja": "自手成家하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "횡격막",
+    "translation": "өндөгний хальс",
+    "hanja": "橫隔膜",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "거양",
+    "translation": "өргөх",
+    "hanja": "擧揚",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "참내",
+    "translation": "өөх, ёстой",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달랑거리다",
+    "translation": "өлгөгдөн унжих",
+    "hanja": "달랑거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무아",
+    "translation": "өөрийгөө умартах",
+    "hanja": "無我",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "알밥",
+    "translation": "өндөгтэй будаа",
+    "hanja": "알밥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자구책",
+    "translation": "өөрийгөө аврах арга",
+    "hanja": "自救策",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사면",
+    "translation": "өршөөл",
+    "hanja": "赦免",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풀뿌리",
+    "translation": "Өвсний үндэс",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "늘그막",
+    "translation": "Өндөр нас",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "겨울나기",
+    "translation": "Өвөлжих",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "세대주",
+    "translation": "өрхийн тэргүүн",
+    "hanja": "世帶主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제사하다",
+    "translation": "Өргөл барих, тахил өргөх",
+    "hanja": "祭祀하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레가시",
+    "translation": "Өв, өв залгамж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금명",
+    "translation": "Өнөөдөр маргааш",
+    "hanja": "今明",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광식",
+    "translation": "өргөн хэлбэр",
+    "hanja": "廣式",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "지지난",
+    "translation": "өмнөхөөс өмнөх",
+    "hanja": "지지난",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "자멸하다",
+    "translation": "өөрийгөө устгах",
+    "hanja": "自滅하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활엽수",
+    "translation": "өргөн навчит мод",
+    "hanja": "闊葉樹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "못주다",
+    "translation": "өгч чадахгүй",
+    "hanja": "Q",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "글머리",
+    "translation": "өгүүллийн эхлэл",
+    "hanja": "글머리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병환",
+    "translation": "Өвчин",
+    "hanja": "病患",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등락",
+    "translation": "өсөлт бууралт, хэлбэлзэл",
+    "hanja": "騰落",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왐마",
+    "translation": "өө, бурхан минь",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "현조",
+    "translation": "өнөөгийн бодит байдал, одоогийн нөхцөл байдал",
+    "hanja": "現兆",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "낙관주의",
+    "translation": "Өөдрөг үзэл",
+    "hanja": "樂觀主義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자학",
+    "translation": "Өөрийгөө доромжлох",
+    "hanja": "自虐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빚내다",
+    "translation": "Өр тавих",
+    "hanja": "빚내다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건내",
+    "translation": "өгөх",
+    "hanja": "건내",
+    "pos": "Verb-related word",
+    "cefr": "A2"
+  },
+  {
+    "word": "양욱",
+    "translation": "өсгөх",
+    "hanja": "養育",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동짓날",
+    "translation": "өвлийн туйл",
+    "hanja": "동짓날(冬至날)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요사스럽다",
+    "translation": "өтгөн, хачирхалтай, хуурамч",
+    "hanja": "요사스럽다(妖邪스럽다)",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극기",
+    "translation": "өөрийгөө хянах",
+    "hanja": "克己",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "오름",
+    "translation": "өндөрлөг, довцог",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고랭지",
+    "translation": "өндөрлөг газар",
+    "hanja": "高冷地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주야장천",
+    "translation": "өдөр шөнөгүй, үргэлж",
+    "hanja": "晝夜長川",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒤축",
+    "translation": "өрөөсөн өсгий, арын хэсэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선대왕",
+    "translation": "Өмнөх хаан",
+    "hanja": "先大王",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "독선",
+    "translation": "Өөрийгөө хүний дээд гэж бодох, хувиа бодох",
+    "hanja": "獨善",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "호방하다",
+    "translation": "өргөн сэтгэлтэй, нээлттэй",
+    "hanja": "豪放하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고양되다",
+    "translation": "өдөөгдөх, сэргэх",
+    "hanja": "高揚되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조색",
+    "translation": "өнгөний таарцат",
+    "hanja": "調色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페인",
+    "translation": "Өвдөлт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자칭하다",
+    "translation": "Өөрийгөө нэрлэх",
+    "hanja": "自稱",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자숙하다",
+    "translation": "Өөрийгөө хянах",
+    "hanja": "自肅",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고봉",
+    "translation": "Өндөр оргил",
+    "hanja": "高峰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "오름폭",
+    "translation": "өсөлтийн хэмжээ",
+    "hanja": "오름幅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "아사하다",
+    "translation": "өлсөж үхэх",
+    "hanja": "餓死하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "달걀노른자",
+    "translation": "өндөгний шар",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "높이높이",
+    "translation": "өндөр өндөр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고단수",
+    "translation": "өндөр түвшний",
+    "hanja": "高段數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바짓단",
+    "translation": "Өмдний өөр, өмдний нугалаа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선행하다",
+    "translation": "Өмнө нь хийх, урьдчилан гүйцэтгэх",
+    "hanja": "先行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴색하다",
+    "translation": "өнгө нь гарах",
+    "hanja": "退色하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우어",
+    "translation": "Өө (хайхрамжгүй байдлыг илэрхийлэх дуу)",
+    "hanja": "우어",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "자전하다",
+    "translation": "өөрийн тойрох",
+    "hanja": "自轉하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "먼젓번",
+    "translation": "өмнөх удаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자생",
+    "translation": "өөрийнхөө хүчээр амьдрах, ургах",
+    "hanja": "自生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고산",
+    "translation": "өндөр уул",
+    "hanja": "高山",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "치뜨다",
+    "translation": "өндийх, дээшээ харах",
+    "hanja": "치뜨다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남극해",
+    "translation": "Өмнөд далай",
+    "hanja": "南極海",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "반목",
+    "translation": "өшөө хорсол, дайсагнал",
+    "hanja": "反目",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고차원",
+    "translation": "өндөр түвшний",
+    "hanja": "高次元",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "브로드",
+    "translation": "Өргөн, өргөн нэвтрүүлэг",
+    "hanja": "broad",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자위하다",
+    "translation": "өөрийгөө хамгаалах",
+    "hanja": "自衛하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상이하다",
+    "translation": "өөр байх, ялгаатай байх",
+    "hanja": "相異하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난양",
+    "translation": "Өмнөд тэнгис",
+    "hanja": "南洋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "몸져눕다",
+    "translation": "өвдөж хэвтэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄원",
+    "translation": "өршөөл гуйх",
+    "hanja": "嘆願",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "에구머니나",
+    "translation": "өө, бурхан минь",
+    "hanja": "에구머니나",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경선하다",
+    "translation": "өрсөлдөх",
+    "hanja": "競選하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고저",
+    "translation": "өндөр нам",
+    "hanja": "高低",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구민",
+    "translation": "өөрийгөө аврах",
+    "hanja": "救民",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "아침상",
+    "translation": "өглөөний хоолны ширээ",
+    "hanja": "아침床",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "거중기",
+    "translation": "өргөх машин",
+    "hanja": "巨重機",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가시방석",
+    "translation": "өргөст дэвсгэр, эвгүй байдал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이넥",
+    "translation": "өндөр захтай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "데이타",
+    "translation": "өгөгдөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "변성",
+    "translation": "өөрчлөгдөх",
+    "hanja": "變聲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전야",
+    "translation": "өнөөдрийн өмнөх шөнө",
+    "hanja": "前夜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무병장수",
+    "translation": "өвчин эмгэггүй урт наслах",
+    "hanja": "無病長壽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이채롭다",
+    "translation": "өвөрмөц, өнгөлөг",
+    "hanja": "異彩롭다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신기다",
+    "translation": "өмсгөх, углах",
+    "hanja": "신기다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풀빛",
+    "translation": "өвсний өнгө",
+    "hanja": "풀빛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "아침나절",
+    "translation": "Өглөөний цаг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고덕",
+    "translation": "Өндөр ёс суртахуун",
+    "hanja": "高德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "노년기",
+    "translation": "Өндөр нас",
+    "hanja": "老年期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "일상화",
+    "translation": "Өдөр тутмын хэвшил",
+    "hanja": "日常化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자족하다",
+    "translation": "Өөртөө сэтгэл хангалуун байх",
+    "hanja": "自足하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하르방",
+    "translation": "Өвөө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선황",
+    "translation": "Өмнөх хаан",
+    "hanja": "先皇",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배고픔",
+    "translation": "Өлсгөлөн",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "넙데데하다",
+    "translation": "өргөн, хавтгай",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "입실하다",
+    "translation": "Өрөөнд орох",
+    "hanja": "入室하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "일취월장하다",
+    "translation": "өдөр ирэх тутам дээшлэх",
+    "hanja": "日就月將하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "아사",
+    "translation": "өлсгөлөн, үхэлд хүрэх",
+    "hanja": "餓死",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자조하다",
+    "translation": "өөрийгөө шоолох",
+    "hanja": "自嘲하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "세습하다",
+    "translation": "өвлүүлэх, удамших",
+    "hanja": "世襲하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고압선",
+    "translation": "өндөр хүчдэлийн шугам",
+    "hanja": "高壓線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "청원하다",
+    "translation": "өргөдөл гаргах",
+    "hanja": "請願하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빼물다",
+    "translation": "өгүүлэх",
+    "hanja": "빼물다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "마당발",
+    "translation": "өргөн харилцаатай хүн",
+    "hanja": "마당발",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동정표",
+    "translation": "өрөвдөх сэтгэлийн санал",
+    "hanja": "同情票",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자축",
+    "translation": "Өөрийгөө баярлуулах",
+    "hanja": "自祝",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "들어올리기",
+    "translation": "Өргөх",
+    "hanja": "들어올리기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자급자족하다",
+    "translation": "өөрийгөө хангах",
+    "hanja": "自給自足하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지난해",
+    "translation": "өнгөрсөн жил",
+    "hanja": "지난해",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "풀피리",
+    "translation": "өвсний лимбэ",
+    "hanja": "풀피리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남행",
+    "translation": "өмнө зүг рүү явах",
+    "hanja": "南行",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴실하다",
+    "translation": "өрөөнөөс гарах",
+    "hanja": "退室하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "청원서",
+    "translation": "өргөдөл",
+    "hanja": "請願書",
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "고관대작",
+    "translation": "өндөр албан тушаалтан, их тушаалтан",
+    "hanja": "高官大爵",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "고액권",
+    "translation": "өндөр үнийн дэвсгэрт",
+    "hanja": "高額券",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어래",
+    "translation": "өнгөрсөн жил",
+    "hanja": "於來",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "엊저녁",
+    "translation": "өчигдөр орой",
+    "hanja": "엊저녁",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "상승되다",
+    "translation": "өсөх, дээшлэх",
+    "hanja": "上昇되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대물림하다",
+    "translation": "өвлүүлэх",
+    "hanja": "代물림하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병석",
+    "translation": "өвчний оронд",
+    "hanja": "病席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금일",
+    "translation": "өнөөдөр",
+    "hanja": "今日",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "융기",
+    "translation": "өргөгдөх",
+    "hanja": "隆起",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "에이구",
+    "translation": "Өө бурхан минь",
+    "hanja": "N/A",
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "경쟁국",
+    "translation": "Өрсөлдөгч улс",
+    "hanja": "競爭國",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "멜빵바지",
+    "translation": "Өмдний өргөвчтэй өмд",
+    "hanja": "멜빵바지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "두둑",
+    "translation": "өндөрлөг",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공양미",
+    "translation": "Өргөлийн будаа",
+    "hanja": "供養米",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "경합하다",
+    "translation": "Өрсөлдөх",
+    "hanja": "競合하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "분신하다",
+    "translation": "Өөрийгөө шатаах",
+    "hanja": "焚身하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "오이냉국",
+    "translation": "Өргөст хэмхийн хүйтэн шөл",
+    "hanja": "오이冷국",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "아파",
+    "translation": "өвдөх",
+    "hanja": "아파",
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "친필",
+    "translation": "өөрөө бичсэн",
+    "hanja": "親筆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "컬러풀",
+    "translation": "өнгөлөг",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "딴마음",
+    "translation": "өөр сэтгэл",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "진상하다",
+    "translation": "өргөх, барих",
+    "hanja": "進上하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "응축",
+    "translation": "өтгөрөх",
+    "hanja": "凝縮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바지춤",
+    "translation": "Өмдний өвдөг",
+    "hanja": "바지춤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설욕전",
+    "translation": "өшөө авах тэмцэл",
+    "hanja": "雪辱戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비약하다",
+    "translation": "өндөр үсрэлт хийх",
+    "hanja": "飛躍-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지피지기",
+    "translation": "өөрийгөө таних, бусдыг таних",
+    "hanja": "知彼知己",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "궁댕이",
+    "translation": "Өгзөг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자임하다",
+    "translation": "өөрөө хүлээн авах",
+    "hanja": "自任하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변모",
+    "translation": "өөрчлөлт, хувиргалт",
+    "hanja": "變貌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남도",
+    "translation": "Өмнөд муж",
+    "hanja": "南道",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "오늘내일하다",
+    "translation": "өдөр ирэх тутам",
+    "hanja": "오늘來日하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어제밤",
+    "translation": "өчигдөр орой",
+    "hanja": "어제밤",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "으메",
+    "translation": "өө",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쪼꼬맣다",
+    "translation": "Өчүүхэн жижигхэн",
+    "hanja": "",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "어멋",
+    "translation": "Өө",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "변천",
+    "translation": "өөрчлөлт, хувирал",
+    "hanja": "變遷",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "우모",
+    "translation": "өмсгөл, хувцас",
+    "hanja": "羽毛",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "넓직하다",
+    "translation": "өргөн, том",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기시",
+    "translation": "өмнө нь мэдэрсэн мэт",
+    "hanja": "旣視",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요람",
+    "translation": "өлгий",
+    "hanja": "搖籃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설욕하다",
+    "translation": "өшөөгөө авагч",
+    "hanja": "雪辱하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기아",
+    "translation": "өлсгөлөн",
+    "hanja": "飢餓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계라",
+    "translation": "өгөөч (аялгууны хэлбэр)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "떼굴떼굴",
+    "translation": "өдөржин, цалгиулан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "색지",
+    "translation": "өнгөт цаас",
+    "hanja": "色紙",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남태",
+    "translation": "өмнөд хэсэг",
+    "hanja": "南胎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공치사",
+    "translation": "Өөрийгөө магтах зүйл, саймшрал",
+    "hanja": "功致辭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서구인",
+    "translation": "Өрнөдийн хүн",
+    "hanja": "西歐人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남송",
+    "translation": "Өмнөд Сүн улс",
+    "hanja": "南宋",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "자화자찬하다",
+    "translation": "өөрийгөө магтах",
+    "hanja": "自畵自讚하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통굽",
+    "translation": "өндөр өсгийт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "브로드밴드",
+    "translation": "өргөн зурвас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배란",
+    "translation": "өндгөн эс боловсрох",
+    "hanja": "排卵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "딴말하다",
+    "translation": "өөр юм хэлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남문",
+    "translation": "өмнөд хаалга",
+    "hanja": "남문(南門)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "추남",
+    "translation": "өтгөн хүн",
+    "hanja": "추남(醜男)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "색동",
+    "translation": "өнгө",
+    "hanja": "색동(色—)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "거병",
+    "translation": "өвчин",
+    "hanja": "거병(巨病)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "설욕",
+    "translation": "өшөө авах",
+    "hanja": "雪辱",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강보",
+    "translation": "өлгий",
+    "hanja": "襁褓",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀태",
+    "translation": "өтгөн сайн төрөлт",
+    "hanja": "貴胎",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "남조",
+    "translation": "өмнөд династи",
+    "hanja": "南朝",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "탈색되다",
+    "translation": "өнгө нь гарах, өнгөө алдах",
+    "hanja": "脫色되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이능",
+    "translation": "өөр чадвар",
+    "hanja": "異能",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "나절",
+    "translation": "өдөр, хагас өдөр",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "광모",
+    "translation": "өнөөдөр (хуучирсан)",
+    "hanja": "廣謨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "드높이다",
+    "translation": "өргөмжлөх, өндөрлөх",
+    "hanja": "없음",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "안변하다",
+    "translation": "өөрчлөгдөхгүй байх",
+    "hanja": "安變하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서구식",
+    "translation": "өрнөдийн хэв маяг",
+    "hanja": "西歐式",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서구화되다",
+    "translation": "Өрнөдөд суурилсан болох",
+    "hanja": "西歐化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상승기",
+    "translation": "өрөлттэй үе",
+    "hanja": "上昇期",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공복감",
+    "translation": "өлсөх мэдрэмж",
+    "hanja": "空腹感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고임금",
+    "translation": "өндөр цалин",
+    "hanja": "高賃金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "똥싸개",
+    "translation": "өтгөн ялгаруулагч, баасчин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드리오다",
+    "translation": "өгөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장형",
+    "translation": "өндөр настай ах",
+    "hanja": "丈兄",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조과",
+    "translation": "өгөөш барих",
+    "hanja": "釣果",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉원",
+    "translation": "өргөл, өргөмжлөл",
+    "hanja": "奉元",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "입실",
+    "translation": "өрөөнд орох",
+    "hanja": "入室",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "노땅",
+    "translation": "өтгөс, хөгшин хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "상속되다",
+    "translation": "өвлөгдөх",
+    "hanja": "相續되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "별천지",
+    "translation": "өөр ертөнц, диваажин",
+    "hanja": "別天地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병치레",
+    "translation": "өвчнийг давж гарах, өвдөх",
+    "hanja": "病치레",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "히프",
+    "translation": "өгзөг",
+    "hanja": "hip",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "선공개하다",
+    "translation": "өмнө нь нийтлэх",
+    "hanja": "先公開하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별세계",
+    "translation": "өөр ертөнц",
+    "hanja": "別世界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경과되다",
+    "translation": "өнгөрөх",
+    "hanja": "經過되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고밀도",
+    "translation": "өндөр нягтралтай",
+    "hanja": "高密度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "둔근",
+    "translation": "өндөгний булчин",
+    "hanja": "臀筋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인정사정없다",
+    "translation": "өршөөлгүй, хатуу ширүүн",
+    "hanja": "人情事定없다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조금하다",
+    "translation": "өчүүхэн, багахан",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자학하다",
+    "translation": "Өөрийгөө зовоох",
+    "hanja": "自虐하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "문형",
+    "translation": "Өгүүлбэрийн бүтэц",
+    "hanja": "文型",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "오이김치",
+    "translation": "өргөст хэмхийн кимчи",
+    "hanja": "오이김치",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "달걀귀신",
+    "translation": "Өндөгний сүнс (царайгүй сүнс)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "*자멸*",
+    "translation": "Өөрийгөө устгах",
+    "hanja": "自滅",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "일용",
+    "translation": "Өдөр тутмын хэрэглээ",
+    "hanja": "日用",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "초암",
+    "translation": "Өвсний овоохой",
+    "hanja": "草庵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배곯다",
+    "translation": "Өлсөх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전회",
+    "translation": "Өмнөх удаа",
+    "hanja": "前回",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자생적",
+    "translation": "Өөрөө үүсэх, автономит",
+    "hanja": "自生的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자승",
+    "translation": "Өөрийн ялалт, өөрөө давсан",
+    "hanja": "自勝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각축전",
+    "translation": "Өрсөлдөөн, тэмцэл",
+    "hanja": "角逐戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병색",
+    "translation": "өвчний шинж тэмдэг",
+    "hanja": "病色",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "맨날",
+    "translation": "өдөр бүр, үргэлж",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "상이",
+    "translation": "өөр",
+    "hanja": "相異",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주절대다",
+    "translation": "өрвөгнөх, чалчих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "성묘하다",
+    "translation": "өвөг дээдсийн шарил дээр очих",
+    "hanja": "省墓하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "추달하다",
+    "translation": "өгөгдсөн хугацаанд гүйцэтгэх",
+    "hanja": "追달하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고유성",
+    "translation": "өвөрмөц байдал, онцлог",
+    "hanja": "固有性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행어",
+    "translation": "өлгүүр",
+    "hanja": "행어",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하우스키퍼",
+    "translation": "өрөөний үйлчлэгч",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "폴리셔",
+    "translation": "өнгөлөгч",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴색",
+    "translation": "Өнгөө алдах, бүдгэрэх",
+    "hanja": "褪色",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요전번",
+    "translation": "Өнөөдөр, саяхан",
+    "hanja": "僚前番",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전만하다",
+    "translation": "өмнөх шиг байх",
+    "hanja": "前만하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난포",
+    "translation": "өндгөвчний үүр",
+    "hanja": "卵胞",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "자박",
+    "translation": "өөрийгөө барин тавих",
+    "hanja": "自縛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자습하다",
+    "translation": "өөрийгөө сургах, бие даж сурах",
+    "hanja": "自習-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성하다",
+    "translation": "өсөх, хөгжих, амжилттай байх",
+    "hanja": "盛하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "앓",
+    "translation": "өвдөх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "남위",
+    "translation": "Өмнөд өргөрөг",
+    "hanja": "南緯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신줏단지",
+    "translation": "Өвөг дээдсийн сүнсийг шүтэх сав",
+    "hanja": "신줏단지",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "깔",
+    "translation": "өнгө",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "개꼴",
+    "translation": "өнгө үзэмж муутай байдал (муухай харагдах)",
+    "hanja": "개꼴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "딴전",
+    "translation": "өөр зүйл",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흥왕하다",
+    "translation": "өргөн дэлгэрэх",
+    "hanja": "興旺하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자비하다",
+    "translation": "өршөөнгүй, нигүүлсэнгүй",
+    "hanja": "慈悲하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "딴말",
+    "translation": "өөр үг",
+    "hanja": "딴말",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "먼동",
+    "translation": "өглөөний нар",
+    "hanja": "먼동",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀척",
+    "translation": "өндөр хөгжилтэй",
+    "hanja": "貴戚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "오전반",
+    "translation": "өглөөний ээлж",
+    "hanja": "午前班",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고유하다",
+    "translation": "өөрийн, онцгой, өвөрмөц",
+    "hanja": "固有하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선동적",
+    "translation": "өгөөмөр",
+    "hanja": "煽動的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "몸뻬",
+    "translation": "өмд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "광범위",
+    "translation": "өргөн хүрээний",
+    "hanja": "廣範圍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "액센트",
+    "translation": "өргөлт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남천",
+    "translation": "өмнө зүг рүү нүүдэллэх",
+    "hanja": "南遷",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난부",
+    "translation": "өмнөд хэсэг",
+    "hanja": "南部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경쟁의식",
+    "translation": "өрсөлдөх сэтгэлгээ",
+    "hanja": "競爭意識",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "희생적",
+    "translation": "өөрийгөө золиослосон",
+    "hanja": "犧牲的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신청인",
+    "translation": "өргөдөл гаргагч",
+    "hanja": "申請人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "노른자위",
+    "translation": "Өндөгний шар",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전수되다",
+    "translation": "Өвлөгдөн ирэх",
+    "hanja": "傳授되다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "헌물",
+    "translation": "Өргөл, тахил",
+    "hanja": "獻物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선공하다",
+    "translation": "өмнө нь дайрах",
+    "hanja": "先攻하다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "조당",
+    "translation": "өвөг дээдсийн сүм",
+    "hanja": "祖堂",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "한심",
+    "translation": "Өрөвдөлтэй, ядарсан",
+    "hanja": "寒心",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무르팍",
+    "translation": "Өвдөг",
+    "hanja": "무르팍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자당",
+    "translation": "Өөрийн ээж",
+    "hanja": "慈堂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자중",
+    "translation": "өөрийгөө хүндлэх, өөрийгөө хязгаарлах",
+    "hanja": "自重",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "측각",
+    "translation": "өнцөг хэмжих",
+    "hanja": "測角",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자생력",
+    "translation": "өөрийгөө тэтгэх чадвар",
+    "hanja": "自生力",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자급",
+    "translation": "өөрийгөө тэтгэх",
+    "hanja": "自給",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자평",
+    "translation": "өөрийгөө үнэлэх",
+    "hanja": "自評",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발길질하다",
+    "translation": "өшиглөх",
+    "hanja": "발길질하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "노인장",
+    "translation": "өндөр настан (хүндэтгэсэн хэлбэр)",
+    "hanja": "老人丈",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "독특",
+    "translation": "Өвөрмөц, онцгой, дахин давтагдашгүй",
+    "hanja": "獨特",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "병중",
+    "translation": "Өвчтэй байгаа үед",
+    "hanja": "病中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승화되다",
+    "translation": "Өндөрлөх, дээшлэх, сублимация болох",
+    "hanja": "昇華되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "두덩",
+    "translation": "Өнжье, толгод",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "겨울나무",
+    "translation": "өвлийн мод",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대실",
+    "translation": "өрөө түрээслэх",
+    "hanja": "貸室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "복수심",
+    "translation": "өшөө авах сэтгэл",
+    "hanja": "復讐心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비곗덩어리",
+    "translation": "Өөхлөг хэсэг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시무",
+    "translation": "өнөөгийн ажил, бизнес",
+    "hanja": "時務",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "둔부",
+    "translation": "өнчин эгэм",
+    "hanja": "臀部",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "방에",
+    "translation": "өрөөнд",
+    "hanja": "房에",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "일용품",
+    "translation": "өдөр тутмын хэрэглээний бараа",
+    "hanja": "日用品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "에구구",
+    "translation": "өөх",
+    "hanja": "에구구",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "걸죽하다",
+    "translation": "өтгөн, шингэн биш",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내노",
+    "translation": "өг, үзүүл",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "앞서가다",
+    "translation": "өмнө нь явах, түрүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "역참",
+    "translation": "өртөө",
+    "hanja": "驛站",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원념",
+    "translation": "өшөө хорсол",
+    "hanja": "怨念",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "고변하다",
+    "translation": "өгүүлэх, мэдээлэх",
+    "hanja": "告變하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "고기능",
+    "translation": "өндөр хүчин чадалтай",
+    "hanja": "高機能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상속권",
+    "translation": "өвлөх эрх",
+    "hanja": "相續權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보잘것없이",
+    "translation": "өчүүхэн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "굴종하다",
+    "translation": "өгүүлэх",
+    "hanja": "屈從하다",
+    "pos": "т.ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "병사하다",
+    "translation": "өвчнөөр нас барах",
+    "hanja": "病死하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유채색",
+    "translation": "өнгийн өнгө",
+    "hanja": "有彩色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "굶주림",
+    "translation": "өлсгөлөн",
+    "hanja": "굶주림",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "각축",
+    "translation": "өрсөлдөөн",
+    "hanja": "角逐",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "일력",
+    "translation": "өдрийн хуанли",
+    "hanja": "日曆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자가당착",
+    "translation": "өөрийгөө үгүйсгэх",
+    "hanja": "自家撞着",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자중지란",
+    "translation": "Өөрсдийн дундах үймээн",
+    "hanja": "自中之亂",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "공여",
+    "translation": "Өгөх, хандивлах",
+    "hanja": "供與",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "선공개되다",
+    "translation": "Өмнө нь нийтэд тавигдах",
+    "hanja": "先公開되다",
+    "pos": "동사 (Verb)",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴실",
+    "translation": "Өрөөнөөс гарах",
+    "hanja": "退室",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "이전",
+    "translation": "Өмнөх, шилжүүлэх",
+    "hanja": "以前 / 移轉",
+    "pos": "명사 (Noun) / 동사 (Verb)",
+    "cefr": "A2"
+  },
+  {
+    "word": "신열",
+    "translation": "өндөр халуун",
+    "hanja": "身熱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "노령층",
+    "translation": "өндөр настнуудын бүлэг",
+    "hanja": "老齡層",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방이",
+    "translation": "Өрөө",
+    "hanja": "房이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "지가이",
+    "translation": "өөрийнхөө байшин",
+    "hanja": "自家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바지통",
+    "translation": "өргөн өмд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "월동지",
+    "translation": "өвөлжих газар",
+    "hanja": "越冬地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망구",
+    "translation": "өмнөх үеийн зүйл",
+    "hanja": "罔久",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "남하",
+    "translation": "өмнө зүг рүү явах",
+    "hanja": "南下",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "색약",
+    "translation": "өнгөний сулрал",
+    "hanja": "色弱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "확충되다",
+    "translation": "өргөтгөгдөх",
+    "hanja": "擴充되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "높직하다",
+    "translation": "өндөрхөн",
+    "hanja": "높직하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "추키다",
+    "translation": "өргөх",
+    "hanja": "추키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "후한",
+    "translation": "өмнөд Хань",
+    "hanja": "後漢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "겨울맞이",
+    "translation": "өвөл угтах (баяр)",
+    "hanja": "겨울맞이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낮말",
+    "translation": "өдрийн үг, өдрийн яриа",
+    "hanja": "낮말",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서트다",
+    "translation": "өвдөг сөхрөх",
+    "hanja": "서트다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벽감",
+    "translation": "өрөөсөн талын хонхор",
+    "hanja": "壁龕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기출",
+    "translation": "өмнө нь гарсан",
+    "hanja": "旣出",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어헛",
+    "translation": "Өө",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동정적",
+    "translation": "өрөвдөмжтэй",
+    "hanja": "同情的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채화",
+    "translation": "өнгөт зураг, будагтай цэцэг",
+    "hanja": "彩畫",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "제구실",
+    "translation": "өөрийн үүрэг, өөрийн үүрэг гүйцэтгэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자주국방",
+    "translation": "өөрийгөө батлан хамгаалах",
+    "hanja": "自主國防",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "붕어하다",
+    "translation": "өнгөрөх, таалал болох",
+    "hanja": "崩御하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신장시키다",
+    "translation": "Өргөтгөх, тэлэх",
+    "hanja": "伸張시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "넙적하다",
+    "translation": "Өргөн хавтгай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "길르다",
+    "translation": "Өсгөх, хүмүүжүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "일퀘",
+    "translation": "Өдөр тутмын даалгавар (daily quest)",
+    "hanja": "日퀘",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조찬",
+    "translation": "өглөөний оройн зоог",
+    "hanja": "朝餐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뇌다",
+    "translation": "өдөөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "엉뜨",
+    "translation": "өгзөг халаагч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "일과표",
+    "translation": "өдрийн хуваарь",
+    "hanja": "日課表",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발병되다",
+    "translation": "өвчин үүсэх",
+    "hanja": "發病되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "일취월장",
+    "translation": "өдөр ирэх тусам сайжрах",
+    "hanja": "日就月將",
+    "pos": "n",
+    "cefr": "C2"
+  },
+  {
+    "word": "늦겨울",
+    "translation": "өвлийн сүүл",
+    "hanja": null,
+    "pos": "n",
+    "cefr": "A2"
+  },
+  {
+    "word": "읍참마속",
+    "translation": "өөрийн хайртай хүнийг хохироох",
+    "hanja": "泣斬馬謖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서묘",
+    "translation": "өрнөдийн сүм",
+    "hanja": "西廟",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "월동하다",
+    "translation": "өвөлжих",
+    "hanja": "越冬하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시추하다",
+    "translation": "өндөр өрөмдлөг хийх",
+    "hanja": "試錐하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "후히",
+    "translation": "өөрийгөө өргөмжлөх, магтах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경연하다",
+    "translation": "өрсөлдөх",
+    "hanja": "競演하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "미령하다",
+    "translation": "өчүүхэн",
+    "hanja": "微靈하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "높다랗다",
+    "translation": "өндөр",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "연마되다",
+    "translation": "өнгөлөх",
+    "hanja": "硏磨되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전인",
+    "translation": "өмнөх хүн",
+    "hanja": "前人",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시장기",
+    "translation": "өлсөх",
+    "hanja": "市場氣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비채",
+    "translation": "өрхийн өр",
+    "hanja": "負債",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "초식성",
+    "translation": "өвсөн тэжээлтэн",
+    "hanja": "草食性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광덕",
+    "translation": "өргөн буян",
+    "hanja": "廣德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시발",
+    "translation": "өгөөш, эхлэл",
+    "hanja": "始發",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기갈",
+    "translation": "өлсгөлөн, цангаа",
+    "hanja": "飢渴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동면하다",
+    "translation": "өвөлжих, ичээнд орох",
+    "hanja": "冬眠하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "새참",
+    "translation": "өдрийн хоолны завсарлага",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "남진",
+    "translation": "өмнө зүг рүү нүүдэл",
+    "hanja": "南進",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병고",
+    "translation": "өвчний зовлон",
+    "hanja": "病苦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질본",
+    "translation": "Өвчний хяналт, урьдчилан сэргийлэх төв (хуучин нэр)",
+    "hanja": "質本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다른",
+    "translation": "Өөр, бусад",
+    "hanja": "다른",
+    "pos": "관형사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고음질",
+    "translation": "өндөр чанартай дуу",
+    "hanja": "高音質",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자문자답",
+    "translation": "өөртөө асууж, өөрөө хариулах",
+    "hanja": "自問自答",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내레이터",
+    "translation": "өгүүлэгч, хөтлөгч",
+    "hanja": "내레이터",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하잖다",
+    "translation": "өмсөхгүй, өмсөхгүй байх",
+    "hanja": "하잖다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채화되다",
+    "translation": "өнгөөр чимэглэх",
+    "hanja": "彩畫되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배변하다",
+    "translation": "өтгөн гадагшлуулах",
+    "hanja": "排便하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저널링",
+    "translation": "өдрийн тэмдэглэл хөтлөх",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전유하다",
+    "translation": "Өмчлөх",
+    "hanja": "專有하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "봉납하다",
+    "translation": "Өргөх",
+    "hanja": "奉納하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "자술서",
+    "translation": "Өөрийн бичсэн гэрчилгээ",
+    "hanja": "自述書",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "제말",
+    "translation": "өөрийн үг",
+    "hanja": "題말",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "달걀흰자",
+    "translation": "өндөгний цагаан",
+    "hanja": "null",
+    "pos": "нэр үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "안타고니스트",
+    "translation": "өрсөлдөгч",
+    "hanja": "안타고니스트",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "양제",
+    "translation": "өмсөх эм, эмийг хэрэглэх",
+    "hanja": "兩劑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "택일",
+    "translation": "өдөр сонгох",
+    "hanja": "擇日",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상속법",
+    "translation": "өв залгамжлах эрхийн тухай хууль",
+    "hanja": "相續法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어화둥둥",
+    "translation": "өнгийг минь",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동정론",
+    "translation": "өрөвдөх үзэл",
+    "hanja": "同情論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고위도",
+    "translation": "өндөр өргөрөг",
+    "hanja": "高緯度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탈바꿈되다",
+    "translation": "өөрчлөгдөх, хувирах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공여하다",
+    "translation": "өгөх, нийлүүлэх",
+    "hanja": "供與하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "골골거리다",
+    "translation": "өвдөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "와신상담",
+    "translation": "өшөөгөө авахаар тэмүүлэх (가시 위에서 자고 쓰디쓴 쓸개를 맛본다는 뜻)",
+    "hanja": "臥薪嘗膽",
+    "pos": "숙어",
+    "cefr": "C2"
+  },
+  {
+    "word": "하우스키핑",
+    "translation": "өрөө цэвэрлэгээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기왕지사",
+    "translation": "өнгөрсөн хэрэг",
+    "hanja": "旣往之事",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보시하다",
+    "translation": "өглөг өгөх",
+    "hanja": "布施하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자기중심",
+    "translation": "өөрийгөө төвд тавих",
+    "hanja": "自己中心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신장되다",
+    "translation": "өргөжих, тэлэх, уртсах",
+    "hanja": "伸張되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친손자",
+    "translation": "өгөөмөр ач хүү",
+    "hanja": "親孫子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉헌",
+    "translation": "өргөх, зориулах",
+    "hanja": "奉獻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대독하다",
+    "translation": "өөр хүний өмнөөс унших",
+    "hanja": "代讀하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무병장수하다",
+    "translation": "өвчин зовлонгүй урт наслах",
+    "hanja": "無病長壽하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "아이고머니나",
+    "translation": "өөрөө! (гайхширсан)",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자청",
+    "translation": "өөрийгөө санал болгох",
+    "hanja": "自請",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고밀화되다",
+    "translation": "өндөр нягтралтай болох",
+    "hanja": "高密化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제것",
+    "translation": "өөрийнх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "무병",
+    "translation": "өвчин байхгүй",
+    "hanja": "無病",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "난황",
+    "translation": "өндөгний шар",
+    "hanja": "卵黃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고단백질",
+    "translation": "өндөр уураг",
+    "hanja": "高蛋白質",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무색무취",
+    "translation": "өнгөгүй үнэргүй",
+    "hanja": "無色無臭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배양되다",
+    "translation": "өсгөн хүмүүжүүлэх",
+    "hanja": "培養되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "아차하다",
+    "translation": "өө гуйя, уучлаарай",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "앞사람",
+    "translation": "Өмнөх хүн",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조식",
+    "translation": "Өглөөний цай",
+    "hanja": "朝食",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쾌척하다",
+    "translation": "өөрийгөө зориулах",
+    "hanja": "快擲하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "점지",
+    "translation": "өвлөх, сонгох",
+    "hanja": "點指",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장다리",
+    "translation": "өндөр хүн",
+    "hanja": "長다리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피니싱",
+    "translation": "Өнгөлгөө",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "입지다",
+    "translation": "Өмсгөх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "신장하다",
+    "translation": "Өргөжүүлэх",
+    "hanja": "伸張하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "에계",
+    "translation": "өхөөрдөм",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계조",
+    "translation": "өрөг",
+    "hanja": "階調",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카르페디엠",
+    "translation": "Өнөөдрөөс зуур",
+    "hanja": "Carpe Diem",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "연민하다",
+    "translation": "Өрөвдөх",
+    "hanja": "憐愍하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "알배다",
+    "translation": "өндгөлөх",
+    "hanja": "알배다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불원",
+    "translation": "өдгөөгөөс үл хол",
+    "hanja": "不遠",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바지저고리",
+    "translation": "өмдөн цамц",
+    "hanja": "바지저고리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "재량껏",
+    "translation": "өөрөө хүссэнээрээ",
+    "hanja": "裁量껏",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자현",
+    "translation": "өөрийгөө илэрхийлэх",
+    "hanja": "自現",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자경",
+    "translation": "өөрөө хамгаалах (Нийгэм)",
+    "hanja": "自警",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "병간호하다",
+    "translation": "өвчтөнийг асрах",
+    "hanja": "病看護하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주고",
+    "translation": "өгөөд",
+    "hanja": "주고",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "짤없다",
+    "translation": "өчүүхэн ч үгүй, ямар ч найдваргүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주경야독",
+    "translation": "өдөр ажиллаж, шөнө сурах",
+    "hanja": "晝耕夜讀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒷굽",
+    "translation": "өмсгий, өсгий",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꼴같잖다",
+    "translation": "өгөршгүй, ядаргаатай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주려하다",
+    "translation": "өлсөх, өлсгөлөн байх",
+    "hanja": "주려하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "엉밑살",
+    "translation": "өгзөгний доорх өөх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구황",
+    "translation": "өлсгөлөнгөөс аврах",
+    "hanja": "救荒",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "아침거리",
+    "translation": "өглөөний хоолны зүйлс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자족",
+    "translation": "Өөрөө хангагдсан",
+    "hanja": "自足",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "색유리",
+    "translation": "Өнгөт шил",
+    "hanja": "色琉璃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞상대",
+    "translation": "өрсөлдөгч",
+    "hanja": "對相對",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조변",
+    "translation": "өглөөний өөрчлөлт",
+    "hanja": "朝変",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "궁둥짝",
+    "translation": "өгзөг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승강",
+    "translation": "өргөх, буулгах",
+    "hanja": "昇降",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뜬공",
+    "translation": "өндөрт нисэх бөмбөг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "관용하다",
+    "translation": "Өршөөх, хүлцэнгүй байх",
+    "hanja": "寬容하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광대무변하다",
+    "translation": "өргөн уудам, хязгааргүй",
+    "hanja": "廣大無邊하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "건져먹다",
+    "translation": "өгөөж хүртэх",
+    "hanja": "건져먹다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금영",
+    "translation": "өмнөд хөрш, урд зүг",
+    "hanja": "錦營",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자존",
+    "translation": "өөрийгөө хүндлэх",
+    "hanja": "自尊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고평가되다",
+    "translation": "өндрөөр үнэлэгдэх",
+    "hanja": "高評價되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사우스캐롤라이나주",
+    "translation": "Өмнөд Каролина Муж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분신자살",
+    "translation": "өөрийгөө шатаах",
+    "hanja": "焚身自殺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "긍휼하다",
+    "translation": "өрөвдөх, нигүүлсэх",
+    "hanja": "矜恤하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "어럽쇼",
+    "translation": "Өө, ямар сонин юм бэ!",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서구화",
+    "translation": "Өрнөдөцүүлэх",
+    "hanja": "西歐化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고율",
+    "translation": "өндөр хувь хэмжээ",
+    "hanja": "高率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "데이라이트",
+    "translation": "Өдрийн гэрэл",
+    "hanja": null,
+    "pos": "Нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "내품",
+    "translation": "Өөрийн эд зүйл",
+    "hanja": "內品",
+    "pos": "Нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "하루걸러",
+    "translation": "өдөр алгасаж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "낙관론자",
+    "translation": "өөдрөг үзэлтэн",
+    "hanja": "樂觀論者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무릅",
+    "translation": "өвдөг",
+    "hanja": "무릅",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "아쭈",
+    "translation": "өө",
+    "hanja": "아쭈",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "졸",
+    "translation": "өөдгүй",
+    "hanja": "卒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "앞가림하다",
+    "translation": "өөрийгөө зохицуулах",
+    "hanja": "앞가림하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자문자답하다",
+    "translation": "өөртөө асууж, өөрөө хариулах",
+    "hanja": "自問自答하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대명천지",
+    "translation": "өдөр дундад",
+    "hanja": "大明天地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무색무취하다",
+    "translation": "Өнгөгүй, үнэргүй байх",
+    "hanja": "無色無臭하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "에그머니",
+    "translation": "Өө бурхан минь",
+    "hanja": "에그머니",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "컬러리스트",
+    "translation": "өнгөчин",
+    "hanja": "컬러리스트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시일야방성대곡",
+    "translation": "өдөр шөнөгүй уйлах",
+    "hanja": "是日也放聲大哭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전두",
+    "translation": "өмнөд",
+    "hanja": "前頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자성하다",
+    "translation": "Өөрийгөө шүүмжлэх",
+    "hanja": "自省하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "선동되다",
+    "translation": "өдөөн хатгагдах",
+    "hanja": "煽動되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "윤년",
+    "translation": "өндөр жил",
+    "hanja": "閏年",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "방금하다",
+    "translation": "өмнөхөн хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "킥하다",
+    "translation": "өшиглөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "문병객",
+    "translation": "өвчтөн эргэгч",
+    "hanja": "問病客",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자적",
+    "translation": "Өөртөө тохирсон (өөрөө тэнцэх)",
+    "hanja": "自適",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "알껍질",
+    "translation": "Өндөгний хальс",
+    "hanja": "알껍질",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "갈치다",
+    "translation": "өөрчлөх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "원가",
+    "translation": "өртөг",
+    "hanja": "原價",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자처",
+    "translation": "Өөрийгөө (...) гэж үзэх",
+    "hanja": "自處",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "곯리다",
+    "translation": "Өлсгөх, зовоох",
+    "hanja": "곯리다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수여자",
+    "translation": "өгөгч, шагнагч",
+    "hanja": "授與者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "백주",
+    "translation": "өдөр, өдрийн цагаар",
+    "hanja": "白晝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "에전",
+    "translation": "өмнө нь, урьд өмнө",
+    "hanja": "에前",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "측은히",
+    "translation": "өрөвдөнгүйгээр, харамсалтайгаар",
+    "hanja": "惻隱히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "큰할아버지",
+    "translation": "өвөөгийн ах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "풀포기",
+    "translation": "өвс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "겨울눈",
+    "translation": "өвлийн нахиа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고조부",
+    "translation": "өндөр өвөө",
+    "hanja": "高祖父",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변색하다",
+    "translation": "өнгө өөрчлөгдөх",
+    "hanja": "變色하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자강두천",
+    "translation": "Өөрийгөө хүчтэй гэж үнэлэн, өрсөлдөгчөө доромжлох",
+    "hanja": "自强두천",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "오금",
+    "translation": "өнчин хөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통바지",
+    "translation": "өргөн өмд",
+    "hanja": "통바지",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선취",
+    "translation": "өмнө нь авах, түрүүлэн авах",
+    "hanja": "先取",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전희",
+    "translation": "өмнөх тоглолт",
+    "hanja": "前戲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각축장",
+    "translation": "өрсөлдөх газар",
+    "hanja": "角逐場",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "방한화",
+    "translation": "өвлийн гутал",
+    "hanja": "防寒靴",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "술하다",
+    "translation": "өгүүлэх",
+    "hanja": "述하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "에그노그",
+    "translation": "өндөгтэй сүүний ундаа",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "색실",
+    "translation": "өнгөт утас",
+    "hanja": "色실",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가사다",
+    "translation": "өргөх",
+    "hanja": "가사다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "자용",
+    "translation": "Өөртөө хэрэглэх",
+    "hanja": "自用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "엘리베이션",
+    "translation": "өндөрлөг",
+    "hanja": null,
+    "pos": "NNG",
+    "cefr": "B2"
+  },
+  {
+    "word": "복하다",
+    "translation": "өөрийгөө баярлуулах",
+    "hanja": "復하다",
+    "pos": "VV",
+    "cefr": "C1"
+  },
+  {
+    "word": "술부",
+    "translation": "өгүүлэгдэхүүн",
+    "hanja": "述部",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴고하다",
+    "translation": "өгүүллийг засах",
+    "hanja": "推敲하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상월",
+    "translation": "өмнөх сар, он",
+    "hanja": "上月",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채주",
+    "translation": "өнгөт дарс",
+    "hanja": "彩酒",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "서양적",
+    "translation": "Өрнөдийн",
+    "hanja": "西洋的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "넙적",
+    "translation": "өргөн, тэгш",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "준령",
+    "translation": "өндөр уулс",
+    "hanja": "준령(峻嶺)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "초개",
+    "translation": "өвс",
+    "hanja": "초개(草芥)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이병하다",
+    "translation": "өвчлөх",
+    "hanja": "이병하다(罹病하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유복자",
+    "translation": "Өнчин, өнчин хүүхэд (эцэггүй)",
+    "hanja": "遺腹子",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "이염되다",
+    "translation": "өнгө хувирах, будагдах",
+    "hanja": "移染되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "변전",
+    "translation": "өөрчлөгдөх, хувирах",
+    "hanja": "變轉",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "슬하",
+    "translation": "өнширч, өнчирч (насанд хүрээгүй хүүхдийн хувьд)",
+    "hanja": "膝下",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남파",
+    "translation": "өмнөд",
+    "hanja": "南派",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "채색화",
+    "translation": "өнгөт зураг",
+    "hanja": "彩色畫",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "술어",
+    "translation": "өгүүлэгдэхүүн, өгүүлбэрийн тусгал",
+    "hanja": "述語",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "역지사지하다",
+    "translation": "өөр хүний оронд өөрийгөө тавьж үзэх",
+    "hanja": "易地思之하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "후리후리하다",
+    "translation": "өндөр туранхай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변한",
+    "translation": "өөрчлөгдсөн, хувирсан",
+    "hanja": "變寒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "압연",
+    "translation": "өнхрүүлэх",
+    "hanja": "壓延",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "박학다식",
+    "translation": "Өргөн мэдлэгтэй, олон юм мэддэг",
+    "hanja": "博學多識",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "남촌",
+    "translation": "Өмнөд тосгон",
+    "hanja": "南村",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자도",
+    "translation": "өөрөө хүргэх",
+    "hanja": "自圖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입어",
+    "translation": "Өмсөх, хувцаслах",
+    "hanja": "입어",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "전행",
+    "translation": "өмнөх үйлдэл",
+    "hanja": "前行",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "몸치장",
+    "translation": "өөрийгөө янзлах",
+    "hanja": "몸治粧",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제깟",
+    "translation": "Өөрийнх нь, хувийн",
+    "hanja": "null",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보링",
+    "translation": "Өрөмдөх, нүхлэх (boring)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고학",
+    "translation": "Өөрөө сурах, өөрийн хүчээр сурах",
+    "hanja": "苦學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "증조부모",
+    "translation": "Өвөг эцэг, эмэг эх",
+    "hanja": "曾祖父母",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개이",
+    "translation": "өөрчлөх",
+    "hanja": "改異",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맨날천날",
+    "translation": "өдөр болгон",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "골골하다",
+    "translation": "өвдөх, сул дорой байх",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내보다",
+    "translation": "өөрийгөө харах, өөрөөсөө илүү",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "도드다",
+    "translation": "өргөх, дээшлүүлэх",
+    "hanja": "돋우다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풀약",
+    "translation": "өрөм",
+    "hanja": "풀약",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방댕이",
+    "translation": "өгзөг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소유되다",
+    "translation": "Өмчлөгдөх",
+    "hanja": "所有되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고매",
+    "translation": "өндөр үнэтэй, ариун",
+    "hanja": "高邁",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "자재하다",
+    "translation": "өөрийгөө барих",
+    "hanja": "自制하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "택일하다",
+    "translation": "өдөр сонгох, нэгийг сонгох",
+    "hanja": "擇日하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주다",
+    "translation": "өгөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "자활",
+    "translation": "өөрөө өөрийгөө тэтгэх",
+    "hanja": "自活",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연로",
+    "translation": "өндөр настай",
+    "hanja": "年老",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "남영",
+    "translation": "өмнөд хуаран",
+    "hanja": "南營",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "할마씨",
+    "translation": "Өндөр настан эмэгтэй, эмээ",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분윳값",
+    "translation": "өрхийн зардал; хүүхдийн хоолны мөнгө",
+    "hanja": "粉乳값",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "데이케어",
+    "translation": "өдрийн асаргаа",
+    "hanja": "데이케어",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "굴러나다",
+    "translation": "өөрөө гарч ирэх, ил болох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": null
+  },
+  {
+    "word": "앞엣것",
+    "translation": "өмнөх зүйл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "모용",
+    "translation": "өдрийн цагаар ажиллах, цагийн ажил хийх",
+    "hanja": "募傭",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "자기모순",
+    "translation": "өөрийгөө үгүйсгэх",
+    "hanja": "自己矛盾",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자기기만",
+    "translation": "өөрийгөө хуурах",
+    "hanja": "自己欺瞞",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "익스포저",
+    "translation": "өртөлт, илэрц",
+    "hanja": "exposure",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "색이",
+    "translation": "өнгөний",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "A1"
+  },
+  {
+    "word": "자욱히",
+    "translation": "өтгөн, бүрхэг",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "개변",
+    "translation": "өөрчлөлт, шинэчлэл",
+    "hanja": "改變",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "안스럽다",
+    "translation": "өнгөцхөн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착용되다",
+    "translation": "Өмсөгдөх",
+    "hanja": "着用되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "광범하다",
+    "translation": "өргөн хүрээний",
+    "hanja": "廣汎하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "올르다",
+    "translation": "өсөх, нэмэгдэх",
+    "hanja": "올르다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "할아버이",
+    "translation": "өвөө",
+    "hanja": "할아버이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "초우",
+    "translation": "өрөм",
+    "hanja": "炒芋",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가시투성이",
+    "translation": "өгсөрхөг",
+    "hanja": "가시투성이",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "저릿저릿",
+    "translation": "өвдөх",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵은해",
+    "translation": "өнгөрсөн жил",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성장되다",
+    "translation": "өсөх",
+    "hanja": "成長되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "겨울새",
+    "translation": "өвлийн шувуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자에",
+    "translation": "өөрөө",
+    "hanja": "자에",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "즉다",
+    "translation": "өнгөрөх (хууч)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남벌",
+    "translation": "өнмөр зүг рүү цохилт хийх",
+    "hanja": "南伐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병아",
+    "translation": "өвчний зохиол",
+    "hanja": "病兒",
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "자한",
+    "translation": "өөрийгөө хязгаарлах",
+    "hanja": "自限",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병식",
+    "translation": "Өвчний шинж тэмдэг",
+    "hanja": "病識",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고산자",
+    "translation": "Өндөр уулын хүн",
+    "hanja": "高山者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "장년기",
+    "translation": "Өндөр настай үе",
+    "hanja": "壯年期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과거지사",
+    "translation": "өнгөрсөн хэрэг",
+    "hanja": "過去之事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병해",
+    "translation": "өвчин хортон шавьж",
+    "hanja": "病害",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배색되다",
+    "translation": "өнгө зохицох",
+    "hanja": "配色되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자기도취",
+    "translation": "өөрийгөө бишрэх",
+    "hanja": "自己陶醉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구데기",
+    "translation": "өт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방한모",
+    "translation": "өвлийн малгай",
+    "hanja": "防寒帽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "살신성인하다",
+    "translation": "өөрийгөө золиослох",
+    "hanja": "殺身成仁하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "색체",
+    "translation": "өнгөний сүүдэр",
+    "hanja": "色彩",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "양로",
+    "translation": "өндөр настай хүмүүсийг асран халамжлах",
+    "hanja": "養老",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서파",
+    "translation": "Өрнөдийн урсгал",
+    "hanja": "西派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "병구완",
+    "translation": "өвчтөнийг асрах",
+    "hanja": "病咎完",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "옭다",
+    "translation": "өргөх, буулгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자진",
+    "translation": "өөрийн дураар",
+    "hanja": "自進",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "센텐스",
+    "translation": "өгүүлбэр",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "완고",
+    "translation": "өрөвдөнгүй бус",
+    "hanja": "頑固",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "병이",
+    "translation": "өвчин",
+    "hanja": "病異",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고익",
+    "translation": "өндөр ашиг",
+    "hanja": "高益",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자기하다",
+    "translation": "өөрийгөө хянах",
+    "hanja": "自記하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과거현재인과경",
+    "translation": "Өнгөрсөн, одоогийн шалтгаан, үр дагаврын судар",
+    "hanja": "過去現在因果經",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전측",
+    "translation": "өмнөх тал",
+    "hanja": "前側",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "색판",
+    "translation": "Өнгийн тавцан, өнгийн хавтан",
+    "hanja": "色版",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "솟을대문",
+    "translation": "өндөр гол хаалга",
+    "hanja": "솟을大門",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "자각되다",
+    "translation": "өөрийгөө ухамсарлах",
+    "hanja": "自覺되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "매일반",
+    "translation": "өдөр бүр, тогтмол",
+    "hanja": "每日班",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "색계",
+    "translation": "өнгөний ертөнц",
+    "hanja": "色界",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "윤치",
+    "translation": "өөхний давхарга",
+    "hanja": "潤脂",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "병결",
+    "translation": "өвчний улмаас чөлөө авах",
+    "hanja": "病缺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌키",
+    "translation": "өндөр",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표훈",
+    "translation": "өгүүлэх",
+    "hanja": "表訓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옴마",
+    "translation": "өө бурхан минь",
+    "hanja": "옴마",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "니글니글",
+    "translation": "Өөхлөг, тослог (хоолны амт)",
+    "hanja": "니글니글",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "아따메",
+    "translation": "Өө (гайхлын дуу)",
+    "hanja": "아따메",
+    "pos": "Interjection",
+    "cefr": "A2"
+  },
+  {
+    "word": "하르",
+    "translation": "Өдөр (옛말 - хуучин үг)",
+    "hanja": "하르",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "먼저번",
+    "translation": "Өмнөх удаа",
+    "hanja": "먼저번",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "진접",
+    "translation": "Өөрөө шууд харилцах",
+    "hanja": "眞接",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "초적",
+    "translation": "Өвсөн лимбэ",
+    "hanja": "草笛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "걸때",
+    "translation": "өлгүүр",
+    "hanja": "걸때",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "남침하다",
+    "translation": "өмнө зүг рүү дайрах",
+    "hanja": "南侵하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "추존",
+    "translation": "Өргөмжлөх",
+    "hanja": "追尊",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동통",
+    "translation": "Өвчин, үрэвсэл",
+    "hanja": "疼痛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "궁딩이",
+    "translation": "өгзөг (энгийн яриа)",
+    "hanja": "궁딩이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자방",
+    "translation": "өндгөвч",
+    "hanja": "子房",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "우르릉대다",
+    "translation": "өржүүлэн дуугарах",
+    "hanja": "우르릉대다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비우",
+    "translation": "өвөл болсон ч бороо орох",
+    "hanja": "鼻雨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "글줄",
+    "translation": "Өгүүлбэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자찬하다",
+    "translation": "өөрийгөө магтах",
+    "hanja": "自讚하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "자충",
+    "translation": "өөрийгөө хорлох",
+    "hanja": "自充",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "격찬",
+    "translation": "Өндөр магтаал",
+    "hanja": "激讚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자비량",
+    "translation": "Өөрийн зардлаар",
+    "hanja": "自費糧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쪼꿈",
+    "translation": "өнцөг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "아이고머니",
+    "translation": "өө бурхан минь",
+    "hanja": "---",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자계",
+    "translation": "өөрийн дүү",
+    "hanja": "姉弟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비곗살",
+    "translation": "өрөм, өөх",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자명",
+    "translation": "өөртөө тодорхой",
+    "hanja": "自明",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배란되다",
+    "translation": "өндгөн эс боловсрох/ялгарах",
+    "hanja": "排卵되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고급하다",
+    "translation": "өндөр зэрэглэлийн",
+    "hanja": "高級하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고침",
+    "translation": "өндөр дэр",
+    "hanja": "高枕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어벤저",
+    "translation": "өрлөг",
+    "hanja": "어벤저",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전세입자",
+    "translation": "өмнөх түрээслэгч",
+    "hanja": "前貰入者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자화",
+    "translation": "өөрөө үзэсгэлэн үзүүлэх",
+    "hanja": "自畵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제멋",
+    "translation": "өөрөө",
+    "hanja": "제멋",
+    "pos": "대명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손옹",
+    "translation": "өнөөх өвгөн",
+    "hanja": "孫翁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동초",
+    "translation": "өвлийн өвс",
+    "hanja": "冬草",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차레",
+    "translation": "өөрийгөө шалгах",
+    "hanja": "次例",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "자망",
+    "translation": "өөрөө алга болох",
+    "hanja": "自亡",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "자치",
+    "translation": "өөрийгөө удирдах, өөртөө засах",
+    "hanja": "自治",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "사정없다",
+    "translation": "өршөөлгүй",
+    "hanja": "事情없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전립",
+    "translation": "өмнө нь зогсох",
+    "hanja": "前立",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낮도깨비",
+    "translation": "өдрийн сүнс, сүүдэр",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변화율",
+    "translation": "өөрчлөлтийн хурд",
+    "hanja": "變化率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고양하다",
+    "translation": "өргөмжлөх, дээшлүүлэх",
+    "hanja": "高揚하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자급하다",
+    "translation": "өөрийгөө хангах",
+    "hanja": "自給하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼴값하다",
+    "translation": "Өөрийгөө хуурах, худал дүр эсгэх (сөрөг утгатай)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변모되다",
+    "translation": "Өөрчлөгдөх, хувирах",
+    "hanja": "變貌되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고음하다",
+    "translation": "өндөр дуугаар дуулах",
+    "hanja": "高音하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "주리다",
+    "translation": "өлсөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고평가하다",
+    "translation": "өндрөөр үнэлэх, хэт үнэлэх",
+    "hanja": "高評價하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행그리",
+    "translation": "өлссөн, өлөн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "걸개",
+    "translation": "өлгүүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선세",
+    "translation": "өмнөх үе",
+    "hanja": "先世",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입권",
+    "translation": "өргөдөг эрх",
+    "hanja": "入卷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "초옥",
+    "translation": "өвсөн дээвэртэй байшин",
+    "hanja": "草屋",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "병심",
+    "translation": "өвчний шинж тэмдэг",
+    "hanja": "病心",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "환후",
+    "translation": "өвчин байдал",
+    "hanja": "患候",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "노망들다",
+    "translation": "өгүүдэх, хөгшрөх",
+    "hanja": "老妄들다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각이",
+    "translation": "өнцөгтэй",
+    "hanja": "角이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "손수",
+    "translation": "өөрийн гараар",
+    "hanja": "손수",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "표고",
+    "translation": "өндөрлөг",
+    "hanja": "標高",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부전승하다",
+    "translation": "Өрсөлдөгчгүйгээр хожих",
+    "hanja": "不戰勝하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "예초",
+    "translation": "өвс хадах",
+    "hanja": "刈草",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "넘어다보다",
+    "translation": "өнгөрөөд харах, үл тоомсорлох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고감도",
+    "translation": "өндөр мэдрэмжтэй",
+    "hanja": "高感度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유병",
+    "translation": "өвчтэй байх",
+    "hanja": "有病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어등산",
+    "translation": "Өдунгсан уул",
+    "hanja": "魚登山",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조봉",
+    "translation": "өглөөний уулзалт",
+    "hanja": "朝奉",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "무지다",
+    "translation": "өргөн",
+    "hanja": null,
+    "pos": "Adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "자습서",
+    "translation": "өөрөө сурах бичиг",
+    "hanja": "自習書",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풀맛",
+    "translation": "өвсний амт",
+    "hanja": "풀맛",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

@@ -1,0 +1,2235 @@
+[
+  {
+    "word": "프랑스",
+    "translation": "Франц",
+    "hanja": "France",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "티셔츠",
+    "translation": "футболк",
+    "hanja": "티셔츠",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "파일",
+    "translation": "Файл",
+    "hanja": "파일",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "농장",
+    "translation": "ферм",
+    "hanja": "農場",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "철학",
+    "translation": "философи",
+    "hanja": "哲學",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "필리핀",
+    "translation": "Филиппин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "판타지",
+    "translation": "фантази",
+    "hanja": "fantasy",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "헬스장",
+    "translation": "Фитнесс төв",
+    "hanja": "헬스場",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "프랜차이즈",
+    "translation": "франчайз",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물리적",
+    "translation": "физикийн",
+    "hanja": "物理的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페스티벌",
+    "translation": "фестиваль",
+    "hanja": "festival",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "결승전",
+    "translation": "финалын тоглолт",
+    "hanja": "決勝戰",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프리가",
+    "translation": "Фрига (Скандинавын бурхан)",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "피트",
+    "translation": "фут (хэмжээний нэгж)",
+    "hanja": "피트",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "후쿠시마",
+    "translation": "Фукушима (Японы хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파밍",
+    "translation": "фарминг",
+    "hanja": "pharming",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "함대",
+    "translation": "флот",
+    "hanja": "艦隊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "핀란드",
+    "translation": "Финланд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "함수",
+    "translation": "функц",
+    "hanja": "函數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프랑스어",
+    "translation": "франц хэл",
+    "hanja": "法國語",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물리",
+    "translation": "физик",
+    "hanja": "物理",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "덕후",
+    "translation": "фанат, шүтэн бишрэгч",
+    "hanja": "德厚",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "효소",
+    "translation": "фермент",
+    "hanja": "酵素",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "팬덤",
+    "translation": "фенүүд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "후쿠오카",
+    "translation": "Фукуока (хот)",
+    "hanja": "福岡",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기능성",
+    "translation": "функциональ байдал",
+    "hanja": "機能性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물리학",
+    "translation": "физик",
+    "hanja": "物理學",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팩스",
+    "translation": "Факс",
+    "hanja": "fax",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "철학적",
+    "translation": "философийн",
+    "hanja": "哲學的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형광등",
+    "translation": "флюресцент гэрэл",
+    "hanja": "螢光燈",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "화보",
+    "translation": "фото зурагт үзүүлэн",
+    "hanja": "畫報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맨투맨",
+    "translation": "Футболк (hoodie-гүй төрөл)",
+    "hanja": "Man to man",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가맹점",
+    "translation": "франчайзын дэлгүүр",
+    "hanja": "加盟店",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물리학자",
+    "translation": "физикч",
+    "hanja": "物理學者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포토샵",
+    "translation": "Фотошоп",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페라리",
+    "translation": "Феррари",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "포맷",
+    "translation": "формат",
+    "hanja": "format",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "필리버스터",
+    "translation": "Филибастер (хууль батлахад саад хийх)",
+    "hanja": "필리버스터",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포브스",
+    "translation": "Форбс",
+    "hanja": "포브스",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "피싱",
+    "translation": "фишинг",
+    "hanja": "phishing",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "피닉스",
+    "translation": "Феникс",
+    "hanja": "Phoenix",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "피비",
+    "translation": "Фиби",
+    "hanja": "피비",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "밴",
+    "translation": "фургон, микроавтобус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "피트니스",
+    "translation": "Фитнесс",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바리새인",
+    "translation": "фарисайчууд",
+    "hanja": "바리새人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "블레셋",
+    "translation": "филистчүүд",
+    "hanja": "블레셋",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송어",
+    "translation": "форель",
+    "hanja": "松魚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페로몬",
+    "translation": "феромон",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭스",
+    "translation": "Фокс",
+    "hanja": null,
+    "pos": "нэр",
+    "cefr": "C2"
+  },
+  {
+    "word": "피파",
+    "translation": "ФИФА",
+    "hanja": "FIFA",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "린",
+    "translation": "Фосфор",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "필라델피아",
+    "translation": "Филадельфиа",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계파",
+    "translation": "фракц, бүлэг",
+    "hanja": "系派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최전방",
+    "translation": "Фронтын хамгийн урд тал",
+    "hanja": "最前方",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팩션",
+    "translation": "факшн",
+    "hanja": "팩션",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형광",
+    "translation": "Флюресцент",
+    "hanja": "螢光",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피닉",
+    "translation": "Феникс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "피렌체",
+    "translation": "Флоренц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광합성",
+    "translation": "фотосинтез",
+    "hanja": "光合成",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "프랭클린",
+    "translation": "Франклин",
+    "hanja": "Franklin",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "결선",
+    "translation": "финал, шигшээ уралдаан",
+    "hanja": "決勝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플루트",
+    "translation": "флейт",
+    "hanja": "flute",
+    "pos": "м",
+    "cefr": "A2"
+  },
+  {
+    "word": "퍼거슨",
+    "translation": "Фергюсон",
+    "hanja": "Ferguson",
+    "pos": "м",
+    "cefr": "B1"
+  },
+  {
+    "word": "프랑크푸르트",
+    "translation": "Франкфурт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불사조",
+    "translation": "Феникс",
+    "hanja": "不死鳥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헬스클럽",
+    "translation": "Фитнесс клуб",
+    "hanja": "Health Club",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "형석",
+    "translation": "флюорит",
+    "hanja": "螢石",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "푸아그라",
+    "translation": "фуа-гра",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파벌",
+    "translation": "фракц, бүлэглэл",
+    "hanja": "派閥",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "파라오",
+    "translation": "фараон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프랑켄슈타인",
+    "translation": "Франкенштейн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "복희",
+    "translation": "Фу Си (хятадын домогт хаан)",
+    "hanja": "伏羲",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "플로리다주",
+    "translation": "Флорида муж",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "팬싸",
+    "translation": "Фен уулзалт (тоглоомын хэллэг)",
+    "hanja": "팬싸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "펜타닐",
+    "translation": "фентанил",
+    "hanja": "펜타닐",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페미니즘",
+    "translation": "феминизм",
+    "hanja": "페미니즘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프로이트",
+    "translation": "Фройд",
+    "hanja": "프로이트",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "프란츠",
+    "translation": "Франц (인명)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "푸꾸옥",
+    "translation": "Фукуок (지명)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "성덕",
+    "translation": "фанат",
+    "hanja": "成德",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파우스트",
+    "translation": "Фауст",
+    "hanja": "Faust",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광자",
+    "translation": "фотон",
+    "hanja": "光子",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "농장주",
+    "translation": "фермер",
+    "hanja": "農場主",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤이즐넛",
+    "translation": "фундук",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플라밍고",
+    "translation": "фламинго",
+    "hanja": "flamingo",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프리지아",
+    "translation": "фризиа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플리커",
+    "translation": "фликкер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필립스",
+    "translation": "Филипс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "입덕하다",
+    "translation": "Фэн болох, дурлах (ихэвчлэн хобби, алдартнуудад)",
+    "hanja": "入덕하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "флашбэк",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B2",
+    "word": "플래시백"
+  },
+  {
+    "word": "포트리스",
+    "translation": "фотресс",
+    "hanja": "포트리스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "프랑",
+    "translation": "франк (мөнгөн тэмдэгт)",
+    "hanja": "프랑",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "포핸드",
+    "translation": "форхенд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풋살",
+    "translation": "футзал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "합판",
+    "translation": "фанер",
+    "hanja": "合板",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "플리스",
+    "translation": "флис",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "생리적",
+    "translation": "физиологийн",
+    "hanja": "生理的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "피톤치드",
+    "translation": "фитонцид",
+    "hanja": "피톤치드",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "푸푸",
+    "translation": "Фуфу (Хоол)",
+    "hanja": "푸푸",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "프랑크",
+    "translation": "Франк",
+    "hanja": "프랑크",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페미니스트",
+    "translation": "Феминист",
+    "hanja": "페미니스트",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퐁듀",
+    "translation": "фондю",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "펑션",
+    "translation": "функц",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파브르",
+    "translation": "Фабр",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포워드",
+    "translation": "форвард, урагш",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포르테",
+    "translation": "форте (хөгжмийн нэр томъёо)",
+    "hanja": "forte",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프랑수아",
+    "translation": "Франсуа",
+    "hanja": "François",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페도라",
+    "translation": "федора малгай",
+    "hanja": "Fedora",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필아",
+    "translation": "фильтр",
+    "hanja": "Filter",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "플라멩코",
+    "translation": "фламенко",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "불어",
+    "translation": "франц хэл",
+    "hanja": "佛語",
+    "pos": "명사 (Noun)",
+    "cefr": "A1"
+  },
+  {
+    "word": "프란체스코",
+    "translation": "Франческо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프로스트",
+    "translation": "Фрост",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플로라",
+    "translation": "флора",
+    "hanja": "Flora",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "프렌치토스트",
+    "translation": "франц тост",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플린트",
+    "translation": "флинт",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "필하모닉",
+    "translation": "филармони",
+    "hanja": "No Hanja",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축음기",
+    "translation": "фонограф, дуу хураагч",
+    "hanja": "蓄音機",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프란시스코",
+    "translation": "Франциско",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분파",
+    "translation": "фракц",
+    "hanja": "分派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팬레터",
+    "translation": "фан захидал",
+    "hanja": "null",
+    "pos": "мөн",
+    "cefr": "A2"
+  },
+  {
+    "word": "핀테크",
+    "translation": "финтэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플러쉬",
+    "translation": "Флаш (покерын хөзрийн хослол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포미",
+    "translation": "Фори (Вьетнамын гоймонтой шөл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "인회",
+    "translation": "фосфор",
+    "hanja": "燐灰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프레이저",
+    "translation": "Фрейзер",
+    "hanja": "Fraser",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프로타주",
+    "translation": "фритаж",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍수지리",
+    "translation": "фэн шуй",
+    "hanja": "風水地理",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패미",
+    "translation": "Феминист",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농원",
+    "translation": "ферм",
+    "hanja": "農園",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프리드리히",
+    "translation": "Фридрих",
+    "hanja": "Friedrich",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "필레몬",
+    "translation": "Филемон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "식염수",
+    "translation": "физиологийн уусмал, шорвог ус",
+    "hanja": "食鹽水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "도일",
+    "translation": "Финикс, Японд очих",
+    "hanja": "渡日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "후리스",
+    "translation": "флис",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플로피",
+    "translation": "флоппи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필즈상",
+    "translation": "Филдсийн медаль",
+    "hanja": "필즈賞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화씨",
+    "translation": "Фаренгейт",
+    "hanja": "華氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퐁텐블로",
+    "translation": "Фонтенбло",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "프랑코",
+    "translation": "Франко",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파시즘",
+    "translation": "фашизм",
+    "hanja": "파시즘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전축",
+    "translation": "фонограф",
+    "hanja": "電蓄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "핀트",
+    "translation": "фокус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "펜리르",
+    "translation": "Фенрир",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포름알데히드",
+    "translation": "Формальдегид",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플러시",
+    "translation": "Флаш (бүх карт ижил төрлийн)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빌립",
+    "translation": "Филипп",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포르말린",
+    "translation": "формалин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페레",
+    "translation": "ферре",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "프리깃",
+    "translation": "фрегат",
+    "hanja": "null",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "파시스트",
+    "translation": "фашист",
+    "hanja": "null",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "프란체스카",
+    "translation": "Франческа",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "불소",
+    "translation": "фтор",
+    "hanja": "弗素",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "푸코",
+    "translation": "Фуко",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "프탈레이트",
+    "translation": "фталат",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "패러데이",
+    "translation": "Фарадей",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플로렌스",
+    "translation": "Флоренс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉천",
+    "translation": "Фэнгтиен (хуучин Шенянг хотын нэр)",
+    "hanja": "奉天",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플레처",
+    "translation": "Флетчер (нэр)",
+    "hanja": "Fletcher",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포럼",
+    "translation": "форум",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "핀리",
+    "translation": "Финли",
+    "hanja": "핀리",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "펑키",
+    "translation": "франк",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "엽산",
+    "translation": "фолийн хүчил",
+    "hanja": "葉酸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필레",
+    "translation": "филе",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프라페",
+    "translation": "фраппе",
+    "hanja": "frappé",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "피츠제럴드",
+    "translation": "Фицджеральд",
+    "hanja": "피츠제럴드",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "팬픽",
+    "translation": "фанфик",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플란넬",
+    "translation": "фланель",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플레밍",
+    "translation": "Флеминг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "필리프",
+    "translation": "Филипп",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "포샵",
+    "translation": "Фотошоп (зураг засварлах программ)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "농어민",
+    "translation": "фермер, загасчин",
+    "hanja": "農漁民",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파판",
+    "translation": "Фапан (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페르마",
+    "translation": "Ферма",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "포크스",
+    "translation": "Фокс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빌립보",
+    "translation": "Филипп",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "불문",
+    "translation": "Франц хэл",
+    "hanja": "불문(佛文)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파노",
+    "translation": "фано",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포보스",
+    "translation": "Фобос (гаргийн дагуул)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포비아",
+    "translation": "фобиа, айдас",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "페데리코",
+    "translation": "Федерико",
+    "hanja": "페데리코",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불란서",
+    "translation": "Франц (хуучирсан)",
+    "hanja": "佛蘭西",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포카치아",
+    "translation": "фокациа",
+    "hanja": "focaccia",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팡파르",
+    "translation": "фанфар",
+    "hanja": "fanfare",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "피셔",
+    "translation": "Фишер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페스",
+    "translation": "фесс",
+    "hanja": "페스",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "후키",
+    "translation": "фуки",
+    "hanja": "후키",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포토레지스트",
+    "translation": "фоторезист",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프레스코",
+    "translation": "Фреско (зураг)",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "페티시",
+    "translation": "фетиш",
+    "hanja": "페티시",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "퓽",
+    "translation": "Фунг",
+    "hanja": "",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페니키아",
+    "translation": "Финик",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉토",
+    "translation": "феодал газар",
+    "hanja": "封土",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프랙탈",
+    "translation": "фрактал",
+    "hanja": "프랙탈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페이슨",
+    "translation": "Фэйсон (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플뢰레",
+    "translation": "флёр (туялзуур сэлэмний нэг төрөл)",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "팩시밀리",
+    "translation": "Факс",
+    "hanja": "팩시밀리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페스티발",
+    "translation": "фестивал",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "파티마",
+    "translation": "Фатима (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "붕당",
+    "translation": "фракц, бүлэглэл",
+    "hanja": "朋黨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "장석",
+    "translation": "фиелдспар (эрдэс)",
+    "hanja": "長石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프록",
+    "translation": "фраг, нөмрөг",
+    "hanja": "frock",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음소",
+    "translation": "фонем",
+    "hanja": "音素",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박공",
+    "translation": "фронтон",
+    "hanja": "牔栱",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무순",
+    "translation": "Фушунь",
+    "hanja": "撫順",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "피오르",
+    "translation": "фьорд",
+    "hanja": "피오르",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "프리먼",
+    "translation": "Фриман",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "덕통사고",
+    "translation": "Фен болох (гүйлгэнэ)",
+    "hanja": "덕통사고",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프랙털",
+    "translation": "фрактал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포크너",
+    "translation": "Фолкнер",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광신적",
+    "translation": "фанатик",
+    "hanja": "狂信的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "프리고",
+    "translation": "фриго (хүнсний хөргүүр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "푸젠",
+    "translation": "Фужиан",
+    "hanja": "福建",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페르미",
+    "translation": "Ферми",
+    "hanja": "페르미",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "철학가",
+    "translation": "философч",
+    "hanja": "哲學家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광신자",
+    "translation": "фанатик",
+    "hanja": "狂信者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "푸실리",
+    "translation": "фузилли (гоймон)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포노",
+    "translation": "фоно",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페미",
+    "translation": "феминист",
+    "hanja": "femme",
+    "pos": "м.н./т.ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "펜터민",
+    "translation": "Фентермин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포레",
+    "translation": "Форе",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "복씨",
+    "translation": "фуси",
+    "hanja": "伏羲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "펜더",
+    "translation": "фендер",
+    "hanja": "펜더",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페잔",
+    "translation": "Фезан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폼알데하이드",
+    "translation": "формальдегид",
+    "hanja": "폼알데하이드",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "프렛",
+    "translation": "фрет (хөгжмийн зэмсэг)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "봉건적",
+    "translation": "феодалын, феодализмын",
+    "hanja": "封建的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "피프로닐",
+    "translation": "фипронил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페라가모",
+    "translation": "Феррагамо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프리스비",
+    "translation": "Фрисби",
+    "hanja": "frisbee",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "프레온",
+    "translation": "фреон",
+    "hanja": "프레온",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플랑드르",
+    "translation": "Фландерс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "법국",
+    "translation": "Франц (эртний нэр)",
+    "hanja": "法國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플럭스",
+    "translation": "флюс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "푸저우",
+    "translation": "Фүжоу",
+    "hanja": "福州",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페이드아웃",
+    "translation": "феед-аут (дуу намдах)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍수지리설",
+    "translation": "фэн шуй (газарзүйн онол)",
+    "hanja": "風水地理說",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바순",
+    "translation": "фагот",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포트워스",
+    "translation": "Форт-Уэрт (хотын нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "팡트",
+    "translation": "фант",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "팩토리얼",
+    "translation": "Факториал",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "N/A"
+  },
+  {
+    "word": "후지사키",
+    "translation": "Фүжисаки",
+    "hanja": "N/A",
+    "pos": "고유명사",
+    "cefr": "N/A"
+  },
+  {
+    "word": "프런티어",
+    "translation": "фронтиер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플라보노이드",
+    "translation": "флавоноид",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프리지어",
+    "translation": "фрезия",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "페놀",
+    "translation": "фенол",
+    "hanja": "페놀",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "플레이밍",
+    "translation": "флейминг (Урлаг)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파로",
+    "translation": "фаро",
+    "hanja": "파로",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔라펠",
+    "translation": "фалафел (хоол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파인먼",
+    "translation": "Фейнман",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파당",
+    "translation": "фракц",
+    "hanja": "派黨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "싸인펜",
+    "translation": "фломастер",
+    "hanja": "sign pen",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "프라이부르크",
+    "translation": "Фрайбург",
+    "hanja": "NaN",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페어뱅크스",
+    "translation": "Фэрбенкс (хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "피버노바",
+    "translation": "фивер нова",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "페치",
+    "translation": "феи (нэр)",
+    "hanja": "페치",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팹리스",
+    "translation": "фабгүй (үйлдвэрлэлгүйгээр чип дизайн хийдэг компани)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프랑케",
+    "translation": "Франке",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "후쿠이",
+    "translation": "Фукуи (Японы хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플로베르",
+    "translation": "Флобер (Оросын зохиолч)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페즈",
+    "translation": "Фес малгай",
+    "hanja": "페즈",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "필하모니",
+    "translation": "Филармони",
+    "hanja": "필하모니",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "격물",
+    "translation": "Физикийн ухаан судлах",
+    "hanja": "格物",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "판당고",
+    "translation": "Фанданго",
+    "hanja": "판당고",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "필머",
+    "translation": "фэл",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "페티",
+    "translation": "феттиш",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "프리터",
+    "translation": "фриттер (хоол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "풀브라이트",
+    "translation": "Фүлбрайт",
+    "hanja": "풀브라이트",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포섬",
+    "translation": "форсом",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플랜더스",
+    "translation": "Фланери (уран бүтээлч)",
+    "hanja": "플랜더스",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "파히타",
+    "translation": "фахита",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "악개",
+    "translation": "фандомд муу хүн",
+    "hanja": "惡개",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화일",
+    "translation": "файл",
+    "hanja": "파일",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "재불",
+    "translation": "Францад амьдрах",
+    "hanja": "在佛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페르디난트",
+    "translation": "Фердинанд (хүний нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프리기아",
+    "translation": "Фригиа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "푸가",
+    "translation": "фуга",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "피보나치",
+    "translation": "Фибоначчи",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "환상곡",
+    "translation": "фантази",
+    "hanja": "幻想曲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폰타나",
+    "translation": "Фонтана (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "피스크",
+    "translation": "Фиск",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포토리얼리즘",
+    "translation": "фото реализм",
+    "hanja": "포토리얼리즘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "피나스테리드",
+    "translation": "Финастерид (эм)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페투치니",
+    "translation": "Феттучини (хоол)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "긴수염고래",
+    "translation": "фин халим",
+    "hanja": "긴수염고래",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인산",
+    "translation": "фосфорын хүчил",
+    "hanja": "燐酸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파쇼",
+    "translation": "Фашизм",
+    "hanja": "파쇼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페라이트",
+    "translation": "феррит",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필렛",
+    "translation": "филе",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "플래퍼",
+    "translation": "Флаппер",
+    "hanja": "플래퍼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기함",
+    "translation": "флагман хөлөг онгоц",
+    "hanja": "旗艦",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "설로인",
+    "translation": "филе",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파비",
+    "translation": "Фаби",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "패블릿",
+    "translation": "фаблет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파탈",
+    "translation": "фаталь",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프라운호퍼",
+    "translation": "Фраунхофер",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "테미스",
+    "translation": "Фемис",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광수용체",
+    "translation": "фоторецептор",
+    "hanja": "光受容器",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프리메이슨",
+    "translation": "фриймейсон",
+    "hanja": "프리메이슨",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "프리타타",
+    "translation": "фритата (хоол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프뢰벨",
+    "translation": "Фрёбель",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "패럿",
+    "translation": "Феррет (амьтан)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플러싱",
+    "translation": "флашинг (угаах)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포토시",
+    "translation": "Фотош",
+    "hanja": "포토시",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "필딩",
+    "translation": "Филдинг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플로킹",
+    "translation": "Флок, хөвсгөр бүрээс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포린트",
+    "translation": "форинт (Унгарын мөнгөн тэмдэгт)",
+    "hanja": "포린트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파이어와이어",
+    "translation": "файрвайр",
+    "hanja": "FireWire",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포스핀",
+    "translation": "фосфин",
+    "hanja": "Phosphine",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파로스",
+    "translation": "Фарос",
+    "hanja": "Pharos",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페놀프탈레인",
+    "translation": "фенолфталеин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파딩",
+    "translation": "фарт",
+    "hanja": "farthing",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페오멜라닌",
+    "translation": "Феомеланин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페티시즘",
+    "translation": "фетишизм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플라멩고",
+    "translation": "Фламенко",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프리타",
+    "translation": "Фритта (гадаад нэр)",
+    "hanja": "프리타",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프리트",
+    "translation": "фрит",
+    "hanja": "프리트",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "퐁텐",
+    "translation": "фонтен",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페브르",
+    "translation": "Февр",
+    "hanja": "페브르",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

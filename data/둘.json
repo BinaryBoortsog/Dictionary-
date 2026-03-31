@@ -1,0 +1,121 @@
+[
+  {
+    "word": "둘",
+    "translation": "хоёр",
+    "hanja": "",
+    "pos": "수사",
+    "cefr": "A1"
+  },
+  {
+    "word": "둘둘",
+    "translation": "хоёр хоёроор",
+    "hanja": "둘둘",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "둘라",
+    "translation": "дула",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "둘러매다",
+    "translation": "тойруулан үүрэх",
+    "hanja": "둘러매다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "둘러메다",
+    "translation": "тойруулан үүрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "둘러싸다",
+    "translation": "тойруулах, хүрээлэх",
+    "hanja": "둘러싸다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "둘러싸이다",
+    "translation": "Хүрээлэгдэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "둘러쌓다",
+    "translation": "хүрээлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "둘러쓰다",
+    "translation": "бүрхэх, ороох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "둘러앉다",
+    "translation": "тойрон суух",
+    "hanja": "둘러앉다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "둘러업다",
+    "translation": "нуруун дээр үүрэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "둘러치다",
+    "translation": "тойруулан цохих, хуураг",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "둘레",
+    "translation": "Эргэн тойрон, хүрээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "둘레둘레",
+    "translation": "тойрон тойрон",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "둘리다",
+    "translation": "тойруулах, эргүүлэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "둘리틀",
+    "translation": "Дулиттл",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "둘째가다",
+    "translation": "Дараа орох, хоёрт орох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

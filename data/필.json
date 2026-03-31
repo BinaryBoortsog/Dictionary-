@@ -1,0 +1,625 @@
+[
+  {
+    "word": "필",
+    "translation": "үнэр",
+    "hanja": "筆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필경",
+    "translation": "эцэст нь",
+    "hanja": "畢竟",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필기",
+    "translation": "Тэмдэглэл, бичсэн зүйл",
+    "hanja": "筆記",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필기구",
+    "translation": "бичгийн хэрэгсэл",
+    "hanja": "筆記具",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "필기도구",
+    "translation": "бичгийн хэрэгсэл",
+    "hanja": "筆記用具",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "필기시험",
+    "translation": "бичгийн шалгалт",
+    "hanja": "筆記試驗",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "필기체",
+    "translation": "бичгийн хэв",
+    "hanja": "筆記體",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필기하다",
+    "translation": "тэмдэглэж авах",
+    "hanja": "筆記하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "필담",
+    "translation": "бичгийн харилцаа",
+    "hanja": "筆談",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필독",
+    "translation": "заавал унших",
+    "hanja": "必讀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필독서",
+    "translation": "заавал унших ном",
+    "hanja": "必讀書",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "필동",
+    "translation": "Үзгэн сав",
+    "hanja": "筆筒",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "필두",
+    "translation": "тэргүүлэх",
+    "hanja": "筆頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필드",
+    "translation": "талбай, талбар, хээрийн",
+    "hanja": "필드",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필드하키",
+    "translation": "талбайн хоккей",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필딩",
+    "translation": "Филдинг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "필라델피아",
+    "translation": "Филадельфиа",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필라멘트",
+    "translation": "утас (гэрлийн чийдэнгийн)",
+    "hanja": "필라멘트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필라테스",
+    "translation": "пилатес",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "필라프",
+    "translation": "пилав",
+    "hanja": "필라프",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "필래프",
+    "translation": "пилаф",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필러",
+    "translation": "Дүүргэгч",
+    "hanja": "filler",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필레",
+    "translation": "филе",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필레몬",
+    "translation": "Филемон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "필렛",
+    "translation": "филе",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "필력",
+    "translation": "бичих чадвар",
+    "hanja": "필력(筆力)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필로티",
+    "translation": "пилоти (барилгын доод хэсэг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필로폰",
+    "translation": "метамфетамин",
+    "hanja": "필로폰",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "필름",
+    "translation": "хальс",
+    "hanja": "필름",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "필리",
+    "translation": "Махнаас татгалзах үеийн баглаа боодол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필리버스터",
+    "translation": "Филибастер (хууль батлахад саад хийх)",
+    "hanja": "필리버스터",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필리프",
+    "translation": "Филипп",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "필리핀",
+    "translation": "Филиппин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "필립스",
+    "translation": "Филипс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필링",
+    "translation": "мэдрэмж",
+    "hanja": "feeling",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필머",
+    "translation": "фэл",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "필멸",
+    "translation": "Үхэл",
+    "hanja": "必滅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필명",
+    "translation": "нууц нэр",
+    "hanja": "筆名",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "필모그래피",
+    "translation": "кино бүтээлийн жагсаалт",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "필묵",
+    "translation": "бийр, бэх",
+    "hanja": "筆墨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필방",
+    "translation": "бичиг хэргийн дэлгүүр",
+    "hanja": "筆房",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필법",
+    "translation": "бичих арга, бичлэгийн хэлбэр",
+    "hanja": "筆法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필부",
+    "translation": "Энгийн хүн, жирийн иргэн",
+    "hanja": "匹夫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필사",
+    "translation": "хүчтэй тэмцэх",
+    "hanja": "必死",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필사본",
+    "translation": "хуулбар гар бичмэл",
+    "hanja": "筆寫本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필사적",
+    "translation": "амь насны",
+    "hanja": "必死的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "필사하다",
+    "translation": "Хуулах",
+    "hanja": "筆寫하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "필살",
+    "translation": "заавал алах, үхэлд хүргэх",
+    "hanja": "必殺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필상",
+    "translation": "заавал (тохиолдох)",
+    "hanja": "必常",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필생",
+    "translation": "Насан туршдаа",
+    "hanja": "畢生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필선",
+    "translation": "бичих шугам",
+    "hanja": "筆線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필설",
+    "translation": "бичиг, үг хэллэгээр",
+    "hanja": "筆舌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필성",
+    "translation": "Заавал шаардлагатай чанар",
+    "hanja": "必成",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필수",
+    "translation": "зайлшгүй",
+    "hanja": "必須",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필수적",
+    "translation": "Зайлшгүй",
+    "hanja": "必須的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필수품",
+    "translation": "Хэрэгцээтэй зүйлс",
+    "hanja": "必需品",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "필승",
+    "translation": "ялах нь гарцаагүй",
+    "hanja": "必勝",
+    "pos": "exclamation",
+    "cefr": "B2"
+  },
+  {
+    "word": "필시",
+    "translation": "гарцаагүй, заавал",
+    "hanja": "必是",
+    "pos": "дбү",
+    "cefr": "B2"
+  },
+  {
+    "word": "필아",
+    "translation": "фильтр",
+    "hanja": "Filter",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "필압",
+    "translation": "үзэгний даралт",
+    "hanja": "筆壓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필연",
+    "translation": "зайлшгүй",
+    "hanja": "必然",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필연성",
+    "translation": "Зайлшгүй байдал, гарцаагүй байдал",
+    "hanja": "必然性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필연적",
+    "translation": "гарцаагүй",
+    "hanja": "必然的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "필요량",
+    "translation": "хэрэгцээтэй хэмжээ",
+    "hanja": "必要量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필요성",
+    "translation": "шаардлага",
+    "hanja": "必要性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필요시",
+    "translation": "шаардлагатай бол",
+    "hanja": "必要時",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필요악",
+    "translation": "зайлшгүй муу зүйл",
+    "hanja": "必要惡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필요조건",
+    "translation": "шаардлагатай нөхцөл",
+    "hanja": "必要條件",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필요충분조건",
+    "translation": "шаардлагатай ба хангалттай нөхцөл",
+    "hanja": "必要充分條件",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "필요하다",
+    "translation": "шаардлагатай",
+    "hanja": "必要하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "필원",
+    "translation": "бичгийн хэрэг эрхлэх газар",
+    "hanja": "筆苑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필자",
+    "translation": "Зохиогч, бичигч",
+    "hanja": "筆者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "필적",
+    "translation": "гарын үсэг, зүйрлэх зүйл",
+    "hanja": "匹敵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "필적하다",
+    "translation": "тэнцэх",
+    "hanja": "匹敵하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필주",
+    "translation": "захиалгат дарс",
+    "hanja": "必酒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필즈상",
+    "translation": "Филдсийн медаль",
+    "hanja": "필즈賞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필진",
+    "translation": "бичгийн зохиолын баг (сонингийн)",
+    "hanja": "筆陣",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "필체",
+    "translation": "Гарын үсэг, бичиг баримт",
+    "hanja": "筆體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "필카",
+    "translation": "плёнкан камер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필터",
+    "translation": "шүүлтүүр",
+    "hanja": "없음",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "필터링",
+    "translation": "шүүлтүүр",
+    "hanja": "filtering",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "필터링하다",
+    "translation": "Шүүх, шүүлтүүрдэх",
+    "hanja": "필터링하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필통",
+    "translation": "Үзгэн хайрцаг",
+    "hanja": "筆筒",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "필트다운인",
+    "translation": "Пилтдаун хүн (Түүх)",
+    "hanja": "N/A",
+    "pos": "Proper Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "필패",
+    "translation": "гарцаагүй ялагдал",
+    "hanja": "必敗",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "필하모니",
+    "translation": "Филармони",
+    "hanja": "필하모니",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "필하모닉",
+    "translation": "филармони",
+    "hanja": "No Hanja",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필획",
+    "translation": "бичгийн зураас",
+    "hanja": "筆劃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필히",
+    "translation": "заавал",
+    "hanja": "必히",
+    "pos": "Adverb",
+    "cefr": "B2"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "춤",
+    "translation": "бүжиг",
+    "hanja": "춤",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "춤곡",
+    "translation": "бүжгийн ая",
+    "hanja": "춤曲",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "춤꾼",
+    "translation": "бүжигчин",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "춤바람",
+    "translation": "бүжгийн дон, бүжгийн улангасал",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "춤사위",
+    "translation": "бүжгийн хөдөлгөөн",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "춤추다",
+    "translation": "бүжиглэх",
+    "hanja": "춤추다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "춤판",
+    "translation": "бүжгийн талбар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

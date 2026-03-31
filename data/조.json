@@ -1,0 +1,2193 @@
+[
+  {
+    "word": "조",
+    "translation": "баг",
+    "hanja": "組",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "조가",
+    "translation": "хошоонгор",
+    "hanja": "糟糠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조가비",
+    "translation": "хясаа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조각",
+    "translation": "урлаг, хэсэг",
+    "hanja": "彫刻",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조각가",
+    "translation": "уран барималч",
+    "hanja": "彫刻家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조각구름",
+    "translation": "салхинд хийсэх үүл",
+    "hanja": "조각구름",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "조각나다",
+    "translation": "хэсэгчлэх",
+    "hanja": " jogaknada",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "조각내다",
+    "translation": "хэсэглэх",
+    "hanja": "조각내다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "조각달",
+    "translation": "ороолон сар",
+    "hanja": "조각달",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조각도",
+    "translation": "сийлбэрийн хутга",
+    "hanja": "彫刻刀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조각되다",
+    "translation": "Сийлбэрлэгдэх",
+    "hanja": "彫刻되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조각배",
+    "translation": "завь",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조각보",
+    "translation": "Хэлтэрхий нөхмөл даавуу",
+    "hanja": "조각보",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조각조각",
+    "translation": "хэсэг хэсгээр",
+    "hanja": "彫刻彫刻",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "조각칼",
+    "translation": "сийлбэрийн хутга",
+    "hanja": "彫刻칼",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "조각품",
+    "translation": "уран баримал",
+    "hanja": "彫刻品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조각하다",
+    "translation": "Сийлбэрлэх",
+    "hanja": "彫刻하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "조간신문",
+    "translation": "өглөөний сонин",
+    "hanja": "朝刊新聞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조감도",
+    "translation": "ерөнхий төлөвлөгөө",
+    "hanja": "鳥瞰圖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조감독",
+    "translation": "туслах найруулагч",
+    "hanja": "助監督",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조강지처",
+    "translation": "анхны эхнэр",
+    "hanja": "糟糠之妻",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "조개껍데기",
+    "translation": "хясааны бүрхүүл",
+    "hanja": "조개껍데기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조개껍질",
+    "translation": "хясааны хальс",
+    "hanja": "조개껍질",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조개탄",
+    "translation": "Хясаа түлш",
+    "hanja": "조개炭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조갯살",
+    "translation": "Хясааны мах",
+    "hanja": "조갯살",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "조건부",
+    "translation": "нөхцөлтэй, болзолт",
+    "hanja": "條件附",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조곡",
+    "translation": "сюит (хөгжим)",
+    "hanja": "組曲",
+    "pos": "NOUN",
+    "cefr": "C2"
+  },
+  {
+    "word": "조곤조곤",
+    "translation": "зөөлөн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조곤조곤하다",
+    "translation": "аяар тайван ярих",
+    "hanja": "조곤조곤하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조공하다",
+    "translation": "Алба гувчуур өргөх",
+    "hanja": "朝貢하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조과",
+    "translation": "өгөөш барих",
+    "hanja": "釣果",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조광",
+    "translation": "гэрлийн тохируулга",
+    "hanja": "調光",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조광하다",
+    "translation": "гэрэлтүүлэг тохируулах",
+    "hanja": "調光하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조교수",
+    "translation": "дэд профессор",
+    "hanja": "助敎授",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조구하다",
+    "translation": "шаардах",
+    "hanja": "條求하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조규",
+    "translation": "журам, дүрэм",
+    "hanja": "條規",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조그",
+    "translation": "будаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조그마하다",
+    "translation": "жижигхэн, өчүүхэн",
+    "hanja": "null",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "조그만하다",
+    "translation": "жижигхэн",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조그맣다",
+    "translation": "бяцхан, жижигхэн",
+    "hanja": "조그맣다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조근조근",
+    "translation": "ариун ариунаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조금",
+    "translation": "жаахан",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "조금씩",
+    "translation": "бага багаар",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "조금조금",
+    "translation": "Бага багаар",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "조금하다",
+    "translation": "өчүүхэн, багахан",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조급증",
+    "translation": "тэвчээргүйн синдром",
+    "hanja": "躁急症",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "조급하다",
+    "translation": "яарсан, тэвчээргүй",
+    "hanja": "躁急하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조급히",
+    "translation": "яаран сандрангуй",
+    "hanja": "躁急히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조기다",
+    "translation": "шавдуудах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조깅",
+    "translation": "Гүйлт",
+    "hanja": "jogging",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "조깅하다",
+    "translation": "гүйх",
+    "hanja": "jogging하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "조난",
+    "translation": "осолд орох, сүйрэх",
+    "hanja": "遭難",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조난당하다",
+    "translation": "осолд орох",
+    "hanja": "遭難當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조난되다",
+    "translation": "ослын золиос болох",
+    "hanja": "遭難되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조난자",
+    "translation": "байлдааны хөлөг онгоц",
+    "hanja": "遭難者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조다",
+    "translation": "аливааг тогтоон харах, анхаарч харах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": null
+  },
+  {
+    "word": "조달되다",
+    "translation": "Нийлүүлэгдэх, олдоцтой болох",
+    "hanja": "調達되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조달청",
+    "translation": "Улсын худалдан авах ажиллагааны газар",
+    "hanja": "調達廳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조달하다",
+    "translation": "нийлүүлэх",
+    "hanja": "調達하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조당",
+    "translation": "өвөг дээдсийн сүм",
+    "hanja": "祖堂",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "조던",
+    "translation": "Жордан (хүн нэр)",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "조동사",
+    "translation": "туслах үйл үг",
+    "hanja": "助動詞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조동아리",
+    "translation": "Ам (хүндэтгэлгүй)",
+    "hanja": "조동아리",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "조드",
+    "translation": "зуд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조라",
+    "translation": "зөгийн бал",
+    "hanja": "照螺",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "조랑",
+    "translation": "жижиг, хугархай",
+    "hanja": "조랑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조랑말",
+    "translation": "Жороо морь",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조랑조랑",
+    "translation": "жижиг жижиг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조랭이",
+    "translation": "жижиг цагаан будааны банш",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조러다",
+    "translation": "аливааг хийх, ийм байдлаар хийх",
+    "hanja": "--",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "조렇다",
+    "translation": "тиймэрхүү",
+    "hanja": "조렇다",
+    "pos": "VA",
+    "cefr": "C1"
+  },
+  {
+    "word": "조레스",
+    "translation": "Жорес (хувийн нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조력",
+    "translation": "тусламж, дэмжлэг",
+    "hanja": "助力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조력하다",
+    "translation": "туслах, дэмжих",
+    "hanja": "助力하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조련",
+    "translation": "сургах",
+    "hanja": "調鍊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조련사",
+    "translation": "Сургагч, дасгалжуулагч (амьтан)",
+    "hanja": "調練師",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조련하다",
+    "translation": "сургах, дасгал хийлгэх",
+    "hanja": "調練하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조례",
+    "translation": "Дүрэм",
+    "hanja": "條例",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조로",
+    "translation": "эрт хөгшрөх",
+    "hanja": "早老",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "조롭다",
+    "translation": "хөөрхөн, хөөрхөн",
+    "hanja": "조롭다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조롱",
+    "translation": "тохуурхал, доог тохуу",
+    "hanja": "嘲弄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조롱박",
+    "translation": "хулуу",
+    "hanja": "조롱박",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조롱조롱",
+    "translation": "бөөн бөөнөөрөө",
+    "hanja": "조롱조롱",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조롱하다",
+    "translation": "Тохуурхах, дооглох",
+    "hanja": "嘲弄하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조르다",
+    "translation": "шалдах, гуйх",
+    "hanja": "조르다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조르다노",
+    "translation": "Жордано",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "조르르",
+    "translation": "дарааллан",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조리개",
+    "translation": "диафрагм",
+    "hanja": "絞리개",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조리다",
+    "translation": "чанах, буцалгах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조리돌림",
+    "translation": "гутаан доромжлох",
+    "hanja": "조리돌림",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조리되다",
+    "translation": "хоол хийх",
+    "hanja": "調理되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "조리법",
+    "translation": "хоол хийх жор",
+    "hanja": "調理法",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조리사",
+    "translation": "тогооч",
+    "hanja": "調理師",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조리실",
+    "translation": "гал тогоо",
+    "hanja": "調理室",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조리용",
+    "translation": "хоол хийх зориулалттай",
+    "hanja": "調理用",
+    "pos": "관형사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조리하다",
+    "translation": "хоол хийх",
+    "hanja": "調理하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "조림하다",
+    "translation": "ой нөхөн сэргээх",
+    "hanja": "造林─",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조립되다",
+    "translation": "угсрагдах",
+    "hanja": "組立되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조립식",
+    "translation": "угсардаг",
+    "hanja": "組立式",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "조립품",
+    "translation": "угсарсан эд анги, угсралт",
+    "hanja": "組立品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조립하다",
+    "translation": "Угсрах",
+    "hanja": "組立하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조마조마",
+    "translation": "аймшигтай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조마조마하다",
+    "translation": "Түгших, сэтгэл зовох",
+    "hanja": "조마조마하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조망",
+    "translation": "харц",
+    "hanja": "眺望",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조망하다",
+    "translation": "Харж байна",
+    "hanja": "眺望하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "조명되다",
+    "translation": "Гэрэлтэх, тайлбарлагдах",
+    "hanja": "照明되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조명등",
+    "translation": "Гэрэлтүүлэгч",
+    "hanja": "照明燈",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조명하다",
+    "translation": "гэрэлтүүлэх, тодруулах",
+    "hanja": "照明하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조목조목",
+    "translation": "Зүйлчилж",
+    "hanja": "條目條目",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조몰락거리다",
+    "translation": "гараар оролдох, тоглох",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조문객",
+    "translation": "Гэмшсэн зочин",
+    "hanja": "弔問客",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "조문하다",
+    "translation": "эмгэнэл илэрхийлэх",
+    "hanja": "弔問하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조물조물",
+    "translation": "бага багаар",
+    "hanja": "조물조물",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조물조물하다",
+    "translation": "нялцгай зүйлийг барих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조물주",
+    "translation": "Бүтээгч",
+    "hanja": "造物主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조미료",
+    "translation": "амтлагч",
+    "hanja": "調味料",
+    "pos": "м.н",
+    "cefr": "A2"
+  },
+  {
+    "word": "조민",
+    "translation": "Чо Мин",
+    "hanja": "조민",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조밀하다",
+    "translation": "нягт, нягтаршилтай",
+    "hanja": "稠密하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조바심",
+    "translation": "санаа зовох",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조바심치다",
+    "translation": "түгших",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조바심하다",
+    "translation": "санаа зовох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조바위",
+    "translation": "зузаан малгай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조반니",
+    "translation": "Жованни",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조변",
+    "translation": "өглөөний өөрчлөлт",
+    "hanja": "朝変",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조별",
+    "translation": "бүлгээр, бүлгийн",
+    "hanja": "組別",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조병준",
+    "translation": "Чо Бён-жун (хүний нэр)",
+    "hanja": "趙炳俊",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "조봉",
+    "translation": "өглөөний уулзалт",
+    "hanja": "朝奉",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "조부모",
+    "translation": "өвөө эмээ",
+    "hanja": "祖父母",
+    "pos": "м",
+    "cefr": "A2"
+  },
+  {
+    "word": "조비",
+    "translation": "зардал, төлбөр",
+    "hanja": "租費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조사",
+    "translation": "Мөрдөн байцаах, шалгах, судалгаа",
+    "hanja": "調査",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조사되다",
+    "translation": "судлагдах",
+    "hanja": "調査되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조사하다",
+    "translation": "судлах, шалгах",
+    "hanja": "調査하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "조산",
+    "translation": "дутуу төрөх",
+    "hanja": "早産",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조산하다",
+    "translation": "Урьдчилан төрөх",
+    "hanja": "早産하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "조삼모사",
+    "translation": "тотьны арга, хууран мэхлэх",
+    "hanja": "朝三暮四",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "조색",
+    "translation": "өнгөний таарцат",
+    "hanja": "調色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조색하다",
+    "translation": "өнгө холих",
+    "hanja": "調色하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조서",
+    "translation": "Тэмдэглэл",
+    "hanja": "調書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조선말",
+    "translation": "Жосон үеийн төгсгөл",
+    "hanja": "朝鮮末",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조선소",
+    "translation": "онгоцны үйлдвэр",
+    "hanja": "造船所",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "조선어",
+    "translation": "Солонгос хэл",
+    "hanja": "朝鮮語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조선업",
+    "translation": "Усан онгоцны үйлдвэрлэл",
+    "hanja": "造船業",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조선족",
+    "translation": "Солонгос үндэстэн (Хятадад амьдардаг)",
+    "hanja": "朝鮮族",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조선하다",
+    "translation": "хөлөг онгоц барих",
+    "hanja": "造船하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조성되다",
+    "translation": "бий болох, бүрдэх",
+    "hanja": "造成되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조성하다",
+    "translation": "үүсгэх, бүрдүүлэх",
+    "hanja": "造成하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조소",
+    "translation": "шоолох, егөөдөх",
+    "hanja": "嘲笑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조소앙",
+    "translation": "Жо Со-ан",
+    "hanja": "趙素昻",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조소하다",
+    "translation": "Дооглох, шоолох",
+    "hanja": "嘲笑하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조속하다",
+    "translation": "хурдан, түргэн шуурхай",
+    "hanja": "早速하다",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "조속히",
+    "translation": "Яаравчлан, шуурхай",
+    "hanja": "早速히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조수다",
+    "translation": "хураах",
+    "hanja": "趙水多",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조숙하다",
+    "translation": "эрт боловсрох",
+    "hanja": "早熟하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조스",
+    "translation": "эрүү (ам)",
+    "hanja": "jaws",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조식",
+    "translation": "Өглөөний цай",
+    "hanja": "朝食",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조신",
+    "translation": "сэргэг байх, дөлгөөхөн",
+    "hanja": "操身",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조신하다",
+    "translation": "даруухан",
+    "hanja": "操身하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조실부모하다",
+    "translation": "эцэг эхээ эрт алдах",
+    "hanja": "早失父母하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조심",
+    "translation": "болгоомжлол",
+    "hanja": "操心",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "조심성",
+    "translation": "болгоомжтой байдал",
+    "hanja": "操心性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조심스럽다",
+    "translation": "болгоомжтой",
+    "hanja": "조心스럽다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조심스레",
+    "translation": "болгоомжтой",
+    "hanja": " 조심스레",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조심조심",
+    "translation": "маш болгоомжтой",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조심조심하다",
+    "translation": "болгоомжтой байх",
+    "hanja": "조심조심하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조심조심히",
+    "translation": "маш болгоомжтойгоор",
+    "hanja": "조심조심히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조심하다",
+    "translation": "болгоомжлох",
+    "hanja": "操心하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조심히",
+    "translation": "болгоомжтой",
+    "hanja": "操心히",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조아",
+    "translation": "Жу-А",
+    "hanja": "爪牙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조아리다",
+    "translation": "мөргөх",
+    "hanja": "조아리다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "조아하다",
+    "translation": "дуулах",
+    "hanja": "調和하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조악하다",
+    "translation": "муу чанартай, эв хавгүй",
+    "hanja": "粗惡─",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "조안",
+    "translation": "төсөл, ноорог (хууль)",
+    "hanja": "草案",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "조앙",
+    "translation": "хүндэтгэл",
+    "hanja": "朝謁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조애",
+    "translation": "сайн мэддэг байх",
+    "hanja": "造詣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조야하다",
+    "translation": "бүдүүлэг, баргил",
+    "hanja": "粗野하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조약",
+    "translation": "гэрээ",
+    "hanja": "條約",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조약돌",
+    "translation": "Хагшаа чулуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조어",
+    "translation": "шинэ үг",
+    "hanja": "造語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조언",
+    "translation": "зөвлөгөө",
+    "hanja": "助言",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조언자",
+    "translation": "зөвлөх",
+    "hanja": "助言者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조언하다",
+    "translation": "зөвлөх",
+    "hanja": "助言하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조업",
+    "translation": "Үйл ажиллагаа эрхлэх",
+    "hanja": "操業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조업하다",
+    "translation": "Үйл ажиллагаа явуулах",
+    "hanja": "操業하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조에",
+    "translation": "жоу (Нутгийн удирдлага)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조여들다",
+    "translation": "чангарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조역",
+    "translation": "туслах дүр",
+    "hanja": "助役",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조연출",
+    "translation": "туслах найруулагч",
+    "hanja": "助演出",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조영석",
+    "translation": "Жу Ён-Сөк (хүний нэр)",
+    "hanja": "趙榮奭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조예",
+    "translation": "ур чадвар",
+    "hanja": "造詣",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "조용",
+    "translation": "Чимээгүй",
+    "hanja": "조용",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조용조용",
+    "translation": "чимээгүй, аажимхан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조용조용하다",
+    "translation": "Чимээгүйхэн байх",
+    "hanja": "",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "조용조용히",
+    "translation": "Намуухнаар",
+    "hanja": "조용조용히",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조용하다",
+    "translation": "чимээгүй",
+    "hanja": "고요하다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "조용히",
+    "translation": "чимээгүйхэн",
+    "hanja": "조용히",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조우",
+    "translation": "тохиолдох, учрах",
+    "hanja": "遭遇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조우하다",
+    "translation": "тааралдах",
+    "hanja": "遭遇하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조울증",
+    "translation": "хоёр туйлт сэтгэцийн эмгэг",
+    "hanja": "躁鬱症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조유",
+    "translation": "тостой сүү",
+    "hanja": "조유",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "조윤",
+    "translation": "Чо Юн",
+    "hanja": "調潤",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조율",
+    "translation": "тааруулах",
+    "hanja": "調律",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조율되다",
+    "translation": "зохицуулагдах, тааруулагдах",
+    "hanja": "調律되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조율하다",
+    "translation": "Зохицуулах",
+    "hanja": "調律하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조은",
+    "translation": "Жо Ын",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "조응하다",
+    "translation": "хариу өгөх",
+    "hanja": "照應하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "조의",
+    "translation": "Эмгэнэл илэрхийлэх",
+    "hanja": "弔意",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조의금",
+    "translation": "эмгэнэлийн мөнгө",
+    "hanja": "弔意金",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조의제문",
+    "translation": "эмгэнэлийн үг",
+    "hanja": "弔義祭文",
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "조이다",
+    "translation": "Чангалах, чанга түгжих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조이스",
+    "translation": "Жойс",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "조인되다",
+    "translation": "нэгдэх",
+    "hanja": "調印되다",
+    "pos": "VV",
+    "cefr": "B2"
+  },
+  {
+    "word": "조인트",
+    "translation": "холбоос",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "조인하다",
+    "translation": "нэгдэх, хамтрах",
+    "hanja": "Join하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조작",
+    "translation": "үйлдвэрлэл",
+    "hanja": "操作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조작되다",
+    "translation": "Удирдах",
+    "hanja": "操作되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조작하다",
+    "translation": "Удирдаж ажиллах",
+    "hanja": "操作하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조잘거리다",
+    "translation": "цуур, цуварсан дуу гаргах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조잘대다",
+    "translation": "Чалах, шуугах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조잘조잘",
+    "translation": "Дүнгэнэх, шуугих",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조잡스럽다",
+    "translation": "хүнд",
+    "hanja": "粗雜스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조잡하다",
+    "translation": "бүдүүлэг",
+    "hanja": "粗雜하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "조장되다",
+    "translation": "Дэмжигдэх, өдөөгдөх",
+    "hanja": "助長되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조장하다",
+    "translation": "хөхиүлэн дэмжих",
+    "hanja": "助長하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조재연",
+    "translation": "Жо Жэён (нэр)",
+    "hanja": "曺宰淵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조절",
+    "translation": "тохируулах, зохицуулах",
+    "hanja": "調節",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조절되다",
+    "translation": "тохируулагдах, зохицуулагдах",
+    "hanja": "調節되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "조절제",
+    "translation": "зохицуулагч",
+    "hanja": "調節劑",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "조절하다",
+    "translation": "тохируулах",
+    "hanja": "調節하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조정기",
+    "translation": "Тохируулагч",
+    "hanja": "調整機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조정되다",
+    "translation": "тохируулагдах",
+    "hanja": "調整되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조정안",
+    "translation": "зохицуулалтын төсөл",
+    "hanja": "調停案",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조정자",
+    "translation": "зохицуулагч, зуучлагч",
+    "hanja": "調整者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조정하다",
+    "translation": "тохируулах",
+    "hanja": "調整하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "조제실",
+    "translation": "эм найруулах өрөө",
+    "hanja": "調劑室",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조제하다",
+    "translation": "бэлтгэх",
+    "hanja": "調劑하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조종기",
+    "translation": "удирдлага",
+    "hanja": "操縱機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조종당하다",
+    "translation": "Удирдагдах, гар хөл болох",
+    "hanja": "操縱當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조종되다",
+    "translation": "удирдуулах",
+    "hanja": "操縱되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조종사",
+    "translation": "Нисгэгч",
+    "hanja": "操縱士",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조종석",
+    "translation": "нисгэгчийн бүхээг",
+    "hanja": "操縱席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조종실",
+    "translation": "жолоодлогын өрөө",
+    "hanja": "操縱室",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조종자",
+    "translation": "Удирдагч, жолоодогч",
+    "hanja": "操縱者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조종하다",
+    "translation": "удирдах, жолоодох",
+    "hanja": "操縱하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "조준",
+    "translation": "бай онох",
+    "hanja": "조준(照準)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조준되다",
+    "translation": "чиглэгдсэн",
+    "hanja": "照準되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조준하다",
+    "translation": "бай онох",
+    "hanja": "照準–",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조증",
+    "translation": "манийн эмгэг",
+    "hanja": "躁症",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조지다",
+    "translation": "будлих",
+    "hanja": "조지다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "조지아",
+    "translation": "Гүрж улс",
+    "hanja": "Georgia",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조지타운",
+    "translation": "Жоржтаун",
+    "hanja": "조지타운",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조지훈",
+    "translation": "Чо Жи-хун (хүний нэр)",
+    "hanja": "趙芝薰",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조직도",
+    "translation": "байгууллагын бүтэц",
+    "hanja": "組織圖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조직되다",
+    "translation": "зохион байгуулагдах",
+    "hanja": "組織되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "조직력",
+    "translation": "зохион байгуулах чадвар",
+    "hanja": "組織力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조직망",
+    "translation": "сүлжээ; зохион байгуулалт",
+    "hanja": "組織網",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조직원",
+    "translation": "Эрдэмтэд, зохион байгуулагч",
+    "hanja": "組織員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조직적",
+    "translation": "зохион байгуулалттай",
+    "hanja": "組織的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "조직하다",
+    "translation": "Зохион байгуулах",
+    "hanja": "組織하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조직화",
+    "translation": "системчлэх",
+    "hanja": "組織化",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조직화되다",
+    "translation": "зохион байгуулах",
+    "hanja": "組織化되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "조직화하다",
+    "translation": "зохион байгуулах",
+    "hanja": "組織化하다",
+    "pos": "үйл үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "조찬",
+    "translation": "өглөөний оройн зоог",
+    "hanja": "朝餐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조처하다",
+    "translation": "арга хэмжээ авах, зохицуулах",
+    "hanja": "措置하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조청",
+    "translation": "будааны сироп",
+    "hanja": "造淸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조촐하다",
+    "translation": "энгийн, цэвэрхэн",
+    "hanja": null,
+    "pos": "т.ү",
+    "cefr": "C1"
+  },
+  {
+    "word": "조총련",
+    "translation": "Жочонлён",
+    "hanja": "朝總聯",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "조충",
+    "translation": "хүний биен дотор амьдардаг өт, туузан хорхой",
+    "hanja": "條蟲",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "조취",
+    "translation": "муу үнэр",
+    "hanja": "臊臭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조치",
+    "translation": "арга хэмжээ",
+    "hanja": "措置",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조치되다",
+    "translation": "арга хэмжээ авагдах, зохицуулагдах",
+    "hanja": "措置되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "조치하다",
+    "translation": "арга хэмжээ авах",
+    "hanja": "措置-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조카",
+    "translation": "зээ",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "조카딸",
+    "translation": "жий охин",
+    "hanja": "조카딸",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조카며느리",
+    "translation": "ач хүүгийн эхнэр",
+    "hanja": "姪며느리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조카사위",
+    "translation": "зээ хүргэн",
+    "hanja": "조카사위",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조커",
+    "translation": "инээдмийн, онигооч",
+    "hanja": "joker",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "조크",
+    "translation": "хошигнол",
+    "hanja": "조크",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조타실",
+    "translation": "жолоодлогын өрөө",
+    "hanja": "操舵室",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조토",
+    "translation": "Гартай шороо",
+    "hanja": "弔土",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조퇴",
+    "translation": "эрт тарах, эрт явах",
+    "hanja": "早退",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "조퇴하다",
+    "translation": "эрт гарах",
+    "hanja": "早退-",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "조특법",
+    "translation": "татвар, тусгай хуулийн тухай хууль",
+    "hanja": "租特法",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조팝",
+    "translation": "Шинэс",
+    "hanja": "조팝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조폐",
+    "translation": "зоос цутгах",
+    "hanja": "造幣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조프",
+    "translation": "Жоеф (нэр)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "조프리",
+    "translation": "Жоффри",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조플린",
+    "translation": "Жоплин (хүний нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "조피",
+    "translation": "жопи (мөхөөрийн нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조한",
+    "translation": "хатуу хүйтэн",
+    "hanja": "燥寒",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "조합되다",
+    "translation": "нийлүүлэх, хослуулах",
+    "hanja": "組合-",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "조합원",
+    "translation": "гишүүн",
+    "hanja": "組合員",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조합장",
+    "translation": "холбооны дарга",
+    "hanja": "組合長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조합하다",
+    "translation": "нэгтгэх",
+    "hanja": "組合하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조항",
+    "translation": "Заалт",
+    "hanja": "條項",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조향",
+    "translation": "Үнэр гаргах",
+    "hanja": "調香",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조혁",
+    "translation": "Жо Хёк",
+    "hanja": "曺赫",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "조현",
+    "translation": "Сэтгэцийн өвчин",
+    "hanja": "調絃",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "조형물",
+    "translation": "баримал",
+    "hanja": "造形物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조형미",
+    "translation": "урлагийн гоо зүй",
+    "hanja": "造形美",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "조형성",
+    "translation": "хэлбэр дүрсний чанар",
+    "hanja": "造形性",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "조형하다",
+    "translation": "хэлбэр дүрс оруулах",
+    "hanja": "造形하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조호르바루",
+    "translation": "Жохор Бахру (хот)",
+    "hanja": "조호르바루",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조혼",
+    "translation": "бага насандаа гэрлэх",
+    "hanja": "早婚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조홍",
+    "translation": "тод улаан",
+    "hanja": "早紅",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "조화",
+    "translation": "зохицол, эвсэл",
+    "hanja": "調和",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "조화되다",
+    "translation": "зохицох",
+    "hanja": "調和되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "조화롭다",
+    "translation": "зохицсон, нийцсэн",
+    "hanja": "調和롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조화시키다",
+    "translation": "уялдуулах, зохицуулах",
+    "hanja": "調和시키다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "조화하다",
+    "translation": "Эвлэрэх",
+    "hanja": "調和하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조황",
+    "translation": "загасны нөхцөл байдал",
+    "hanja": "藻黃",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조회되다",
+    "translation": "Шалгагдах, лавлагдах",
+    "hanja": "照會되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조회하다",
+    "translation": "Шалгах, лавлах",
+    "hanja": "照會하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조후",
+    "translation": "уур амьсгал, цаг агаар",
+    "hanja": "調候",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

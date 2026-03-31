@@ -1,0 +1,310 @@
+[
+  {
+    "word": "걸",
+    "translation": "охин",
+    "hanja": "girl (외래어)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "걸개",
+    "translation": "өлгүүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "걸거치다",
+    "translation": "Тээглэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "걸걸하다",
+    "translation": "хөөрсөн, баргилуу",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "걸고넘어지다",
+    "translation": "орооцолдох",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "걸고리",
+    "translation": "Дэгээ, өлгүүр",
+    "hanja": "걸고리",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "걸귀",
+    "translation": "хэт их идэмхий хүн",
+    "hanja": "乞鬼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "걸다",
+    "translation": "Дүүжлэх",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "걸때",
+    "translation": "өлгүүр",
+    "hanja": "걸때",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "걸레",
+    "translation": "алчуур",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "걸레질",
+    "translation": "шалан хатга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "걸레질하다",
+    "translation": "шал арчих",
+    "hanja": "拭掃하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "걸레짝",
+    "translation": "хуучин даавуу",
+    "hanja": "걸레짝",
+    "pos": "명",
+    "cefr": "B2"
+  },
+  {
+    "word": "걸려들다",
+    "translation": "үүрлэх, орооцолдох",
+    "hanja": "걸려들다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "걸르다",
+    "translation": "шүүх, алгасах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "걸리",
+    "translation": "Охид",
+    "hanja": "Girlie",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "걸리다",
+    "translation": "үүсэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "걸리적거리다",
+    "translation": "Саад болж зогсох",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "걸림돌",
+    "translation": "бэрхшээл",
+    "hanja": "걸림돌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "걸맞다",
+    "translation": "тохирох",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "걸머지다",
+    "translation": "мөрлөх, үүрэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "걸보",
+    "translation": "Хүүхэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "걸상",
+    "translation": "сандал",
+    "hanja": "걸상",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "걸쇠",
+    "translation": "Түгжээ, цоож",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "걸식",
+    "translation": "гуйлга гуйх",
+    "hanja": "乞食",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "걸식하다",
+    "translation": "гуйлга гуйх",
+    "hanja": "乞食하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "걸신",
+    "translation": "ховдог сүнс",
+    "hanja": "乞神",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "걸신들리다",
+    "translation": "Их идэх дуртай болох",
+    "hanja": "乞神들리다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "걸음",
+    "translation": "алхам",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "걸음걸음",
+    "translation": "алхам алхмаар",
+    "hanja": "걸음걸음",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "걸음걸이",
+    "translation": "алхаа",
+    "hanja": "null",
+    "pos": "м.н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "걸음마",
+    "translation": "эхний алхаа, тэмүүлэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "걸음하다",
+    "translation": "Хөл тавих",
+    "hanja": null,
+    "pos": "동사 (Verb)",
+    "cefr": "B1"
+  },
+  {
+    "word": "걸이",
+    "translation": "өлгүүр",
+    "hanja": "걸이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "걸인",
+    "translation": "гуйлгачин",
+    "hanja": "乞人",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "걸작",
+    "translation": "үнэт бүтээл, шилдэг бүтээл",
+    "hanja": "傑作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "걸죽하다",
+    "translation": "өтгөн, шингэн биш",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "걸쭉하다",
+    "translation": "걸쭉하다",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "걸출하다",
+    "translation": "гайхамшигтай, онцгой",
+    "hanja": "傑出하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "걸치다",
+    "translation": "өлгөх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "걸터앉다",
+    "translation": "суух",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "걸프",
+    "translation": "булан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "걸핏하면",
+    "translation": "бүх зүйл дээр",
+    "hanja": "걸핏하면",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "걸하다",
+    "translation": "төлбөр төлөх",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "C1"
+  }
+]

@@ -1,0 +1,2438 @@
+[
+  {
+    "word": "바",
+    "translation": "зүйл, хэрэг",
+    "hanja": null,
+    "pos": "의존명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바가지",
+    "translation": "багана",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바가지요금",
+    "translation": "хэт өндөр үнэ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바게뜨",
+    "translation": "багет (талх)",
+    "hanja": "Baguette",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바게트",
+    "translation": "багет",
+    "hanja": "바게트",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "바겐세일",
+    "translation": "Хямдралтай худалдаа",
+    "hanja": "Bargain-sale",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바구니",
+    "translation": "сагс",
+    "hanja": "바구니",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "바구미",
+    "translation": "Цагаан гурилны цох",
+    "hanja": null,
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "바그너",
+    "translation": "Вагнер",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바그다드",
+    "translation": "Багдад",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바글거리다",
+    "translation": "шавтах",
+    "hanja": "바글거리다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "바글대다",
+    "translation": "буцлах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바글바글",
+    "translation": "шавсан, дүүрэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바글바글하다",
+    "translation": "бужигнах",
+    "hanja": "擬態語",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바깥",
+    "translation": "гадаа",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "바깥사람",
+    "translation": "гадаад хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바깥세상",
+    "translation": "гаднах ертөнц",
+    "hanja": "바깥世上",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바깥양반",
+    "translation": "нөхөр (гадаад хүн)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바깥일",
+    "translation": "Гадаад ажил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바깥쪽",
+    "translation": "гадаад тал",
+    "hanja": "바깥쪽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바깥출입",
+    "translation": "гадагш гарах, гадуур явах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바꾸",
+    "translation": "солих, өөрчлөх",
+    "hanja": "바꾸",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바꾸다",
+    "translation": "солих, өөрчлөх",
+    "hanja": "바꾸다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바꿔치기하다",
+    "translation": "Солих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바꿔치다",
+    "translation": "солих, хувиргах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "바뀌",
+    "translation": "өөрчлөгдөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바뀌다",
+    "translation": "өөрчлөгдөх",
+    "hanja": "바뀌다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바끼다",
+    "translation": "өөрчлөгдөх (바뀌다-ийн 방언)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바나나",
+    "translation": "Гадил",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "바나듐",
+    "translation": "ванадиум",
+    "hanja": "Vanadium",
+    "pos": "м.н.",
+    "cefr": "C2"
+  },
+  {
+    "word": "바나바",
+    "translation": "банаба",
+    "hanja": "Barnabas",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바나헤임",
+    "translation": "Ванахейм (Скандинавын домогт)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바너드",
+    "translation": "Барнард (одон орон судлаач)",
+    "hanja": "바너드",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바누아투",
+    "translation": "Вануату",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바느질",
+    "translation": "оёдол",
+    "hanja": "바느질",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "바느질감",
+    "translation": "оёдлын материал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바느질거리",
+    "translation": "Оёх зүйл",
+    "hanja": "바느질거리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바느질하다",
+    "translation": "оёх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바늘",
+    "translation": "зүү",
+    "hanja": "바늘",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "바늘구멍",
+    "translation": "зүүний нүх",
+    "hanja": "바늘구멍",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바늘귀",
+    "translation": "зүүний нүх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바늘꽂이",
+    "translation": "зүүний хайрцаг",
+    "hanja": "바늘꽂이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바늘땀",
+    "translation": "оёдол",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바늘방석",
+    "translation": "Зүүний дэр, зовлонтой байдал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바니쉬",
+    "translation": "цавуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바니시",
+    "translation": "лак",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바닐라",
+    "translation": "ваниль",
+    "hanja": "바닐라",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바닐린",
+    "translation": "Ваниллин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바다",
+    "translation": "далай",
+    "hanja": "바다",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "바다가",
+    "translation": "далайн эрэгт",
+    "hanja": "바다가",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바다가재",
+    "translation": "далайн хавч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바다낚시",
+    "translation": "Далайн загасчлал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바다리",
+    "translation": "далайн хав",
+    "hanja": "바다리",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바다소",
+    "translation": "далайн үхэр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바다토끼",
+    "translation": "далайн туулай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바닥",
+    "translation": "шал, ёроол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바닥나다",
+    "translation": "Дуусах, шавхагдах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "바닥내다",
+    "translation": "дуусгах",
+    "hanja": "",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "바닥없다",
+    "translation": "ёроолгүй",
+    "hanja": "바닥없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바닥재",
+    "translation": "шалны материал",
+    "hanja": "바닥材",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "바닷가",
+    "translation": "далайн эрэг",
+    "hanja": "바닷가",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바닷가재",
+    "translation": "далайн хавч",
+    "hanja": "바닷가재",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "바닷고기",
+    "translation": "далайн загас",
+    "hanja": "바닷고기",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바닷길",
+    "translation": "далайн зам",
+    "hanja": "바닷길",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바닷말",
+    "translation": "Далайн ургамал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바닷물",
+    "translation": "Далайн ус",
+    "hanja": "바닷물",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바닷물고기",
+    "translation": "далайн загас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바닷바람",
+    "translation": "Далайн салхи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바닷빛",
+    "translation": "далайн өнгө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바닷사람",
+    "translation": "Далайчин",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바닷새",
+    "translation": "Тэнгисийн шувуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바닷소리",
+    "translation": "далайн чимээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바닷속",
+    "translation": "далайн ёроол, далайн гүн",
+    "hanja": "바닷속",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바닷장어",
+    "translation": "далайн могой загас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바당",
+    "translation": "талбай, газар (Жэжү аялгуу)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바동거리다",
+    "translation": "саваачих, тэмүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바두",
+    "translation": "баду (тоглоом)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바둑",
+    "translation": "Гоу (тоглоом)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바둑돌",
+    "translation": "гов тоглоомын чулуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바둑알",
+    "translation": "го ширхэг",
+    "hanja": "바둑알",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바둑이",
+    "translation": "толбот нохой",
+    "hanja": "바둑이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바둑판",
+    "translation": "го бангийн хөлөг",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바둥거리다",
+    "translation": "эгэлж",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바둥대다",
+    "translation": "мурийх, тэмүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바둥바둥",
+    "translation": "тэмүүлэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바드레",
+    "translation": "бадрах",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "바득",
+    "translation": "Давтан",
+    "hanja": "---",
+    "pos": "Adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "바득바득",
+    "translation": "Хөөн хөөх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바들거리다",
+    "translation": "чичрэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바들바들",
+    "translation": "чичигнэх",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "바디",
+    "translation": "бие",
+    "hanja": "바디",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바디다",
+    "translation": "зураас, бар код",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바디라인",
+    "translation": "биеийн хэлбэр",
+    "hanja": "바디라인",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바라구",
+    "translation": "Хүсэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바라나시",
+    "translation": "Варанаси",
+    "hanja": "Varanasi",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "바라다",
+    "translation": "хүсэх, найдах",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바라다보다",
+    "translation": "хараад зогсох, ширтэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바라다보이다",
+    "translation": "харагдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바라밀",
+    "translation": "парамита",
+    "hanja": "波羅蜜",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바라밀다",
+    "translation": "Барам",
+    "hanja": "婆羅蜜多",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "바라바",
+    "translation": "Бараба (Библийн нэр)",
+    "hanja": "Barabbas",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바라보다",
+    "translation": "харах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바라보이다",
+    "translation": "харуулдах",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "바라쿠다",
+    "translation": "барракуда",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바라크",
+    "translation": "Барак",
+    "hanja": "바라크",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바라트",
+    "translation": "Бахарат",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바락",
+    "translation": "барак",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바락바락",
+    "translation": "Ууртайгаар, чангаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바랄",
+    "translation": "барал (хайлах, хүсэх)",
+    "hanja": "바랄",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바람",
+    "translation": "салхи",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "바람개비",
+    "translation": "салхин сэнс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바람결",
+    "translation": "салхины чиглэл",
+    "hanja": "바람결",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바람기",
+    "translation": "салхины чиг, харийн явдал",
+    "hanja": "바람氣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바람꽃",
+    "translation": "салхины цэцэг (цэцгийн төрөл)",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바람나다",
+    "translation": "салхи дагах, янхан болох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바람둥이",
+    "translation": "Эмэгтэйчүүдэд таалагддаг эр хүн",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바람막이",
+    "translation": "Салхи хаагч",
+    "hanja": "바람막이",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바람맞다",
+    "translation": "хоосон хүлээх, хүлээсэнд хууртах",
+    "hanja": "바람맞다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바람맞히다",
+    "translation": "хоосон явуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바람이",
+    "translation": "Салхи",
+    "hanja": "바람이",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "바람잡이",
+    "translation": "Хуурмаг, хошууч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바람직스럽다",
+    "translation": "хүсүүштэй",
+    "hanja": "바람직스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바람직하다",
+    "translation": "зөв, зохистой",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바람피우다",
+    "translation": "сахилгагүй аашлах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바래다주다",
+    "translation": "Үдэж өгөх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "바램",
+    "translation": "хүсэл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바레인",
+    "translation": "Бахрейн",
+    "hanja": "바레인",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바로",
+    "translation": "шууд, яг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바로미터",
+    "translation": "барометр",
+    "hanja": "barometer",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바로바로",
+    "translation": "нэн даруй, шууд",
+    "hanja": "바로바로",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "바로잡다",
+    "translation": "Засах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "바로잡히다",
+    "translation": "залруулагдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바로크",
+    "translation": "барокко",
+    "hanja": "바로크",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바루",
+    "translation": "бару (буддын хуврагын аяга)",
+    "hanja": "바루",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바륨",
+    "translation": "Бариум",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바르",
+    "translation": "бар",
+    "hanja": "바르",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바르가스",
+    "translation": "Варгас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바르다",
+    "translation": "шууд, зөв",
+    "hanja": "바르다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바르르",
+    "translation": "Чичрэх, салганах",
+    "hanja": "",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "바르바라",
+    "translation": "Барбара",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바르샤바",
+    "translation": "Варшав",
+    "hanja": "바르샤바",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바르셀로나",
+    "translation": "Барселона",
+    "hanja": "바르셀로나",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "바르작거리다",
+    "translation": "шажигнах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바르톨로메오",
+    "translation": "Бартоломео",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "바르트",
+    "translation": "Барт (хүний нэр)",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "바른길",
+    "translation": "шударга зам, зөв зам",
+    "hanja": "바른길",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바른말",
+    "translation": "зөв үг",
+    "hanja": "바른말",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바른손",
+    "translation": "зөв эсвэл шулуун гар",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바른쪽",
+    "translation": "баруун тал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바리",
+    "translation": "сав, даавуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바리깡",
+    "translation": "Үсчингийн машинка",
+    "hanja": "바리깡",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바리다",
+    "translation": "дуусгах, гүйцээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바리데기",
+    "translation": "баридэги (домогт дүр)",
+    "hanja": "바리데기",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바리바리",
+    "translation": "овоолсон",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바리새인",
+    "translation": "фарисайчууд",
+    "hanja": "바리새人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바리스타",
+    "translation": "бариста",
+    "hanja": "barista",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "바리온",
+    "translation": "барион",
+    "hanja": "바리온",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바리캉",
+    "translation": "үс зүсэгч",
+    "hanja": "barber's clippers",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바리케이드",
+    "translation": "баррикад",
+    "hanja": "barricade",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바리케이트",
+    "translation": "хаалт",
+    "hanja": "barricade",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바리톤",
+    "translation": "баритон",
+    "hanja": "baritone",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바바리",
+    "translation": "борооны цув",
+    "hanja": "gabardine",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바바리코트",
+    "translation": "Бабари пальто, хавар намрын нимгэн пальто",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바버",
+    "translation": "үсчин",
+    "hanja": "barber",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바베이도스",
+    "translation": "Барбадос",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "바베큐",
+    "translation": "барбекю",
+    "hanja": "barbecue",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바벨",
+    "translation": "гантел",
+    "hanja": "바벨(barbell)",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바벨론",
+    "translation": "Вавилон",
+    "hanja": "Babylon",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바보",
+    "translation": "тэнэг",
+    "hanja": "바보",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바보상자",
+    "translation": "тэнэг хайрцаг (зурагтыг хэлэх)",
+    "hanja": "바보箱子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바보스럽다",
+    "translation": "мулгуу",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바보짓",
+    "translation": "тэнэг үйлдэл, мунхаг зан",
+    "hanja": "바보짓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바비다",
+    "translation": "бабида (дуу хураагч)",
+    "hanja": "―",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "바비도",
+    "translation": "бабидо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바비큐",
+    "translation": "Барбекю",
+    "hanja": "바비큐",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "바빌로니아",
+    "translation": "Бабилони",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바빌로프",
+    "translation": "Вавилов",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바빌론",
+    "translation": "Вавилон",
+    "hanja": "바빌론",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바쁘다",
+    "translation": "завгүй",
+    "hanja": "바쁘다",
+    "pos": "Adjective",
+    "cefr": "A1"
+  },
+  {
+    "word": "바삐",
+    "translation": "яаран",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바사",
+    "translation": "баса",
+    "hanja": "Vasa",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바사리",
+    "translation": "Базари (шувууны төрөл)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바사삭",
+    "translation": "шажиг шажиг",
+    "hanja": "바사삭",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바삭",
+    "translation": "шаржигнасан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바삭거리다",
+    "translation": "хугарах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "바삭바삭",
+    "translation": "шажигнах, шаржигнах",
+    "hanja": "바삭바삭",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바삭바삭하다",
+    "translation": "шаржигнуур",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바삭하다",
+    "translation": "шаржигнуур, хуурай",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바세다",
+    "translation": "хурц, нямбай",
+    "hanja": "None",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바셀린",
+    "translation": "вазелин",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바셋하운드",
+    "translation": "бассет хаунд",
+    "hanja": "Basset Hound",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바소리",
+    "translation": "Хувийн зүйл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바쇼",
+    "translation": "Басё",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바순",
+    "translation": "фагот",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바스다",
+    "translation": "бутаргах, хагалах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바스라",
+    "translation": "Басра (Газарзүй)",
+    "hanja": "N/A",
+    "pos": "Proper Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바스라지다",
+    "translation": "бутрах, хагарах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "바스락",
+    "translation": "шажигнах, баажигнах",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "바스락거리다",
+    "translation": "шуржигнах",
+    "hanja": "바스락거리다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "바스락대다",
+    "translation": "шажигнах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바스락바스락",
+    "translation": "шажиг шажиг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바스러지다",
+    "translation": "Шатаж унах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바스켓",
+    "translation": "сагс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바스켓볼",
+    "translation": "сагсан бөмбөг",
+    "hanja": "basketball",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바스크",
+    "translation": "баск (ард түмэн, хэл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바스키아",
+    "translation": "Баскиа (зураач)",
+    "hanja": "바스키아",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "바스트",
+    "translation": "баст (хэлбэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바스티유",
+    "translation": "Бастиль",
+    "hanja": "Bastille",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바실리스크",
+    "translation": "Базилис (домогор амьтан)",
+    "hanja": "바실리스크",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바실리카",
+    "translation": "базилика",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바싹",
+    "translation": "ойрхон",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바싹바싹",
+    "translation": "хуурай, хатахаар",
+    "hanja": "바싹바싹",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바싹하다",
+    "translation": "Хуурай байх",
+    "hanja": "N/A",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "바아",
+    "translation": "Ваа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바알",
+    "translation": "Баал",
+    "hanja": "바알",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바알세불",
+    "translation": "Беелзеб",
+    "hanja": "바알세불",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바야돌리드",
+    "translation": "Вальядолид",
+    "hanja": "Valladolid",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바야르",
+    "translation": "Баяр",
+    "hanja": "바야르",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바야흐로",
+    "translation": "одоохондоо",
+    "hanja": "—",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바에",
+    "translation": "тухайд",
+    "hanja": "바에",
+    "pos": "의존명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바오",
+    "translation": "Бао",
+    "hanja": "바오",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바오바브나무",
+    "translation": "баобаб мод",
+    "hanja": "바오바브나무",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바오밥나무",
+    "translation": "баобаб мод",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바오산",
+    "translation": "Баошань",
+    "hanja": "寶山",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바우",
+    "translation": "чулуу",
+    "hanja": "바우",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바우다",
+    "translation": "мэдэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바우처",
+    "translation": "ваучер",
+    "hanja": "바우처",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바우트",
+    "translation": "тулаан, өрсөлдөөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바우하우스",
+    "translation": "Баухаус",
+    "hanja": null,
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "바운더리",
+    "translation": "хязгаар, зааг",
+    "hanja": "boundary",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바운드",
+    "translation": "үсрэх",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바운서",
+    "translation": "барны хаалгач",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바운스",
+    "translation": "үсрэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바운싱",
+    "translation": "үсрэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바울",
+    "translation": "Паул",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바울로",
+    "translation": "Паул (нэр)",
+    "hanja": "바울로",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바움가르트너",
+    "translation": "Баумгартнер",
+    "hanja": null,
+    "pos": "인명",
+    "cefr": "C2"
+  },
+  {
+    "word": "바움쿠헨",
+    "translation": "баумкухен (Германы торт)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "바위",
+    "translation": "Хадан цохио",
+    "hanja": "바위",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바위산",
+    "translation": "Хадан уул",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "바위섬",
+    "translation": "чулуурхаг арал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바위투성이",
+    "translation": "чулуутай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바위틈",
+    "translation": "Хадны завсар",
+    "hanja": "바위틈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바윗길",
+    "translation": "хадан зам",
+    "hanja": "바윗길",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바윗덩어리",
+    "translation": "Чулууны хэсэг",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바윗덩이",
+    "translation": "том чулуу",
+    "hanja": "바윗덩이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바윗돌",
+    "translation": "чулуун тавцан",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바유",
+    "translation": "Дэвтэргүйгээр хүүрнэх (хуучин үг)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바이",
+    "translation": "баяртай",
+    "hanja": null,
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "바이너리",
+    "translation": "хоёртын",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이러스",
+    "translation": "вирус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바이런",
+    "translation": "Байрон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이마르",
+    "translation": "Ваймар",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바이백",
+    "translation": "буцаан худалдан авах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바이브레이션",
+    "translation": "чичиргээ",
+    "hanja": "바이브레이션",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바이브레이터",
+    "translation": "Вибратор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바이블",
+    "translation": "Библи",
+    "hanja": "Bible",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바이샤",
+    "translation": "Вайшя",
+    "hanja": "바이샤",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바이스",
+    "translation": "дэр",
+    "hanja": "vice",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바이슨",
+    "translation": "бизон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바이아웃",
+    "translation": "байаут, худалдаж авах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바이알",
+    "translation": "шилэнд",
+    "hanja": "바이알",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바이애슬론",
+    "translation": "биатлон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이어",
+    "translation": "худалдан авагч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "바이어스",
+    "translation": "хандлага",
+    "hanja": "bias",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이얼레이션",
+    "translation": "Зөрчил",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이에른",
+    "translation": "Бавари",
+    "hanja": "Bayern",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바이엘",
+    "translation": "байер",
+    "hanja": "바이엘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이오가스",
+    "translation": "Био хий",
+    "hanja": "바이오가스",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바이오디젤",
+    "translation": "биодизель",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이오로직스",
+    "translation": "биологийн бүтээгдэхүүн",
+    "hanja": "바이오로직스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이오리듬",
+    "translation": "биологийн хэмнэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바이오매스",
+    "translation": "биомасс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이오메디컬",
+    "translation": "биоанагаах ухаан",
+    "hanja": "biomedical",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바이오산업",
+    "translation": "биотехнологийн үйлдвэрлэл",
+    "hanja": "바이오産業",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이오센서",
+    "translation": "биосенсор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이오스",
+    "translation": "био",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이오스피어",
+    "translation": "биосфер",
+    "hanja": "바이오스피어",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "바이오주",
+    "translation": "Биотехнологийн хувьцаа",
+    "hanja": "바이오株",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이오팜",
+    "translation": "Биофарм",
+    "hanja": "바이오팜",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이오피드백",
+    "translation": "био фийдбэк",
+    "hanja": "바이오피드백",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이올렛",
+    "translation": "ягаан",
+    "hanja": "바이올렛",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바이올리니스트",
+    "translation": "хийлч",
+    "hanja": "바이올리니스트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바이올린",
+    "translation": "хийл",
+    "hanja": "violin",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바이저",
+    "translation": "нарны хаалт",
+    "hanja": "바이저",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이칼호",
+    "translation": "Байгал нуур",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "바이커",
+    "translation": "мотоциклчин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바이코누르",
+    "translation": "Байконур",
+    "hanja": "바이코누르",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이크",
+    "translation": "мотоцикл",
+    "hanja": "바이크",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "바이킹",
+    "translation": "викинг",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바이타민",
+    "translation": "Витамин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바이트",
+    "translation": "байт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바이패스",
+    "translation": "тойруу зам",
+    "hanja": "바이패스",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바이폴라",
+    "translation": "хоёр туйлтай",
+    "hanja": "bipolar",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바인더",
+    "translation": "хавтас",
+    "hanja": "Binder",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바인드",
+    "translation": "холбох",
+    "hanja": "바인드",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바인딩",
+    "translation": "Байндинг (номыг хавтаслах)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바일",
+    "translation": "Ваил",
+    "hanja": "바일",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바자",
+    "translation": "базар",
+    "hanja": "bazaar",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바자회",
+    "translation": "базар, үзэсгэлэн худалдаа",
+    "hanja": "bazaar会",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바작바작",
+    "translation": "шажигнах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바젤",
+    "translation": "Базель (хот)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바조",
+    "translation": "Бахо",
+    "hanja": "바조",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바주카",
+    "translation": "базука",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바지",
+    "translation": "өмд",
+    "hanja": "바지",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바지락",
+    "translation": "хясаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바지랑대",
+    "translation": "Хувцас өлгөх шон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바지런하다",
+    "translation": "хичээнгүй, шаргуу",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바지런히",
+    "translation": "хичээнгүйлэн",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바지저고리",
+    "translation": "өмдөн цамц",
+    "hanja": "바지저고리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바지춤",
+    "translation": "Өмдний өвдөг",
+    "hanja": "바지춤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바지통",
+    "translation": "өргөн өмд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바질",
+    "translation": "базил",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바짓가랑이",
+    "translation": "өмдний шуумаг",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바짓단",
+    "translation": "Өмдний өөр, өмдний нугалаа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바짝",
+    "translation": "ойрхон, чанга",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바짝바짝",
+    "translation": "хуурайших",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바치다",
+    "translation": "өгөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바카라",
+    "translation": "бакара",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바칼로레아",
+    "translation": "бакалавр",
+    "hanja": "바칼로레아",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바캉스",
+    "translation": "амралт",
+    "hanja": "vacance",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바커",
+    "translation": "Бах (хөгжмийн зохиолч)",
+    "hanja": "Bach",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바코드",
+    "translation": "Баркод",
+    "hanja": "바코드",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바쿠",
+    "translation": "Баку",
+    "hanja": "바쿠",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바쿠스",
+    "translation": "Бахус (Ромын дарсны бурхан)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바쿠테",
+    "translation": "Бакутэ",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "바퀴",
+    "translation": "дугуй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바퀴벌레",
+    "translation": "Жуурч",
+    "hanja": "바퀴벌레",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바큇살",
+    "translation": "дугуйн хигээс",
+    "hanja": null,
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "바큇자국",
+    "translation": "дугуйн мөр",
+    "hanja": "바큇자국",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바크",
+    "translation": "Модны холтос",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바클라바",
+    "translation": "баклава",
+    "hanja": "baklava",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바키",
+    "translation": "багги",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "바탕",
+    "translation": "үндэс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바탕색",
+    "translation": "Суурь өнгө",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "바터",
+    "translation": "Солилцох",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바텐더",
+    "translation": "бартендер",
+    "hanja": "bartender",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바토",
+    "translation": "Бато (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바톤",
+    "translation": "баттон",
+    "hanja": "baton",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바통",
+    "translation": "бух (саваа)",
+    "hanja": "바통",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "바투",
+    "translation": "ойрхон, барьцалдуулан",
+    "hanja": "NaN",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "바트",
+    "translation": "бат (мөнгөн тэмдэгт)",
+    "hanja": "바트",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바트다",
+    "translation": "дутагдалтай, хомс",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바티",
+    "translation": "мөнгө",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바티스트",
+    "translation": "Баптист",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바티칸",
+    "translation": "Ватикан",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바하",
+    "translation": "Бах",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "바흐",
+    "translation": "Бах",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B2"
+  }
+]

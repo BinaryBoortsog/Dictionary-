@@ -1,0 +1,905 @@
+[
+  {
+    "word": "적",
+    "translation": "дайн",
+    "hanja": "敵",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "적갈색",
+    "translation": "улаан хүрэн",
+    "hanja": "赤褐色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적개심",
+    "translation": "Дайсагнал",
+    "hanja": "敵愾心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적격",
+    "translation": "тохиромжтой, шаардлага хангасан",
+    "hanja": "適格",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "적격자",
+    "translation": "тохирох хүн",
+    "hanja": "適格者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적구",
+    "translation": "улаан бөмбөг",
+    "hanja": "赤球",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적국",
+    "translation": "дайсан орон",
+    "hanja": "敵國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적군",
+    "translation": "Дайсан арми",
+    "hanja": "敵軍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적극",
+    "translation": "идэвхтэй",
+    "hanja": "積極",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "적극성",
+    "translation": "идэвхтэй байдал",
+    "hanja": "積極性",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "적극적",
+    "translation": "идэвхтэй",
+    "hanja": "積極的",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "적금",
+    "translation": "Хадгаламж",
+    "hanja": "積金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적금하다",
+    "translation": "Хуримтлал хийх, хуримтлуулах",
+    "hanja": "積金하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적나라하다",
+    "translation": "ил тод байх, нүцгэн байх",
+    "hanja": "赤裸裸하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "적다",
+    "translation": "бага",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "적당",
+    "translation": "Тохиромжтой, зохистой",
+    "hanja": "適當",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "적당량",
+    "translation": "тохирох хэмжээ",
+    "hanja": "適當量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적당하다",
+    "translation": "тохиромжтой",
+    "hanja": "適當하다",
+    "pos": "adj",
+    "cefr": "B1"
+  },
+  {
+    "word": "적당히",
+    "translation": "зохих ёсоор",
+    "hanja": "適當히",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "적대감",
+    "translation": "дайсагнал",
+    "hanja": "敵對感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적대국",
+    "translation": "дайсан орон",
+    "hanja": "敵對國",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "적대시",
+    "translation": "дайн байдал",
+    "hanja": "敵對視",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적대시하다",
+    "translation": "Дайсагнаж харах",
+    "hanja": "敵對視하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적대자",
+    "translation": "дайсан",
+    "hanja": "敵對者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적대적",
+    "translation": "дайсагнасан",
+    "hanja": "敵對的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적대하다",
+    "translation": "дайсагнах",
+    "hanja": "敵對하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적도",
+    "translation": "экватор",
+    "hanja": "赤道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적령기",
+    "translation": "тохиромжтой нас",
+    "hanja": "適齡期",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적룡",
+    "translation": "улаан луу",
+    "hanja": "赤龍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "적립",
+    "translation": "Хуримтлал",
+    "hanja": "積立",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적립금",
+    "translation": "хуримтлалын сан",
+    "hanja": "積立金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적립되다",
+    "translation": "хуримтлагдах, цуглуулах",
+    "hanja": "積立되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적립하다",
+    "translation": "хуримтлуулах, цуглуулах",
+    "hanja": "積立하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적막",
+    "translation": "чимээгүй байдал",
+    "hanja": "寂寞",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "적막감",
+    "translation": "чимээгүй, хоосорсон мэдрэмж",
+    "hanja": "寂寞感",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "적막하다",
+    "translation": "чимээгүй, эзгүй",
+    "hanja": "寂寞하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적멸보궁",
+    "translation": "мэргэн ухааны ордон",
+    "hanja": "寂滅寶宮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "적목",
+    "translation": "улаан нүд (гэрэл зурагт)",
+    "hanja": "赤目",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적반하장",
+    "translation": "үйлдсэн этгээд нь эсрэгээрээ уурлах",
+    "hanja": "賊反荷杖",
+    "pos": "н.",
+    "cefr": "C2"
+  },
+  {
+    "word": "적발",
+    "translation": "илрүүлэх, баривчлах",
+    "hanja": "摘發",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적발되다",
+    "translation": "илчлэгдэх",
+    "hanja": "摘發되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적발하다",
+    "translation": "Илрүүлэх",
+    "hanja": "摘發하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적법",
+    "translation": "хууль ёсны",
+    "hanja": "適法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적법하다",
+    "translation": "хууль ёсны",
+    "hanja": "適法하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "적벽",
+    "translation": "улаан хад",
+    "hanja": "赤壁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "적벽가",
+    "translation": "Улаан хадны дуу",
+    "hanja": "赤壁歌",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "적병",
+    "translation": "дайсан цэрэг",
+    "hanja": "敵兵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적봉",
+    "translation": "улаан лац",
+    "hanja": "赤封",
+    "pos": "명",
+    "cefr": "C2"
+  },
+  {
+    "word": "적분",
+    "translation": "интеграл",
+    "hanja": "적분(積分)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적분하다",
+    "translation": "интеграцчилах",
+    "hanja": "積分하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "적삼",
+    "translation": "улаан дээл",
+    "hanja": "赤衫",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "적색",
+    "translation": "Улаан өнгө",
+    "hanja": "赤色",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "적색경보",
+    "translation": "улаан дохио",
+    "hanja": "赤色警報",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적선",
+    "translation": "буян, хандив",
+    "hanja": "積善",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적선하다",
+    "translation": "буян үйлдэх, өглөг өгөх",
+    "hanja": "積善하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "적설",
+    "translation": "цасны зузаан",
+    "hanja": "積雪",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "적설량",
+    "translation": "цасны хэмжээ",
+    "hanja": "積雪量",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "적성",
+    "translation": "Авьяас чадвар",
+    "hanja": "適性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "적소",
+    "translation": "Эзгүй газар, хүн амьгүй газар",
+    "hanja": "寂所",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "적송",
+    "translation": "улаан нарс",
+    "hanja": "赤松",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적수",
+    "translation": "өрсөлдөгч, дайсан",
+    "hanja": "敵手",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "적시",
+    "translation": "Цаг тухайд нь",
+    "hanja": "適時",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적시다",
+    "translation": "норгох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적시되다",
+    "translation": "Цаг тухайд нь илэрхийлэгдэх",
+    "hanja": "摘示되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적시타",
+    "translation": "Цаг хугацааны цохилт",
+    "hanja": "適時打",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적시하다",
+    "translation": "цаг тухайд нь зааж өгөх",
+    "hanja": "適示하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적신",
+    "translation": "улаан бурхан",
+    "hanja": "赤神",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "적신월사",
+    "translation": "Улаан хавирган сар нийгэмлэг",
+    "hanja": "赤新月社",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적신호",
+    "translation": "Улаан гэрэл",
+    "hanja": "赤信號",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적십자",
+    "translation": "улаан загалмай",
+    "hanja": "赤十字",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "적안",
+    "translation": "Улаан нүд",
+    "hanja": "赤眼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적외선",
+    "translation": "Хэт улаан туяа",
+    "hanja": "赤外線",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적요하다",
+    "translation": "чимээгүй, анир гүм байх",
+    "hanja": "寂寥하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "적용",
+    "translation": "хэрэглэх, ашиглах",
+    "hanja": "適用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적용되다",
+    "translation": "хэрэглэгдэх",
+    "hanja": "適用되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적용하다",
+    "translation": "Хэрэглэх, ашиглах",
+    "hanja": "適用하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적응",
+    "translation": "дасан зохицох",
+    "hanja": "適應",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적응되다",
+    "translation": "Дасан зохицох",
+    "hanja": "適應되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "적응력",
+    "translation": "Дасан зохицох чадвар",
+    "hanja": "適應力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적응시키다",
+    "translation": "дасгах",
+    "hanja": "適應시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적응하다",
+    "translation": "дасан зохицох",
+    "hanja": "適應하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적의",
+    "translation": "Дайсагнал",
+    "hanja": "敵意",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "적이",
+    "translation": "дайсны санаа",
+    "hanja": "敵意",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적임",
+    "translation": "тохирох ажил, тохирох хүн",
+    "hanja": "適任",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적임자",
+    "translation": "Тохирох хүн",
+    "hanja": "適任者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적자",
+    "translation": "алдагдал",
+    "hanja": "赤字",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "적자생존",
+    "translation": "хамгийн хүчтэй нь амьд үлдэнэ",
+    "hanja": "適者生存",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적잖다",
+    "translation": "제법, 상당한",
+    "hanja": "積잖다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적잖이",
+    "translation": "нэлээд",
+    "hanja": "적잖이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적장",
+    "translation": "дайсны жанжин",
+    "hanja": "敵將",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "적재되다",
+    "translation": "ачаа ачих",
+    "hanja": "積載되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적재량",
+    "translation": "ачаа тээх хэмжээ",
+    "hanja": "積載量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적재적소",
+    "translation": "тохиромжтой байршил",
+    "hanja": "適材適所",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "적재하다",
+    "translation": "ачих",
+    "hanja": "積載하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적저",
+    "translation": "хураах",
+    "hanja": "積貯",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "적적",
+    "translation": "нүцгэн, хоосон, гунигтай",
+    "hanja": "寂寂",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적적하다",
+    "translation": "ганцаардах",
+    "hanja": "寂寂하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적절성",
+    "translation": "Зохимжтой байдал",
+    "hanja": "適切性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적절하다",
+    "translation": "Зохистой",
+    "hanja": "適切하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "적절히",
+    "translation": "зохих ёсоор, тохиромжтой байдлаар",
+    "hanja": "適切히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적정",
+    "translation": "Тохиромжтой",
+    "hanja": "適正",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적정가",
+    "translation": "тохиромжтой үнэ",
+    "hanja": "適正價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적정선",
+    "translation": "зохистой хэмжээ, тохиромжтой түвшин",
+    "hanja": "適正線",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "적정성",
+    "translation": "тохиромжтой байдал, зохистой байдал",
+    "hanja": "適正性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적정하다",
+    "translation": "Тохиромжтой",
+    "hanja": "適正하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적조",
+    "translation": "улаан ус (далайн үзэгдэл)",
+    "hanja": "赤潮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적중",
+    "translation": "Онох",
+    "hanja": "的中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적중하다",
+    "translation": "онох, таарах",
+    "hanja": "命中하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "적진",
+    "translation": "дайнд",
+    "hanja": "敵陣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적채",
+    "translation": "улаан байцаа",
+    "hanja": "赤菜",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "적체",
+    "translation": "хуримтлал",
+    "hanja": "積滯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적초",
+    "translation": "улаан цуу",
+    "hanja": "赤醋",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적축",
+    "translation": "улаан тэнхлэг",
+    "hanja": "赤軸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적출",
+    "translation": "гаргах",
+    "hanja": "적출(摘出)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적출되다",
+    "translation": "мэс заслаар авах",
+    "hanja": "摘出되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적출하다",
+    "translation": "гаргаж авах",
+    "hanja": "摘出하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적층",
+    "translation": "Давхарлал; Үе давхарга",
+    "hanja": "積層",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "적치",
+    "translation": "хуримтлал",
+    "hanja": "積置",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적토",
+    "translation": "улаан шороо",
+    "hanja": "赤土",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적통",
+    "translation": "хааны угсаа",
+    "hanja": "嫡統",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적패",
+    "translation": "улаан карт",
+    "hanja": "赤牌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적폐",
+    "translation": "Хуримтлагдсан муу зүйлс",
+    "hanja": "積弊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "적합",
+    "translation": "тохиромжтой байдал, зохицох байдал",
+    "hanja": "適合",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적합성",
+    "translation": "тохиромжтой байдал",
+    "hanja": "適合性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적합하다",
+    "translation": "тохиромжтой",
+    "hanja": "適合하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적혈구",
+    "translation": "улаан цусны эс",
+    "hanja": "赤血球",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "적화",
+    "translation": "ачаа",
+    "hanja": "積貨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적확하다",
+    "translation": "Яг таг, зөв, тодорхой",
+    "hanja": "的確하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "적히다",
+    "translation": "бичигдэх, тэмдэглэгдэх",
+    "hanja": "적히다",
+    "pos": "verb",
+    "cefr": "B1"
+  }
+]

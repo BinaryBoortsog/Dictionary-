@@ -1,0 +1,835 @@
+[
+  {
+    "word": "창",
+    "translation": "цонх",
+    "hanja": "窓",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "창가",
+    "translation": "цонхны тал",
+    "hanja": "窓가",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "창간",
+    "translation": "анхны дугаарыг гаргах",
+    "hanja": "創刊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창간되다",
+    "translation": "анхны дугаар гарах",
+    "hanja": "創刊되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창간하다",
+    "translation": "анхны дугаарыг гаргах",
+    "hanja": "創刊하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창간호",
+    "translation": "анхны дугаар",
+    "hanja": "創刊號",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창건",
+    "translation": "байгуулах, үүсгэн байгуулах",
+    "hanja": "創建",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창건되다",
+    "translation": "байгуулагдах, үүсгэн байгуулагдах",
+    "hanja": "創建-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창건하다",
+    "translation": "байгуулах, үүсгэн байгуулах",
+    "hanja": "創建하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창검",
+    "translation": "жад, сэлэм",
+    "hanja": "槍劍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창경궁",
+    "translation": "Чангёнгун ордон",
+    "hanja": "昌慶宮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창고",
+    "translation": "Агуулах",
+    "hanja": "倉庫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창공",
+    "translation": "цэнгэг агаар, хөх тэнгэр",
+    "hanja": "蒼空",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창관",
+    "translation": "бизнесийн байшин",
+    "hanja": "娼館",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창구",
+    "translation": "Цонх, касс",
+    "hanja": "窓口",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창구멍",
+    "translation": "цонхны нүх",
+    "hanja": "窓구멍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창궐",
+    "translation": "тархалт, дэлгэрэх",
+    "hanja": "猖獗",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "창궐하다",
+    "translation": "тархах, дэлгэрэх",
+    "hanja": "猖獗하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "창귀",
+    "translation": "муурны сүнс (домогт)",
+    "hanja": "倀鬼",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "창균",
+    "translation": "Чангюн (хүний нэр)",
+    "hanja": "彰均",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창극",
+    "translation": "чан극 (бүтээлч дуулалт)",
+    "hanja": "唱劇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창기",
+    "translation": "янхан",
+    "hanja": "娼妓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창녀",
+    "translation": "биеэ үнэлэгч",
+    "hanja": "娼女",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "창녕",
+    "translation": "Чаннён",
+    "hanja": "昌寧",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창단",
+    "translation": "байгуулах",
+    "hanja": "創團",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창단되다",
+    "translation": "Үүсгэн байгуулагдах",
+    "hanja": "創團되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "창단하다",
+    "translation": "байгуулах",
+    "hanja": "創團하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창당",
+    "translation": "нам байгуулах",
+    "hanja": "創黨",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "창당하다",
+    "translation": "нам байгуулах",
+    "hanja": "創黨하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창대하다",
+    "translation": "агуу, том",
+    "hanja": "昌大하다",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "창덕궁",
+    "translation": "Чандок гүн",
+    "hanja": "昌德宮",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "창동",
+    "translation": "Чандун (газарзүйн нэр)",
+    "hanja": "倉洞",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "창로",
+    "translation": "цонхны зам",
+    "hanja": "窓路",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창릉",
+    "translation": "чанрын (оюуны чадамж)",
+    "hanja": "昌陵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창립",
+    "translation": "Үүсгэн байгуулах",
+    "hanja": "創立",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창립되다",
+    "translation": "үүсгэн байгуулагдах",
+    "hanja": "創立되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창립자",
+    "translation": "үндэслэгч",
+    "hanja": "創立者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창립하다",
+    "translation": "үүсгэн байгуулах",
+    "hanja": "創立하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창모",
+    "translation": "цонхны хөшиг",
+    "hanja": "窓帽",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "창무",
+    "translation": "цэцэгт бүжиг",
+    "hanja": "唱歌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창문",
+    "translation": "цонх",
+    "hanja": "窓門",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "창밖",
+    "translation": "цонхны гадаа",
+    "hanja": "窓밖",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "창발",
+    "translation": "Гэнэтийн шинэ зүйл үүсэх",
+    "hanja": "創發",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창백하다",
+    "translation": "Цайдгар",
+    "hanja": "蒼白하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "창법",
+    "translation": "дуулах арга",
+    "hanja": "唱法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창병",
+    "translation": "жадчин",
+    "hanja": "槍兵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창부",
+    "translation": "Биеэ үнэлэгч",
+    "hanja": "倡婦",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "창사",
+    "translation": "үүсгэн байгуулах",
+    "hanja": "創社",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창살",
+    "translation": "цонхны тор",
+    "hanja": "窓살",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창상",
+    "translation": "шарх",
+    "hanja": "創傷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창생",
+    "translation": "хүн төрөлхтөн",
+    "hanja": "蒼生",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창설",
+    "translation": "байгуулах",
+    "hanja": "創設",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창설되다",
+    "translation": "байгуулагдах",
+    "hanja": "創設되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창설자",
+    "translation": "үндэслэгч, үүсгэн байгуулагч",
+    "hanja": "創設者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창설하다",
+    "translation": "байгуулах",
+    "hanja": "創設하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창세",
+    "translation": "ертөнц үүссэн түүх",
+    "hanja": "創世",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "창수",
+    "translation": "Цансу",
+    "hanja": "昌洙",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "창술",
+    "translation": "Жадны урлаг",
+    "hanja": "槍術",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창시",
+    "translation": "үүсгэн байгуулах",
+    "hanja": "創始",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창시자",
+    "translation": "үндэслэгч",
+    "hanja": "創始者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창시하다",
+    "translation": "үндэслэх, байгуулах",
+    "hanja": "創始하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "창식",
+    "translation": "Chang-sik",
+    "hanja": "昌植",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "창씨",
+    "translation": "овгийг өөрчлөх",
+    "hanja": "創氏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창아",
+    "translation": "Цагаан шүд",
+    "hanja": "蒼牙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창안하다",
+    "translation": "Зохион бүтээх",
+    "hanja": "創案하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창업",
+    "translation": "бизнес эхлэх",
+    "hanja": "創業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창업자",
+    "translation": "үндэслэгч",
+    "hanja": "創業者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창업하다",
+    "translation": "бизнес эхлүүлэх",
+    "hanja": "創業하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "창연",
+    "translation": "хөгшрөх",
+    "hanja": "蒼然",
+    "pos": "тэмдэг нэр",
+    "cefr": "C1"
+  },
+  {
+    "word": "창왕",
+    "translation": "Чан ван (солонгосын хаан)",
+    "hanja": "昌王",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창우",
+    "translation": "дуучин, жүжигчин (хуучны)",
+    "hanja": "唱優",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창원",
+    "translation": "Чанвон (хот)",
+    "hanja": "昌原",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창유리",
+    "translation": "цонхны шил",
+    "hanja": "窓琉璃",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "창의",
+    "translation": "бүтээлч сэтгэлгээ",
+    "hanja": "創意",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창의력",
+    "translation": "бүтээлч чадвар",
+    "hanja": "創意力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창의성",
+    "translation": "бүтээлч чанар",
+    "hanja": "創意性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창의적",
+    "translation": "бүтээлч",
+    "hanja": "創意적",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창이",
+    "translation": "цонх",
+    "hanja": "窓",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "창자",
+    "translation": "Гэдэс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창작",
+    "translation": "Бүтээл туурвих",
+    "hanja": "創作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창작극",
+    "translation": "шинэ жүжиг",
+    "hanja": "創作劇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창작되다",
+    "translation": "Бүтээгдэх, зохиогдох",
+    "hanja": "創作되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창작물",
+    "translation": "бүтээл",
+    "hanja": "創作物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창작자",
+    "translation": "бүтээгч",
+    "hanja": "創作者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "창작집",
+    "translation": "уран бүтээлийн ном",
+    "hanja": "創作集",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창작품",
+    "translation": "уран бүтээл",
+    "hanja": "創作",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창작하다",
+    "translation": "Бүтээл туурвих",
+    "hanja": "創作하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "창장",
+    "translation": "үе үеийн зохиогч",
+    "hanja": "創匠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창저우",
+    "translation": "Чанжоу (хот)",
+    "hanja": "常州",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창정",
+    "translation": "Чанжөн (газарзүйн нэр)",
+    "hanja": "昌政",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창제",
+    "translation": "үүсгэн байгуулах",
+    "hanja": "創制",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "창제하다",
+    "translation": "шинээр зохиох, бүтээх",
+    "hanja": "創制하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창조",
+    "translation": "Бүтээл",
+    "hanja": "創造",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창조되다",
+    "translation": "бүтээгдсэн",
+    "hanja": "創造되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창조물",
+    "translation": "бүтээл",
+    "hanja": "創造物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창조성",
+    "translation": "бүтээлч чанар",
+    "hanja": "創造性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창조자",
+    "translation": "бүтээгч",
+    "hanja": "創造者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창조적",
+    "translation": "бүтээлч",
+    "hanja": "創造的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창조주",
+    "translation": "бүтээгч",
+    "hanja": "創造主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창조하다",
+    "translation": "бүтээх, бий болгох",
+    "hanja": "創造하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창주",
+    "translation": "Чанжү (газар)",
+    "hanja": "滄州",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "창창",
+    "translation": "цэнгэг, цэнхэр",
+    "hanja": "蒼蒼",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "창창하다",
+    "translation": "ирээдүй нь гэрэлтэй байх, өнгөлөг байх",
+    "hanja": "昌昌하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "창천",
+    "translation": "цэнхэр тэнгэр",
+    "hanja": "蒼天",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창춘",
+    "translation": "Чанчунь",
+    "hanja": "長春",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "창출",
+    "translation": "Бүтээх",
+    "hanja": "創出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창출되다",
+    "translation": "бүтээгдэх",
+    "hanja": "創出되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창출하다",
+    "translation": "бий болгох, үүсгэх",
+    "hanja": "創出-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창칼",
+    "translation": "жад, сэлэм",
+    "hanja": "槍칼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창턱",
+    "translation": "цонхны тавцан",
+    "hanja": "窓턱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창틀",
+    "translation": "Цонхны тавцан",
+    "hanja": "窓틀",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "창파",
+    "translation": "цэнхэр давалгаа",
+    "hanja": "滄波",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창포",
+    "translation": "тэмээн таваг",
+    "hanja": "菖蒲",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "창피",
+    "translation": "Ичгүүр",
+    "hanja": "猖披",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창피스럽다",
+    "translation": "Ичмээр",
+    "hanja": "猖披스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창피하다",
+    "translation": "ичих, ичгүүртэй",
+    "hanja": "瘡疤하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창호",
+    "translation": "цонх болон хаалга",
+    "hanja": "窓戶",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창화",
+    "translation": "дуулах",
+    "hanja": "倡和",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창희",
+    "translation": "Чан Хи (хүний нэр)",
+    "hanja": "昌熙",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

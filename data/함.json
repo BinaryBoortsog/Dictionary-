@@ -1,0 +1,436 @@
+[
+  {
+    "word": "함",
+    "translation": "хийх (төлөвлөгөө)",
+    "hanja": "函",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "함경남도",
+    "translation": "Хамгёндо (аймаг)",
+    "hanja": "咸鏡南道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함경도",
+    "translation": "хамгёндо (Солонгосын муж)",
+    "hanja": "咸鏡道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "함경북도",
+    "translation": "Хамгёнбук-до",
+    "hanja": "咸鏡北道",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "함곡관",
+    "translation": "Хамгок эрх",
+    "hanja": "函谷關",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "함광",
+    "translation": "гэрлийг нуух",
+    "hanja": "含光",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "함교",
+    "translation": "гүүрэн гарц",
+    "hanja": "艦橋",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "함구",
+    "translation": "дуугүй байх, амаа татах",
+    "hanja": "緘口",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "함구령",
+    "translation": "чимээгүй байх тушаал, хориг",
+    "hanja": "緘口令",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함구하다",
+    "translation": "чимээгүй байх",
+    "hanja": "緘口하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "함길도",
+    "translation": "Хамгилдо (газарзүйн нэр)",
+    "hanja": "咸吉道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함께",
+    "translation": "хамт",
+    "hanja": "함께",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "함께하다",
+    "translation": "Хамт байх, хамтрах",
+    "hanja": "함께하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "함대",
+    "translation": "флот",
+    "hanja": "艦隊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함덕",
+    "translation": "Хамдок (газар зүйн нэр)",
+    "hanja": "咸德",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "함락",
+    "translation": "унагаах",
+    "hanja": "陷落",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함락되다",
+    "translation": "бүслэгдсэн",
+    "hanja": "陷落되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함락하다",
+    "translation": "эзлэх",
+    "hanja": "陷落하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "함량",
+    "translation": "агууламж",
+    "hanja": "含量",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "함몰",
+    "translation": "нуралт",
+    "hanja": "陷沒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함몰되다",
+    "translation": "хонхойх",
+    "hanja": "陷沒되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "함무라비",
+    "translation": "Хаммурапи (Вавилоны хаан)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함미",
+    "translation": "хөлгийн сүүл",
+    "hanja": "艦尾",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "함바",
+    "translation": "хямд хоолны газар, барилгын ажилчдын хоолны газар",
+    "hanja": "함바",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "함박",
+    "translation": "том аяга",
+    "hanja": "함박",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "함박꽃",
+    "translation": "сарнай цэцэг",
+    "hanja": "함박꽃",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "함박눈",
+    "translation": "ширхэгтэй цас",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "함박웃음",
+    "translation": "инээмсэглэл",
+    "hanja": "함박웃음",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "함부러",
+    "translation": "үл ялиг",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "함부르크",
+    "translation": "Хамбург",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "함북",
+    "translation": "Хамгёнбүүг",
+    "hanja": "咸北",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "함빡",
+    "translation": "бүрэн",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "함상",
+    "translation": "усан онгоцны тавцан дээр",
+    "hanja": "艦上",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함석",
+    "translation": "төмөр цагаан тугалга, цагаан тугалганы хуудас",
+    "hanja": "함석",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "함선",
+    "translation": "байлдааны хөлөг онгоц",
+    "hanja": "艦船",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함성",
+    "translation": "Хашгираан",
+    "hanja": "喊聲",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "함세",
+    "translation": "Сайн байна уу, мэнд (хуучирсан хэллэг)",
+    "hanja": "咸世",
+    "pos": "Interjection",
+    "cefr": "C1"
+  },
+  {
+    "word": "함수",
+    "translation": "функц",
+    "hanja": "函數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "함안",
+    "translation": "Хаман (газар нэр)",
+    "hanja": "咸安",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "함양",
+    "translation": "хөгжүүлэх",
+    "hanja": "涵養",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함양하다",
+    "translation": "боловсруулах, хөгжүүлэх",
+    "hanja": "涵養하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함유",
+    "translation": "Агуулах, оролцуулах",
+    "hanja": "含有",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "함유되다",
+    "translation": "агуулсан байх",
+    "hanja": "含有되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "함유량",
+    "translation": "Агууламж",
+    "hanja": "含有量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "함유하다",
+    "translation": "агуулах",
+    "hanja": "含有─",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "함의",
+    "translation": "далд утга",
+    "hanja": "含意",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함자",
+    "translation": "нэр (хүндэтгэлийн хэлбэр)",
+    "hanja": "銜字",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "함장",
+    "translation": "хөлөг онгоцны ахмад",
+    "hanja": "艦長",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함정",
+    "translation": "урхи",
+    "hanja": "陷穽",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "함주",
+    "translation": "хамтдаа явган аялах; хамтдаа уух",
+    "hanja": "銜酒 (술을 품다)",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "함지",
+    "translation": "Маш том таваг/сав",
+    "hanja": "함지",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "함지박",
+    "translation": "том модон тавиур",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "함진아비",
+    "translation": "нүдтэй хадмууд (хуучны хурим ёслол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "함축",
+    "translation": "агуулах",
+    "hanja": "含蓄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함축되다",
+    "translation": "агуулагдах",
+    "hanja": "含蓄되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "함축적",
+    "translation": "Дасан зохицсон",
+    "hanja": "含蓄的",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "함축하다",
+    "translation": "далд утгатай байх, агуулах",
+    "hanja": "含蓄하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "함침",
+    "translation": "нэвчүүлэх",
+    "hanja": "含浸",
+    "pos": "n",
+    "cefr": "C2"
+  },
+  {
+    "word": "함평",
+    "translation": "Хампён (солонгосын газарзүйн нэр)",
+    "hanja": "咸平",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "함포",
+    "translation": "хөлөг онгоцны их буу",
+    "hanja": "艦砲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "함흥",
+    "translation": "Хамхөн",
+    "hanja": "咸興",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "함흥차사",
+    "translation": "буцаж ирэхгүй элч, таг чиг болох",
+    "hanja": "咸興差使",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

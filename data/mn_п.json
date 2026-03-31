@@ -1,0 +1,4503 @@
+[
+  {
+    "word": "검찰",
+    "translation": "прокурорын газар",
+    "hanja": "檢察",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교수",
+    "translation": "профессор",
+    "hanja": "敎授",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "맥주",
+    "translation": "пиво",
+    "hanja": "麥酒",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "목사",
+    "translation": "пастор",
+    "hanja": "牧師",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔레트",
+    "translation": "палетт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부산",
+    "translation": "Пусаан",
+    "hanja": "釜山",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "플랫폼",
+    "translation": "Платформ",
+    "hanja": "플랫폼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포즈",
+    "translation": "поз",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "퍼프",
+    "translation": "пафф",
+    "hanja": "puff",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여권",
+    "translation": "паспорт",
+    "hanja": "旅券",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "파스타",
+    "translation": "паста",
+    "hanja": "pasta",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "로켓",
+    "translation": "пуужин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파운데이션",
+    "translation": "Паундейшн",
+    "hanja": "foundation",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "피디",
+    "translation": "продюсер",
+    "hanja": "PD",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "코트",
+    "translation": "пальто",
+    "hanja": "coat",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "후추",
+    "translation": "перец",
+    "hanja": "胡椒",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "미사일",
+    "translation": "пуужин",
+    "hanja": "미사일",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평양",
+    "translation": "Пхеньян",
+    "hanja": "平壤",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "피자",
+    "translation": "пицца",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "소프트웨어",
+    "translation": "програм хангамж",
+    "hanja": "software",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의회",
+    "translation": "парламент",
+    "hanja": "議會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "피터",
+    "translation": "Питер",
+    "hanja": "Peter",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "패딩",
+    "translation": "паддинг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포스트",
+    "translation": "пост, бичлэг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폴란드",
+    "translation": "Польш",
+    "hanja": "Poland",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "팝",
+    "translation": "поп",
+    "hanja": "팝",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포항",
+    "translation": "Похан",
+    "hanja": "浦項",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프로필",
+    "translation": "профайл",
+    "hanja": "Profile",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타일",
+    "translation": "плита",
+    "hanja": "tile",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "교황",
+    "translation": "Пап лам",
+    "hanja": "敎皇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팝콘",
+    "translation": "Попкорн",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "바울",
+    "translation": "Паул",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "프로듀서",
+    "translation": "Продюсер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "검사장",
+    "translation": "Прокурорын газрын дарга",
+    "hanja": "檢事長",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "피라미드",
+    "translation": "пирамид",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "목요일",
+    "translation": "Пүрэв гараг",
+    "hanja": "木曜日",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "픽셀",
+    "translation": "пиксел",
+    "hanja": "null",
+    "pos": "NOUN",
+    "cefr": "B1"
+  },
+  {
+    "word": "평창",
+    "translation": "Пёнчан (газрын нэр)",
+    "hanja": "平昌",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "특허",
+    "translation": "патент",
+    "hanja": "特許",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "푸딩",
+    "translation": "пуддинг",
+    "hanja": "푸딩",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "포르투갈",
+    "translation": "Португал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "페르시아",
+    "translation": "Перс",
+    "hanja": "페르시아",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실무",
+    "translation": "практик ажил",
+    "hanja": "實務",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판문점",
+    "translation": "Панмунжом",
+    "hanja": "板門店",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파운드",
+    "translation": "паунд",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폴리",
+    "translation": "поли, олон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프린터",
+    "translation": "принтер",
+    "hanja": "printer",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "팡팡",
+    "translation": "паан паан",
+    "hanja": "null",
+    "pos": "adv",
+    "cefr": "A2"
+  },
+  {
+    "word": "패티",
+    "translation": "патт",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "필라테스",
+    "translation": "пилатес",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "외투",
+    "translation": "пальто",
+    "hanja": "外套",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠재력",
+    "translation": "потенциал, чадавхи",
+    "hanja": "潛在力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지하실",
+    "translation": "подвал",
+    "hanja": "地下室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "백두산",
+    "translation": "Пэгдү уул",
+    "hanja": "白頭山",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "프라이머",
+    "translation": "Праймер",
+    "hanja": "primer",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔레스타인",
+    "translation": "Палестин",
+    "hanja": "팔레스타인",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "스프링",
+    "translation": "пүрш",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "실용적",
+    "translation": "практикт",
+    "hanja": "實用的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "평택",
+    "translation": "Пёнтек (хот)",
+    "hanja": "平澤",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "프로그래밍",
+    "translation": "програмчлал",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "피카소",
+    "translation": "Пикассо",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐삐",
+    "translation": "пейжер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퍼레이드",
+    "translation": "парад",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파키스탄",
+    "translation": "Пакистан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "싸이",
+    "translation": "Псай",
+    "hanja": "싸이",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "프로그래머",
+    "translation": "Программист",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파프리카",
+    "translation": "паприка",
+    "hanja": "파프리카",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "피노키오",
+    "translation": "Пиноккио",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "농약",
+    "translation": "Пестицид",
+    "hanja": "農藥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부대찌개",
+    "translation": "Пудэ-чигэ",
+    "hanja": "部隊찌개",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "프로세스",
+    "translation": "процесс",
+    "hanja": "process",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파주",
+    "translation": "Пажү",
+    "hanja": "坡州",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "포트폴리오",
+    "translation": "Портфолио",
+    "hanja": "portfolio",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포털",
+    "translation": "Портал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피스타치오",
+    "translation": "пистачио",
+    "hanja": "피스타치오",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포탈",
+    "translation": "портал",
+    "hanja": "portal",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비례",
+    "translation": "пропорц, харьцаа",
+    "hanja": "比例",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "피크닉",
+    "translation": "пикник",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "맥박",
+    "translation": "пульс",
+    "hanja": "脈搏",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "프리즘",
+    "translation": "призм",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "피클",
+    "translation": "пикл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포비",
+    "translation": "Поби",
+    "hanja": "Poby",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "검찰청",
+    "translation": "Прокурорын газар",
+    "hanja": "檢察廳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빠밤",
+    "translation": "Пабам (дуу авиа дуурайх)",
+    "hanja": "빠밤",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "포천",
+    "translation": "Почон (хот)",
+    "hanja": "抱川",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "판소리",
+    "translation": "пансори (солонгос ардын дуу)",
+    "hanja": "판소리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파파",
+    "translation": "папа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "뻥튀기",
+    "translation": "попкорн",
+    "hanja": "뻥튀기",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "파슬리",
+    "translation": "парсley",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "콩콩",
+    "translation": "Пүршийсэн",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파스텔",
+    "translation": "Пастель",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "펜트하우스",
+    "translation": "пентхаус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패트릭",
+    "translation": "Патрик",
+    "hanja": "Patrick",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "플러그",
+    "translation": "Плуг",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "프로포폴",
+    "translation": "Пропофол",
+    "hanja": "프로포폴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프로파일러",
+    "translation": "профайлер",
+    "hanja": "profiler",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패러다임",
+    "translation": "парадигм",
+    "hanja": "paradigm",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "펌웨어",
+    "translation": "програм хангамж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "피켓",
+    "translation": "пикет",
+    "hanja": "Picket",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프라하",
+    "translation": "Прага",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "파타",
+    "translation": "Пата (нэр)",
+    "hanja": "파타",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "폴라로이드",
+    "translation": "Полароид",
+    "hanja": "폴라로이드",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "플라톤",
+    "translation": "Платон",
+    "hanja": "플라톤",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "프로듀싱",
+    "translation": "продюсерлэх",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "목회하다",
+    "translation": "Пастор хийх",
+    "hanja": "牧會하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프로덕션",
+    "translation": "Продакшн, үйлдвэрлэл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포프",
+    "translation": "Пап ламын",
+    "hanja": "포프",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "판교",
+    "translation": "Пангио",
+    "hanja": "板橋",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "야동",
+    "translation": "порно",
+    "hanja": "野動",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파커",
+    "translation": "Паркер",
+    "hanja": "Parker",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "팬더",
+    "translation": "панда",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "플랑크톤",
+    "translation": "планктон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프로토콜",
+    "translation": "Протокол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포커",
+    "translation": "покер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "패럴림픽",
+    "translation": "паралимпик",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부침개",
+    "translation": "пучимге",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실용성",
+    "translation": "практикт хэрэглэх боломжтой байдал",
+    "hanja": "실용성(實用性)",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "페루",
+    "translation": "Перу",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "풍덩",
+    "translation": "пүл хийх",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검경",
+    "translation": "прокурор, цагдаа",
+    "hanja": "檢警",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "개신교",
+    "translation": "протестантизм",
+    "hanja": "改新敎",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "스니커즈",
+    "translation": "пүүз",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "부천",
+    "translation": "Пучон",
+    "hanja": "富川",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "기관총",
+    "translation": "Пулемёт",
+    "hanja": "機關銃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "베드로",
+    "translation": "Петр",
+    "hanja": "Peter",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평행",
+    "translation": "параллель",
+    "hanja": "平行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프로젝터",
+    "translation": "проектор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "피오",
+    "translation": "Пио",
+    "hanja": "Pyo",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "팟타이",
+    "translation": "Пад Тай",
+    "hanja": "Pad Thai",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "펭",
+    "translation": "Пэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "파전",
+    "translation": "пажон (ногоон сонгинотой хайрмаг)",
+    "hanja": "파煎",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파스칼",
+    "translation": "Паскаль (нэр)",
+    "hanja": "Pascal",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "팽",
+    "translation": "пэн (дуу чимээ)",
+    "hanja": "—",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "피튜니아",
+    "translation": "петуния (цэцэг)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "팝송",
+    "translation": "Поп дуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "퍼팅",
+    "translation": "Путтинг (гольф)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플레이오프",
+    "translation": "Плей-офф",
+    "hanja": "playoff",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "분출하다",
+    "translation": "пууйжсан",
+    "hanja": "噴出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퍼그",
+    "translation": "паг (нохойн үүлдэр)",
+    "hanja": null,
+    "pos": "м.н",
+    "cefr": "B1"
+  },
+  {
+    "word": "영장류",
+    "translation": "примат",
+    "hanja": "靈長類",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포세이돈",
+    "translation": "Посейдон",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "모수",
+    "translation": "параметр",
+    "hanja": "母數",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "풉",
+    "translation": "Пүүп (дуу авианы дуураймал)",
+    "hanja": "None",
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "프사",
+    "translation": "профайл зураг",
+    "hanja": "프사",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "퐁",
+    "translation": "понг",
+    "hanja": "퐁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파쿠르",
+    "translation": "Паркур",
+    "hanja": "파쿠르",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파파라치",
+    "translation": "Папарацци",
+    "hanja": "paparazzi",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퓨마",
+    "translation": "пума",
+    "hanja": "puma",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폴리곤",
+    "translation": "полигон",
+    "hanja": "polygon",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지검",
+    "translation": "Прокурорын хэлтэс",
+    "hanja": "支檢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "피타",
+    "translation": "пита",
+    "hanja": "피타",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파나마",
+    "translation": "Панам",
+    "hanja": "파나마",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "펩타이드",
+    "translation": "пептид",
+    "hanja": "peptide",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "포르노",
+    "translation": "порно",
+    "hanja": "Porno",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포포",
+    "translation": "попо (Амттангийн нэр)",
+    "hanja": "포포",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대중음악",
+    "translation": "поп хөгжим",
+    "hanja": "大衆音樂",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "호프",
+    "translation": "Пиво",
+    "hanja": "Hof",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플라즈마",
+    "translation": "Плазм",
+    "hanja": "plasma",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뿡",
+    "translation": "пүүх (уйтгартай эсвэл дургүйцсэн үед гарах дуу)",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "단락",
+    "translation": "параграф, эргэлт",
+    "hanja": "段落",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "프시케",
+    "translation": "Психея",
+    "hanja": "프시케",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빌라도",
+    "translation": "Пилат",
+    "hanja": "빌라도",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원외",
+    "translation": "парламентын гадна",
+    "hanja": "院外",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "용수철",
+    "translation": "пүрш",
+    "hanja": "湧水鐵",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "피츠버그",
+    "translation": "Питтсбург",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "펜타곤",
+    "translation": "Пентагон",
+    "hanja": "Pentagon",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "퍼스",
+    "translation": "Перт (지명)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "백남준",
+    "translation": "Пэк Нам Жун (хүний нэр)",
+    "hanja": "白南準",
+    "pos": "null",
+    "cefr": "null"
+  },
+  {
+    "word": "피어스",
+    "translation": "пирсинг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피프",
+    "translation": "ПИФФ",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판도라",
+    "translation": "Пандора",
+    "hanja": "Pandora",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플라스마",
+    "translation": "плазм",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역설",
+    "translation": "парадокс",
+    "hanja": "逆說",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기생하다",
+    "translation": "паразитлах",
+    "hanja": "寄生하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "후춧가루",
+    "translation": "перецний нунтаг",
+    "hanja": "후춧가루",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페달",
+    "translation": "педаль",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "펄스",
+    "translation": "пульс",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파르페",
+    "translation": "парфе",
+    "hanja": "파르페",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "패러글라이딩",
+    "translation": "параглайдинг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "박완서",
+    "translation": "Пак Ван-со (зохиолч)",
+    "hanja": "박완서",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포키",
+    "translation": "Поки (идэх юм)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "평행선",
+    "translation": "параллель шугам",
+    "hanja": "平行線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칙칙",
+    "translation": "пшшш",
+    "hanja": "칙칙",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "페가수스",
+    "translation": "Пегас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프로바이오틱스",
+    "translation": "Пробиотик",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "푸에르토리코",
+    "translation": "Пуэрто Рико",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "소아마비",
+    "translation": "полиомиелит",
+    "hanja": "小兒麻痺",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포퓰리즘",
+    "translation": "популизм",
+    "hanja": "포퓰리즘",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폼페이",
+    "translation": "Помпей",
+    "hanja": "폼페이",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "법황",
+    "translation": "пап лам",
+    "hanja": "法皇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실무적",
+    "translation": "практик, ажил хэрэгч",
+    "hanja": "實務的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등원",
+    "translation": "парламент руу явах",
+    "hanja": "登院",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파카",
+    "translation": "парка",
+    "hanja": "파카",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파월",
+    "translation": "Пауэлл",
+    "hanja": "파월",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "피사",
+    "translation": "Пиза (хот)",
+    "hanja": "피사",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "팔만대장경",
+    "translation": "Палман Дэжахён",
+    "hanja": "八萬大藏經",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "프톨레마이오스",
+    "translation": "Птолемей",
+    "hanja": "프톨레마이오스",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "페소",
+    "translation": "песо",
+    "hanja": "페소",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "파빌리온",
+    "translation": "павильон",
+    "hanja": "파빌리온",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "폴라리스",
+    "translation": "Полярис",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "판초",
+    "translation": "панчо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포물선",
+    "translation": "парабол",
+    "hanja": "抛物線",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포틀랜드",
+    "translation": "Портланд",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "파라독스",
+    "translation": "парадокс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프로폴리스",
+    "translation": "прополис",
+    "hanja": "propolis",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "특허권",
+    "translation": "Патентын эрх",
+    "hanja": "特許權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "평안북도",
+    "translation": "Пёнсанбүкду (БНАСАУ-ын аймаг)",
+    "hanja": "平安北道",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "봉교",
+    "translation": "Прополис",
+    "hanja": "蜂膠",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "피타고라스",
+    "translation": "Пифагор",
+    "hanja": "피타고라스",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파킨슨병",
+    "translation": "Паркинсоны өвчин",
+    "hanja": "파킨슨病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뻥뻥",
+    "translation": "пал пал, буудах чимээ",
+    "hanja": "뻥뻥",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "오동나무",
+    "translation": "Павловни мод",
+    "hanja": "梧桐나무",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페퍼민트",
+    "translation": "Перементин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플루타르크",
+    "translation": "Плутарх",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "피코",
+    "translation": "пико",
+    "hanja": "pico",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플루토",
+    "translation": "Плутон",
+    "hanja": "Pluto",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페타",
+    "translation": "Пета",
+    "hanja": "페타",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페르소나",
+    "translation": "Персона",
+    "hanja": "페르소나",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포르투갈어",
+    "translation": "Португал хэл",
+    "hanja": "포르투갈語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파친코",
+    "translation": "пачинко",
+    "hanja": "パチンコ",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "피츠",
+    "translation": "Пиц (нэр)",
+    "hanja": "Fits",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "첨벙",
+    "translation": "плюмб, усны дуу",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의사당",
+    "translation": "парламентын ордон",
+    "hanja": "議事堂",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "플루토늄",
+    "translation": "плутони",
+    "hanja": "Plutonium",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페",
+    "translation": "паул, феллон",
+    "hanja": "페",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패터슨",
+    "translation": "Патерсон (хүний нэр)",
+    "hanja": "Patterson",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패러독스",
+    "translation": "парадокс",
+    "hanja": "Paradox",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파라과이",
+    "translation": "Парагвай",
+    "hanja": "Paraguay",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "포코",
+    "translation": "поко (хөгжмийн нэр томъёо)",
+    "hanja": "포코",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포켓볼",
+    "translation": "покер, пул",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "빨치산",
+    "translation": "партизан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "펠리컨",
+    "translation": "пеликан",
+    "hanja": "펠리컨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "품바",
+    "translation": "Пумба (дууны төрөл)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플랑크",
+    "translation": "Планк",
+    "hanja": "Planck",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "에나멜",
+    "translation": "паалан",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "프로메테우스",
+    "translation": "Прометей",
+    "hanja": "프로메테우스",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "삐뽀삐뽀",
+    "translation": "пипо пипо (дууриамал үг)",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "플리츠",
+    "translation": "плисс",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "피칸",
+    "translation": "пекан самар",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파타야",
+    "translation": "Паттайя",
+    "hanja": "파타야",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "피스톤",
+    "translation": "поршен",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "폴로",
+    "translation": "поло",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "페트",
+    "translation": "ПЭТ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "렌지",
+    "translation": "плит, зуух",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "레코드판",
+    "translation": "пянз",
+    "hanja": "record盤",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "포마드",
+    "translation": "помад",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파리스",
+    "translation": "Парис",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화소",
+    "translation": "пиксел",
+    "hanja": "畫素",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "푸리",
+    "translation": "пури (Энэтхэгийн хоол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대중가요",
+    "translation": "поп дуу",
+    "hanja": "大衆歌謠",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파피루스",
+    "translation": "папирус",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "실천적",
+    "translation": "практик, бодит",
+    "hanja": "實踐的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프놈펜",
+    "translation": "Пномпень",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페르세우스",
+    "translation": "Персей (одны орд)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "피그미",
+    "translation": "пигми",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "모란",
+    "translation": "пион цэцэг",
+    "hanja": "牧丹",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "검찰권",
+    "translation": "прокурорын эрх мэдэл",
+    "hanja": "檢察權",
+    "pos": "нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "유행가",
+    "translation": "поп дуу",
+    "hanja": "流行歌",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "파이퍼",
+    "translation": "пайпер",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "플로깅",
+    "translation": "плогинг (жоггинг хийх зуураа хог түүх)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퓌레",
+    "translation": "пюре",
+    "hanja": "퓌레",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "펜실베이니아주",
+    "translation": "Пенсильвани муж",
+    "hanja": "펜실베이니아州",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "피스트",
+    "translation": "пист (цана)",
+    "hanja": "null",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "퍼셀",
+    "translation": "Пёрселл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "팔보채",
+    "translation": "Палбоче (Хятад хоол)",
+    "hanja": "八寶菜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피핀",
+    "translation": "Пипин (хүн, түүхийн нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "폴리머",
+    "translation": "полимер",
+    "hanja": "폴리머",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폴리페놀",
+    "translation": "полифенол",
+    "hanja": "폴리페놀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페이스메이커",
+    "translation": "пеисмейкер (зүрхний хэмнэл зохицуулагч)",
+    "hanja": "ペースメーカー",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비르",
+    "translation": "Пийлүүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "토슈즈",
+    "translation": "Пуант гутал (балетчингийн)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투영",
+    "translation": "проекц",
+    "hanja": "投影",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변리사",
+    "translation": "патентийн агент",
+    "hanja": "辨理士",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판테온",
+    "translation": "Пантеон (Ромын сүм)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파르테논",
+    "translation": "Партенон (Грекийн сүм)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팜파스",
+    "translation": "Пампас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파타고니아",
+    "translation": "Патагониа",
+    "hanja": "Patagonia",
+    "pos": "нэр үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "페넬로페",
+    "translation": "Пенелопа",
+    "hanja": "Penelope",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파우",
+    "translation": "Пау",
+    "hanja": "Pau",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "빠방",
+    "translation": "пус (машины дуу)",
+    "hanja": "빠방",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "폴리카보네이트",
+    "translation": "поликарбонат",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "포저",
+    "translation": "поз, байрлал",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "부뚜막",
+    "translation": "пийшингийн тавиур",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "박승",
+    "translation": "Пак Сын (хүн нэр)",
+    "hanja": "朴承",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "프로게스테론",
+    "translation": "прогестерон",
+    "hanja": "progesterone",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "피피티",
+    "translation": "ППТ, Powerpoint",
+    "hanja": "피피티",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "패스포트",
+    "translation": "паспорт",
+    "hanja": "패스포트",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "펑키하다",
+    "translation": "панкy",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페니실린",
+    "translation": "пенициллин",
+    "hanja": "penicillin",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "프로방스",
+    "translation": "Прованс (Францын нэгэн муж)",
+    "hanja": "Provence",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프테라노돈",
+    "translation": "птеранодон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "퐁당퐁당",
+    "translation": "пляп пляп",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팽목항",
+    "translation": "Пэнмок боомт",
+    "hanja": "彭木港",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "폴리에스테르",
+    "translation": "полиэфир",
+    "hanja": "폴리에스테르",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "필카",
+    "translation": "плёнкан камер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프레슬리",
+    "translation": "Пресли",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포이즈",
+    "translation": "пойз (нэгж)",
+    "hanja": "poise",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폴리에스터",
+    "translation": "полиэстер",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파슨스",
+    "translation": "Парсонс (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고생대",
+    "translation": "Палеозойн эрин",
+    "hanja": "古生代",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "슈도다나",
+    "translation": "псевдодана (Нэр томьёо)",
+    "hanja": "슈도다나",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팍스",
+    "translation": "пакс (энх тайван, жишээ нь Pax Romana)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패리",
+    "translation": "пари (тулалдааны нэр томъёо)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "피트리",
+    "translation": "Петри",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페이즐리",
+    "translation": "пэйсли хээ",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "프린스턴",
+    "translation": "Принстон",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페이파",
+    "translation": "Пэйпа (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플랫포밍",
+    "translation": "платформ",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "봉래",
+    "translation": "Понграэ (нэр, уул)",
+    "hanja": "蓬萊",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폴록",
+    "translation": "Поллок (хүний нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실학",
+    "translation": "практик судлал",
+    "hanja": "實學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "평안남도",
+    "translation": "Пёнъаннамдо",
+    "hanja": "平安南道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프로이센",
+    "translation": "Прусс",
+    "hanja": "프로이센",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파라핀",
+    "translation": "парафин",
+    "hanja": "파라핀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폴란드어",
+    "translation": "Польш хэл",
+    "hanja": "폴란드語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실용주의",
+    "translation": "прагматизм",
+    "hanja": "實用主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플레이보이",
+    "translation": "плейбой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔렘방",
+    "translation": "Палембанг (Индонезийн хот)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이피디",
+    "translation": "ПД(үйлдвэрлэлийн захирал)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박혁거세",
+    "translation": "Пак Хёк-госэ (Солонгосын хаан)",
+    "hanja": "朴赫居世",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플라토닉",
+    "translation": "платоник",
+    "hanja": "플라토닉",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "푸팟퐁커리",
+    "translation": "пүү пат пон карри (тайл хоол)",
+    "hanja": "푸팟퐁커리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "삐익",
+    "translation": "пийп",
+    "hanja": "null",
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "파리지앵",
+    "translation": "парис хүн",
+    "hanja": "Parisien",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "빠리",
+    "translation": "Парис хот",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "파루",
+    "translation": "пару (хуучин БНСУ-д шөнө харуулах цаг)",
+    "hanja": "破漏",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프로슈토",
+    "translation": "прошутто",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파인트",
+    "translation": "Паинт (хэмжээний нэгж)",
+    "hanja": "파인트",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파티오",
+    "translation": "патио",
+    "hanja": "patio",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "필로티",
+    "translation": "пилоти (барилгын доод хэсэг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반고",
+    "translation": "Пангуу (домогт дүр)",
+    "hanja": "盤古",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "뤼순",
+    "translation": "Порт Артур (Хятадын хот Шунь)",
+    "hanja": "旅順",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풀리",
+    "translation": "пули (нэртэй нохой)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프로젝션",
+    "translation": "проекц",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포트와인",
+    "translation": "портвейн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평안도",
+    "translation": "Пёнъан муж",
+    "hanja": "平安道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "게릴라",
+    "translation": "партизан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프리모",
+    "translation": "Примо",
+    "hanja": "프리모",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "핀볼",
+    "translation": "пинбол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파파야",
+    "translation": "Папайя",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "평행봉",
+    "translation": "параллель мод",
+    "hanja": "平行棒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "청교도",
+    "translation": "Пуритан",
+    "hanja": "淸敎徒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "펜네",
+    "translation": "Пенне (гоймон)",
+    "hanja": "펜네",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폴리우레탄",
+    "translation": "Полиуретан",
+    "hanja": "поли우레탄",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폴리에틸렌",
+    "translation": "Полиэтилен",
+    "hanja": "폴리에틸렌",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "양극화되다",
+    "translation": "полярчлагдах",
+    "hanja": "兩極化되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "파스퇴르",
+    "translation": "Пастер",
+    "hanja": "Pasteur",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "평북",
+    "translation": "Пёнъян хойд",
+    "hanja": "平北",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프레즐",
+    "translation": "претцель",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타일러",
+    "translation": "плитачин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프로톤",
+    "translation": "Протон",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페디큐어",
+    "translation": "Педикюр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "피그말리온",
+    "translation": "Пигмалион",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포르",
+    "translation": "Португал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폴리네시아",
+    "translation": "Полинез",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "삐용삐용",
+    "translation": "пи-ён пи-ён (дуу авиа)",
+    "hanja": "삐용삐용",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "박태준",
+    "translation": "Пак Тэжүн",
+    "hanja": "朴泰俊",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "펜실베이니아대",
+    "translation": "Пенсильванийн их сургууль",
+    "hanja": "펜실베이니아大",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포메라니안",
+    "translation": "померан нохой",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파에야",
+    "translation": "паелла",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패닝",
+    "translation": "панинг",
+    "hanja": "패닝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페트라",
+    "translation": "Петра",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "판게아",
+    "translation": "Пангея",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페리클레스",
+    "translation": "Перикл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포팅",
+    "translation": "портлох",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파텔",
+    "translation": "Пател",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "피레",
+    "translation": "Пире",
+    "hanja": "",
+    "pos": "명са",
+    "cefr": "C2"
+  },
+  {
+    "word": "판토텐산",
+    "translation": "пантотений хүчил",
+    "hanja": "판토텐산",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포플러",
+    "translation": "популя (мод)",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플리에",
+    "translation": "плие (бүжгийн хөдөлгөөн)",
+    "hanja": "플리에",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "실리적",
+    "translation": "практик, ашиг хонжоотой",
+    "hanja": "實利的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프레츨",
+    "translation": "претцел",
+    "hanja": "프레츨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포카혼타스",
+    "translation": "покахонтас",
+    "hanja": "Pocahontas",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "글라이딩",
+    "translation": "планер",
+    "hanja": "글라이딩",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "프라이밍",
+    "translation": "прайминг",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "피토",
+    "translation": "Пито (хүний нэр)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "픽토그램",
+    "translation": "пиктограмм",
+    "hanja": "pictogram",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포드고리차",
+    "translation": "Подгорица",
+    "hanja": "Podgorica",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파라사우롤로푸스",
+    "translation": "парасауролофус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포츠머스",
+    "translation": "Портсмут",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "피렌",
+    "translation": "пирен",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "펜리",
+    "translation": "Пенли",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "스포이트",
+    "translation": "пипетка, дусаагуур",
+    "hanja": "spuit",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "필라프",
+    "translation": "пилав",
+    "hanja": "필라프",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "팝잇",
+    "translation": "Поп ит (тоглоом)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "패서디나",
+    "translation": "Пасадена (Хотын нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "푸껫",
+    "translation": "Пукет",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "피어리",
+    "translation": "Пьери",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "프록시",
+    "translation": "прокси",
+    "hanja": "proxy",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박은식",
+    "translation": "Пак Ынсик (хүний нэр)",
+    "hanja": "朴殷植",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "폴립",
+    "translation": "полип",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "펌프스",
+    "translation": "пүүз",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파블로프",
+    "translation": "Павлов",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "폴룩스",
+    "translation": "Поллкс (од)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "피어슨",
+    "translation": "Пирсон (овог нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "펠릿",
+    "translation": "пеллет",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "피케",
+    "translation": "пике (даавууны нэг төрөл)",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "푸시킨",
+    "translation": "Пушкин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페낭",
+    "translation": "Пенанг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "박종훈",
+    "translation": "Пак Жон-хун (нэр)",
+    "hanja": "朴鍾勳",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "금자탑",
+    "translation": "пирамид",
+    "hanja": "金字塔",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "실용화",
+    "translation": "практикт хэрэгжүүлэх",
+    "hanja": "實用化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페퍼",
+    "translation": "Перец",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프린키피아",
+    "translation": "Принсипиа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포니",
+    "translation": "Пони",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폼페이우스",
+    "translation": "Помпей",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "박재홍",
+    "translation": "Пак Жэ-хон",
+    "hanja": "朴栽弘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "피콜로",
+    "translation": "пикколо (бяцхан лимбэ)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "북청",
+    "translation": "Пукчон (Хойд Солонгосын газар зүйн нэр)",
+    "hanja": "北靑",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프롤레타리아",
+    "translation": "пролетари",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "판윤",
+    "translation": "Панюн /Хуучны албан тушаал/",
+    "hanja": "判尹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페니",
+    "translation": "Пенни",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "파섹",
+    "translation": "парсек",
+    "hanja": "파섹",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "실증적",
+    "translation": "Практик, туршлагатай",
+    "hanja": "實證的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로케트",
+    "translation": "Пуужин",
+    "hanja": "rocket",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파샤",
+    "translation": "Паша (түрэг цол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박세영",
+    "translation": "Пак Сэ Ён (хувийн нэр)",
+    "hanja": "朴世榮",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파키케팔로사우루스",
+    "translation": "пахицефалозавр",
+    "hanja": "파키케팔로사우루스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포츠담",
+    "translation": "Потсдам",
+    "hanja": "포츠담",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "게릴라전",
+    "translation": "партизаны дайн",
+    "hanja": "게릴라戰",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠재성",
+    "translation": "потенциал, нөөц боломж",
+    "hanja": "潛在性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "박목월",
+    "translation": "Пак Мог-вол (нэр)",
+    "hanja": "朴木月",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파블로바",
+    "translation": "Павлова (амттан)",
+    "hanja": "Pavlova",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페그",
+    "translation": "пег",
+    "hanja": "페그",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "봉창",
+    "translation": "пикриний цонх",
+    "hanja": "封槍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔라",
+    "translation": "Пала",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "프로테스탄트",
+    "translation": "протестант",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포르토프랭스",
+    "translation": "Порт-о-Пренс",
+    "hanja": "포르토프랭스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "핑구",
+    "translation": "Пингу",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플라나리아",
+    "translation": "планариа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "피엘",
+    "translation": "Пьер (нэр)",
+    "hanja": "피엘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "폽",
+    "translation": "поп (дуу, соёл)",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "플리머스",
+    "translation": "Плимут (хот)",
+    "hanja": "플리머스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폴리프로필렌",
+    "translation": "Полипропилен",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "퐁피두",
+    "translation": "Помпиду",
+    "hanja": "퐁피두",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "팝페라",
+    "translation": "поп-опера",
+    "hanja": "팝페라",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "피에타",
+    "translation": "Пиета",
+    "hanja": "Pieta",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페르세포네",
+    "translation": "Персефон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페이저",
+    "translation": "пейжер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "푸린",
+    "translation": "пурин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "빠칭코",
+    "translation": "пачинко",
+    "hanja": "빠칭코",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쁘라삐룬",
+    "translation": "Прапирун (Нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "펀자브",
+    "translation": "Панжаб",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍산",
+    "translation": "Пунсан (газар нэр)",
+    "hanja": "豊山",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폴리오",
+    "translation": "полио (хавтас)",
+    "hanja": "폴리오",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실용화되다",
+    "translation": "Практикт нэвтрэх, хэрэгжиж эхлэх",
+    "hanja": "實用化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프리바이오틱스",
+    "translation": "Пребиотик",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피봇",
+    "translation": "пивот",
+    "hanja": null,
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "파히",
+    "translation": "пахи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퍼걸러",
+    "translation": "пергола",
+    "hanja": "퍼걸러",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파르마",
+    "translation": "Парма (хот, брэнд)",
+    "hanja": "Parma",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "푸이",
+    "translation": "Пу И",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "기항하다",
+    "translation": "портод зогсох",
+    "hanja": "寄港하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "파멜라",
+    "translation": "Памела",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "파반",
+    "translation": "паван",
+    "hanja": "pavan",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파가니니",
+    "translation": "Паганини",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "누진세",
+    "translation": "прогрессив татвар",
+    "hanja": "累進稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "피얄",
+    "translation": "пиль (үндэсгүй ургамал)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포석정",
+    "translation": "По석정 (Шиллагийн хаадын зугаацах газар)",
+    "hanja": "鮑石亭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프레스토",
+    "translation": "престо (хөгжмийн нэр томъёо)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격구",
+    "translation": "Поло тоглоом (морин спорт)",
+    "hanja": "擊球",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프레스턴",
+    "translation": "Престон (Их Британи хот)",
+    "hanja": "Preston",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "퓰리처",
+    "translation": "Пулицер",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "포스트모더니즘",
+    "translation": "постмодернизм",
+    "hanja": "포스트모더니즘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "팜비치",
+    "translation": "Палм Бийч",
+    "hanja": "팜비치",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페이터",
+    "translation": "Патер",
+    "hanja": "Pater",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폴카",
+    "translation": "полка",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사이키델릭",
+    "translation": "Психоделик",
+    "hanja": "사이키델릭",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포이",
+    "translation": "Пои",
+    "hanja": "포이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프로테",
+    "translation": "протейн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔라우",
+    "translation": "Палау (улс)",
+    "hanja": "Palau",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "평남",
+    "translation": "Пённам (аймаг)",
+    "hanja": "平南",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프로모터",
+    "translation": "промоутер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페리윙클",
+    "translation": "перивинкл (загас)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "파란트로푸스",
+    "translation": "Парантропус",
+    "hanja": "Paranthropus",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "풍납동",
+    "translation": "Пуннап-донг",
+    "hanja": "風納洞",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "팜플로나",
+    "translation": "Памплона",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "패커",
+    "translation": "пагер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "피라루쿠",
+    "translation": "пираркү (загасны төрөл)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프루스트",
+    "translation": "Пруст",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "피켓팅",
+    "translation": "пикет барих",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "법랑",
+    "translation": "паалан",
+    "hanja": "琺瑯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "박팽년",
+    "translation": "Пак Пэнгён",
+    "hanja": "朴彭年",
+    "pos": "고유명사",
+    "cefr": "N/A"
+  },
+  {
+    "word": "플랜테인",
+    "translation": "плантайн",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파르티아",
+    "translation": "Парфийн (эзэнт гүрэн)",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "파미",
+    "translation": "Памир (уул)",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비관주의자",
+    "translation": "пессимист",
+    "hanja": "悲觀主義者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "파순",
+    "translation": "Пашун (буддын домогт гардаг чөтгөр)",
+    "hanja": "波旬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔관회",
+    "translation": "Пальгванхве /шашны баяр/",
+    "hanja": "八關會",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "푸구",
+    "translation": "Пугу /хүний нэр/",
+    "hanja": "普球",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유격대",
+    "translation": "партизан (Цэргийн)",
+    "hanja": "遊擊隊",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "삐비",
+    "translation": "пиби (Ургамал)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "필트다운인",
+    "translation": "Пилтдаун хүн (Түүх)",
+    "hanja": "N/A",
+    "pos": "Proper Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "파우사니아스",
+    "translation": "Паусаниас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프림로즈",
+    "translation": "примроз",
+    "hanja": "프림로즈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파피용",
+    "translation": "папийон",
+    "hanja": "파피용",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "원충",
+    "translation": "протозоа",
+    "hanja": "原蟲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파르메니데스",
+    "translation": "Парменид",
+    "hanja": "파르메니데스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "푸앵카레",
+    "translation": "Пойнкаре",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포인세티아",
+    "translation": "пойнсеттиа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피바",
+    "translation": "Пиба",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포퓰리스트",
+    "translation": "популист",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프리슈티나",
+    "translation": "Приштина",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플라네타륨",
+    "translation": "планетариум",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "진보주의자",
+    "translation": "прогрессив үзэлтэн",
+    "hanja": "進步主義者",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "풀오버",
+    "translation": "пуловер",
+    "hanja": "pullover",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폴리이미드",
+    "translation": "Полиимид",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "병현",
+    "translation": "Пёнхён",
+    "hanja": "炳賢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파토스",
+    "translation": "патос",
+    "hanja": "pathos",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "좃",
+    "translation": "пенис (бүдүүлэг үг)",
+    "hanja": "NaN",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "퍼텐셜",
+    "translation": "потенциал",
+    "hanja": "potential",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파레",
+    "translation": "парео",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피루엣",
+    "translation": "Пируэт (бүжгийн хөдөлгөөн)",
+    "hanja": "Pirouette",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파푸아",
+    "translation": "Папуа",
+    "hanja": "Papua",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페이시스트라토스",
+    "translation": "Писистрат",
+    "hanja": "페이시스트라토스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "퓨린",
+    "translation": "пурин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프로코피예프",
+    "translation": "Прокофьев",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "진폐증",
+    "translation": "пневмокониоз (уушгины өвчин)",
+    "hanja": "塵肺症",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "필래프",
+    "translation": "пилаф",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파라벤",
+    "translation": "парабен",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플라야",
+    "translation": "Плая (хуурай давст нуур)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포르노그래피",
+    "translation": "Порнографи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프로세서",
+    "translation": "Процессор",
+    "hanja": "프로세서",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폴락",
+    "translation": "Поллок",
+    "hanja": "폴락",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파사",
+    "translation": "перс",
+    "hanja": "波斯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플레이아데스",
+    "translation": "Плеядууд",
+    "hanja": "플레이아데스",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "페키니즈",
+    "translation": "пекин нохой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파라디",
+    "translation": "Паради",
+    "hanja": "파라디",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "플라우투스",
+    "translation": "Плаут",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "프로판",
+    "translation": "Пропан",
+    "hanja": "프로판",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔라초",
+    "translation": "Палаццо",
+    "hanja": "팔라초",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "개파",
+    "translation": "партыг байгуулах",
+    "hanja": "開派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플로티노스",
+    "translation": "Плотин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "팔레비",
+    "translation": "Пахлави (ургийн овог)",
+    "hanja": "팔레비",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염세",
+    "translation": "пессимизм",
+    "hanja": "厭世",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파평",
+    "translation": "Пэк-пёнг (солонгос овог)",
+    "hanja": "坡平",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프러시아",
+    "translation": "Прусс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포사",
+    "translation": "Поса (хүн)",
+    "hanja": "褒姒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플라세보",
+    "translation": "Плацебо",
+    "hanja": "플라세보",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페테르부르크",
+    "translation": "Петербург",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플로토",
+    "translation": "Плутон",
+    "hanja": "null",
+    "pos": "고유명са",
+    "cefr": "A2"
+  },
+  {
+    "word": "기총",
+    "translation": "пулемёт",
+    "hanja": "機銃",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "플라이스토세",
+    "translation": "плейстоцен",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페트라르카",
+    "translation": "Петрарка",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": null
+  },
+  {
+    "word": "풀턴",
+    "translation": "Пүлтон",
+    "hanja": "풀턴",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "페시",
+    "translation": "Пеши",
+    "hanja": "페시",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "쿠커",
+    "translation": "пийшин",
+    "hanja": "쿠커",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔라듐",
+    "translation": "Паллади (химийн элемент)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "푸타",
+    "translation": "путын",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평촌",
+    "translation": "Пёнчон (хотын нэр)",
+    "hanja": "坪村",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "늑막염",
+    "translation": "плеврит",
+    "hanja": "肋膜炎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "피카르",
+    "translation": "Пикард",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔레르모",
+    "translation": "Палермо (Италийн хот)",
+    "hanja": "---",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "프로비던스",
+    "translation": "Провиденс (хот)",
+    "hanja": "---",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "명왕",
+    "translation": "Плутон",
+    "hanja": "冥王",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "피레우스",
+    "translation": "Пиреус",
+    "hanja": "피레우스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "벽골제",
+    "translation": "пёккольже (эртний усан сан)",
+    "hanja": "碧骨堤",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페미컨",
+    "translation": "Пеммикан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플레시오사우루스",
+    "translation": "Плезиозавр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "실과",
+    "translation": "практик ажил",
+    "hanja": "實科",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퍼트하다",
+    "translation": "патт хийх (голфын цохилт)",
+    "hanja": "퍼트하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페샤와르",
+    "translation": "Пешавар (хот)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "야설",
+    "translation": "Порно зохиол",
+    "hanja": "野說",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프시타코사우루스",
+    "translation": "пситакозавр",
+    "hanja": "Psittacosaurus",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "포철",
+    "translation": "По스코 (газарзүйн нэр, компани)",
+    "hanja": "浦鐵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "피아프",
+    "translation": "Пиаф (хүний нэр)",
+    "hanja": "Piaf",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파르티잔",
+    "translation": "партизан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페플럼",
+    "translation": "Пеплум (хувцасны хэв маяг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파네토네",
+    "translation": "панеттоне",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프로토케라톱스",
+    "translation": "Протоцератопс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프로미넌스",
+    "translation": "проминенс (нарны)",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "팬티스타킹",
+    "translation": "панти хоолой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피케팅",
+    "translation": "пикетлэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실습비",
+    "translation": "практикийн төлбөр",
+    "hanja": "實習費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페이소스",
+    "translation": "Патхос, эмгэнэл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "맥줏값",
+    "translation": "пивоны үнэ",
+    "hanja": "맥줏값",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "폴리스티렌",
+    "translation": "полистирол",
+    "hanja": "폴리스티렌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프로락틴",
+    "translation": "пролактин",
+    "hanja": "프로락틴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "펄라이트",
+    "translation": "перлит",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프렐류드",
+    "translation": "прелюди",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "피아제",
+    "translation": "Пиаже",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "프리토리아",
+    "translation": "Претория",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바라밀",
+    "translation": "парамита",
+    "hanja": "波羅蜜",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페히슈타인",
+    "translation": "Пехштейн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옴폭",
+    "translation": "пагтгар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퐁파두르",
+    "translation": "Помпадур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플루타르코스",
+    "translation": "Плутарх",
+    "hanja": "플루타르코스",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "페퍼로니",
+    "translation": "Пепперони",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "패러글라이더",
+    "translation": "параглайдер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페튜니아",
+    "translation": "петуни (цэцэг)",
+    "hanja": "Petunia",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "피펫",
+    "translation": "пипетк",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프리큐어",
+    "translation": "ПреКюр",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "피케이",
+    "translation": "ПК",
+    "hanja": "PK",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "펜자",
+    "translation": "Пенза",
+    "hanja": "Пенза",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포스트휴먼",
+    "translation": "постхьюман",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페스탈로치",
+    "translation": "Песталоцчи (хүний нэр)",
+    "hanja": "페스탈로치",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "팰릿",
+    "translation": "палетт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페루자",
+    "translation": "Перужа (хот)",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파도바",
+    "translation": "Падуа (хотын нэр)",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "피코그램",
+    "translation": "пикограмм",
+    "hanja": "피코그램",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뽀통령",
+    "translation": "Пороро ерөнхийлөгч (хүүхдийн баатар)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파레토",
+    "translation": "Парето (эдийн засгийн хууль)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "팔당",
+    "translation": "Палдан",
+    "hanja": "八堂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "샬레",
+    "translation": "Петрийн аяга",
+    "hanja": "샬레",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프로슈머",
+    "translation": "Просюмер (Үйлдвэрлэгч-хэрэглэгч)",
+    "hanja": "프로슈머",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폰즈소스",
+    "translation": "понзу соус",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파트라스",
+    "translation": "Патрас",
+    "hanja": "파트라스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쁠리에",
+    "translation": "плие (балет)",
+    "hanja": "쁠리에",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "펙틴",
+    "translation": "Пектин",
+    "hanja": "Pectin",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파라인플루엔자",
+    "translation": "параинфлуенза",
+    "hanja": "파라인플루엔자",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "포포프",
+    "translation": "Попов",
+    "hanja": "포포프",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고스팅",
+    "translation": "призрак",
+    "hanja": "고스팅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "피맥",
+    "translation": "пицца, шар айраг (хослуулан идэх)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폴리오미노",
+    "translation": "полиомино (тоглоом)",
+    "hanja": "폴리오미노",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페탕크",
+    "translation": "петанк",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파스토",
+    "translation": "пасто",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "펠메니",
+    "translation": "Пельмень",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "프로테우스",
+    "translation": "Протей",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "염세주의",
+    "translation": "пессимизм (гутранги үзэл)",
+    "hanja": "厭世主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플리니우스",
+    "translation": "Плиний (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포르타",
+    "translation": "Порта",
+    "hanja": "Porta",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "푸생",
+    "translation": "Пуссен",
+    "hanja": "Poussin",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "브리프케이스",
+    "translation": "портфель",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실용서",
+    "translation": "практик ном",
+    "hanja": "實用書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폴로늄",
+    "translation": "полониум",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "팔레스티나",
+    "translation": "Палестин",
+    "hanja": "팔레스티나",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "페깅",
+    "translation": "Пеггинг (шууд орчуулга байхгүй)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퍼킨",
+    "translation": "Пэркин (хүний нэр эсвэл химийн бодис)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파파로티",
+    "translation": "Паваротти",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "푸아티에",
+    "translation": "Пуатье (Францын хот)",
+    "hanja": "Poitiers",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파키리노사우루스",
+    "translation": "Пахиринозавр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "스토브파이프",
+    "translation": "пийшингийн яндан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "후추가루",
+    "translation": "перецний нунтаг",
+    "hanja": "胡椒가루",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "푸아송",
+    "translation": "Пуасон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "피오리아",
+    "translation": "Пеориа",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "범아프리카주의",
+    "translation": "Пан африк үзэл",
+    "hanja": "汎아프리카主義",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "범신론",
+    "translation": "пантеизм",
+    "hanja": "汎神論",
+    "pos": "명са",
+    "cefr": "C2"
+  },
+  {
+    "word": "불수",
+    "translation": "Пудда (жимс)",
+    "hanja": "佛手",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "바울로",
+    "translation": "Паул (нэр)",
+    "hanja": "바울로",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파사이",
+    "translation": "Пасай (Филиппины хот)",
+    "hanja": "Pasay",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "파쿠다",
+    "translation": "Пакуда (Лалын шашны судлаач)",
+    "hanja": "Pakuda",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실로시빈",
+    "translation": "псилоцибин",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "프롤린",
+    "translation": "пролин",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

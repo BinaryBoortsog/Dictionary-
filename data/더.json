@@ -1,0 +1,464 @@
+[
+  {
+    "word": "더",
+    "translation": "илүү",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "더군나",
+    "translation": "түүнээс гадна",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더군다나",
+    "translation": "Түүнээс гадна",
+    "hanja": "더군다나",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "더그아웃",
+    "translation": "дайз, хамгаалах байр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더글러스",
+    "translation": "Дуглас",
+    "hanja": "더글러스",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "더께",
+    "translation": "хучу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "더더군다나",
+    "translation": "үүний дээр, нэмээд ч",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더더욱",
+    "translation": "улам илүү",
+    "hanja": "더더욱",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더덕",
+    "translation": "код-дон самнасан үндэс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더덕더덕",
+    "translation": "бөөн бөөнөөр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더덩실",
+    "translation": "Хөгжилтэйгээр, хөнгөн",
+    "hanja": "더덩실",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "더둡다",
+    "translation": "тодгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더들리",
+    "translation": "Дадли",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "더듬거리다",
+    "translation": "Гүйгээд уулгах, саатах",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "더듬다",
+    "translation": "тэмтрэх, эрүүлэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더듬대다",
+    "translation": "тэмтрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더듬더듬",
+    "translation": "эгдэнэгдэнгүй",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "더듬더듬하다",
+    "translation": "түймэр тавих",
+    "hanja": "無",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "더듬이",
+    "translation": "сойр",
+    "hanja": "더듬이",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "더디",
+    "translation": "удаан, хойрго",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "더디다",
+    "translation": "Удаан, аажмаар",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "더디하다",
+    "translation": "удаашрах",
+    "hanja": "더디하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "더러",
+    "translation": "заримдаа",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "더러움",
+    "translation": "бохир",
+    "hanja": "더러움",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "더럭",
+    "translation": "гэнэт, цочих",
+    "hanja": "더럭",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더럼",
+    "translation": "Бохирдол, хир",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "더럽",
+    "translation": "бохир",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "더럽다",
+    "translation": "бохир",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "더리",
+    "translation": "Илүү",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "더미",
+    "translation": "овоолго",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "더반",
+    "translation": "Дурбан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "더벅머리",
+    "translation": "самнаагүй үс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "더부룩하다",
+    "translation": "өтгөн, зузаан",
+    "hanja": "더부룩하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더부살이",
+    "translation": "айлд амьдрах",
+    "hanja": "null",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "더불다",
+    "translation": "Хамтрах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더블",
+    "translation": "Хоёр",
+    "hanja": "double",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "더블다",
+    "translation": "давхарлах",
+    "hanja": "--",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "더블린",
+    "translation": "Дублин",
+    "hanja": "더블린",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "더블릿",
+    "translation": "дабль, хуулбар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "더블링",
+    "translation": "хоёр дахин ихэсгэх, давхарлах",
+    "hanja": "null",
+    "pos": "н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "더블유",
+    "translation": "W (үсэг)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "더블유티오",
+    "translation": "ДХБ (Дэлхийн Худалдааны Байгууллага)",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더블헤더",
+    "translation": "дабэл хэдэр",
+    "hanja": "더블헤더",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "더비",
+    "translation": "Дерби",
+    "hanja": "더비",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "더빙",
+    "translation": "Дуу оруулах",
+    "hanja": "더빙",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더빙하다",
+    "translation": "дуу оруулах",
+    "hanja": "더빙하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더새다",
+    "translation": "илүү гоожих",
+    "hanja": "더새다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "더없다",
+    "translation": "гайхамшигтай",
+    "hanja": "더없다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "더없이",
+    "translation": "Хамгийн, маш их",
+    "hanja": "더없이",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "더욱",
+    "translation": "илүү",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "더욱더",
+    "translation": "илүү их",
+    "hanja": "더욱더",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "더욱더욱",
+    "translation": "улам илүү",
+    "hanja": "더욱더욱",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "더운물",
+    "translation": "халуун ус",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "더운밥",
+    "translation": "халуун хоол",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "더위",
+    "translation": "халуун",
+    "hanja": "더위",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "더으다",
+    "translation": "Нэмэх, илүүлэх",
+    "hanja": "더으다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "더이",
+    "translation": "Илүү, нэмэлт",
+    "hanja": "더이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "더즈",
+    "translation": "does (үйл үгийн хувирал)",
+    "hanja": null,
+    "pos": "n",
+    "cefr": "A1"
+  },
+  {
+    "word": "더치스",
+    "translation": "Герцогиня",
+    "hanja": "duchess",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "더치페이",
+    "translation": "хувааж төлөх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "더치페이하다",
+    "translation": "Тооцоогоо хувааж төлөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "더킹",
+    "translation": "Нумрах, бөхийх (спортын нэр томъёо)",
+    "hanja": "더킹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "더티",
+    "translation": "бохир",
+    "hanja": "dirty",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "더프",
+    "translation": "Дафф (нэр)",
+    "hanja": "더프",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "더하다",
+    "translation": "Нэмэх",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "더한층",
+    "translation": "илүү их",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  }
+]

@@ -1,0 +1,1906 @@
+[
+  {
+    "word": "중",
+    "translation": "дунд",
+    "hanja": "中",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "중가",
+    "translation": "дундаж үнэ",
+    "hanja": "中價",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중간",
+    "translation": "дунд",
+    "hanja": "中間",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "중간고사",
+    "translation": "дунд хугацааны шалгалт",
+    "hanja": "中間考査",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "중간선",
+    "translation": "Дундаж шугам",
+    "hanja": "中間線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중간시험",
+    "translation": "дунд шалгал",
+    "hanja": "中間試驗",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "중간역",
+    "translation": "завсрын буудал",
+    "hanja": "中間驛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중간적",
+    "translation": "дундаж, завсрын",
+    "hanja": "中間的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중간층",
+    "translation": "дунд давхарга",
+    "hanja": "中間層",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중강",
+    "translation": "дунд зэргийн хүчтэй",
+    "hanja": "中強",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중개",
+    "translation": "зуучлал",
+    "hanja": "仲介",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중개료",
+    "translation": "Зуучлалын хөлс",
+    "hanja": "仲介料",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중개업",
+    "translation": "зуучлалын бизнес",
+    "hanja": "仲介業",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "중개업자",
+    "translation": "зуучлагч, брокер",
+    "hanja": "仲介業者",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "중개인",
+    "translation": "зуучлагч",
+    "hanja": "仲介人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중개하다",
+    "translation": "зуучлах",
+    "hanja": "仲介하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중거리",
+    "translation": "дунд зайн",
+    "hanja": "中距離",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중건하다",
+    "translation": "дахин барих, сэргээн босгох",
+    "hanja": "重建하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중견",
+    "translation": "дунд зэргийн",
+    "hanja": "中堅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중경",
+    "translation": "Чунцин",
+    "hanja": "重慶",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "중경상",
+    "translation": "Хүнд, хөнгөн шарх",
+    "hanja": "重輕傷",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "중계",
+    "translation": "Дамжуулан өгөх",
+    "hanja": "中繼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중계되다",
+    "translation": "дамжуулагдах",
+    "hanja": "中繼되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "중계방송",
+    "translation": "шууд дамжуулалт",
+    "hanja": "中繼放送",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중계자",
+    "translation": "зуучлагч, дамжуулагч",
+    "hanja": "中繼者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중계차",
+    "translation": "нэвтрүүлгийн машин",
+    "hanja": "中繼車",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중계하다",
+    "translation": "дамжуулах",
+    "hanja": "中繼하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중고",
+    "translation": "хоёрдогч",
+    "hanja": "中古",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중고등부",
+    "translation": "дунд болон ахлах анги",
+    "hanja": "中高等部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중고생",
+    "translation": "Дунд болон ахлах ангийн сурагч",
+    "hanja": "中高生",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "중고차",
+    "translation": "Хуучин машин",
+    "hanja": "中古車",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "중고품",
+    "translation": "хоёрдогч бараа, хуучин эд зүйл",
+    "hanja": "中古品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중곡",
+    "translation": "дундаж хөндий",
+    "hanja": "中谷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중공",
+    "translation": "Хятадын Коммунист Нам",
+    "hanja": "中共",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중공업",
+    "translation": "хүнд үйлдвэрлэл",
+    "hanja": "重工業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중과",
+    "translation": "Хүнд татвар",
+    "hanja": "重課",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중과부적",
+    "translation": "олноос цөөн ялж чадахгүй",
+    "hanja": "衆寡不敵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중과하다",
+    "translation": "хэт их татвар ногдуулах",
+    "hanja": "重課하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중괄호",
+    "translation": "Дөрвөлжин хаалт {}",
+    "hanja": "中括弧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중구",
+    "translation": "төв дүүрэг",
+    "hanja": "中區",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중구난방",
+    "translation": "эмх замбараагүй",
+    "hanja": "衆口難防",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중국",
+    "translation": "Хятад",
+    "hanja": "中國",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "중국어",
+    "translation": "хятад хэл",
+    "hanja": "中國語",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "중국집",
+    "translation": "Хятад ресторан",
+    "hanja": "中國집",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "중군",
+    "translation": "Дунд цэрэг",
+    "hanja": "中軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중궁",
+    "translation": "дундаж ордон, хатан хаан",
+    "hanja": "中宮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중근",
+    "translation": "Ан Жүн-гөн",
+    "hanja": "重根",
+    "pos": "NNP",
+    "cefr": "C2"
+  },
+  {
+    "word": "중금속",
+    "translation": "хүнд металл",
+    "hanja": "重金屬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중급",
+    "translation": "дунд шат",
+    "hanja": "中級",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중급반",
+    "translation": "дунд шатны анги",
+    "hanja": "中級班",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중기",
+    "translation": "дунд үе",
+    "hanja": "中期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중길",
+    "translation": "дундаж зам",
+    "hanja": "中吉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중난산",
+    "translation": "Жунг Наньшан (хүний нэр)",
+    "hanja": "鍾南山",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "중난하이",
+    "translation": "Жуннанхай",
+    "hanja": "中南海",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "중년",
+    "translation": "Дунд нас",
+    "hanja": "中年",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "중년기",
+    "translation": "дунд нас",
+    "hanja": "中年期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중년층",
+    "translation": "дунд насны хүмүүс",
+    "hanja": "中年層",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "중노동",
+    "translation": "Хүнд ажил",
+    "hanja": "重勞動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중뇌",
+    "translation": "дунд тархи",
+    "hanja": "中腦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중늙은이",
+    "translation": "дунд насны эр",
+    "hanja": "中늙은이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중단",
+    "translation": "зогсоох, таслах",
+    "hanja": "中斷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중단되다",
+    "translation": "зогсох",
+    "hanja": "中斷되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중단하다",
+    "translation": "зогсоох, таслах",
+    "hanja": "中斷하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중당",
+    "translation": "Намын төв",
+    "hanja": "中黨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중대",
+    "translation": "чухал",
+    "hanja": "重大",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "중대본",
+    "translation": "гамшгийн эсрэг төв штаб",
+    "hanja": "中大本",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중대사",
+    "translation": "чухал хэрэг",
+    "hanja": "重大事",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "중대성",
+    "translation": "чухал байдал",
+    "hanja": "重大性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중대장",
+    "translation": "рот командлагч",
+    "hanja": "中隊長",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중대하다",
+    "translation": "Чухал",
+    "hanja": "重大하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "중도",
+    "translation": "замын дунд",
+    "hanja": "中途",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "중도금",
+    "translation": "Урьдчилсан төлбөр",
+    "hanja": "中途金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중도적",
+    "translation": "Дунд зэргийн",
+    "hanja": "中道的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중도파",
+    "translation": "Төв үзэлтэн",
+    "hanja": "中道派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중독",
+    "translation": "донтолт",
+    "hanja": "中毒",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "중독되다",
+    "translation": "донтох",
+    "hanja": "中毒되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "중독성",
+    "translation": "донтүүлэх чанар",
+    "hanja": "中毒性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중독자",
+    "translation": "донтсон хүн, хамааралттай хүн",
+    "hanja": "中毒者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중동",
+    "translation": "Ойрхи Дорнод",
+    "hanja": "中東",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중등",
+    "translation": "дунд",
+    "hanja": "中等",
+    "pos": "관형사",
+    "cefr": "A2"
+  },
+  {
+    "word": "중딩",
+    "translation": "Дунд сургуулийн сурагч",
+    "hanja": "中딩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중랑",
+    "translation": "Жуннан",
+    "hanja": "中浪",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "중랑장",
+    "translation": "Дунд цэргийн генерал",
+    "hanja": "中郎將",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "중략",
+    "translation": "дундаас нь хасах",
+    "hanja": "中略",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중량",
+    "translation": "Жин",
+    "hanja": "重量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중량감",
+    "translation": "хүнд мэдрэмж, дарамт",
+    "hanja": "重量感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중량급",
+    "translation": "Дунд жингийн ангилал",
+    "hanja": "重量級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중러",
+    "translation": "Хятад-Орос",
+    "hanja": "中러",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중력",
+    "translation": "таталцал",
+    "hanja": "중력(重力)",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "중령",
+    "translation": "дэд хурандаа",
+    "hanja": "中領",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중론",
+    "translation": "Нийтийн санал, олонхийн санаа",
+    "hanja": "衆論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중류",
+    "translation": "дунд урсгал",
+    "hanja": "中流",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중류층",
+    "translation": "Дунд давхарга",
+    "hanja": "中流層",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중리",
+    "translation": "голын тосгон",
+    "hanja": "中里",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중립",
+    "translation": "төвийг сахих",
+    "hanja": "中立",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중립국",
+    "translation": "төвийг сахисан улс",
+    "hanja": "中立國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중립성",
+    "translation": "төвийг сахих байдал",
+    "hanja": "中立性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중립적",
+    "translation": "Төвийг сахисан, саармаг",
+    "hanja": "中立的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중마",
+    "translation": "Дунд морь",
+    "hanja": "中馬",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "중매",
+    "translation": "зуучлал (гэрлэлтийн)",
+    "hanja": "仲媒",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "중매결혼",
+    "translation": "зуучлалын гэрлэлт",
+    "hanja": "仲媒結婚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중매쟁이",
+    "translation": "зуучлагч, холыг холбогч",
+    "hanja": "中媒쟁이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중매하다",
+    "translation": "Зуучлах (гэрлэлт)",
+    "hanja": "仲媒하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중맹",
+    "translation": "сохор",
+    "hanja": "重盲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중면",
+    "translation": "дунд гоймон",
+    "hanja": "中麵",
+    "pos": "명",
+    "cefr": "B1"
+  },
+  {
+    "word": "중명",
+    "translation": "дунд зэргийн гэрэл",
+    "hanja": "中明",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중목",
+    "translation": "дундаж мод",
+    "hanja": "中木",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중무장",
+    "translation": "хүнд зэвсэг",
+    "hanja": "重武裝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중무장하다",
+    "translation": "хүнд зэвсэглэсэн байх",
+    "hanja": "重武裝하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중문",
+    "translation": "дунд үг",
+    "hanja": "中文",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중미",
+    "translation": "Төв Америк",
+    "hanja": "中美",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중반",
+    "translation": "дунд үе",
+    "hanja": "中盤",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "중반기",
+    "translation": "дунд үе",
+    "hanja": "中半期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중방",
+    "translation": "дунд байр",
+    "hanja": "中房",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중벌",
+    "translation": "Хүнд шийтгэл",
+    "hanja": "重罰",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "중범",
+    "translation": "хүнд гэмт хэрэг",
+    "hanja": "重犯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중병",
+    "translation": "хүнд өвчин",
+    "hanja": "重病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중보",
+    "translation": "Завсрын зуучлагч",
+    "hanja": "中保",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "중복",
+    "translation": "давхардуулах, давхцал",
+    "hanja": "重複",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중복되다",
+    "translation": "давхцах",
+    "hanja": "重複되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중복하다",
+    "translation": "давхардах, давхцах",
+    "hanja": "重複하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중봉",
+    "translation": "дундаж оргил",
+    "hanja": "中峰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중부",
+    "translation": "төв хэсэг",
+    "hanja": "中部",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "중사",
+    "translation": "түрүүч",
+    "hanja": "中士",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중산",
+    "translation": "дундаж амьдрал",
+    "hanja": "中産",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중산층",
+    "translation": "дундаж давхарга",
+    "hanja": "中産層",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "중상",
+    "translation": "хүнд гэмтэл",
+    "hanja": "重傷",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "중상모략",
+    "translation": "гүтгэлэг, хов жив",
+    "hanja": "中傷謀略",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중상자",
+    "translation": "хүнд шархадсан хүн",
+    "hanja": "重傷者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중생",
+    "translation": "Амьтан",
+    "hanja": "衆生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중성",
+    "translation": "төвийг сахисан",
+    "hanja": "中性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중성자별",
+    "translation": "нейтроны од",
+    "hanja": "中性子星",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중성적",
+    "translation": "төвийг сахисан, дунд хүйсийн",
+    "hanja": "中性的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중성화하다",
+    "translation": "төвийг сахих, төвийг сахиулах",
+    "hanja": "中性化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중세",
+    "translation": "Дундад зуун",
+    "hanja": "中世",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중소",
+    "translation": "жижиг дунд",
+    "hanja": "中小",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중소기업",
+    "translation": "Жижиг дунд үйлдвэр",
+    "hanja": "中小企業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중소형",
+    "translation": "дунд болон жижиг хэмжээтэй",
+    "hanja": "中小型",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중쇄",
+    "translation": "Дахин хэвлэх",
+    "hanja": "重刷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중수하다",
+    "translation": "засах",
+    "hanja": "重修하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중순",
+    "translation": "сарын дунд үе",
+    "hanja": "中旬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중시",
+    "translation": "чухалчлах",
+    "hanja": "重視",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "중시되다",
+    "translation": "чухалчлагдах",
+    "hanja": "重視되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중시하다",
+    "translation": "чухалчлах, үнэлэх",
+    "hanja": "重視하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중식",
+    "translation": "үдийн хоол, хятад хоол",
+    "hanja": "中食",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "중신",
+    "translation": "зууч, гэрч",
+    "hanja": "中臣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중심",
+    "translation": "төв",
+    "hanja": "中心",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "중심가",
+    "translation": "Төв гудам",
+    "hanja": "中心街",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중심되다",
+    "translation": "төв болох",
+    "hanja": "中心되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중심부",
+    "translation": "Төв хэсэг",
+    "hanja": "中心部",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중심선",
+    "translation": "төвийн шугам",
+    "hanja": "中心線",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "중심인물",
+    "translation": "гол дүр, төв хүн",
+    "hanja": "中心人物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중심적",
+    "translation": "Төвлөрсөн",
+    "hanja": "中心的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중심점",
+    "translation": "төв цэг",
+    "hanja": "中心點",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "중심지",
+    "translation": "Төв, гол газар",
+    "hanja": "中心地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중안",
+    "translation": "Төв хэсэг",
+    "hanja": "中顔",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중압감",
+    "translation": "хүнд дарамт",
+    "hanja": "重壓感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중앙",
+    "translation": "төв",
+    "hanja": "中央",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중앙부",
+    "translation": "төв хэсэг",
+    "hanja": "中央部",
+    "pos": "n",
+    "cefr": "A2"
+  },
+  {
+    "word": "중앙선",
+    "translation": "төвийн шугам",
+    "hanja": "中央線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중앙통신",
+    "translation": "төв мэдээллийн агентлаг",
+    "hanja": "中央通信",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중양",
+    "translation": "Хаврын дунд сар",
+    "hanja": "重陽",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중어",
+    "translation": "Дунд үг",
+    "hanja": "中語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중언부언",
+    "translation": "Давтан хэлэх, улиг болгох",
+    "hanja": "重言復言",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중언부언하다",
+    "translation": "давтан ярих",
+    "hanja": "重言復言하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중얼거리다",
+    "translation": "Боргоох, амандаа бувтнах",
+    "hanja": "중얼거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중얼대다",
+    "translation": "чимээгүй ярих, бувтнах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중얼중얼",
+    "translation": "бүдэг бадаг",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중얼중얼하다",
+    "translation": "яриагаа хэлж гүвтнэнэ",
+    "hanja": "중얼중얼하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중역",
+    "translation": "дунд шатны удирдлага, гүйцэтгэх захирал",
+    "hanja": "重役",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "중연",
+    "translation": "дунд нас",
+    "hanja": "中年",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "중엽",
+    "translation": "Дунд үе, дунд хэсэг",
+    "hanja": "中葉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중영",
+    "translation": "давхар сүүдэр",
+    "hanja": "重影",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중요",
+    "translation": "чухал",
+    "hanja": "重要",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "중요도",
+    "translation": "Чухал байдал",
+    "hanja": "重要度",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "중요성",
+    "translation": "чухал байдал",
+    "hanja": "重要性",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "중요시",
+    "translation": "чухалчлах, ач холбогдол өгөх",
+    "hanja": "重要視",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중요시되다",
+    "translation": "чухалчлагдах",
+    "hanja": "重要視되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중요시하다",
+    "translation": "чухалчлах",
+    "hanja": "重要視하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "중요하다",
+    "translation": "чухал",
+    "hanja": "重要하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "중요히",
+    "translation": "чухал",
+    "hanja": "重要히",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "중용",
+    "translation": "дундаж зам",
+    "hanja": "中庸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중용되다",
+    "translation": "үндсэн ажилд томилогдох",
+    "hanja": "重用되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중용하다",
+    "translation": "дундаж зам баримтлах, тэнцвэржүүлэх",
+    "hanja": "中庸하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중원",
+    "translation": "төв тал, Хятадын төв хэсэг",
+    "hanja": "中原",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중위",
+    "translation": "дунд зэргийн, дэслэгч",
+    "hanja": "中尉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중유",
+    "translation": "хүнд тос",
+    "hanja": "重油",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중음",
+    "translation": "үхэгсдийн хойд төрөл",
+    "hanja": "中陰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중이",
+    "translation": "Дунд чих",
+    "hanja": "中耳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중이염",
+    "translation": "Дунд чихний үрэвсэл",
+    "hanja": "中耳炎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중인",
+    "translation": "гэрч",
+    "hanja": "證人",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "중입",
+    "translation": "дахин орох, дахин элсэх",
+    "hanja": "重入",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중자",
+    "translation": "дамжуулагч",
+    "hanja": "中子",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "중장",
+    "translation": "залхаглах",
+    "hanja": "重裝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중장거리",
+    "translation": "дунд болон холын зай",
+    "hanja": "中長距離",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중장비",
+    "translation": "хүнд машин механизм",
+    "hanja": "重裝備",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중재",
+    "translation": "зуучлал, эвлэрүүлэлт",
+    "hanja": "仲裁",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "중재자",
+    "translation": "зуучлагч",
+    "hanja": "仲裁者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중재하다",
+    "translation": "зуучлах",
+    "hanja": "仲裁하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중저",
+    "translation": "дунд бага",
+    "hanja": "中低",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "중저가",
+    "translation": "Дунд болон хямд үнэ",
+    "hanja": "中低價",
+    "pos": "Нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "중전",
+    "translation": "хатан хаан (хуучин)",
+    "hanja": "中殿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중절",
+    "translation": "Үр хөндөлт",
+    "hanja": "中絕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중점",
+    "translation": "Гол цэг",
+    "hanja": "重點",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중점적",
+    "translation": "голлон",
+    "hanja": "重點的",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "중정",
+    "translation": "голын талбай",
+    "hanja": "中庭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중제",
+    "translation": "зуучлал",
+    "hanja": "中裁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중조",
+    "translation": "Дахин хийх, давтах",
+    "hanja": "重造",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "중졸",
+    "translation": "Дунд сургууль төгссөн",
+    "hanja": "中卒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중종",
+    "translation": "Дундаж төрөл (хааны нэр)",
+    "hanja": "中宗",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "중좌",
+    "translation": "Дэслэгч командлагч",
+    "hanja": "中佐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중죄",
+    "translation": "ноцтой гэмт хэрэг",
+    "hanja": "重罪",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "중죄인",
+    "translation": "хүнд гэмт хэрэгтэн",
+    "hanja": "重罪人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중주",
+    "translation": "дунд хөгжим, хөгжмийн зохиол",
+    "hanja": "重奏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중증",
+    "translation": "Хүнд өвчин",
+    "hanja": "重症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중지",
+    "translation": "зогсоох",
+    "hanja": "中止",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "중지되다",
+    "translation": "зогсох, тасалдагдах",
+    "hanja": "中止되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중지시키다",
+    "translation": "зогсоох",
+    "hanja": "中止시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중지하다",
+    "translation": "зогсоох",
+    "hanja": "中止하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중진",
+    "translation": "Ахмад гишүүн",
+    "hanja": "重鎮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중진공",
+    "translation": "Дунд, жижиг үйлдвэрлэлийг дэмжих корпораци",
+    "hanja": "中振公",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중진국",
+    "translation": "Дунд хөгжилтэй орон",
+    "hanja": "中進國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중징계",
+    "translation": "Хүнд шийтгэл",
+    "hanja": "重懲戒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중징계하다",
+    "translation": "хатуу шийтгэх",
+    "hanja": "重懲戒하다",
+    "pos": "VV",
+    "cefr": "C1"
+  },
+  {
+    "word": "중차대하다",
+    "translation": "маш чухал",
+    "hanja": "重且大하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중창",
+    "translation": "Хамтын дуулалт",
+    "hanja": "重唱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중창단",
+    "translation": "хормейстер",
+    "hanja": "重唱團",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "중책",
+    "translation": "Хүнд хариуцлага, чухал үүрэг",
+    "hanja": "重責",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "중천",
+    "translation": "тэнгэрийн дунд",
+    "hanja": "中天",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중첩",
+    "translation": "Давхцах, давхардах",
+    "hanja": "重疊",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "중첩되다",
+    "translation": "давхцах",
+    "hanja": "重疊되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중첩하다",
+    "translation": "давхарлах, давхцал үүсгэх",
+    "hanja": "重疊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중청",
+    "translation": "дунд хөх",
+    "hanja": "中靑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중촌",
+    "translation": "дундаж тосгон",
+    "hanja": "中村",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중추",
+    "translation": "Гол цөм",
+    "hanja": "中樞",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "중추적",
+    "translation": "гол",
+    "hanja": "中樞的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중추절",
+    "translation": "намрын дунд сарын баяр",
+    "hanja": "仲秋節",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중층",
+    "translation": "дунд давхарга",
+    "hanja": "中層",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중치막",
+    "translation": "Чужимэг (эртний эрэгтэй дээл)",
+    "hanja": "中致莫",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "중탕",
+    "translation": "усан халаагуур",
+    "hanja": "重湯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중탕하다",
+    "translation": "усан халаагуураар халаах",
+    "hanja": "重湯하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중태",
+    "translation": "хүнд байдал",
+    "hanja": "重態",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중턱",
+    "translation": "дунд бэл",
+    "hanja": "中턱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중퇴",
+    "translation": "сургуулиа хаях",
+    "hanja": "中退",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중퇴하다",
+    "translation": "Сургууль завсардах",
+    "hanja": "中退하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중편",
+    "translation": "дунд хэмжээний зохиол",
+    "hanja": "中篇",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "중평",
+    "translation": "Дундаж үнэлгээ",
+    "hanja": "中評",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중폭",
+    "translation": "дунд зэргийн өсөлт",
+    "hanja": "中幅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중풍",
+    "translation": "харвалт",
+    "hanja": "中風",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중하다",
+    "translation": "хүнд, ноцтой",
+    "hanja": "重하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "중학",
+    "translation": "дунд сургууль",
+    "hanja": "中學",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "중학교",
+    "translation": "дунд сургууль",
+    "hanja": "中學校",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "중학생",
+    "translation": "дунд сургуулийн сурагч",
+    "hanja": "中學生",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "중핵",
+    "translation": "голомт",
+    "hanja": "中核",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중허",
+    "translation": "дундаж",
+    "hanja": "中許",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중형",
+    "translation": "дундаж хэлбэр, хүнд ял",
+    "hanja": "中型/重刑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중형차",
+    "translation": "Дунд оврын автомашин",
+    "hanja": "中型車",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중호",
+    "translation": "хүнд хамгаалалт",
+    "hanja": "重護",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "중화",
+    "translation": "саармагжуулах",
+    "hanja": "中和",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중화되다",
+    "translation": "саармагжих",
+    "hanja": "中和되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중화시키다",
+    "translation": "саармагжуулах",
+    "hanja": "中和시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중화요리",
+    "translation": "хятад хоол",
+    "hanja": "中華料理",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "중화전",
+    "translation": "Жунгхважеон (Түүхэн барилга)",
+    "hanja": "中和殿",
+    "pos": "Proper Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "중화하다",
+    "translation": "саармагжуулах",
+    "hanja": "中和하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중화학",
+    "translation": "хүнд хими",
+    "hanja": "重化學",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중환자",
+    "translation": "Хүнд өвчтөн",
+    "hanja": "重患者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중환자실",
+    "translation": "эрчимт эмчилгээний тасаг",
+    "hanja": "重患者室",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중후",
+    "translation": "сүрлэг, нэр хүндтэй",
+    "hanja": "重厚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중후하다",
+    "translation": "Сүрлэг, нэр хүндтэй",
+    "hanja": "중후하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중흥",
+    "translation": "сэргэн мандалт",
+    "hanja": "中興",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중희",
+    "translation": "олон түмэн",
+    "hanja": "衆熙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "중히",
+    "translation": "хүндэтгэн",
+    "hanja": "重히",
+    "pos": "adverb",
+    "cefr": "C1"
+  }
+]

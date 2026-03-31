@@ -1,0 +1,2571 @@
+[
+  {
+    "word": "미",
+    "translation": "америк",
+    "hanja": "美",
+    "pos": "접두사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미가",
+    "translation": "үнэ огт тооцохгүй",
+    "hanja": "美價",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미각",
+    "translation": "амтлах чадвар",
+    "hanja": "味覺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미간",
+    "translation": "Хөмсөгний завсар",
+    "hanja": "眉間",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미감",
+    "translation": "Гоо зүйн мэдрэмж",
+    "hanja": "美感",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미개",
+    "translation": "Хөгжөөгүй, бүдүүлэг",
+    "hanja": "未開",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미개발",
+    "translation": "хөгжөөгүй",
+    "hanja": "未開發",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미개인",
+    "translation": "Барбарист; зэрлэг хүн",
+    "hanja": "未開人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미개척",
+    "translation": "Нээгдээгүй; боловсруулагдаагүй",
+    "hanja": "未開拓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미개척지",
+    "translation": "Боловсруулаагүй газар",
+    "hanja": "未開拓地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미개하다",
+    "translation": "соёлгүй, бүдүүлэг",
+    "hanja": "未開하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미거하다",
+    "translation": "Муухай, муу санаатай",
+    "hanja": "美倨하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미결",
+    "translation": "шийдээгүй",
+    "hanja": "未決",
+    "pos": "NNG",
+    "cefr": "C1"
+  },
+  {
+    "word": "미결수",
+    "translation": "баривчлагдсан хүн",
+    "hanja": "未決囚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미경",
+    "translation": "Боловсроогүй",
+    "hanja": "未經",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미곡",
+    "translation": "цагаан будаа",
+    "hanja": "米穀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미곡상",
+    "translation": "будааны худалдаачин",
+    "hanja": "米穀商",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미관",
+    "translation": "гоо зүй",
+    "hanja": "美觀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미관상",
+    "translation": "гоо зүйн үүднээс",
+    "hanja": "美觀上",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미광",
+    "translation": "сул гэрэл, бүдэг гэрэл",
+    "hanja": "微光",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미구",
+    "translation": "удахгүй",
+    "hanja": "未久",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미국",
+    "translation": "Америк",
+    "hanja": "美國",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "미군",
+    "translation": "АНУ-ын цэрэг",
+    "hanja": "美軍",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미궁",
+    "translation": "таавар",
+    "hanja": "迷宮",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미금",
+    "translation": "Мигым",
+    "hanja": "美金",
+    "pos": "지명",
+    "cefr": "C1"
+  },
+  {
+    "word": "미기록종",
+    "translation": "шинээр нээгдсэн төрөл зүйл",
+    "hanja": "未記錄種",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미꾸라지",
+    "translation": "шамба хэлбэрийн загас",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미꾸리",
+    "translation": "шар загас (зүйл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미끄",
+    "translation": "халтиргаатай",
+    "hanja": "NaN",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미끄덩거리다",
+    "translation": "Халтираатай байна",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미끄덩미끄덩",
+    "translation": "халтираатай, гулгамтгай",
+    "hanja": "미끄덩미끄덩",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미끄덩하다",
+    "translation": "гулгамтгай байх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미끄러뜨리다",
+    "translation": "хальтаргах",
+    "hanja": "미끄러뜨리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미끄러지다",
+    "translation": "Гусах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미끄럼",
+    "translation": "гулгах, халтиргаа",
+    "hanja": "미끄럼",
+    "pos": "м",
+    "cefr": "B1"
+  },
+  {
+    "word": "미끄럼틀",
+    "translation": "гулсуур",
+    "hanja": "미끄럼틀",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "미끄럽다",
+    "translation": "Хальтиргаатай / Гулгамтгай",
+    "hanja": "미끄럽다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미끈거리다",
+    "translation": "гулгах, халтирах",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "미끈미끈하다",
+    "translation": "гялалзсан, гулгамтгай",
+    "hanja": "미끈미끈하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미끈하다",
+    "translation": "Гөлгөр, жигдхэн",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미끌거리다",
+    "translation": "гулгамтгай байх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미끌다",
+    "translation": "미끄러지다",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미끌리다",
+    "translation": "халтирах, гулгах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미끌미끌",
+    "translation": "халтиргаатай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미끌미끌하다",
+    "translation": "гулгамтгай, хальтиргаатай",
+    "hanja": "미끌미끌하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "미끌하다",
+    "translation": "гулгамтгай, хальтиргаатай",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미끼",
+    "translation": "жад",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미나리",
+    "translation": "усны майлз",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미나마타",
+    "translation": "Минамата",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미나토구",
+    "translation": "Минато дүүрэг",
+    "hanja": "港区",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미남",
+    "translation": "Царайлаг эр, үзэсгэлэнтэй эр",
+    "hanja": "美男",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미납",
+    "translation": "төлөгдөөгүй, хугацаа хэтэрсэн",
+    "hanja": "未納",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미납금",
+    "translation": "төлөгдөөгүй дүн",
+    "hanja": "未納金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미납되다",
+    "translation": "Төлбөр төлөгдөөгүй байх",
+    "hanja": "未納되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미납하다",
+    "translation": "төлөхгүй байх, төлбөрөө хоцроох",
+    "hanja": "未納하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미네기",
+    "translation": "минеги (япон нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미네랄",
+    "translation": "эрдэс",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미네랄워터",
+    "translation": "эрдэст ус",
+    "hanja": "미네랄워터",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "미네르바",
+    "translation": "Минерва",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "미네소타주",
+    "translation": "Миннесота муж (АНУ)",
+    "hanja": "미네소타州",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "미네스트로네",
+    "translation": "Минестроне (шөл)",
+    "hanja": "미네스트로네",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미녀",
+    "translation": "гоо бүсгүй",
+    "hanja": "美女",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미노",
+    "translation": "морь сүүл",
+    "hanja": "蓑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미노타우로스",
+    "translation": "Минотавр",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미녹시딜",
+    "translation": "миноксидил",
+    "hanja": "미녹시딜",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미뇽",
+    "translation": "жижиг, хөөрхөн",
+    "hanja": "미뇽",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미뉴에트",
+    "translation": "Минуэт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미늘",
+    "translation": "Зах (хутганы)",
+    "hanja": "미늘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미니",
+    "translation": "Жижиг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미니맥스",
+    "translation": "мини-макс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미니멀리즘",
+    "translation": "Минимализм",
+    "hanja": "Minimalism",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미니멀하다",
+    "translation": "минималист",
+    "hanja": "minimal-",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미니멈",
+    "translation": "хамгийн бага, доод хэмжээ",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미니미니",
+    "translation": "маш жижиг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미니바",
+    "translation": "мини бар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미니밴",
+    "translation": "минивэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미니버스",
+    "translation": "Миниавтобус",
+    "hanja": "미니버스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미니스커트",
+    "translation": "богино банзал",
+    "hanja": "miniskirt",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "미니시리즈",
+    "translation": "мини-цуврал",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미니애폴리스",
+    "translation": "Миннеаполис",
+    "hanja": "미니애폴리스",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미니어처",
+    "translation": "миниатюр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미니언즈",
+    "translation": "Минионс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "미니카",
+    "translation": "Жижиг машин (тоглоом)",
+    "hanja": "미니카",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미니트맨",
+    "translation": "минитмен",
+    "hanja": "Minuteman",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미다",
+    "translation": "хүрэх, тулах",
+    "hanja": null,
+    "pos": "동사 (Verb)",
+    "cefr": "B2"
+  },
+  {
+    "word": "미다스",
+    "translation": "мидас",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미다졸람",
+    "translation": "мидазолам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미닫이",
+    "translation": "гулсах хаалга",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미달",
+    "translation": "дутуу, хүрэхгүй",
+    "hanja": "未達",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미달되다",
+    "translation": "Хүрэлцэхгүй байх, дутах",
+    "hanja": "未達되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미달하다",
+    "translation": "хүрэлцэхгүй байх, дутах",
+    "hanja": "未達하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미담",
+    "translation": "сайн үг яриа",
+    "hanja": "美談",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미더덕",
+    "translation": "далайн хонгио",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미덕",
+    "translation": "буян",
+    "hanja": "美德",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미덥다",
+    "translation": "итгэлтэй",
+    "hanja": "미덥다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미도",
+    "translation": "төөрсөн зам",
+    "hanja": "迷途",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미동",
+    "translation": "бага зэрэг хөдөлгөөн",
+    "hanja": "微動",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미드",
+    "translation": "Америк цуврал кино",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미드가르드",
+    "translation": "Мидгард (скандинавын домог)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미드필더",
+    "translation": "Хагас хамгаалагч",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미드필드",
+    "translation": "Хагас хамгаалагч",
+    "hanja": "Midfield",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미들급",
+    "translation": "дунд жин",
+    "hanja": "미들급",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미들랜드",
+    "translation": "Мидленд",
+    "hanja": "미들랜드",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미들즈브러",
+    "translation": "Мидлзбро (хот)",
+    "hanja": "Middlesbrough",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미들턴",
+    "translation": "Миддлтон (нэр)",
+    "hanja": "미들턴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미등",
+    "translation": "хойд гэрэл",
+    "hanja": "尾燈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미등록",
+    "translation": "Бүртгэлгүй",
+    "hanja": "未登錄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미디",
+    "translation": "миди",
+    "hanja": "MIDI",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미디안",
+    "translation": "Мидиан (Библийн нэр)",
+    "hanja": "미디안",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미디어",
+    "translation": "хэвлэл мэдээлэл",
+    "hanja": "media",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미디엄",
+    "translation": "дунд",
+    "hanja": "medium",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "미라",
+    "translation": "Мий",
+    "hanja": "미라",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미라보",
+    "translation": "Мирабо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미란",
+    "translation": "Миран (нэр)",
+    "hanja": "美蘭",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "미란다",
+    "translation": "Миранда",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "미래",
+    "translation": "Ирээдүй",
+    "hanja": "未來",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "미래상",
+    "translation": "Ирээдүйн дүр төрх",
+    "hanja": "未來像",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미래형",
+    "translation": "ирээдүйн хэлбэр, загвар",
+    "hanja": "未來型",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미량",
+    "translation": "бага хэмжээ",
+    "hanja": "微量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미러",
+    "translation": "толь",
+    "hanja": "mirror",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "미러리스",
+    "translation": "тольгүй камер",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "미러링",
+    "translation": "толин тусгал",
+    "hanja": "미러링",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미러볼",
+    "translation": "мирорболл (диско бөмбөг)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미레",
+    "translation": "ирээдүй",
+    "hanja": "未來",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "미려하다",
+    "translation": "хээнцэр, үзэсгэлэнтэй",
+    "hanja": "美麗하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미력하다",
+    "translation": "хүчгүй",
+    "hanja": "微力하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미련",
+    "translation": "Харамсал",
+    "hanja": "未련",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미련스럽다",
+    "translation": "Тэнэг, мунхаг",
+    "hanja": "未練스럽다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "미련퉁이",
+    "translation": "мулгуу хүн",
+    "hanja": "迷戀─",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미련하다",
+    "translation": "мулгуу, тэнэг",
+    "hanja": "未練하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미령하다",
+    "translation": "өчүүхэн",
+    "hanja": "微靈하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "미로",
+    "translation": "төөрдөг зам",
+    "hanja": "迷路",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미뢰",
+    "translation": "Амтлах булчирхай",
+    "hanja": "味蕾",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미료",
+    "translation": "Мэдэгдэхгүй, дутуу",
+    "hanja": "未了",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미루",
+    "translation": "Хус мод",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미루다",
+    "translation": "хойшлуулах",
+    "hanja": "미루다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미륵",
+    "translation": "Майдар бурхан",
+    "hanja": "彌勒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미리",
+    "translation": "өмнө нь",
+    "hanja": "미리",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미리견",
+    "translation": "урьдчилан таамаглах",
+    "hanja": "未利見",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미리내",
+    "translation": "сүүт зам",
+    "hanja": "미리내",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미리미리",
+    "translation": "Урьдчилан, бэлдсэнээр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미림",
+    "translation": "мирим (амтлагч согтуу ундаа)",
+    "hanja": "味醂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미만",
+    "translation": "Доош",
+    "hanja": "未滿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미망",
+    "translation": "төөрсөн",
+    "hanja": "迷妄",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "미망인",
+    "translation": "Бэлэвсэн эмэгтэй",
+    "hanja": "未亡人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미명",
+    "translation": "үүр цайх, өглөөний гэгээ",
+    "hanja": "未明",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미모",
+    "translation": "Гоо үзэсгэлэн",
+    "hanja": "美貌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미모사",
+    "translation": "мимоза",
+    "hanja": "미모사",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미몽",
+    "translation": "Мунхаг зүүд",
+    "hanja": "迷夢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미묘하다",
+    "translation": "Нарийсгасан",
+    "hanja": "微妙하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미문",
+    "translation": "үзэсгэлэнт хаалга",
+    "hanja": "美文",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미물",
+    "translation": "бяцхан амьтан",
+    "hanja": "微物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미미",
+    "translation": "Бага зэрэг, үл ялиг",
+    "hanja": "微微",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미미하다",
+    "translation": "өчүүхэн, багахан",
+    "hanja": "微微하다(미미하다)",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미믹",
+    "translation": "дуурайх, имитаци",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미발표",
+    "translation": "нийтлэгдээгүй",
+    "hanja": "未發表",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미백",
+    "translation": "цайруулах",
+    "hanja": "美白",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미봉책",
+    "translation": "түр зуурын арга",
+    "hanja": "彌縫策",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미분",
+    "translation": "дифференциал",
+    "hanja": "微分",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미분양",
+    "translation": "зарагдаагүй",
+    "hanja": "未分讓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미분양되다",
+    "translation": "Борлогдоогүй үлдэх",
+    "hanja": "未分讓되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미분하다",
+    "translation": "дифференциалчлах",
+    "hanja": "微分하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미분화",
+    "translation": "ялгаралгүй, дифференциалгүй",
+    "hanja": "未分化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미비",
+    "translation": "бүрэн бус, дутуу",
+    "hanja": "未備",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미비점",
+    "translation": "дутуу зүйл, гүйцэтгэгдээгүй зүйл",
+    "hanja": "未備點",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미비하다",
+    "translation": "хангалтгүй байх, дутуу байх",
+    "hanja": "未備하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미쁘다",
+    "translation": "Үнэнч, итгэлтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미사",
+    "translation": "жагсал",
+    "hanja": "美辭",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미사리",
+    "translation": "Мисари",
+    "hanja": "渼沙里",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미사일",
+    "translation": "пуужин",
+    "hanja": "미사일",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미사토",
+    "translation": "Мисато (Японы эмэгтэй нэр)",
+    "hanja": "美沙都",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미상",
+    "translation": "үл мэдэгдэх",
+    "hanja": "未詳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미색",
+    "translation": "цайвар шар өнгө",
+    "hanja": "米色",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미생",
+    "translation": "амьдралгүй байдал",
+    "hanja": "未生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미생물",
+    "translation": "бичил биет",
+    "hanja": "微生物",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "미생물학",
+    "translation": "бичил биет судлал, микробиологи",
+    "hanja": "微生物學",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미선",
+    "translation": "үзэсгэлэнтэй, сайхан",
+    "hanja": "美善",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미성",
+    "translation": "үзэсгэлэнт дуу хоолой",
+    "hanja": "미성(美聲)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미성년",
+    "translation": "насанд хүрээгүй",
+    "hanja": "未成年",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "미성년자",
+    "translation": "Насанд хүрээгүй хүн",
+    "hanja": "未成年者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "미성숙",
+    "translation": "боловсроогүй, гүйцээгүй",
+    "hanja": "未成熟",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미성숙하다",
+    "translation": "Төрсөн",
+    "hanja": "未成熟하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미세스",
+    "translation": "хатагтай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "미세하다",
+    "translation": "нягт, өчүүхэн",
+    "hanja": "微細하다",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "미션",
+    "translation": "Даалгавар",
+    "hanja": "미션",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미소",
+    "translation": "инээмсэглэл",
+    "hanja": "微笑",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미소년",
+    "translation": "үзэсгэлэнт залуу",
+    "hanja": "美少年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미소하다",
+    "translation": "инээмсэглэх",
+    "hanja": "微笑하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미수",
+    "translation": "дутуу, оролдлого",
+    "hanja": "未遂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미수금",
+    "translation": "Авагдах авлага",
+    "hanja": "未收金",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미수죄",
+    "translation": "оролдсон гэмт хэрэг",
+    "hanja": "未遂罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미숙",
+    "translation": "дутуу, болхи",
+    "hanja": "未熟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미숙아",
+    "translation": "дутуу төрсөн хүүхэд",
+    "hanja": "未熟兒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미숙하다",
+    "translation": "дутуу, болхи, гүйцээгүй",
+    "hanja": "未熟하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "미술",
+    "translation": "уран зураг",
+    "hanja": "美術",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "미술가",
+    "translation": "зураач",
+    "hanja": "美術家",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미술계",
+    "translation": "урлагийн ертөнц",
+    "hanja": "美術界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미술관",
+    "translation": "урлагийн музей",
+    "hanja": "美術館",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미술사",
+    "translation": "Урлагийн түүх",
+    "hanja": "美術史",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미술품",
+    "translation": "урлагийн бүтээл",
+    "hanja": "美術品",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미숫가루",
+    "translation": "үр тарианы нунтаг (ундаа хийхэд зориулсан)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미쉬",
+    "translation": "Миш",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "미스",
+    "translation": "хатагтай",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "미스매치",
+    "translation": "үл тохирох",
+    "hanja": "mismatch",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미스터",
+    "translation": "ноён",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "미스터리",
+    "translation": "нууц",
+    "hanja": "mystery",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미스테리",
+    "translation": "нууцлаг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미스트",
+    "translation": "манан",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미스티",
+    "translation": "манантай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미시",
+    "translation": "микро",
+    "hanja": "微視",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미시간대",
+    "translation": "Мичиганы их сургууль",
+    "hanja": "미시간大",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미시간주",
+    "translation": "Мичиган муж улс",
+    "hanja": "미시간州",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미시시피강",
+    "translation": "미시시피강",
+    "hanja": "미시시피江",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미시시피주",
+    "translation": "Миссисипи муж",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "미시적",
+    "translation": "Бичил, микро",
+    "hanja": "微視的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미시즈",
+    "translation": "хатагтай",
+    "hanja": "미시즈",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미식",
+    "translation": "Амттай хоол",
+    "hanja": "美食",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "미식가",
+    "translation": "амттанч, хоолны амт мэддэг хүн",
+    "hanja": "美食家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미식축구",
+    "translation": "Америк хөлбөмбөг",
+    "hanja": "美式蹴球",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "미신",
+    "translation": "мухар сүсэг",
+    "hanja": "迷信",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "미신고",
+    "translation": "мэдээлээгүй, бүртгэгдээгүй",
+    "hanja": "未申告",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미신적",
+    "translation": "мухар сүсэгтэй",
+    "hanja": "迷信的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미실",
+    "translation": "мишил",
+    "hanja": "美室",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미심쩍다",
+    "translation": "эргэлзээтэй, сэжигтэй",
+    "hanja": "未審쩍다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미싱",
+    "translation": "Оёдлын машин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미아",
+    "translation": "төөрсөн хүүхэд",
+    "hanja": "迷兒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미아리",
+    "translation": "Миари (газарзүйн нэр)",
+    "hanja": "彌阿里",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "미안",
+    "translation": "Уучлаарай",
+    "hanja": "未安",
+    "pos": "Adjective",
+    "cefr": "A1"
+  },
+  {
+    "word": "미안스럽다",
+    "translation": "уучлал гуймаар санагдах",
+    "hanja": "未安스럽다",
+    "pos": "형용사",
+    "cefr": null
+  },
+  {
+    "word": "미안하다",
+    "translation": "уучлаарай",
+    "hanja": "未安하다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "미야",
+    "translation": "Мия (нэр)",
+    "hanja": "미야",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미야마",
+    "translation": "Мияама",
+    "hanja": "미야마",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "미야자키",
+    "translation": "Миязаки",
+    "hanja": "미야자키",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "미약",
+    "translation": "сул дорой",
+    "hanja": "微弱",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미약하다",
+    "translation": "Сул дорой",
+    "hanja": "微弱하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "미얀마",
+    "translation": "Мьянмар",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미어캣",
+    "translation": "Зэрлэг муур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미어터지다",
+    "translation": "Дүүрэх, битүүрэх",
+    "hanja": "미어터지다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미에다",
+    "translation": "хасах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미에현",
+    "translation": "Мие муж",
+    "hanja": "三重県",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "미역",
+    "translation": "далайн ургамал",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미역국",
+    "translation": "Нохойн хоолны шөл / Далайн байцааны шөл",
+    "hanja": "미역국",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미연",
+    "translation": "урьдчилан",
+    "hanja": "未然",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미열",
+    "translation": "Бага зэрэг халуурах",
+    "hanja": "微熱",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미영",
+    "translation": "Америк, Англи",
+    "hanja": "美英",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미오",
+    "translation": "Мио",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미오글로빈",
+    "translation": "Миоглобин",
+    "hanja": "미오글로빈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미옥다",
+    "translation": "буруушаах",
+    "hanja": "미옥다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미온적",
+    "translation": "идэвхгүй",
+    "hanja": "微溫的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미완",
+    "translation": "дуусаагүй",
+    "hanja": "未完",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미완성",
+    "translation": "дуусаагүй",
+    "hanja": "未完成",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미완성되다",
+    "translation": "бүрэн дуусаагүй",
+    "hanja": "未完成되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "미요시",
+    "translation": "Миёоши",
+    "hanja": "三好",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미용",
+    "translation": "Үсчин гоо сайхан",
+    "hanja": "美容",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미용사",
+    "translation": "үсчин",
+    "hanja": "美容師",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "미용실",
+    "translation": "үсчин",
+    "hanja": "美容室",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미용하다",
+    "translation": "гоо сайхан",
+    "hanja": "美容하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "미우",
+    "translation": "Миү (Японы нэр)",
+    "hanja": "美羽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미욱하다",
+    "translation": "мулгуу, тэнэг байх",
+    "hanja": "미욱하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미운",
+    "translation": "муухай, дургүй хүргэм",
+    "hanja": null,
+    "pos": "관형사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미움",
+    "translation": "жигшил",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미워하다",
+    "translation": "үзэн ядах",
+    "hanja": "밉-",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미원",
+    "translation": "амт оруулагч (моносодиум глутамат)",
+    "hanja": "味元",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "미유",
+    "translation": "Миюү",
+    "hanja": "Miyu",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미음",
+    "translation": "шингэн будаа",
+    "hanja": "米飮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미의식",
+    "translation": "гоо зүйн мэдрэмж",
+    "hanja": "美意識",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미이라",
+    "translation": "муми",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미인",
+    "translation": "гоо бүсгүй",
+    "hanja": "美人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미인계",
+    "translation": "гоо сайхны арга",
+    "hanja": "美人計",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미일",
+    "translation": "Америк-Япон",
+    "hanja": "美日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미자",
+    "translation": "Насанд хүрээгүй хүн",
+    "hanja": "未者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "미장",
+    "translation": "Гоо сайхан",
+    "hanja": "美粧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미장센",
+    "translation": "мизансцен",
+    "hanja": "mise-en-scène",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미장원",
+    "translation": "Үсчин, гоо сайхны салон",
+    "hanja": "美粧院",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미장이",
+    "translation": "шавардлагачин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미적",
+    "translation": "Гоо зүйн",
+    "hanja": "美的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미적거리다",
+    "translation": "хойш тавих",
+    "hanja": "미적거리다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "미적대다",
+    "translation": "Хугацаа хойшлуулах, удаашруулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미적미적",
+    "translation": "удаан, саатуулах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미적지근하다",
+    "translation": "бүлээн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미전",
+    "translation": "Төлөөгүй татвар",
+    "hanja": "未錢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미정",
+    "translation": "Шийдвэрлэгдээгүй",
+    "hanja": "未定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미정사",
+    "translation": "шийдээгүй хэрэг",
+    "hanja": "未定事",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미제",
+    "translation": "Америк бараа, АНУ-д үйлдвэрлэсэн",
+    "hanja": "美製",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미조",
+    "translation": "өнөөдрийг хүртэл",
+    "hanja": "未組",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미주",
+    "translation": "Америк тив",
+    "hanja": "美洲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미주리",
+    "translation": "Миссури (Нэгдсэн Улсын муж)",
+    "hanja": "미주리",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미주알고주알",
+    "translation": "дэлгэрэнгүй, нягт нямбай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미즈",
+    "translation": "хатагтай",
+    "hanja": "미즈",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미즈호",
+    "translation": "Мизухо",
+    "hanja": null,
+    "pos": "нэр",
+    "cefr": "C2"
+  },
+  {
+    "word": "미증유",
+    "translation": "урьд өмнө байгаагүй",
+    "hanja": "未曾有",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "미지",
+    "translation": "Үл мэдэгдэх",
+    "hanja": "未知",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "미지근하다",
+    "translation": "бүлээн",
+    "hanja": "null",
+    "pos": "adj",
+    "cefr": "B1"
+  },
+  {
+    "word": "미지급되다",
+    "translation": "төлөгдөхгүй байх",
+    "hanja": "未支給되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "미지급하다",
+    "translation": "Төлөөгүй байх, төлбөр хийгээгүй",
+    "hanja": "未支給하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "미지수",
+    "translation": "үл мэдэгдэх тоо",
+    "hanja": "未知數",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미진",
+    "translation": "үр дүн",
+    "hanja": "未盡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미진하다",
+    "translation": "дутуу, төгс бус",
+    "hanja": "未盡하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "미처",
+    "translation": "өмнө нь, түрүүлж",
+    "hanja": "미처",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "미천하다",
+    "translation": "энгийн, дорд",
+    "hanja": "微賤하다",
+    "pos": "тү",
+    "cefr": "C1"
+  },
+  {
+    "word": "미체",
+    "translation": "маш жижиг биет",
+    "hanja": "微體",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "미첼",
+    "translation": "Мишелле",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "미추",
+    "translation": "муухай, муу, сул тал",
+    "hanja": "美醜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미추다",
+    "translation": "үзэсгэлэнтэй, муухай",
+    "hanja": "美醜다",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미추리",
+    "translation": "сүүлний өөх",
+    "hanja": "미추리",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "미추홀",
+    "translation": "Мичүхол (газарзүйн нэр)",
+    "hanja": "彌鄒忽",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미취",
+    "translation": "тэнэг, ухаан муутай",
+    "hanja": "迷醉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미취학",
+    "translation": "Сургуулийн өмнөх нас",
+    "hanja": "未就學",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미츠",
+    "translation": "мицү",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "미치광이",
+    "translation": "галзуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미치다",
+    "translation": "хүрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미치오",
+    "translation": "Мичио (Япон нэр)",
+    "hanja": "Michio",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미친개",
+    "translation": "галзуу нохой",
+    "hanja": "미친개",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "미친년",
+    "translation": "Балай авгай",
+    "hanja": "미친년",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미친놈",
+    "translation": "галзуу амьтан",
+    "hanja": "미친놈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미카엘",
+    "translation": "Микаэл (нэр)",
+    "hanja": "null",
+    "pos": "н.",
+    "cefr": "A1"
+  },
+  {
+    "word": "미케네",
+    "translation": "Микен",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미켈란젤로",
+    "translation": "Микеланджело",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미쿠다",
+    "translation": "Микуда",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "미쿡",
+    "translation": "АНУ (Америк)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미크로네시아",
+    "translation": "Микронези",
+    "hanja": "미크로네시아",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미크론",
+    "translation": "микрон",
+    "hanja": "미크론",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미키",
+    "translation": "Мики",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "미타",
+    "translation": "Амитаба бурхан",
+    "hanja": "彌陀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미탁",
+    "translation": "Гайхалтай сонин, нууцлаг",
+    "hanja": "美詫",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미터",
+    "translation": "метр",
+    "hanja": "meter",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "미토",
+    "translation": "Мито (нэр, газар)",
+    "hanja": "美土",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "미토콘드리아",
+    "translation": "митохондри",
+    "hanja": "미토콘드리아",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미트",
+    "translation": "мах",
+    "hanja": "미트",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미트다",
+    "translation": "түлхэх",
+    "hanja": "미트다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "미트라",
+    "translation": "Митра",
+    "hanja": "미트라",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미트볼",
+    "translation": "Махны бөмбөг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미팅",
+    "translation": "уулзалт",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "미팅하다",
+    "translation": "Уулзах, болзох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미포",
+    "translation": "үзэсгэлэнтэй боомт",
+    "hanja": "美浦",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미풍",
+    "translation": "сэвшээ салхи",
+    "hanja": "微風",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미풍양속",
+    "translation": "сайхан зан заншил, өв уламжлал",
+    "hanja": "美風良俗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미필",
+    "translation": "дуусаагүй",
+    "hanja": "未畢",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미하",
+    "translation": "Миха",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "미하다",
+    "translation": "муухай",
+    "hanja": "醜하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미하루",
+    "translation": "Михару (Японы нэр)",
+    "hanja": "美晴",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미학",
+    "translation": "гоо зүй",
+    "hanja": "美學",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "미학적",
+    "translation": "гоо зүйн",
+    "hanja": "美學的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "미한",
+    "translation": "Михан",
+    "hanja": "미한",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미항",
+    "translation": "үзэсгэлэнт боомт",
+    "hanja": "美港",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미해결",
+    "translation": "шийдвэрлэгдээгүй",
+    "hanja": "未解決",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미행",
+    "translation": "мөрдөх, нууцаар дагах",
+    "hanja": "尾行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미행하다",
+    "translation": "мөрдөх, нууцаар дагах",
+    "hanja": "尾行—",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미향",
+    "translation": "тансаг үнэр",
+    "hanja": "美香",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미현",
+    "translation": "үзэгдэхгүй байгаа",
+    "hanja": "未現",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "미형",
+    "translation": "гоо үзэсгэлэн",
+    "hanja": "미형(美形)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미호",
+    "translation": "михо",
+    "hanja": "美湖",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "미혹",
+    "translation": "төөргөөн",
+    "hanja": "迷惑",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "미혹되다",
+    "translation": "уруу татагдах",
+    "hanja": "迷惑되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미혹하다",
+    "translation": "хуурах, төөрөгдүүлэх, уруу татах",
+    "hanja": "迷惑하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미혼",
+    "translation": "ганц бие, гэрлээгүй",
+    "hanja": "未婚",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "미혼모",
+    "translation": "ганц бие эх",
+    "hanja": "未婚母",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "미혼자",
+    "translation": "ганц бие хүн",
+    "hanja": "未婚者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미화",
+    "translation": "гоёл чимэглэл",
+    "hanja": "美化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미화되다",
+    "translation": "гоёх",
+    "hanja": "美化되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "미화원",
+    "translation": "цэвэрлэгч",
+    "hanja": "美化員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미화하다",
+    "translation": "гоёчлох, сайжруулах",
+    "hanja": "美化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미확인",
+    "translation": "Баталгаагүй, тодорхойгүй",
+    "hanja": "未確認",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미확정",
+    "translation": "Батлагдаагүй",
+    "hanja": "未確定",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미흡",
+    "translation": "хангалтгүй",
+    "hanja": "微洽",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미흡하다",
+    "translation": "Хангалтгүй",
+    "hanja": "未洽하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "미희",
+    "translation": "үзэсгэлэнтэй бүсгүй",
+    "hanja": "美姬",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

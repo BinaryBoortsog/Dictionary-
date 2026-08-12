@@ -135,15 +135,6 @@ export default function ClinicalTranslatorPage() {
   return (
     <Layout title="Clinical Translator | kooOKIE">
       <main className="clinical-page">
-        <section className="clinical-hero container">
-          <p className="eyebrow">KOREAN ↔ MONGOLIAN · CLINICAL COMMUNICATION</p>
-          <h1>Clearer conversations. Safer care.</h1>
-          <p className="hero-copy">
-            A real-time communication prototype for Korean hospitals and Mongolian-speaking patients.
-          </p>
-          <div className="prototype-chip"><span aria-hidden="true">●</span> Built on 120,000 Korean–Mongolian translated words — growing toward our own medical translation AI</div>
-        </section>
-
         <section className="container translator-shell" aria-label="Clinical translation workspace">
           <div className="direction-bar">
             <span>{direction === 'ko-mn' ? '한국어 · Korean' : 'Монгол · Mongolian'}</span>
@@ -195,14 +186,14 @@ export default function ClinicalTranslatorPage() {
         </section>
 
         <section className="container feature-grid">
-          <article><span>01</span><h2>Real-time translation</h2><p>The production version will stream translations through a secure server-side AI connection.</p></article>
-          <article><span>02</span><h2>Clinical safeguards</h2><p>High-risk content is visibly flagged and escalated to qualified human interpretation.</p></article>
-          <article><span>03</span><h2>Our translation foundation</h2><p>120,000 prepared Korean–Mongolian translations provide the foundation for a growing, hospital-reviewed terminology layer and our own future AI model.</p></article>
+          <article><span>01</span><h2>Live translation</h2><p>Translate Korean and Mongolian messages in either direction.</p></article>
+          <article><span>02</span><h2>Word analysis</h2><p>Search Korean base forms in sequence, even when grammar endings change the written word.</p></article>
+          <article><span>03</span><h2>Translation data</h2><p>In July, we accurately translated and stored 120,000 Korean–Mongolian words. The dataset will continue to grow for future AI training.</p></article>
         </section>
 
         <section className="container glossary-note">
-          <h2>Dictionary data foundation</h2>
-          <p>Our existing <code>{dataBaseUrl}</code> dataset contains 120,000 translated Korean–Mongolian word records. It will grow into a hospital-reviewed glossary and training foundation for our own medical translation AI.</p>
+          <h2>Our data, built for the next stage</h2>
+          <p>We accurately translated and stored 120,000 Korean–Mongolian words during July. This growing dataset will support future development and training of our own medical translation AI.</p>
         </section>
       </main>
     </Layout>

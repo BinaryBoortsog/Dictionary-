@@ -145,44 +145,6 @@ const config: Config = {
         },
       ],
     },
-    footer: {
-      style: 'light',
-      links: [
-        {
-          title: 'Repository',
-          items: [
-            {
-              // enhanced footer profile block (avatar, username, actions)
-              html: `
-                <div class="footer-profile">
-                  <a href="https://github.com/BinaryBoortsog" target="_blank" rel="noopener noreferrer" class="footer-profile-link">
-                    <img src="https://github.com/BinaryBoortsog.png" alt="BinaryBoortsog" class="footer-avatar" />
-                    <div class="footer-username-wrap">
-                      <div class="footer-username">BinaryBoortsog</div>
-                      <div class="footer-sub">Creator · Maintainer</div>
-                      <p class="footer-desc">Энэхүү толь нь Солонгос–Монгол хэлний үгсийн хайлт хийхэд зориулагдсан. Үг эсвэл орчуулгыг оруулан хайхад холбогдох тайлбар, ангилал, CEFR түвшинг харна.</p>
-                    </div>
-                  </a>
-                  <div class="footer-actions">
-                    <a href="https://github.com/BinaryBoortsog/Dictionary-" class="footer-btn" target="_blank" rel="noopener noreferrer">View Repo</a>
-                    <a href="https://github.com/BinaryBoortsog/Dictionary-/stargazers" class="footer-btn footer-btn--ghost" target="_blank" rel="noopener noreferrer">Star</a>
-                  </div>
-                </div>
-              `,
-            },
-            {
-              label: 'Repository: BinaryBoortsog/Dictionary-',
-              href: 'https://github.com/BinaryBoortsog/Dictionary-',
-            },
-            {
-              label: 'Stargazers',
-              href: 'https://github.com/BinaryBoortsog/Dictionary-/stargazers',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} BinaryBoortsog.`,
-    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,

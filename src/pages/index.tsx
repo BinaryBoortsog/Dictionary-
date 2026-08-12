@@ -30,6 +30,8 @@ export default function ClinicalTranslatorPage() {
   const [translated, setTranslated] = useState(clinicalExamples[0].mongolian);
   const [isDemo, setIsDemo] = useState(true);
   const [copied, setCopied] = useState(false);
+  const [isTranslating, setIsTranslating] = useState(false);
+  const [translationError, setTranslationError] = useState<string | null>(null);
   const dataBaseUrl = useBaseUrl('/data/');
 
   const highRisk = useMemo(
@@ -37,22 +39,25 @@ export default function ClinicalTranslatorPage() {
     [input],
   );
 
-  const translateDemo = () => {
-    const normalized = input.trim();
-    const match = clinicalExamples.find((example) =>
-      direction === 'ko-mn' ? example.korean === normalized : example.mongolian === normalized,
-    );
-
-    if (match) {
-      setTranslated(direction === 'ko-mn' ? match.mongolian : match.korean);
-    } else {
-      setTranslated(
-        direction === 'ko-mn'
-          ? 'Демо горим: AI орчуулгын API-г холбосноор энэ өгүүлбэрийн монгол орчуулга энд харагдана.'
-          : '데모 모드: AI 번역 API를 연결하면 이 문장의 한국어 번역이 여기에 표시됩니다.',
-      );
+  const translate = async () => {
+    if (!input.trim()) return;
+    setIsTranslating(true);
+    setTranslationError(null);
+    try {
+      const response = await fetch('/api/translate', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({text: input, direction}),
+      });
+      const result = await response.json();
+      if (!response.ok) throw new Error(result.error || 'Translation failed.');
+      setTranslated(result.translation);
+      setIsDemo(false);
+    } catch (error) {
+      setTranslationError(error instanceof Error ? error.message : 'Translation failed.');
+    } finally {
+      setIsTranslating(false);
     }
-    setIsDemo(true);
   };
 
   const swapDirection = () => {
@@ -107,7 +112,7 @@ export default function ClinicalTranslatorPage() {
           </div>
 
           <div className="action-row">
-            <button className="translate-button" onClick={translateDemo} disabled={!input.trim()}>Translate message <span>→</span></button>
+            <button className="translate-button" onClick={translate} disabled={!input.trim() || isTranslating}>{isTranslating ? 'Translating…' : <>Translate message <span>→</span></>}</button>
             <button className="interpreter-button" type="button">Request human interpreter</button>
           </div>
 
@@ -116,6 +121,7 @@ export default function ClinicalTranslatorPage() {
               <strong>Verification recommended.</strong> This message contains a high-risk clinical term. Confirm medication, allergy, consent, procedure, and emergency information with a qualified interpreter or clinician.
             </div>
           )}
+          {translationError && <div className="translation-error" role="alert">{translationError}</div>}
         </section>
 
         <section className="container feature-grid">

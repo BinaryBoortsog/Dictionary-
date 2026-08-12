@@ -12,7 +12,7 @@ interface GrammarItem {
   number?: number;
 }
 
-export default function GrammarPage(): JSX.Element {
+export default function GrammarPage(): React.ReactElement {
   const [items, setItems] = useState<GrammarItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [q, setQ] = useState('');

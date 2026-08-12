@@ -48,7 +48,19 @@ export default async function handler(request, response) {
     }
 
     const result = await apiResponse.json();
-    const translation = result.output_text?.trim();
+    // `output_text` is an SDK convenience property. The REST response returns
+    // the generated text inside message content items, so support both shapes.
+    const translation = [
+      result.output_text,
+      ...(result.output || []).flatMap((item) =>
+        (item.content || [])
+          .filter((content) => content.type === 'output_text' || content.type === 'text')
+          .map((content) => content.text),
+      ),
+    ]
+      .filter((value) => typeof value === 'string')
+      .join('')
+      .trim();
     if (!translation) {
       return response.status(502).json({error: 'Translation service returned an empty response.'});
     }

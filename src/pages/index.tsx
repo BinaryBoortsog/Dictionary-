@@ -12,6 +12,11 @@ interface DictionaryEntry {
   cefr?: string;
 }
 
+interface AnalysisTerm {
+  surface: string;
+  lemma: string;
+}
+
 const clinicalExamples = [
   {
     korean: '오늘 복용한 약이 있습니까?',
@@ -40,9 +45,9 @@ export default function ClinicalTranslatorPage() {
   const [copied, setCopied] = useState(false);
   const [isTranslating, setIsTranslating] = useState(false);
   const [translationError, setTranslationError] = useState<string | null>(null);
-  const [lookupWord, setLookupWord] = useState<string | null>(null);
-  const [lookupResults, setLookupResults] = useState<DictionaryEntry[]>([]);
-  const [isLookingUp, setIsLookingUp] = useState(false);
+  const [analysisTerms, setAnalysisTerms] = useState<AnalysisTerm[]>([]);
+  const [termEntries, setTermEntries] = useState<Record<string, DictionaryEntry[]>>({});
+  const [isAnalyzing, setIsAnalyzing] = useState(false);
   const dataBaseUrl = useBaseUrl('/data/');
 
   const highRisk = useMemo(
@@ -64,6 +69,9 @@ export default function ClinicalTranslatorPage() {
       if (!response.ok) throw new Error(result.error || 'Translation failed.');
       setTranslated(result.translation);
       setIsDemo(false);
+      const terms = Array.isArray(result.terms) ? result.terms : [];
+      setAnalysisTerms(terms);
+      void loadSequentialDefinitions(terms);
     } catch (error) {
       setTranslationError(error instanceof Error ? error.message : 'Translation failed.');
     } finally {
@@ -84,13 +92,9 @@ export default function ClinicalTranslatorPage() {
     window.setTimeout(() => setCopied(false), 1500);
   };
 
-  const lookupDictionary = async (rawWord: string) => {
+  const findDictionaryEntries = async (rawWord: string): Promise<DictionaryEntry[]> => {
     const word = rawWord.replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, '');
-    if (!word) return;
-
-    setLookupWord(word);
-    setLookupResults([]);
-    setIsLookingUp(true);
+    if (!word) return [];
     try {
       const firstChar = word.charAt(0).toLowerCase();
       const isMongolian = /[а-яөү]/i.test(firstChar);
@@ -106,22 +110,27 @@ export default function ClinicalTranslatorPage() {
         }
       }
 
-      if (!data) return;
+      if (!data) return [];
       const normalized = word.toLowerCase();
       const exact = data.filter((item) => item.word.toLowerCase() === normalized || item.translation.toLowerCase() === normalized);
       const partial = data.filter((item) => item.word.toLowerCase().includes(normalized) || item.translation.toLowerCase().includes(normalized));
-      setLookupResults((exact.length ? exact : partial).slice(0, 6));
+      return (exact.length ? exact : partial).slice(0, 3);
     } catch (error) {
       console.error('Dictionary lookup failed:', error);
-    } finally {
-      setIsLookingUp(false);
+      return [];
     }
   };
 
-  const renderClickableTranslation = () => translated.split(/(\s+)/).map((part, index) => {
-    if (/^\s+$/.test(part)) return part;
-    return <button className="translated-word" key={`${part}-${index}`} onClick={() => lookupDictionary(part)}>{part}</button>;
-  });
+  const loadSequentialDefinitions = async (terms: AnalysisTerm[]) => {
+    setIsAnalyzing(true);
+    setTermEntries({});
+    const entries: Record<string, DictionaryEntry[]> = {};
+    for (const term of terms) {
+      if (!entries[term.lemma]) entries[term.lemma] = await findDictionaryEntries(term.lemma);
+    }
+    setTermEntries(entries);
+    setIsAnalyzing(false);
+  };
 
   return (
     <Layout title="Clinical Translator | kooOKIE">
@@ -132,7 +141,7 @@ export default function ClinicalTranslatorPage() {
           <p className="hero-copy">
             A real-time communication prototype for Korean hospitals and Mongolian-speaking patients.
           </p>
-          <div className="prototype-chip"><span aria-hidden="true">●</span> Prototype mode — no patient data is stored</div>
+          <div className="prototype-chip"><span aria-hidden="true">●</span> Built on 120,000 Korean–Mongolian translated words — growing toward our own medical translation AI</div>
         </section>
 
         <section className="container translator-shell" aria-label="Clinical translation workspace">
@@ -156,7 +165,7 @@ export default function ClinicalTranslatorPage() {
 
             <div className="translation-panel output-panel" aria-live="polite">
               <span className="panel-label">Translation</span>
-              <p>{translated ? renderClickableTranslation() : 'Your translation will appear here.'}</p>
+              <p>{translated || 'Your translation will appear here.'}</p>
               <div className="panel-footer"><span>{isDemo ? 'Demo response' : 'AI response'}</span><button onClick={copyTranslation}>{copied ? 'Copied' : 'Copy'}</button></div>
             </div>
           </div>
@@ -172,34 +181,28 @@ export default function ClinicalTranslatorPage() {
             </div>
           )}
           {translationError && <div className="translation-error" role="alert">{translationError}</div>}
-          {lookupWord && (
-            <div className="dictionary-lookup" aria-live="polite">
-              <div className="dictionary-lookup-heading">
-                <strong>Dictionary lookup: {lookupWord}</strong>
-                <button onClick={() => setLookupWord(null)} aria-label="Close dictionary lookup">×</button>
-              </div>
-              {isLookingUp ? <p>Searching prepared glossary…</p> : lookupResults.length ? (
-                <div className="lookup-results">
-                  {lookupResults.map((entry, index) => <article key={`${entry.word}-${index}`}>
-                    <strong>{entry.word}</strong><span>{entry.translation}</span>
-                    {(entry.pos || entry.cefr) && <small>{entry.pos}{entry.pos && entry.cefr ? ' · ' : ''}{entry.cefr}</small>}
-                    {entry.hanja && entry.hanja !== 'null' && <small>{entry.hanja}</small>}
-                  </article>)}
-                </div>
-              ) : <p>No matching entry was found in the prepared glossary.</p>}
-            </div>
-          )}
+          {analysisTerms.length > 0 && <div className="dictionary-lookup" aria-live="polite">
+            <div className="dictionary-lookup-heading"><strong>Sequential dictionary analysis</strong></div>
+            <p>Each source word is normalized to its base dictionary form before searching your prepared glossary.</p>
+            {isAnalyzing ? <p>Analyzing and searching words in sequence…</p> : <div className="lookup-results">
+              {analysisTerms.map((term, index) => <article key={`${term.surface}-${index}`}>
+                <strong>{index + 1}. {term.surface}</strong><small>Base form: {term.lemma}</small>
+                {termEntries[term.lemma]?.map((entry, entryIndex) => <React.Fragment key={`${entry.word}-${entryIndex}`}><span>{entry.word} — {entry.translation}</span><small>{entry.pos}{entry.pos && entry.cefr ? ' · ' : ''}{entry.cefr}</small></React.Fragment>)}
+                {!termEntries[term.lemma]?.length && <small>No prepared entry found</small>}
+              </article>)}
+            </div>}
+          </div>}
         </section>
 
         <section className="container feature-grid">
           <article><span>01</span><h2>Real-time translation</h2><p>The production version will stream translations through a secure server-side AI connection.</p></article>
           <article><span>02</span><h2>Clinical safeguards</h2><p>High-risk content is visibly flagged and escalated to qualified human interpretation.</p></article>
-          <article><span>03</span><h2>Glossary foundation</h2><p>Prepared word data can become a hospital-reviewed Korean–Mongolian terminology layer.</p></article>
+          <article><span>03</span><h2>Our translation foundation</h2><p>120,000 prepared Korean–Mongolian translations provide the foundation for a growing, hospital-reviewed terminology layer and our own future AI model.</p></article>
         </section>
 
         <section className="container glossary-note">
           <h2>Dictionary data foundation</h2>
-          <p>This prototype will use the existing <code>{dataBaseUrl}</code> word dataset as a controlled glossary—not as a substitute for sentence-level medical translation.</p>
+          <p>Our existing <code>{dataBaseUrl}</code> dataset contains 120,000 translated Korean–Mongolian word records. It will grow into a hospital-reviewed glossary and training foundation for our own medical translation AI.</p>
         </section>
       </main>
     </Layout>

@@ -17,7 +17,6 @@
 .panel-label { color: #607486; font-size: .72rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
 .translation-panel textarea { width: 100%; flex: 1; resize: none; border: 0; outline: 0; background: transparent; padding: 1rem 0; color: #12212f; font: 500 1.2rem/1.5 var(--ifm-font-family-base); }
 .output-panel p { flex: 1; margin: 1rem 0; font-size: 1.25rem; line-height: 1.55; }
-.translated-word { display: inline; border: 0; border-radius: 4px; padding: 0 2px; background: transparent; color: inherit; cursor: pointer; font: inherit; text-align: inherit; }.translated-word:hover, .translated-word:focus-visible { background: #ccebed; color: #075985; outline: none; }
 .panel-footer { display: flex; justify-content: space-between; color: #718394; font-size: .78rem; }.panel-footer button { border: 0; background: transparent; color: #075985; font-weight: 800; cursor: pointer; }
 .action-row { display: flex; gap: .75rem; margin-top: 1rem; }.translate-button, .interpreter-button { border-radius: 10px; padding: .9rem 1.1rem; font-weight: 800; cursor: pointer; }
 .translate-button { flex: 1; border: 0; background: #075985; color: #fff; }.translate-button:disabled { cursor: not-allowed; opacity: .5; }.translate-button span { margin-left: .5rem; }

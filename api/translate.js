@@ -35,7 +35,7 @@ export default async function handler(request, response) {
         input: [
           {
             role: 'developer',
-            content: `Translate only from ${source} to ${target}. Preserve names, numbers, dosages, dates, and medical terminology exactly when appropriate. Do not add explanations, diagnoses, advice, warnings, or quotation marks. If the text is ambiguous, translate it as faithfully as possible.`,
+            content: `Translate from ${source} to ${target}. Preserve names, numbers, dosages, dates, and medical terminology exactly when appropriate. Then return ONLY valid JSON: {"translation":"translated text","terms":[{"surface":"source word as written","lemma":"base dictionary form in source language"}]}. Include terms in source order. For Korean, remove grammar endings and use the base dictionary form: "복용한" becomes "복용하다" and "있습니까" becomes "있다". Do not add diagnoses, advice, warnings, or markdown.`,
           },
           {role: 'user', content: text.trim()},
         ],
@@ -50,7 +50,7 @@ export default async function handler(request, response) {
     const result = await apiResponse.json();
     // `output_text` is an SDK convenience property. The REST response returns
     // the generated text inside message content items, so support both shapes.
-    const translation = [
+    const generatedText = [
       result.output_text,
       ...(result.output || []).flatMap((item) =>
         (item.content || [])
@@ -61,12 +61,23 @@ export default async function handler(request, response) {
       .filter((value) => typeof value === 'string')
       .join('')
       .trim();
-    if (!translation) {
+    if (!generatedText) {
       return response.status(502).json({error: 'Translation service returned an empty response.'});
     }
+    let parsed;
+    try {
+      parsed = JSON.parse(generatedText.replace(/^```json\s*|\s*```$/g, ''));
+    } catch {
+      return response.status(502).json({error: 'Translation service returned an invalid response.'});
+    }
+    const translation = typeof parsed.translation === 'string' ? parsed.translation.trim() : '';
+    const terms = Array.isArray(parsed.terms)
+      ? parsed.terms.filter((term) => typeof term?.surface === 'string' && typeof term?.lemma === 'string').slice(0, 30)
+      : [];
+    if (!translation) return response.status(502).json({error: 'Translation service returned an invalid response.'});
 
     response.setHeader('Cache-Control', 'no-store');
-    return response.status(200).json({translation});
+    return response.status(200).json({translation, terms});
   } catch (error) {
     console.error('Translation request error:', error);
     return response.status(502).json({error: 'Translation service is temporarily unavailable.'});

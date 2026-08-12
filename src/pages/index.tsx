@@ -1,200 +1,134 @@
-import React, { useState, useEffect } from 'react';
+import React, {useMemo, useState} from 'react';
 import Layout from '@theme/Layout';
-import DictionarySidebar from '@site/src/components/DictionarySidebar';
 import useBaseUrl from '@docusaurus/useBaseUrl';
-import BottomNav from '@site/src/components/BottomNav';
 
-interface WordEntry {
-  word: string;
-  translation: string;
-  hanja?: string | null;
-  pos?: string;
-  cefr?: string;
-}
+type Direction = 'ko-mn' | 'mn-ko';
 
-export default function DictionaryPage() {
-  const [query, setQuery] = useState('');
-  const [results, setResults] = useState<WordEntry[]>([]);
-  const [loading, setLoading] = useState(false);
-  const [errorMsg, setErrorMsg] = useState<string | null>(null);
-  const [sort, setSort] = useState<'alpha' | 'cefr' | 'pos'>('alpha');
-  const [selected, setSelected] = useState<WordEntry | null>(null);
+const clinicalExamples = [
+  {
+    korean: '오늘 복용한 약이 있습니까?',
+    mongolian: 'Та өнөөдөр ямар нэгэн эм уусан уу?',
+    risk: 'Medication',
+  },
+  {
+    korean: '알레르기가 있습니까?',
+    mongolian: 'Танд харшил байдаг уу?',
+    risk: 'Allergy',
+  },
+  {
+    korean: '통증이 있으면 바로 알려 주세요.',
+    mongolian: 'Өвдөж байвал нэн даруй мэдэгдээрэй.',
+    risk: 'General',
+  },
+];
 
-  // This hook automatically prepends '/Dictionary-/' when deployed
+const highRiskTerms = ['약', '복용', '알레르기', '수술', '동의', '응급', '용량', 'medication', 'allergy', 'surgery', 'emergency'];
+
+export default function ClinicalTranslatorPage() {
+  const [direction, setDirection] = useState<Direction>('ko-mn');
+  const [input, setInput] = useState('오늘 복용한 약이 있습니까?');
+  const [translated, setTranslated] = useState(clinicalExamples[0].mongolian);
+  const [isDemo, setIsDemo] = useState(true);
+  const [copied, setCopied] = useState(false);
   const dataBaseUrl = useBaseUrl('/data/');
-  const logoUrl = useBaseUrl('/img/logo.png');
 
-  useEffect(() => {
-    const fetchBucket = async () => {
-      const cleanQuery = query.trim().toLowerCase();
-      if (cleanQuery.length === 0) {
-        setResults([]);
-        setSelected(null);
-        return;
-      }
+  const highRisk = useMemo(
+    () => highRiskTerms.some((term) => input.toLowerCase().includes(term.toLowerCase())),
+    [input],
+  );
 
-      setLoading(true);
-      setErrorMsg(null);
-      try {
-        const firstChar = cleanQuery.charAt(0);
-        const isMongolian = /[а-яөү]/i.test(firstChar);
-        
-        let fileName = isMongolian ? `mn_${firstChar}` : 
-          (/[\/\?<>\\:\*\|":]/g.test(firstChar) ? 'special_symbols' : firstChar);
+  const translateDemo = () => {
+    const normalized = input.trim();
+    const match = clinicalExamples.find((example) =>
+      direction === 'ko-mn' ? example.korean === normalized : example.mongolian === normalized,
+    );
 
-        // Logic to handle encoding for special characters (Korean/Cyrillic)
-        const candidates: string[] = [];
-        candidates.push(fileName);
-        if (fileName !== encodeURIComponent(fileName)) {
-          candidates.push(encodeURIComponent(fileName));
-        }
+    if (match) {
+      setTranslated(direction === 'ko-mn' ? match.mongolian : match.korean);
+    } else {
+      setTranslated(
+        direction === 'ko-mn'
+          ? 'Демо горим: AI орчуулгын API-г холбосноор энэ өгүүлбэрийн монгол орчуулга энд харагдана.'
+          : '데모 모드: AI 번역 API를 연결하면 이 문장의 한국어 번역이 여기에 표시됩니다.',
+      );
+    }
+    setIsDemo(true);
+  };
 
-        let response: Response | null = null;
-        let successfulUrl = '';
+  const swapDirection = () => {
+    setDirection((current) => (current === 'ko-mn' ? 'mn-ko' : 'ko-mn'));
+    setInput(translated);
+    setTranslated(input);
+    setCopied(false);
+  };
 
-        for (const cand of candidates) {
-          const tryUrl = `${dataBaseUrl}${cand}.json`;
-          try {
-            const res = await fetch(tryUrl);
-            if (res.ok) {
-              const contentType = res.headers.get('content-type') || '';
-              // Verify we actually got JSON and not the 404 HTML page
-              if (contentType.includes('application/json')) {
-                response = res;
-                successfulUrl = tryUrl;
-                break;
-              }
-            }
-          } catch (e) {
-            console.error('Fetch attempt failed', e);
-          }
-        }
-
-        if (!response) {
-          setResults([]);
-          setErrorMsg(`Could not find data for "${firstChar}". Please check if shards exist in /static/data/`);
-          return;
-        }
-
-        const data: WordEntry[] = await response.json();
-        const filtered = data
-          .filter((item) => 
-            item.word.toLowerCase().includes(cleanQuery) || 
-            item.translation.toLowerCase().includes(cleanQuery)
-          )
-          .slice(0, 60);
-
-        setResults(filtered);
-        if (filtered.length === 0) setErrorMsg('No matches in this shard.');
-        
-      } catch (err) {
-        console.error('Search error', err);
-        setErrorMsg('Error parsing dictionary data.');
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    const timeoutId = setTimeout(fetchBucket, 300);
-    return () => clearTimeout(timeoutId);
-  }, [query, dataBaseUrl]);
+  const copyTranslation = async () => {
+    await navigator.clipboard?.writeText(translated);
+    setCopied(true);
+    window.setTimeout(() => setCopied(false), 1500);
+  };
 
   return (
-    <Layout title="kooOKIE Dictionary">
-      <style>{`
-        :root { --card-bg: var(--ifm-color-emphasis-0); }
-        .hero-container { display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 3rem 1rem; }
-        .logo-title-row { display: flex; align-items: center; justify-content: center; gap: 18px; }
-        .hero-title { font-size: 3.2rem; font-weight: 900; margin: 0; line-height: 1; letter-spacing: -1px }
-        .custom-input { width: 100%; max-width: 680px; padding: 14px 20px 14px 48px; font-size: 1.05rem; border-radius: 999px; border: 1px solid rgba(0,0,0,0.08); outline: none; box-shadow: 0 6px 20px rgba(2,6,23,0.08); transition: box-shadow .18s ease, transform .08s ease; background: #fff; }
-        .search-wrap { position: relative; }
-        .search-icon { position: absolute; left: 16px; top: 50%; transform: translateY(-50%); color: #94a3b8; font-size: 20px }
-        .custom-input:focus { box-shadow: 0 10px 30px rgba(2,6,23,0.12); transform: translateY(-1px) }
+    <Layout title="Clinical Translator | kooOKIE">
+      <main className="clinical-page">
+        <section className="clinical-hero container">
+          <p className="eyebrow">KOREAN ↔ MONGOLIAN · CLINICAL COMMUNICATION</p>
+          <h1>Clearer conversations. Safer care.</h1>
+          <p className="hero-copy">
+            A real-time communication prototype for Korean hospitals and Mongolian-speaking patients.
+          </p>
+          <div className="prototype-chip"><span aria-hidden="true">●</span> Prototype mode — no patient data is stored</div>
+        </section>
 
-        /* Desktop minimum height */
-        .dictionary-main { min-height: calc(100vh - 200px); }
-
-        .card.shadow--sm { border-radius: 12px; overflow: hidden; }
-        .card__body { padding: 14px 16px; }
-        .results-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; }
-        .result-card { background: var(--card-bg); border: 1px solid rgba(0,0,0,0.04); border-radius: 12px; transition: transform .12s ease, box-shadow .12s ease; height:100%; display:flex; align-items:flex-start }
-        .result-card:hover { transform: translateY(-6px); box-shadow: 0 12px 30px rgba(2,6,23,0.08) }
-        .result-body { padding: 14px; }
-        .result-word { font-weight: 800; font-size: 1.05rem; display:block }
-        .result-translation { margin-top:6px; color: rgba(2,6,23,0.7); font-size:0.9rem }
-        .badge-small { display:inline-block; padding:4px 8px; border-radius:999px; font-size:0.7rem; background: rgba(2,6,23,0.06); color: var(--ifm-color-primary); margin-left:8px }
-
-        @media (max-width: 768px) {
-          .logo-title-row { flex-direction: column; gap: 5px; }
-          .hero-title { font-size: 2.4rem !important; }
-          .sidebar-column { order: 2; margin-top: 1.25rem; }
-          .results-column { order: 1; }
-
-          /* Prevent results from hiding under the bottom navbar */
-          .dictionary-main { padding-bottom: 120px !important; }
-        }
-      `}</style>
-
-      <main className="container margin-vert--lg dictionary-main">
-        <div className="hero-container">
-          <div className="logo-title-row">
-            <img src={logoUrl} alt="logo" style={{ width: 72, height: 72, borderRadius: 12, objectFit: 'contain' }} />
-            <h1 className="hero-title">
-              <span style={{ color: '#004777' }}>koo</span>
-              <span style={{ color: '#ef4444' }}>OKIE</span>
-            </h1>
+        <section className="container translator-shell" aria-label="Clinical translation workspace">
+          <div className="direction-bar">
+            <span>{direction === 'ko-mn' ? '한국어 · Korean' : 'Монгол · Mongolian'}</span>
+            <button className="swap-button" onClick={swapDirection} aria-label="Swap translation languages">⇄</button>
+            <span>{direction === 'ko-mn' ? 'Монгол · Mongolian' : '한국어 · Korean'}</span>
           </div>
-          <div style={{ width: '100%', maxWidth: '600px' }}>
-            <input
-              type="text"
-              placeholder="Search Korean or Mongolian..."
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              className="custom-input"
-            />
-            {loading && <div style={{ marginTop: 8, color: 'var(--ifm-color-primary)' }}>Searching shards...</div>}
-            {errorMsg && <div style={{ marginTop: 8, color: '#b91c1c', fontSize: '0.9rem' }}>{errorMsg}</div>}
+
+          <div className="translation-grid">
+            <label className="translation-panel input-panel">
+              <span className="panel-label">Clinician / patient message</span>
+              <textarea
+                value={input}
+                onChange={(event) => setInput(event.target.value)}
+                placeholder={direction === 'ko-mn' ? '한국어로 입력하세요...' : 'Монголоор бичнэ үү...'}
+                aria-label="Text to translate"
+              />
+              <div className="panel-footer"><span>{input.length} characters</span><button onClick={() => setInput('')}>Clear</button></div>
+            </label>
+
+            <div className="translation-panel output-panel" aria-live="polite">
+              <span className="panel-label">Translation</span>
+              <p>{translated || 'Your translation will appear here.'}</p>
+              <div className="panel-footer"><span>{isDemo ? 'Demo response' : 'AI response'}</span><button onClick={copyTranslation}>{copied ? 'Copied' : 'Copy'}</button></div>
+            </div>
           </div>
-        </div>
 
-        <div className="row">
-          <section className="col col--9 results-column">
-            {selected ? (
-              <div className="card shadow--md" style={{ borderLeft: '10px solid var(--ifm-color-primary)', position: 'sticky', top: '20px' }}>
-                <div className="card__body">
-                  <button onClick={() => setSelected(null)} style={{ float: 'right', border: 'none', background: 'none', fontSize: '2rem', cursor: 'pointer' }}>×</button>
-                  <h2 style={{ fontSize: '2.2rem', marginBottom: '0' }}>{selected.word}</h2>
-                  <p style={{ color: 'gray' }}>{selected.hanja || 'No Hanja'}</p>
-                  <h3 style={{ color: 'var(--ifm-color-primary)' }}>{selected.translation}</h3>
-                  <hr />
-                  <div className="row">
-                    <div className="col col--6"><strong>POS:</strong> {selected.pos}</div>
-                    <div className="col col--6"><strong>Level:</strong> <span className="badge badge--info">{selected.cefr}</span></div>
-                  </div>
-                </div>
-              </div>
-            ) : (
-                <div className="results-grid">
-                  {results.map((r, i) => (
-                    <div key={i} className="result-card" role="button" onClick={() => { setSelected(r); window.scrollTo({ top: 150, behavior: 'smooth' }); }}>
-                      <div className="result-body">
-                        <span className="result-word">{r.word} <span className="badge-small">{r.pos || ''}</span></span>
-                        <span className="result-translation">{r.translation} {r.cefr ? <span className="badge-small">{r.cefr}</span> : null}</span>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-            )}
-          </section>
+          <div className="action-row">
+            <button className="translate-button" onClick={translateDemo} disabled={!input.trim()}>Translate message <span>→</span></button>
+            <button className="interpreter-button" type="button">Request human interpreter</button>
+          </div>
 
-          <aside className="col col--3 sidebar-column">
-            <DictionarySidebar results={results} sort={sort} setSort={setSort} onSelect={(w) => { setSelected(w); window.scrollTo({ top: 150, behavior: 'smooth' }); }} />
-          </aside>
-        </div>
+          {highRisk && (
+            <div className="safety-notice" role="alert">
+              <strong>Verification recommended.</strong> This message contains a high-risk clinical term. Confirm medication, allergy, consent, procedure, and emergency information with a qualified interpreter or clinician.
+            </div>
+          )}
+        </section>
+
+        <section className="container feature-grid">
+          <article><span>01</span><h2>Real-time translation</h2><p>The production version will stream translations through a secure server-side AI connection.</p></article>
+          <article><span>02</span><h2>Clinical safeguards</h2><p>High-risk content is visibly flagged and escalated to qualified human interpretation.</p></article>
+          <article><span>03</span><h2>Glossary foundation</h2><p>Prepared word data can become a hospital-reviewed Korean–Mongolian terminology layer.</p></article>
+        </section>
+
+        <section className="container glossary-note">
+          <h2>Dictionary data foundation</h2>
+          <p>This prototype will use the existing <code>{dataBaseUrl}</code> word dataset as a controlled glossary—not as a substitute for sentence-level medical translation.</p>
+        </section>
       </main>
-
-      {/* Renders the App-like Navbar at the bottom on Mobile devices */}
-      <BottomNav />
     </Layout>
   );
 }

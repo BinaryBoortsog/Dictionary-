@@ -1,150 +1,26 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
+:root { --ifm-color-primary: #075985; --ifm-color-primary-dark: #075078; --ifm-color-primary-light: #0e7490; }
 
-/* You can override the default Infima variables here. */
-:root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-}
-
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
-
-/* Hide the top navigation bar site-wide */
-.navbar,
-.navbar__inner,
-.navBar,
-.theme-navbar {
-  display: none !important;
-}
-
-/* Remove top spacing reserved for navbar */
-main,
-.main-wrapper {
-  padding-top: 0 !important;
-  margin-top: 0 !important;
-}
-
-/* Page hero */
-.hero {
-  padding: 2.5rem 1rem 1.5rem;
-}
-
-/* Search input */
-.search-input {
-  width: 100%;
-  max-width: 640px;
-  padding: 16px 24px;
-  font-size: 1.15rem;
-  border-radius: 999px;
-  border: 2px solid var(--ifm-color-primary);
-  background: var(--ifm-background-color);
-  color: var(--ifm-font-color-base);
-  box-shadow: 0 6px 18px rgba(14, 30, 37, 0.06);
-  transition: box-shadow 180ms ease, transform 120ms ease;
-}
-.search-input:focus {
-  box-shadow: 0 10px 24px rgba(14, 30, 37, 0.12);
-  transform: translateY(-1px);
-}
-
-/* Search wrapper with icon and clear button */
-.search-wrapper { position: relative; display: inline-block; width: 100%; max-width: 640px; }
-.search-icon { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); pointer-events: none; font-size: 1.05rem; }
-.search-clear { position: absolute; right: 8px; top: 50%; transform: translateY(-50%); border: none; background: transparent; color: #666; font-size: 1.05rem; padding: 8px; border-radius: 8px; cursor: pointer; }
-.search-clear:active { transform: translateY(-50%) scale(0.98); }
-.custom-input { width: 100%; padding: 14px 44px 14px 42px; font-size: 1.07rem; border-radius: 999px; border: 2px solid var(--ifm-color-primary); outline: none; transition: box-shadow .12s ease, transform .08s ease; }
-
-@media (max-width: 640px) {
-  .custom-input { padding: 16px 48px 16px 44px; font-size: 1.12rem; }
-  .search-icon { left: 12px; font-size: 1.15rem; }
-  .search-clear { right: 8px; padding: 10px; font-size: 1.1rem; }
-  .hero { padding: 1.5rem 0 1rem; }
-}
-
-/* Sidebar tweaks */
-.sidebar-col .card {
-  position: sticky;
-  top: 18px;
-}
-
-/* Results grid and cards */
-.results-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-.result-card {
-  cursor: pointer;
-  height: 100%;
-  transition: transform 160ms ease, box-shadow 160ms ease;
-}
-.result-card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 12px 30px rgba(14, 30, 37, 0.12);
-}
-.result-word { font-size: 1.05rem; }
-.result-trans { font-size: 0.92rem; margin: 4px 0 0 0; color: #555; }
-
-/* Selected card */
-.selected-card {
-  border-radius: 8px;
-  padding: 6px;
-}
-
-/* Responsive adjustments */
-@media (max-width: 900px) {
-  .sidebar-col { display: none; }
-  .results-col { width: 100%; }
-  .result-card { margin-bottom: 0.75rem; }
-  .hero h1 { font-size: 2.25rem; }
-}
-
-/* Footer avatar style (injected HTML) */
-.footer__link-list img { vertical-align: middle; }
-
-/* Small helpers */
-.text--center { text-align: center; }
-
-/* Footer profile styles */
-.footer-profile { display:flex; align-items:center; gap:14px; justify-content:center; padding:8px 0; }
-.footer-profile-link { display:flex; align-items:center; gap:12px; text-decoration:none; color:inherit; }
-.footer-avatar { width:54px; height:54px; border-radius:999px; box-shadow: 0 6px 18px rgba(14,30,37,0.08); }
-.footer-username { font-weight:700; color:var(--ifm-color-primary); font-size:1.05rem; }
-.footer-sub { font-size:0.85rem; color:#777; margin-top:2px; }
-.footer-actions { display:flex; gap:8px; align-items:center; }
-.footer-btn { display:inline-block; background:var(--ifm-color-primary); color:#fff; padding:8px 12px; border-radius:8px; text-decoration:none; font-weight:600; box-shadow: 0 6px 18px rgba(14,30,37,0.08); }
-.footer-btn--ghost { background:transparent; color:var(--ifm-color-primary); border:1px solid rgba(255,255,255,0.08); box-shadow:none; }
-
-@media (max-width: 640px) {
-  .footer-profile { flex-direction:column; gap:10px; }
-  .footer-actions { width:100%; justify-content:center; }
-}
-
-/* Footer description styling */
-.footer-desc {
-  font-size: 0.92rem;
-  color: rgba(255,255,255,0.85);
-  margin-top: 6px;
-  max-width: 360px;
-  line-height: 1.35;
-}
+.navbar, .navbar__inner, .navBar, .theme-navbar { display: none !important; }
+.clinical-page { min-height: 100vh; padding: 4.5rem 0 8rem; background: #f5f8fa; color: #12212f; }
+.clinical-hero { max-width: 980px; text-align: center; }
+.eyebrow { margin: 0; color: #0e7490; font-size: .72rem; font-weight: 800; letter-spacing: .13em; }
+.clinical-hero h1 { max-width: 720px; margin: .8rem auto; font-size: clamp(2.3rem, 6vw, 4.5rem); letter-spacing: -.06em; line-height: 1.02; }
+.hero-copy { max-width: 590px; margin: 0 auto 1.25rem; color: #526374; font-size: 1.1rem; }
+.prototype-chip { display: inline-flex; gap: .45rem; border: 1px solid #b9d9d3; border-radius: 99px; padding: .48rem .78rem; background: #effbf7; color: #17604f; font-size: .8rem; font-weight: 700; }
+.prototype-chip span { color: #10b981; }
+.translator-shell { max-width: 980px; margin-top: 3rem; padding: 1.1rem; border: 1px solid #dbe5e9; border-radius: 22px; background: #fff; box-shadow: 0 24px 70px rgba(29, 56, 72, .1); }
+.direction-bar { display: flex; justify-content: center; align-items: center; gap: 1rem; padding: .35rem 0 1.1rem; color: #415568; font-size: .85rem; font-weight: 750; }
+.swap-button { width: 34px; height: 34px; border: 1px solid #d9e2e8; border-radius: 50%; background: #f7fafb; color: #075985; cursor: pointer; font-size: 1.1rem; }
+.translation-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+.translation-panel { min-height: 245px; display: flex; flex-direction: column; border: 1px solid #d9e3e8; border-radius: 15px; padding: 1rem; }
+.input-panel { background: #fbfdfe; }.output-panel { background: #edf7f8; border-color: #c7e4e5; }
+.panel-label { color: #607486; font-size: .72rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.translation-panel textarea { width: 100%; flex: 1; resize: none; border: 0; outline: 0; background: transparent; padding: 1rem 0; color: #12212f; font: 500 1.2rem/1.5 var(--ifm-font-family-base); }
+.output-panel p { flex: 1; margin: 1rem 0; font-size: 1.25rem; line-height: 1.55; }
+.panel-footer { display: flex; justify-content: space-between; color: #718394; font-size: .78rem; }.panel-footer button { border: 0; background: transparent; color: #075985; font-weight: 800; cursor: pointer; }
+.action-row { display: flex; gap: .75rem; margin-top: 1rem; }.translate-button, .interpreter-button { border-radius: 10px; padding: .9rem 1.1rem; font-weight: 800; cursor: pointer; }
+.translate-button { flex: 1; border: 0; background: #075985; color: #fff; }.translate-button:disabled { cursor: not-allowed; opacity: .5; }.translate-button span { margin-left: .5rem; }
+.interpreter-button { border: 1px solid #c8d4db; background: #fff; color: #234155; }
+.safety-notice { margin-top: 1rem; border-left: 4px solid #d97706; border-radius: 8px; padding: .8rem 1rem; background: #fff7e8; color: #6d4407; font-size: .9rem; line-height: 1.5; }
+.feature-grid { max-width: 980px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-top: 2.5rem; }.feature-grid article, .glossary-note { border-radius: 14px; padding: 1.25rem; background: #fff; border: 1px solid #dfe7eb; }.feature-grid span { color: #0e7490; font-weight: 800; }.feature-grid h2, .glossary-note h2 { margin: .75rem 0 .4rem; font-size: 1rem; }.feature-grid p, .glossary-note p { margin: 0; color: #5a6e7d; font-size: .9rem; line-height: 1.55; }.glossary-note { max-width: 980px; margin-top: 1rem; }.glossary-note code { font-size: .8rem; }
+@media (max-width: 700px) { .clinical-page { padding-top: 2.5rem; }.translator-shell { margin-top: 2rem; border-radius: 15px; }.translation-grid, .feature-grid { grid-template-columns: 1fr; }.translation-panel { min-height: 190px; }.action-row { flex-direction: column; }.interpreter-button { width: 100%; }.clinical-page { padding-bottom: 120px; } }

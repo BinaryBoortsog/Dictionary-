@@ -4,6 +4,14 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 type Direction = 'ko-mn' | 'mn-ko';
 
+interface DictionaryEntry {
+  word: string;
+  translation: string;
+  hanja?: string | null;
+  pos?: string;
+  cefr?: string;
+}
+
 const clinicalExamples = [
   {
     korean: '오늘 복용한 약이 있습니까?',
@@ -32,6 +40,9 @@ export default function ClinicalTranslatorPage() {
   const [copied, setCopied] = useState(false);
   const [isTranslating, setIsTranslating] = useState(false);
   const [translationError, setTranslationError] = useState<string | null>(null);
+  const [lookupWord, setLookupWord] = useState<string | null>(null);
+  const [lookupResults, setLookupResults] = useState<DictionaryEntry[]>([]);
+  const [isLookingUp, setIsLookingUp] = useState(false);
   const dataBaseUrl = useBaseUrl('/data/');
 
   const highRisk = useMemo(
@@ -73,6 +84,45 @@ export default function ClinicalTranslatorPage() {
     window.setTimeout(() => setCopied(false), 1500);
   };
 
+  const lookupDictionary = async (rawWord: string) => {
+    const word = rawWord.replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, '');
+    if (!word) return;
+
+    setLookupWord(word);
+    setLookupResults([]);
+    setIsLookingUp(true);
+    try {
+      const firstChar = word.charAt(0).toLowerCase();
+      const isMongolian = /[а-яөү]/i.test(firstChar);
+      const fileName = isMongolian ? `mn_${firstChar}` : firstChar;
+      const candidates = [fileName, encodeURIComponent(fileName)].filter((value, index, all) => all.indexOf(value) === index);
+
+      let data: DictionaryEntry[] | null = null;
+      for (const candidate of candidates) {
+        const response = await fetch(`${dataBaseUrl}${candidate}.json`);
+        if (response.ok && response.headers.get('content-type')?.includes('application/json')) {
+          data = await response.json();
+          break;
+        }
+      }
+
+      if (!data) return;
+      const normalized = word.toLowerCase();
+      const exact = data.filter((item) => item.word.toLowerCase() === normalized || item.translation.toLowerCase() === normalized);
+      const partial = data.filter((item) => item.word.toLowerCase().includes(normalized) || item.translation.toLowerCase().includes(normalized));
+      setLookupResults((exact.length ? exact : partial).slice(0, 6));
+    } catch (error) {
+      console.error('Dictionary lookup failed:', error);
+    } finally {
+      setIsLookingUp(false);
+    }
+  };
+
+  const renderClickableTranslation = () => translated.split(/(\s+)/).map((part, index) => {
+    if (/^\s+$/.test(part)) return part;
+    return <button className="translated-word" key={`${part}-${index}`} onClick={() => lookupDictionary(part)}>{part}</button>;
+  });
+
   return (
     <Layout title="Clinical Translator | kooOKIE">
       <main className="clinical-page">
@@ -106,7 +156,7 @@ export default function ClinicalTranslatorPage() {
 
             <div className="translation-panel output-panel" aria-live="polite">
               <span className="panel-label">Translation</span>
-              <p>{translated || 'Your translation will appear here.'}</p>
+              <p>{translated ? renderClickableTranslation() : 'Your translation will appear here.'}</p>
               <div className="panel-footer"><span>{isDemo ? 'Demo response' : 'AI response'}</span><button onClick={copyTranslation}>{copied ? 'Copied' : 'Copy'}</button></div>
             </div>
           </div>
@@ -122,6 +172,23 @@ export default function ClinicalTranslatorPage() {
             </div>
           )}
           {translationError && <div className="translation-error" role="alert">{translationError}</div>}
+          {lookupWord && (
+            <div className="dictionary-lookup" aria-live="polite">
+              <div className="dictionary-lookup-heading">
+                <strong>Dictionary lookup: {lookupWord}</strong>
+                <button onClick={() => setLookupWord(null)} aria-label="Close dictionary lookup">×</button>
+              </div>
+              {isLookingUp ? <p>Searching prepared glossary…</p> : lookupResults.length ? (
+                <div className="lookup-results">
+                  {lookupResults.map((entry, index) => <article key={`${entry.word}-${index}`}>
+                    <strong>{entry.word}</strong><span>{entry.translation}</span>
+                    {(entry.pos || entry.cefr) && <small>{entry.pos}{entry.pos && entry.cefr ? ' · ' : ''}{entry.cefr}</small>}
+                    {entry.hanja && entry.hanja !== 'null' && <small>{entry.hanja}</small>}
+                  </article>)}
+                </div>
+              ) : <p>No matching entry was found in the prepared glossary.</p>}
+            </div>
+          )}
         </section>
 
         <section className="container feature-grid">

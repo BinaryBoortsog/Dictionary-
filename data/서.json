@@ -1,0 +1,1731 @@
+[
+  {
+    "word": "서",
+    "translation": "ном",
+    "hanja": "書",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "서가",
+    "translation": "номны тавиур",
+    "hanja": "書架",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서각",
+    "translation": "Зугаа цэнгэл",
+    "hanja": "書刻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서강",
+    "translation": "Соган (газрын нэр)",
+    "hanja": "西江",
+    "pos": "명са",
+    "cefr": "C2"
+  },
+  {
+    "word": "서거",
+    "translation": "нас барах, таалал төгсөх",
+    "hanja": "逝去",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "서거리",
+    "translation": "Далайн гахай, тул загас",
+    "hanja": "서거리",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서거하다",
+    "translation": "нас барах, таалал төгсөх",
+    "hanja": "逝去하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서걱",
+    "translation": "Ширүүн дуу",
+    "hanja": "서걱",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서걱거리다",
+    "translation": "шажигнах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서걱서걱",
+    "translation": "шажиг шажиг",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "서걱서걱하다",
+    "translation": "шажигнах, шуржигнах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "서검",
+    "translation": "илдэс",
+    "hanja": "書劍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서계",
+    "translation": "бичгийн захиа",
+    "hanja": "書契",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서고",
+    "translation": "номын сан",
+    "hanja": "書庫",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서곡",
+    "translation": "Эхлэл, удиртгал",
+    "hanja": "序曲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서공예",
+    "translation": "Солонгосын Урлагийн Ахлах Сургууль",
+    "hanja": "서공예",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서관",
+    "translation": "номын сан",
+    "hanja": "書刊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서광",
+    "translation": "үнсэн гэрэл, ирээдүйн найдвар",
+    "hanja": "曙光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서교",
+    "translation": "шашныг хориглох",
+    "hanja": "邪敎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서구",
+    "translation": "Баруун",
+    "hanja": "西歐",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "서구식",
+    "translation": "өрнөдийн хэв маяг",
+    "hanja": "西歐式",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서구인",
+    "translation": "Өрнөдийн хүн",
+    "hanja": "西歐人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서구적",
+    "translation": "барууны",
+    "hanja": "西歐的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "서구화",
+    "translation": "Өрнөдөцүүлэх",
+    "hanja": "西歐化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서구화되다",
+    "translation": "Өрнөдөд суурилсан болох",
+    "hanja": "西歐化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서글서글",
+    "translation": "эелдэг",
+    "hanja": "서글서글",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "서글서글하다",
+    "translation": "нөхөрсөг, элгэмсэг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서글프다",
+    "translation": "Гунигтай",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서글피",
+    "translation": "Гунигтайгаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서긍",
+    "translation": "Согын",
+    "hanja": "徐兢",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서기관",
+    "translation": "нарийн бичиг",
+    "hanja": "書記官",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서까래",
+    "translation": "дэр мод",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서남쪽",
+    "translation": "баруун өмнөд зүг",
+    "hanja": "西南쪽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서낭",
+    "translation": "тахилгын чулуу",
+    "hanja": "서낭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서너",
+    "translation": "гурван дөрвөн",
+    "hanja": "-",
+    "pos": "수사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서녘",
+    "translation": "баруун",
+    "hanja": "서녘",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서늘하다",
+    "translation": "сэрүүхэн, сэрүүн",
+    "hanja": "서늘하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서다",
+    "translation": "Зогсох",
+    "hanja": "서다",
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "서단",
+    "translation": "барууны эхлэл",
+    "hanja": "西端",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서당",
+    "translation": "хятад сургууль",
+    "hanja": "書堂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서대문",
+    "translation": "Содэмүн (газрын нэр)",
+    "hanja": "西大門",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서더리",
+    "translation": "загасны толгой, яс",
+    "hanja": "서더리",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서덜랜드",
+    "translation": "Садерланд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서도",
+    "translation": "баруун арал",
+    "hanja": "西島",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서독",
+    "translation": "Баруун Герман",
+    "hanja": "西独",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서동",
+    "translation": "Содон (хүний нэр)",
+    "hanja": "薯童",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "서두",
+    "translation": "эхлэл",
+    "hanja": "序頭",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "서두르다",
+    "translation": "яарах",
+    "hanja": "서두르다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서둘다",
+    "translation": "яарах",
+    "hanja": "서둘다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서드",
+    "translation": "Гурав дахь",
+    "hanja": "",
+    "pos": "수사",
+    "cefr": "A1"
+  },
+  {
+    "word": "서드베리",
+    "translation": "Сүдбэрри",
+    "hanja": "Sudbury",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서라벌",
+    "translation": "Сорабол (Шиллагийн хуучин нэр)",
+    "hanja": "徐羅伐",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서랍",
+    "translation": "Шурган шүүгээ",
+    "hanja": "서랍",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "서랍장",
+    "translation": "шүүгээний тавиур",
+    "hanja": "서랍장",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서래",
+    "translation": "хавчуулагдах",
+    "hanja": "西來",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "서량",
+    "translation": "Баруун нутаг (эртний нэр)",
+    "hanja": "西涼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서러움",
+    "translation": "гуниг, харуусал",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서럽다",
+    "translation": "гунигтай, харуусалтай",
+    "hanja": "서럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서령",
+    "translation": "баруун тал",
+    "hanja": "西嶺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서로",
+    "translation": "хоорондоо, бие биенээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "서로서로",
+    "translation": "бие биенээ",
+    "hanja": "서로서로",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서론",
+    "translation": "оршил",
+    "hanja": "序論",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서류",
+    "translation": "бичиг баримт",
+    "hanja": "書類",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서류철",
+    "translation": "хавтас",
+    "hanja": "書類綴",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "서른",
+    "translation": "гуч",
+    "hanja": "서른",
+    "pos": "수사",
+    "cefr": "A1"
+  },
+  {
+    "word": "서리",
+    "translation": "хяруу",
+    "hanja": "서리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서리다",
+    "translation": "үүрлэх, бөөгнөрөх",
+    "hanja": "Q",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서리서리",
+    "translation": "хуйлж хуйлж",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서릿발",
+    "translation": "хүйтэн жавар, цантсан ирмэг",
+    "hanja": "서릿발",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서릿빛",
+    "translation": "цангийн өнгө",
+    "hanja": "서릿빛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서막",
+    "translation": "оршил",
+    "hanja": "序幕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서맥",
+    "translation": "удаан судас",
+    "hanja": "徐脈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서머",
+    "translation": "зун",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "서먹서먹하다",
+    "translation": "эвгүй байх",
+    "hanja": "서먹서먹하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "서먹하다",
+    "translation": "эвгүй",
+    "hanja": "서먹하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서멀",
+    "translation": "термал (дулааны)",
+    "hanja": "Thermal",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서면",
+    "translation": "бичгийн",
+    "hanja": "書面",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서명",
+    "translation": "гарын үсэг",
+    "hanja": "署名",
+    "pos": "NOUN",
+    "cefr": "A2"
+  },
+  {
+    "word": "서명되다",
+    "translation": "гарын үсэг зурагдах",
+    "hanja": "署名되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서명하다",
+    "translation": "гарын үсэг зурах",
+    "hanja": "署名하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "서모",
+    "translation": "хамаатан садан",
+    "hanja": "庶母",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서목",
+    "translation": "номын жагсаалт",
+    "hanja": "書目",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "서묘",
+    "translation": "өрнөдийн сүм",
+    "hanja": "西廟",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서무",
+    "translation": "бичиг хэрэг, аж ахуй",
+    "hanja": "庶務",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서문",
+    "translation": "оршил",
+    "hanja": "序文",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서민",
+    "translation": "энгийн иргэн",
+    "hanja": "서민(庶民)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서민적",
+    "translation": "жирийн ард түмэн",
+    "hanja": "庶民的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서민층",
+    "translation": "энгийн ард",
+    "hanja": "庶民層",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서바이벌",
+    "translation": "Амьдрах, оршин тогтнох",
+    "hanja": "Survival",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서반",
+    "translation": "Испани",
+    "hanja": "西班牙",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서방",
+    "translation": "нөхөр",
+    "hanja": "西方",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "서방님",
+    "translation": "нөхөр (хүндэтгэсэн)",
+    "hanja": "西方님",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서배너",
+    "translation": "Саванна",
+    "hanja": "薩凡納",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서버",
+    "translation": "сервер",
+    "hanja": "server",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서범",
+    "translation": "бичгийн багш",
+    "hanja": "書範",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서법",
+    "translation": "бичгийн хэлбэр",
+    "hanja": "書法",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서베이어",
+    "translation": "Судалгаачин, хэмжигч",
+    "hanja": "서베이어",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서변",
+    "translation": "баруун тал",
+    "hanja": "西邊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서복",
+    "translation": "Сэр Бок",
+    "hanja": "徐福",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서부",
+    "translation": "баруун хэсэг",
+    "hanja": "西部(서부)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서부극",
+    "translation": "вестерн",
+    "hanja": "西部劇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서북",
+    "translation": "баруун хойд",
+    "hanja": "西北",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서북방",
+    "translation": "баруун хойд зүг",
+    "hanja": "西北方",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서북부",
+    "translation": "Баруун хойд хэсэг",
+    "hanja": "西北部",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서북쪽",
+    "translation": "баруун хойд зүг",
+    "hanja": "西北쪽",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "서브",
+    "translation": "Сервис, дагалдах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서브머린",
+    "translation": "шумбагч онгоц",
+    "hanja": "서브머린",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서브미션",
+    "translation": "хүргэлт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서브스턴스",
+    "translation": "бодис, мөн чанар",
+    "hanja": "substance",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서브우퍼",
+    "translation": "сабвуфер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서브컬처",
+    "translation": "дэд соёл",
+    "hanja": "subculture",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서브클래스",
+    "translation": "дэд ангилал",
+    "hanja": "Subclass",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서브프라임",
+    "translation": "비우량주택담보대출",
+    "hanja": "서브프라임",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서브하다",
+    "translation": "Үйлчлэх, олгох, (спорт) бөмбөг өгөх",
+    "hanja": "서브하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서비스",
+    "translation": "Үйлчилгээ",
+    "hanja": "서비스",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "서비스되다",
+    "translation": "үйлчилгээ үзүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서비스업",
+    "translation": "Үйлчилгээний салбар",
+    "hanja": "서비스업",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "서비스하다",
+    "translation": "үйлчлэх",
+    "hanja": "service하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서빙",
+    "translation": "Үйлчлэх (хоол унд)",
+    "hanja": "서빙",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서빙하다",
+    "translation": "Үйлчлэх",
+    "hanja": "Serving",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "서사",
+    "translation": "туйл",
+    "hanja": "敍事",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "서사시",
+    "translation": "Туульс",
+    "hanja": "敍事詩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서사적",
+    "translation": "Туульсын",
+    "hanja": "敍事的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서산",
+    "translation": "баруун уул",
+    "hanja": "西山",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서생",
+    "translation": "сурагч",
+    "hanja": "書生",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서서하다",
+    "translation": "аажмаар, по-постепенно",
+    "hanja": "徐徐하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서서히",
+    "translation": "аажмаар",
+    "hanja": "徐徐─",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서성",
+    "translation": "Хятадын баруун хойд хэсэг",
+    "hanja": "西省",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "서성거리다",
+    "translation": "тэнэх",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서성대다",
+    "translation": "орооцолдох, эргэлдэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서성이다",
+    "translation": "тэнүүчлэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서수",
+    "translation": "Дэс дугаар, дарааллын тоо",
+    "hanja": "序數",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서술",
+    "translation": "Тайлбарлах, өгүүлэх",
+    "hanja": "敍述",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서술되다",
+    "translation": "Дүрслэгдэх",
+    "hanja": "敍述되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서술어",
+    "translation": "өгүүлбэрийн туслах гишүүн",
+    "hanja": "敍述語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서술하다",
+    "translation": "өгүүлэх",
+    "hanja": "敍述하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서스캐처원",
+    "translation": "Саскачеван (Канад мужийн нэр)",
+    "hanja": "Saskatchewan",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서스테인",
+    "translation": "түших, хадгалах",
+    "hanja": "서스테인",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서스펜더",
+    "translation": "брюкийг түдгэлзүүлэгч",
+    "hanja": "suspender",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서스펜션",
+    "translation": "түдгэлзүүлэлт, зүрх догдлуулсан байдал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서스펜스",
+    "translation": "сэтгэл түгшээсэн байдал",
+    "hanja": null,
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "서슬",
+    "translation": "ирийн ирмэг",
+    "hanja": "西瑟",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서슴다",
+    "translation": "Эргэлзэх, тээнэгэлзэх",
+    "hanja": "서슴다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서슴없다",
+    "translation": "эргэлзэхгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서슴없이",
+    "translation": "эргэлзэлгүйгээр",
+    "hanja": "서슴없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서시",
+    "translation": "оршил",
+    "hanja": "序詩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서식",
+    "translation": "Амьдрах орчин",
+    "hanja": "棲息",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서식스",
+    "translation": "Суссекс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서식지",
+    "translation": "амьдрах орчин, амьдрах газар",
+    "hanja": "棲息地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서식하다",
+    "translation": "амьдрах, орших",
+    "hanja": "棲息하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "서신",
+    "translation": "захидал",
+    "hanja": "書信",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서씨",
+    "translation": "Со овогтой хүн",
+    "hanja": "徐氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서애",
+    "translation": "Соэ (хүний нэр, эсвэл газар усны нэр)",
+    "hanja": "西厓",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "서약",
+    "translation": "тангараг",
+    "hanja": "誓約",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서약서",
+    "translation": "тангарагийн бичиг",
+    "hanja": "誓約書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서약하다",
+    "translation": "тангараглах",
+    "hanja": "誓約하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서양",
+    "translation": "баруун",
+    "hanja": "西洋",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서양사",
+    "translation": "Барууны түүх",
+    "hanja": "西洋史",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서양식",
+    "translation": "Барууны загвар, барууны хэв маяг",
+    "hanja": "西洋式",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서양인",
+    "translation": "Өрнөдийн хүн",
+    "hanja": "西洋人",
+    "pos": "мөн",
+    "cefr": "A2"
+  },
+  {
+    "word": "서양적",
+    "translation": "Өрнөдийн",
+    "hanja": "西洋的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서양화",
+    "translation": "барууны уран зураг",
+    "hanja": "西洋畫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서양화가",
+    "translation": "барууны уран зураач",
+    "hanja": "西洋畫家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서얼",
+    "translation": "тахилч",
+    "hanja": "庶孽",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "서역",
+    "translation": "баруун бүс",
+    "hanja": "西域",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서열",
+    "translation": "Дэс дараалал",
+    "hanja": "序列",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "서열화",
+    "translation": "зэрэглэлд оруулах",
+    "hanja": "序列化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서염",
+    "translation": "давс",
+    "hanja": "西鹽",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서예",
+    "translation": "уран бичлэг",
+    "hanja": "書藝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서예가",
+    "translation": "уран бичээч",
+    "hanja": "書藝家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서옥",
+    "translation": "номны дэлгүүр",
+    "hanja": "書屋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서완",
+    "translation": "Сэован (хүн нэр)",
+    "hanja": "西烷",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서우다",
+    "translation": "Босгох (нугаслах) (байшин)",
+    "hanja": "서우다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서운",
+    "translation": "Гунигтай, сэтгэл дундуур",
+    "hanja": "서운",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서운하다",
+    "translation": "гомдсон",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "서울",
+    "translation": "Сөүл",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "서울내기",
+    "translation": "Сөүл хүн",
+    "hanja": "서울내기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서울러",
+    "translation": "Сөүл хүн",
+    "hanja": "서울러",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서울말",
+    "translation": "Сөүлийн аялга",
+    "hanja": "서울말",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "서울역",
+    "translation": "Сөүлийн галт тэрэгний буудал",
+    "hanja": "서울驛",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "서원하다",
+    "translation": "Тангараглах, амлах",
+    "hanja": "誓願하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "서위하다",
+    "translation": "байрлуулах",
+    "hanja": "敍位하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "서을",
+    "translation": "Сөүл хот",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "서자",
+    "translation": "хатан бус хүүхэд",
+    "hanja": "庶子",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서장",
+    "translation": "Удиртгал, эхлэл",
+    "hanja": "序章",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서재",
+    "translation": "судалгааны өрөө",
+    "hanja": "書齋",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서적",
+    "translation": "ном судар",
+    "hanja": "書蹟",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서전",
+    "translation": "танилцуулга",
+    "hanja": "緖戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서점",
+    "translation": "ном дэлгүүр",
+    "hanja": "書店",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "서정성",
+    "translation": "уянгалаг чанар",
+    "hanja": "抒情性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서정시",
+    "translation": "лирик шүлэг",
+    "hanja": "抒情詩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서정적",
+    "translation": "Уянгалаг, лирик",
+    "hanja": "抒情的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서주",
+    "translation": "эхлэл, удиртгал",
+    "hanja": "序奏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서중",
+    "translation": "номны дунд",
+    "hanja": "書中",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서진하다",
+    "translation": "баруун тийшээ явах",
+    "hanja": "西進하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서징",
+    "translation": "давалгаа",
+    "hanja": "서징",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서쪽",
+    "translation": "баруун зүг",
+    "hanja": "西쪽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서찰",
+    "translation": "захидал",
+    "hanja": "書札",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서책",
+    "translation": "ном",
+    "hanja": "書冊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서천",
+    "translation": "баруун тэнгэр",
+    "hanja": "西天",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서첩",
+    "translation": "бичгийн дэвтэр",
+    "hanja": "書帖",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서청",
+    "translation": "Баруун Цэнхэр (гадаад нэр)",
+    "hanja": "西靑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서체",
+    "translation": "Үсгийн хэлбэр, фонт",
+    "hanja": "書體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서초",
+    "translation": "Сочо (газар зүйн нэр)",
+    "hanja": "瑞草",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "서촌",
+    "translation": "баруун тосгон",
+    "hanja": "西村",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서치",
+    "translation": "хайлт",
+    "hanja": "search",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서치라이트",
+    "translation": "хайлт гэрэл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "서캐",
+    "translation": "бөөс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서커",
+    "translation": "Сорох",
+    "hanja": "서커",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서커스",
+    "translation": "Цирк",
+    "hanja": "circus",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서큘레이터",
+    "translation": "агааржуулагч",
+    "hanja": "서큘레이터",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "서클",
+    "translation": "клуб, дугуйлан",
+    "hanja": "circle",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서클릿",
+    "translation": "суклиет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서킷",
+    "translation": "хэлхээ",
+    "hanja": "circuit",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서탁",
+    "translation": "бичгийн ширээ",
+    "hanja": "書卓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서투르다",
+    "translation": "Эвгүй, чадваргүй, муухай",
+    "hanja": "서투르다",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "서툴다",
+    "translation": "Эв дүйгүй, гар муутай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서트다",
+    "translation": "өвдөг сөхрөх",
+    "hanja": "서트다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서티",
+    "translation": "баталгаа",
+    "hanja": "certification",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서파",
+    "translation": "Өрнөдийн урсгал",
+    "hanja": "西派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서판",
+    "translation": "Бичгийн самбар",
+    "hanja": "書板",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서퍽",
+    "translation": "Саффолк",
+    "hanja": "Suffolk",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서편",
+    "translation": "баруун тал",
+    "hanja": "西便",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서평",
+    "translation": "ном шүүмж",
+    "hanja": "書評",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서포",
+    "translation": "дэмжлэг",
+    "hanja": "서포",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서포터",
+    "translation": "дэмжигч",
+    "hanja": "supporter",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서포터스",
+    "translation": "дэмжигчид",
+    "hanja": "서포터스",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서포터즈",
+    "translation": "дэмжигчид",
+    "hanja": "서포터즈",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서포트",
+    "translation": "дэмжлэг",
+    "hanja": "support",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서포트하다",
+    "translation": "дэмжих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서품",
+    "translation": "Хамбын санваар хүртээх ёслол",
+    "hanja": "叙品",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서풍",
+    "translation": "баруун салхи",
+    "hanja": "西風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서프보드",
+    "translation": "серфингийн самбар",
+    "hanja": "surfboard",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "서플리먼트",
+    "translation": "нэмэлт, нэмэгдэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서피",
+    "translation": "гадаргуу",
+    "hanja": "서피",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서피스",
+    "translation": "гадаргуу",
+    "hanja": "서피스",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "서핑",
+    "translation": "сёрфинг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서학",
+    "translation": "хятадын баруун үзэл",
+    "hanja": "西學",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서해",
+    "translation": "шар тэнгис",
+    "hanja": "西海",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "서해안",
+    "translation": "Баруун эрэг",
+    "hanja": "西海岸",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "서행",
+    "translation": "удаан явах",
+    "hanja": "徐行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "서행하다",
+    "translation": "Удаан явах",
+    "hanja": "徐行하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서향",
+    "translation": "баруун зүг",
+    "hanja": "西向",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "서혜",
+    "translation": "цавины хэсэг",
+    "hanja": "鼠蹊",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "서화",
+    "translation": "бичгийн урлаг, зураг",
+    "hanja": "書畫",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서훈",
+    "translation": "шагнал хүртэх",
+    "hanja": "敍勳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서휘",
+    "translation": "Сөхва (нэр)",
+    "hanja": "西暉",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

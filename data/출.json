@@ -1,0 +1,1157 @@
+[
+  {
+    "word": "출가",
+    "translation": "гэрээс гарах, гэрлэх",
+    "hanja": "出家",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "출가시키다",
+    "translation": "гэрлүүлэх (охиныг)",
+    "hanja": "出嫁시키다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "출가외인",
+    "translation": "гэрлэсэн эмэгтэй (өөр гэр бүлд хамаарагдах)",
+    "hanja": "出稼外人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출가하다",
+    "translation": "гэрээс гарах, лам болох",
+    "hanja": "出家하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출간",
+    "translation": "хэвлэн нийтлэх",
+    "hanja": "出刊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출간되다",
+    "translation": "Хэвлэгдэн гарах",
+    "hanja": "出版되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "출간하다",
+    "translation": "Хэвлүүлэх",
+    "hanja": "出刊하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출감",
+    "translation": "шоронгоос суллагдах",
+    "hanja": "出監",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "출감하다",
+    "translation": "Шоронгоос суллагдах",
+    "hanja": "出監하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "출강",
+    "translation": "лекц унших",
+    "hanja": "出講",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출강하다",
+    "translation": "лекц унших",
+    "hanja": "出講하다",
+    "pos": "v",
+    "cefr": "C1"
+  },
+  {
+    "word": "출격",
+    "translation": "дайралт, гарах",
+    "hanja": "出擊",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "출격하다",
+    "translation": "дайралтад орох, довтлох",
+    "hanja": "出擊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출결",
+    "translation": "ирэц, ирц бүртгэл",
+    "hanja": "出缺",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "출고",
+    "translation": "гаргах",
+    "hanja": "出庫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출고되다",
+    "translation": "үйлдвэрээс гарах",
+    "hanja": "出庫되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출고하다",
+    "translation": "агуулахаас гаргах",
+    "hanja": "出庫하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출관",
+    "translation": "гадагш гарах",
+    "hanja": "出關",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출관하다",
+    "translation": "Гаргах, хөөх",
+    "hanja": "出棺하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "출교",
+    "translation": "сургуулиас хөөх",
+    "hanja": "出校",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출구",
+    "translation": "гарах хаалга",
+    "hanja": "출구(出口)",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "출국",
+    "translation": "гадагшаа явах",
+    "hanja": "出國",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "출국하다",
+    "translation": "гадаад руу явах",
+    "hanja": "出國하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "출궁",
+    "translation": "Ордныг орхих",
+    "hanja": "出宮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출궁하다",
+    "translation": "궁궐을 나가다",
+    "hanja": "出宮하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출근",
+    "translation": "ажилдаа ирэх",
+    "hanja": "出勤",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "출근길",
+    "translation": "ажилдаа явах зам",
+    "hanja": "出勤路",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출근하다",
+    "translation": "Ажилдаа явах",
+    "hanja": "出勤하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "출금",
+    "translation": "Мөнгө авах",
+    "hanja": "出金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출금되다",
+    "translation": "Мөнгө татагдах",
+    "hanja": "出金되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출금하다",
+    "translation": "мөнгө авах",
+    "hanja": "出金하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출납",
+    "translation": "орлого зарлага",
+    "hanja": "出納",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출납부",
+    "translation": "Кассын бүртгэл, орлого зарлагын дэвтэр",
+    "hanja": "出納簿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출당",
+    "translation": "намаас хөөгдөх",
+    "hanja": "出黨",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "출도",
+    "translation": "хүрэх",
+    "hanja": "出道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출동",
+    "translation": "хөдлөх",
+    "hanja": "出動",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "출동시키다",
+    "translation": "илгээх",
+    "hanja": "出動시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출동하다",
+    "translation": "хөдлөх",
+    "hanja": "出動하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출두",
+    "translation": "ирэх, хүрэлцэн ирэх",
+    "hanja": "出頭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출두하다",
+    "translation": "Ирэх",
+    "hanja": "出頭하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출렁",
+    "translation": "долгиолох; үелзэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출렁거리다",
+    "translation": "долгиолох, хэлбэлзэх",
+    "hanja": "―",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "출렁대다",
+    "translation": "Давлагаалах",
+    "hanja": "출렁대다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "출렁이다",
+    "translation": "давалгаалах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출렁출렁",
+    "translation": "намилзах",
+    "hanja": "출렁출렁",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출렁출렁하다",
+    "translation": "найгах",
+    "hanja": "출렁출렁하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출렁하다",
+    "translation": "долгиолох",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "출력",
+    "translation": "гаралт, хэвлэх",
+    "hanja": "出力",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출력되다",
+    "translation": "хэвлэгдэх",
+    "hanja": "出力되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "출력하다",
+    "translation": "Хэвлэх, гаргах",
+    "hanja": "出力하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출루",
+    "translation": "бэйсд гарах",
+    "hanja": "出壘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출루하다",
+    "translation": "бэйсэнд гарах (бэйсбол)",
+    "hanja": "出壘하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출마",
+    "translation": "нэр дэвших",
+    "hanja": "出馬",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "출마하다",
+    "translation": "нэр дэвших",
+    "hanja": "出馬하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출몰",
+    "translation": "гарч ирэх, алга болох",
+    "hanja": "出沒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출몰하다",
+    "translation": "гарч ирэх, илрэх",
+    "hanja": "出沒-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출바알",
+    "translation": "хөдлөх, явах (дуурайсан үг)",
+    "hanja": "出発",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출발",
+    "translation": "хөдлөх",
+    "hanja": "出發",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "출발되다",
+    "translation": "хөдлөх",
+    "hanja": "出發되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "출발선",
+    "translation": "гарааны шугам",
+    "hanja": "出發線",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "출발시키다",
+    "translation": "хөдөлгөх",
+    "hanja": "出發시키다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "출발역",
+    "translation": "хөдлөх буудал",
+    "hanja": "出發驛",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "출발점",
+    "translation": "эхлэх цэг, гарах цэг",
+    "hanja": "出發點",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출발지",
+    "translation": "хөдлөх цэг",
+    "hanja": "出發地",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "출발하다",
+    "translation": "хөдлөх, явах",
+    "hanja": "出發-",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "출범",
+    "translation": "эхлүүлэх, гараагаа эхлэх",
+    "hanja": "出帆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출범되다",
+    "translation": "Эхлэх, байгуулагдах",
+    "hanja": "出帆되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출범시키다",
+    "translation": "эхлүүлэх",
+    "hanja": "出帆시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출범하다",
+    "translation": "хэрэгжиж эхлэх",
+    "hanja": "出帆하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출병",
+    "translation": "цэрэг илгээх",
+    "hanja": "出兵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출병하다",
+    "translation": "цэрэг татах",
+    "hanja": "出兵하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출사",
+    "translation": "зураг авалтад гарах",
+    "hanja": "出寫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출사표",
+    "translation": "сонгуульд оролцохыг зарлах",
+    "hanja": "出師表",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "출사하다",
+    "translation": "зураг авах аянд явах",
+    "hanja": "出寫하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "출산",
+    "translation": "хүүхэд төрүүлэх",
+    "hanja": "出産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출산율",
+    "translation": "төрөлтийн түвшин",
+    "hanja": "出産률",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출산하다",
+    "translation": "төрөх",
+    "hanja": "出産하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "출생",
+    "translation": "төрөлт",
+    "hanja": "出生",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "출생률",
+    "translation": "төрөлтийн түвшин",
+    "hanja": "出生率",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출생지",
+    "translation": "төрсөн газар",
+    "hanja": "出生地",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "출생하다",
+    "translation": "төрөх",
+    "hanja": "出生하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "출석",
+    "translation": "ирэц",
+    "hanja": "出席",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "출석부",
+    "translation": "Ирцийн дэвтэр",
+    "hanja": "出席簿",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "출석하다",
+    "translation": "ирэх",
+    "hanja": "出席하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "출세",
+    "translation": "амжилт",
+    "hanja": "出世",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출세욕",
+    "translation": "амжилтад хүрэх хүсэл",
+    "hanja": "出世欲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출세하다",
+    "translation": "амжилтанд хүрэх",
+    "hanja": "出世하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출셋길",
+    "translation": "амжилтад хүрэх зам",
+    "hanja": "出世길",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출소",
+    "translation": "шоронгоос суллагдах",
+    "hanja": "出所",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "출소하다",
+    "translation": "Шоронгоос суллагдах",
+    "hanja": "出所-하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "출수",
+    "translation": "усны гарал",
+    "hanja": "出水",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출시",
+    "translation": "гаргах",
+    "hanja": " 출시",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출시되다",
+    "translation": "гаргасан",
+    "hanja": " 출시되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "출시하다",
+    "translation": "Нээлт хийх",
+    "hanja": " 출시하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "출신",
+    "translation": "гарал",
+    "hanja": "出身",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "출애굽",
+    "translation": "Египетээс гарсан нь (библийн түүх)",
+    "hanja": "出애굽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출연",
+    "translation": "тоглуулах",
+    "hanja": "出演",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "출연료",
+    "translation": "Тоглолтын хөлс",
+    "hanja": "出演料",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출연자",
+    "translation": "оролцогч, тоглолтын тоглогч",
+    "hanja": "出演者",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "출연진",
+    "translation": "Жүжигчид",
+    "hanja": "出演陣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출연하다",
+    "translation": "тог үзүүлэх",
+    "hanja": "出演하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "출옥",
+    "translation": "Шоронгоос суллагдах",
+    "hanja": "出獄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출원",
+    "translation": "Өргөдөл гаргах",
+    "hanja": "出願",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출원되다",
+    "translation": "нэхэмжлэх гаргагдах",
+    "hanja": "出願되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출원하다",
+    "translation": "өгдөл гаргах",
+    "hanja": "출원하다(出願하다)",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출입",
+    "translation": "нэвтрэх, орох",
+    "hanja": "出入",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출입구",
+    "translation": "гарц, орц",
+    "hanja": "出入口",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "출입국",
+    "translation": "хил нэвтрэх",
+    "hanja": "出入國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출입문",
+    "translation": "орц гарц",
+    "hanja": "出入門",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "출입증",
+    "translation": "нэвтрэх үнэмлэх",
+    "hanja": "出入證",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출입하다",
+    "translation": "нэвтрэх",
+    "hanja": "出入하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "출자",
+    "translation": "хөрөнгө оруулалт",
+    "hanja": "出資",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출자하다",
+    "translation": "хөрөнгө оруулах",
+    "hanja": "出資하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "출장",
+    "translation": "томилолт",
+    "hanja": "出張",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "출장비",
+    "translation": "Томилолтын зардал",
+    "hanja": "出張費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출장소",
+    "translation": "салбар оффис",
+    "hanja": "出張所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출장하다",
+    "translation": "албан томилолтоор явах",
+    "hanja": "出張하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출재",
+    "translation": "Эд хөрөнгө гаргах, зардал гарах",
+    "hanja": "出財",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "출전",
+    "translation": "тэмцээнд оролцох",
+    "hanja": "出戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출전권",
+    "translation": "оролцох эрх",
+    "hanja": "出戰權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출전시키다",
+    "translation": "тэмцээнд оролцуулах, дайнд илгээх",
+    "hanja": "出戰시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출전하다",
+    "translation": "оролцох",
+    "hanja": "出戰하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "출점",
+    "translation": "дэлгүүр нээх",
+    "hanja": "出店",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출점하다",
+    "translation": "салбар нээх",
+    "hanja": "出店하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출정",
+    "translation": "Дайн тулаанд мордох",
+    "hanja": "出征",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출정식",
+    "translation": "явдал эхлэх ёслол",
+    "hanja": "出征式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출정하다",
+    "translation": "аян дайнд явах",
+    "hanja": "出征하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출제",
+    "translation": "асуулт бэлдэх, бодлого зохиох",
+    "hanja": "出題",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출제되다",
+    "translation": "асуулт гарах",
+    "hanja": "出題되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출제하다",
+    "translation": "асуулт тавих",
+    "hanja": "出題하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "출조",
+    "translation": "загасчлахаар явах",
+    "hanja": "出釣",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "출중하다",
+    "translation": "онцгой",
+    "hanja": "出衆하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출진하다",
+    "translation": "тулаанд гарах",
+    "hanja": "出陣하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출차",
+    "translation": "гарахад бэлэн болох",
+    "hanja": "出車",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출창",
+    "translation": "цэцэг гарах",
+    "hanja": "出瘡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "출처",
+    "translation": "эх сурвалж",
+    "hanja": "出處",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출첵",
+    "translation": "ирсэн эсэхийг шалгах",
+    "hanja": "出check",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "출출",
+    "translation": "Бага зэрэг өлсөх",
+    "hanja": "출출",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "출출하다",
+    "translation": "өлсөх",
+    "hanja": "出出하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "출타",
+    "translation": "орхих",
+    "hanja": "出他",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출타하다",
+    "translation": "гадагш гарах",
+    "hanja": "出他하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출토",
+    "translation": "Малтлагаар олох",
+    "hanja": "出土",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출토되다",
+    "translation": "Малтагдах, олдох",
+    "hanja": "出土되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출토품",
+    "translation": "малтлагаар олдсон эд зүйлс",
+    "hanja": "出土品",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "출퇴근",
+    "translation": "ажилдаа ирж очих",
+    "hanja": "出退勤",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "출퇴근하다",
+    "translation": "Ажилдаа ирж очих",
+    "hanja": "出退勤─",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "출튀",
+    "translation": "хичээлээс зугтах",
+    "hanja": "出튀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출판",
+    "translation": "хэвлэл",
+    "hanja": "出版",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "출판계",
+    "translation": "хэвлэлийн салбар",
+    "hanja": "出版界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출판되다",
+    "translation": "хэвлэгдэх",
+    "hanja": "出版되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출판물",
+    "translation": "хэвлэл",
+    "hanja": "出版物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "출판사",
+    "translation": "хэвлэлийн газар",
+    "hanja": "出版社",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "출판인",
+    "translation": "хэвлэн нийтлэгч",
+    "hanja": "出版人",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "출판하다",
+    "translation": "хэвлэн нийтлэх",
+    "hanja": "出版하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "출품",
+    "translation": "үзэсгэлэнд оролцох",
+    "hanja": "출품(出品)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출품되다",
+    "translation": "танилцуулах",
+    "hanja": "出品되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "출품하다",
+    "translation": "үзэсгэлэнд тавих",
+    "hanja": "出品하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출하",
+    "translation": "ачилт",
+    "hanja": "出荷",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "출하되다",
+    "translation": "Тээвэрлэгдэх",
+    "hanja": "出荷되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출하하다",
+    "translation": "Ачуулах, илгээх",
+    "hanja": "出荷하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출항",
+    "translation": "хөлөг онгоц гарах",
+    "hanja": "出航",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출항하다",
+    "translation": "усан онгоц гарах",
+    "hanja": "出港하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출현",
+    "translation": "Үзэгдэх",
+    "hanja": "出現",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출현시키다",
+    "translation": "гарч ирүүлэх",
+    "hanja": "出現시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출현하다",
+    "translation": "гарч ирэх",
+    "hanja": "出現하다",
+    "pos": "verb",
+    "cefr": "B2"
+  }
+]

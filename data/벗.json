@@ -1,0 +1,51 @@
+[
+  {
+    "word": "벗",
+    "translation": "найз нөхөр",
+    "hanja": "벗",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "벗기다",
+    "translation": "хутлах, хуулах, хуурайлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벗다",
+    "translation": "тайлах",
+    "hanja": "벗다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "벗어나다",
+    "translation": "чөлөөлөгдөх",
+    "hanja": "벗어나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벗어던지다",
+    "translation": "тайлах, хаях",
+    "hanja": "벗어던지다",
+    "pos": "ү",
+    "cefr": "B2"
+  },
+  {
+    "word": "벗어젖히다",
+    "translation": "хувцсаа тайлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벗하다",
+    "translation": "найзлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  }
+]

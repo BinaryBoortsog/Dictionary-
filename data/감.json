@@ -1,0 +1,1451 @@
+[
+  {
+    "word": "감",
+    "translation": "Мэдрэмж, хүрэн хүрэн",
+    "hanja": "感",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "감가",
+    "translation": "Элэгдэл",
+    "hanja": "減價",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "감각",
+    "translation": "Мэдрэмж",
+    "hanja": "感覺",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "감각되다",
+    "translation": "мэдрэгдэх",
+    "hanja": "感覺되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "감각적",
+    "translation": "Мэдрэмжтэй",
+    "hanja": "感覺的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감각하다",
+    "translation": "мэдрэх",
+    "hanja": "感覺하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감감",
+    "translation": "тогтмон",
+    "hanja": "깜깜",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감감무소식",
+    "translation": "сураггүй",
+    "hanja": "감감無消息",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감개",
+    "translation": "Сэтгэл хөдлөл",
+    "hanja": "感慨",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "감개무량하다",
+    "translation": "Сэтгэл хөдлөх",
+    "hanja": "感慨無量하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감겨들다",
+    "translation": "орооцолдох",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감격",
+    "translation": "сэтгэл хөдлөл, баярлах",
+    "hanja": "感激",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감격스럽다",
+    "translation": "сэтгэл хөдөлгөсөн",
+    "hanja": "感激스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감격적",
+    "translation": "Сэтгэл хөдөлгөсөн",
+    "hanja": "感激的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "감격하다",
+    "translation": "Сэтгэл хөдлөх",
+    "hanja": "感激하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "감경",
+    "translation": "хөнгөлөх",
+    "hanja": "減輕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감경되다",
+    "translation": "буурах, хөнгөрөх",
+    "hanja": "減輕되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감경하다",
+    "translation": "хөнгөлөх",
+    "hanja": "減輕하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "감관",
+    "translation": "мэдрэхүйн эрхтэн",
+    "hanja": "感官",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "감귤",
+    "translation": "мандарин",
+    "hanja": "柑橘",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "감금",
+    "translation": "хорих, шоронд хийх",
+    "hanja": "監禁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감금당하다",
+    "translation": "Хоригдох, баривчлагдах",
+    "hanja": "監禁當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감금되다",
+    "translation": "хоригдох",
+    "hanja": "監禁되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감금하다",
+    "translation": "хорих",
+    "hanja": "감금하다(監禁하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감기다",
+    "translation": "угаах (үс)",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "감기약",
+    "translation": "ханиадны эм",
+    "hanja": "感氣藥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "감나무",
+    "translation": "хүрэнгийн мод",
+    "hanja": "감나무",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감내",
+    "translation": "тэсвэрлэх",
+    "hanja": "堪耐",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감내하다",
+    "translation": "тэсвэрлэх, хүлцэх",
+    "hanja": "堪耐하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감다",
+    "translation": "уях, ашглах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "감당",
+    "translation": "даах, хариуцах",
+    "hanja": "堪當(감당)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감당하다",
+    "translation": "даах",
+    "hanja": "堪當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감도",
+    "translation": "мэдрэмж",
+    "hanja": "感度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감독",
+    "translation": "найруулагч, хянагч",
+    "hanja": "監督",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감독관",
+    "translation": "хянагч, зохицуулагч",
+    "hanja": "監督官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감독하다",
+    "translation": "хянах, захирах",
+    "hanja": "監督하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감돌다",
+    "translation": "Эргэлдэх",
+    "hanja": "감돌다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "감동",
+    "translation": "сэтгэл хөдлөл",
+    "hanja": "感動",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감동스럽다",
+    "translation": "сэтгэл хөдөлгөм",
+    "hanja": "感動스럽다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감동시키다",
+    "translation": "Сэтгэл хөдөлгөх",
+    "hanja": "感動시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감동적",
+    "translation": "сэтгэл хөдөлгөм",
+    "hanja": "感動的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감동하다",
+    "translation": "сэтгэл хөдлөх",
+    "hanja": "感動하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감람",
+    "translation": "чидун жимс",
+    "hanja": "橄欖",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "감량",
+    "translation": "жин хасах",
+    "hanja": "減量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감량하다",
+    "translation": "жин хасах",
+    "hanja": "減量하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "감로",
+    "translation": "амтат шүүс, амтат ус",
+    "hanja": "甘露",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감리",
+    "translation": "Хяналт шалгалт",
+    "hanja": "監理",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감마",
+    "translation": "Гамма (үсэг)",
+    "hanja": "감마",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "감면",
+    "translation": "Хөнгөлөлт",
+    "hanja": "減免",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "감면되다",
+    "translation": "хөнгөлөгдөх",
+    "hanja": "減免되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감면하다",
+    "translation": "хөнгөлөх, чөлөөлөх",
+    "hanja": "減免하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감명",
+    "translation": "сэтгэгдэл",
+    "hanja": "感銘",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "감미",
+    "translation": "амтлаг амт",
+    "hanja": "甘味",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감미롭다",
+    "translation": "амттай, таатай",
+    "hanja": "甘味롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감미료",
+    "translation": "чихэрлэг амт оруулагч бодис",
+    "hanja": "甘味料",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감방",
+    "translation": "камер (хорих)",
+    "hanja": "監房",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감별",
+    "translation": "ялгах",
+    "hanja": "鑑別",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감별하다",
+    "translation": "ялгаж таних",
+    "hanja": "鑑別하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감복하다",
+    "translation": "бишрэх",
+    "hanja": "感服하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감봉",
+    "translation": "Цалин хасах",
+    "hanja": "減俸",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "감비아",
+    "translation": "Гамби",
+    "hanja": "감비아",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감사",
+    "translation": "талархал",
+    "hanja": "感謝",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "감사관실",
+    "translation": "хяналтын алба",
+    "hanja": "監査官室",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감사랑",
+    "translation": "хайр, амраг",
+    "hanja": "甘사랑",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "감사원",
+    "translation": "Аудитын газар",
+    "hanja": "監査院",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감사장",
+    "translation": "талархлын бичиг",
+    "hanja": "感謝狀",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "감사하다",
+    "translation": "талархах",
+    "hanja": "感謝",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "감사히",
+    "translation": "Талархан",
+    "hanja": "感謝히",
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "감산",
+    "translation": "Үйлдвэрлэлийг бууруулах",
+    "hanja": "減産",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "감산하다",
+    "translation": "үйлдвэрлэлээ багасгах",
+    "hanja": "減産하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감삼다",
+    "translation": "тасдах",
+    "hanja": "감삼다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감상",
+    "translation": "мэдрэмж, сэтгэгдэл",
+    "hanja": "感想",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감상문",
+    "translation": "Сэтгэгдлийн бичвэр, эсээ",
+    "hanja": "感想文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감상법",
+    "translation": "үнэлэх арга",
+    "hanja": "鑑賞法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감상자",
+    "translation": "Үзэгч, сонсогч, мэдрэгч",
+    "hanja": "鑑賞者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "감상적",
+    "translation": "сэтгэл хөдлөлтэй",
+    "hanja": "感傷的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감상주의",
+    "translation": "Сэтгэлийн хөдөлгөөнд автах үзэл",
+    "hanja": "感傷主義",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감상하다",
+    "translation": "таашаан үзэх",
+    "hanja": "鑑賞하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "감상회",
+    "translation": "үзвэр, сонсголын үйл ажиллагаа",
+    "hanja": "鑑賞會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감색",
+    "translation": "хар хөх өнгө",
+    "hanja": "紺色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감생",
+    "translation": "богино хугацааны амьдрал",
+    "hanja": "感生",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "감선",
+    "translation": "шугамыг багасгах",
+    "hanja": "減線",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감성",
+    "translation": "мэдрэмж, сэтгэл хөдлөл",
+    "hanja": "感性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감성적",
+    "translation": "мэдрэмжтэй",
+    "hanja": "感性的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "감성팔이",
+    "translation": "сэтгэл хөдлөлөөр далимдуулах",
+    "hanja": "感性팔이",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "감세",
+    "translation": "татварыг бууруулах",
+    "hanja": "減稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감세하다",
+    "translation": "Татварыг бууруулах",
+    "hanja": "減稅하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감셍이",
+    "translation": "Сысам (Далайн амьтан, 'sea squirt'-ийн нэг төрөл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감소",
+    "translation": "буурах",
+    "hanja": "減少",
+    "pos": "NOUN",
+    "cefr": "B1"
+  },
+  {
+    "word": "감소되다",
+    "translation": "буурах, багасах",
+    "hanja": "減少되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감소시키다",
+    "translation": "бууруулах, багасгах",
+    "hanja": "減少시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감소율",
+    "translation": "бууралтын хувь",
+    "hanja": "減少率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감소하다",
+    "translation": "буурах",
+    "hanja": "減少하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감속",
+    "translation": "Хурд сааруулах",
+    "hanja": "減速",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감속하다",
+    "translation": "хурд сааруулах",
+    "hanja": "減速하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "감쇄",
+    "translation": "бууруулах",
+    "hanja": "減殺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감수",
+    "translation": "зөвшөөрөл",
+    "hanja": "甘受",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "감수성",
+    "translation": "мэдрэмж",
+    "hanja": "感受性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감수하다",
+    "translation": "Тэвчих, хүлцэх",
+    "hanja": "甘受하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감시",
+    "translation": "хяналт",
+    "hanja": "監視",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감시당하다",
+    "translation": "хяналтад байх",
+    "hanja": "監視當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감시되다",
+    "translation": "Хяналтанд байх",
+    "hanja": "監視되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감시망",
+    "translation": "тандалтын сүлжээ",
+    "hanja": "監視網",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감시병",
+    "translation": "харуул цэрэг",
+    "hanja": "監視兵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감시원",
+    "translation": "харуул",
+    "hanja": "監視員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감시인",
+    "translation": "хянагч",
+    "hanja": "監視人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감시자",
+    "translation": "ажиглагч",
+    "hanja": "監視者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "감시탑",
+    "translation": "харуул хамгаалалтын цамхаг",
+    "hanja": "監視塔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감시하다",
+    "translation": "хянах",
+    "hanja": "監視하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감식",
+    "translation": "таньж тогтоох",
+    "hanja": "鑑識",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감식초",
+    "translation": "хүрэнгийн цуу",
+    "hanja": "柿食醋",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "감식하다",
+    "translation": "танин мэдэх",
+    "hanja": "鑑識하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "감심",
+    "translation": "сэтгэлд хүрэх",
+    "hanja": "感心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감싸고돌다",
+    "translation": "хамгаалах, өмгөөлөх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감싸다",
+    "translation": "ороох",
+    "hanja": "감싸다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감싸안다",
+    "translation": "тэврэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "감싸이다",
+    "translation": "бүсэлэгдэх, ороогдох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감싸쥐다",
+    "translation": "Ороох, тэврэх",
+    "hanja": "감싸쥐다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감씨",
+    "translation": "Унасан үр, ургамлын үр",
+    "hanja": "감씨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감아올리다",
+    "translation": "ороож өргөх",
+    "hanja": null,
+    "pos": "v",
+    "cefr": "B2"
+  },
+  {
+    "word": "감아쥐다",
+    "translation": "нягт базах",
+    "hanja": "None",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "감악산",
+    "translation": "Гамак уул",
+    "hanja": "紺嶽山",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감안",
+    "translation": "тооцох",
+    "hanja": "勘案",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "감안되다",
+    "translation": "харгалзан үзэгдэх, тооцогдох",
+    "hanja": "勘案되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감안하다",
+    "translation": "тооцох",
+    "hanja": "勘案하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "감압",
+    "translation": "даралт бууруулах",
+    "hanja": "減壓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감압하다",
+    "translation": "даралтыг бууруулах",
+    "hanja": "減壓하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감액",
+    "translation": "хэмжээг багасгах, хасах",
+    "hanja": "減額",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "감액되다",
+    "translation": "мөнгө хасагдах",
+    "hanja": "減額되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감액하다",
+    "translation": "мөнгөн дүнг бууруулах, хэмжээг багасгах",
+    "hanja": "減額하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감어",
+    "translation": "ороох, угаах (үс)",
+    "hanja": "NaN",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "감언이설",
+    "translation": "хоосон амлалт, худал үг",
+    "hanja": "甘言利說",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감염",
+    "translation": "халдвар",
+    "hanja": "感染",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감염되다",
+    "translation": "халдвар авах",
+    "hanja": "感染되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감염자",
+    "translation": "халдвар авсан хүн",
+    "hanja": "感染者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감영",
+    "translation": "халдвар авах",
+    "hanja": "感染",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "감옥",
+    "translation": "шорон",
+    "hanja": "監獄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감옥살이",
+    "translation": "шоронд хоригдох",
+    "hanja": "監獄-",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "감옥살이하다",
+    "translation": "шоронд суух",
+    "hanja": "監獄살이하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감옥소",
+    "translation": "шорон",
+    "hanja": "監獄所",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "감원",
+    "translation": "Ажилтныг цомхотгох",
+    "hanja": "減員",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "감원하다",
+    "translation": "орон тоо цомхотгох",
+    "hanja": "減員하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "감읍하다",
+    "translation": "уйлах, хөдлөх",
+    "hanja": "感泣하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감응",
+    "translation": "сэтгэлд нөлөөлөх",
+    "hanja": "感應",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감응하다",
+    "translation": "мэдрэх, нөлөөлөх",
+    "hanja": "感應하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "감자",
+    "translation": "төмс",
+    "hanja": "감자",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "감자탕",
+    "translation": "гамзатан (төмстэй гахайн нурууны шөл)",
+    "hanja": "감자湯",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "감자튀김",
+    "translation": "төмсний хачир",
+    "hanja": "감자튀김",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "감자하다",
+    "translation": "татаж авах, бууруулах",
+    "hanja": "減資하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감잣국",
+    "translation": "төмсний шөл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "감전",
+    "translation": "Цахилгаанд цохиулах",
+    "hanja": "感電",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감전되다",
+    "translation": "цахилгаанд цохиулах",
+    "hanja": "感電되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감전사하다",
+    "translation": "цахилгаанд цохиулан нас барах",
+    "hanja": "感電死하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감점",
+    "translation": "оноо хасах",
+    "hanja": "減點",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감점되다",
+    "translation": "оноо хасагдах",
+    "hanja": "減點되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감점하다",
+    "translation": "оноо хасах",
+    "hanja": "減點하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감정",
+    "translation": "сэтгэл хөдлөл",
+    "hanja": "感情",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감정가",
+    "translation": "үнэлгээчин",
+    "hanja": "鑑定家",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감정적",
+    "translation": "сэтгэл хөдлөлтэй",
+    "hanja": "感情的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감정하다",
+    "translation": "Үнэлэх",
+    "hanja": "鑑定하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "감주",
+    "translation": "шар айраг",
+    "hanja": "甘酒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감지덕지",
+    "translation": "Маш их талархах",
+    "hanja": "감지德지",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감지덕지하다",
+    "translation": "их баяртай байх",
+    "hanja": "感激德지하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "감지되다",
+    "translation": "мэдрэгдэх",
+    "hanja": "感知되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감지하다",
+    "translation": "Мэдрэх",
+    "hanja": "感知하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감질나다",
+    "translation": "тааламжгүй, дутуу санагдах",
+    "hanja": "감질나다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감쪽같다",
+    "translation": "үнэхээр сайн, төгс",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감쪽같이",
+    "translation": "мэдэгдэхгүйгээр",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감찰",
+    "translation": "Хяналт шалгалт",
+    "hanja": "監察",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감찰하다",
+    "translation": "хянах",
+    "hanja": "監察하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감천",
+    "translation": "Амтат ус",
+    "hanja": "甘泉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감청",
+    "translation": "хөх өнгө",
+    "hanja": "紺靑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감청하다",
+    "translation": "Тагнаж чагнах",
+    "hanja": "監聽하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감초",
+    "translation": "чимэг, чимэглэл",
+    "hanja": "甘草",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감촉",
+    "translation": "хүрэх мэдрэмж, материал",
+    "hanja": "感觸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감추다",
+    "translation": "нуух",
+    "hanja": "감추다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "감추이다",
+    "translation": "нуугдах, далдагдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감축",
+    "translation": "Багасгах",
+    "hanja": "減縮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "감축되다",
+    "translation": "буурах, багасах",
+    "hanja": "減縮되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "감축하다",
+    "translation": "Багасгах",
+    "hanja": "減縮하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감치다",
+    "translation": "нухацтай үзэх",
+    "hanja": "감치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감칠맛",
+    "translation": "Амттай",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "감탄",
+    "translation": "бишрэх",
+    "hanja": "感歎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감탄고토",
+    "translation": "Амттайг нь идэж, гашуун болохыг нь хаях (ялгаж салгах)",
+    "hanja": "甘呑苦吐",
+    "pos": "Idiom",
+    "cefr": "C2"
+  },
+  {
+    "word": "감탄사",
+    "translation": "айхас үг",
+    "hanja": "感嘆詞",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "감탄스럽다",
+    "translation": "гайхамшигтай, сэтгэл хөдөлгөсөн",
+    "hanja": "感嘆스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감탄하다",
+    "translation": "Бишрэх",
+    "hanja": "感歎하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감태",
+    "translation": "Далайн ургамал (Gampi)",
+    "hanja": "甘苔",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "감퇴",
+    "translation": "Буурах",
+    "hanja": "減退",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감퇴되다",
+    "translation": "буурах, сулрах",
+    "hanja": "減退되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감퇴하다",
+    "translation": "буурах, сулрах",
+    "hanja": "減退하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감투",
+    "translation": "Малын малгай",
+    "hanja": "感套",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "감튀",
+    "translation": "Шарсан төмс",
+    "hanja": "감튀",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "감포",
+    "translation": "Кампо",
+    "hanja": "甘浦",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감하다",
+    "translation": "хасах, багасгах",
+    "hanja": "減하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "감행",
+    "translation": "зориглон үйлдэх",
+    "hanja": "敢行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감행되다",
+    "translation": "зоригтойгоор хийгдэх",
+    "hanja": "敢行되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감행하다",
+    "translation": "зориглон үйлдэх, зоримог хийх",
+    "hanja": "敢行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감형",
+    "translation": "ял хөнгөрүүлэх",
+    "hanja": "減刑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감형되다",
+    "translation": "Ял хөнгөрөх",
+    "hanja": "減刑되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감형하다",
+    "translation": "ял хөнгөрүүлэх",
+    "hanja": "減刑하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "감호",
+    "translation": "халамж",
+    "hanja": "監護",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "감화",
+    "translation": "нөлөөлөл",
+    "hanja": "感化",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "감화되다",
+    "translation": "сэтгэлд нөлөөлөх, ухаарагдах",
+    "hanja": "感化되다",
+    "pos": "v",
+    "cefr": "C1"
+  },
+  {
+    "word": "감회",
+    "translation": "Сэтгэл хөдлөл, мэдрэмж",
+    "hanja": "感懷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감흥",
+    "translation": "сэтгэлийн хөдөлгөөн",
+    "hanja": "感興",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감히",
+    "translation": "зориглон",
+    "hanja": "敢-",
+    "pos": "부사",
+    "cefr": "B2"
+  }
+]

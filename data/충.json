@@ -1,0 +1,534 @@
+[
+  {
+    "word": "충",
+    "translation": "Шавж",
+    "hanja": "蟲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충격",
+    "translation": "цохилт, цочрол",
+    "hanja": "衝擊",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "충격적",
+    "translation": "Цочирдом",
+    "hanja": "衝擊的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "충격하다",
+    "translation": "цохилт өгөх, нөлөөлөх",
+    "hanja": "衝擊하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충견",
+    "translation": "үнэнч нохой",
+    "hanja": "忠犬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충고",
+    "translation": "зөвлөгөө",
+    "hanja": "忠告",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "충고하다",
+    "translation": "зөвлөх",
+    "hanja": "忠告하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "충남",
+    "translation": "Чүннам (Чунчоннамду)",
+    "hanja": "忠南",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "충당",
+    "translation": "хангалттай байх, нөхөх",
+    "hanja": "充當",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충당되다",
+    "translation": "нөхөх",
+    "hanja": "充當되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충당하다",
+    "translation": "Нөхөх",
+    "hanja": "充當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충돌",
+    "translation": "мөргөлдөх",
+    "hanja": "衝突",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "충돌되다",
+    "translation": "мөргөлдөх",
+    "hanja": "衝突되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "충돌하다",
+    "translation": "мөргөлдөх",
+    "hanja": "衝突하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충동",
+    "translation": "Сэтгэл хөдлөл, уриа",
+    "hanja": "衝動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충동구매",
+    "translation": "Сэтгэлийн хөдлөлөөр худалдан авах",
+    "hanja": "衝動購買",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "충동적",
+    "translation": "сэтгэлийн хөдөлгөөнөөр",
+    "hanja": "衝動的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "충동질하다",
+    "translation": "үймүүлэх",
+    "hanja": "衝動質하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "충동하다",
+    "translation": "түлхэц өгөх, өдөөх",
+    "hanja": "衝動─",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충렬",
+    "translation": "үнэнч баатар",
+    "hanja": "忠烈",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "충만",
+    "translation": "дүүрэн",
+    "hanja": "充滿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충만하다",
+    "translation": "дүүрэн байх",
+    "hanja": "充滿하다",
+    "pos": "ADJ",
+    "cefr": "C1"
+  },
+  {
+    "word": "충만히",
+    "translation": "бялхаж",
+    "hanja": "充滿히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충목왕",
+    "translation": "Чүнмуг ван",
+    "hanja": "忠穆王",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "충무",
+    "translation": "Чунму (газрын нэр)",
+    "hanja": "忠武",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "충복",
+    "translation": "үнэнч албагч",
+    "hanja": "忠僕",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "충북",
+    "translation": "Чүнбүг",
+    "hanja": "忠北",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "충분",
+    "translation": "Хангалттай",
+    "hanja": "充分",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "충분조건",
+    "translation": "хангалттай нөхцөл",
+    "hanja": "充分條件",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충분하다",
+    "translation": "хангалттай",
+    "hanja": "充分하다",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "충분히",
+    "translation": "хангалттай",
+    "hanja": "充分히",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "충성",
+    "translation": "үнэнч",
+    "hanja": "忠誠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충성되다",
+    "translation": "үнэнч байх",
+    "hanja": "忠誠되다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "충성스럽다",
+    "translation": "үнэнч",
+    "hanja": "忠誠스럽다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "충성심",
+    "translation": "үнэнч байдал",
+    "hanja": "忠誠心",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "충성하다",
+    "translation": "Үнэнч байх",
+    "hanja": "忠誠하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충수",
+    "translation": "мухар олгой",
+    "hanja": "蟲垂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충숙왕",
+    "translation": "Чүнсүг ван",
+    "hanja": "忠肅王",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "충신",
+    "translation": "үнэнч албат",
+    "hanja": "忠臣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충실",
+    "translation": "Үнэнч, үнэнч байдал",
+    "hanja": "忠實",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충실하다",
+    "translation": "үнэнч байх",
+    "hanja": "充實하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충실히",
+    "translation": "Үнэнчээр, чин сэтгэлээсээ",
+    "hanja": "忠實히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충심",
+    "translation": "үнэнч сэтгэл",
+    "hanja": "忠心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충언",
+    "translation": "зөвлөгөө, ухаалаг үг",
+    "hanja": "忠言",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충원",
+    "translation": "нэхэл",
+    "hanja": "充員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충원되다",
+    "translation": "бөглөх, дүүргэх",
+    "hanja": "充員-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충원하다",
+    "translation": "буцаан нөхөх",
+    "hanja": "充員하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충의",
+    "translation": "Үнэнч, үнэнч шударга",
+    "hanja": "忠義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충재",
+    "translation": "нөхөн сэргээх",
+    "hanja": "充材",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "충전",
+    "translation": "цэнэглэх",
+    "hanja": "充電",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "충전기",
+    "translation": "цэнэглэгч",
+    "hanja": "充電器",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "충전되다",
+    "translation": "Цэнэглэгдэх",
+    "hanja": "充電되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "충전제",
+    "translation": "Дүүргэгч",
+    "hanja": "充塡劑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충전하다",
+    "translation": "цэнэглэх",
+    "hanja": "充電하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "충절",
+    "translation": "үнэнч байдал, үнэнч шударга",
+    "hanja": "忠節",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충정",
+    "translation": "үнэнч шударга сэтгэл",
+    "hanja": "忠情",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충족",
+    "translation": "хангалт",
+    "hanja": "充足",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "충족감",
+    "translation": "сэтгэл ханамж",
+    "hanja": "充足感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충족되다",
+    "translation": "хангагдах",
+    "hanja": "充足되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충족시키다",
+    "translation": "хангах",
+    "hanja": "充足시키다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "충족하다",
+    "translation": "Хангах",
+    "hanja": "充足하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충주",
+    "translation": "Чүнжү (хот)",
+    "hanja": "忠州",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "충직하다",
+    "translation": "Үнэнч",
+    "hanja": "忠直하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충천",
+    "translation": "тэнгэрт хүрэх",
+    "hanja": "衝天",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "충천하다",
+    "translation": "тэнгэрт тулгуурлах",
+    "hanja": "沖天하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "충청",
+    "translation": "Чоончон (аймаг)",
+    "hanja": "忠淸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충청남도",
+    "translation": "Чунгчонгнам-ду (аймаг)",
+    "hanja": "忠淸南道",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "충청도",
+    "translation": "Чунчон муж",
+    "hanja": "忠淸道",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "충청북도",
+    "translation": "Чунгчонбуг аймаг",
+    "hanja": "충청북도(忠淸北道)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충치",
+    "translation": "шүдний цоорол",
+    "hanja": "蟲齒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "충칭",
+    "translation": "Чунцин (хот)",
+    "hanja": "重慶",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "충혈",
+    "translation": "цус хурсан",
+    "hanja": "充血",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "충혈되다",
+    "translation": "цус буух",
+    "hanja": "充血되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충혜왕",
+    "translation": "Чүнхэван (солонгосын ван)",
+    "hanja": "忠惠王",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "충화",
+    "translation": "Цахилдаг",
+    "hanja": "蟲華",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "충효",
+    "translation": "үнэнч шударга, үнэнч байдал",
+    "hanja": "忠孝",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

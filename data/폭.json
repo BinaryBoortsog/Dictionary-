@@ -1,0 +1,576 @@
+[
+  {
+    "word": "폭",
+    "translation": "өргөн",
+    "hanja": "幅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폭거",
+    "translation": "хүчирхийлэл, харгислал",
+    "hanja": "暴擧",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭격",
+    "translation": "Бөмбөгдөлт",
+    "hanja": "爆擊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭격기",
+    "translation": "Бөмбөгдөгч онгоц",
+    "hanja": "爆擊機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭격하다",
+    "translation": "Бөмбөгдөх",
+    "hanja": "爆撃하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭군",
+    "translation": "Харгис хаан",
+    "hanja": "暴君",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭넓다",
+    "translation": "өргөн хүрээтэй",
+    "hanja": "幅넓다",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭닥하다",
+    "translation": "ая тухтай, дулаахан",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "폭도",
+    "translation": "Босогч",
+    "hanja": "暴徒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭동",
+    "translation": "үймээн",
+    "hanja": "暴動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭등",
+    "translation": "гэнэтийн өсөлт",
+    "hanja": "暴騰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭등하다",
+    "translation": "Гэнэт өсөх, тэсрэлттэй өсөх",
+    "hanja": "暴騰하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭락",
+    "translation": "үнэ огцом унах",
+    "hanja": "暴落",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭락하다",
+    "translation": "Огцом унах",
+    "hanja": "暴落하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭력",
+    "translation": "хүчирхийлэл",
+    "hanja": "暴力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭력단",
+    "translation": "хүчирхийллийн бүлэглэл, дээрэмчид",
+    "hanja": "暴力團",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭력배",
+    "translation": "Дээрэмчин",
+    "hanja": "暴力輩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭력범",
+    "translation": "хүчирхийлэгч",
+    "hanja": "暴力犯",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭력적",
+    "translation": "хүчирхийлэлтэй",
+    "hanja": "暴力적",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폭렬",
+    "translation": "дэлбэрэлт",
+    "hanja": "爆裂",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "폭로",
+    "translation": "илчлэх",
+    "hanja": "暴露",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭로되다",
+    "translation": "Илчлэгдэх",
+    "hanja": "暴露되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭로하다",
+    "translation": "Ил болгох",
+    "hanja": "暴露하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭뢰",
+    "translation": "гүний тэсрэх бөмбөг",
+    "hanja": "爆雷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭리",
+    "translation": "хэт их ашиг",
+    "hanja": "暴利",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭망",
+    "translation": "бүрэн сүйрэл",
+    "hanja": "暴亡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭발",
+    "translation": "тэсрэлт",
+    "hanja": "爆發",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭발되다",
+    "translation": "дэлбэрэх",
+    "hanja": "爆發되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭발력",
+    "translation": "дэлбэрэх хүч, тэсрэх чадвар",
+    "hanja": "爆發力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭발물",
+    "translation": "Тэсрэх бодис",
+    "hanja": "爆發物",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "폭발시키다",
+    "translation": "дэлбэлэх",
+    "hanja": "爆發시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭발음",
+    "translation": "дэлбэрэлтийн чимээ",
+    "hanja": "爆發音",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "폭발적",
+    "translation": "тэсрэлттэй",
+    "hanja": "爆發的",
+    "pos": "ADJ",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭발하다",
+    "translation": "дэлбэрэх",
+    "hanja": "爆發하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭사",
+    "translation": "Дэлбэрч үхэх",
+    "hanja": "爆死",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭사하다",
+    "translation": "тэсрэх",
+    "hanja": "爆死하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭삭",
+    "translation": "эвдэрсэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭설",
+    "translation": "их цас",
+    "hanja": "暴雪",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "폭소",
+    "translation": "бяцхан инээд",
+    "hanja": "爆笑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭소하다",
+    "translation": "хөхрөх, чанга инээх",
+    "hanja": "爆笑하다",
+    "pos": "VERB",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭스",
+    "translation": "Фокс",
+    "hanja": null,
+    "pos": "нэр",
+    "cefr": "C2"
+  },
+  {
+    "word": "폭시",
+    "translation": "үнэгэн (хүүхдийн тоглоом)",
+    "hanja": "Foxy",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "폭식",
+    "translation": "хэт их идэх",
+    "hanja": "暴食",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭식하다",
+    "translation": "их идэх",
+    "hanja": "폭식하다(暴食하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭신폭신",
+    "translation": "Зөөлөн, зөөлөнхөн",
+    "hanja": "폭신폭신",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭신폭신하다",
+    "translation": "зөөлөн, сэвсгэр",
+    "hanja": "폭신폭신하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭신하다",
+    "translation": "зөөлөн, хөвсгөр",
+    "hanja": "폭신하다",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "폭압",
+    "translation": "хүчирхийлэл, харгислал",
+    "hanja": "暴壓",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭약",
+    "translation": "тэсрэх бодис",
+    "hanja": "爆藥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭언",
+    "translation": "хатуу үг",
+    "hanja": "暴言",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭언하다",
+    "translation": "доромжилсон үг хэлэх",
+    "hanja": "暴言하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭염",
+    "translation": "халуун давлагаа",
+    "hanja": "暴炎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭우",
+    "translation": "ширүүн бороо",
+    "hanja": "暴雨",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭음",
+    "translation": "их уух",
+    "hanja": "暴飮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭음하다",
+    "translation": "их хэмжээгээр уух",
+    "hanja": "暴飮하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭정",
+    "translation": "дарангуйлал",
+    "hanja": "暴政",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭주",
+    "translation": "их хэмжээгээр уух",
+    "hanja": "暴走",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭주하다",
+    "translation": "үймүүлэх",
+    "hanja": "暴走하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭죽",
+    "translation": "салют",
+    "hanja": "爆竹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폭죽놀이",
+    "translation": "салют буудуулах",
+    "hanja": "爆竹놀이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "폭증",
+    "translation": "гэнэтийн өсөлт",
+    "hanja": "暴增",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭증하다",
+    "translation": "хурдацтай өсөх",
+    "hanja": "暴增하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭침",
+    "translation": "бөмбөгдөлтөөр живүүлэх",
+    "hanja": "爆沈",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "폭탄",
+    "translation": "бөмбөг",
+    "hanja": "爆彈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폭탄먼지벌레",
+    "translation": "бөмбөгний цох",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭탄선언",
+    "translation": "тэсрэх бөмбөгийн мэдэгдэл, гэнэтийн мэдэгдэл",
+    "hanja": "爆彈宣言",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭탄주",
+    "translation": "холимог архи",
+    "hanja": "爆彈酒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭투",
+    "translation": "шидэх",
+    "hanja": "暴投",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭파",
+    "translation": "Дэлбэлэх",
+    "hanja": "爆破",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭파되다",
+    "translation": "дэлбэрэх",
+    "hanja": "爆破되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭파시키다",
+    "translation": "Дэлбэлэх",
+    "hanja": "爆破시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭파하다",
+    "translation": "Дэлбэлэх",
+    "hanja": "爆破하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭팔",
+    "translation": "Дэлбэрэлт; буудалт",
+    "hanja": "爆發",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폭포",
+    "translation": "хүрхрээ",
+    "hanja": "瀑布",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "폭포수",
+    "translation": "Хүрхрээний ус",
+    "hanja": "瀑布水",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "폭폭",
+    "translation": "чанаж боловсруулах",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭풍",
+    "translation": "Шуурга",
+    "hanja": "暴風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폭풍우",
+    "translation": "Шуурга",
+    "hanja": "暴風雨",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭행",
+    "translation": "халдлага",
+    "hanja": "暴行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭행당하다",
+    "translation": "Хүчирхийлэлд өртөх",
+    "hanja": "暴行當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭행죄",
+    "translation": "Хүчирхийллийн гэмт хэрэг, зодох",
+    "hanja": "暴行罪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭행하다",
+    "translation": "хүчирхийлэх",
+    "hanja": "暴行하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "word": "뒤",
+    "translation": "ард",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "뒤꼍",
+    "translation": "арын хашаа",
+    "hanja": "뒤꼍",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤꽁무니",
+    "translation": "сүүл, хойно",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤꿈치",
+    "translation": "Өсгий",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "뒤끝",
+    "translation": "дараагийн үр дагавар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒤낭",
+    "translation": "Дюнан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "뒤늦다",
+    "translation": "хоцрох",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤다",
+    "translation": "ард",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "뒤덮다",
+    "translation": "Хучих",
+    "hanja": "뒤덮다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤덮이다",
+    "translation": "Хучигдсан",
+    "hanja": "뒤덮이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤돌다",
+    "translation": "буцаж эргэх",
+    "hanja": "뒤돌다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "뒤돌아서다",
+    "translation": "эргэж харах, буцаж харах",
+    "hanja": "뒤돌아서다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "뒤따르다",
+    "translation": "Дагах",
+    "hanja": "뒤따르다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤뚱",
+    "translation": "галбиргүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤뚱거리다",
+    "translation": "Тэвчинхээх",
+    "hanja": "뒤뚱거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤뚱대다",
+    "translation": "ганхах, нахиганахах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤뚱뒤뚱",
+    "translation": "түжигнэх",
+    "hanja": "―",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤뚱뒤뚱하다",
+    "translation": "эгцдэх",
+    "hanja": "뒤뚱뒤뚱하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤뜰",
+    "translation": "арын хашаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "뒤로하다",
+    "translation": "Орхих, хойш тавих",
+    "hanja": "뒤로하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤룩거리다",
+    "translation": "тарган харагдах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒤룩뒤룩",
+    "translation": "тарган",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤룩뒤룩하다",
+    "translation": "тарган",
+    "hanja": "뒤룩뒤룩하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤바꾸다",
+    "translation": "Солих",
+    "hanja": "뒤바꾸다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤바뀌다",
+    "translation": "Солигдох, орвонгоороо эргэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒤범벅",
+    "translation": "холимог",
+    "hanja": "뒤범벅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤범벅되다",
+    "translation": "Холилдох",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤보다",
+    "translation": "арын ажлыг харах, баах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "뒤샹",
+    "translation": "Дюшан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒤서다",
+    "translation": "хоцрох",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤섞다",
+    "translation": "холих",
+    "hanja": "뒤섞다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤섞이다",
+    "translation": "холилдох",
+    "hanja": "뒤섞이다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤셀도르프",
+    "translation": "Дюссельдорф",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤숭숭하다",
+    "translation": "будлиантай, үймээн самуунтай байх",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒤스부르크",
+    "translation": "Дюссельдорф (Германы хот, Дьюсбург)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒤안길",
+    "translation": "урд зам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "뒤얽히다",
+    "translation": "орооцолдох",
+    "hanja": "뒤얽히다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤엉키다",
+    "translation": "хоорондоо орооцолдох",
+    "hanja": "뒤엉키다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤엎다",
+    "translation": "Эргүүлэх, унагаах",
+    "hanja": "뒤엎다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤엣것",
+    "translation": "Дараагийн зүйл",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤영벌",
+    "translation": "зөгий, хөрвөөх зөгий",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒤웅박",
+    "translation": "хатаасан хулуу",
+    "hanja": "뒤웅박",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤잇다",
+    "translation": "араас нь залгамжлах",
+    "hanja": "뒤잇다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤적거리다",
+    "translation": "Ухах, онгичих",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤적뒤적",
+    "translation": "ухах",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤적뒤적하다",
+    "translation": "онгичих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤적이다",
+    "translation": "Ухах",
+    "hanja": "뒤적이다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤주",
+    "translation": "цар хоолны сав",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤죽박죽",
+    "translation": "эмх замбараагүй",
+    "hanja": "뒤죽박죽",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤죽박죽되다",
+    "translation": "эмх замбараагүй болох",
+    "hanja": "뒤죽박죽되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤지다",
+    "translation": "эрэх, хоцрох",
+    "hanja": "뒤지다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤집",
+    "translation": "хөмрөх",
+    "hanja": "뒤집",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤집개",
+    "translation": "эргүүлэгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤집다",
+    "translation": "Эргүүлэх",
+    "hanja": "뒤집다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤집어쓰다",
+    "translation": "Өмсөх, хуулах (бурууг)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤집어씌우다",
+    "translation": "буруутгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒤집어엎다",
+    "translation": "онхолдуулах, эргүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤집히다",
+    "translation": "хөмрөх",
+    "hanja": "None",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤쪽",
+    "translation": "Арын тал",
+    "hanja": "뒤쪽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "뒤쫓다",
+    "translation": "араас нь хөөх",
+    "hanja": "뒤쫓다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤처리",
+    "translation": "арын ажил",
+    "hanja": "뒤처리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤처리하다",
+    "translation": "ар талыг нь цэгцлэх",
+    "hanja": "뒤處理하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤처지다",
+    "translation": "хоцрох",
+    "hanja": "null",
+    "pos": "ү.ү.",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤척이다",
+    "translation": "эргэлдэх, хуйхрах",
+    "hanja": "뒤척이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤축",
+    "translation": "өрөөсөн өсгий, арын хэсэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤치다",
+    "translation": "араас дагах",
+    "hanja": "뒤치다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤치다꺼리",
+    "translation": "араас нь цэвэрлэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒤치다꺼리하다",
+    "translation": "үлдсэн ажлыг хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒤치닥거리",
+    "translation": "хог хаягдал, үл тоомсорлол",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤탈",
+    "translation": "Дараагийн асуудал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤통수",
+    "translation": "дагз",
+    "hanja": "뒤통수",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤통수치다",
+    "translation": "ар нуруугаар цохих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤트임",
+    "translation": "нүдний булан ургуулах мэс засал",
+    "hanja": "—",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒤틀다",
+    "translation": "мушгих, эргүүлэх",
+    "hanja": "뒤틀다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤틀리다",
+    "translation": "Мушгирах, гажих, сарвуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤틀림",
+    "translation": "мурийлт, гуйвуулга",
+    "hanja": "뒤틀림",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤판",
+    "translation": "арын самбар",
+    "hanja": "뒤판",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "뒤팽",
+    "translation": "Дюпен",
+    "hanja": "뒤팽",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "뒤편",
+    "translation": "Арын тал",
+    "hanja": "뒤便",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "뒤표지",
+    "translation": "арын бүрээс, хавтас",
+    "hanja": "뒤表紙",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "뒤풀이",
+    "translation": "Баярын дараах үдэшлэг",
+    "hanja": "뒤풀이",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "뒤풀이하다",
+    "translation": "дараагийн баярыг хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒤흔들다",
+    "translation": "донсолгох, сэгсрэх",
+    "hanja": "뒤흔들다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "뒤흔들리다",
+    "translation": "хөдөлгөөн орох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

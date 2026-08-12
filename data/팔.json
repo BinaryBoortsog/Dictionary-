@@ -1,0 +1,422 @@
+[
+  {
+    "word": "팔",
+    "translation": "гар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "팔가",
+    "translation": "найман гэр бүл",
+    "hanja": "八家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔각",
+    "translation": "найман тал",
+    "hanja": "八角",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔각정",
+    "translation": "найман талт сүм",
+    "hanja": "八角亭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔각형",
+    "translation": "найман өнцөгт",
+    "hanja": "八角形",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔걸이",
+    "translation": "тохойвч",
+    "hanja": "팔걸이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "팔계",
+    "translation": "найман хориг",
+    "hanja": "八戒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "팔관회",
+    "translation": "Пальгванхве /шашны баяр/",
+    "hanja": "八關會",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔꿈치",
+    "translation": "тохой",
+    "hanja": "팔꿈치",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "팔다",
+    "translation": "зарах",
+    "hanja": "팔다",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "팔다리",
+    "translation": "Гар хөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "팔당",
+    "translation": "Палдан",
+    "hanja": "八堂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔도강산",
+    "translation": "найман муж улсын нутаг дэвсгэр",
+    "hanja": "八道江山",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔딱",
+    "translation": "цохилох чимээ",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "null"
+  },
+  {
+    "word": "팔딱거리다",
+    "translation": "лугших, цохилох",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔딱팔딱",
+    "translation": "Түргэн түргэн цохилох, үсчих",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔뚝",
+    "translation": "бугуй",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔라",
+    "translation": "Пала",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "팔라듐",
+    "translation": "Паллади (химийн элемент)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔라스",
+    "translation": "궁전",
+    "hanja": "팔라스",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔라우",
+    "translation": "Палау (улс)",
+    "hanja": "Palau",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔라초",
+    "translation": "Палаццо",
+    "hanja": "팔라초",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔라펠",
+    "translation": "фалафел (хоол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔락",
+    "translation": "дэвслэх",
+    "hanja": "팔락",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔락거리다",
+    "translation": "дэрвэх (Үйл үг)",
+    "hanja": "N/A",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔락팔락",
+    "translation": "дэвслэх",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔랑",
+    "translation": "сэвсгэр, намирах чимээ",
+    "hanja": "팔랑",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔랑거리다",
+    "translation": "Хөвөн хийсэх",
+    "hanja": "팔랑거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔랑팔랑",
+    "translation": "салхинд хийсэх чимээ",
+    "hanja": "팔랑팔랑",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔랑팔랑하다",
+    "translation": "дэвхцэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔랑하다",
+    "translation": "салхинд хийсэх",
+    "hanja": "팔랑하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔레르모",
+    "translation": "Палермо (Италийн хот)",
+    "hanja": "---",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔레비",
+    "translation": "Пахлави (ургийн овог)",
+    "hanja": "팔레비",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔레스타인",
+    "translation": "Палестин",
+    "hanja": "팔레스타인",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "팔레스티나",
+    "translation": "Палестин",
+    "hanja": "팔레스티나",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔레트",
+    "translation": "палетт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔렘방",
+    "translation": "Палембанг (Индонезийн хот)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔로",
+    "translation": "дагах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔로우",
+    "translation": "дагах",
+    "hanja": "follow",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "팔로워",
+    "translation": "дагагч",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "팔만대장경",
+    "translation": "Палман Дэжахён",
+    "hanja": "八萬大藏經",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "팔방미인",
+    "translation": "олон талын авьяастай хүн",
+    "hanja": "八方美人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔베개",
+    "translation": "тэвэрч унтах",
+    "hanja": "팔베개",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔베개하다",
+    "translation": "Гараа дэрлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔보채",
+    "translation": "Палбоче (Хятад хоол)",
+    "hanja": "八寶菜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔봉",
+    "translation": "Найман оргил",
+    "hanja": "八峯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "팔불출",
+    "translation": "Тэнэг, мунхаг хүн",
+    "hanja": "八不出",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "팔색조",
+    "translation": "нарийн шувуу",
+    "hanja": "八色鳥",
+    "pos": "нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "팔소매",
+    "translation": "Ханцуй",
+    "hanja": "팔소매",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "팔씨름",
+    "translation": "Гар барилдах",
+    "hanja": "팔씨름",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "팔씨름하다",
+    "translation": "Гар барилдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "팔아넘기다",
+    "translation": "зарж борлуулах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔아먹다",
+    "translation": "Зарж дуусгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔자걸음",
+    "translation": "галуун алхаа",
+    "hanja": "八字걸음",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔작지붕",
+    "translation": "найман талт дээвэр",
+    "hanja": "八作지붕",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "팔짝팔짝",
+    "translation": "дэвхцэх, үсрэх",
+    "hanja": "팔짝팔짝",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔짱",
+    "translation": "гар мушгих",
+    "hanja": "팔짱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "팔찌",
+    "translation": "бугуйвч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "팔팔하다",
+    "translation": "амьд сэрүүн",
+    "hanja": "팔팔하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팔푼이",
+    "translation": "тэнэг хүн",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

@@ -1,0 +1,3033 @@
+[
+  {
+    "word": "무",
+    "translation": "юу ч биш",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무가",
+    "translation": "үнэгүй; утгагүй зүйл",
+    "hanja": "無價",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "무가당",
+    "translation": "чихэргүй",
+    "hanja": "無加糖",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "무가치하다",
+    "translation": "үнэ цэнэгүй",
+    "hanja": "無價値하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무간도",
+    "translation": "Муганьду",
+    "hanja": "無間道",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무간지옥",
+    "translation": "муханди гүн там",
+    "hanja": "無間地獄",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무감각",
+    "translation": "мэдээ алдах",
+    "hanja": "無感覺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무감각하다",
+    "translation": "мэдээ алдах",
+    "hanja": "無感覺하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무감동하다",
+    "translation": "сэтгэлгүй байх",
+    "hanja": "無感動하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무감정하다",
+    "translation": "сэтгэлгүй байх",
+    "hanja": "無感情하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무감하다",
+    "translation": "мэдрэмжгүй",
+    "hanja": "無感-",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무개",
+    "translation": "дээвэргүй",
+    "hanja": "無蓋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무겁",
+    "translation": "дутуу төрсөн хүүхэд",
+    "hanja": "무겁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무겁다",
+    "translation": "Хүнд",
+    "hanja": "무겁다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "무게",
+    "translation": "жин, хүндийн жин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "무결",
+    "translation": "Төгс төгөлдөр",
+    "hanja": "無缺",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무결하다",
+    "translation": "гэмгүй, өөгүй",
+    "hanja": "無缺하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무경",
+    "translation": "тариалангийн талбай",
+    "hanja": "亩經",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무계획",
+    "translation": "төлөвлөгөөгүй",
+    "hanja": "無計劃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무고",
+    "translation": "хуурамч мэдээлэл",
+    "hanja": "誣告",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무고죄",
+    "translation": "худал мэдүүлгийн хэрэг",
+    "hanja": "誣告罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무고하다",
+    "translation": "гэм буруугүй",
+    "hanja": "無辜하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "무곡",
+    "translation": "бүжиггүй",
+    "hanja": "無曲",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "무공",
+    "translation": "баатарлаг үйлс, байлдааны гавьяа",
+    "hanja": "武功",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무과",
+    "translation": "цэргийн шалгалт (эртний)",
+    "hanja": "武科",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무관",
+    "translation": "хамааралгүй",
+    "hanja": "無關",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무관심하다",
+    "translation": "Үл тоомсорлох",
+    "hanja": "無關心하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "무관하다",
+    "translation": "хамааралгүй",
+    "hanja": "無關하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "무광",
+    "translation": "гялгар биш, царцсан",
+    "hanja": "無光",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무교",
+    "translation": "Шашин шүтлэггүй",
+    "hanja": "無敎",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무구",
+    "translation": "гэм буруугүй, гэмгүй",
+    "hanja": "無垢",
+    "pos": "т.ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "무국적",
+    "translation": "Харьяалалгүй",
+    "hanja": "無國籍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무궁",
+    "translation": "төгсгөлгүй, хязгааргүй",
+    "hanja": "無窮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무궁무진",
+    "translation": "хязгааргүй",
+    "hanja": "無窮無盡",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무궁무진하다",
+    "translation": "Хязгааргүй, төгсгөлгүй",
+    "hanja": "無窮無盡하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무궁하다",
+    "translation": "Хязгааргүй",
+    "hanja": "無窮하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무궁화",
+    "translation": "мугунхва (Солонгосын үндэсний цэцэг)",
+    "hanja": "無窮花",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "무균",
+    "translation": "асептик",
+    "hanja": "無菌",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무그",
+    "translation": "Моог",
+    "hanja": null,
+    "pos": "인명",
+    "cefr": "C2"
+  },
+  {
+    "word": "무극",
+    "translation": "туйлгүй",
+    "hanja": "無極",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무근",
+    "translation": "үндэсгүй, баталгаагүй",
+    "hanja": "無根",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무급",
+    "translation": "Цалингүй",
+    "hanja": "無給",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "무기",
+    "translation": "зэвсэг",
+    "hanja": "武器",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "무기고",
+    "translation": "Зэвсгийн агуулах",
+    "hanja": "武器庫",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "무기력",
+    "translation": "идэвхгүй байдал, сул дорой",
+    "hanja": "無氣力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무기력증",
+    "translation": "сул дорой байдал",
+    "hanja": "無氣力症",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무기력하다",
+    "translation": "сул дорой, хүчгүй",
+    "hanja": "無氣力하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무기명",
+    "translation": "нэр нь үл мэдэгдэх",
+    "hanja": "無記名",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무기물",
+    "translation": "органик биш бодис",
+    "hanja": "無機物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무기수",
+    "translation": "Хугацаагүй ялт,  тоогоор тасарсан",
+    "hanja": "無期囚",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무기질",
+    "translation": "органик бус бодис, ашигт малтмал",
+    "hanja": "무기질(無機質)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무기한",
+    "translation": "хугацаагүй",
+    "hanja": "無期限",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "무기형",
+    "translation": "цаазын ялгүй",
+    "hanja": "無期刑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무기화되다",
+    "translation": "Зэвсэг болгох",
+    "hanja": "武器化되다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "무기화하다",
+    "translation": "зэвсэг болгох",
+    "hanja": "武器化하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "무김치",
+    "translation": "цагаан манжингийн кимчи",
+    "hanja": "무김치",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "무꾸리",
+    "translation": "Муккури (шинэ үг)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무난하다",
+    "translation": "ойлгомжтой",
+    "hanja": "無難하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "무난히",
+    "translation": "асуудалгүй",
+    "hanja": "無難히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무남독녀",
+    "translation": "ганц охин",
+    "hanja": "無男獨女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무너",
+    "translation": "нурах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무너뜨리다",
+    "translation": "нураах",
+    "hanja": "무너뜨리-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무너트리다",
+    "translation": "нураах, сүйтгэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무녀",
+    "translation": "бөө эмэгтэй",
+    "hanja": "巫女",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "무념무상",
+    "translation": "бодолгүй, сэтгэлгүй байх",
+    "hanja": "無念無想",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무뇌아",
+    "translation": "тархигүй хүүхэд",
+    "hanja": "無腦兒",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무능",
+    "translation": "чадваргүй",
+    "hanja": "無能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무능력",
+    "translation": "Чадавхгүй, чадваргүй байдал",
+    "hanja": "無能力",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무능력자",
+    "translation": "чадваргүй хүн",
+    "hanja": "無能力者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무능력하다",
+    "translation": "чадваргүй",
+    "hanja": "無能力하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무능하다",
+    "translation": "чадваргүй, үр дүнгүй",
+    "hanja": "無能하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무늬",
+    "translation": "хээ",
+    "hanja": "무늬",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "무니",
+    "translation": "Хоггүй, утаагүй",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "무다",
+    "translation": "Юу ч үгүй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무단",
+    "translation": "зөвшөөрөлгүй",
+    "hanja": "無斷",
+    "pos": "тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "무단결근",
+    "translation": "зөвшөөрөлгүй ажил таслах",
+    "hanja": "無斷缺勤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무단결근하다",
+    "translation": "зөвшөөрөлгүй ажлаас таслах",
+    "hanja": "無斷缺勤하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무단결석하다",
+    "translation": "зөвшөөрөлгүй таслах",
+    "hanja": "無斷缺席하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무단이탈하다",
+    "translation": "дур мэдэн орхих",
+    "hanja": "無斷離脫하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무당",
+    "translation": "бөө",
+    "hanja": "巫堂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무당벌레",
+    "translation": "дундуурч хорхой",
+    "hanja": "무당벌레",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무대",
+    "translation": "тайз",
+    "hanja": "舞臺",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "무대다",
+    "translation": "мохоо, үзүүргүй",
+    "hanja": "무대다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무대뽀",
+    "translation": "харгис",
+    "hanja": "無鐵砲",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무더위",
+    "translation": "халуун, бүгчим халуун",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무덕",
+    "translation": "эрдэнэс",
+    "hanja": "武德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무던하다",
+    "translation": "хүлцэнгуй",
+    "hanja": "무던하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "무던히",
+    "translation": "зүгээр л, нилээд",
+    "hanja": "무던히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무덤",
+    "translation": "булш",
+    "hanja": "무덤",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "무덤가",
+    "translation": "оршуулгын газар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무덤덤",
+    "translation": "тоомжиргүй",
+    "hanja": "무덤덤",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무덤덤하다",
+    "translation": "хүйтэн хөндий",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무덥다",
+    "translation": "халуун чийглэг, бүгчим халуун",
+    "hanja": "無덥다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "무데뽀",
+    "translation": "хүчээр, зөрүүд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무뎅이",
+    "translation": "овоолго, бөөгнөрөл",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무도",
+    "translation": "Бүжиг",
+    "hanja": "舞蹈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무도하다",
+    "translation": "хэрцгий",
+    "hanja": "無道하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "무도회",
+    "translation": "бүжгийн үдэшлэг",
+    "hanja": "舞踏會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무독",
+    "translation": "хоргүй",
+    "hanja": "無毒",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "무동",
+    "translation": "хүүхдийн бүжиг",
+    "hanja": "舞童",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무두질하다",
+    "translation": "арьс шир боловсруулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무드",
+    "translation": "уур амьсгал",
+    "hanja": "무드",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "무등",
+    "translation": "мөрөн дээр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무디",
+    "translation": "Муди",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "무디다",
+    "translation": "Мохоо, мэдрэмжгүй",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "무디스",
+    "translation": "Мудис",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무똥",
+    "translation": "Мутон (хүний нэр)",
+    "hanja": "무똥",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무뚝뚝",
+    "translation": "хүйтэн, унжгар, бүдүүлэг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무뚝뚝하다",
+    "translation": "хүйтэн, бардам",
+    "hanja": "무뚝뚝하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무라",
+    "translation": "Мура",
+    "hanja": "무라",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "무라타",
+    "translation": "Мурата (Япон овог)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "무량",
+    "translation": "тоо томшгүй, хязгааргүй",
+    "hanja": "無量",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무량수전",
+    "translation": "Мурянсүжон сүм (Бусокса, Ёнжу)",
+    "hanja": "無量壽殿",
+    "pos": "нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "무량하다",
+    "translation": "хязгааргүй, тоо томшгүй",
+    "hanja": "無量하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무럭",
+    "translation": "хурдан өсөх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무럭무럭",
+    "translation": "хурдан хурдан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무레",
+    "translation": "хуурамч",
+    "hanja": "무레",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무력",
+    "translation": "хүч",
+    "hanja": "武力",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "무력감",
+    "translation": "хүчгүйдэл",
+    "hanja": "無力感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무력하다",
+    "translation": "хүчгүй, чадваргүй",
+    "hanja": "無力하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무력행사",
+    "translation": "хүч хэрэглэх",
+    "hanja": "武力行使",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무력화되다",
+    "translation": "хүчгүйдэх, үйлчилгээгүй болох",
+    "hanja": "無力化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무력화하다",
+    "translation": "хүчгүй болгох, саармагжуулах",
+    "hanja": "無力化하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "무렵",
+    "translation": "үе",
+    "hanja": "무렵",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "무령",
+    "translation": "цэргийн даалгавар",
+    "hanja": "武令",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "무례",
+    "translation": "бүдүүлэг",
+    "hanja": "無禮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무례하다",
+    "translation": "бүдүүлэг байх",
+    "hanja": "無禮하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무례히",
+    "translation": "бүдүүлгээр, хүндэтгэлгүйгээр",
+    "hanja": "無禮히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무로란",
+    "translation": "Муроран",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무료",
+    "translation": "үнэгүй",
+    "hanja": "無料",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "무료입장",
+    "translation": "Үнэгүй нэвтрэх",
+    "hanja": "無料入場",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "무료하다",
+    "translation": "уйтгартай байх",
+    "hanja": "無聊하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무료화하다",
+    "translation": "үнэгүй болгох",
+    "hanja": "無料化하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "무르다",
+    "translation": "буцаах",
+    "hanja": "무르다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "무르익다",
+    "translation": "гүнийн, гүнзгийрсэн",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무르팍",
+    "translation": "Өвдөг",
+    "hanja": "무르팍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무름병",
+    "translation": "зөөлөн ялзрал",
+    "hanja": "무름病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무릅",
+    "translation": "өвдөг",
+    "hanja": "무릅",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "무릅쓰다",
+    "translation": "үл хайхрах, эрсдэл үүрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무릇",
+    "translation": "ер нь, ерөнхийдөө",
+    "hanja": "무릇",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무릉",
+    "translation": "Моранг",
+    "hanja": "武陵",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "무릉도원",
+    "translation": "Буданий диваажин, үлгэрийн орон",
+    "hanja": "武陵桃源",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무릎",
+    "translation": "өвдөг",
+    "hanja": "무릎",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "무리",
+    "translation": "бүлэг",
+    "hanja": "無理",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무리수",
+    "translation": "боломжгүй алхам, хэтрүүлэг",
+    "hanja": "無理手",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무리지다",
+    "translation": "бүлэг үүсгэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무리하다",
+    "translation": "хүчлэх, хэтрүүлэх",
+    "hanja": "無理하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "무림",
+    "translation": "тулааны урлагийн ертөнц",
+    "hanja": "武林",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무마",
+    "translation": "тайвшруулах, зөөлрүүлэх",
+    "hanja": "撫摩",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무마되다",
+    "translation": "намжих, зөөлрөх",
+    "hanja": "撫摩되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무마하다",
+    "translation": "намжаах, зөөллөх, шийдэхийг оролдох",
+    "hanja": "撫摩하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무말랭이",
+    "translation": "хатаасан манжин",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "무망하다",
+    "translation": "Итгэлгүй байх",
+    "hanja": "無望하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무면허",
+    "translation": "Жолооны үнэмлэхгүй",
+    "hanja": "無免許",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무명",
+    "translation": "үл мэдэгдэх",
+    "hanja": "無名",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무명옷",
+    "translation": "хонины ноосон хувцас",
+    "hanja": "無名옷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무명작가",
+    "translation": "үл мэдэгдэх зохиолч",
+    "hanja": "無名作家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무모순성",
+    "translation": "Зөрчилгүй байдал",
+    "hanja": "無矛盾性",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무모하다",
+    "translation": "болгоомжгүй",
+    "hanja": "無謀하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무무",
+    "translation": "Муму (нарны сарны бурхан; эртний уулын нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무미",
+    "translation": "амтгүй, сонирхолгүй",
+    "hanja": "無味",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무미건조하다",
+    "translation": "сонирхолгүй",
+    "hanja": "無味乾燥하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "무박",
+    "translation": "шөнөгүй",
+    "hanja": "無泊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무반",
+    "translation": "удирдлагагүй",
+    "hanja": "無伴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무방비",
+    "translation": "Хамгаалалтгүй",
+    "hanja": "無防備",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무방비하다",
+    "translation": "Хамгаалалтгүй байх",
+    "hanja": "無防備하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무방하다",
+    "translation": "Зүгээр, хамаагүй",
+    "hanja": "無妨하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무배",
+    "translation": "хуваарилалтгүй",
+    "hanja": "無配",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무법",
+    "translation": "хууль ёсгүй",
+    "hanja": "無法",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무법자",
+    "translation": "хууль зөрчигч",
+    "hanja": "無法者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "무병",
+    "translation": "өвчин байхгүй",
+    "hanja": "無病",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무병장수",
+    "translation": "өвчин эмгэггүй урт наслах",
+    "hanja": "無病長壽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무병장수하다",
+    "translation": "өвчин зовлонгүй урт наслах",
+    "hanja": "無病長壽하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무보수",
+    "translation": "цалингүй",
+    "hanja": "無報酬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무복",
+    "translation": "Захирагчгүй; сайн хувцас; бөөгийн хувцас",
+    "hanja": "無福",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무부",
+    "translation": "эхийн талын ах дүүс",
+    "hanja": "母夫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무분별하다",
+    "translation": "болгоомжгүй",
+    "hanja": "無分別하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "무브먼트",
+    "translation": "хөдөлгөөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무비",
+    "translation": "Кино (movie)",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "무비판적",
+    "translation": "шүүмжлэлгүй",
+    "hanja": "無批判的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "무빙",
+    "translation": "хөдөлгөөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무빙하다",
+    "translation": "хөдлөх",
+    "hanja": "moving하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "무사",
+    "translation": "Батруулагч, дайчин",
+    "hanja": "武士",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무사고",
+    "translation": "осоргүй",
+    "hanja": "無事故",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무사안일",
+    "translation": "аливаа зүйлгүй, амар тайван",
+    "hanja": "無事安逸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무사태평하다",
+    "translation": "Амар тайван, санаа зовох зүйлгүй",
+    "hanja": "無事泰平하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무사통과",
+    "translation": "асуудалгүй өнгөрөх",
+    "hanja": "無事通過",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무사통과하다",
+    "translation": "хүндрэлгүйгээр давах",
+    "hanja": "無事通過하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무사하다",
+    "translation": "аюулгүй байх",
+    "hanja": "無事하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무사히",
+    "translation": "амжилттай",
+    "hanja": "無事히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무산",
+    "translation": "Үгүй болгох",
+    "hanja": "霧散",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무산되다",
+    "translation": "үр дүнд хүрэхгүй байх",
+    "hanja": "霧散되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "무산시키다",
+    "translation": "задлах, татан буулгах",
+    "hanja": "霧散시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무상",
+    "translation": "Үнэгүй, ишиггүй",
+    "hanja": "無償",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "무상정등정각",
+    "translation": "Ануннаттара самьяксамбодхи (Буддын шашны нэр томъёо)",
+    "hanja": "無上正等正覺",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "무상하다",
+    "translation": "мөнх бус байх",
+    "hanja": "無常하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무색",
+    "translation": "өнгөгүй",
+    "hanja": "無色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무색무취",
+    "translation": "өнгөгүй үнэргүй",
+    "hanja": "無色無臭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무색무취하다",
+    "translation": "Өнгөгүй, үнэргүй байх",
+    "hanja": "無色無臭하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무색하다",
+    "translation": "Өнгөгүй, утгагүй",
+    "hanja": "無色하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무생",
+    "translation": "амьгүй",
+    "hanja": "無生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무생물",
+    "translation": "амьгүй биет",
+    "hanja": "無生物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무서움",
+    "translation": "айдас, аймшиг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "무서워하다",
+    "translation": "Айх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "무선",
+    "translation": "утасгүй",
+    "hanja": "無線",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무섬증",
+    "translation": "айдас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무섭다",
+    "translation": "Айдастай, аймшигтай",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "무성",
+    "translation": "Чимээгүй",
+    "hanja": "無聲",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무성애자",
+    "translation": "Асексуал",
+    "hanja": "無性愛者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무성의하다",
+    "translation": "чимээгүй, анхааралгүй",
+    "hanja": "無誠意하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무성하다",
+    "translation": "элбэг дэлбэг",
+    "hanja": "茂盛하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "무성히",
+    "translation": "ихээр",
+    "hanja": "茂盛히",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "무소불위",
+    "translation": "бүхнийг чадагч, хязгааргүй эрх мэдэл",
+    "hanja": "無所不爲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무소속",
+    "translation": "бие даасан",
+    "hanja": "無所屬",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무소식",
+    "translation": "мэдээ байхгүй",
+    "hanja": "無消息",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무소유",
+    "translation": "өмчгүй байдал",
+    "hanja": "無所有",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무속",
+    "translation": "шаман шашин",
+    "hanja": "巫俗",
+    "pos": "н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "무솔리니",
+    "translation": "Муссолини",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "무송",
+    "translation": "устай давсгүй",
+    "hanja": "무송",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무쇠",
+    "translation": "Шой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무쇠솥",
+    "translation": "Төмөр тогоо",
+    "hanja": "무쇠솥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무수",
+    "translation": "усгүй",
+    "hanja": "無水",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무수다",
+    "translation": "усанд живүүлэх",
+    "hanja": "무수다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "무수단",
+    "translation": "Мусудан (газрын нэр)",
+    "hanja": "舞水端",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무수리",
+    "translation": "ордны зарц",
+    "hanja": "무수리",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무수하다",
+    "translation": "тоо томшгүй олон",
+    "hanja": "無數하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무수히",
+    "translation": "тоо томшгүй",
+    "hanja": "無數히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무순",
+    "translation": "Фушунь",
+    "hanja": "撫順",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "무술",
+    "translation": "тулааны урлаг",
+    "hanja": "武術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무쉬",
+    "translation": "Муши",
+    "hanja": "무쉬",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "무슈",
+    "translation": "эрхэм (франц)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무스",
+    "translation": "Мусс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무스탕",
+    "translation": "мустанг",
+    "hanja": "Mustang",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무슨",
+    "translation": "ямар",
+    "hanja": null,
+    "pos": "관형사",
+    "cefr": "A1"
+  },
+  {
+    "word": "무슬림",
+    "translation": "мусульман",
+    "hanja": "Muslim",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무승부",
+    "translation": "Тэнцэх",
+    "hanja": "無勝負",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무시",
+    "translation": "үл тоомсорлох",
+    "hanja": "無視",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무시거",
+    "translation": "юу ч биш",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무시당하다",
+    "translation": "Үл тоомсорлогдох, үл хайхрагдах",
+    "hanja": "無視當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무시되다",
+    "translation": "үл тоомсорлогдох",
+    "hanja": "無視되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무시무시",
+    "translation": "аймшигтай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무시무시하다",
+    "translation": "аймшигтай",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무시하다",
+    "translation": "үл тоомсорлох",
+    "hanja": "無視하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "무시험",
+    "translation": "шалгалтгүй",
+    "hanja": "無試驗",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "무식",
+    "translation": "мунхаг",
+    "hanja": "無識",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무식쟁이",
+    "translation": "Мунхаг хүн",
+    "hanja": "無識者이",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "무식하다",
+    "translation": "Мунхаг",
+    "hanja": "無識하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무신",
+    "translation": "бурхан",
+    "hanja": "武神",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무신경",
+    "translation": "мэдрэмжгүй",
+    "hanja": "無神經",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무신경하다",
+    "translation": "мэдрэмжгүй",
+    "hanja": "無神經하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무신론",
+    "translation": "шашингүй үзэл; бурхан байхгүй гэх үзэл",
+    "hanja": "無神論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무신론자",
+    "translation": "шашингүй үзэлтэн",
+    "hanja": "無神論者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무실점",
+    "translation": "гол алдаагүй",
+    "hanja": "無失點",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무심결",
+    "translation": "санаандгүй, гэнэт",
+    "hanja": "無心결",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무심코",
+    "translation": "санаандгүй",
+    "hanja": "無心코",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무심하다",
+    "translation": "хайнга",
+    "hanja": "無心하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무심히",
+    "translation": "Халшрахгүй, санаандгүй, үл тоомсорлон",
+    "hanja": "無心히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무쌍",
+    "translation": "Хосгүй",
+    "hanja": "無雙",
+    "pos": "тэмдэг нэр",
+    "cefr": "C2"
+  },
+  {
+    "word": "무쌍하다",
+    "translation": "биелэгдэх боломжгүй",
+    "hanja": "無雙하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무씨",
+    "translation": "манжингийн үр",
+    "hanja": "무씨",
+    "pos": "нэр үг",
+    "cefr": "A1"
+  },
+  {
+    "word": "무아",
+    "translation": "өөрийгөө умартах",
+    "hanja": "無我",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무아지경",
+    "translation": "өөрийгөө умартсан байдал, догдлол",
+    "hanja": "無我之境",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무안",
+    "translation": "ичгүүр, нүүр хийх газар үгүй",
+    "hanja": "無顔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무안하다",
+    "translation": "ичиж зовох",
+    "hanja": "無顔하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무야",
+    "translation": "Муяа",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무어",
+    "translation": "Муур",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "무언",
+    "translation": "дуугүй",
+    "hanja": "無言",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "무언극",
+    "translation": "хэлгүй жүжиг",
+    "hanja": "無言劇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무얼하다",
+    "translation": "юу хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "무엄하다",
+    "translation": "хүндэтгэлгүй",
+    "hanja": "無嚴하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무업",
+    "translation": "ажилгүй",
+    "hanja": "無業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무엇",
+    "translation": "Юу",
+    "hanja": null,
+    "pos": "Pronoun",
+    "cefr": "A1"
+  },
+  {
+    "word": "무엇하다",
+    "translation": "юу хийх, яах",
+    "hanja": "뭣하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "무에다",
+    "translation": "хураах",
+    "hanja": "無穢",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무에타이",
+    "translation": "муай тай",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무역",
+    "translation": "худалдаа",
+    "hanja": "貿易",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무역상",
+    "translation": "худалдаачин, наймаачин",
+    "hanja": "貿易商",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "무역업",
+    "translation": "Худалдаа",
+    "hanja": "貿易業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무역업자",
+    "translation": "худалдаачин",
+    "hanja": "貿易業者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무역하다",
+    "translation": "Худалдаа хийх",
+    "hanja": "貿易하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "무역항",
+    "translation": "худалдааны боомт",
+    "hanja": "貿易港",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무연탄",
+    "translation": "антрацит",
+    "hanja": "無煙炭",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무염",
+    "translation": "давсгүй, хлоргүй",
+    "hanja": "無鹽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무영",
+    "translation": "сүүдэргүй",
+    "hanja": "無影",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무예",
+    "translation": "тулааны урлаг",
+    "hanja": "武藝",
+    "pos": "сущ",
+    "cefr": "B2"
+  },
+  {
+    "word": "무왕",
+    "translation": "Му ван (Солонгосын хаан)",
+    "hanja": "武王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무욕",
+    "translation": "шуналгүй",
+    "hanja": "無慾",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무용",
+    "translation": "бүжиг, ашиггүй",
+    "hanja": "舞踊",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "무용가",
+    "translation": "бүжигчин",
+    "hanja": "舞踊家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무용단",
+    "translation": "бүжгийн хамтлаг",
+    "hanja": "舞踊團",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "무용담",
+    "translation": "баатарлаг үйлс",
+    "hanja": "武勇談",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무용론",
+    "translation": "ашиггүй онол",
+    "hanja": "無用論",
+    "pos": "명са",
+    "cefr": "C2"
+  },
+  {
+    "word": "무용수",
+    "translation": "бүжигчин",
+    "hanja": "舞踊手",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "무용지물",
+    "translation": "хэрэггүй зүйл",
+    "hanja": " muyongjimul",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "무용하다",
+    "translation": "Хэрэггүй, ашиггүй",
+    "hanja": "無用하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무우",
+    "translation": "манжин",
+    "hanja": "무우",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "무운",
+    "translation": "Цэргийн аз завшаан, дайны хувь тавилан",
+    "hanja": "武運",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무위",
+    "translation": "үл үйлдэл",
+    "hanja": "無爲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무으다",
+    "translation": "цуглуулах",
+    "hanja": "무으다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무음",
+    "translation": "чимээгүй",
+    "hanja": "無音",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무응답",
+    "translation": "хариу өгөхгүй байх",
+    "hanja": "無應答",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무의",
+    "translation": "утга учиргүй",
+    "hanja": "無義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무의미",
+    "translation": "утга учиргүй",
+    "hanja": "無意味",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무의미하다",
+    "translation": "утга учиргүй",
+    "hanja": "無意味하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "무의식적",
+    "translation": "ухамсаргүй",
+    "hanja": "無意識的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "무의식중",
+    "translation": "ухамсаргүйгээр",
+    "hanja": "無意識中",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무의탁",
+    "translation": "асрамжлах хүнгүй / ганцаардсан",
+    "hanja": "無依託",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무이",
+    "translation": "үгүй, хятад утгаар: гүй",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무이자",
+    "translation": "хүүгүй",
+    "hanja": "無利子",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "무이파",
+    "translation": "Муйфа",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무익하다",
+    "translation": "ашиггүй, хэрэггүй",
+    "hanja": "無益하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무인",
+    "translation": "хүн-үгүй",
+    "hanja": "無人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무인도",
+    "translation": "Эзгүй арал",
+    "hanja": "無人島",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무인점포",
+    "translation": "үйлчлэгчгүй дэлгүүр",
+    "hanja": "無人店鋪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무인지경",
+    "translation": "Хүн амгүй газар",
+    "hanja": "無人之境",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무일",
+    "translation": "Ганц ч үгүй",
+    "hanja": "無一",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무일푼",
+    "translation": "мөнгөгүй",
+    "hanja": "無一푼",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "무임승차",
+    "translation": "үнэгүй зорчих",
+    "hanja": "無賃乘車",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무임승차하다",
+    "translation": "үнэгүй зорчих",
+    "hanja": "無賃乘車하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "무자격",
+    "translation": "Чадамжгүй, эрхгүй",
+    "hanja": "無資格",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무자격자",
+    "translation": "무자격자",
+    "hanja": "無資格者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무자비",
+    "translation": "энэрэлгүй",
+    "hanja": "無慈悲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무자비하다",
+    "translation": "Харгис",
+    "hanja": "無慈悲하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무자식",
+    "translation": "хүүхэдгүй",
+    "hanja": "無子息",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무자헤딘",
+    "translation": "Мужахедин",
+    "hanja": "무자헤딘",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "무작",
+    "translation": "санамсаргүй",
+    "hanja": "無作",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무작위",
+    "translation": "санамсаргүй, дурын",
+    "hanja": "無作為",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무작정",
+    "translation": "Зүгээр л, зорилгогүйгээр",
+    "hanja": "無酌定",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무장",
+    "translation": "зэвсэглэл",
+    "hanja": "武裝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무장되다",
+    "translation": "Зэвсэглэгдэх",
+    "hanja": "武裝되다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "무장봉기",
+    "translation": "зэвсэгт бослого",
+    "hanja": "武裝蜂起",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무장시키다",
+    "translation": "зэвсэгжүүлэх",
+    "hanja": "武裝시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무장하다",
+    "translation": "зэвсэглэх",
+    "hanja": "武裝하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무저갱",
+    "translation": "ёроолгүй нүх",
+    "hanja": "無底坑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무저항",
+    "translation": "эсэргүүцэлгүй",
+    "hanja": "無抵抗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무적",
+    "translation": "хожигдолгүй",
+    "hanja": "無敵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무전",
+    "translation": "утасгүй холбоо, радио",
+    "hanja": "無線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무전기",
+    "translation": "Радио",
+    "hanja": "無線機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무전여행",
+    "translation": "мөнгөгүйгээр аялах",
+    "hanja": "無錢旅行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무전하다",
+    "translation": "мөнгөгүй байх, хэлхээгүй байх",
+    "hanja": "無錢하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무절제하다",
+    "translation": "хэтрэх, хэтрүүлэгтэй байх",
+    "hanja": "無節制하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무정",
+    "translation": "энэрэлгүй",
+    "hanja": "無情",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무정부주의",
+    "translation": "анархизм",
+    "hanja": "無政府主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무정하다",
+    "translation": "сэтгэлгүй, хатуу сэтгэлтэй",
+    "hanja": "無情하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "무정형",
+    "translation": "хэлбэргүй, дүрстэй бус",
+    "hanja": "無定形",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무제한",
+    "translation": "Хязгааргүй",
+    "hanja": "無制限",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무조건",
+    "translation": "ямар ч нөхцөлгүйгээр, бүх нөхцөлд",
+    "hanja": "無條件",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무조건적",
+    "translation": "нөхцөлгүй",
+    "hanja": "無條件的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무좀",
+    "translation": "хөлийн мөөгөнцөр",
+    "hanja": "무좀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무종교",
+    "translation": "шашин шүтлэггүй",
+    "hanja": "無宗敎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무죄",
+    "translation": "гэм буруугүй",
+    "hanja": "無罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무죄하다",
+    "translation": "гэм буруугүй",
+    "hanja": "無罪-",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무주",
+    "translation": "эзэнгүй, эзэн үгүй",
+    "hanja": "無主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무주택",
+    "translation": "орон сууцгүй",
+    "hanja": "無住宅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무중력",
+    "translation": "Хүндийн хүчгүй",
+    "hanja": "無重力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무지",
+    "translation": "мунхаг",
+    "hanja": "無知",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무지개",
+    "translation": "солонго",
+    "hanja": "무지개",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "무지개떡",
+    "translation": "солонгон өнгийн бяслагтай талх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무지갯빛",
+    "translation": "солонгон өнгө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무지근하다",
+    "translation": "хүнд, маш хүнд",
+    "hanja": "無",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무지다",
+    "translation": "өргөн",
+    "hanja": null,
+    "pos": "Adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "무지렁이",
+    "translation": "мулгуу хүн",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무지막지하다",
+    "translation": "Хэрцгий, балмад",
+    "hanja": "無知莫知하다",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "무지몽매하다",
+    "translation": "мэдэхгүй тэнэг байх",
+    "hanja": "無知蒙昧하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무지무지",
+    "translation": "туйлын их, маш их",
+    "hanja": "무지무지",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무지무지하다",
+    "translation": "Маш их",
+    "hanja": "無知無知하다",
+    "pos": "Adj",
+    "cefr": "B1"
+  },
+  {
+    "word": "무지하다",
+    "translation": "мулгуу, мэдэхгүй",
+    "hanja": "無知하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "무직",
+    "translation": "ажилгүй",
+    "hanja": "無職",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무직자",
+    "translation": "ажилгүй хүн",
+    "hanja": "無職者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무진",
+    "translation": "Хязгааргүй",
+    "hanja": "無限",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무진장",
+    "translation": "хязгааргүй",
+    "hanja": "無盡藏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무질서",
+    "translation": "эмх замбараагүй байдал",
+    "hanja": "無秩序",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무질서하다",
+    "translation": "замбараагүй",
+    "hanja": "無秩序하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무짜",
+    "translation": "Угаадасгүй",
+    "hanja": "무짜",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "무찌르다",
+    "translation": "ялах, бут цохих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무차별",
+    "translation": "ялгавартай бус",
+    "hanja": "無差別",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무차별적",
+    "translation": "ялгаваргүй, ялгалгүй",
+    "hanja": "無差別的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무차별하다",
+    "translation": "ялгаваргүй, дураараа",
+    "hanja": "無差別하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무참하다",
+    "translation": "аймшигтай",
+    "hanja": "無慚하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "무참히",
+    "translation": "өршөөлгүйгээр, харгисаар",
+    "hanja": "無慘히",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무책임하다",
+    "translation": "хариуцлагагүй",
+    "hanja": "無責任하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "무척",
+    "translation": "маш их",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "무천",
+    "translation": "хуучин",
+    "hanja": "無遷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무청",
+    "translation": "Редис навч",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "무초",
+    "translation": "ишгүй",
+    "hanja": "無草",
+    "pos": "NNG",
+    "cefr": "C1"
+  },
+  {
+    "word": "무취",
+    "translation": "үнэргүй",
+    "hanja": "無臭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무치다",
+    "translation": "холих",
+    "hanja": "무치다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "무침",
+    "translation": "чихэргүй амтлагч",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무카",
+    "translation": "мука",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "무타",
+    "translation": "хэрэггүй, шаардлагагүй",
+    "hanja": "無駄",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "무탄",
+    "translation": "нүүрсгүй",
+    "hanja": "無炭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무탈하다",
+    "translation": "саадгүй, асуудалгүй байх",
+    "hanja": "無恙하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무탈히",
+    "translation": "аюулгүй, саадгүй",
+    "hanja": "無頉히",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "무턱",
+    "translation": "эрүүгүй",
+    "hanja": "무턱",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무턱대고",
+    "translation": "Ямар ч шалтгаангүйгээр, шууд л",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무통",
+    "translation": "өвдөлтгүй",
+    "hanja": "無痛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무트",
+    "translation": "нутг",
+    "hanja": "무트",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "무티",
+    "translation": "Мооути",
+    "hanja": "무티",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "무파",
+    "translation": "луувангийн навч",
+    "hanja": "蕪葩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무패",
+    "translation": "ялагдашгүй",
+    "hanja": "無敗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무표정",
+    "translation": "Хүйтэн царай, илэрхийлэлгүй царай",
+    "hanja": "無表情",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무표정하다",
+    "translation": "Нүүрний хувиралгүй",
+    "hanja": "無表情하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무풍",
+    "translation": "салхигүй",
+    "hanja": "無風",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무학",
+    "translation": "боловсролгүй",
+    "hanja": "無學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무한",
+    "translation": "хязгааргүй",
+    "hanja": "無限",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "무한궤도",
+    "translation": "гүйдэг зам (танк)",
+    "hanja": "無限軌道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무한대",
+    "translation": "хязгааргүй",
+    "hanja": "無限大",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무한성",
+    "translation": "хязгааргүй байдал",
+    "hanja": "無限性",
+    "pos": "명са",
+    "cefr": "B2"
+  },
+  {
+    "word": "무한정",
+    "translation": "хязгааргүй",
+    "hanja": "無限定",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무한하다",
+    "translation": "хязгааргүй",
+    "hanja": "無限하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "무한히",
+    "translation": "Хязгааргүй",
+    "hanja": "無限히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무함마드",
+    "translation": "Мухаммед",
+    "hanja": "무함마드",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "무향",
+    "translation": "Үнэргүй",
+    "hanja": "無香",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무허가",
+    "translation": "зөвшөөрөлгүй",
+    "hanja": "無許可",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무혈",
+    "translation": "цусгүй",
+    "hanja": "無血",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무혐의",
+    "translation": "гэм буруутай",
+    "hanja": "無嫌疑",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무협",
+    "translation": "тулаант",
+    "hanja": "武俠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무협지",
+    "translation": "тулаант зохиол",
+    "hanja": "武俠誌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무형",
+    "translation": "биет бус",
+    "hanja": "無形",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무형유산",
+    "translation": "үл үзэгдэх өв",
+    "hanja": "無形遺産",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "무호흡",
+    "translation": "амьсгал зогсох",
+    "hanja": "無呼吸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무화",
+    "translation": "цаг уур",
+    "hanja": "霧花",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무화과나무",
+    "translation": "инжир мод",
+    "hanja": "無花果나무",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무화과잼",
+    "translation": "инжирийн чанамал",
+    "hanja": "無花果jam",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무효",
+    "translation": "хүчингүй",
+    "hanja": "無效",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무효하다",
+    "translation": "хүчингүй болгох",
+    "hanja": "無效하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무효화",
+    "translation": "Хүчингүй болгох",
+    "hanja": "無效化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무효화되다",
+    "translation": "хүчингүй болох",
+    "hanja": "無效化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무효화하다",
+    "translation": "хүчингүй болгох",
+    "hanja": "無效化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무훈",
+    "translation": "баатарлаг гавьяа",
+    "hanja": "武勳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무휴",
+    "translation": "амралтгүй",
+    "hanja": "無休",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무휼",
+    "translation": "Мүхюл (хүний нэр)",
+    "hanja": "無恤",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "무희",
+    "translation": "бүжигчин",
+    "hanja": "舞姬",
+    "pos": "Noun",
+    "cefr": "B2"
+  }
+]

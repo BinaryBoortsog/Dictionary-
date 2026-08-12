@@ -1,0 +1,877 @@
+[
+  {
+    "word": "메가",
+    "translation": "мега",
+    "hanja": null,
+    "pos": "접두사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메가바이트",
+    "translation": "мегабайт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "메가비트",
+    "translation": "мегабит",
+    "hanja": "메가비트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메가시티",
+    "translation": "мегахот",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메가와트",
+    "translation": "мегаватт",
+    "hanja": "메가와트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메가톤",
+    "translation": "мегатон",
+    "hanja": "Megaton",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "메가폰",
+    "translation": "мегафон",
+    "hanja": "megaphone",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메가헤르츠",
+    "translation": "мегагерц",
+    "hanja": "MHz",
+    "pos": "단위",
+    "cefr": "B1"
+  },
+  {
+    "word": "메구",
+    "translation": "Мэгү (хүний нэр)",
+    "hanja": "메구",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "메구로구",
+    "translation": "Мегуро дүүрэг",
+    "hanja": "目黒区",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "메기다",
+    "translation": "үнэлэх, тэмдэглэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메꾸다",
+    "translation": "нөхөх, бөглөх",
+    "hanja": "---",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "메네스",
+    "translation": "Менес (Египетийн хаан)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메누리",
+    "translation": "Үр хүүхэд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "메뉴",
+    "translation": "цэс",
+    "hanja": "menu",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "메뉴얼",
+    "translation": "гарын авлага",
+    "hanja": "메뉴얼",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "메뉴판",
+    "translation": "хоолны цэс, меню",
+    "hanja": "메뉴板",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "메다",
+    "translation": "үүрэх",
+    "hanja": "메다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "메다꽂다",
+    "translation": "газар цацах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메달",
+    "translation": "медаль",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "메달리스트",
+    "translation": "медальчин",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "메데이아",
+    "translation": "Медея",
+    "hanja": "메데이아",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "메데인",
+    "translation": "Медельин",
+    "hanja": "메데인",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "메두사",
+    "translation": "Медуза",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메드라인",
+    "translation": "мэдлайн",
+    "hanja": null,
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "메들리",
+    "translation": "медели (дуу)",
+    "hanja": "medley",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "메디다",
+    "translation": "Мерида",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메디아",
+    "translation": "Медиа (нэр)",
+    "hanja": "메디아",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메디치",
+    "translation": "Медичи",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "메디케어",
+    "translation": "эмнэлгийн тусламж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메디케이드",
+    "translation": "Медикэйд (Америкийн эрүүл мэндийн тусламжийн хөтөлбөр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메뚜기",
+    "translation": "царцаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메러디스",
+    "translation": "Мередит (нэр)",
+    "hanja": "Meredith",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "메렝게",
+    "translation": "меренге",
+    "hanja": "메렝게",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "메로",
+    "translation": "меро (загасны төрөл)",
+    "hanja": "merluza",
+    "pos": "name",
+    "cefr": "B1"
+  },
+  {
+    "word": "메론",
+    "translation": "гуа",
+    "hanja": "No Hanja",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "메롱",
+    "translation": "Удаан хөгжилтэй хэл ам, тоглоом",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "메르세데스",
+    "translation": "Мерседес",
+    "hanja": "메르세데스",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "메르스",
+    "translation": "Мерс (Ойрх Дорнодын амьсгалын замын хам шинж)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메르카토르",
+    "translation": "Меркатор",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "메르코수르",
+    "translation": "Мерокосур (газарзүйн нэр)",
+    "hanja": "메르코수르",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메르쿠리우스",
+    "translation": "Меркурий",
+    "hanja": "메르쿠리우스",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메리노",
+    "translation": "мерино хонь",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메리야스",
+    "translation": "трико",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "메리엄",
+    "translation": "Мерриам",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메리트",
+    "translation": "давуу тал, ач тус",
+    "hanja": "메리트",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메릴랜드주",
+    "translation": "Мэрилинд муж",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "메마르다",
+    "translation": "Амьгүй болох, арилах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메모",
+    "translation": "тэмдэглэл",
+    "hanja": "memo",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "메모리",
+    "translation": "ой санамж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메모리즈",
+    "translation": "дурсамжууд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메모지",
+    "translation": "сануулгын цаас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "메모하다",
+    "translation": "Тэмдэглэл хийх, тэмдэглэх",
+    "hanja": "memo-하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "메미",
+    "translation": "Царцаа",
+    "hanja": "메미",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메밀",
+    "translation": "Грек будаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "메밀가루",
+    "translation": "үр тарианы гурил",
+    "hanja": "메밀가루",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메밀국수",
+    "translation": "шар будааны гоймон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메밀꽃",
+    "translation": "хошоонгор цэцэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메보",
+    "translation": "Үндсэн дуучин (K-pop)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "메사",
+    "translation": "Меса",
+    "hanja": "메사",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "메산",
+    "translation": "Мезан (Францын газарзүйн нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "메세지",
+    "translation": "мессеж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "메소",
+    "translation": "Месо",
+    "hanja": "메소",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "메소드",
+    "translation": "Арга, арга зам",
+    "hanja": "메소드",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메소포타미아",
+    "translation": "Месопотами",
+    "hanja": "메소포타미아",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메쉬",
+    "translation": "меш, торон",
+    "hanja": "mesh",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메스",
+    "translation": "Мэс хутга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메스껍다",
+    "translation": "дотор муухайрах",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "메스머",
+    "translation": "Месмер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메스티소",
+    "translation": "местизо",
+    "hanja": "메스티소",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "메슥거리다",
+    "translation": "дотор муухайрах",
+    "hanja": "메슥거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메시",
+    "translation": "Месси",
+    "hanja": "",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "메시아",
+    "translation": "Мессиа",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메시지",
+    "translation": "Зурвас",
+    "hanja": "message",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "메신저",
+    "translation": "мэссэнжер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메아리",
+    "translation": "цуурай",
+    "hanja": "메아리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메아리치다",
+    "translation": "цуурайтах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "메에",
+    "translation": "маш их, хэт их",
+    "hanja": "메에",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메이",
+    "translation": "Мэй",
+    "hanja": "null",
+    "pos": "н.н.",
+    "cefr": "A1"
+  },
+  {
+    "word": "메이다",
+    "translation": "бөглөрөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메이데이",
+    "translation": "май дей (онцгой байдлын дуудлага)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메이드",
+    "translation": "зарц",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "메이스",
+    "translation": "майз",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메이슨",
+    "translation": "Мэйсон (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "메이저",
+    "translation": "Томоохон",
+    "hanja": "major",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메이지",
+    "translation": "Мэйжи (Японы үе)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "메이커",
+    "translation": "Үйлдвэрлэгч",
+    "hanja": "메이커",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "메이크",
+    "translation": "бүтээх",
+    "hanja": "메이크",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "메이크업",
+    "translation": "будалт",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "메이크업하다",
+    "translation": "будах",
+    "hanja": "makeup하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "메이트",
+    "translation": "Сайн найз, хамтрагч",
+    "hanja": "mate",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "메이플시럽",
+    "translation": "агчны сироп",
+    "hanja": "메이플시럽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "메이필드",
+    "translation": "Мэйфилд",
+    "hanja": "메이필드",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "메인",
+    "translation": "Үндсэн",
+    "hanja": "메인",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "메인마스트",
+    "translation": "үндсэн шон",
+    "hanja": "메인마스트",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메인보드",
+    "translation": "үндсэн самбар",
+    "hanja": "mainboard",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메일",
+    "translation": "имэйл",
+    "hanja": "mail",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "메조",
+    "translation": "мезо-",
+    "hanja": null,
+    "pos": "접두사",
+    "cefr": "C2"
+  },
+  {
+    "word": "메조소프라노",
+    "translation": "меццо-сопрано",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메종",
+    "translation": "байшин, худалдааны нэр",
+    "hanja": "메종",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메주",
+    "translation": "соус хийх буурцагны хатаасан цул",
+    "hanja": "메주",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "메줏가루",
+    "translation": "соёолон буурцагны нунтаг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "메추라기",
+    "translation": "бөднө",
+    "hanja": "메추라기",
+    "pos": "명",
+    "cefr": "B1"
+  },
+  {
+    "word": "메추리",
+    "translation": "бөднө",
+    "hanja": "메추리",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "메치니코프",
+    "translation": "Мечников",
+    "hanja": "메치니코프",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "메치다",
+    "translation": "шиврэх (навчис)",
+    "hanja": "메치다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "메카",
+    "translation": "Мекка",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메커니즘",
+    "translation": "механизм",
+    "hanja": "메커니즘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메케하다",
+    "translation": "хоолойд өмхий, эвгүй үнэр орох",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메콩강",
+    "translation": "Меконг мөрөн",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "메쿠다",
+    "translation": "нэхэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "메타",
+    "translation": "Мета",
+    "hanja": "메타",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메타데이터",
+    "translation": "мета өгөгдөл",
+    "hanja": "Metadata",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "메타버스",
+    "translation": "метаверс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메타포",
+    "translation": "Метафор",
+    "hanja": "Metaphor",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메탄",
+    "translation": "метан",
+    "hanja": "메탄",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "메탄올",
+    "translation": "метанол",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메트로",
+    "translation": "метро",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "메트로놈",
+    "translation": "метроном",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "메트로폴리스",
+    "translation": "их хот",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메트로폴리탄",
+    "translation": "метрополитан",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "메트리",
+    "translation": "метр",
+    "hanja": "메트리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "메트릭",
+    "translation": "метрикийн",
+    "hanja": "메트릭",
+    "pos": "NNG",
+    "cefr": "B2"
+  },
+  {
+    "word": "메피스토",
+    "translation": "Мефисто",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "메피스토펠레스",
+    "translation": "Мефистофель (чөтгөр, Фауст зохиолын баатар)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

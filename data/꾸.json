@@ -1,0 +1,345 @@
+[
+  {
+    "word": "꾸기다",
+    "translation": "үрэх, нугалах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸깃꾸깃",
+    "translation": "үрэлчийсэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸깃꾸깃하다",
+    "translation": "Үрчийн, хунирсан байдалтай байх",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸꾸",
+    "translation": "Хүүхдийн тоглоом (дуудлага)",
+    "hanja": "꾸꾸",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "꾸꾸꾸",
+    "translation": "гуу-гуу-гуу",
+    "hanja": null,
+    "pos": "үлгэрчилсэн үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "꾸덕",
+    "translation": "Хуурайших, хатах (бага зэрэг)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸덕꾸덕",
+    "translation": "хуурайшиж, хатаж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸덕꾸덕하다",
+    "translation": "хатуу, өтгөн, гацах",
+    "hanja": "꾸덕꾸덕하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸덕하다",
+    "translation": "бяслаг шиг хатуу",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸러기",
+    "translation": "дүрсгүй хүүхэд",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸러미",
+    "translation": "багц, боодол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸룩꾸룩",
+    "translation": "Цуурайтах, гэдэс гүрвэгнэх чимээ",
+    "hanja": "꾸룩꾸룩",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "꾸르륵",
+    "translation": "гэдсэн дотор дуугарах",
+    "hanja": "꾸르륵",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸르륵거리다",
+    "translation": "гэдэс ходоод дуугарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸륵",
+    "translation": "Гургурах чимээ",
+    "hanja": "꾸륵",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸리",
+    "translation": "Бондгор утас, ороомог",
+    "hanja": "꾸리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸리다",
+    "translation": "эмхлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸리하다",
+    "translation": "боож бэлтгэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸물거리다",
+    "translation": "Удаан хөдлөх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸물꾸물",
+    "translation": "удаан, муудсан байдлаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸물꾸물하다",
+    "translation": "бүрхэг байна",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸물대다",
+    "translation": "удаан хөдлөх",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸미",
+    "translation": "чимэглэл, хуурамч",
+    "hanja": "꾸미",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸미다",
+    "translation": "чимэглэх, зохион байгуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸밈",
+    "translation": "Чимэглэл, гоёл",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸밈없다",
+    "translation": "Үнэнч",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "꾸밈없이",
+    "translation": "чимэггүй, үнэнээрээ, 있는 그대로",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸벅",
+    "translation": "Нойрмоглох",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸벅거리다",
+    "translation": "нойрмоглох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸벅꾸벅",
+    "translation": "толгой дохих",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸벅하다",
+    "translation": "толгой дохих, зүүрмэглэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸부러지다",
+    "translation": "бөхийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸부정하다",
+    "translation": "бөгтийх",
+    "hanja": "꾸부정하다",
+    "pos": "тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸불꾸불",
+    "translation": "муруй, тахир",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸불꾸불하다",
+    "translation": "Муруй, тахир",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸억",
+    "translation": "гэнэт, огцом",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꾸역",
+    "translation": "шахаж",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸역꾸역",
+    "translation": "түгжирч, чихэлдэх",
+    "hanja": "꾸역꾸역",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꾸이",
+    "translation": "гууи",
+    "hanja": "꾸이",
+    "pos": "NOUN",
+    "cefr": "C2"
+  },
+  {
+    "word": "꾸이다",
+    "translation": "зүүдлэх",
+    "hanja": "꾸이다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸정물",
+    "translation": "Бохир ус, хогны ус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸준하다",
+    "translation": "тогтмол",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸준히",
+    "translation": "тасралтгүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸중",
+    "translation": "загнасан үг, зэмлэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꾸중하다",
+    "translation": "Зэмлэх, загнуулах",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸지다",
+    "translation": "зэмлэх",
+    "hanja": "꾸지다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾸지람",
+    "translation": "зэмлэл, загнуур",
+    "hanja": "꾸지람",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾸질꾸질",
+    "translation": "бохир, заваан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꾸짖다",
+    "translation": "загнах, зэмлэх",
+    "hanja": "꾸짖다",
+    "pos": "동사",
+    "cefr": "B1"
+  }
+]

@@ -1,0 +1,3607 @@
+[
+  {
+    "word": "대",
+    "translation": "Үе",
+    "hanja": "代",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대가",
+    "translation": "Үнэ, төлбөр",
+    "hanja": "代價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대가리",
+    "translation": "толгой (зэрлэг)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대가족",
+    "translation": "өргөн гэр бүл, том гэр бүл",
+    "hanja": "大家族",
+    "pos": "н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "대각",
+    "translation": "диагональ",
+    "hanja": "對角",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대각선",
+    "translation": "Диагональ, хөндлөн",
+    "hanja": "對角線",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대갈",
+    "translation": "Дэгал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대갈장군",
+    "translation": "том толгойт дарга",
+    "hanja": "大喝將軍",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대갈통",
+    "translation": "том толгой",
+    "hanja": "大갈통",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대감",
+    "translation": "Их тайж",
+    "hanja": "大監",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대강",
+    "translation": "ерөнхийдөө, бараг",
+    "hanja": "大綱",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대강당",
+    "translation": "том танхим",
+    "hanja": "大講堂",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대강대강",
+    "translation": "ерөнхийдөө",
+    "hanja": "大綱大綱",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "대개",
+    "translation": "ихэвчлэн",
+    "hanja": "大槪",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "대거",
+    "translation": "олноороо",
+    "hanja": "大擧",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대거리",
+    "translation": "Эсэргүүцэн зогсох",
+    "hanja": "對거리",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대거리하다",
+    "translation": "эсэргүүцэн хариулах",
+    "hanja": "對距離하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대걸레",
+    "translation": "шал арчигч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대검",
+    "translation": "Сэлэм",
+    "hanja": "大劒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대검찰청",
+    "translation": "Ерөнхий прокурорын газар",
+    "hanja": "大檢察廳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대게",
+    "translation": "Хавч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대견",
+    "translation": "бахархалтай",
+    "hanja": "大見",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대견스럽다",
+    "translation": "бахархмаар",
+    "hanja": "對見스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대견하다",
+    "translation": "гайхах",
+    "hanja": "大見하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "대결",
+    "translation": "тулаан",
+    "hanja": "對決",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대결장",
+    "translation": "тулааны талбар",
+    "hanja": "對決場",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대결전",
+    "translation": "Их тулаан",
+    "hanja": "大決戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대결하다",
+    "translation": "тулах",
+    "hanja": "對決하다",
+    "pos": "үйл",
+    "cefr": "B2"
+  },
+  {
+    "word": "대겸",
+    "translation": "том хадуур",
+    "hanja": "대겸(大鎌)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대경실색하다",
+    "translation": "маш их айж цочирдох",
+    "hanja": "大驚失色하다",
+    "pos": "v",
+    "cefr": "C2"
+  },
+  {
+    "word": "대계",
+    "translation": "бараг",
+    "hanja": "大槪",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대곡",
+    "translation": "агуу дуу",
+    "hanja": "大谷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대공",
+    "translation": "ихэнх",
+    "hanja": "大功",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "대공사",
+    "translation": "Томоохон ажил",
+    "hanja": "大工事",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대공원",
+    "translation": "том цэцэрлэгт хүрээлэн",
+    "hanja": "大公園",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대공황",
+    "translation": "их хямрал",
+    "hanja": "大恐慌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대곶면",
+    "translation": "Дэгок-мён",
+    "hanja": "大串面",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대과",
+    "translation": "Том алдаа, 중대한 실수",
+    "hanja": "大過",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대관",
+    "translation": "титэм зүүх ёслол",
+    "hanja": "戴冠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대관령",
+    "translation": "Дэгвалён",
+    "hanja": "大關嶺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대관료",
+    "translation": "түрээсийн төлбөр",
+    "hanja": "貸館料",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대관식",
+    "translation": "тийм бөмбөг",
+    "hanja": "戴冠式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대관절",
+    "translation": "ер нь, тэгээд яахав",
+    "hanja": "大關節",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대괄호",
+    "translation": "том хаалт",
+    "hanja": "大括弧",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대광",
+    "translation": "их гэрэл",
+    "hanja": "大光",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대교",
+    "translation": "гүүр",
+    "hanja": "大橋",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대구",
+    "translation": "Тэгү",
+    "hanja": "大邱",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "대구리",
+    "translation": "том толгой",
+    "hanja": "대구리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대국",
+    "translation": "Их улс",
+    "hanja": "大國",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대국하다",
+    "translation": "бүх нийтээр тоглох",
+    "hanja": "對局하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "대군",
+    "translation": "их цэрэг",
+    "hanja": "大軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대굴대굴",
+    "translation": "хүчтэй өнхрөх",
+    "hanja": "대굴대굴",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대궁",
+    "translation": "иш",
+    "hanja": "大弓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대권",
+    "translation": "бүх эрх мэдэл",
+    "hanja": "大權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대궐",
+    "translation": "ордон",
+    "hanja": "大闕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대규",
+    "translation": "том дүрэм",
+    "hanja": "大規",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대규모",
+    "translation": "том хэмжээний",
+    "hanja": "大規模",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대극장",
+    "translation": "том театр",
+    "hanja": "大劇場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대근",
+    "translation": "их ажил",
+    "hanja": "大勤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대금",
+    "translation": "төлбөр, үнэ",
+    "hanja": "代金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대기권",
+    "translation": "Агаар мандал",
+    "hanja": "大氣圈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대기만성",
+    "translation": "хожим амжилтанд хүрэх",
+    "hanja": "大器晩成",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대기시키다",
+    "translation": "хүлээлгэх",
+    "hanja": "待機시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대기실",
+    "translation": "хүлээлгийн өрөө",
+    "hanja": "待機室",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대기업",
+    "translation": "том компани",
+    "hanja": "大企業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대기층",
+    "translation": "Агаар мандлын давхарга",
+    "hanja": "大氣層",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대기하다",
+    "translation": "хүлээх",
+    "hanja": "待機-",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대길",
+    "translation": "маш азтай, том аз жаргал",
+    "hanja": "大吉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대꾸",
+    "translation": "хариу нэхэх",
+    "hanja": "對句",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대꾸하다",
+    "translation": "хариу нэхэх",
+    "hanja": "대꾸하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대나무",
+    "translation": "хулс",
+    "hanja": "대나무",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대납",
+    "translation": "өгөх, өглөг",
+    "hanja": "代納",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대납하다",
+    "translation": "Өмнөөс нь төлөх",
+    "hanja": "代納하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대낮",
+    "translation": "өдөр дунд",
+    "hanja": "대낮",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대내",
+    "translation": "дотоодын",
+    "hanja": "對內",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "대내외",
+    "translation": "дотоод гадаад",
+    "hanja": "對內外",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대내외적",
+    "translation": "Дотоод, гадаад; дотоод, гадаадтай холбоотой",
+    "hanja": "對內外的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "대노",
+    "translation": "хилэгнэх, уурлах",
+    "hanja": "大怒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대농",
+    "translation": "том фермер",
+    "hanja": "大農",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대놓고",
+    "translation": "Ил тод, нээлттэйгээр",
+    "hanja": "—",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대뇌",
+    "translation": "Тархи",
+    "hanja": "大腦",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대니다",
+    "translation": "дагуулаад явах, авч явах",
+    "hanja": "대니다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "대다",
+    "translation": "хүргэх",
+    "hanja": "─",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대다수",
+    "translation": "ихэнх",
+    "hanja": "大多數",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대단",
+    "translation": "гайхамшигтай",
+    "hanja": "大端",
+    "pos": "NNG",
+    "cefr": "B1"
+  },
+  {
+    "word": "대단원",
+    "translation": "том хэсэг, төгсгөл",
+    "hanja": "大團圓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대단찮다",
+    "translation": "юу ч биш, тийм ч онц биш",
+    "hanja": "大端찮다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대단하다",
+    "translation": "гайхамшигтай",
+    "hanja": "大端하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "대단히",
+    "translation": "маш их, асар их",
+    "hanja": "大端히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대담",
+    "translation": "Ярилцлага",
+    "hanja": "對談",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대담무쌍하다",
+    "translation": "Маш зоригтой, аймшиггүй",
+    "hanja": "大膽無雙하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "대담성",
+    "translation": "зоригтой байдал, зориг",
+    "hanja": "大膽性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대담하다",
+    "translation": "зоригтой, шийдэмгий",
+    "hanja": "大膽하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "대답",
+    "translation": "хариулт",
+    "hanja": "對答",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "대답하다",
+    "translation": "хариулах",
+    "hanja": "對答하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "대당",
+    "translation": "багцаар",
+    "hanja": "臺當",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대대로",
+    "translation": "үе дамжин",
+    "hanja": "代代로",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대대손손",
+    "translation": "үе дамжин",
+    "hanja": "代代孫孫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대대장",
+    "translation": "батальоны командлагч",
+    "hanja": "大隊長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대대적",
+    "translation": "өргөн цар хүрээтэй, их хэмжээний",
+    "hanja": "大大적",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대덕",
+    "translation": "агуу буянтан",
+    "hanja": "大德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대도",
+    "translation": "том хот",
+    "hanja": "大盜",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대도무문",
+    "translation": "шударга ёсон үргэлж байна",
+    "hanja": "大道無門",
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "대도시",
+    "translation": "том хот",
+    "hanja": "大都市",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대독",
+    "translation": "чангаар унших",
+    "hanja": "代讀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대독하다",
+    "translation": "өөр хүний өмнөөс унших",
+    "hanja": "代讀하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대동",
+    "translation": "Хамт дагалдах",
+    "hanja": "帶同",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대동강",
+    "translation": "Тэдон гол",
+    "hanja": "大同江",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대동단결",
+    "translation": "нийт ард түмний нэгдэл",
+    "hanja": "大同團結",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대동단결하다",
+    "translation": "нэгдэж ойлголцох",
+    "hanja": "大同團結하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대동맥류",
+    "translation": "аортын аневризм",
+    "hanja": "大動脈瘤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대동소이하다",
+    "translation": "ижил төстэй байх",
+    "hanja": "大同小異하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "대동여지도",
+    "translation": "Дэдонёожидо (Солонгосын эртний газрын зураг)",
+    "hanja": "大東輿地圖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대동하다",
+    "translation": "дагалдан явах",
+    "hanja": "大同하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "대두",
+    "translation": "гарч ирэх",
+    "hanja": "擡頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대두되다",
+    "translation": "Үүсэн гарч ирэх",
+    "hanja": "擡頭되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "대두하다",
+    "translation": "гарах",
+    "hanja": "擡頭하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대들다",
+    "translation": "Эсэргүүцэх, дургүйцэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "대들보",
+    "translation": "тулгуур мод",
+    "hanja": "大들보",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대등",
+    "translation": "тэнцүү",
+    "hanja": "對等",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대등하다",
+    "translation": "тэнцүү, ижил тэнцүү байх",
+    "hanja": "對等하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대딩",
+    "translation": "их сургуулийн оюутан (сленг)",
+    "hanja": "대딩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대뜸",
+    "translation": "Гэнэт, шууд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대란",
+    "translation": "Томоохон үймээн, их хямрал",
+    "hanja": "大亂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대략",
+    "translation": "ойролцоогоор",
+    "hanja": "大略",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대략적",
+    "translation": "Ойролцоогоор",
+    "hanja": "大略的",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대량",
+    "translation": "их хэмжээний",
+    "hanja": "大量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대런",
+    "translation": "Дарен",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "대련",
+    "translation": "тулаан, спарринг",
+    "hanja": "對練",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대련하다",
+    "translation": "харьцуулах",
+    "hanja": "대련하다(對練하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대령",
+    "translation": "хурандаа",
+    "hanja": "大領",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대령하다",
+    "translation": "Бэлдэх",
+    "hanja": "大令하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대례",
+    "translation": "ёслол",
+    "hanja": "大禮",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대로",
+    "translation": "Зам, өргөн чөлөө",
+    "hanja": "大路",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "대로변",
+    "translation": "Замын хажуу",
+    "hanja": "大路邊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대로하다",
+    "translation": "маш их уурлах",
+    "hanja": "大怒하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대롱",
+    "translation": "нарийн хоолой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대롱거리다",
+    "translation": "чанга чанга дуугарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대롱대롱",
+    "translation": "унаган ус, өлгөөтэй өлгөөтэй",
+    "hanja": "대롱대롱",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대룡",
+    "translation": "том луу",
+    "hanja": "大龍",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대류",
+    "translation": "конвекци",
+    "hanja": "對流",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대륙",
+    "translation": "тив",
+    "hanja": "大陸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대륙성",
+    "translation": "эртний эх газрын",
+    "hanja": "大陸性",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대리",
+    "translation": "орлогч",
+    "hanja": "代理",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대리다",
+    "translation": "дагуулах, аваачих",
+    "hanja": "戴리다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "대리모",
+    "translation": "орлон эх",
+    "hanja": "代理母",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대리비",
+    "translation": "төлөөлөгчийн төлбөр",
+    "hanja": "代理費",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대리석",
+    "translation": "Гантиг чулуу",
+    "hanja": "大理石",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대리인",
+    "translation": "төлөөлөгч",
+    "hanja": "代理人",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대리자",
+    "translation": "төлөөлөгч",
+    "hanja": "代理者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대리점",
+    "translation": "төлөөлөгчийн газар",
+    "hanja": "代理店",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대리하다",
+    "translation": "орлох, төлөөлөх",
+    "hanja": "代理하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대립",
+    "translation": "сөргөлдөөн",
+    "hanja": "對立",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대립되다",
+    "translation": "эсрэгцэх, сөргөлдөх",
+    "hanja": "對立되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대립적",
+    "translation": "сөргөлдөөнтэй",
+    "hanja": "對立的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "대립하다",
+    "translation": "сөргөлдөх",
+    "hanja": "對立하다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "대마",
+    "translation": "марихуан (Ургамал)",
+    "hanja": "大麻",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대마초",
+    "translation": "марихуан",
+    "hanja": "大麻草",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대만",
+    "translation": "Тайвань",
+    "hanja": "臺灣",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "대만족하다",
+    "translation": "маш их сэтгэл хангалуун байх",
+    "hanja": "大滿足하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대망",
+    "translation": "их хүсэл",
+    "hanja": "大望",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대머리",
+    "translation": "халзан",
+    "hanja": "대머리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대면",
+    "translation": "нүүр тулах",
+    "hanja": "對面",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대면하다",
+    "translation": "нүүр тулах",
+    "hanja": "對面하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대명",
+    "translation": "аугаа нэр",
+    "hanja": "代名",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대명사",
+    "translation": "Төлөөний үг",
+    "hanja": "代名詞",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대명천지",
+    "translation": "өдөр дундад",
+    "hanja": "大明天地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대모",
+    "translation": "Загалмай эх",
+    "hanja": "代母",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대목",
+    "translation": "гол хэсэг",
+    "hanja": "대목",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대못",
+    "translation": "том хадаас",
+    "hanja": "大못",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대무",
+    "translation": "их бүжиг",
+    "hanja": "大舞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대무신왕",
+    "translation": "Дэмушинь ван",
+    "hanja": "大武神王",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대문",
+    "translation": "Хаалга",
+    "hanja": "大門",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대문자",
+    "translation": "том үсэг, том үсгээр",
+    "hanja": "大文字",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대문짝",
+    "translation": "том хаалга, хаалганы навч",
+    "hanja": "大門짝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대문짝만하다",
+    "translation": "том хаалга шиг",
+    "hanja": "大門짝만하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대물",
+    "translation": "Том хэмжээтэй зүйл",
+    "hanja": "大物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대물림",
+    "translation": "Удам дамжсан",
+    "hanja": "대물림",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대물림되다",
+    "translation": "үе дамжих",
+    "hanja": "代물림되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대물림하다",
+    "translation": "өвлүүлэх",
+    "hanja": "代물림하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대미",
+    "translation": "төгсгөл, төгсгөлийг тохиолдуулах",
+    "hanja": "大尾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대바늘",
+    "translation": "том зүү (нэхэх)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대박",
+    "translation": "гайхалтай",
+    "hanja": "大박",
+    "pos": " 감탄사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대방",
+    "translation": "том гэр",
+    "hanja": "大房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대방광불화엄경",
+    "translation": "Аватамсака судар",
+    "hanja": "大方廣佛華嚴經",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대방출하다",
+    "translation": "Их хэмжээгээр гаргах, хямдралтай худалдах",
+    "hanja": "大放出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대밭",
+    "translation": "Хулсны төгөл",
+    "hanja": "대밭",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대백",
+    "translation": "түрүүлэн хэлэх",
+    "hanja": "代白",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대번",
+    "translation": "нэг дор, шууд",
+    "hanja": "大番",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대범",
+    "translation": "Өргөн цар хүрээтэй, өгөөмөр",
+    "hanja": "大凡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대범하다",
+    "translation": "өргөн сэтгэлтэй",
+    "hanja": "大汎하다",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "대법",
+    "translation": "дээд шүүх, дээд хууль",
+    "hanja": "大法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대법관",
+    "translation": "дээд шүүхийн шүүгч",
+    "hanja": "大法院官",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "대법원",
+    "translation": "Дээд Шүүх",
+    "hanja": "大法院",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대법원장",
+    "translation": "Дээд Шүүхийн Ерөнхий шүүгч",
+    "hanja": "大法院長",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대법정",
+    "translation": "дээд шүүхийн танхим",
+    "hanja": "大法廷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대변",
+    "translation": "өтгөн, баас",
+    "hanja": "大便",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대변되다",
+    "translation": "төлөөлөгдөх",
+    "hanja": "代辯되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "대변인",
+    "translation": "хэвлэлийн төлөөлөгч",
+    "hanja": "代辯人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대변자",
+    "translation": "Төлөөлөгч",
+    "hanja": "代辯者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대변하다",
+    "translation": "төлөөлөх, илэрхийлэх",
+    "hanja": "代辯하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대보름",
+    "translation": "сарны хуанлийн нэгдүгээр сарын 15",
+    "hanja": "大보름",
+    "pos": "н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "대복",
+    "translation": "их аз жаргал",
+    "hanja": "大福",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대본",
+    "translation": "Зохиол",
+    "hanja": "臺本",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대봉",
+    "translation": "Том лац, том битүүмжлэл",
+    "hanja": "大封",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "대부",
+    "translation": "үндсэн зээл, загалмайлсан эцэг",
+    "hanja": "대부",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대부분",
+    "translation": "ихэнх, дийлэнх",
+    "hanja": "大部分",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대북",
+    "translation": "Хойд Солонгосын эсрэг",
+    "hanja": "對北",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대분",
+    "translation": "ихэнх хэсэг",
+    "hanja": "大部分",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대비",
+    "translation": "бэлтгэл, сэрэмжлүүлэг",
+    "hanja": " 대비",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대비되다",
+    "translation": "харьцуулагдах",
+    "hanja": " 대비되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "대비법",
+    "translation": "харьцуулах арга",
+    "hanja": "對比法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대비책",
+    "translation": "бэлтгэл арга хэмжээ",
+    "hanja": " 대비책",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대비하다",
+    "translation": "Бэлдэх",
+    "hanja": " 대비하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대빵",
+    "translation": "том хүн",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대사",
+    "translation": "элчин сайд",
+    "hanja": "大使",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대사관",
+    "translation": "Элчин сайдын яам",
+    "hanja": "大使館",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대사전",
+    "translation": "том толь бичиг",
+    "hanja": "大辭典",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대사체",
+    "translation": "метаболит",
+    "hanja": "代謝體",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대사하다",
+    "translation": "уучлах",
+    "hanja": "大赦하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대사헌",
+    "translation": "их зочин",
+    "hanja": "大司憲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대상",
+    "translation": "зорилго",
+    "hanja": "對象",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대상물",
+    "translation": "объект",
+    "hanja": "대 상 물",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대상자",
+    "translation": "оролцогч, зорилтот хүн",
+    "hanja": "對象者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대상지",
+    "translation": "зорилтот газар",
+    "hanja": "對象地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대상화하다",
+    "translation": "Зорилго болгох",
+    "hanja": "對象化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대생",
+    "translation": "ижил төрлийн",
+    "hanja": "對生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대서양",
+    "translation": "Атлантын далай",
+    "hanja": "大西洋",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대서특필",
+    "translation": "том мэдээ",
+    "hanja": "大書特筆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대서특필되다",
+    "translation": "томоохон гарчигтайгаар бичигдэх, онцгойлон нийтлэгдэх",
+    "hanja": "大書特筆되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대서특필하다",
+    "translation": "онцолж бичих",
+    "hanja": "大書特筆하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대석",
+    "translation": "том чулуу",
+    "hanja": "大石",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대선",
+    "translation": "ерөнхийлөгчийн сонгууль",
+    "hanja": "大選",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대선배",
+    "translation": "ахмад багш, ахмад үеийн хүн",
+    "hanja": "大先輩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대설",
+    "translation": "их цас",
+    "hanja": "大雪",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대성",
+    "translation": "их амжилт",
+    "hanja": "大成",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대성공",
+    "translation": "агуу амжилт",
+    "hanja": "大成功",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대성공하다",
+    "translation": "их амжилт олох",
+    "hanja": "大成功하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대성당",
+    "translation": "сүм хийд",
+    "hanja": "大聖堂",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대성통곡",
+    "translation": "чангаар уйлах, цөхрөн уйлах",
+    "hanja": "大聲痛哭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대성통곡하다",
+    "translation": "Чанга уйлах; Хашгиран уйлах",
+    "hanja": "大聲痛哭하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대성하다",
+    "translation": "маш их амжилт олох",
+    "hanja": "大成하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "대성황",
+    "translation": "их амжилт",
+    "hanja": "大盛況",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대세",
+    "translation": "Ерөнхий хандлага",
+    "hanja": "大勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대소",
+    "translation": "том жижиг",
+    "hanja": "大小",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대소변",
+    "translation": "их, бага бие засах",
+    "hanja": "大小便",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대소사",
+    "translation": "том жижиг хэрэг",
+    "hanja": "大小事",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대속",
+    "translation": "орлох",
+    "hanja": "代贖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대속하다",
+    "translation": "нүглийг наманчлах, аврах",
+    "hanja": "代贖하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대손",
+    "translation": "ач, зээ",
+    "hanja": "代孫",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "대수",
+    "translation": "чухал зүйл",
+    "hanja": "大數",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대수롭다",
+    "translation": "Чухал, ач холбогдолтой",
+    "hanja": "大事롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대수술",
+    "translation": "том мэс засал",
+    "hanja": "大手術",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대숲",
+    "translation": "Хулсны төгөл",
+    "hanja": "대숲",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대쉬",
+    "translation": "давшилт",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대승",
+    "translation": "их ялалт",
+    "hanja": "대승(大勝)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대승하다",
+    "translation": "ялгуусан ялалт байгуулах",
+    "hanja": "大勝하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대시",
+    "translation": "хурдан гүйлт, зураас",
+    "hanja": "dash",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대시하다",
+    "translation": "давшин орох, довтлох",
+    "hanja": "dash-",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "대식",
+    "translation": "Их идэх",
+    "hanja": "大食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대식가",
+    "translation": "их иддэг хүн",
+    "hanja": "大食家",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대신",
+    "translation": "оронд нь",
+    "hanja": "代身",
+    "pos": "adv",
+    "cefr": "A2"
+  },
+  {
+    "word": "대신하다",
+    "translation": "оронд нь",
+    "hanja": "代身하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "대실",
+    "translation": "өрөө түрээслэх",
+    "hanja": "貸室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대실하다",
+    "translation": "том алдаа гаргах",
+    "hanja": "大失하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대써",
+    "translation": "бүгдийг нь бичсэн",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대악",
+    "translation": "их муу",
+    "hanja": "大惡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대안",
+    "translation": "хувилбар",
+    "hanja": "代案",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대야",
+    "translation": "том таваг",
+    "hanja": "大野",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대양",
+    "translation": "далай",
+    "hanja": "大洋",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대어",
+    "translation": "том загас",
+    "hanja": "大魚",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대언하다",
+    "translation": "хэлэх, тунхаглах",
+    "hanja": "代言하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대업",
+    "translation": "агуу үйл",
+    "hanja": "大業",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대에",
+    "translation": "нас, үе",
+    "hanja": "代에",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대여",
+    "translation": "түрээслэх",
+    "hanja": "貸與",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대여되다",
+    "translation": "зээлдэх",
+    "hanja": "貸與되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "대여료",
+    "translation": "түрээсийн төлбөр",
+    "hanja": "貸與料",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대여섯",
+    "translation": "тав зургаа",
+    "hanja": "대여섯",
+    "pos": "수사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대여점",
+    "translation": "түрээсийн газар",
+    "hanja": "貸與店",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대여하다",
+    "translation": "зээлүүлэх",
+    "hanja": "貸與하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대역",
+    "translation": "орлон тоглогч",
+    "hanja": "代役(대역)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대역무도하다",
+    "translation": "эзнээсээ урвах",
+    "hanja": "大逆無道하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "대역사",
+    "translation": "агуу түүх",
+    "hanja": "大役事",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대역전승",
+    "translation": "Том эргэлтийн ялалт",
+    "hanja": "大逆轉勝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대역하다",
+    "translation": "урвах",
+    "hanja": "大逆하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대연",
+    "translation": "их хурал",
+    "hanja": "大宴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대열",
+    "translation": "жагсаал",
+    "hanja": "隊列",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대엽",
+    "translation": "том навч",
+    "hanja": "大葉",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "대영",
+    "translation": "Их Британи",
+    "hanja": "大英",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대오",
+    "translation": "жагсаал",
+    "hanja": "隊伍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대왕",
+    "translation": "их хаан",
+    "hanja": "大王",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대왕대비",
+    "translation": "Хатан эх",
+    "hanja": "大王大妃",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "대외",
+    "translation": "гадаад харилцаа",
+    "hanja": "對外",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대외적",
+    "translation": "Гадаад",
+    "hanja": "對外的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "대용",
+    "translation": "Орлуулах",
+    "hanja": "代用",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대용량",
+    "translation": "Их багтаамжтай",
+    "hanja": "大容量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대용품",
+    "translation": "Орлуулагч бүтээгдэхүүн",
+    "hanja": "代用品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대용하다",
+    "translation": "Орлуулах; Солих",
+    "hanja": "代用하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대우",
+    "translation": "Харьцаа, харилцаа",
+    "hanja": "待遇",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대우하다",
+    "translation": "хүндэтгэх, харьцах",
+    "hanja": "待遇하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "대운",
+    "translation": "их аз (хувь тавилан)",
+    "hanja": "大運",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대웅",
+    "translation": "агуу баатар",
+    "hanja": "大雄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대웅전",
+    "translation": "Махавира танхим",
+    "hanja": "大雄殿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대원",
+    "translation": "Багийн гишүүн",
+    "hanja": "隊員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대원칙",
+    "translation": "үндсэн зарчим",
+    "hanja": "大原則",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대위",
+    "translation": "ахмад",
+    "hanja": "大尉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대유",
+    "translation": "их элбэг",
+    "hanja": "大有",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대유행",
+    "translation": "Царт тахал, их хүрээтэй тахал",
+    "hanja": "大流行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대유행하다",
+    "translation": "тархах",
+    "hanja": "大流行하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대읍",
+    "translation": "том хот",
+    "hanja": "大邑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대응",
+    "translation": "хариу үйлдэл",
+    "hanja": "對應",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대응되다",
+    "translation": "харгалзах",
+    "hanja": "對應되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대응사격",
+    "translation": "хариу буудлага",
+    "hanja": "對應射擊",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대응책",
+    "translation": "хариу арга хэмжээ",
+    "hanja": "對應策",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대응하다",
+    "translation": "хариу өгөх",
+    "hanja": "對應하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "대의",
+    "translation": "их утга, чухал санаа",
+    "hanja": "大義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대의명분",
+    "translation": "Үндсэн зорилго, шударга шалтгаан",
+    "hanja": "大義名分",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "대의원",
+    "translation": "төлөөлөгч гишүүн",
+    "hanja": "代議員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대인",
+    "translation": "том хүн, хүмүүстэй харилцах",
+    "hanja": "大人/對人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대일",
+    "translation": "Японтой холбоотой",
+    "hanja": "対日",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대입",
+    "translation": "Их сургуульд элсэх",
+    "hanja": "大入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대입하다",
+    "translation": "орлуулах",
+    "hanja": "代入하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대자",
+    "translation": "том үсэг",
+    "hanja": "大字",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대자보",
+    "translation": "Том бичигтэй зарлал",
+    "hanja": "대자보",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대자연",
+    "translation": "Байгаль дэлхий",
+    "hanja": "大自然",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대작",
+    "translation": "том бүтээл, гайхалтай бүтээл",
+    "hanja": "大作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대작가",
+    "translation": "агуу зохиолч",
+    "hanja": "大作家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대작전",
+    "translation": "том ажиллагаа",
+    "hanja": "大作戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대잔치",
+    "translation": "их баяр",
+    "hanja": "大-",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대장",
+    "translation": "ахлагч",
+    "hanja": "大將",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대장간",
+    "translation": "дарханы газар",
+    "hanja": "大匠間",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대장경",
+    "translation": "Ганжуур",
+    "hanja": "大藏經",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "대장균",
+    "translation": "гэдэсний савханцар",
+    "hanja": "大腸菌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대장부",
+    "translation": "эр хүн",
+    "hanja": "大丈夫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대장암",
+    "translation": "Бүдүүн гэдэсний хорт хавдар",
+    "hanja": "大腸癌",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "대장염",
+    "translation": "бүдүүн гэдэсний үрэвсэл",
+    "hanja": "大腸炎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대장장이",
+    "translation": "Дархан",
+    "hanja": "대장장이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대장정",
+    "translation": "их аян",
+    "hanja": "大長征",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대저",
+    "translation": "учир нь, яагаад гэвэл",
+    "hanja": "大抵",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대적",
+    "translation": "дайсан, өрсөлдөгч",
+    "hanja": "對敵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대적하다",
+    "translation": "эсэргүүцэх, сөргөлдөх",
+    "hanja": "對敵하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대전",
+    "translation": "үндсэн хууль, их дайн (Daejeon хот)",
+    "hanja": "大典",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대전사",
+    "translation": "дэлхийн дайн",
+    "hanja": "大戰史",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대전제",
+    "translation": "үндсэн нөхцөл",
+    "hanja": "大前提",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대전하다",
+    "translation": "Тулалдах",
+    "hanja": "對戰하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "대절",
+    "translation": "Худалдан авах, түрээслэх",
+    "hanja": "貸切",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대절하다",
+    "translation": "бүхэлд нь түрээслэх",
+    "hanja": "貸切하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대접",
+    "translation": "хүлээж авах",
+    "hanja": "待接",
+    "pos": "NOUN",
+    "cefr": "B1"
+  },
+  {
+    "word": "대접받다",
+    "translation": "хүндлэгдэх",
+    "hanja": "待接받다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대접전",
+    "translation": "том тулаан",
+    "hanja": "大接戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대접하다",
+    "translation": "дайлах",
+    "hanja": "待接하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대정",
+    "translation": "дайшо",
+    "hanja": "大正",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대제",
+    "translation": "ариун ёслол",
+    "hanja": "大祭",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "대제사장",
+    "translation": "Ахлах тахилч",
+    "hanja": "大祭司長",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대제전",
+    "translation": "их баяр наадам",
+    "hanja": "大祭典",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대조",
+    "translation": "харьцуулалт",
+    "hanja": "對照",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대조되다",
+    "translation": "харьцуулагдах, эсрэгцэх",
+    "hanja": "對照되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대조영",
+    "translation": "Дэ Жоён (хүний нэр)",
+    "hanja": "大祚榮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대조적",
+    "translation": "тодосгох, эсрэг тэсрэг",
+    "hanja": "對照的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대조하다",
+    "translation": "харьцуулах",
+    "hanja": "對照하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대졸",
+    "translation": "их сургууль төгссөн",
+    "hanja": "大卒",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대졸자",
+    "translation": "Их сургууль төгсөгч",
+    "hanja": "大卒者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대종",
+    "translation": "их хонх",
+    "hanja": "大鐘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대종교",
+    "translation": "Дэжонггоё (шашны нэр)",
+    "hanja": "大倧敎",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대좌",
+    "translation": "суудал (том)",
+    "hanja": "臺座",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대죄",
+    "translation": "том нүгэл, маш том гэмт хэрэг",
+    "hanja": "大罪",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대죄하다",
+    "translation": "их нүгэл үйлдэх",
+    "hanja": "大罪하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "대주",
+    "translation": "томоохон хувьцаа эзэмшигч",
+    "hanja": "大株",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대주주",
+    "translation": "Их хувьцаа эзэмшигч",
+    "hanja": "大株主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대준",
+    "translation": "ихэнх нь зөвшөөрсөн",
+    "hanja": "大準",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대중",
+    "translation": "олон нийт",
+    "hanja": "大衆",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대중가요",
+    "translation": "поп дуу",
+    "hanja": "大衆歌謠",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대중교통",
+    "translation": "Нийтийн тээвэр",
+    "hanja": "大衆交通",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대중목욕탕",
+    "translation": "нийтийн угаалгын газар",
+    "hanja": "大衆沐浴湯",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대중문화",
+    "translation": "Олон нийтийн соёл",
+    "hanja": "大衆文化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대중성",
+    "translation": "олон нийтийн чанар",
+    "hanja": "大衆性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대중소",
+    "translation": "том, дунд, жижиг",
+    "hanja": "大中小",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대중없다",
+    "translation": "тодорхойгүй",
+    "hanja": "大衆─",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대중음악",
+    "translation": "поп хөгжим",
+    "hanja": "大衆音樂",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대중적",
+    "translation": "нийтийн",
+    "hanja": "大衆的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대중화",
+    "translation": "Олон нийтэд түгээх",
+    "hanja": "大衆化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대중화되다",
+    "translation": "нийтийн",
+    "hanja": "大衆化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대중화하다",
+    "translation": "олон нийтэд түгээх, түгээмэл болгох",
+    "hanja": "大衆化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대지",
+    "translation": "агуу газар, эх дэлхий",
+    "hanja": "大地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대지모신",
+    "translation": "Газрын эх дагинын бурхан",
+    "hanja": "大地母神",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대지진",
+    "translation": "их газар хөдлөлт",
+    "hanja": "大地震",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대진",
+    "translation": "тамирчдыг хооронд нь тохируулах",
+    "hanja": "對陣",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대진표",
+    "translation": "Тоглолтын хуваарь",
+    "hanja": "대진표",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대질",
+    "translation": "нүүрэлдүүлэх",
+    "hanja": "對質",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대질하다",
+    "translation": "тулгах",
+    "hanja": "對質하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대쪽",
+    "translation": "хулсны хана",
+    "hanja": "대쪽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대차다",
+    "translation": "зоригтой",
+    "hanja": "대차다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "대찬",
+    "translation": "Маш хүчтэй, их",
+    "hanja": "大贊",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대참사",
+    "translation": "том гамшиг",
+    "hanja": "大慘事",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대창",
+    "translation": "том цонх",
+    "hanja": "大窓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대채",
+    "translation": "ихэнх",
+    "hanja": "大體",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대책",
+    "translation": "арга хэмжээ",
+    "hanja": "對策",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대처",
+    "translation": "хариу арга хэмжээ авах",
+    "hanja": "對處",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대처하다",
+    "translation": "Шийдвэрлэх",
+    "hanja": "對處하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "대천",
+    "translation": "Даечон (Хотын нэр)",
+    "hanja": "大川",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대철",
+    "translation": "Даэ-чол (хүний нэр)",
+    "hanja": "大哲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대첩",
+    "translation": "их ялалт",
+    "hanja": "大捷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대청",
+    "translation": "Их танхим",
+    "hanja": "대청",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대청소",
+    "translation": "их цэвэрлэгээ",
+    "hanja": "大掃除",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대청소하다",
+    "translation": "их цэвэрлэгээ хийх",
+    "hanja": "大淸掃─",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대체",
+    "translation": "орлуулах",
+    "hanja": "代替",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대체되다",
+    "translation": "солигдох",
+    "hanja": "代替되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대체물",
+    "translation": "орлуулагч",
+    "hanja": "代替物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대체적",
+    "translation": "Ерөнхийдөө, ерөнхий",
+    "hanja": "大體的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대체하다",
+    "translation": "орлуулах, солих",
+    "hanja": "代替하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대추",
+    "translation": "Улаан огноо",
+    "hanja": "대추",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대추나무",
+    "translation": "жужуб мод",
+    "hanja": "대추나무",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대추차",
+    "translation": "жужовийн цай",
+    "hanja": "대추차",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대축제",
+    "translation": "Их баяр",
+    "hanja": "大祝祭",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대출",
+    "translation": "зээл",
+    "hanja": "貸出",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대출금",
+    "translation": "зээлийн мөнгө",
+    "hanja": "貸出金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대출되다",
+    "translation": "зээлдэх",
+    "hanja": "貸出되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대출증",
+    "translation": "номын карт",
+    "hanja": "貸出證",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대출하다",
+    "translation": "зээл олгох",
+    "hanja": "貸出하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "대충",
+    "translation": "Ойролцоогоор",
+    "hanja": "null",
+    "pos": "adv",
+    "cefr": "B1"
+  },
+  {
+    "word": "대충대충",
+    "translation": "бүдүүлэг байдал",
+    "hanja": "대충대충",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대충하다",
+    "translation": "ерөнхийдөө хийх, яаруу хийх",
+    "hanja": "大충하다",
+    "pos": "ү.ү",
+    "cefr": "B2"
+  },
+  {
+    "word": "대치되다",
+    "translation": "орлуулагдах, солигдох",
+    "hanja": "代替되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대치하다",
+    "translation": "солих, орлуулах",
+    "hanja": "對置하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대침",
+    "translation": "том зүү",
+    "hanja": "大鍼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대칭",
+    "translation": "Тэгш хэм",
+    "hanja": "對稱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대칭되다",
+    "translation": "тэгш хэмтэй байх",
+    "hanja": "對稱되다",
+    "pos": "VV",
+    "cefr": "C1"
+  },
+  {
+    "word": "대칭적",
+    "translation": "тэгш хэмтэй",
+    "hanja": "對稱的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "대타",
+    "translation": "орлон тоглогч",
+    "hanja": "代打",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대타협",
+    "translation": "их зохицол",
+    "hanja": "大妥協",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대토",
+    "translation": "орлуулах газар",
+    "hanja": "代土",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대통",
+    "translation": "их зохицол",
+    "hanja": "大通",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대통령",
+    "translation": "ерөнхийлөгч",
+    "hanja": "大統領",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대통령제",
+    "translation": "Ерөнхийлөгчийн эзэмшил",
+    "hanja": "大統領制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대퇴",
+    "translation": "гуя",
+    "hanja": "大腿",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대퇴부",
+    "translation": "гуя",
+    "hanja": "大腿部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대파",
+    "translation": "Ногоон сонгино",
+    "hanja": "大蔥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대파하다",
+    "translation": "ихээр устгах",
+    "hanja": "大破하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대패",
+    "translation": "Дүфлүүр",
+    "hanja": "大鉋",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대패질하다",
+    "translation": "талстлах, зоргох (модыг)",
+    "hanja": "大鉋질하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대패하다",
+    "translation": "Их хэмжээгээр ялагдах",
+    "hanja": "大敗하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대팻밥",
+    "translation": "Үртэс",
+    "hanja": "대팻밥",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대평원",
+    "translation": "их тал",
+    "hanja": "大平原",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대포",
+    "translation": "их буу",
+    "hanja": "大砲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대포차",
+    "translation": "Хууль бус тээврийн хэрэгсэл",
+    "hanja": "大砲車",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대폭",
+    "translation": "их хэмжээгээр",
+    "hanja": "大幅",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대폭락하다",
+    "translation": "ихээр унах",
+    "hanja": "大暴落하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대폭발하다",
+    "translation": "томоохон дэлбэрэх",
+    "hanja": "大爆發하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대폭적",
+    "translation": "их хэмжээний",
+    "hanja": "大幅的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "대폿집",
+    "translation": "согтууруулах ундааны газар",
+    "hanja": null,
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "대표",
+    "translation": "төлөөлөгч",
+    "hanja": "代表",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대표단",
+    "translation": "төлөөлөгчид",
+    "hanja": "代表團",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대표되다",
+    "translation": "төлөөлөгдөх",
+    "hanja": "代表되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대표성",
+    "translation": "төлөөлөх чадвар, төлөөлөл",
+    "hanja": "代表性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대표자",
+    "translation": "төлөөлөгч",
+    "hanja": "代表者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대표작",
+    "translation": "Төлөөлөх бүтээл, шилдэг бүтээл",
+    "hanja": "代表作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대표적",
+    "translation": "төлөөлөгчийн",
+    "hanja": "代表的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대표하다",
+    "translation": "төлөөлөх",
+    "hanja": "代表하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "대표회",
+    "translation": "Төлөөлөгчдийн хурал",
+    "hanja": "代表會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대풍",
+    "translation": "Их ургац, их салхи",
+    "hanja": "大豊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대프리카",
+    "translation": "Тэгу хотын халуун цаг агаар (Даegu + Аfrica)",
+    "hanja": null,
+    "pos": "신조어",
+    "cefr": "C2"
+  },
+  {
+    "word": "대피",
+    "translation": "Нүүлгэн шилжүүлэх, зайлуулах",
+    "hanja": "待避",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대피소",
+    "translation": "Хорогдох байр",
+    "hanja": "大避所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대피하다",
+    "translation": "нүүлгэн шилжүүлэх, хоргодох",
+    "hanja": "待避하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대필",
+    "translation": "хүний өмнөөс бичих",
+    "hanja": "代筆",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대필하다",
+    "translation": "бусдын өмнөөс бичих",
+    "hanja": "代筆하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대하",
+    "translation": "том хавч",
+    "hanja": "大蝦",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대하다",
+    "translation": "хандах, тулгарах",
+    "hanja": "対하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대하드라마",
+    "translation": "урт цуврал кино, түүхэн цуврал драм",
+    "hanja": "大河드라마",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대하소설",
+    "translation": "туульс роман",
+    "hanja": "大河小說",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대학",
+    "translation": "Их сургууль",
+    "hanja": "大學",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "대학가",
+    "translation": "их сургуулийн дүүрэг",
+    "hanja": "大學街",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대학교",
+    "translation": "их сургууль",
+    "hanja": "大學校",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "대학교수",
+    "translation": "их сургуулийн профессор",
+    "hanja": "大學敎授",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대학살",
+    "translation": "их аллага",
+    "hanja": "大虐殺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대학생",
+    "translation": "их сургуулийн оюутан",
+    "hanja": "大學生",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "대학원",
+    "translation": "Магистр, доктор",
+    "hanja": "大學院",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대학원생",
+    "translation": "магистрант, докторант",
+    "hanja": "大學院生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대학자",
+    "translation": "шүүн судлаач, их эрдэмтэн",
+    "hanja": "大學者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대한매일신보",
+    "translation": "Тэхан Мэил Шинбо (сонин)",
+    "hanja": "大韓每日申報",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대한민국",
+    "translation": "БНСУ",
+    "hanja": "大韓民國",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "대합",
+    "translation": "химил, нялцгай биетэн",
+    "hanja": "大蛤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대합실",
+    "translation": "хүлээлгийн танхим",
+    "hanja": "待合室",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대항",
+    "translation": "эсэргүүцэл, тэмцэл",
+    "hanja": "對抗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대항전",
+    "translation": "сөрөг тулаан",
+    "hanja": "對抗戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대항하다",
+    "translation": "эсэргүүцэх",
+    "hanja": "對抗하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대해",
+    "translation": "далай",
+    "hanja": "大海",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대행",
+    "translation": "Төлөөлөгч",
+    "hanja": "代行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대행업체",
+    "translation": "агентлаг",
+    "hanja": "代行業者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대행진",
+    "translation": "их жагсаал",
+    "hanja": "大行進",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대행하다",
+    "translation": "төлөөлж хийх",
+    "hanja": "대행(代行)하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대혁명",
+    "translation": "их хувьсгал",
+    "hanja": "大革命",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대형",
+    "translation": "том хэмжээний",
+    "hanja": "大型",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대형차",
+    "translation": "том машин",
+    "hanja": "大型車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대형화",
+    "translation": "томруулах",
+    "hanja": "大型化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대형화되다",
+    "translation": "том хэлбэрт шилжих",
+    "hanja": "大型化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대호",
+    "translation": "том ирвэс",
+    "hanja": "大虎",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대호황",
+    "translation": "их цэцэглэлт",
+    "hanja": "大好況",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대혼",
+    "translation": "их хурим",
+    "hanja": "大婚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대혼란",
+    "translation": "их эмх замбараагүй байдал",
+    "hanja": "大混亂",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대홍수",
+    "translation": "Их үер",
+    "hanja": "大洪水",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대화",
+    "translation": "яриа",
+    "hanja": "對話",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "대화방",
+    "translation": "чат өрөө",
+    "hanja": "對話房",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대화재",
+    "translation": "их түймэр",
+    "hanja": "大火災",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대화창",
+    "translation": "Харилцан ярианы цонх",
+    "hanja": "對話窓",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대화체",
+    "translation": "ярианы хэлбэр",
+    "hanja": "對話體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대화하다",
+    "translation": "ярилцах",
+    "hanja": "對話하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대환",
+    "translation": "их баяр баясгалан",
+    "hanja": "大歡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대환영",
+    "translation": "их баярлалтай, таатай хүлээн авах",
+    "hanja": "大歡迎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대활약하다",
+    "translation": "маш идэвхтэй ажиллах",
+    "hanja": "大活躍하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대황",
+    "translation": "ревень",
+    "hanja": "大黃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대회",
+    "translation": "Тэмцээн, чуулган",
+    "hanja": "大會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대회장",
+    "translation": "их хуралдааны танхим",
+    "hanja": "大會場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대흥",
+    "translation": "их хөгжил, агуу хөгжил",
+    "hanja": "大興",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "대희",
+    "translation": "Их баяр хөөр",
+    "hanja": "大喜",
+    "pos": "Noun",
+    "cefr": "C2"
+  }
+]

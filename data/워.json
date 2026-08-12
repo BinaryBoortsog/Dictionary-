@@ -1,0 +1,345 @@
+[
+  {
+    "word": "워",
+    "translation": "хонгор минь (дуудлага)",
+    "hanja": "워",
+    "pos": "interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "워낙",
+    "translation": "анхнаасаа",
+    "hanja": "元來",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "워낭",
+    "translation": "хонх (үхрийн)",
+    "hanja": "워낭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "워너",
+    "translation": "хүсэгч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "워너비",
+    "translation": "дуурайхыг хүссэн хүн",
+    "hanja": "wannabe",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "워드",
+    "translation": "үг",
+    "hanja": "—",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "워디",
+    "translation": "үгсийн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "워딩",
+    "translation": "үг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "워따",
+    "translation": "юу вэ, ямар нэгэн зүйлийг гайхах үед хэрэглэх үг",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "C1"
+  },
+  {
+    "word": "워라밸",
+    "translation": "Ажил амьдралын тэнцвэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "워라벨",
+    "translation": "ажлын болон хувийн амьдралын тэнцвэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "워락",
+    "translation": "Варлок (компьютер тоглоомны нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "워런트",
+    "translation": "баталгаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "워리",
+    "translation": "ворри",
+    "hanja": "워리",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "워머",
+    "translation": "дулаацуулагч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "워메",
+    "translation": "өү май год",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "워미",
+    "translation": "хүү ээ",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "워밍업",
+    "translation": "Халаалт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "워블",
+    "translation": "Дайвалзах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "워셔액",
+    "translation": "угаагч шингэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "워싱턴",
+    "translation": "Вашингтон",
+    "hanja": "워싱턴",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "워워",
+    "translation": "байз байз",
+    "hanja": "Woah woah",
+    "pos": "interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "워이",
+    "translation": "зайлаарай",
+    "hanja": "워이",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "워즈워스",
+    "translation": "Вордсворт",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "워찌",
+    "translation": "хэрхэн",
+    "hanja": "워찌",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "워치케",
+    "translation": "Вортичкэ (газрын нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "워치콘",
+    "translation": "Watchcon",
+    "hanja": "watchcon",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "워커",
+    "translation": "ажилчин, явган аялагч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "워커홀릭",
+    "translation": "ажилд шунахай хүн",
+    "hanja": "workerholic",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "워케이션",
+    "translation": "ажлын амралт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "워크",
+    "translation": "Ажил, алхах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "워크샵",
+    "translation": "семинар, сургалт",
+    "hanja": "워크샵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "워크숍",
+    "translation": "семинар, воркшоп",
+    "hanja": "workshop",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "워크스테이션",
+    "translation": "Ажлын станц (компютер)",
+    "hanja": "workstation",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "워크시트",
+    "translation": "ажлын хуудас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "워크아웃",
+    "translation": "Өр зохион байгуулалт",
+    "hanja": "workout",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "워키토키",
+    "translation": "уоки-токи",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "워킹",
+    "translation": "алхах",
+    "hanja": "walking",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "워터게이트",
+    "translation": "Уотергейт (улс төрийн дуулиан)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "워터마크",
+    "translation": "усан тэмдэг",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "워터스",
+    "translation": "Уотерс",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "워터퍼드",
+    "translation": "Уотерфорд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "워터폴",
+    "translation": "усан хүрхрээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "워터히아신스",
+    "translation": "усны гиацинт",
+    "hanja": "워터히아신스",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "워털루",
+    "translation": "Ватерлоо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "워텋다",
+    "translation": "Юу ч байсан хамаагүй",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "워프",
+    "translation": "warp",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "워호",
+    "translation": "вау!",
+    "hanja": "---",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "워홀",
+    "translation": "Уорхол",
+    "hanja": "워홀",
+    "pos": "고유명사",
+    "cefr": "C1"
+  }
+]

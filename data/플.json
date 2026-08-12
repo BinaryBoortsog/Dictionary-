@@ -1,0 +1,835 @@
+[
+  {
+    "word": "플",
+    "translation": "холбоос",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "플다",
+    "translation": "задлах, тайлах (хуучин үг)",
+    "hanja": "플다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플라나리아",
+    "translation": "планариа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플라네타륨",
+    "translation": "планетариум",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플라네타리움",
+    "translation": "гаригийн театр",
+    "hanja": "planetarium",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플라멩고",
+    "translation": "Фламенко",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플라멩코",
+    "translation": "фламенко",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플라밍고",
+    "translation": "фламинго",
+    "hanja": "flamingo",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플라보노이드",
+    "translation": "флавоноид",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플라세보",
+    "translation": "Плацебо",
+    "hanja": "플라세보",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플라스마",
+    "translation": "плазм",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플라스크",
+    "translation": "Колбо",
+    "hanja": "flask",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "플라스틱",
+    "translation": "хуванцар",
+    "hanja": "플라스틱",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플라야",
+    "translation": "Плая (хуурай давст нуур)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플라우투스",
+    "translation": "Плаут",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "플라이",
+    "translation": "Нислэг; шавьж (ялаа)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플라이바이",
+    "translation": "нисч өнгөрөх",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플라이스토세",
+    "translation": "плейстоцен",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플라이어",
+    "translation": "бахь",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "플라이트",
+    "translation": "нислэг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플라잉",
+    "translation": "Нисдэг",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "플라자",
+    "translation": "талбай",
+    "hanja": null,
+    "pos": "м.н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "플라즈마",
+    "translation": "Плазм",
+    "hanja": "plasma",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플라크",
+    "translation": "Ялтас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플라타너스",
+    "translation": "улиас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플라토닉",
+    "translation": "платоник",
+    "hanja": "플라토닉",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플라톤",
+    "translation": "Платон",
+    "hanja": "플라톤",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "플란넬",
+    "translation": "фланель",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플랑드르",
+    "translation": "Фландерс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플랑크",
+    "translation": "Планк",
+    "hanja": "Planck",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플랑크톤",
+    "translation": "планктон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플래그",
+    "translation": "туг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플래그십",
+    "translation": "тэргүүлэх бүтээгдэхүүн, хошууч",
+    "hanja": "Flagship",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플래너",
+    "translation": "төлөвлөгч",
+    "hanja": "플래너",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플래쉬",
+    "translation": "гэрэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플래시",
+    "translation": "Гэрэлтүүлэгч",
+    "hanja": "플래시",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "translation": "флашбэк",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B2",
+    "word": "플래시백"
+  },
+  {
+    "word": "플래카드",
+    "translation": "зурагт хуудас, уриа",
+    "hanja": "placard",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "플래터",
+    "translation": "хавтан",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플래퍼",
+    "translation": "Флаппер",
+    "hanja": "플래퍼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플랙",
+    "translation": "Хавтгай",
+    "hanja": "Plack",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플랜더스",
+    "translation": "Фланери (уран бүтээлч)",
+    "hanja": "플랜더스",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "플랜테리어",
+    "translation": "ундмалын загвар, ногоон интерьер",
+    "hanja": "planterior",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플랜테이션",
+    "translation": "тариалангийн талбай",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "플랜테인",
+    "translation": "плантайн",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "플랜트",
+    "translation": "үйлдвэр",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플랩",
+    "translation": "хавхлаг, таглаа",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "플랫",
+    "translation": "хавтгай",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "플랫포밍",
+    "translation": "платформ",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "플랫폼",
+    "translation": "Платформ",
+    "hanja": "플랫폼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플랭크",
+    "translation": "түрүүвч",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "플러그",
+    "translation": "Плуг",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "플러드",
+    "translation": "үер",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "플러쉬",
+    "translation": "Флаш (покерын хөзрийн хослол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플러스",
+    "translation": "Нэмэх",
+    "hanja": "플러스",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "플러스되다",
+    "translation": "нэмэгдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플러스하다",
+    "translation": "нэмэх",
+    "hanja": "plus하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플러시",
+    "translation": "Флаш (бүх карт ижил төрлийн)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플러싱",
+    "translation": "флашинг (угаах)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플러터",
+    "translation": "Flutter",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플러팅",
+    "translation": "сүжиг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플럭스",
+    "translation": "флюс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플레밍",
+    "translation": "Флеминг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "플레시오사우루스",
+    "translation": "Плезиозавр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플레어",
+    "translation": "дөл, дэлсэлт",
+    "hanja": "flare",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "플레이",
+    "translation": "тоглох, тоглолт",
+    "hanja": "play",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플레이그라운드",
+    "translation": "тоглоомын талбай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플레이리스트",
+    "translation": "Тоглуулах жагсаалт",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플레이밍",
+    "translation": "флейминг (Урлаг)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "플레이백",
+    "translation": "дахин тоглуулах",
+    "hanja": "playback",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플레이보이",
+    "translation": "плейбой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플레이스",
+    "translation": "газар",
+    "hanja": "place",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "플레이아데스",
+    "translation": "Плеядууд",
+    "hanja": "플레이아데스",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "플레이어",
+    "translation": "тоглогч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플레이오프",
+    "translation": "Плей-офф",
+    "hanja": "playoff",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플레이크",
+    "translation": "хальс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플레이트",
+    "translation": "хавтан",
+    "hanja": "플레이트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플레이팅",
+    "translation": "таваглалт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플레처",
+    "translation": "Флетчер (нэр)",
+    "hanja": "Fletcher",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플렉스",
+    "translation": "гайхуулах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플로",
+    "translation": "урсгал, хөдөлгөөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플로깅",
+    "translation": "плогинг (жоггинг хийх зуураа хог түүх)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플로라",
+    "translation": "флора",
+    "hanja": "Flora",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "플로렌스",
+    "translation": "Флоренс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플로리",
+    "translation": "Цэцэгс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플로리다주",
+    "translation": "Флорида муж",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "플로리스트",
+    "translation": "цэцэгчин",
+    "hanja": "florist",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플로베르",
+    "translation": "Флобер (Оросын зохиолч)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플로어",
+    "translation": "шалан",
+    "hanja": "플로어",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플로이",
+    "translation": "заль мэх, арга заль",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플로킹",
+    "translation": "Флок, хөвсгөр бүрээс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플로토",
+    "translation": "Плутон",
+    "hanja": "null",
+    "pos": "고유명са",
+    "cefr": "A2"
+  },
+  {
+    "word": "플로트",
+    "translation": "Хөвөгч биет, усны хөвүүр",
+    "hanja": "플로트",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플로티노스",
+    "translation": "Плотин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플로팅",
+    "translation": "хөвөх",
+    "hanja": "No Hanja",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플로피",
+    "translation": "флоппи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플록",
+    "translation": "бөөгнөрөл",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "플롭",
+    "translation": "flop (алдаа)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플롯",
+    "translation": "Үйл явдал, хуйвалдаан",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "플뢰레",
+    "translation": "флёр (туялзуур сэлэмний нэг төрөл)",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플루크",
+    "translation": "Азаар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플루타르코스",
+    "translation": "Плутарх",
+    "hanja": "플루타르코스",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "플루타르크",
+    "translation": "Плутарх",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플루토",
+    "translation": "Плутон",
+    "hanja": "Pluto",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플루토늄",
+    "translation": "плутони",
+    "hanja": "Plutonium",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플루트",
+    "translation": "флейт",
+    "hanja": "flute",
+    "pos": "м",
+    "cefr": "A2"
+  },
+  {
+    "word": "플룻",
+    "translation": "Лимбэ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플리니우스",
+    "translation": "Плиний (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플리다",
+    "translation": "Тайлах, мултрах (буруу хэллэг)",
+    "hanja": "플리다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플리머스",
+    "translation": "Плимут (хот)",
+    "hanja": "플리머스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플리스",
+    "translation": "флис",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "플리에",
+    "translation": "плие (бүжгийн хөдөлгөөн)",
+    "hanja": "플리에",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "플리츠",
+    "translation": "плисс",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플리커",
+    "translation": "фликкер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "플리트",
+    "translation": "хөлөг онгоцны флот",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플리피",
+    "translation": "үслэг",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "플릭",
+    "translation": "хуруугаар цохих",
+    "hanja": "플릭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "플린트",
+    "translation": "флинт",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "플립",
+    "translation": "эгнээ",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

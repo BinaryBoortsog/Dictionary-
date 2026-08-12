@@ -1,0 +1,478 @@
+[
+  {
+    "word": "따",
+    "translation": "дагах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "따가닥",
+    "translation": "таг-таг",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "따가움",
+    "translation": "халуун, хурц",
+    "hanja": "따가움",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따갑다",
+    "translation": "хорсох, хурц",
+    "hanja": "따갑다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따개비",
+    "translation": "хясаа",
+    "hanja": "따개비",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "따귀",
+    "translation": "алгадах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따그닥",
+    "translation": "давхилах чимээ",
+    "hanja": "따그닥",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따까리",
+    "translation": "дагалдан",
+    "hanja": "따까리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "따끄다",
+    "translation": "арчих",
+    "hanja": "따끄다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따끈따끈",
+    "translation": "бүлээхэн, халуун халуун",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따끈따끈하다",
+    "translation": "бүлээн",
+    "hanja": "따끈따끈하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따끈하다",
+    "translation": "бүлээн, дулаахан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따끔거리다",
+    "translation": "Халуун оргих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "따끔따끔하다",
+    "translation": "хурц, халуун оргих",
+    "hanja": "N/A",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따끔하다",
+    "translation": "хатгах",
+    "hanja": "따끔하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따내다",
+    "translation": "Ялах / Хожих / Авах",
+    "hanja": "따내다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "따님",
+    "translation": "охин (хүндэтгэлийн)",
+    "hanja": "따님",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따다",
+    "translation": "түүх, авах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "따다닥",
+    "translation": "Тас тас",
+    "hanja": "따다닥",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따닥",
+    "translation": "тас хийх дуу",
+    "hanja": "따닥",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따닥따닥",
+    "translation": "тас тас",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "따돌리다",
+    "translation": "хоцрох",
+    "hanja": "따돌리다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "따돌림",
+    "translation": "Дарамтлах",
+    "hanja": "따돌림",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "따두다",
+    "translation": "хадгалах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따듯하다",
+    "translation": "бүлээн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "따따따",
+    "translation": "таттата",
+    "hanja": "―",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따따따따",
+    "translation": "дададада (жишээ нь, дуучны ая дуу)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "따따블",
+    "translation": "давхар давхар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "따땃하다",
+    "translation": "бүлээн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따뜻이",
+    "translation": "дулаахан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따뜻하다",
+    "translation": "дулаахан",
+    "hanja": "따뜻하다",
+    "pos": "Adjective",
+    "cefr": "A1"
+  },
+  {
+    "word": "따라나서다",
+    "translation": "Дагаж явах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "따라내다",
+    "translation": "Дагаж гаргах, араас нь зайлуулах",
+    "hanja": "따라내다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "따라다니다",
+    "translation": "дагах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따라댕기다",
+    "translation": "дагах, дагаж явах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "따라따라",
+    "translation": "дагуулан",
+    "hanja": "따라따라",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따라붙다",
+    "translation": "дагах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "따라잡다",
+    "translation": "гvйцэх, гvйцэж очих",
+    "hanja": "따라잡다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "따라잡히다",
+    "translation": "гuições гүйцэгдэх, гүйцэгдэж баригдах",
+    "hanja": "따라잡히다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "따라쟁이",
+    "translation": "дуурайдаг хүн",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따로",
+    "translation": "Тусдаа",
+    "hanja": "따로",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따로국밥",
+    "translation": "тусад нь таваглах хоол",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "따로따로",
+    "translation": "Тусад нь, тус тусад нь",
+    "hanja": "따로따로",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "따로이",
+    "translation": "тусдаа",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따루",
+    "translation": "Талбар, тусгайлан",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따르다",
+    "translation": "дагах, дагах",
+    "hanja": "따르다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따르릉",
+    "translation": "дуу",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "따르릉따르릉",
+    "translation": "Дуг дуг (хонхны дуу)",
+    "hanja": "따르릉따르릉",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "따름",
+    "translation": "зүгээр л",
+    "hanja": "",
+    "pos": "dependent noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "따릉",
+    "translation": "хонхны дуу",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따리",
+    "translation": "Тари",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "따먹다",
+    "translation": "Түүж идэх (жимс), хулгайлж идэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따박",
+    "translation": "тас тас (дуу)",
+    "hanja": "null",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "따박따박",
+    "translation": "бөөн бөөнөөр, үе үе",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "따발총",
+    "translation": "Автомат буу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "따부",
+    "translation": "том хэмжээний алхам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "따분",
+    "translation": "уйтгартай",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "따분하다",
+    "translation": "уйтгартай байх",
+    "hanja": "따분하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "따블",
+    "translation": "давхар",
+    "hanja": "따블",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "따사롭다",
+    "translation": "дулаахан, нарлаг",
+    "hanja": "따사롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "따숩다",
+    "translation": "бүлээн",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따스하다",
+    "translation": "дулаахан",
+    "hanja": "따스하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따습다",
+    "translation": "дулаахан",
+    "hanja": "따습다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따아",
+    "translation": "даар",
+    "hanja": "따아",
+    "pos": "үйл үг",
+    "cefr": "A1"
+  },
+  {
+    "word": "따옴표",
+    "translation": "хашилт",
+    "hanja": "따옴표",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "따위",
+    "translation": "гэсэн мэт",
+    "hanja": null,
+    "pos": "dependent noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "따이",
+    "translation": "дай",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "따지다",
+    "translation": "Тооцох",
+    "hanja": "따지다",
+    "pos": "Verb",
+    "cefr": "B1"
+  }
+]

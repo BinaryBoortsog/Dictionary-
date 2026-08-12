@@ -1,0 +1,261 @@
+[
+  {
+    "word": "혈",
+    "translation": "Цус",
+    "hanja": "血",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "혈관",
+    "translation": "Судас",
+    "hanja": "血管",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혈구",
+    "translation": "цусны эс",
+    "hanja": "血球",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈기",
+    "translation": "хүч чадал",
+    "hanja": "血氣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혈뇨",
+    "translation": "цустай шээс",
+    "hanja": "血尿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈당",
+    "translation": "цусны сахар",
+    "hanja": "血糖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혈도",
+    "translation": "Цусны зам",
+    "hanja": "穴道",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "혈류",
+    "translation": "цусны урсгал",
+    "hanja": "血流",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈맥",
+    "translation": "цусны эргэлт",
+    "hanja": "血脈",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈맹",
+    "translation": "цусан холбоо",
+    "hanja": "血盟",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "혈변",
+    "translation": "цустай өтгөн",
+    "hanja": "血便",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈색",
+    "translation": "царайны өнгө, нүүрний өнгө",
+    "hanja": "血色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혈색소",
+    "translation": "цусны улаан эс",
+    "hanja": "血色素",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혈서",
+    "translation": "цусаар бичсэн захидал",
+    "hanja": "血書",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈세",
+    "translation": "цус асгаруулсан татвар",
+    "hanja": "血稅",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "혈소판",
+    "translation": "тромбоцит",
+    "hanja": "血小板",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈안",
+    "translation": "нүд улайх",
+    "hanja": "血眼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈압",
+    "translation": "цусны даралт",
+    "hanja": "血壓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혈압계",
+    "translation": "Цусны даралт хэмжигч",
+    "hanja": "血壓計",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "혈액",
+    "translation": "цус",
+    "hanja": "血液",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "혈액형",
+    "translation": "цусны бүлэг",
+    "hanja": "血液型",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혈연",
+    "translation": "цусан төрөл",
+    "hanja": "血緣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈연관계",
+    "translation": "цусан төрлийн холбоо",
+    "hanja": "血緣關係",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혈육",
+    "translation": "Цусан төрлийн",
+    "hanja": "血肉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혈장",
+    "translation": "цусны сийвэн",
+    "hanja": "血漿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈전",
+    "translation": "Цусны бүлэгнэл",
+    "hanja": "血栓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "혈족",
+    "translation": "цусан төрөл",
+    "hanja": "血族",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혈종",
+    "translation": "цус хурах, цусны бөөгнөрөл",
+    "hanja": "血腫",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈중",
+    "translation": "цусанд",
+    "hanja": "血中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혈증",
+    "translation": "цусны өвчин",
+    "hanja": "血症",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈청",
+    "translation": "ийлдэс",
+    "hanja": "血清",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "혈충",
+    "translation": "цус сорогч хорхой",
+    "hanja": "血蟲",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "혈통",
+    "translation": "Удам",
+    "hanja": "血統",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈투",
+    "translation": "цуст тулаан",
+    "hanja": "血鬪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈행",
+    "translation": "цусны эргэлт",
+    "hanja": "血行",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "혈혈단신",
+    "translation": "Ганцаараа",
+    "hanja": "孑孑單身",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "혈흔",
+    "translation": "цусны толбо",
+    "hanja": "血痕",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

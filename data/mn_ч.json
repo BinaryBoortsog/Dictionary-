@@ -1,0 +1,6848 @@
+[
+  {
+    "word": "못",
+    "translation": "чадахгүй",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "못하다",
+    "translation": "чадахгүй",
+    "hanja": null,
+    "pos": "auxiliary verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "중요하다",
+    "translation": "чухал",
+    "hanja": "重要하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "능력",
+    "translation": "чадвар",
+    "hanja": "能力",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "니",
+    "translation": "чи",
+    "hanja": "네",
+    "pos": "Pronoun",
+    "cefr": "A1"
+  },
+  {
+    "word": "도",
+    "translation": "ч, мөн",
+    "hanja": "도",
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "진심",
+    "translation": "чин сэтгэл",
+    "hanja": "眞心",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기능",
+    "translation": "чиг үүрэг",
+    "hanja": "機能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너",
+    "translation": "чи",
+    "hanja": "",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "그대",
+    "translation": "чи",
+    "hanja": "",
+    "pos": "대명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방향",
+    "translation": "чиглэл",
+    "hanja": "方向",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실력",
+    "translation": "чадвар",
+    "hanja": "實力",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벗어나다",
+    "translation": "чөлөөлөгдөх",
+    "hanja": "벗어나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가만히",
+    "translation": "чимээгүй, хөдөлгөөнгүй",
+    "hanja": "가만히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조용히",
+    "translation": "чимээгүйхэн",
+    "hanja": "조용히",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꽉",
+    "translation": "чанга, бат бөх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀",
+    "translation": "Чих",
+    "hanja": "耳",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "떨리다",
+    "translation": "Чичрэх",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "자유롭다",
+    "translation": "чөлөөтэй",
+    "hanja": "自由롭다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "떨다",
+    "translation": "чичрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시끄럽다",
+    "translation": "чимээтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀신",
+    "translation": "чөтгөр",
+    "hanja": "鬼神",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "촉촉하다",
+    "translation": "чийглэг",
+    "hanja": "촉촉하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "악마",
+    "translation": "чөтгөр",
+    "hanja": "惡魔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향하다",
+    "translation": "чиглэх",
+    "hanja": "向-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "추석",
+    "translation": "Чусок (ургац хураалтын баяр)",
+    "hanja": "秋夕",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "닥치다",
+    "translation": "Чимээгүй бай",
+    "hanja": "닥치다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "침묵",
+    "translation": "чимээгүй байдал",
+    "hanja": "沈默",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전북",
+    "translation": "Чонбүк муж",
+    "hanja": "全北",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가만있다",
+    "translation": "чимээгүй байх",
+    "hanja": "─",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "스피커",
+    "translation": "чанга яригч",
+    "hanja": "speaker",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "과자",
+    "translation": "чихэр, жигнэмэг",
+    "hanja": "菓子",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "늑대",
+    "translation": "чоно",
+    "hanja": "늑대",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "꾸미다",
+    "translation": "чимэглэх, зохион байгуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정작",
+    "translation": "чухамдаа",
+    "hanja": "正作",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잘나다",
+    "translation": "чадварлаг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "명품",
+    "translation": "чанартай бүтээгдэхүүн",
+    "hanja": "名品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "충북",
+    "translation": "Чүнбүг",
+    "hanja": "忠北",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "도깨비",
+    "translation": "чөтгөр",
+    "hanja": "도깨비",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "보물",
+    "translation": "чухал эрдэнэ",
+    "hanja": "寶物",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "조용하다",
+    "translation": "чимээгүй",
+    "hanja": "고요하다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "칩",
+    "translation": "чип",
+    "hanja": "칩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꾹",
+    "translation": "чат",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쉿",
+    "translation": "Чимээгүй!",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "트렌드",
+    "translation": "чиг хандлага",
+    "hanja": "트렌드",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌",
+    "translation": "чулуу",
+    "hanja": "돌",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "장식",
+    "translation": "чимэглэл",
+    "hanja": "裝飾",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삶다",
+    "translation": "чанах",
+    "hanja": "삶다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "정성",
+    "translation": "чин сэтгэл, хичээл зүтгэл",
+    "hanja": "精誠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수분",
+    "translation": "чийгшил",
+    "hanja": "水分",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "이어폰",
+    "translation": "чихэвч",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "충청",
+    "translation": "Чоончон (аймаг)",
+    "hanja": "忠淸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "힘껏",
+    "translation": "чадлаараа",
+    "hanja": "힘껏",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "진동",
+    "translation": "чичиргээ",
+    "hanja": "振動",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "청주",
+    "translation": "Чонжү",
+    "hanja": "淸酒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화석",
+    "translation": "чулуужсан үлдэгдэл",
+    "hanja": "化石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "품질",
+    "translation": "Чанар",
+    "hanja": "品質",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임마",
+    "translation": "чи",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "네놈",
+    "translation": "чи",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중요성",
+    "translation": "чухал байдал",
+    "hanja": "重要性",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "노선",
+    "translation": "чиглэл",
+    "hanja": "路線",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "역량",
+    "translation": "чадавхи",
+    "hanja": "力量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "재벌",
+    "translation": "чебол",
+    "hanja": "財閥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집다",
+    "translation": "чиглүүлэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "마왕",
+    "translation": "чөтгөрийн хаан",
+    "hanja": "魔王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한껏",
+    "translation": "чадлаараа",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중대하다",
+    "translation": "Чухал",
+    "hanja": "重大하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "올리브",
+    "translation": "Чидун жимс",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "꽁꽁",
+    "translation": "чангатсан, хөлдсөн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "야무지다",
+    "translation": "чадварлаг, нягт нямбай",
+    "hanja": "야무지다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "장식하다",
+    "translation": "чимэглэх",
+    "hanja": "裝飾하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "귓가",
+    "translation": "чихний дэргэд",
+    "hanja": "귓가",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "춘천",
+    "translation": "Чүнчон (хот)",
+    "hanja": "春川",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "겨누다",
+    "translation": "Чиглүүлэх, онилох",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "찰리",
+    "translation": "Чарли",
+    "hanja": "찰리",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "돌멩이",
+    "translation": "чулуу",
+    "hanja": "돌멩이",
+    "pos": "NOUN",
+    "cefr": "A2"
+  },
+  {
+    "word": "꼬집다",
+    "translation": "Чимхэх",
+    "hanja": "꼬집다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵묵히",
+    "translation": "Чимээгүй, дуугүй",
+    "hanja": "默默히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "썰매",
+    "translation": "Чанаган",
+    "hanja": "썰매",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하찮다",
+    "translation": "Чухал биш, өчүүхэн",
+    "hanja": "하찮다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능숙하다",
+    "translation": "чадварлаг байх",
+    "hanja": "能熟-",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고요하다",
+    "translation": "чимээгүй, амар тайван",
+    "hanja": "고요-",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보습",
+    "translation": "чийгшүүлэх",
+    "hanja": "保濕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팽팽하다",
+    "translation": "чанга",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "해방",
+    "translation": "чөлөөлөх",
+    "hanja": "解放",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "축축하다",
+    "translation": "чийгтэй",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "채팅",
+    "translation": "Чатлах, ярилцах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수육",
+    "translation": "чанасан мах",
+    "hanja": "水肉",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠잠하다",
+    "translation": "чимээгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고성",
+    "translation": "чанга дуу",
+    "hanja": "高聲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "침묵하다",
+    "translation": "чимээгүй байх",
+    "hanja": "沈默하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불량",
+    "translation": "чанаргүй",
+    "hanja": "不良",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악귀",
+    "translation": "чөтгөр",
+    "hanja": "惡鬼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한가하다",
+    "translation": "чөлөөтэй",
+    "hanja": "閑暇하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창원",
+    "translation": "Чанвон (хот)",
+    "hanja": "昌原",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "챗",
+    "translation": "чат",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자두",
+    "translation": "чавга",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "캔디",
+    "translation": "чихэр, кэнди",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "조용",
+    "translation": "Чимээгүй",
+    "hanja": "조용",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지껄이다",
+    "translation": "ча чалах",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "꾹꾹",
+    "translation": "чагнаж",
+    "hanja": "",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "추세",
+    "translation": "чиг хандлага",
+    "hanja": "趨勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤드폰",
+    "translation": "Чихэвч",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "당뇨",
+    "translation": "чихрийн шижин",
+    "hanja": "糖尿病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중대",
+    "translation": "чухал",
+    "hanja": "重大",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "방향성",
+    "translation": "чиглэл",
+    "hanja": "方向性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기척",
+    "translation": "чимээ",
+    "hanja": "氣尺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체코",
+    "translation": "Чех",
+    "hanja": "체코",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "램프",
+    "translation": "чийдэн",
+    "hanja": "lamp",
+    "pos": "명са",
+    "cefr": "A1"
+  },
+  {
+    "word": "찜질방",
+    "translation": "чимжильбан / халуун усны газар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰소리",
+    "translation": "чанга дуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "올리브유",
+    "translation": "чидун жимсний тос",
+    "hanja": "olive油",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "부들부들",
+    "translation": "чичигнэх",
+    "hanja": "부들부들",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "습도",
+    "translation": "Чийгшил",
+    "hanja": "濕度",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "프리랜서",
+    "translation": "Чөлөөт уран бүтээлч",
+    "hanja": "프리랜서",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "움찔하다",
+    "translation": "чичрэх",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "자네",
+    "translation": "чи",
+    "hanja": "子네",
+    "pos": "pronoun",
+    "cefr": "A2"
+  },
+  {
+    "word": "유능하다",
+    "translation": "чадвартай",
+    "hanja": "有能하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠자코",
+    "translation": "чимээгүй",
+    "hanja": "潛然코",
+    "pos": "д.ү.",
+    "cefr": "B1"
+  },
+  {
+    "word": "칠레",
+    "translation": "Чили",
+    "hanja": "null",
+    "pos": "м.н.",
+    "cefr": "A1"
+  },
+  {
+    "word": "팡",
+    "translation": "чанга дуу",
+    "hanja": "---",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "울프",
+    "translation": "чоно",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "청국장",
+    "translation": "чонгугжан (солонгос шөл)",
+    "hanja": "淸麴醬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "방면",
+    "translation": "чиглэл, тал, талаар",
+    "hanja": "方面",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤드셋",
+    "translation": "чихэвч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "벌벌",
+    "translation": "чичирч",
+    "hanja": "벌벌",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "철원",
+    "translation": "Чоронь",
+    "hanja": "鐵原",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "정성껏",
+    "translation": "чин сэтгэлээсээ",
+    "hanja": "精誠껏",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "치코",
+    "translation": "Чико (нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "석상",
+    "translation": "чулуун баримал",
+    "hanja": "石像",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "면제",
+    "translation": "чөлөөлөх",
+    "hanja": "免除",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "촉촉",
+    "translation": "чийглэг, зөөлөн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가습기",
+    "translation": "чийгшүүлэгч",
+    "hanja": "加濕器",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콱",
+    "translation": "Чаг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대수롭다",
+    "translation": "Чухал, ач холбогдолтой",
+    "hanja": "大事롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암석",
+    "translation": "чулуулаг, хад",
+    "hanja": "岩石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "충주",
+    "translation": "Чүнжү (хот)",
+    "hanja": "忠州",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "못다",
+    "translation": "чадаагүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성의",
+    "translation": "чин сэтгэл",
+    "hanja": "誠意",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "핑",
+    "translation": "чанга чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관자놀이",
+    "translation": "чамархай",
+    "hanja": null,
+    "pos": "м.н",
+    "cefr": "A2"
+  },
+  {
+    "word": "겨를",
+    "translation": "Чөлөө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정성스럽다",
+    "translation": "чин сэтгэлээсээ",
+    "hanja": "精誠스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "진동하다",
+    "translation": "Чичирхийлэх",
+    "hanja": "振動하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "슬그머니",
+    "translation": "чимээгүй",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레슬링",
+    "translation": "чөлөөт бөх",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수표",
+    "translation": "чек",
+    "hanja": "手票",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꽉꽉",
+    "translation": "чихэлдсэн",
+    "hanja": "꽉꽉",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "질끈",
+    "translation": "чанга татах",
+    "hanja": "질끈",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "품격",
+    "translation": "Чанар",
+    "hanja": "品格",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대수",
+    "translation": "чухал зүйл",
+    "hanja": "大數",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지향하다",
+    "translation": "чиглүүлэх",
+    "hanja": "志向하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "부여잡다",
+    "translation": "чанга барих",
+    "hanja": "부여잡다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대화방",
+    "translation": "чат өрөө",
+    "hanja": "對話房",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "프리스타일",
+    "translation": "чөлөөт хэв маяг",
+    "hanja": "프리스타일",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성냥",
+    "translation": "чүдэнз",
+    "hanja": "성냥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자유자재",
+    "translation": "чөлөөтэй, дураараа",
+    "hanja": "自由自在",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "해방되다",
+    "translation": "чөлөөлөгдөх",
+    "hanja": "解放되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "확성기",
+    "translation": "Чанга яригч",
+    "hanja": "擴聲器",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살금살금",
+    "translation": "чимээгүйхэн",
+    "hanja": "살금살금",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조이다",
+    "translation": "Чангалах, чанга түгжих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "엿듣다",
+    "translation": "Чимээгүй сонсох, чагнах",
+    "hanja": "엿듣다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새끼손가락",
+    "translation": "чихний чигчий хуруу",
+    "hanja": "새끼손가락",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "슬랙스",
+    "translation": "чөлөөт өмд",
+    "hanja": "slacks",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "당뇨병",
+    "translation": "Чихрийн шижин",
+    "hanja": "糖尿病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "틱",
+    "translation": "Чихрэнлэг, гялс",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "천안",
+    "translation": "Чонан",
+    "hanja": "天安",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장식품",
+    "translation": "чимэглэл",
+    "hanja": "裝飾品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우렁차다",
+    "translation": "чанга",
+    "hanja": "우렁차다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탱글탱글하다",
+    "translation": "Чавхлаг",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌덩이",
+    "translation": "чулуун талст",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "마계",
+    "translation": "чөтгөрийн ертөнц",
+    "hanja": "魔界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "중요시하다",
+    "translation": "чухалчлах",
+    "hanja": "重要視하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "휴직",
+    "translation": "чөлөө авах",
+    "hanja": "休職",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방위",
+    "translation": "чиглэл",
+    "hanja": "方位",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "눅눅하다",
+    "translation": "чийгтэй",
+    "hanja": "눅눅하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "마귀",
+    "translation": "чөтгөр",
+    "hanja": "魔鬼",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "자질",
+    "translation": "Чанар, ур чадвар",
+    "hanja": "資質",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬집",
+    "translation": "Чиглүүлэх",
+    "hanja": "꼬집",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장식되다",
+    "translation": "Чимэглэсэн",
+    "hanja": "裝飾되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "악령",
+    "translation": "чөтгөр",
+    "hanja": "惡靈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "슬며시",
+    "translation": "чимээгүйхэн",
+    "hanja": "슬며시",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바우",
+    "translation": "чулуу",
+    "hanja": "바우",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창덕궁",
+    "translation": "Чандок гүн",
+    "hanja": "昌德宮",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쎄다",
+    "translation": "Чанга",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "은근슬쩍",
+    "translation": "чимээгүй, нууцаар",
+    "hanja": "殷勤슬쩍",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "매화",
+    "translation": "чангаанзны цэцэг",
+    "hanja": "梅花",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "능히",
+    "translation": "чадварлаг, чадвартай",
+    "hanja": "能히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체크아웃",
+    "translation": "чекаут хийх",
+    "hanja": "체크아웃",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "진솔하다",
+    "translation": "чин сэтгэлээсээ байх",
+    "hanja": "眞率하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칙칙폭폭",
+    "translation": "чичиг-ппокпок (гал тэрэгний дуу)",
+    "hanja": "칙칙폭폭",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "탱탱하다",
+    "translation": "чанга, уян хатан",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쵸",
+    "translation": "Чо (нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "허접하다",
+    "translation": "чанаргүй, муухай",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "면제하다",
+    "translation": "чөлөөлөх",
+    "hanja": "免除하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불능",
+    "translation": "чадваргүй",
+    "hanja": "不能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적막",
+    "translation": "чимээгүй байдал",
+    "hanja": "寂寞",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "춘식",
+    "translation": "Чүншиг (нэр)",
+    "hanja": "春植",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자유형",
+    "translation": "Чөлөөт сэлэлт",
+    "hanja": "自由形",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시끌벅적하다",
+    "translation": "чимээ шуугиантай, хөл хөдөлгөөн ихтэй",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무능하다",
+    "translation": "чадваргүй, үр дүнгүй",
+    "hanja": "無能하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고추기름",
+    "translation": "чихэрлэг перцтэй тос",
+    "hanja": "고추기름",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유창하다",
+    "translation": "чөлөөтэй ярих",
+    "hanja": "流暢하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한가롭다",
+    "translation": "Чөлөөтэй, амгалан тайван",
+    "hanja": "閑暇롭다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "되도록",
+    "translation": "чадах чинээгээр",
+    "hanja": "되도록",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "충청도",
+    "translation": "Чунчон муж",
+    "hanja": "忠淸道",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장훈",
+    "translation": "Чан Хун (хүний нэр)",
+    "hanja": "張勳",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "파르르",
+    "translation": "чичирхийлэх",
+    "hanja": "파르르",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "찝다",
+    "translation": "чиглүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적막하다",
+    "translation": "чимээгүй, эзгүй",
+    "hanja": "寂寞하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전라남도",
+    "translation": "Чолланамду муж",
+    "hanja": "全羅南道",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "당분",
+    "translation": "чихэрлэг бодис",
+    "hanja": "糖分",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고급지다",
+    "translation": "чамин, тансаг",
+    "hanja": "高級-",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀마개",
+    "translation": "чихний бөглөө",
+    "hanja": "귀마개",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고래고래",
+    "translation": "чангаар",
+    "hanja": "N/A",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "데코",
+    "translation": "Чимэглэл",
+    "hanja": "Deco",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쾅쾅",
+    "translation": "чимээ гарахад",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "고행",
+    "translation": "чанга хатуу амьдрал, бэрхшээл",
+    "hanja": "苦行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사탕수수",
+    "translation": "чихрийн нишингэ",
+    "hanja": "砂糖수수",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귓속",
+    "translation": "чихний дотор",
+    "hanja": "귓속",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈피",
+    "translation": "чиглэл, зам",
+    "hanja": "갈피",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소양",
+    "translation": "чадвар, боловсрол",
+    "hanja": "素養",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지히",
+    "translation": "Чихи (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌계단",
+    "translation": "чулуун шат",
+    "hanja": "돌階段",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "굴비",
+    "translation": "чангалуур загас",
+    "hanja": "굴비",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수식",
+    "translation": "чимэглэл",
+    "hanja": "修飾",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창경궁",
+    "translation": "Чангёнгун ордон",
+    "hanja": "昌慶宮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심혈",
+    "translation": "чин сэтгэл",
+    "hanja": "心血",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레저",
+    "translation": "чөлөөт цаг, амралт",
+    "hanja": "leisure",
+    "pos": "м",
+    "cefr": "A2"
+  },
+  {
+    "word": "중요시",
+    "translation": "чухалчлах, ач холбогдол өгөх",
+    "hanja": "重要視",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "춘향",
+    "translation": "Чунхян (Солонгосын уран зохиолын баатар эмэгтэй)",
+    "hanja": "春香",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "바들바들",
+    "translation": "чичигнэх",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "나부랭이",
+    "translation": "Чальчиг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "도깨비불",
+    "translation": "чөтгөрийн гал",
+    "hanja": "도깨비불",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "우선시하다",
+    "translation": "чухалчлах",
+    "hanja": "優先視–",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요긴하다",
+    "translation": "чухал",
+    "hanja": "要緊하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "드래그",
+    "translation": "Чирэх",
+    "hanja": "drag",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쫑긋",
+    "translation": "чихээ сортосхийлгэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중시하다",
+    "translation": "чухалчлах, үнэлэх",
+    "hanja": "重視하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성심",
+    "translation": "чин сэтгэл, үнэнч байдал",
+    "hanja": "誠心",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "차차차",
+    "translation": "чачача (бүжиг)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "질",
+    "translation": "чанар",
+    "hanja": "質",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "창희",
+    "translation": "Чан Хи (хүний нэр)",
+    "hanja": "昌熙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "컨벤션",
+    "translation": "чуулган, конвенц",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "끌려다니다",
+    "translation": "чирүүлж явах, дагаж явах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "최씨",
+    "translation": "Чой овогт",
+    "hanja": "崔氏",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "단련되다",
+    "translation": "чангарсан",
+    "hanja": "鍛鍊되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "고요",
+    "translation": "чимээгүй байдал",
+    "hanja": "고요",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차슈",
+    "translation": "чашу (гахайн махны хоол)",
+    "hanja": "차슈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창균",
+    "translation": "Чангюн (хүний нэр)",
+    "hanja": "彰均",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박제",
+    "translation": "чийдмэл",
+    "hanja": "剝製",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두억시니",
+    "translation": "чөтгөр",
+    "hanja": "두억시니",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "청두",
+    "translation": "Чэнду",
+    "hanja": "成都",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지향",
+    "translation": "чиглэл",
+    "hanja": "志向",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감초",
+    "translation": "чимэг, чимэглэл",
+    "hanja": "甘草",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "땅땅",
+    "translation": "чанга чимээ",
+    "hanja": "땅땅",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "충청북도",
+    "translation": "Чунгчонбуг аймаг",
+    "hanja": "충청북도(忠淸北道)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "청양",
+    "translation": "Чонъян",
+    "hanja": "靑陽",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "질적",
+    "translation": "чанарын",
+    "hanja": "質的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "재벌가",
+    "translation": "чеболийн гэр бүл",
+    "hanja": "財閥家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌다리",
+    "translation": "чулуун гүүр",
+    "hanja": "-",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "츄러스",
+    "translation": "Чуррос",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "견인차",
+    "translation": "чирэх машин",
+    "hanja": "牽引車",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "통곡",
+    "translation": "чанга уйлах",
+    "hanja": "痛哭",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "습",
+    "translation": "Чийг",
+    "hanja": "濕",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "키메라",
+    "translation": "Чимэйра",
+    "hanja": "Chimera",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칙",
+    "translation": "чиг (дуу авиа дуурайх үг)",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "채석장",
+    "translation": "чулууны карьер",
+    "hanja": "採石場",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "스스럼없이",
+    "translation": "чөлөөтэй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "네년",
+    "translation": "чиний жил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달큰하다",
+    "translation": "чихэрлэг, амттай",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "챗봇",
+    "translation": "чатбот",
+    "hanja": "chatbot",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "해방감",
+    "translation": "Чөлөөлөгдсөн мэдрэмж",
+    "hanja": "解放感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "깜냥",
+    "translation": "Чадах хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "니놈",
+    "translation": "чи",
+    "hanja": "null",
+    "pos": "대명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무능",
+    "translation": "чадваргүй",
+    "hanja": "無能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투석",
+    "translation": "чулуу шидэх",
+    "hanja": "投石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요직",
+    "translation": "чухал албан тушаал",
+    "hanja": "要職",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "와장창",
+    "translation": "чимээ гарган хагарах (буюу унах)",
+    "hanja": "null",
+    "pos": "да.",
+    "cefr": "B1"
+  },
+  {
+    "word": "단짠단짠",
+    "translation": "чихэрлэг, давслаг (амтны хослол)",
+    "hanja": "단짠단짠",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "추로스",
+    "translation": "чуррос (хоол)",
+    "hanja": "추로스",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석탑",
+    "translation": "чулуун суврага",
+    "hanja": "石塔",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "졸라매다",
+    "translation": "чангалах, чандалж баглах",
+    "hanja": "졸라매다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "창녕",
+    "translation": "Чаннён",
+    "hanja": "昌寧",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "깔깔대다",
+    "translation": "чанга инээх",
+    "hanja": "깔깔대다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "착실히",
+    "translation": "чин сэтгэлээсээ, үнэнчээр",
+    "hanja": "着實히",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "절규하다",
+    "translation": "чангаар орилох",
+    "hanja": "絕叫하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간곡히",
+    "translation": "чин сэтгэлээсээ, гуйж",
+    "hanja": "懇曲히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고요히",
+    "translation": "чимээгүй, амар тайван",
+    "hanja": "高요히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쩌렁쩌렁",
+    "translation": "чанга цуурайтай",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "감미료",
+    "translation": "чихэрлэг амт оруулагч бодис",
+    "hanja": "甘味料",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귓구멍",
+    "translation": "Чихний нүх",
+    "hanja": "귓구멍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석면",
+    "translation": "чулуун хөвөн, асбест",
+    "hanja": "石綿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부유층",
+    "translation": "чинээлэг давхарга",
+    "hanja": "富裕層",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장고",
+    "translation": "чанго (хөгжмийн зэмсэг)",
+    "hanja": "杖鼓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "새총",
+    "translation": "чангилуур",
+    "hanja": "새총",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌무더기",
+    "translation": "чулуун овоолго",
+    "hanja": "돌무더기",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "견인하다",
+    "translation": "чирэх, татах",
+    "hanja": "牽引하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀띔하다",
+    "translation": "чихэд шивнэх",
+    "hanja": "귀띔하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "시카고",
+    "translation": "Чикаго",
+    "hanja": "시카고",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "치장하다",
+    "translation": "Чимэглэх, гоёх, хувцаслах",
+    "hanja": "治粧하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "팽팽히",
+    "translation": "чанга",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통곡하다",
+    "translation": "чангаар уйлах",
+    "hanja": "痛哭-",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴마",
+    "translation": "чөтгөрүүдийг хөөн зайлуулах",
+    "hanja": "退魔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "초고추장",
+    "translation": "чихэртэй улаан чинжүүний сүмс",
+    "hanja": "초고추장",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귓불",
+    "translation": "чихний дэлбээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석화",
+    "translation": "Чулуужсан",
+    "hanja": "石化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "면제되다",
+    "translation": "Чөлөөлөгдөх",
+    "hanja": "免除되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "터덜터덜",
+    "translation": "Чирчих, гудайн",
+    "hanja": "null",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "저급하다",
+    "translation": "Чанар муутай",
+    "hanja": "低級하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵찌빠",
+    "translation": "чулуу, цаас, хайч тоглоом",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "간곡하다",
+    "translation": "чин сэтгэлээсээ, гуйж байна",
+    "hanja": "懇曲하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "정성스레",
+    "translation": "чин сэтгэлээсээ",
+    "hanja": "精誠스레",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이비인후과",
+    "translation": "чих хамар хоолойн эмч",
+    "hanja": "耳鼻咽喉科",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "정읍",
+    "translation": "Чонъып (хот)",
+    "hanja": "井邑",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "충칭",
+    "translation": "Чунцин (хот)",
+    "hanja": "重慶",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지바",
+    "translation": "Чиба (нэр)",
+    "hanja": "千葉",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "청진기",
+    "translation": "чангалуур",
+    "hanja": "聽診器",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "양껏",
+    "translation": "чадлаараа, хүссэнээрээ",
+    "hanja": "量껏",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철컥",
+    "translation": "чангинах, тасхийх",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충청남도",
+    "translation": "Чунгчонгнам-ду (аймаг)",
+    "hanja": "忠淸南道",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "철원군",
+    "translation": "Чороны муж (Солонгос)",
+    "hanja": "鐵原郡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "칠리소스",
+    "translation": "чили соус",
+    "hanja": "칠리소스",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "석천",
+    "translation": "чулуун булаг",
+    "hanja": "石泉",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "손방",
+    "translation": "чиглэл",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석판",
+    "translation": "Чулуун хавтан",
+    "hanja": "石板",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "오열",
+    "translation": "чангаар уйлах",
+    "hanja": "嗚咽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "느이",
+    "translation": "чиний, танай (хуучин эсвэл аялга)",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매실",
+    "translation": "чавга",
+    "hanja": "梅實",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "오리엔테이션",
+    "translation": "чиг баримжаа, танилцуулга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차크라",
+    "translation": "чакра",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독실하다",
+    "translation": "чин бишрэлтэй, үнэнч",
+    "hanja": "篤實하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동여매다",
+    "translation": "чангалж боох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편육",
+    "translation": "чанасан махны үсийг",
+    "hanja": "片肉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중대성",
+    "translation": "чухал байдал",
+    "hanja": "重大性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무능력하다",
+    "translation": "чадваргүй",
+    "hanja": "無能力하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수다스럽다",
+    "translation": "чалчаа байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "청심환",
+    "translation": "Чингшимхуан (уламжлалт эмийн нэр)",
+    "hanja": "淸心丸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "슈거",
+    "translation": "чихэр",
+    "hanja": "슈거",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "자유로이",
+    "translation": "чөлөөтэй",
+    "hanja": "自由로이",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신들리다",
+    "translation": "чөтгөр шүглэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌기둥",
+    "translation": "чулуун багана",
+    "hanja": "돌기둥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퀄",
+    "translation": "чанар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "너다",
+    "translation": "чихэх, түлхэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "납골당",
+    "translation": "чандарлах газар",
+    "hanja": "納骨堂",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌탑",
+    "translation": "чулуун цамхаг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실력파",
+    "translation": "чадварлаг хүн",
+    "hanja": "實力派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현악기",
+    "translation": "чавхдаст хөгжим",
+    "hanja": "絃樂器",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "묵인하다",
+    "translation": "чимээгүй зөвшөөрөх",
+    "hanja": "默認하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "늬",
+    "translation": "Чи",
+    "hanja": "",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "꿀밤",
+    "translation": "Чихэрлэг шөнө",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장식물",
+    "translation": "чимэглэл, гоёл чимэглэл",
+    "hanja": "裝飾物",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "살그머니",
+    "translation": "чимээгүйхэн, аажуухан",
+    "hanja": "NULL",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주절주절",
+    "translation": "чалчих",
+    "hanja": "―",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "함구하다",
+    "translation": "чимээгүй байх",
+    "hanja": "緘口하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "제습기",
+    "translation": "чийг татагч",
+    "hanja": "除濕器",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "귓전",
+    "translation": "чихний үзүүр",
+    "hanja": "귓전",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "달큼하다",
+    "translation": "чихэрлэг, амттай",
+    "hanja": "",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "드롭스",
+    "translation": "чихэр (дусал)",
+    "hanja": "drops",
+    "pos": "name",
+    "cefr": "A2"
+  },
+  {
+    "word": "체르노빌",
+    "translation": "Чернобыль",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "낭랑하다",
+    "translation": "Чавхдас шиг",
+    "hanja": "朗朗하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화장터",
+    "translation": "Чандарлах газар",
+    "hanja": "火葬터",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "으슥하다",
+    "translation": "чихмэг, нам гүм",
+    "hanja": "으슥하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꿉꿉하다",
+    "translation": "чийгтэй",
+    "hanja": "꿉꿉하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌벽",
+    "translation": "чулуун хана",
+    "hanja": "돌壁",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귓등",
+    "translation": "чихний арын хэсэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석조",
+    "translation": "чулуун хийц",
+    "hanja": "石造",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "도청기",
+    "translation": "Чагнагч төхөөрөмж",
+    "hanja": "盜聽器",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자갈치",
+    "translation": "Чагальчи (Солонгосын загасны зах)",
+    "hanja": "자갈치",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "자주하다",
+    "translation": "Често хийх",
+    "hanja": "屢하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "중요도",
+    "translation": "Чухал байдал",
+    "hanja": "重要度",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "바르르",
+    "translation": "Чичрэх, салганах",
+    "hanja": "",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "해방하다",
+    "translation": "чөлөөлөх",
+    "hanja": "解放하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "차바",
+    "translation": "Чоба (нэр)",
+    "hanja": "차바",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "묵묵하다",
+    "translation": "чимээгүй байх, дуугай байх",
+    "hanja": "默默하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "씰룩거리다",
+    "translation": "чимээ гаргах (ам)",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "끽",
+    "translation": "чихрах, дуу чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "오들오들",
+    "translation": "чичирч",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타이트",
+    "translation": "чанга, бариу",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "재력가",
+    "translation": "чинээлэг хүн",
+    "hanja": "財力家",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전율하다",
+    "translation": "Чичрэх",
+    "hanja": "戰慄하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀청",
+    "translation": "Чихний хэнгэрэг",
+    "hanja": "耳廳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "각설탕",
+    "translation": "чихрийн шоо",
+    "hanja": "角雪糖",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "치카치카",
+    "translation": "Чикачика (шүд угаах чимээ)",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "낙석",
+    "translation": "чулуу нурах, чулуу унах",
+    "hanja": "落石",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지향점",
+    "translation": "чиглэл",
+    "hanja": "指向點",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀띔",
+    "translation": "Чимээлэх, зөвлөх",
+    "hanja": "귀띔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단내",
+    "translation": "чихрийн үнэр",
+    "hanja": "단내",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "취나물",
+    "translation": "чвинамүль (уулнаас түүс мөөг, ногоо)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칠곡",
+    "translation": "Чилгог (газар зүйн нэр)",
+    "hanja": "漆谷",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "네까짓",
+    "translation": "чинийх шиг, чинийхээс доогуур",
+    "hanja": "",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "치아바타",
+    "translation": "чиабатта",
+    "hanja": "ciabatta",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다비하다",
+    "translation": "Чадалж оршуулах",
+    "hanja": "荼毘하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광복군",
+    "translation": "Чөлөөлөх арми",
+    "hanja": "光復軍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자유스럽다",
+    "translation": "чөлөөтэй",
+    "hanja": "自由스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찌릿찌릿하다",
+    "translation": "чичрэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무침",
+    "translation": "чихэргүй амтлагч",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "개소리하다",
+    "translation": "чармайх, хуцах",
+    "hanja": "개소리하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석경",
+    "translation": "Чулуун толь",
+    "hanja": "石鏡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "돌하르방",
+    "translation": "Чулуун өвөө",
+    "hanja": "돌하르방",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "능사",
+    "translation": "Чадах зүйл",
+    "hanja": "能事",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "향방",
+    "translation": "Чиглэл",
+    "hanja": "向方",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "젠",
+    "translation": "чан",
+    "hanja": "禪",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "칡",
+    "translation": "Чихэр өвс",
+    "hanja": "칡",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중얼대다",
+    "translation": "чимээгүй ярих, бувтнах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "나불대다",
+    "translation": "чанга чанга ярих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵인",
+    "translation": "чимээгүй зөвшөөрөх",
+    "hanja": "黙認",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌산",
+    "translation": "Чулуун уул",
+    "hanja": "돌山",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉이",
+    "translation": "чангаанз",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "떽",
+    "translation": "чамайг! бугуй! (уурласан дуу)",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "오너먼트",
+    "translation": "чимэглэл, гоёл",
+    "hanja": "ornament",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "바이브레이션",
+    "translation": "чичиргээ",
+    "hanja": "바이브레이션",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "채플린",
+    "translation": "Чаплин",
+    "hanja": "채플린",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "첨벙첨벙",
+    "translation": "чангинах",
+    "hanja": "첨벙첨벙",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연석",
+    "translation": "чулуун хашлага",
+    "hanja": "緣石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석발",
+    "translation": "чулуугаар ухах/олборлох",
+    "hanja": "石發",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "능수능란하다",
+    "translation": "чадварлаг, гарамгай",
+    "hanja": "能手能爛하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "무성의하다",
+    "translation": "чимээгүй, анхааралгүй",
+    "hanja": "無誠意하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "분전",
+    "translation": "чармайх, хүчтэй тэмцэх",
+    "hanja": "奮戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "처칠",
+    "translation": "Черчилл",
+    "hanja": "Churchill",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌솥",
+    "translation": "чулуун сав",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "첼리스트",
+    "translation": "челлист",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "중대사",
+    "translation": "чухал хэрэг",
+    "hanja": "重大事",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "능하다",
+    "translation": "чадварлаг",
+    "hanja": "能하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "박제하다",
+    "translation": "чигжих",
+    "hanja": "剝製하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "청도",
+    "translation": "чинг дао",
+    "hanja": "靑島",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실룩거리다",
+    "translation": "чичигнэх, анивчих",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "떨림",
+    "translation": "чичиргээ, доргио",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙련",
+    "translation": "чадвар, туршлага",
+    "hanja": "熟練",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채팅하다",
+    "translation": "чатлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "숙달되다",
+    "translation": "чадваржих",
+    "hanja": "熟達되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귓바퀴",
+    "translation": "Чихний дэлбээ",
+    "hanja": "귓바퀴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "찌찌뽕",
+    "translation": "чик-чирик",
+    "hanja": "No Hanja",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "쩌렁쩌렁하다",
+    "translation": "Чавхдах, цууритах",
+    "hanja": "쩌렁쩌렁하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "팽팽",
+    "translation": "чанга, татсан",
+    "hanja": "N/A",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "노망",
+    "translation": "чичигнах",
+    "hanja": "老妄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한가로이",
+    "translation": "чөлөөтэйгөөр",
+    "hanja": "閑暇로이",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌부리",
+    "translation": "чулууны орой, бул чулуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채피",
+    "translation": "чафи",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "짱돌",
+    "translation": "чулуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀밑",
+    "translation": "чихний доод тал",
+    "hanja": "귀밑",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "종횡무진",
+    "translation": "чөлөөтэй явах",
+    "hanja": "縱橫無盡",
+    "pos": "adverb",
+    "cefr": "C2"
+  },
+  {
+    "word": "물수제비",
+    "translation": "чулуу шидэх",
+    "hanja": "물수제비",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "몬하다",
+    "translation": "Чадахгүй байх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "치비",
+    "translation": "чиби",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채드",
+    "translation": "Чад",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "씰룩",
+    "translation": "чичирхийлэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "땡땡하다",
+    "translation": "чанга, татсан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "치악산",
+    "translation": "Чиаксан уул",
+    "hanja": "雉岳山",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "음습하다",
+    "translation": "чийдэн",
+    "hanja": "陰濕하다",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "채리",
+    "translation": "Чери",
+    "hanja": "채리",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "챌린저",
+    "translation": "Челенжер",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "석이",
+    "translation": "чулууны мөөг",
+    "hanja": "石耳",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "꽃빵",
+    "translation": "чимэглэсэн талх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡담",
+    "translation": "Чавганцалдах, дэмий ярих",
+    "hanja": "雜談",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "춘향전",
+    "translation": "Чүнхян-жон",
+    "hanja": "春香傳",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "삑삑",
+    "translation": "Чавхдах чимээ",
+    "hanja": "삑삑",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "똘",
+    "translation": "чанга, хатуу",
+    "hanja": "똘",
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "정숙하다",
+    "translation": "чимээгүй байх",
+    "hanja": "貞淑하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "댄디",
+    "translation": "чанга",
+    "hanja": "댄디",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "성냥갑",
+    "translation": "Чүдэнзний хайрцаг",
+    "hanja": "성냥匣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "진동시키다",
+    "translation": "чичрүүлэх",
+    "hanja": "振動시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석주",
+    "translation": "чулуун багана",
+    "hanja": "石柱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대성통곡",
+    "translation": "чангаар уйлах, цөхрөн уйлах",
+    "hanja": "大聲痛哭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석태",
+    "translation": "Чулуун хөвд",
+    "hanja": "石苔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "첸",
+    "translation": "Чен (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "철종",
+    "translation": "Чолжон (солонгосын эзэн хаан)",
+    "hanja": "哲宗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "몬허다",
+    "translation": "чадахгүй",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "꾸밈없이",
+    "translation": "чимэггүй, үнэнээрээ, 있는 그대로",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퉁기다",
+    "translation": "чангаар татах, цохих",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "후들후들",
+    "translation": "чимээгүй, аажим аажмаар",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "여가",
+    "translation": "чөлөөт цаг",
+    "hanja": "餘暇",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "니년",
+    "translation": "чиний жил",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고춧잎",
+    "translation": "Чилийн навч",
+    "hanja": "고춧잎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "테다",
+    "translation": "чадах",
+    "hanja": "테다",
+    "pos": "үйл үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "중시",
+    "translation": "чухалчлах",
+    "hanja": "重視",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌판",
+    "translation": "чулуун хавтан",
+    "hanja": "돌판",
+    "pos": "нэр үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "치지직",
+    "translation": "чимээ гарах",
+    "hanja": "치지직",
+    "pos": "дуурайх үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "용쓰다",
+    "translation": "чармайх, хүчин чармайлт гаргах",
+    "hanja": "用쓰다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "춘성",
+    "translation": "чунсон (хуучин нэр)",
+    "hanja": "春城",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "자유화",
+    "translation": "чөлөөлөх",
+    "hanja": "自由化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차타",
+    "translation": "Чата (нэр)",
+    "hanja": "차타",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채터링",
+    "translation": "Чатлах (дуу чимээ)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "묵연",
+    "translation": "чимээгүй, дуугүй",
+    "hanja": "默然",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "유유",
+    "translation": "чөлөөтэй сэлэх",
+    "hanja": "悠悠",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조용조용",
+    "translation": "чимээгүй, аажимхан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조여들다",
+    "translation": "чангарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "치노",
+    "translation": "чинос",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "살금",
+    "translation": "чимээгүйхэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "딱딱거리다",
+    "translation": "чанга дуугарах, хэрцгийээр ярих",
+    "hanja": "",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "초이",
+    "translation": "Чой (нэр)",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공강",
+    "translation": "чөлөөт цаг, хичээлгүй цаг",
+    "hanja": "空講",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "나불거리다",
+    "translation": "чалчих, дэмий ярих",
+    "hanja": "나불거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "노성",
+    "translation": "чанга дуу",
+    "hanja": "怒聲",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "제진",
+    "translation": "чичиргээг арилгах",
+    "hanja": "除振",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "용타",
+    "translation": "чадвартай",
+    "hanja": "用唾",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차드",
+    "translation": "Чад",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "쩡",
+    "translation": "чинг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "쳉이",
+    "translation": "Чэн-и (нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "킥킥대다",
+    "translation": "чихэлдэх, инээх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "저릿하다",
+    "translation": "чихэрхийлэх, хатгах",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무능력",
+    "translation": "Чадавхгүй, чадваргүй байдал",
+    "hanja": "無能力",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "성의껏",
+    "translation": "чин сэтгэлээсээ",
+    "hanja": "誠意껏",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현악",
+    "translation": "Чавхдаст хөгжим",
+    "hanja": "絃樂",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무자격",
+    "translation": "Чадамжгүй, эрхгүй",
+    "hanja": "無資格",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "치토",
+    "translation": "Чито (Газар зүйн нэр)",
+    "hanja": "稚島",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창극",
+    "translation": "чан극 (бүтээлч дуулалт)",
+    "hanja": "唱劇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "달이다",
+    "translation": "чанах (эм, ундаа)",
+    "hanja": "달이다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "허물없이",
+    "translation": "чөлөөтэй, нээлттэй",
+    "hanja": "허물없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "으슬으슬",
+    "translation": "чичиртэл",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌길",
+    "translation": "чулуун зам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠잠히",
+    "translation": "чимээгүй, дуугүй",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "도채비",
+    "translation": "чөтгөр, сүнс (эртний үг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "습진",
+    "translation": "чонон хөрвөс",
+    "hanja": "濕疹",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "치와와",
+    "translation": "чихуахуа",
+    "hanja": "치와와",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "창동",
+    "translation": "Чандун (газарзүйн нэр)",
+    "hanja": "倉洞",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "추석날",
+    "translation": "Чүсок баярын өдөр",
+    "hanja": "秋夕날",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌조각",
+    "translation": "чулууны хэлтэрхий, чулуун баримал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "악마적",
+    "translation": "чөтгөрийн",
+    "hanja": "惡魔的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쉬잇",
+    "translation": "Чимээгүй, кшш",
+    "hanja": "쉬잇",
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "찌르르",
+    "translation": "чихрах, гинших дуу",
+    "hanja": "찌르르",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "견인",
+    "translation": "Чирэх, зүтгүүр",
+    "hanja": "牽引",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빽빽",
+    "translation": "Чигжиг; дүүрэн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "오도카니",
+    "translation": "чихэртэйгээр",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "조리다",
+    "translation": "чанах, буцалгах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "스리슬쩍",
+    "translation": "чимээгүйхэн, мэдэгдэхгүйгээр",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "견인되다",
+    "translation": "чирэгдэх",
+    "hanja": "牽引되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "박장대소",
+    "translation": "чанга инээх",
+    "hanja": "拍掌大笑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창정",
+    "translation": "Чанжөн (газарзүйн нэр)",
+    "hanja": "昌政",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "차오",
+    "translation": "Чао",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칠리새우",
+    "translation": "чили сам хорхой",
+    "hanja": "칠리새우",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "호젓하다",
+    "translation": "чимээгүй, амар тайван",
+    "hanja": "호젓하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부들거리다",
+    "translation": "чичиргээх, салганах",
+    "hanja": "부들거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "도깨비방망이",
+    "translation": "чөтгөрийн таяг, шидэт таяг",
+    "hanja": "도깨비방망이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칩스",
+    "translation": "чипс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차베스",
+    "translation": "Чавес",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "덜컹하다",
+    "translation": "чичрэх, доргих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매실주",
+    "translation": "чавганы дарс",
+    "hanja": "梅實酒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "알사탕",
+    "translation": "чихэрлэг амттан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "성심껏",
+    "translation": "чин сэтгэлээсээ, бүх зүрх сэтгэлээрээ",
+    "hanja": "誠心껏",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "습다",
+    "translation": "чийглэг байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "찡찡",
+    "translation": "чанга чанга дуугарах (хүүхдийн уйлах дуу)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차이콥스키",
+    "translation": "Чайковский (хөгжмийн зохиолч)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "너이",
+    "translation": "чамд",
+    "hanja": null,
+    "pos": "Pronoun",
+    "cefr": "A1"
+  },
+  {
+    "word": "쫑알쫑알",
+    "translation": "чанга чанга",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "당화",
+    "translation": "чихэржүүлэх",
+    "hanja": "糖化",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가습",
+    "translation": "чийгшүүлэх",
+    "hanja": "加濕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬투",
+    "translation": "чань ту (хятад нутгийн нэр)",
+    "hanja": "null",
+    "pos": "고유명사 (Proper Noun)",
+    "cefr": "C2"
+  },
+  {
+    "word": "숙달",
+    "translation": "чадвар",
+    "hanja": "熟達",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "짬",
+    "translation": "чөлөөт цаг, зав",
+    "hanja": "짬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "땅땅하다",
+    "translation": "чанга, хатуу",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵념하다",
+    "translation": "чимээгүй дурсах, хүндэтгэн зогсох",
+    "hanja": "默念하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "댓돌",
+    "translation": "чулуун тавцан, шатны суурь чулуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "놓여나다",
+    "translation": "чөлөөлөгдөх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친칠라",
+    "translation": "чинчилла",
+    "hanja": "chinchilla",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피식피식",
+    "translation": "чихэртэн",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폭폭",
+    "translation": "чанаж боловсруулах",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "후들후들하다",
+    "translation": "чичигнах, салганах",
+    "hanja": "후들후들하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중시되다",
+    "translation": "чухалчлагдах",
+    "hanja": "重視되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "치파오",
+    "translation": "чипао",
+    "hanja": "치파오",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "치마저고리",
+    "translation": "чима-чогори",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석공",
+    "translation": "чулуучин",
+    "hanja": "石工",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵례",
+    "translation": "чимээгүй мэндлэх",
+    "hanja": "默禮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "함구령",
+    "translation": "чимээгүй байх тушаал, хориг",
+    "hanja": "緘口令",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꾸미",
+    "translation": "чимэглэл, хуурамч",
+    "hanja": "꾸미",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "숙달하다",
+    "translation": "чадварлаг болох, эзэмших",
+    "hanja": "熟達하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌이",
+    "translation": "чулуу",
+    "hanja": "돌이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "바위섬",
+    "translation": "чулуурхаг арал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칠리크랩",
+    "translation": "Чили хавч",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "체더치즈",
+    "translation": "Чеддар бяслаг",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "허물없다",
+    "translation": "Чөлөөтэй, нээлттэй",
+    "hanja": "허물없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고성방가",
+    "translation": "Чанга дуугаар дуулах (замбараагүй)",
+    "hanja": "高聲放歌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "너너",
+    "translation": "чиний чинь",
+    "hanja": "---",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "귓구녕",
+    "translation": "чихний нүх",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "체로키",
+    "translation": "Чероки",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다다닥",
+    "translation": "чангинах",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "마신",
+    "translation": "чөтгөр",
+    "hanja": "魔神",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "후덜덜",
+    "translation": "Чичрэх",
+    "hanja": "후덜덜",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소리소리",
+    "translation": "чангаар орилох",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석수",
+    "translation": "чулуучин",
+    "hanja": "石手",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "엄수하다",
+    "translation": "чанд сахих, хугацааг барих",
+    "hanja": "嚴守하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "묵시",
+    "translation": "чимээгүй зөвшөөрөл, далд утга",
+    "hanja": "默示",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무성",
+    "translation": "Чимээгүй",
+    "hanja": "無聲",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석순",
+    "translation": "Чулуун багана",
+    "hanja": "石筍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "웰메이드",
+    "translation": "чанартай хийсэн",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "딸랑거리다",
+    "translation": "чимээ гаргах (жингэнэх)",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀도리",
+    "translation": "чихний хамгаалалт, чихэвч",
+    "hanja": "귀도리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌무덤",
+    "translation": "чулуун овоо",
+    "hanja": "돌무덤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체인지업",
+    "translation": "чейндж-ап бөмбөг",
+    "hanja": "change-up",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철컹철컹",
+    "translation": "чимээ гарган хөдлөх",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조용조용하다",
+    "translation": "Чимээгүйхэн байх",
+    "hanja": "",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "차르르하다",
+    "translation": "чихрарсан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "춘향가",
+    "translation": "Чүнхянга",
+    "hanja": "春香歌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적막감",
+    "translation": "чимээгүй, хоосорсон мэдрэмж",
+    "hanja": "寂寞感",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "용재",
+    "translation": "чухал материал, авъяаслаг хүн",
+    "hanja": "用材",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질수",
+    "translation": "чанар",
+    "hanja": "質數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빼곡",
+    "translation": "чигжигдсэн, дүүрсэн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "챙챙",
+    "translation": "чанг чанг (дуу)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀이개",
+    "translation": "чихний халбага",
+    "hanja": "귀이개",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귓속말하다",
+    "translation": "чихэнд шивнэх",
+    "hanja": "귓속말하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사귀",
+    "translation": "Чөтгөр, сүнс",
+    "hanja": "邪鬼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴마하다",
+    "translation": "чөтгөрийг хөөх",
+    "hanja": "退魔하다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "초리조",
+    "translation": "чоризо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "눈팅",
+    "translation": "чимээгүй унших",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "중요시되다",
+    "translation": "чухалчлагдах",
+    "hanja": "重要視되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귀찌",
+    "translation": "чихний чимэг (бөгжгүй)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "긴하다",
+    "translation": "чухал",
+    "hanja": "緊하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찔찔",
+    "translation": "чимээгүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀엣말",
+    "translation": "чихэнд шивнэх үг",
+    "hanja": "귓엣말",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "까이",
+    "translation": "чанаргүй, муу",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "뮬",
+    "translation": "чангалуулах, татлага",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌밭",
+    "translation": "чулуутай талбай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제주특별자치도",
+    "translation": "Чежүгийн тусгай өөртөө засах муж",
+    "hanja": "濟州特別自治道",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌부처",
+    "translation": "чулуун бурхан",
+    "hanja": "돌부처",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충무",
+    "translation": "Чунму (газрын нэр)",
+    "hanja": "忠武",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "야물딱지다",
+    "translation": "чадварлаг, нямбай",
+    "hanja": "야물딱지다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고생물",
+    "translation": "чулуужсан амьтан",
+    "hanja": "古生物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체스터",
+    "translation": "честер",
+    "hanja": "Chester",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김프",
+    "translation": "чимэг",
+    "hanja": "gimp",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "등롱",
+    "translation": "чихэвч",
+    "hanja": "燈籠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하리다",
+    "translation": "чадна",
+    "hanja": "하리다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "나불나불",
+    "translation": "чавчих",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파들파들",
+    "translation": "чичигнэх",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌팔매질",
+    "translation": "чулуу шидэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창주",
+    "translation": "Чанжү (газар)",
+    "hanja": "滄州",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "딸랑이",
+    "translation": "чихэрлэг зүйл (хүүхдийн тоглоом)",
+    "hanja": "딸랑이",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "수식하다",
+    "translation": "чимэглэх, тодотгох",
+    "hanja": "修飾하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "제습",
+    "translation": "чийг татах",
+    "hanja": "除濕",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐리리",
+    "translation": "чимээ, дуу",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "석축",
+    "translation": "чулуун хана",
+    "hanja": "石築",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "성냥불",
+    "translation": "Чүдэнзний гал",
+    "hanja": "성냥불",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "향배",
+    "translation": "чиглэл",
+    "hanja": "向背",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "박장대소하다",
+    "translation": "чанга инээх",
+    "hanja": "拍掌大笑하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쉬쉬",
+    "translation": "чимээгүй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공깃돌",
+    "translation": "чулуун тоглоом",
+    "hanja": "공깃돌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "마교",
+    "translation": "чөтгөрийн сүм",
+    "hanja": "魔敎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바윗덩어리",
+    "translation": "Чулууны хэсэг",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "괴괴하다",
+    "translation": "Чимээгүй, аймшигтай",
+    "hanja": "怪怪하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "꼬집히다",
+    "translation": "Чимхүүлэх, шүүмжлүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "촉촉이",
+    "translation": "Чийгтэй, нойтон",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌팔매",
+    "translation": "чулуу шидэх",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "마일스톤",
+    "translation": "чухал үе шат",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "체코슬로바키아",
+    "translation": "Чехословак",
+    "hanja": "체코슬로바키아",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "오돌오돌",
+    "translation": "чимээгүй дагжин чичрэх",
+    "hanja": "오돌오돌",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고급품",
+    "translation": "чанартай бүтээгдэхүүн",
+    "hanja": "高級品",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전형필",
+    "translation": "Чон Хён-пил",
+    "hanja": "全鎣弼",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "히우다",
+    "translation": "чиглүүлэх",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "바윗돌",
+    "translation": "чулуун тавцан",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "요조숙녀",
+    "translation": "чамин тансаг эмэгтэй",
+    "hanja": "窈窕淑女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암염",
+    "translation": "чулууны давс",
+    "hanja": "岩鹽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대롱거리다",
+    "translation": "чанга чанга дуугарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귓볼",
+    "translation": "чихний дэлбээ",
+    "hanja": "귓볼",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "깡깡",
+    "translation": "чанга чимээ",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "유창",
+    "translation": "чөлөөтэй",
+    "hanja": "流暢",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석등",
+    "translation": "чулуун гэрэл",
+    "hanja": "石燈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "첨벙거리다",
+    "translation": "чийг татах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채드윅",
+    "translation": "Чедвик (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "차우차우",
+    "translation": "чау-чау",
+    "hanja": "차우차우",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체르니",
+    "translation": "Черни",
+    "hanja": "체르니",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "죄어들다",
+    "translation": "чангарч орох, дарамтлах",
+    "hanja": "죄어들다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "라유",
+    "translation": "чилийн тос",
+    "hanja": "辣油",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌탄",
+    "translation": "чулуун нүүрс",
+    "hanja": "돌炭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바위투성이",
+    "translation": "чулуутай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "덜덜거리다",
+    "translation": "чичирхийлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "두방망이질",
+    "translation": "чанга цохилт",
+    "hanja": "두방망이질",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최충헌",
+    "translation": "Чоэ Чунхон",
+    "hanja": "崔忠獻",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "차리",
+    "translation": "Чарли",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "짤짤",
+    "translation": "чимээ гаргах (жижиг зүйлийн)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조지훈",
+    "translation": "Чо Жи-хун (хүний нэр)",
+    "hanja": "趙芝薰",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "표석",
+    "translation": "чулуун тэмдэг",
+    "hanja": "標石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참판",
+    "translation": "Чамын дарга",
+    "hanja": "參判",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "석실",
+    "translation": "чулуун тасалгаа",
+    "hanja": "石室",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "이어링",
+    "translation": "чихний ээмэг",
+    "hanja": "Earring",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "씨씨다",
+    "translation": "чимээ гаргах",
+    "hanja": "씨씨다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "니까짓",
+    "translation": "чиний",
+    "hanja": "니까짓",
+    "pos": "pronoun",
+    "cefr": "B1"
+  },
+  {
+    "word": "석굴",
+    "translation": "Чулуун агуй",
+    "hanja": "石窟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "촉촉히",
+    "translation": "чиглэгээр",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무능력자",
+    "translation": "чадваргүй хүн",
+    "hanja": "無能力者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석보",
+    "translation": "чулуун ном",
+    "hanja": "石譜",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "중경",
+    "translation": "Чунцин",
+    "hanja": "重慶",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "프리마켓",
+    "translation": "чөлөөт зах",
+    "hanja": "Free Market",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "귓병",
+    "translation": "Чихний өвчин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "까까",
+    "translation": "чихэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "차완무시",
+    "translation": "чаванмуши (япон хоол)",
+    "hanja": "茶碗蒸し",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "추풍령",
+    "translation": "Чупунрёон (газарзүйн нэр)",
+    "hanja": "秋風嶺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채경",
+    "translation": "Чай Чин",
+    "hanja": "蔡京",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥죄이다",
+    "translation": "чангалах",
+    "hanja": "옥죄이다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "턱걸이하다",
+    "translation": "чимээгүй давхцах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제주살이",
+    "translation": "Чежу арал дээр амьдрах",
+    "hanja": "濟州살이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쫑긋거리다",
+    "translation": "чихээ сортойх",
+    "hanja": "쫑긋거리다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "찌아찌아족",
+    "translation": "Чиачиа үндэстэн",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당밀",
+    "translation": "чихрийн сироп",
+    "hanja": "糖蜜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌섬",
+    "translation": "чулуун арал",
+    "hanja": "돌섬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용하다",
+    "translation": "чадварлаг, гарамгай",
+    "hanja": "用하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "치장되다",
+    "translation": "чимэглэгдэх, чимэглэх",
+    "hanja": "治裝되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "철컹거리다",
+    "translation": "чангинах чимээ гаргах",
+    "hanja": "철컹거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간요",
+    "translation": "чухал",
+    "hanja": "肝要",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "항진",
+    "translation": "чангарах",
+    "hanja": "亢進",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "챈들러",
+    "translation": "Чандлер (нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "낭랑",
+    "translation": "Чанга, тод (дуу хоолой)",
+    "hanja": "朗朗",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "자박자박하다",
+    "translation": "Чаг чаг хийх (алхах)",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "챱챱",
+    "translation": "чав чав (дуурайх үг)",
+    "hanja": "챱챱",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "진해",
+    "translation": "Чинхэ (хот)",
+    "hanja": "鎭海",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "나마",
+    "translation": "ч бас, -ээр ч гэсэн",
+    "hanja": "",
+    "pos": "조사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대성통곡하다",
+    "translation": "Чанга уйлах; Хашгиран уйлах",
+    "hanja": "大聲痛哭하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "널",
+    "translation": "чамайг",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "무음",
+    "translation": "чимээгүй",
+    "hanja": "無音",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레커",
+    "translation": "чирэх машин, лебедка",
+    "hanja": "레커",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음독",
+    "translation": "чангаар унших",
+    "hanja": "音讀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "척척하다",
+    "translation": "чийгтэй",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "데커레이션",
+    "translation": "чимэглэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "장주",
+    "translation": "Чанжу (Нэр)",
+    "hanja": "張主",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "마",
+    "translation": "чихэр өвс, маалинга",
+    "hanja": "麻",
+    "pos": "NOUN",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌담",
+    "translation": "чулуун хана",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "귀밑머리",
+    "translation": "чихий доорх үс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "추석맞이",
+    "translation": "Чусок баярыг угтах",
+    "hanja": "秋夕맞이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "치쿠다",
+    "translation": "чихэх",
+    "hanja": "치쿠다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "능력껏",
+    "translation": "чадлаараа",
+    "hanja": "能力껏",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "석두",
+    "translation": "чулуун толгой, тэнэг хүн",
+    "hanja": "石頭",
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "채프먼",
+    "translation": "Чапман",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요소요소",
+    "translation": "чухал хэсэг, гол цэг",
+    "hanja": "要所要所",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다습하다",
+    "translation": "чийглэг",
+    "hanja": "多濕하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼼지락대다",
+    "translation": "чимээгүйхэн хөдлөх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "푸닥거리",
+    "translation": "чөтгөрийг хөөх ёслол",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "최은희",
+    "translation": "Чой Ын Хи (хүний нэр)",
+    "hanja": "崔銀姬",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "물맷돌",
+    "translation": "чавхны чулуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "푸르륵",
+    "translation": "чүдэн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "청조",
+    "translation": "Чин гүрэн",
+    "hanja": "淸朝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충남",
+    "translation": "Чүннам (Чунчоннамду)",
+    "hanja": "忠南",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "부자유하다",
+    "translation": "Чөлөөгүй, эрх чөлөөгүй",
+    "hanja": "不自由하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "허시",
+    "translation": "Чимээгүй!",
+    "hanja": "hush",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "싸물다",
+    "translation": "чимээгүй байх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "치우",
+    "translation": "Чиу (Хятадын үлгэрийн баатар)",
+    "hanja": "蚩尤",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "댐핑",
+    "translation": "чийгшүүлэх",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "창춘",
+    "translation": "Чанчунь",
+    "hanja": "長春",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "석방시키다",
+    "translation": "Чөлөөлөх",
+    "hanja": "釋放시키다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "보습하다",
+    "translation": "чийгшүүлэх",
+    "hanja": "保濕하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석환",
+    "translation": "чулуун бөгж",
+    "hanja": "石環",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퀘퀘하다",
+    "translation": "чихмэл",
+    "hanja": "null",
+    "pos": "тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "귓밥",
+    "translation": "чихний хулхи",
+    "hanja": "null",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "석물",
+    "translation": "чулуун баримал",
+    "hanja": "石物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "샤이엔",
+    "translation": "Чейенн (нэр, газар)",
+    "hanja": "Cheyenne",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석정",
+    "translation": "чулуун худаг",
+    "hanja": "石井",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "끽소리",
+    "translation": "Чихтүүлсэн дуу",
+    "hanja": "끽소리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "첸나이",
+    "translation": "Ченнай",
+    "hanja": "첸나이",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "승냥이",
+    "translation": "чоно",
+    "hanja": "승냥이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맑",
+    "translation": "чихэрлэг, амттай",
+    "hanja": "맑",
+    "pos": "형용사 (хуучин)",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀침",
+    "translation": "чихний зүү",
+    "hanja": "耳針",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차우셰스쿠",
+    "translation": "Чаушеску",
+    "hanja": "차우셰스쿠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변질시키다",
+    "translation": "чанар муутгах, өөрчлөх",
+    "hanja": "變質시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "술렁술렁",
+    "translation": "чүнчгэнэх, шуугих",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌무지덧널무덤",
+    "translation": "чулуун овоолгын бунхан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "석벽",
+    "translation": "чулуун хана",
+    "hanja": "石壁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꺅꺅",
+    "translation": "чарлах",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자유시",
+    "translation": "чөлөөт хот",
+    "hanja": "自由市",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "초바",
+    "translation": "Чоба (хуулийн нэр томъёо)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창릉",
+    "translation": "чанрын (оюуны чадамж)",
+    "hanja": "昌陵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀문",
+    "translation": "чөтгөрийн хаалга",
+    "hanja": "鬼門",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지끈지끈하다",
+    "translation": "чимээ гаргах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종횡무진하다",
+    "translation": "чөлөөтэй зорчих, хаа сайгүй явах",
+    "hanja": "縱橫無盡하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "니깟",
+    "translation": "чинийх шиг, чинийх шиг юм",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "귓방망이",
+    "translation": "чихний алга",
+    "hanja": "귓방망이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "덜컹대다",
+    "translation": "чичиргээтэй дуугарах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석수장이",
+    "translation": "чулуучин",
+    "hanja": "石手丈이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "조병준",
+    "translation": "Чо Бён-жун (хүний нэр)",
+    "hanja": "趙炳俊",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "채송아",
+    "translation": "Чэсон-ах",
+    "hanja": "蔡松兒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "스터핑",
+    "translation": "Чихмэл",
+    "hanja": "스터핑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "떠버리",
+    "translation": "Чанга яригч",
+    "hanja": "떠버리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "매병",
+    "translation": "чанхлан зогссон ваар",
+    "hanja": "梅甁",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "광광",
+    "translation": "Чанга дуугарах (уйлах, орилох)",
+    "hanja": "",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "조민",
+    "translation": "Чо Мин",
+    "hanja": "조민",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "추러스",
+    "translation": "чуррос",
+    "hanja": "추러스",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "데스티네이션",
+    "translation": "чиглэл",
+    "hanja": "데스티네이션",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "철릭",
+    "translation": "Чоллик",
+    "hanja": "철릭",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "계도하다",
+    "translation": "чиглүүлэх",
+    "hanja": "啓導하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "철컥철컥",
+    "translation": "чахрах чимээ",
+    "hanja": "철컥철컥",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "초량",
+    "translation": "Чорян (газарзүйн нэр)",
+    "hanja": "草梁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한산",
+    "translation": "чимээгүй",
+    "hanja": "閑散",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "땍땍거리다",
+    "translation": "чарлах, заргалдах",
+    "hanja": "땍땍거리다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채플",
+    "translation": "чапел",
+    "hanja": "Chapel",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "질지다",
+    "translation": "чийгтэй байх",
+    "hanja": "질지다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "찌르르하다",
+    "translation": "чимээ гарах",
+    "hanja": "찌르르하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "씨불다",
+    "translation": "чалах, хов жив ярих",
+    "hanja": "씨불다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주예",
+    "translation": "Чуэ",
+    "hanja": "朱藝",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "처용",
+    "translation": "Чо용",
+    "hanja": "處容",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "척준경",
+    "translation": "Чок Жун-гён",
+    "hanja": "拓俊京",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감람",
+    "translation": "чидун жимс",
+    "hanja": "橄欖",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "차도르",
+    "translation": "чадар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "털털거리다",
+    "translation": "чичирхийлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대독",
+    "translation": "чангаар унших",
+    "hanja": "代讀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "초랭이",
+    "translation": "Чорянги (БНСУ-ын уламжлалт хүүхэлдэйн баг)",
+    "hanja": "--",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "차우",
+    "translation": "Чау",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유능",
+    "translation": "чадварлаг",
+    "hanja": "有能",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "축령산",
+    "translation": "Чухрёонгсан уул",
+    "hanja": "祝靈山",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화석화되다",
+    "translation": "чулуужих",
+    "hanja": "化石化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "딩이",
+    "translation": "чанга дуу чимээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변질하다",
+    "translation": "чанар муудах, өөрчлөгдөх",
+    "hanja": "變質하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "깽깽거리다",
+    "translation": "чанга дуугарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "한자리하다",
+    "translation": "чухал байр суурь эзлэх",
+    "hanja": "한자리하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌무지무덤",
+    "translation": "чулуун овоолгын булш",
+    "hanja": "돌무지무덤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "껄껄대다",
+    "translation": "чангаар инээх",
+    "hanja": "껄껄대다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쏭알쏭알",
+    "translation": "чимээгүй шивнэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금난전권",
+    "translation": "чөлөөт худалдааны хориг",
+    "hanja": "禁亂廛權",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "재주껏",
+    "translation": "чадлаараа",
+    "hanja": "才主껏",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "덜걱거리다",
+    "translation": "Чахрах",
+    "hanja": null,
+    "pos": "Үйл үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "친체로",
+    "translation": "чинчеро (Перугийн нэгэн газар)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석불",
+    "translation": "чулуун бурхан",
+    "hanja": "石佛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통달",
+    "translation": "чадварлаг",
+    "hanja": "通達",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "토우",
+    "translation": "Чирэх, зөөх",
+    "hanja": "토우",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "체임벌린",
+    "translation": "чемберлен",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중치막",
+    "translation": "Чужимэг (эртний эрэгтэй дээл)",
+    "hanja": "中致莫",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "쩌렁",
+    "translation": "чанга",
+    "hanja": "쩌렁",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀울",
+    "translation": "чих шуугих",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체호프",
+    "translation": "Чехов",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "습도계",
+    "translation": "Чийг хэмжигч",
+    "hanja": "濕度計",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "팬시점",
+    "translation": "Чимэглэлийн дэлгүүр",
+    "hanja": "팬시점",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "뺙",
+    "translation": "чимээ",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "C2"
+  },
+  {
+    "word": "오얏",
+    "translation": "чавга",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌투성이",
+    "translation": "чулуугаар дүүрэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석문",
+    "translation": "Чулуун хаалга",
+    "hanja": "石門",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "광복되다",
+    "translation": "чөлөөлөгдөх",
+    "hanja": "光復되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "샤를",
+    "translation": "Чарльз",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "슬링샷",
+    "translation": "чавх",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체스터필드",
+    "translation": "Честерфилд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "씰룩대다",
+    "translation": "чичрэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "끌바",
+    "translation": "чангаан унах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "치네",
+    "translation": "чинэ (байршил, овог)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "충혜왕",
+    "translation": "Чүнхэван (солонгосын ван)",
+    "hanja": "忠惠王",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지끄다",
+    "translation": "чихэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "중요히",
+    "translation": "чухал",
+    "hanja": "重要히",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "지르르",
+    "translation": "чичирхийлэх",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "천곡",
+    "translation": "Чонгог",
+    "hanja": "泉谷",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시걸",
+    "translation": "чармайх",
+    "hanja": "시걸",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "꺅꺅거리다",
+    "translation": "чарлах (хайрхирах)",
+    "hanja": "꺅꺅거리다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "달곰이",
+    "translation": "чихэр, амттан",
+    "hanja": "달곰이",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "빵빵대다",
+    "translation": "чанга дуугарах, чанга дуу чимээ гаргах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채디",
+    "translation": "Чэди (газарзүйн нэр)",
+    "hanja": "채디",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "체임버스",
+    "translation": "чеймберс",
+    "hanja": null,
+    "pos": "NNP",
+    "cefr": "C2"
+  },
+  {
+    "word": "요마",
+    "translation": "Чөтгөр",
+    "hanja": "妖魔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "중요",
+    "translation": "чухал",
+    "hanja": "重要",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "넌",
+    "translation": "чи",
+    "hanja": "넌",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "귀뜸",
+    "translation": "Чихэнд шивнэх",
+    "hanja": "귀뜸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "끼야악",
+    "translation": "чарлах (дуурайх үг)",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체르니히우",
+    "translation": "Чернигов",
+    "hanja": "체르니히우",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꾸밈",
+    "translation": "Чимэглэл, гоёл",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "차차차차",
+    "translation": "чачачача (бүжиг)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "청진",
+    "translation": "чагнах",
+    "hanja": "聽診",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "침통",
+    "translation": "Чичиргээ, уйтгар гунигт байдал",
+    "hanja": "沈痛",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "묵인되다",
+    "translation": "чимээгүй зөвшөөрөгдөх",
+    "hanja": "黙認되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유유하다",
+    "translation": "чөлөөтэй",
+    "hanja": "悠悠하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체르니우치",
+    "translation": "Черновци",
+    "hanja": "체르니우치",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "처트",
+    "translation": "Чарт (chert - геологийн нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조잘대다",
+    "translation": "Чалах, шуугах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "탕제",
+    "translation": "чанамал эм",
+    "hanja": "湯劑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "꽝철이",
+    "translation": "чанаргүй төмөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀뜸하다",
+    "translation": "чихэнд шивнэх, сэм мэдэгдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수분하다",
+    "translation": "чийгшүүлэх",
+    "hanja": "水分하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창저우",
+    "translation": "Чанжоу (хот)",
+    "hanja": "常州",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고강",
+    "translation": "чанартай, нягт",
+    "hanja": "高剛",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "채석",
+    "translation": "чулуу олборлох",
+    "hanja": "採石",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "칭이",
+    "translation": "Чин И (хүний нэр)",
+    "hanja": "칭이",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사크",
+    "translation": "Чулуун сав",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌주먹",
+    "translation": "чулуун нударга",
+    "hanja": "돌주먹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "죽령",
+    "translation": "чукён",
+    "hanja": "竹嶺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "달각달각",
+    "translation": "Чих чих",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "짜랑짜랑하다",
+    "translation": "чанга, тод дуу гаргах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌사자",
+    "translation": "чулуун арслан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "분방하다",
+    "translation": "чөлөөтэй, нээлттэй байх",
+    "hanja": "奔放하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고춧대",
+    "translation": "Чинжүүний иш",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석강",
+    "translation": "чулуун гол",
+    "hanja": "石江",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "적요하다",
+    "translation": "чимээгүй, анир гүм байх",
+    "hanja": "寂寥하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "닥닥",
+    "translation": "чимээгүй, анир гүм (дууриалган)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": null
+  },
+  {
+    "word": "죄이다",
+    "translation": "чангалах, чагтлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예인되다",
+    "translation": "Чирэгдэх",
+    "hanja": "曳引되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "찰박거리다",
+    "translation": "чанга чангах",
+    "hanja": "찰박거리다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "재주넘다",
+    "translation": "чадвар үзүүлэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "당과",
+    "translation": "чихэр шоколад",
+    "hanja": "糖菓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "도째비",
+    "translation": "Чөтгөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "피둥피둥",
+    "translation": "чихэлдсэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능숙히",
+    "translation": "чадварлаг",
+    "hanja": "能熟히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체코어",
+    "translation": "чех хэл",
+    "hanja": "체코語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고소리",
+    "translation": "чимээ гаргах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭두",
+    "translation": "чоно",
+    "hanja": "狼頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참성단",
+    "translation": "Чамсондан",
+    "hanja": "塹星壇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "깜이",
+    "translation": "чадвар, чанар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귓방맹이",
+    "translation": "чихний алгадуурт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달콤새콤하다",
+    "translation": "чихэрлэг, исгэлэн амттай",
+    "hanja": "달콤새콤하다",
+    "pos": "VA",
+    "cefr": "C1"
+  },
+  {
+    "word": "차오양",
+    "translation": "Чаоян (хотын дүүрэг)",
+    "hanja": "朝陽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "바들거리다",
+    "translation": "чичрэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "멍군",
+    "translation": "чек",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "C2"
+  },
+  {
+    "word": "칠리오일",
+    "translation": "чилийн тос",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "나례",
+    "translation": "чихний баяр",
+    "hanja": "儺禮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "채옹",
+    "translation": "Чэ Юн (хүний нэр)",
+    "hanja": "蔡邕",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "최지몽",
+    "translation": "Чой Жи-мунг (хүний нэр)",
+    "hanja": "崔知夢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루프스",
+    "translation": "чонон хөрвөс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칭하이",
+    "translation": "Чинхай муж (Хятад)",
+    "hanja": "靑海",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "떨렁",
+    "translation": "чанга чимээ",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "윤색",
+    "translation": "чимэглэл, гоёл",
+    "hanja": "潤色",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "창왕",
+    "translation": "Чан ван (солонгосын хаан)",
+    "hanja": "昌王",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "치레",
+    "translation": "Чимэглэл, гоёл",
+    "hanja": "治理",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하구려",
+    "translation": "Чамайг дорд үзэх",
+    "hanja": "何故려",
+    "pos": "감탄사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빽빽거리다",
+    "translation": "Чанга орилох",
+    "hanja": "빽빽거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민완",
+    "translation": "чадварлаг, ур чадвартай",
+    "hanja": "敏腕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빡하다",
+    "translation": "чангарах, түгжрэх",
+    "hanja": "NaN",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "타기팅",
+    "translation": "чиглүүлэх",
+    "hanja": "타기팅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가마이",
+    "translation": "чимээгүй, дуугүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종알대다",
+    "translation": "чихэнд шивнэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "충목왕",
+    "translation": "Чүнмуг ван",
+    "hanja": "忠穆王",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "투석하다",
+    "translation": "чулуу шидэх",
+    "hanja": "投石하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "취이",
+    "translation": "Чигжиж оруулах",
+    "hanja": "취이",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀안",
+    "translation": "Чихний доторх (газар)",
+    "hanja": "鬼眼",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "치카노",
+    "translation": "Чикано",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용렬하다",
+    "translation": "чадваргүй",
+    "hanja": "庸劣하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "석교",
+    "translation": "Чулуун гүүр",
+    "hanja": "石橋",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "충숙왕",
+    "translation": "Чүнсүг ван",
+    "hanja": "忠肅王",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무가당",
+    "translation": "чихэргүй",
+    "hanja": "無加糖",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "찬차",
+    "translation": "Чанча (нэр)",
+    "hanja": "찬차",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이상협",
+    "translation": "чухал хэлэлцээр",
+    "hanja": "頤相協",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "가는귀",
+    "translation": "чийхэн чихтэй",
+    "hanja": "가는귀",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "화석화",
+    "translation": "чулуужих",
+    "hanja": "化石化",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "잔나",
+    "translation": "Чанна",
+    "hanja": "잔나",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "차이완",
+    "translation": "Чайвань",
+    "hanja": "차이완",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "철현",
+    "translation": "Чолхён",
+    "hanja": "哲賢",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조윤",
+    "translation": "Чо Юн",
+    "hanja": "調潤",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "틀어박다",
+    "translation": "чанга хадах, бөглөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퀴버",
+    "translation": "чичрэх",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "춘원",
+    "translation": "Чунуон (хүний нэр)",
+    "hanja": "春園",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "뎅기",
+    "translation": "чичрэг өвчин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쪼매다",
+    "translation": "чангалах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "치포",
+    "translation": "чипо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시로미",
+    "translation": "чага",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "청암",
+    "translation": "Чонгам (газар/хүний нэр)",
+    "hanja": "靑巖",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차페크",
+    "translation": "Чапек",
+    "hanja": "차페크",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "쩌릿쩌릿하다",
+    "translation": "чимээ гарах, цахилгаан гүйдэх мэт",
+    "hanja": "쩌릿쩌릿하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장암",
+    "translation": "чангам (солонгосын газарзүйн нэр)",
+    "hanja": "長岩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "암팡지다",
+    "translation": "чанга, тэсвэртэй",
+    "hanja": "암팡지다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제벌",
+    "translation": "чүнчү",
+    "hanja": "財閥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차파티",
+    "translation": "чапати",
+    "hanja": "Chapati",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "조준되다",
+    "translation": "чиглэгдсэн",
+    "hanja": "照準되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채씨",
+    "translation": "Чэ овог",
+    "hanja": "蔡氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "추석빔",
+    "translation": "Чусокийн шинэ хувцас",
+    "hanja": "秋夕빔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌층계",
+    "translation": "чулуун шат",
+    "hanja": "돌층계",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쌕",
+    "translation": "чихэр",
+    "hanja": "쌕",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "치미창가",
+    "translation": "чимичанга (хоол)",
+    "hanja": "Chimichanga",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변침",
+    "translation": "чиглэл өөрчлөх",
+    "hanja": "變針",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순구",
+    "translation": "чистых уст (устна)",
+    "hanja": "醇軀",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "욱신대다",
+    "translation": "чичрэх",
+    "hanja": "욱신대다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "놓아기르다",
+    "translation": "чөлөөтэй өсгөх",
+    "hanja": "놓아기르다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "덜커덕거리다",
+    "translation": "чичирхийлэх",
+    "hanja": "덜커덕거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장진주",
+    "translation": "чанжинжү",
+    "hanja": "將進酒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "한가히",
+    "translation": "чөлөөтэй, амар тайван",
+    "hanja": "閑暇히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "게바라",
+    "translation": "Че Гевара",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀울림",
+    "translation": "чих шуугих",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석수쟁이",
+    "translation": "чулуучин",
+    "hanja": "石수쟁이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장덕준",
+    "translation": "Чандокжун",
+    "hanja": "張德俊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채터",
+    "translation": "Чаттер (шууд орчуулга байхгүй)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침채",
+    "translation": "чимбээ",
+    "hanja": "沈滯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석박",
+    "translation": "чулуун таваг",
+    "hanja": "石鉢",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "파안대소하다",
+    "translation": "чанга инээх",
+    "hanja": "破顔大笑하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기탄없다",
+    "translation": "чөлөөтэй, илэн далангүй",
+    "hanja": "忌憚없다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축귀",
+    "translation": "чөтгөр үлдэн хөөх, муу сүнс хөөх",
+    "hanja": "逐鬼",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "한유하다",
+    "translation": "чөлөөтэй зугаалах, чөлөөтэй явах",
+    "hanja": "閑遊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "귀이",
+    "translation": "чихний доторх чимээ",
+    "hanja": "耳",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "석성",
+    "translation": "чулуун бэхлэлт",
+    "hanja": "石城",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "떽떽",
+    "translation": "чангаар орилох",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "두방망이질하다",
+    "translation": "Чавхдах, савах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칭사",
+    "translation": "Чавхдах, савах",
+    "hanja": "稱謝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "치누크",
+    "translation": "Чинүүк (салхи)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "졍",
+    "translation": "Чжонг (нэр)",
+    "hanja": "鄭",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "친디아",
+    "translation": "Чиндиа (Хятад, Энэтхэг)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "달달거리다",
+    "translation": "Чихэрлэг дуугарах, сачигнах",
+    "hanja": "달달거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근실히",
+    "translation": "чин сэтгэлээсээ, үнэнчээр",
+    "hanja": "勤實히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신묵",
+    "translation": "чимээгүй, дуугүй байх",
+    "hanja": "愼默",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "찌르르르",
+    "translation": "чимээ гарах (жиг жуг)",
+    "hanja": "찌르르르",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "짜오프라야",
+    "translation": "Чао Прайя",
+    "hanja": "짜오프라야",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "떠벌이다",
+    "translation": "Чанга ярих",
+    "hanja": "떠벌이다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "절그럭거리다",
+    "translation": "чимээ гаргах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀곡",
+    "translation": "чөтгөрийн хөндий",
+    "hanja": "鬼谷",
+    "pos": "Noun",
+    "cefr": "C2"
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "word": "극",
+    "translation": "туйл",
+    "hanja": "極",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극강",
+    "translation": "хамгийн хүчтэй, маш хүчтэй",
+    "hanja": "極强",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "극관",
+    "translation": "туйлын таг",
+    "hanja": "極冠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "극광",
+    "translation": "туйлсын туяа",
+    "hanja": "極光",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "극구",
+    "translation": "Маш их",
+    "hanja": "極口",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극기",
+    "translation": "өөрийгөө хянах",
+    "hanja": "克己",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극단",
+    "translation": "Театр",
+    "hanja": "劇團",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극단적",
+    "translation": "хэт",
+    "hanja": "極端的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극단주의자",
+    "translation": "хэт даврагч",
+    "hanja": "極端主義者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극단화되다",
+    "translation": "хэтрүүлэгдэх",
+    "hanja": "極端化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극대",
+    "translation": "хамгийн их",
+    "hanja": "極大",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극대화",
+    "translation": "хамгийн их болгох",
+    "hanja": "極大化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극대화되다",
+    "translation": "хамгийн ихээр нэмэгдэх, дээд цэгтээ хүрэх",
+    "hanja": "極大化되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "극대화하다",
+    "translation": "хамгийн их болгох",
+    "hanja": "極大化하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "극도",
+    "translation": "хэтэрхий их",
+    "hanja": "極度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극동",
+    "translation": "алс дорнод",
+    "hanja": "極東",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "극락",
+    "translation": "диваажин",
+    "hanja": "極樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극락세계",
+    "translation": "амгалангийн орон",
+    "hanja": "極樂世界",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "극락왕생하다",
+    "translation": "диваажинд очих",
+    "hanja": "極樂往生하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극렬하다",
+    "translation": "хурц, хүчтэй, үхтэлээ",
+    "hanja": "極烈하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극렬히",
+    "translation": "хэтэрхий",
+    "hanja": "極烈히",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "극명하다",
+    "translation": "тод, илэрхий",
+    "hanja": "克明—",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "극명히",
+    "translation": "хурцаар, тодорхойгоор",
+    "hanja": "克明히",
+    "pos": "ADV",
+    "cefr": "C2"
+  },
+  {
+    "word": "극미량",
+    "translation": "маш бага хэмжээ",
+    "hanja": "極微量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극복",
+    "translation": "даван туулах",
+    "hanja": "克服",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극복되다",
+    "translation": "даван туулагдах",
+    "hanja": "克服되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극복하다",
+    "translation": "даван туулах",
+    "hanja": "克服하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극본",
+    "translation": "жүжгийн зохиол",
+    "hanja": "극본(劇本)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극비",
+    "translation": "нууц",
+    "hanja": "極秘",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "극비리",
+    "translation": "маш нууцаар",
+    "hanja": "極秘裡",
+    "pos": "adverb",
+    "cefr": "C2"
+  },
+  {
+    "word": "극빈자",
+    "translation": "тусгаарлагдсан ядуу хүн",
+    "hanja": "極貧者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극빈층",
+    "translation": "Хамгийн ядуу давхарга",
+    "hanja": "極貧層",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극상",
+    "translation": "дээд зэргийн",
+    "hanja": "極上",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극성",
+    "translation": "хэт ширүүн / хэт сүйтгэгч",
+    "hanja": "極性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극성맞다",
+    "translation": "Маш их идэвхтэй",
+    "hanja": "極盛맞다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극성스럽다",
+    "translation": "хэт идэвхтэй, хэт даврамтгай",
+    "hanja": "極盛-",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "극소",
+    "translation": "маш бага",
+    "hanja": "極小",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극소량",
+    "translation": "маш бага хэмжээ",
+    "hanja": "極少量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극소수",
+    "translation": "маш цөөхөн",
+    "hanja": "極少數",
+    "pos": "мüns",
+    "cefr": "C1"
+  },
+  {
+    "word": "극심하다",
+    "translation": "хэт их, туйлширсан",
+    "hanja": "極甚하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극악",
+    "translation": "маш муу, адгийн",
+    "hanja": "極惡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "translation": "хэрцгий",
+    "hanja": "極惡無道하다",
+    "pos": "형용사",
+    "cefr": "C2",
+    "word": "극악무도하다"
+  },
+  {
+    "word": "극악하다",
+    "translation": "маш муу",
+    "hanja": "極惡하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극약",
+    "translation": "хүчтэй эм, хортой эм",
+    "hanja": "劇藥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극우",
+    "translation": "хэт барууны",
+    "hanja": "極右",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극우파",
+    "translation": "хэт барууны нам",
+    "hanja": "極右派",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "극의",
+    "translation": "хамгийн дээд утга, гол санаа",
+    "hanja": "極意",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "극작가",
+    "translation": "жүжгийн зохиолч",
+    "hanja": "劇作家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극장",
+    "translation": "Театр",
+    "hanja": "劇場",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "극장가",
+    "translation": "театрын гудамж",
+    "hanja": "劇場街",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극적",
+    "translation": "Эрс",
+    "hanja": "劇的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극점",
+    "translation": "Туйл, хамгийн дээд цэг",
+    "hanja": "極點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극존칭",
+    "translation": "Хүндэтгэлийн дээд хэлбэр",
+    "hanja": "極尊稱",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "극좌",
+    "translation": "хэт зүүн",
+    "hanja": "極左",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극좌파",
+    "translation": "хэт зүүний үзэлтэн",
+    "hanja": "極左派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극지",
+    "translation": "туйл",
+    "hanja": "極地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극지방",
+    "translation": "туйлын бүс",
+    "hanja": "極地方",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "극진하다",
+    "translation": "маш их анхаарал тавих",
+    "hanja": "極盡하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "극진히",
+    "translation": "маш ихээр, чин сэтгэлээсээ",
+    "hanja": "極盡히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극찬",
+    "translation": "Их магтаал",
+    "hanja": "極讚",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "극찬하다",
+    "translation": "их магтах",
+    "hanja": "極讚–",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극초음속",
+    "translation": "хэт авианы хурд",
+    "hanja": "極超音速",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "극치",
+    "translation": "Оргил, туйл",
+    "hanja": "極致",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극판",
+    "translation": "туйлын хавтан",
+    "hanja": "極板",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극피",
+    "translation": "хамгийн нимгэн арьс",
+    "hanja": "極皮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "극한",
+    "translation": "хэт туйл, хязгаар",
+    "hanja": "極限",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극혐",
+    "translation": "маш их үзэн ядах",
+    "hanja": "極嫌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "극형",
+    "translation": "хамгийн хүнд ял",
+    "hanja": "極刑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극호",
+    "translation": "Маш сайн, онц сайн",
+    "hanja": "極好",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극화",
+    "translation": "жүжиг болгох",
+    "hanja": "劇化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "극화하다",
+    "translation": "драмчилж харуулах",
+    "hanja": "劇化하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "극히",
+    "translation": "маш их",
+    "hanja": "極히",
+    "pos": "Adverb",
+    "cefr": "C1"
+  }
+]

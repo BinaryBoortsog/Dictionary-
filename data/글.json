@@ -1,0 +1,534 @@
+[
+  {
+    "word": "글",
+    "translation": "бичиг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "글감",
+    "translation": "бичих сэдэв, түүх",
+    "hanja": "글감",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "글공부",
+    "translation": "сурах, бичих, унших",
+    "hanja": "글工夫",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "글공부하다",
+    "translation": "ном судлах",
+    "hanja": "글工夫하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글구",
+    "translation": "мөн, тэгээд",
+    "hanja": null,
+    "pos": "접속 부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "글귀",
+    "translation": "мөр",
+    "hanja": "글句",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "글꼴",
+    "translation": "үсгийн фонт",
+    "hanja": "글꼴",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "글다",
+    "translation": "зурах, тэмдэглэх",
+    "hanja": "글다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "글라디올러스",
+    "translation": "гладиолус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "글라스",
+    "translation": "шил",
+    "hanja": "glass",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "글라이더",
+    "translation": "Дельтаплан",
+    "hanja": "glider",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "글라이드",
+    "translation": "Глайд",
+    "hanja": "글라이드",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "글라이딩",
+    "translation": "планер",
+    "hanja": "글라이딩",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "글래디스",
+    "translation": "Глэдис (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "글래머",
+    "translation": "гялгар, сүрлэг",
+    "hanja": "글래머",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "글래스고",
+    "translation": "Глазго хот (Шотланд)",
+    "hanja": "Glasgow",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "글램핑",
+    "translation": "Глэмпинг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "글램하다",
+    "translation": "ганган, өнгөлөг",
+    "hanja": "null",
+    "pos": "형용사 (Adjective)",
+    "cefr": "B1"
+  },
+  {
+    "word": "글러브",
+    "translation": "Бээлий",
+    "hanja": "glove",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "글럭",
+    "translation": "аз",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "글레어",
+    "translation": "гялбаа, гэрэлтэлт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글레이즈",
+    "translation": "глазурь",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "글레이징",
+    "translation": "глазурь (бүрэх)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글로리",
+    "translation": "алдар, нэр төр",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "글로리아",
+    "translation": "Глориа",
+    "hanja": "글로리아",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "글로벌하다",
+    "translation": "дэлхийн",
+    "hanja": "global-",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글로벌화",
+    "translation": "даян дэлхийн болгох, глобалчлах",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글로벌화되다",
+    "translation": "даян дэлхийн болох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글로불린",
+    "translation": "глобулин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "글로브",
+    "translation": "бээлий",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "글로스터",
+    "translation": "Глостер",
+    "hanja": "글로스터",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "글로시",
+    "translation": "гялгар",
+    "hanja": "glossy",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글로시하다",
+    "translation": "Гялалзсан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글로컬",
+    "translation": "Глокал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "글로켄슈필",
+    "translation": "Глокеншпиль",
+    "hanja": "글로켄슈필",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "글루",
+    "translation": "цавуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "글루코사민",
+    "translation": "глюкозамин",
+    "hanja": "글루코사민",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "글루코스",
+    "translation": "глюкоз",
+    "hanja": "glucose",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "글루타민",
+    "translation": "Глютамин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "글루타치온",
+    "translation": "глутатион",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "글루타티온",
+    "translation": "Глутатион",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "글루탐산",
+    "translation": "глутамины хүчил",
+    "hanja": "Glutamic acid",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "글루텐",
+    "translation": "глютен",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "글르다",
+    "translation": "Буруу байна",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "글리",
+    "translation": "Гли (хүний нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "글리다",
+    "translation": "гулгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "글리세롤",
+    "translation": "глицерол",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "글리세린",
+    "translation": "глицерин",
+    "hanja": "glycerine",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "글리치",
+    "translation": "алдаа",
+    "hanja": "글리치(glitch)",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "글리코겐",
+    "translation": "гликоген",
+    "hanja": "글리코겐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "글리프",
+    "translation": "глиф, сийлбэр",
+    "hanja": "null",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "글린트",
+    "translation": "Гялалзах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "글머리",
+    "translation": "өгүүллийн эхлэл",
+    "hanja": "글머리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글방",
+    "translation": "бие даан сурах өрөө",
+    "hanja": "글房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "글썽",
+    "translation": "гялалзах",
+    "hanja": "글썽",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "글썽거리다",
+    "translation": "нулимс цийлэгнэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글썽글썽",
+    "translation": "Нулимс мэлмэрэх",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글썽글썽하다",
+    "translation": "нулимстай байх, нулимсанд бүрэлзэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "글썽이다",
+    "translation": "нулимс цийлэгнэх",
+    "hanja": "--",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "글썽하다",
+    "translation": "нулимс цийлэгнэх",
+    "hanja": "None",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글쎄",
+    "translation": "мэдэхгүй",
+    "hanja": null,
+    "pos": "Interjection",
+    "cefr": "A2"
+  },
+  {
+    "word": "글쎄올시다",
+    "translation": "сайн мэдэхгүй юм, хэлж мэдэхгүй нь",
+    "hanja": "글쎄올시다",
+    "pos": "감탄사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글쓰기",
+    "translation": "бичих",
+    "hanja": "글쓰기",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "글쓴이",
+    "translation": "Зохиолч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "글씨",
+    "translation": "бичих",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "글씨체",
+    "translation": "бичгийн хэв маяг, фонт",
+    "hanja": "글씨體",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "글자",
+    "translation": "үсэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "글자수",
+    "translation": "үсгийн тоо",
+    "hanja": "글자數",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "글자체",
+    "translation": "үсгийн фонт",
+    "hanja": "글자體",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "글자판",
+    "translation": "гар, үсгийн самбар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "글재주",
+    "translation": "бичих ур чадвар, авьяас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "글쟁이",
+    "translation": "бичигч",
+    "hanja": "글쟁이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "글줄",
+    "translation": "Өгүүлбэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "글짓기",
+    "translation": "бичгийн ажил",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "글케",
+    "translation": "Тиймээс",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "글피",
+    "translation": "Нөгөөдөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  }
+]

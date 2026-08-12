@@ -1,0 +1,464 @@
+[
+  {
+    "word": "별",
+    "translation": "Од",
+    "hanja": "별",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "별감",
+    "translation": "тусгай албан тушаалтан",
+    "hanja": "別監",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "별개",
+    "translation": "Тусдаа",
+    "hanja": "別個",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별거하다",
+    "translation": "гэр бүл тусдаа амьдрах",
+    "hanja": "別居하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "별건",
+    "translation": "тусдаа хэрэг",
+    "hanja": "別件",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "별고",
+    "translation": "онцгой асуудал",
+    "hanja": "別故",
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "별관",
+    "translation": "нэмэлт барилга, туслах барилга",
+    "hanja": "別館",
+    "pos": "н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "별궁",
+    "translation": "зуны ордон",
+    "hanja": "별궁(別宮)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별꼴",
+    "translation": "хачирхалтай дүр төрх",
+    "hanja": "別꼴",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "별꽃",
+    "translation": "од цэцэг",
+    "hanja": "별꽃",
+    "pos": "NNG",
+    "cefr": "B2"
+  },
+  {
+    "word": "별나다",
+    "translation": "сонин хачин",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "별낳다",
+    "translation": "од төрүүлэх",
+    "hanja": "별낳다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "별내동",
+    "translation": "Бёльнэ-дон (газрын нэр)",
+    "hanja": "別內洞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "별내선",
+    "translation": "Бёльнэ шугам (метроны шугам)",
+    "hanja": "別內線",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "별다르다",
+    "translation": "онцгой",
+    "hanja": "別다르다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "별달리",
+    "translation": "Онцгой",
+    "hanja": "別달리",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별당",
+    "translation": "тусад нь байшин",
+    "hanja": "別堂",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "별도",
+    "translation": "Тусдаа",
+    "hanja": "別途",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "별동",
+    "translation": "тусгай тасаг, тусгай баг",
+    "hanja": "別動",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "별동대",
+    "translation": "тусгай хүчин, тусгай баг",
+    "hanja": "別動隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별따기",
+    "translation": "од шүүрэх мэт хэцүү",
+    "hanja": "星따기",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "별똥",
+    "translation": "сүрэг од",
+    "hanja": "별똥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "별똥별",
+    "translation": "Сүүлт од",
+    "hanja": "별똥별",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "별로",
+    "translation": "тийм ч сайн биш, тусгайлан",
+    "hanja": "別로",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "별루",
+    "translation": "тийм ч сайн биш",
+    "hanja": "別루",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "별리",
+    "translation": "туйлшрал",
+    "hanja": "別離",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "별말",
+    "translation": "онцгой үг",
+    "hanja": "別말",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "별말씀",
+    "translation": "Яамай",
+    "hanja": "別말씀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별매",
+    "translation": "Тусдаа зарах",
+    "hanja": "別賣",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "별명",
+    "translation": "хоч нэр",
+    "hanja": "別名",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "별문제",
+    "translation": "тусдаа асуудал",
+    "hanja": "別問題",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "별미",
+    "translation": "гайхамшигтай хоол",
+    "hanja": "別味",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "별반",
+    "translation": "Онцгой",
+    "hanja": "別般",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별별",
+    "translation": "бүх төрлийн, янз бүрийн",
+    "hanja": "別別",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별보",
+    "translation": "одны газрын зураг",
+    "hanja": "星譜",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "별비",
+    "translation": "Тусгай зардал",
+    "hanja": "別費",
+    "pos": "Нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "별빛",
+    "translation": "одны гэрэл",
+    "hanja": "별빛",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "별사",
+    "translation": "онцгой үйл явдал",
+    "hanja": "別事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별생각",
+    "translation": "өөр бодол",
+    "hanja": "別생각",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별서",
+    "translation": "тусад нь байрладаг байшин",
+    "hanja": "別墅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "별성",
+    "translation": "од",
+    "hanja": "별星",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별세",
+    "translation": "нас барах",
+    "hanja": "別世",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "별세계",
+    "translation": "өөр ертөнц",
+    "hanja": "別世界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별세하다",
+    "translation": "Таалал төгсөх, нас нөгчих (хүндэтгэлтэй)",
+    "hanja": "別世하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "별소리",
+    "translation": "хачирхалтай дуу чимээ",
+    "hanja": "別소리",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "별수",
+    "translation": "хувилбар",
+    "hanja": "別數",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "별스럽다",
+    "translation": "ер бусын, хачирхалтай",
+    "hanja": "別스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별시",
+    "translation": "тусгай шалгалт",
+    "hanja": "別試",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "별식",
+    "translation": "Онцгой хоол",
+    "hanja": "別食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "별실",
+    "translation": "тусдаа өрөө",
+    "hanja": "別室",
+    "pos": "명",
+    "cefr": "B1"
+  },
+  {
+    "word": "별안간",
+    "translation": "Гэнэт, цахилгаан мэт",
+    "hanja": "瞥眼間",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별원",
+    "translation": "Тусгай хүсэлт, тусгай хүсэлт өгөх",
+    "hanja": "別願",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "별의별",
+    "translation": "Олон янзын",
+    "hanja": "별의별",
+    "pos": "Determiner",
+    "cefr": "B2"
+  },
+  {
+    "word": "별일",
+    "translation": "Онцгой зүйл, хачирхалтай зүйл",
+    "hanja": "別일",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "별자리",
+    "translation": "одны орд",
+    "hanja": "별자리(별자리)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "별장",
+    "translation": "зуслангийн байшин",
+    "hanja": "別莊",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "별종",
+    "translation": "өөр хэлбэр",
+    "hanja": "別種",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별주",
+    "translation": "тусгай захиалга",
+    "hanja": "別注",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "별주부전",
+    "translation": "туулай ба яст мэлхийн үлгэр",
+    "hanja": "鼈主簿傳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "별채",
+    "translation": "Тусдаа барилга",
+    "hanja": "別棟",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "별책",
+    "translation": "нэмэлт ном",
+    "hanja": "別冊",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "별천지",
+    "translation": "өөр ертөнц, диваажин",
+    "hanja": "別天地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "별첨",
+    "translation": "Хавсралт, нэмэлт хавсралт",
+    "hanja": "別添",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별칭",
+    "translation": "хоч нэр",
+    "hanja": "別稱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "별표",
+    "translation": "од тэмдэглэгээ",
+    "hanja": "別表",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "별호",
+    "translation": "хоч нэр, өргөмжилсөн нэр",
+    "hanja": "別號",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

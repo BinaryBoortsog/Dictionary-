@@ -1,0 +1,1584 @@
+[
+  {
+    "word": "강",
+    "translation": "мөрөн, гол",
+    "hanja": "江",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "강가",
+    "translation": "Голын эрэг",
+    "hanja": "江가",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강간",
+    "translation": "хүчирхийлэл",
+    "hanja": "強姦",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강간당하다",
+    "translation": "хүчиндүүлсэн",
+    "hanja": "強姦當하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강간범",
+    "translation": "хүчирхийлэгч",
+    "hanja": "強姦犯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강간하다",
+    "translation": "хүчирхийлэх",
+    "hanja": "強姦하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강감찬",
+    "translation": "Кан Кам-чхан",
+    "hanja": "姜邯贊",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강강수월래",
+    "translation": "Кангансуволле (Солонгосын ардын дуу, бүжиг)",
+    "hanja": "强羌水越來",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "강강술래",
+    "translation": "кангансуллэ",
+    "hanja": "강강술래",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강건하다",
+    "translation": "хүчтэй, эрүүл энх",
+    "hanja": "強健하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강경",
+    "translation": "Хүчтэй",
+    "hanja": "強硬",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강경론",
+    "translation": "хатуу үзэл баримтлал",
+    "hanja": "強硬論",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강경책",
+    "translation": "ширүүн бодлого",
+    "hanja": "強硬策",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강경파",
+    "translation": "хатуу шугам баримтлагч",
+    "hanja": "強硬派",
+    "pos": "м",
+    "cefr": "C1"
+  },
+  {
+    "word": "강경하다",
+    "translation": "хатуу ширүүн",
+    "hanja": "強硬하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강계",
+    "translation": "Канге",
+    "hanja": "江界",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강고하다",
+    "translation": "бат бөх, хатуу чанга",
+    "hanja": "強固하다",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "강골",
+    "translation": "хүчтэй бие",
+    "hanja": "强骨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강공",
+    "translation": "хатуу арга",
+    "hanja": "強攻",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "강구",
+    "translation": "Арга хэмжээ авах",
+    "hanja": "講究",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강구하다",
+    "translation": "арга хэмжээ авах",
+    "hanja": "講究하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "강국",
+    "translation": "хүчирхэг улс",
+    "hanja": "強國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강군",
+    "translation": "хүчирхэг арми",
+    "hanja": "強軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강권",
+    "translation": "хүчээр боловч зөвлөх",
+    "hanja": "强劝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강권하다",
+    "translation": "албадах",
+    "hanja": "強勸하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "강기",
+    "translation": "орооцолдох",
+    "hanja": "强記",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강기슭",
+    "translation": "голын эрэг, эргийн дагуу",
+    "hanja": "江기슭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강나미",
+    "translation": "Кан На-ми (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "강남",
+    "translation": "Каннам",
+    "hanja": "江南",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강남이",
+    "translation": "강남",
+    "hanja": "江南이",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강낭콩",
+    "translation": "шош",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강냉이",
+    "translation": "Эрдэнэшиш",
+    "hanja": "江冷이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강녕",
+    "translation": "эрүүл мэнд, амар амгалан",
+    "hanja": "康寧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강녕하다",
+    "translation": "эрүүл мэндтэй байх",
+    "hanja": "康寧하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강단",
+    "translation": "индэр",
+    "hanja": "講壇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강당",
+    "translation": "лекцийн танхим, дуурийн театр",
+    "hanja": "講堂",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강대",
+    "translation": "хүчтэй, агуу",
+    "hanja": "强大",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강대국",
+    "translation": "их гүрэн",
+    "hanja": "强大國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강대하다",
+    "translation": "хүчирхэг, агуу",
+    "hanja": "强大하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강덕",
+    "translation": "Кандок (Хүний нэр эсвэл газар усны нэр байж болно)",
+    "hanja": "康德",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "강도",
+    "translation": "Дээрэмчин",
+    "hanja": "強盜",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강도범",
+    "translation": "дээрэмчин",
+    "hanja": "強盜犯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강도질",
+    "translation": "дээрэм хийх, хулгай хийх",
+    "hanja": "強盜질",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강도질하다",
+    "translation": "дээрэмдэх",
+    "hanja": "強盜질하다",
+    "pos": "v",
+    "cefr": "B2"
+  },
+  {
+    "word": "강독",
+    "translation": "унших",
+    "hanja": "講讀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강동",
+    "translation": "Гандун (топоним)",
+    "hanja": "江東",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강된장",
+    "translation": "өрөмтэй шар буурцагны шөл",
+    "hanja": "강된장",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강두",
+    "translation": "Кан Ду",
+    "hanja": "姜鬥",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "translation": "далан",
+    "hanja": "江둑",
+    "pos": "명사",
+    "cefr": "C1",
+    "word": "강둑"
+  },
+  {
+    "word": "강등",
+    "translation": "мэргэжил бууруулах, зэрэг бууруулах",
+    "hanja": "降等",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강등당하다",
+    "translation": "Зэрэглэл буурах",
+    "hanja": "降等當하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강등되다",
+    "translation": "зэрэг буурах",
+    "hanja": "降等되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "강등시키다",
+    "translation": "доошлуулах",
+    "hanja": "降等시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강등하다",
+    "translation": "зэрэг бууруулах, доошлуулах",
+    "hanja": "降등하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강력",
+    "translation": "Хүчтэй, хатуу",
+    "hanja": "強力",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강력계",
+    "translation": "гэмт хэргийн хэлтэс",
+    "hanja": "강력계(強力系)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강력반",
+    "translation": "хүчтэй гэмт хэрэг судлах хэсэг, эрүүгийн хэрэг судлах хэлтэс",
+    "hanja": "強力班",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강력범",
+    "translation": "хүчирхийллийн гэмт хэрэгтэн",
+    "hanja": "強力犯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강력하다",
+    "translation": "Хүчирхэг",
+    "hanja": "強力하다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "강력히",
+    "translation": "хүчтэйгээр",
+    "hanja": "強力히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강렬하다",
+    "translation": "хүчтэй, эрчимтэй",
+    "hanja": "強烈하다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "강렬히",
+    "translation": "эрчимтэйгээр",
+    "hanja": "強烈히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강령",
+    "translation": "хөтөлбөр",
+    "hanja": "綱領",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강령하다",
+    "translation": "эрүүл энх байх",
+    "hanja": "康寧하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "강로",
+    "translation": "аж үйлдвэрийн зам",
+    "hanja": "鋼路",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강론",
+    "translation": "илтгэл, лекц",
+    "hanja": "講論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강론하다",
+    "translation": "Лекц унших, заах",
+    "hanja": "講論하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강릉",
+    "translation": "Каннин (хот)",
+    "hanja": "江陵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강리",
+    "translation": "гэнжли",
+    "hanja": "綱理",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강림",
+    "translation": "буух",
+    "hanja": "降臨",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강림하다",
+    "translation": "бууж ирэх",
+    "hanja": "降臨하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강매",
+    "translation": "албадан худалдаа",
+    "hanja": "강매(強賣)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강매하다",
+    "translation": "албадах, хүчээр зарах",
+    "hanja": "強賣하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강맹하다",
+    "translation": "хүчтэй",
+    "hanja": "剛猛하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강모",
+    "translation": "хөвсгөр үс",
+    "hanja": "剛毛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강무",
+    "translation": "буудлага",
+    "hanja": "講武",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강문",
+    "translation": "Кан-мүн",
+    "hanja": "江門",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강물",
+    "translation": "голын ус",
+    "hanja": "江물",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강미",
+    "translation": "цагаан будааны амттан",
+    "hanja": "姜美",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강바닥",
+    "translation": "Голын ёроол",
+    "hanja": "江바닥",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강바람",
+    "translation": "Голын салхи",
+    "hanja": "江바람",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강박",
+    "translation": "албадлага",
+    "hanja": "強迫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "translation": "албадлагын",
+    "hanja": "強迫的",
+    "pos": "형용사",
+    "cefr": "C2",
+    "word": "강박적"
+  },
+  {
+    "word": "강박증",
+    "translation": "такын эмгэг",
+    "hanja": "強迫症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강변",
+    "translation": "Голын эрэг",
+    "hanja": "江邊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강변하다",
+    "translation": "шаардах, батлах, хүчтэй хэлэх",
+    "hanja": "抗辯하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강보",
+    "translation": "өлгий",
+    "hanja": "襁褓",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강복",
+    "translation": "баялаг, аз жаргал буух",
+    "hanja": "降福",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강봉",
+    "translation": "Албадан битүүмжлэх",
+    "hanja": "鋼封",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강북",
+    "translation": "Канбук (мөрний хойд тал)",
+    "hanja": "江北",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강사",
+    "translation": "багш",
+    "hanja": "講師",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강사진",
+    "translation": "багшлах бүрэлдэхүүн",
+    "hanja": "講師陣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강산",
+    "translation": "уул, гол",
+    "hanja": "江山",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강산성",
+    "translation": "хүчтэй хүчиллэг чанар",
+    "hanja": "強酸性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강상",
+    "translation": "Ёс суртахуун, ёс журам",
+    "hanja": "綱常",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강서",
+    "translation": "кансо (газар зүйн нэр)",
+    "hanja": "江西",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강서구청",
+    "translation": "Кансо дүүргийн алба",
+    "hanja": "江西區廳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강선",
+    "translation": "металл утас",
+    "hanja": "鋼線",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "강설",
+    "translation": "цас орох",
+    "hanja": "降雪",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강설량",
+    "translation": "цасны хэмжээ",
+    "hanja": "降雪量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강성",
+    "translation": "хүчтэй",
+    "hanja": "強硬",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "강성하다",
+    "translation": "Хүчирхэг, маш хүчтэй",
+    "hanja": "強盛하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강세",
+    "translation": "хүчтэй, стресс",
+    "hanja": "強勢(강세)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강소",
+    "translation": "Гисо",
+    "hanja": "江蘇",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강소주",
+    "translation": "Хүчтэй архи, архи",
+    "hanja": "强燒酒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강속구",
+    "translation": "хурдан бөмбөг (бейсбол)",
+    "hanja": "強速球",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강수",
+    "translation": "хур тунадас",
+    "hanja": "降水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강수량",
+    "translation": "хур тунадас",
+    "hanja": "降水量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강스",
+    "translation": "Канс",
+    "hanja": "강스",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "강습",
+    "translation": "сургалт",
+    "hanja": "講習",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강습소",
+    "translation": "сургалтын газар",
+    "hanja": "講習所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강습하다",
+    "translation": "зөвлөгөө өгөх; хичээл заах",
+    "hanja": "講習하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강습회",
+    "translation": "сургалт, семинар",
+    "hanja": "講習會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강시",
+    "translation": "вампир зангилаа",
+    "hanja": "殭屍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강식",
+    "translation": "хатуу хоол",
+    "hanja": "強食",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강신",
+    "translation": "тэнгэрээс буух",
+    "hanja": "降神",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강신무",
+    "translation": "бөө",
+    "hanja": "降神巫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강심장",
+    "translation": "зоригтой зүрх",
+    "hanja": "强心臟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강심제",
+    "translation": "зүрхний эм",
+    "hanja": "強心劑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강씨",
+    "translation": "Канг овогт",
+    "hanja": "姜氏",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "강아",
+    "translation": "강아 (хүний нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "강아지",
+    "translation": "гүен",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "강아지풀",
+    "translation": "үрлэн ургамал, шаргал үс, үсчсэн өвс",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강압",
+    "translation": "шахалт",
+    "hanja": "強壓",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "강압적",
+    "translation": "албадлагын",
+    "hanja": "強壓的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강압하다",
+    "translation": "албадах",
+    "hanja": "強壓하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강약",
+    "translation": "Хүчтэй сул",
+    "hanja": "強弱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강약약강",
+    "translation": "хүчтэй хүнд хүчтэй, сул хүнд сул",
+    "hanja": "強弱弱強",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강어귀",
+    "translation": "голын адаг",
+    "hanja": "江어귀",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "강역",
+    "translation": "Хил хязгаар",
+    "hanja": "疆域",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강연",
+    "translation": "илтгэл, лекц",
+    "hanja": "講演",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강연자",
+    "translation": "илтгэгч",
+    "hanja": "講演者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "강연하다",
+    "translation": "лекц унших",
+    "hanja": "講演하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강연회",
+    "translation": "лекцийн хурал, илтгэлийн цуглаан",
+    "hanja": "講演會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강요",
+    "translation": "тулгах",
+    "hanja": "強要",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "강요당하다",
+    "translation": "албадлагын дор байх, хүчлэгдэх",
+    "hanja": "強要當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강요되다",
+    "translation": "албадлагад орох",
+    "hanja": "強要되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강요받다",
+    "translation": "албадлагад орох",
+    "hanja": "強要-",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "강요하다",
+    "translation": "Албадах",
+    "hanja": "強要하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강용",
+    "translation": "хүчтэй ашиглах",
+    "hanja": "強用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강우량",
+    "translation": "хур тунадасны хэмжээ",
+    "hanja": "降雨量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강원",
+    "translation": "Ганвон аймаг",
+    "hanja": "江原",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "강원도",
+    "translation": "Ганвон аймаг",
+    "hanja": "江原道",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강원특별자치도",
+    "translation": "강원특별자치도",
+    "hanja": "江原特別自治道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강의",
+    "translation": "лекц",
+    "hanja": "講義",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강의록",
+    "translation": "лекцийн тэмдэглэл",
+    "hanja": "講義錄",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강의실",
+    "translation": "Лекцийн танхим",
+    "hanja": "講義室",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강의하다",
+    "translation": "лекц унших",
+    "hanja": "講義하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "강이",
+    "translation": "강 (이름)",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "강인",
+    "translation": "Хүчтэй, тэсвэртэй",
+    "hanja": "強靭",
+    "pos": "형용사 (Adjective)",
+    "cefr": "B2"
+  },
+  {
+    "word": "강인하다",
+    "translation": "Бат бөх, тэсвэртэй",
+    "hanja": "強靭하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강일",
+    "translation": "Нарлаг өдөр",
+    "hanja": "强日",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강자",
+    "translation": "хүчирхэг хүн",
+    "hanja": "強者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강장",
+    "translation": "бэхжүүлэх, хүчтэй болгох",
+    "hanja": "强壯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강장제",
+    "translation": "сэргээгч, хүчжүүлэгч",
+    "hanja": "强壯劑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강재",
+    "translation": "강철 материал",
+    "hanja": "鋼材",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강적",
+    "translation": "хүчтэй дайсан",
+    "hanja": "強敵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강전",
+    "translation": "хүчтэй дайн, ширүүн тулаан",
+    "hanja": "強戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강점",
+    "translation": "давуу тал",
+    "hanja": "強點",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강점기",
+    "translation": "Эзлэн түрэмгийллийн үе",
+    "hanja": "强占期",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강점하다",
+    "translation": "Эзлэн авах, хүчээр эзлэх",
+    "hanja": "強占하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "강정",
+    "translation": "Канджон (амттан)",
+    "hanja": "薑饊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강제",
+    "translation": "албадлага",
+    "hanja": "强制",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "강제되다",
+    "translation": "албадлагад орох, хүчээр хийгдэх",
+    "hanja": "强制되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강제력",
+    "translation": "Албадлагын хүч",
+    "hanja": "强制力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강제성",
+    "translation": "албадлагын шинж чанартай",
+    "hanja": "强制性",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강제적",
+    "translation": "албан хүчний",
+    "hanja": "强制的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "강제하다",
+    "translation": "албадах, хүчлэх",
+    "hanja": "強制하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강조",
+    "translation": "онцлон тэмдэглэх",
+    "hanja": "강조",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강조되다",
+    "translation": "онцолж байна",
+    "hanja": "强調되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강조하다",
+    "translation": "онцлон тэмдэглэх",
+    "hanja": "强調하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "강족",
+    "translation": "кянчууд (үндэстэн)",
+    "hanja": "羌族",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강종",
+    "translation": "гангийн төрөл",
+    "hanja": "鋼種",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강좌",
+    "translation": "лекц",
+    "hanja": "講座",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강주",
+    "translation": "Хүчтэй архи",
+    "hanja": "強酒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강줄기",
+    "translation": "Голын урсгал",
+    "hanja": "江줄기",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강직",
+    "translation": "шударга",
+    "hanja": "剛直",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강직하다",
+    "translation": "Шулуун шударга",
+    "hanja": "剛直하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강진",
+    "translation": "Хүчтэй газар хөдлөлт",
+    "hanja": "強震",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강짜",
+    "translation": "хардалт",
+    "hanja": "강짜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강천",
+    "translation": "мөрний тэнгэр",
+    "hanja": "江天",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강철",
+    "translation": "ган",
+    "hanja": "鋼鐵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강철판",
+    "translation": "ган хавтан",
+    "hanja": "鋼鐵板",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강체",
+    "translation": "хатуу бие",
+    "hanja": "剛體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강촌",
+    "translation": "Ганчон (солонгосын газарзүйн нэр)",
+    "hanja": "江村",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강추",
+    "translation": "Маш их зөвлөж байна",
+    "hanja": "強推",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강추위",
+    "translation": "хүйтэн жавар",
+    "hanja": "強추위",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강추하다",
+    "translation": "маш их зөвлөх",
+    "hanja": "强推하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "강취하다",
+    "translation": "хүчээр булаан авах",
+    "hanja": "強取하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강타",
+    "translation": "хүчтэй цохилт",
+    "hanja": "强打",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강타당하다",
+    "translation": "хүнд цохилтод өртөх",
+    "hanja": "強打當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강타자",
+    "translation": "хүчтэй цохигч",
+    "hanja": "強打者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강타하다",
+    "translation": "хүчтэй цохих",
+    "hanja": "強打하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "강탈",
+    "translation": "дээрэмдэх, булаах",
+    "hanja": "強奪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강탈당하다",
+    "translation": "дээрэмдүүлэх, булаалгах",
+    "hanja": "强奪當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강탈하다",
+    "translation": "дээрэмдэх",
+    "hanja": "强奪하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강태",
+    "translation": "Канта (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강태공",
+    "translation": "강태공 (хятадын эртний загасчин)",
+    "hanja": "姜太公",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "강토",
+    "translation": "Газар нутаг, нутаг дэвсгэр",
+    "hanja": "疆土",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강퇴",
+    "translation": "албадан хөөх",
+    "hanja": "强退",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "강퇴하다",
+    "translation": "Хүчээр хөөх",
+    "hanja": "強退하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강판",
+    "translation": "үрэгч",
+    "hanja": "降板",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강퍅하다",
+    "translation": "зөрүүд, хатуу",
+    "hanja": "剛愎하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강평",
+    "translation": "дүгнэлт",
+    "hanja": "講評",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강포",
+    "translation": "хүчирхийлэл",
+    "hanja": "強暴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강포하다",
+    "translation": "Хүчтэй, догшин байх",
+    "hanja": "強暴하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강폭",
+    "translation": "голын өргөн",
+    "hanja": "江幅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강풍",
+    "translation": "ширүүн салхи",
+    "hanja": "強風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강하",
+    "translation": "Уналт, бууралт",
+    "hanja": "降下",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "강하다",
+    "translation": "хүчтэй",
+    "hanja": "強하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강하하다",
+    "translation": "буух",
+    "hanja": "降下하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강학",
+    "translation": "судлах",
+    "hanja": "講學",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "강한",
+    "translation": "Хүчтэй, чанга, хатуу",
+    "hanja": "強한",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강해",
+    "translation": "Хятадын тэнгис, далай",
+    "hanja": "江海",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강행",
+    "translation": "Хүчээр хэрэгжүүлэх",
+    "hanja": "強行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강행군",
+    "translation": "Албадан жагсаал",
+    "hanja": "強行軍",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강행되다",
+    "translation": "хүчээр хийгдэх",
+    "hanja": "強行되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강행하다",
+    "translation": "хүчээр гүйцэтгэх, албадлагын арга хэмжээ авах",
+    "hanja": "強行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강형",
+    "translation": "хүчтэй хэлбэр",
+    "hanja": "強型",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강호",
+    "translation": "их гол мөрөн, нуур",
+    "hanja": "江湖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강화",
+    "translation": "Бэхжүүлэх",
+    "hanja": "强化",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "강화되다",
+    "translation": "Бэхжих",
+    "hanja": "强化되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "강화하다",
+    "translation": "бэхжүүлэх",
+    "hanja": "強化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강황",
+    "translation": "турмерик",
+    "hanja": "薑黃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강훈",
+    "translation": "Кан Хун (хүний нэр)",
+    "hanja": "강훈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강희안",
+    "translation": "Кан Хи-ан (хүний нэр)",
+    "hanja": "姜希顔",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

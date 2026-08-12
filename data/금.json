@@ -1,0 +1,1143 @@
+[
+  {
+    "word": "금",
+    "translation": "Ал",
+    "hanja": "金",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "금가",
+    "translation": "алтны үнэ",
+    "hanja": "金價",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금가락지",
+    "translation": "Алтан бөгж",
+    "hanja": "金가락지",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금값",
+    "translation": "алтан үнэ",
+    "hanja": "金값",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "금강",
+    "translation": "Кумган (уул); очир эрдэнэ",
+    "hanja": "金剛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금강군",
+    "translation": "Кымган-гун (газарзүйн нэр)",
+    "hanja": "金剛郡",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "금강불괴",
+    "translation": "Барагдашгүй, үл ялагдах",
+    "hanja": "金剛不壞",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "금강산",
+    "translation": "Кумгансан уул",
+    "hanja": "金剛山",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "금강석",
+    "translation": "очир эрдэнэ, алмаз",
+    "hanja": "金剛石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금강송",
+    "translation": "Кумган нарс",
+    "hanja": "金剛松",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금계",
+    "translation": "алтан тахиа",
+    "hanja": "金鷄",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "금고",
+    "translation": "сейф",
+    "hanja": "金庫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금고형",
+    "translation": "хорих ял",
+    "hanja": "禁錮刑",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "금과옥조",
+    "translation": "Маш үнэтэй зүйл",
+    "hanja": "金科玉條",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "금관",
+    "translation": "Алтан титэм",
+    "hanja": "金冠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금광",
+    "translation": "алтны уурхай",
+    "hanja": "金鑛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금괴",
+    "translation": "алтан гулдмай",
+    "hanja": "金塊",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "금구",
+    "translation": "хориглох",
+    "hanja": "禁句",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "금권",
+    "translation": "мөнгөний хүч, эд баялаг",
+    "hanja": "金權",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금궤",
+    "translation": "Алтан авдар",
+    "hanja": "金櫃",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "금귤",
+    "translation": "кумкват",
+    "hanja": "金橘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금기시되다",
+    "translation": "хориглогдсон байх, цээрлэгдсэн байх",
+    "hanja": "禁忌視되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금기시하다",
+    "translation": "хориглох, цээрлэх",
+    "hanja": "禁忌視하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금난전권",
+    "translation": "чөлөөт худалдааны хориг",
+    "hanja": "禁亂廛權",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금녀",
+    "translation": "эмэгтэйчүүдэд хориотой",
+    "hanja": "禁女",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금년",
+    "translation": "энэ жил",
+    "hanja": "今年",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금년도",
+    "translation": "Энэ онд",
+    "hanja": "今年度",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금눈돔",
+    "translation": "алтан нүдтэй загас",
+    "hanja": "金눈돔",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금다",
+    "translation": "хориглох",
+    "hanja": "禁다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금단",
+    "translation": "Хориг, хориглох",
+    "hanja": "禁斷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금당",
+    "translation": "Үндсэн сүм (буддын сүм хийдийн)",
+    "hanja": "金堂",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "금덩어리",
+    "translation": "алтны хэлтэрхий",
+    "hanja": "金덩어리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금덩이",
+    "translation": "алтан бөөгнөрөл",
+    "hanja": "금덩이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금도",
+    "translation": "Хязгаар, хэмжээ",
+    "hanja": "襟度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금동",
+    "translation": "алтадмал хүрэл",
+    "hanja": "金銅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금등",
+    "translation": "алтан дэнлүү",
+    "hanja": "金燈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금등지사",
+    "translation": "үндэсний нууц баримт",
+    "hanja": "金縢之詞",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금딸",
+    "translation": "алтан охин",
+    "hanja": "金 딸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금력",
+    "translation": "Мөнгөний хүч, баялаг",
+    "hanja": "金力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금련",
+    "translation": "алтан бадамлянхуа",
+    "hanja": "金蓮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금령",
+    "translation": "Хориг",
+    "hanja": "禁令",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금룡",
+    "translation": "алтан луу",
+    "hanja": "金龍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금륜",
+    "translation": "алтан дугуй",
+    "hanja": "金輪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금리",
+    "translation": "Хүү",
+    "hanja": "金利",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "금맥",
+    "translation": "Алтан судлын",
+    "hanja": "金脈",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "금메",
+    "translation": "Алтан тэмдэг, алтан медаль",
+    "hanja": "金메",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금메달",
+    "translation": "алтан медаль",
+    "hanja": "金medal",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "금메달리스트",
+    "translation": "Алтан медальт",
+    "hanja": "金 medalist",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금명",
+    "translation": "Өнөөдөр маргааш",
+    "hanja": "今明",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금목서",
+    "translation": "алтан османтус",
+    "hanja": "金木犀",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금문",
+    "translation": "Алтан хаалга",
+    "hanja": "金文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금물",
+    "translation": "Хориотой зүйл",
+    "hanja": "禁物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금박",
+    "translation": "алтан ялтсан",
+    "hanja": "金箔",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "금반지",
+    "translation": "алтан бөгж",
+    "hanja": "金반지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금발",
+    "translation": "шар үс",
+    "hanja": "金髮",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금방",
+    "translation": "түр зуур",
+    "hanja": "금방",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금방금방",
+    "translation": "түргэн түргэн",
+    "hanja": "금방금방",
+    "pos": "adv",
+    "cefr": "B1"
+  },
+  {
+    "word": "금번",
+    "translation": "Энэ удаа, энэ тохиолдолд",
+    "hanja": "今番",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금별",
+    "translation": "алтан од",
+    "hanja": "金星",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금병",
+    "translation": "Кымбён (хүний нэр)",
+    "hanja": "金炳",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금보",
+    "translation": "хөгжмийн нот, хөгжмийн зохиол",
+    "hanja": "琴譜",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금복",
+    "translation": "алтан аз",
+    "hanja": "金福",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "금부",
+    "translation": "алтны хэлтэс",
+    "hanja": "金部",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "금붕어",
+    "translation": "Алтан загас",
+    "hanja": "金붕어",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금붙이",
+    "translation": "алтны хэлтэрхий",
+    "hanja": "金붙이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금비",
+    "translation": "Унасан хүүхэд",
+    "hanja": "禽悲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금빛",
+    "translation": "Алтан өнгө, алтлаг",
+    "hanja": "金빛",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "금사",
+    "translation": "Алтан утас",
+    "hanja": "金絲",
+    "pos": "Нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "금사빠",
+    "translation": "хурдан дурлах хүн (сленг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금산",
+    "translation": "алтан уул",
+    "hanja": "金山",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금상",
+    "translation": "алтан шагнал",
+    "hanja": "金賞",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "금상첨화",
+    "translation": "алтан дээр алт нэмэх, сайн дээр сайн нэмэгдэх",
+    "hanja": "錦上添花",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금새",
+    "translation": "Тун удалгүй, тэр даруй",
+    "hanja": "금새",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "금색",
+    "translation": "алтан өнгө",
+    "hanja": "金色",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금생",
+    "translation": "Энэ амьдрал, одоогийн амьдрал",
+    "hanja": "今生",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금서",
+    "translation": "Хориглосон ном",
+    "hanja": "禁書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금석",
+    "translation": "алт чулуу",
+    "hanja": "金石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금선",
+    "translation": "алтан шугам",
+    "hanja": "金線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금성",
+    "translation": "сугар",
+    "hanja": "金星",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금세",
+    "translation": "тэр дор нь",
+    "hanja": "금세",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금속",
+    "translation": "металл",
+    "hanja": "金屬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금속성",
+    "translation": "металлаг",
+    "hanja": "金屬性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금속제",
+    "translation": "металл хийц",
+    "hanja": "金屬製",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "금송아지",
+    "translation": "алтан тугал",
+    "hanja": "金송아지",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금수",
+    "translation": "араатан, амьтан",
+    "hanja": "禽獸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금수강산",
+    "translation": "үзэсгэлэнт нутаг",
+    "hanja": "錦繡江山",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금순",
+    "translation": "Ариун",
+    "hanja": "金純",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금슬",
+    "translation": "Эв эе",
+    "hanja": "琴瑟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금시",
+    "translation": "одоо, энэ үед",
+    "hanja": "今時",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "금시계",
+    "translation": "алтан цаг",
+    "hanja": "金時計",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금시초문",
+    "translation": "анх удаа сонсох",
+    "hanja": "今始初聞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금식",
+    "translation": "мацаг барих",
+    "hanja": "禁食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금식하다",
+    "translation": "мацаг барих",
+    "hanja": "禁食하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금실",
+    "translation": "алтан утас",
+    "hanja": "琴瑟",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "금싸라기",
+    "translation": "үнэт эрдэнэ, алтан үрэл",
+    "hanja": "금싸라기",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "금액",
+    "translation": "Дүн",
+    "hanja": "金額",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금양",
+    "translation": "алт",
+    "hanja": "金陽",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "금언",
+    "translation": "сургаал үг",
+    "hanja": "金言",
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "금연",
+    "translation": "тамхи татахыг хориглоно",
+    "hanja": "禁煙",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금연하다",
+    "translation": "тамхи татахаа болих",
+    "hanja": "禁煙하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "금영",
+    "translation": "өмнөд хөрш, урд зүг",
+    "hanja": "錦營",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금옥",
+    "translation": "Алтан сувд",
+    "hanja": "金玉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금와",
+    "translation": "алтан мэлхий",
+    "hanja": "金蛙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금요일",
+    "translation": "баасан гараг",
+    "hanja": "金曜日",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "금욕",
+    "translation": "тачаалаа барих",
+    "hanja": "禁慾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금욕주의",
+    "translation": "хүлцэнгүй байдал",
+    "hanja": "禁慾主義",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금원",
+    "translation": "хориглосон цэцэрлэг",
+    "hanja": "禁園",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "금유",
+    "translation": "алтан тос",
+    "hanja": "金油",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금융",
+    "translation": "санхүү",
+    "hanja": "金融",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금융가",
+    "translation": "санхүүч, санхүүгийн салбар",
+    "hanja": "金融家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금융계",
+    "translation": "санхүүгийн салбар",
+    "hanja": "金融界",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "금융권",
+    "translation": "санхүүгийн салбар",
+    "hanja": "金融圈",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "금융업",
+    "translation": "Санхүүгийн салбар",
+    "hanja": "金融業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금융인",
+    "translation": "санхүүч",
+    "hanja": "金融人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금은",
+    "translation": "алт мөнгө",
+    "hanja": "金銀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금은동",
+    "translation": "алт, мөнгө, хүрэл",
+    "hanja": "金銀銅",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금은방",
+    "translation": "алт мөнгөний дэлгүүр",
+    "hanja": "金銀房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금은보화",
+    "translation": "Алт мөнгө үнэт эдлэл",
+    "hanja": "金銀寶貨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금의환향",
+    "translation": "алтан хувцастай гэртээ харих (хүндтэйгээр эргэн ирэх)",
+    "hanja": "錦衣還鄕",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금의환향하다",
+    "translation": "баяртайгаар эх нутагтаа буцах",
+    "hanja": "錦衣還鄕하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금이",
+    "translation": "Хагарал",
+    "hanja": "금이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금이빨",
+    "translation": "алтан шүд",
+    "hanja": "金-",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금인",
+    "translation": "алтан тамга",
+    "hanja": "金印",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금일",
+    "translation": "өнөөдөр",
+    "hanja": "今日",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금일봉",
+    "translation": "мөнгөн бэлэг",
+    "hanja": "金一封",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금자",
+    "translation": "алтан үсэг",
+    "hanja": "金字",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금자탑",
+    "translation": "пирамид",
+    "hanja": "金字塔",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금잔디",
+    "translation": "алтан зүлэг",
+    "hanja": "金잔디",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금장",
+    "translation": "алтан чимэглэл",
+    "hanja": "金裝",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "금전",
+    "translation": "мөнгө",
+    "hanja": "金錢",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "금점",
+    "translation": "алтны цэг",
+    "hanja": "金店",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금정",
+    "translation": "алтан худаг",
+    "hanja": "金井",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금제",
+    "translation": "Хориг, хориглох",
+    "hanja": "禁制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금주",
+    "translation": "Архинаас татгалзах",
+    "hanja": "禁酒",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "금주하다",
+    "translation": "архинаас татгалзах",
+    "hanja": "禁酒하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금줄",
+    "translation": "хориглох олс, хамгаалалтын олс",
+    "hanja": "禁줄",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "금지",
+    "translation": "Хориг, хориглох",
+    "hanja": "禁止",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금지곡",
+    "translation": "хориотой дуу",
+    "hanja": "禁止曲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금지당하다",
+    "translation": "Хориглогдох",
+    "hanja": "禁止當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금지되다",
+    "translation": "хоригдох",
+    "hanja": "禁止되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금지령",
+    "translation": "хориглох тушаал",
+    "hanja": "禁止令",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금지법",
+    "translation": "хориглох хууль",
+    "hanja": "禁止法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금지옥엽",
+    "translation": "Хайрлан өсгөсөн хүүхэд",
+    "hanja": "金枝玉葉",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "금지하다",
+    "translation": "хориглох",
+    "hanja": "禁止하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금쪽같다",
+    "translation": "үнэтэй, эрхэм",
+    "hanja": "금쪽같다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금창",
+    "translation": "шарх, гэмтэл",
+    "hanja": "金瘡",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "금천",
+    "translation": "алтан гол",
+    "hanja": "金川",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "금추",
+    "translation": "энэ намар",
+    "hanja": "今秋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금칠",
+    "translation": "Алтаар будах, алтадмал",
+    "hanja": "金漆",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금칠하다",
+    "translation": "Алтдаж будах",
+    "hanja": "金漆하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금침",
+    "translation": "алтан зүү",
+    "hanja": "金針",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금태",
+    "translation": "алтан хүрээ",
+    "hanja": "金苔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금테",
+    "translation": "алтан хүрээ",
+    "hanja": "金테",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "금통위",
+    "translation": "Мөнгөний бодлогын хороо",
+    "hanja": "金通委",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금판",
+    "translation": "алтан хавтан",
+    "hanja": "金板",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금패",
+    "translation": "алтан тэмдэг",
+    "hanja": "金牌",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "금편",
+    "translation": "алтан ташуур",
+    "hanja": "金鞭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금표",
+    "translation": "хориглох тэмдэг",
+    "hanja": "禁標",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "금품",
+    "translation": "мөнгө, эд зүйлс",
+    "hanja": "金品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금하다",
+    "translation": "хориглох",
+    "hanja": "禁하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금형",
+    "translation": "хэв, загвар",
+    "hanja": "金型",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "금호",
+    "translation": "Кымхо",
+    "hanja": "錦湖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금화",
+    "translation": "алтан зоос",
+    "hanja": "金貨",
+    "pos": "noun",
+    "cefr": "B1"
+  }
+]

@@ -1,0 +1,2515 @@
+[
+  {
+    "word": "하",
+    "translation": "доор",
+    "hanja": "下",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하갈",
+    "translation": "Хагал (Египетийн нэр)",
+    "hanja": "하갈(下喝)",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하강",
+    "translation": "буулт",
+    "hanja": "下降",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하강하다",
+    "translation": "буух, доошлох",
+    "hanja": "下降하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "하객",
+    "translation": "Хүндэт зочин",
+    "hanja": "賀客",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "하거",
+    "translation": "амрах",
+    "hanja": "下車",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하게",
+    "translation": "хийлгэх",
+    "hanja": "하게",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하게하다",
+    "translation": "хийлгэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하계",
+    "translation": "зуны улирал",
+    "hanja": "夏季",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하고",
+    "translation": "~тай хамт, болон",
+    "hanja": null,
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하고많다",
+    "translation": "олон тооны, маш их",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하관",
+    "translation": "эрүү",
+    "hanja": "下官",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "하교",
+    "translation": "сургуулиас гарах",
+    "hanja": "下校",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "하교하다",
+    "translation": "хичээлээ тараад харих",
+    "hanja": "下校하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하굣길",
+    "translation": "сургуулиас харих зам",
+    "hanja": "下校길",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하구",
+    "translation": "голын адаг",
+    "hanja": "河口",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하구려",
+    "translation": "Чамайг дорд үзэх",
+    "hanja": "何故려",
+    "pos": "감탄사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하구핏",
+    "translation": "Хагупит (хар салхины нэр)",
+    "hanja": "Hagupit",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "하굿둑",
+    "translation": "голын адаг далан",
+    "hanja": "河口둑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하권",
+    "translation": "доод боть",
+    "hanja": "下卷",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "하그리브스",
+    "translation": "Хагривс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하극상",
+    "translation": "дордож давамгайлах",
+    "hanja": "下剋上",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하급",
+    "translation": "доод түвшний",
+    "hanja": "下級",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "하급생",
+    "translation": "доод ангийн сурагч",
+    "hanja": "下級生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하기비스",
+    "translation": "Хагибис (Тайфун)",
+    "hanja": "Hagibis",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "하기사",
+    "translation": "тэгээд ч",
+    "hanja": "하기사",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하기하다",
+    "translation": "бичих, тэмдэглэх",
+    "hanja": "下記하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하꼬",
+    "translation": "хайрцаг (Япон хэлний хайрцаг гэсэн үгийг санамсаргүй байдлаар монгол хэл рүү орчуулсан байж магадгүй)",
+    "hanja": "--",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "하나",
+    "translation": "нэг",
+    "hanja": "하나",
+    "pos": "수사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하나같다",
+    "translation": "жигд байх",
+    "hanja": "하나같다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하나둘",
+    "translation": "нэг нэгээр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하나하나",
+    "translation": "нэг нэгээр",
+    "hanja": "하나하나",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하나하다",
+    "translation": "ганцхан",
+    "hanja": "하나하다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하남",
+    "translation": "Ханам (хотын нэр)",
+    "hanja": "河南",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하내",
+    "translation": "Доод тал, доод хэсэг (хуучны)",
+    "hanja": "下內",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하냥",
+    "translation": "үргэлж, байнга, дандаа",
+    "hanja": "None",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하네다",
+    "translation": "Ханэда (Японы газрын нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하네스",
+    "translation": "оосор",
+    "hanja": "harness",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하녀",
+    "translation": "боол эмэгтэй",
+    "hanja": "下女",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "하노",
+    "translation": "Хано (нэр)",
+    "hanja": "하노",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하노버",
+    "translation": "Ганновер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하노이",
+    "translation": "Ханой",
+    "hanja": "하노이",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "하농",
+    "translation": "ганон",
+    "hanja": "하농",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하누만",
+    "translation": "Хануман",
+    "hanja": "하누만",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하느님",
+    "translation": "Бурхан",
+    "hanja": "하느님",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하늘",
+    "translation": "тэнгэр",
+    "hanja": "하늘",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하늘가",
+    "translation": "тэнгэрийн хаяа",
+    "hanja": "하늘가",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하늘거리다",
+    "translation": "Хийсэх, намирч байх",
+    "hanja": "하늘거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하늘나라",
+    "translation": "диваажин",
+    "hanja": "하늘나라",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하늘말나리",
+    "translation": "тэнгэрийн сараана",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하늘문",
+    "translation": "тэнгэрийн хаалга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하늘빛",
+    "translation": "тэнгэрийн өнгө",
+    "hanja": "하늘빛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하늘색",
+    "translation": "Тэнгэрийн хөх",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하늘소",
+    "translation": "тэнгэрийн үхэр",
+    "hanja": "하늘소",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "하늘하늘",
+    "translation": "салхинд хийсэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하늘하늘하다",
+    "translation": "салхинд намирсан",
+    "hanja": "하늘하늘하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "하늬바람",
+    "translation": "баруун хойд салхи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하니",
+    "translation": "Хани (нэр)",
+    "hanja": "하니",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "하다",
+    "translation": "хийх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "하다못해",
+    "translation": "ядаж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하단",
+    "translation": "Доод хэсэг, ёроол",
+    "hanja": "下段",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하달",
+    "translation": "доор илгээх",
+    "hanja": "下達",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하달되다",
+    "translation": "дээрээс ирэх, тушаагдах",
+    "hanja": "下達되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하달하다",
+    "translation": "тушаал буулгах, зарлиг буулгах",
+    "hanja": "下達하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하대하다",
+    "translation": "дорд үзэх, доош хийх",
+    "hanja": "下待하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하데스",
+    "translation": "Гадес",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하도",
+    "translation": "ихэнхдээ",
+    "hanja": "하도",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하도급",
+    "translation": "туслан гүйцэтгэгч",
+    "hanja": "下都給",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하동",
+    "translation": "Хадон (газар зүйн нэр)",
+    "hanja": "河東",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하드",
+    "translation": "Хатуу / Хадгалах төхөөрөмж",
+    "hanja": "하드",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하드론",
+    "translation": "хадрон (физик)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "하드리아누스",
+    "translation": "Адрианус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하드보드",
+    "translation": "хатуу самбар",
+    "hanja": "hardboard",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하드보일드",
+    "translation": "хонгор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하드웨어",
+    "translation": "техник хангамж",
+    "hanja": "Hardware",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하드커버",
+    "translation": "хатуу хавтас",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하등",
+    "translation": "дорд, ямар ч",
+    "hanja": "何等",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하등하다",
+    "translation": "дорд",
+    "hanja": "下等하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "하디",
+    "translation": "хади",
+    "hanja": "하디",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하딩",
+    "translation": "Хардинг (Нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하라파",
+    "translation": "Хараппа хот",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "하락",
+    "translation": "Уналт, бууралт",
+    "hanja": "下落",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "하락세",
+    "translation": "буурах хандлага",
+    "hanja": "下落勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하락하다",
+    "translation": "Буурах",
+    "hanja": "下落하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "하란",
+    "translation": "Харан (газарзүйн нэр)",
+    "hanja": "하蘭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하래",
+    "translation": "доор",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "하래이",
+    "translation": "хараал, хараах",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하레",
+    "translation": "нарлаг, цэлмэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하렘",
+    "translation": "харем",
+    "hanja": "하렘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하려",
+    "translation": "хийхийг зорьж байна",
+    "hanja": null,
+    "pos": "туслах үйл үг",
+    "cefr": "A1"
+  },
+  {
+    "word": "하련",
+    "translation": "жаахан",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하례",
+    "translation": "баяр хүргэх, мэндлэх",
+    "hanja": "賀禮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하루",
+    "translation": "нэг өдөр",
+    "hanja": "하루",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하루걸러",
+    "translation": "өдөр алгасаж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하루나",
+    "translation": "Харуна (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하루바삐",
+    "translation": "аль болох хурдан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하루밤",
+    "translation": "нэгэн шөнө",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "하루방",
+    "translation": "Харүбан (Жэжү арлын чулуун хөшөө)",
+    "hanja": "하루방",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하루빨리",
+    "translation": "Нэн даруй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하루살이",
+    "translation": "нэг өдрийн амьтан, богино наслах",
+    "hanja": "하루살이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하루속히",
+    "translation": "аль болох хурдан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하루아침",
+    "translation": "нэг өдөр, гэнэт",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하루하루",
+    "translation": "өдөр өдрөөр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하룻강아지",
+    "translation": "нялх гөлөг",
+    "hanja": "하룻강아지",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하룻길",
+    "translation": "нэг өдрийн аялал",
+    "hanja": "하루길",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하룻밤",
+    "translation": "нэг шөнө",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하류",
+    "translation": "доод урсгал",
+    "hanja": "下流",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "하류층",
+    "translation": "доод давхарга",
+    "hanja": "下流層",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하르",
+    "translation": "Өдөр (옛말 - хуучин үг)",
+    "hanja": "하르",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "하르방",
+    "translation": "Өвөө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하르키우",
+    "translation": "Харьков",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하르툼",
+    "translation": "Хартум",
+    "hanja": "Khartoum",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하리다",
+    "translation": "чадна",
+    "hanja": "하리다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하리보",
+    "translation": "Харибо",
+    "hanja": "Haribo",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "하리사",
+    "translation": "Хариса (Хоолны нэр)",
+    "hanja": "하리사",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하릴없다",
+    "translation": "аргагүй, зайлшгүй",
+    "hanja": "None",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하릴없이",
+    "translation": "аргагүйн эрхэнд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하마",
+    "translation": "бегемот",
+    "hanja": "河馬",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하마스",
+    "translation": "Хамас",
+    "hanja": "하마스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하마터면",
+    "translation": "Хишигтэй, азтай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하만",
+    "translation": "Хаман",
+    "hanja": "下曼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하매",
+    "translation": "тиймээс, тул",
+    "hanja": "―",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "하메",
+    "translation": "хаме",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "하멜",
+    "translation": "Хамель",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하면",
+    "translation": "노동자",
+    "hanja": "下免",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하명",
+    "translation": "тушаал",
+    "hanja": "下命",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하명하다",
+    "translation": "Захирамжлах",
+    "hanja": "下命하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하모",
+    "translation": "Хамо (загас)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "하모니",
+    "translation": "уялдаа холбоо, зохицол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하모니카",
+    "translation": "гармон",
+    "hanja": "하모니카",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "하모닉스",
+    "translation": "гармоник",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하목",
+    "translation": "зуны сүүл",
+    "hanja": "夏木",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하몽",
+    "translation": "хамон (испани гахайн мах)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하묘",
+    "translation": "зуны суулгац",
+    "hanja": "夏苗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하무",
+    "translation": "хамаагүй",
+    "hanja": "何無",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하문",
+    "translation": "доод хаалга",
+    "hanja": "下問",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하문하다",
+    "translation": "асуух, доошоо асуух",
+    "hanja": "下問하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하물며",
+    "translation": "тэгээд ч",
+    "hanja": "하물며",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하미",
+    "translation": "Хами",
+    "hanja": "哈密",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하바",
+    "translation": "хэвлий, доод хэсэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하바롭스크",
+    "translation": "Хабаровск",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하바리",
+    "translation": "Хөхний даруулга (хуучин үг)",
+    "hanja": "하바리",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하박",
+    "translation": "доод хэсэг",
+    "hanja": "下膊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하박국",
+    "translation": "хабаккук (Библийн ном)",
+    "hanja": "하박국",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "하반기",
+    "translation": "хоёрдугаар хагас",
+    "hanja": "下半期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하반신",
+    "translation": "Биеийн доод хэсэг",
+    "hanja": "下半身",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하방",
+    "translation": "Доорох тал, доод хэсэг",
+    "hanja": "下方",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하백",
+    "translation": "усны бурхан",
+    "hanja": "河伯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하버",
+    "translation": "Боомт",
+    "hanja": "하버",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하버드",
+    "translation": "Харвард (их сургууль)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "하베스터",
+    "translation": "Ургац хураагч (машин)",
+    "hanja": "하베스터",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "하베스팅",
+    "translation": "Ургац хураалт, хураах (хабестинг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하변",
+    "translation": "доод тал",
+    "hanja": "下邊",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하복",
+    "translation": "Зуны хувцас",
+    "hanja": "夏服",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하복부",
+    "translation": "хэвлийн доод хэсэг",
+    "hanja": "下腹部",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "하부",
+    "translation": "доод хэсэг",
+    "hanja": "下部",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하북",
+    "translation": "Хэбэй",
+    "hanja": "河北",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하브루타",
+    "translation": "хаврута (еврей сургалтын арга)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하비",
+    "translation": "Хобби",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하빠",
+    "translation": "Доод тал",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하사",
+    "translation": "Доод офицер",
+    "hanja": "下士",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하사관",
+    "translation": "бага офицер",
+    "hanja": "下士官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하사품",
+    "translation": "бэлэг, шагнал (хааны өгсөн)",
+    "hanja": "下賜品",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하사하다",
+    "translation": "бэлэглэх",
+    "hanja": "下賜하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하산",
+    "translation": "Уулнаас буух",
+    "hanja": "下山",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "하산하다",
+    "translation": "уулнаас буух",
+    "hanja": "下山하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하상",
+    "translation": "Голын ёроол",
+    "hanja": "河床",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하선하다",
+    "translation": "буух",
+    "hanja": "下船하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하세",
+    "translation": "таалал барих; нас барах",
+    "hanja": "下世",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하소",
+    "translation": "хасо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하소연",
+    "translation": "Гомдол мэдүүлэх, уйлах дуулах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하소연하다",
+    "translation": "гомдоллох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하솔",
+    "translation": "Хацол (хот)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "하송",
+    "translation": "Илгээх",
+    "hanja": "下送",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하수",
+    "translation": "бохир ус",
+    "hanja": "下水",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하수관",
+    "translation": "Бохирын хоолой",
+    "hanja": "下水管",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하수구",
+    "translation": "Бохирын суваг",
+    "hanja": "下水溝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하수도",
+    "translation": "бохир усны суваг",
+    "hanja": "下水道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하수오",
+    "translation": "Хашоу (ургамал)",
+    "hanja": "何首烏",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하수인",
+    "translation": "гар хөл",
+    "hanja": "下手人",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "하숙",
+    "translation": "Дамжуулан суулгах",
+    "hanja": "下宿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하숙방",
+    "translation": "түрээсийн өрөө",
+    "hanja": "下宿房",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하숙비",
+    "translation": "байрны төлбөр",
+    "hanja": "下宿費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하숙생",
+    "translation": "байнгын зочин, дотуур байрны оюутан",
+    "hanja": "下宿生",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하숙집",
+    "translation": "гэрт байрлах газар",
+    "hanja": "下宿집",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하숙하다",
+    "translation": "байрлах",
+    "hanja": "下宿하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하순",
+    "translation": "сарын сүүлч",
+    "hanja": "下旬",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하스",
+    "translation": "галуу",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하슬",
+    "translation": "Хасыл (нэр)",
+    "hanja": "하슬",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하슬라",
+    "translation": "Хасла (эртний Ганагийн нэр)",
+    "hanja": "하슬라",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "하슬러",
+    "translation": "Хасслер",
+    "hanja": "하슬러",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하시",
+    "translation": "хэзээ ч, хэдийд ч",
+    "hanja": "何時",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하시오",
+    "translation": "хийгээрэй (хүндэтгэлтэй)",
+    "hanja": null,
+    "pos": "어미",
+    "cefr": "A2"
+  },
+  {
+    "word": "하신",
+    "translation": "хүндэтгэлийн үг (та)",
+    "hanja": "下臣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하심",
+    "translation": "Даруу байдал",
+    "hanja": "下心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하씨",
+    "translation": "Ха овогт",
+    "hanja": "河氏",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하악",
+    "translation": "эрүүний яс",
+    "hanja": "下顎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하야다",
+    "translation": "цагаан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하야하다",
+    "translation": "албан тушаалаас буух",
+    "hanja": "下野─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하얀빛",
+    "translation": "цагаан гэрэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하얀색",
+    "translation": "Цагаан өнгө",
+    "hanja": "하얀색",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하양",
+    "translation": "Цагаан өнгө",
+    "hanja": "白色",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하얗다",
+    "translation": "цагаан",
+    "hanja": "하얗다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하얼빈",
+    "translation": "Харбин",
+    "hanja": "哈爾濱",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하여",
+    "translation": "ингээд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하여간",
+    "translation": "ямар ч байсан",
+    "hanja": "何如間",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하여금",
+    "translation": "өөртөө, өөрт нь",
+    "hanja": "null",
+    "pos": "조사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하여튼",
+    "translation": "ямартай ч",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "하역",
+    "translation": "ачаа буулгах",
+    "hanja": "荷役",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하역하다",
+    "translation": "буулгах, ачих",
+    "hanja": "荷役하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하염",
+    "translation": "хязгааргүй, төгсгөлгүй",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "하염없다",
+    "translation": "Эцэс төгсгөлгүй, хязгааргүй, уйтгартай",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "하염없이",
+    "translation": "уймгүй, зогсолтгүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하오",
+    "translation": "хонгор",
+    "hanja": "下",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하오리",
+    "translation": "хаори (богино хүрэм)",
+    "hanja": "羽織",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "하오하다",
+    "translation": "хорлох",
+    "hanja": "害惡하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "하옥",
+    "translation": "шоронд хорих",
+    "hanja": "下獄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하옥되다",
+    "translation": "шоронд хоригдох",
+    "hanja": "下獄되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하옥하다",
+    "translation": "шоронд хорих",
+    "hanja": "下獄하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하와",
+    "translation": "Ева",
+    "hanja": "夏娃",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하와이",
+    "translation": "Хавай",
+    "hanja": "하와이",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "하우",
+    "translation": "Хятадын нэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하우스",
+    "translation": "байшин",
+    "hanja": "house",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "하우스만",
+    "translation": "хаусман",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "하우스메이트",
+    "translation": "байрны хамтрагч",
+    "hanja": "housemate",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하우스키퍼",
+    "translation": "өрөөний үйлчлэгч",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하우스키핑",
+    "translation": "өрөө цэвэрлэгээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하우징",
+    "translation": "орон сууц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하울러",
+    "translation": "түүнчлэн",
+    "hanja": "하울러",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하울링",
+    "translation": "улиах (дуу)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하울하다",
+    "translation": "улс үндэстний",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "하움",
+    "translation": "Хаум (солонгосын эртний нэр)",
+    "hanja": "하움",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "하워드",
+    "translation": "Хауард",
+    "hanja": "하워드",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하원하다",
+    "translation": "доод танхимд буух (хууль)",
+    "hanja": "下院하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하월",
+    "translation": "дараагийн сар",
+    "hanja": "下月",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하위",
+    "translation": "доод",
+    "hanja": "下位",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하위헌스",
+    "translation": "Хюйгенс",
+    "hanja": "하위헌스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하유",
+    "translation": "доорх, доод",
+    "hanja": "下諭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하의",
+    "translation": "өмд",
+    "hanja": "下衣",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "하이난",
+    "translation": "Хайнань (БНХАУ-ын арал)",
+    "hanja": "海南",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하이넥",
+    "translation": "өндөр захтай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하이데거",
+    "translation": "Хайдеггер (нэр)",
+    "hanja": "하이데거",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하이데라바드",
+    "translation": "Хайдерабад",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하이델베르크",
+    "translation": "Хайделберг /газар нэр/",
+    "hanja": "하이델베르크",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하이드",
+    "translation": "нуун далдлах",
+    "hanja": "hide",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "하이드레이트",
+    "translation": "гидрат",
+    "hanja": "하이드레이트",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하이드로퀴논",
+    "translation": "гидрохинон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하이드록시클로로퀸",
+    "translation": "гидроксихлорохин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하이든",
+    "translation": "Хайдн",
+    "hanja": "하이든",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이디",
+    "translation": "Хайди",
+    "hanja": "하이디",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하이라이터",
+    "translation": "тодруулагч",
+    "hanja": "highlighter",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하이라이트",
+    "translation": "онцлох",
+    "hanja": "highlight",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이라이팅",
+    "translation": "тодруулга",
+    "hanja": "하이라이팅",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이루",
+    "translation": "Сайн уу (интернет хэллэг)",
+    "hanja": "하이루",
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "하이모",
+    "translation": "хаймо (үсний бүтээгдэхүүний брэнд)",
+    "hanja": "하이모",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하이볼",
+    "translation": "хайбол",
+    "hanja": "하이볼",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하이브리드",
+    "translation": "Эрлийз",
+    "hanja": "hybrid",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하이얗다",
+    "translation": "цайвар цагаан",
+    "hanja": "하이얗다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이에나",
+    "translation": "гахай",
+    "hanja": "하이에나",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하이에크",
+    "translation": "Хайек",
+    "hanja": "하이에크",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하이웨이",
+    "translation": "хурдны зам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하이재킹",
+    "translation": "онгоц хулгайлах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이젠베르크",
+    "translation": "Гайзенберг (нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "하이커",
+    "translation": "явган аялагч",
+    "hanja": "hiker",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하이쿠",
+    "translation": "хайку шүлэг",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하이크",
+    "translation": "явган аялал",
+    "hanja": "하이크",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하이킹",
+    "translation": "явган аялал",
+    "hanja": "하이킹",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하이킹하다",
+    "translation": "явган аялал хийх",
+    "hanja": "hiking하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "하이테크",
+    "translation": "өндөр технологи",
+    "hanja": "하이테크",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이튼",
+    "translation": "ямартай ч, богинохондоо",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하이파",
+    "translation": "Хайфа",
+    "hanja": "하이파",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이파이",
+    "translation": "Өндөр чанартай дуу",
+    "hanja": "Hi-Fi",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "하이패스",
+    "translation": "хурдны зам",
+    "hanja": "하이패스",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하이퍼리얼리즘",
+    "translation": "гиперреализм",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하이퍼링크",
+    "translation": "Гипер холбоос",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하이퍼스레딩",
+    "translation": "гиперсүлжээ",
+    "hanja": "hyperthreading",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하이퍼인플레이션",
+    "translation": "гипер инфляци",
+    "hanja": "하이퍼인플레이션",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이퍼텍스트",
+    "translation": "гипертекст",
+    "hanja": "hypertext",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이포",
+    "translation": "гипо",
+    "hanja": "하이포",
+    "pos": "접두사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하이퐁",
+    "translation": "Хайфон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하이픈",
+    "translation": "холбоос",
+    "hanja": null,
+    "pos": "NNG",
+    "cefr": "B2"
+  },
+  {
+    "word": "하이힐",
+    "translation": "өндөр өсгийт",
+    "hanja": "High Heels",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하인",
+    "translation": "Зарц, үйлчлэгч",
+    "hanja": "下人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하일라이트",
+    "translation": "онцлох үйл явдал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하일랜드",
+    "translation": "Хайланд",
+    "hanja": "Highland",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하임리히법",
+    "translation": "Хаймличийн арга",
+    "hanja": "Heimlich法",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "하잇",
+    "translation": "за, ойлголоо",
+    "hanja": "NULL",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하자",
+    "translation": "алдаа, дутагдал",
+    "hanja": "瑕疵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하자하다",
+    "translation": "дутагдалтай гэж үзэх",
+    "hanja": "瑕疵하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하잔",
+    "translation": "Хазан (хүний нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하잖다",
+    "translation": "өмсөхгүй, өмсөхгүй байх",
+    "hanja": "하잖다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하잘것없다",
+    "translation": "үнэ цэнэгүй, ач холбогдолгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하장",
+    "translation": "зуны хувцас",
+    "hanja": "夏裝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하전",
+    "translation": "ион",
+    "hanja": "荷電",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하절기",
+    "translation": "зуны улирал",
+    "hanja": "夏節期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하제",
+    "translation": "гэдэс цэвэрлэх эм",
+    "hanja": "下劑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하주",
+    "translation": "Ачаа илгээгч",
+    "hanja": "荷主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하중",
+    "translation": "ачаалал",
+    "hanja": "荷重",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하지",
+    "translation": "зуны туйл",
+    "hanja": "夏至",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "하지만",
+    "translation": "гэсэн хэдий ч",
+    "hanja": null,
+    "pos": "접속사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하직",
+    "translation": "амь",
+    "hanja": "下直",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하직하다",
+    "translation": "тахимаг өргөх",
+    "hanja": "下直하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "하짓날",
+    "translation": "зуны туйл",
+    "hanja": "夏至날",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하차",
+    "translation": "Буух",
+    "hanja": "下車",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "하차하다",
+    "translation": "буух",
+    "hanja": "下車하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하찮다",
+    "translation": "Чухал биш, өчүүхэн",
+    "hanja": "하찮다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하책",
+    "translation": "муу арга",
+    "hanja": "下策",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하천",
+    "translation": "Гол",
+    "hanja": "河川",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하철",
+    "translation": "дэлхийн нүүрс",
+    "hanja": "下鐵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하청",
+    "translation": "гэрээт компани, гэрээлэгч",
+    "hanja": "下請",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하체",
+    "translation": "доод бие",
+    "hanja": "下體",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하체하다",
+    "translation": "буулгах, доошлуулах",
+    "hanja": "下車하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하초",
+    "translation": "ургамлын үндэс",
+    "hanja": "下草",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하층",
+    "translation": "доод давхарга",
+    "hanja": "下層",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하층민",
+    "translation": "анги давхаргын доод хэсэг, ядуу хүмүүс",
+    "hanja": "下層民",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하치",
+    "translation": "хачи",
+    "hanja": "ハチ",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하치오지",
+    "translation": "Хачиожи (Японы хот)",
+    "hanja": "八王子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하치장",
+    "translation": "Агуулах, склад",
+    "hanja": "荷置場",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "하카",
+    "translation": "Хака (Маори бүжиг)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하카마",
+    "translation": "хакама (Япон хувцас)",
+    "hanja": "袴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하켄크로이츠",
+    "translation": "хакенкройц (дөрвөн салаа свастик)",
+    "hanja": "Hakenkreuz",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하코",
+    "translation": "хайрцаг (Япон хэлнээс)",
+    "hanja": "하코",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하키",
+    "translation": "хоккей",
+    "hanja": "하키",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하타",
+    "translation": "Хата",
+    "hanja": "하타",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하태",
+    "translation": "намар",
+    "hanja": "夏態",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "하토",
+    "translation": "доод тал",
+    "hanja": "下土",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하토르",
+    "translation": "Хатор (Египетийн бурхан)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하토야마",
+    "translation": "Хатояма",
+    "hanja": "鳩山",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하투",
+    "translation": "Зүрхний хэлбэртэй",
+    "hanja": "ハート",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하트",
+    "translation": "зүрх",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "하트퍼드",
+    "translation": "Хартфорд",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하틀리",
+    "translation": "Хартли",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하티",
+    "translation": "Хати (нэр)",
+    "hanja": "하티",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하파",
+    "translation": "Хапа",
+    "hanja": "下巴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하판",
+    "translation": "доод тавцан",
+    "hanja": "下板",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하퍼",
+    "translation": "Харпер",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "하편",
+    "translation": "доод хэсэг",
+    "hanja": "下篇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하품",
+    "translation": "суниах",
+    "hanja": "하품",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하품하다",
+    "translation": "эгээшлэх",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "하프",
+    "translation": "арфа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "하프시코드",
+    "translation": "Арфсикорд (хөгжмийн зэмсэг)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하피",
+    "translation": "гадагш өмссөн юбка",
+    "hanja": "下帔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하필",
+    "translation": "Яагаад заавал",
+    "hanja": "何必",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하하",
+    "translation": "ха-ха (инээх дуу)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하학",
+    "translation": "хичээл дуусах",
+    "hanja": "下學",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "하한",
+    "translation": "Доод хязгаар",
+    "hanja": "下限",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하항",
+    "translation": "буух",
+    "hanja": "下港",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하행",
+    "translation": "доош явах",
+    "hanja": "下行",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하행선",
+    "translation": "доош чиглэсэн шугам",
+    "hanja": "下行線",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "하향",
+    "translation": "доошоо",
+    "hanja": "下向",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하향하다",
+    "translation": "доошлох, буурах",
+    "hanja": "下向하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하현달",
+    "translation": "хоёрдугаар хагас сар",
+    "hanja": "下弦달",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "하혈",
+    "translation": "цус алдах",
+    "hanja": "下血",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하협",
+    "translation": "доод тал",
+    "hanja": "下頰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "하호",
+    "translation": "доод давхарга, доод анги",
+    "hanja": "下戶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하회",
+    "translation": "доод талын тосгон",
+    "hanja": "河回",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "하회탈",
+    "translation": "Хахайн баг",
+    "hanja": "河回탈",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "하회하다",
+    "translation": "доош унах",
+    "hanja": "下廻--",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "하후돈",
+    "translation": "сяхоу дон",
+    "hanja": "夏侯惇",
+    "pos": "명사",
+    "cefr": null
+  }
+]

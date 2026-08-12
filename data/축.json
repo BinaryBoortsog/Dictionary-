@@ -1,0 +1,457 @@
+[
+  {
+    "word": "축",
+    "translation": "тэнхлэг",
+    "hanja": "軸",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "축가",
+    "translation": "баярын дуу",
+    "hanja": "祝歌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "축구",
+    "translation": "хөлбөмбөг",
+    "hanja": "蹴球",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "축구공",
+    "translation": "Хөлбөмбөг",
+    "hanja": "蹴球球",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "축구장",
+    "translation": "хөлбөмбөгийн талбай",
+    "hanja": "蹴球場",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "축구하다",
+    "translation": "хөлбөмбөг тоглох",
+    "hanja": "蹴球하다",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "축국",
+    "translation": "хөлбөмбөг",
+    "hanja": "蹴鞠",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "축귀",
+    "translation": "чөтгөр үлдэн хөөх, муу сүнс хөөх",
+    "hanja": "逐鬼",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "축나다",
+    "translation": "Хорогдох",
+    "hanja": "縮나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축내다",
+    "translation": "бууруулах, хорогдуулах",
+    "hanja": "縮내다",
+    "pos": "VERB",
+    "cefr": "B2"
+  },
+  {
+    "word": "축농증",
+    "translation": "хамрын дайвар хөндийн үрэвсэл",
+    "hanja": "蓄膿症",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "축령산",
+    "translation": "Чухрёонгсан уул",
+    "hanja": "祝靈山",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "축문",
+    "translation": "залбирал бичих",
+    "hanja": "祝文",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "축배",
+    "translation": "мялаалгын хундага",
+    "hanja": "祝杯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축복",
+    "translation": "ерөөл",
+    "hanja": "祝福",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "축복되다",
+    "translation": "ерөөлтэй байх",
+    "hanja": "祝福되다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축복하다",
+    "translation": "ерөөх, адислах",
+    "hanja": "祝福하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축사",
+    "translation": "баяр хүргэх үг",
+    "hanja": "祝辭",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "축사하다",
+    "translation": "баяр хүргэх үг хэлэх",
+    "hanja": "祝辭하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축삭",
+    "translation": "аксон",
+    "hanja": "軸索",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축산",
+    "translation": "мал аж ахуй",
+    "hanja": "畜産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축산물",
+    "translation": "мал аж ахуйн бүтээгдэхүүн",
+    "hanja": "畜産物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축산업",
+    "translation": "мал аж ахуй",
+    "hanja": "畜産業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축생",
+    "translation": "амьтан",
+    "hanja": "畜生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축성",
+    "translation": "цайз барих",
+    "hanja": "築城",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "축성하다",
+    "translation": "амжилт хүсэх",
+    "hanja": "祝聖하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축소",
+    "translation": "Багасгах",
+    "hanja": "縮小",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축소되다",
+    "translation": "багасах",
+    "hanja": "縮小되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축소판",
+    "translation": "хураангуй хувилбар",
+    "hanja": "縮小版",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축소하다",
+    "translation": "багасгах",
+    "hanja": "縮小하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축시",
+    "translation": "үхрийн цаг (шөнийн 1-3 цаг)",
+    "hanja": "丑時",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "축약",
+    "translation": "товчлох",
+    "hanja": "縮約",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "축약되다",
+    "translation": "товчлогдох, хураагдах",
+    "hanja": "縮約되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축약하다",
+    "translation": "хураангуйлах",
+    "hanja": "縮約하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축연",
+    "translation": "найрын үдэшлэг",
+    "hanja": "祝宴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축원",
+    "translation": "ерөөл, талархал",
+    "hanja": "祝願",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축원하다",
+    "translation": "Ерөөх, хүсэх",
+    "hanja": "祝願하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "축음기",
+    "translation": "фонограф, дуу хураагч",
+    "hanja": "蓄音機",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축의금",
+    "translation": "Баяр хүргэх мөнгө",
+    "hanja": "祝儀金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "축이다",
+    "translation": "норгох, чийглэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "축일",
+    "translation": "баяр, баярын өдөр",
+    "hanja": "祝日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "축적",
+    "translation": "Хуримтлал",
+    "hanja": "蓄積",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축적되다",
+    "translation": "Хуримтлагдах",
+    "hanja": "蓄積되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축적하다",
+    "translation": "хуримтлуулах",
+    "hanja": "蓄積하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "축전",
+    "translation": "баяр хүргэх зурвас, цахилгаан",
+    "hanja": "祝電",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "축제",
+    "translation": "баяр, наадам",
+    "hanja": "祝祭",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "축제일",
+    "translation": "баяр ёслолын өдөр",
+    "hanja": "祝祭日",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "축제하다",
+    "translation": "Баяр тэмдэглэх",
+    "hanja": "祝祭하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "축조",
+    "translation": "барилгын ажил",
+    "hanja": "築造",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "축조되다",
+    "translation": "барилга баригдах",
+    "hanja": "築造되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축조하다",
+    "translation": "барих",
+    "hanja": "築造하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축지법",
+    "translation": "хурдан алхах арга",
+    "hanja": "縮地法",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "축척",
+    "translation": "масштаб",
+    "hanja": "縮尺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축축",
+    "translation": "Нойтон",
+    "hanja": "",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "축축하다",
+    "translation": "чийгтэй",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "축출",
+    "translation": "хөөх, зайлуулах",
+    "hanja": "逐出",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축출되다",
+    "translation": "хөөгдөх",
+    "hanja": "逐出되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축출하다",
+    "translation": "хөөж гаргах",
+    "hanja": "逐出하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축포",
+    "translation": "баяр ёслолын буудлага",
+    "hanja": "祝砲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "축하",
+    "translation": "Баяр хүргэх",
+    "hanja": "祝賀",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "축하객",
+    "translation": "баяр хүргэж буй зочин",
+    "hanja": "祝賀客",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "축하다",
+    "translation": "Баяр хүргэх",
+    "hanja": "祝하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "축하연",
+    "translation": "баярын цэнгүүн",
+    "hanja": "祝賀宴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "축하하다",
+    "translation": "баяр хүргэх",
+    "hanja": "祝賀하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "축협",
+    "translation": "мал аж ахуйн хоршоо",
+    "hanja": "畜協",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

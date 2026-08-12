@@ -1,0 +1,331 @@
+[
+  {
+    "word": "준",
+    "translation": "Жун",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "준게",
+    "translation": "Жун-гэ (хүн/газрын нэр)",
+    "hanja": "준게",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "준결승",
+    "translation": "хагас шигшээ",
+    "hanja": "準決勝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "준결승전",
+    "translation": "хагас шигшээ тоглолт",
+    "hanja": "準決勝戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "준공",
+    "translation": "барилгын ажлыг дуусгах",
+    "hanja": "竣工",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "준공되다",
+    "translation": "ашиглалтад орох",
+    "hanja": "竣工되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "준공식",
+    "translation": "ашиглалтад оруулах ёслол",
+    "hanja": "竣工式",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "준공하다",
+    "translation": "барилгын ажлыг дуусгах",
+    "hanja": "竣工하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "준교",
+    "translation": "багшлах",
+    "hanja": "準敎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "준규",
+    "translation": "жингүү (хүний нэр)",
+    "hanja": "俊圭",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "준동",
+    "translation": "хөдөлгөөн",
+    "hanja": "蠢動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "준동하다",
+    "translation": "хөдөлгөөн үүсгэх",
+    "hanja": "蠢動하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "준령",
+    "translation": "өндөр уулс",
+    "hanja": "준령(峻嶺)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "준마",
+    "translation": "Сүрлэг морь",
+    "hanja": "駿馬",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "준말",
+    "translation": "Товч үг",
+    "hanja": "줄말",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "준법",
+    "translation": "хууль зүйн",
+    "hanja": "準法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "준법정신",
+    "translation": "хууль сахих сүнс",
+    "hanja": "遵法精神",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "준비",
+    "translation": "бэлтгэл",
+    "hanja": "準備",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "준비되다",
+    "translation": "бэлэн болох",
+    "hanja": "準備되다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "준비물",
+    "translation": "бэлтгэл",
+    "hanja": "準備物",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "준비성",
+    "translation": "бэлтгэлтэй байдал",
+    "hanja": "準備性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "준비시키다",
+    "translation": "Бэлтгэх",
+    "hanja": "準備시키다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "준비하다",
+    "translation": "Бэлтгэх",
+    "hanja": "準備하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "준사",
+    "translation": "генерал",
+    "hanja": "准將",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "준설",
+    "translation": "шавар авах",
+    "hanja": "浚渫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "준수",
+    "translation": "Дагаж мөрдөх, сахих, гоо үзэсгэлэн",
+    "hanja": "遵守",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "준수되다",
+    "translation": "дагаж мөрдөх",
+    "hanja": "遵守되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "준수하다",
+    "translation": "сахин биелүүлэх",
+    "hanja": "遵守하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "준엄하다",
+    "translation": "хатуу, ширүүн",
+    "hanja": "峻嚴하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "준왕",
+    "translation": "Жүн ван (солонгосын эртний хаан)",
+    "hanja": "準王",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "준용하다",
+    "translation": "дүрэм хэрэглэх",
+    "hanja": "準用하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "준우",
+    "translation": "Жүн-ү",
+    "hanja": "俊優",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "준우승",
+    "translation": "дэд аварга",
+    "hanja": "準優勝",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "준우승하다",
+    "translation": "дэд аварга болох",
+    "hanja": "準優勝하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "준위",
+    "translation": "бага офицер",
+    "hanja": "准尉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "준이하다",
+    "translation": "Даган мөрдөх, дагуулах",
+    "hanja": "準依하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "준일",
+    "translation": "Онцгой",
+    "hanja": "準一",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "준장",
+    "translation": "бригадын генерал",
+    "hanja": "准將",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "준재",
+    "translation": "авъяаслаг хүн, чадварлаг хүн",
+    "hanja": "俊才",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "준적",
+    "translation": "овжин",
+    "hanja": "俊賊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "준주",
+    "translation": "Иж бүрэн муж",
+    "hanja": "準州",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "준준결승",
+    "translation": "хагас шигшээгийн өмнөх шат, шөвгийн 8",
+    "hanja": "準準決勝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "준칙",
+    "translation": "дүрэм, журам, стандарт",
+    "hanja": "準則",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "준하다",
+    "translation": "дагуулах, тэнцүү байх",
+    "hanja": "準하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "준행하다",
+    "translation": "дагах, гүйцэтгэх",
+    "hanja": "遵行하다",
+    "pos": "동사 (Verb)",
+    "cefr": "C1"
+  },
+  {
+    "word": "준호",
+    "translation": "Жун-хо",
+    "hanja": "俊昊",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "준회원",
+    "translation": "Дэмжигч гишүүн, түр гишүүн",
+    "hanja": "準會員",
+    "pos": "Noun",
+    "cefr": "B2"
+  }
+]

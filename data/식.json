@@ -1,0 +1,611 @@
+[
+  {
+    "word": "식",
+    "translation": "хэв маяг",
+    "hanja": "式",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "식각",
+    "translation": "ишлэл, сийлбэр",
+    "hanja": "蝕刻",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "식간",
+    "translation": "хоолны хооронд",
+    "hanja": "食間",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식감",
+    "translation": "хүнсний амт",
+    "hanja": "食感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식객",
+    "translation": "уригдаагүй зочин, амьжиргаа хайсан хүн",
+    "hanja": "食客",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식겁",
+    "translation": "айх, цочих",
+    "hanja": "食怯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식겁하다",
+    "translation": "айх, цочих",
+    "hanja": "食怯─",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "식견",
+    "translation": "мэдлэг",
+    "hanja": "識見",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식경",
+    "translation": "хоолны цаг",
+    "hanja": "食頃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식곤증",
+    "translation": "хоолны дараах нойрмог байдал",
+    "hanja": "食困症",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "식구",
+    "translation": "гэр бүлийн гишүүн",
+    "hanja": "食口",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식권",
+    "translation": "хоолны тасалбар",
+    "hanja": "食券",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "식다",
+    "translation": "хөрөх",
+    "hanja": "식다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "식단",
+    "translation": "хоолны дэглэм",
+    "hanja": "食單",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식당",
+    "translation": "Ресторан",
+    "hanja": "食堂",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "식당가",
+    "translation": "Хоолны гудамж",
+    "hanja": "食堂街",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식도",
+    "translation": "Улаан хоолой",
+    "hanja": "食道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식도락",
+    "translation": "амттай хоолонд дуртай",
+    "hanja": "食道樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식도락가",
+    "translation": "хоолны амттан сонирхогч",
+    "hanja": "食道樂家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식량",
+    "translation": "хүнс, хүнсний бүтээгдэхүүн",
+    "hanja": "食糧",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식량난",
+    "translation": "хүнсний хомсдол",
+    "hanja": "食糧難",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식료품",
+    "translation": "хүнсний бүтээгдэхүүн",
+    "hanja": "食料品",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식모",
+    "translation": "гэрийн үйлчлэгч, зарц",
+    "hanja": "食母",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식모살이",
+    "translation": "гэрийн үйлчлэгчийн амьдрал",
+    "hanja": "食母살이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식목",
+    "translation": "мод тарих",
+    "hanja": "植木",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식목일",
+    "translation": "мод тарих өдөр",
+    "hanja": "植木日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식물",
+    "translation": "ургамал",
+    "hanja": "植物",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식물성",
+    "translation": "ургамлын гаралтай",
+    "hanja": "植物性",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식물원",
+    "translation": "ургамлын хүрээлэн",
+    "hanja": "식물원(植物園)",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "식물인간",
+    "translation": "ургамлын байдалтай хүн",
+    "hanja": "植物人間",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식물학",
+    "translation": "ургамал судлал",
+    "hanja": "植物學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식민지",
+    "translation": "колони",
+    "hanja": "植民地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식민지화하다",
+    "translation": "колоничлох",
+    "hanja": "植民地化하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "식민화하다",
+    "translation": "колоничлох",
+    "hanja": "植民化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식별",
+    "translation": "таних, ялгах",
+    "hanja": "識別",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식별되다",
+    "translation": "тодорхойлогдох, танигдах",
+    "hanja": "識別되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "식별하다",
+    "translation": "тодорхойлох, таних",
+    "hanja": "識別하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "식비",
+    "translation": "хоолны зардал",
+    "hanja": "食費",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "식빵",
+    "translation": "талх",
+    "hanja": "食빵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식사",
+    "translation": "хоол",
+    "hanja": "食事",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "식사량",
+    "translation": "хоолны хэмжээ",
+    "hanja": "食事量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식사하다",
+    "translation": "хооллох",
+    "hanja": "食事하다",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "식상",
+    "translation": "уйдсан",
+    "hanja": "食傷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식상하다",
+    "translation": "залхуутай, уйтгартай, хуучинсаг",
+    "hanja": "食傷-",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "식생",
+    "translation": "ургамлын бүрхэвч",
+    "hanja": "植生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식생활",
+    "translation": "Хоолны дэглэм, хооллолт",
+    "hanja": "食生活",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식성",
+    "translation": "хоолны дуршил",
+    "hanja": "食性",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식솔",
+    "translation": "гэрийнхэн, гэр бүл",
+    "hanja": "食率",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "식수대",
+    "translation": "ундарга",
+    "hanja": "食水臺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식순",
+    "translation": "ёслолын дэс дараалал",
+    "hanja": "式順",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식습관",
+    "translation": "хоолны дэглэм",
+    "hanja": "食習慣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식식거리다",
+    "translation": "амьсгаадах, хүндээр амьсгалах",
+    "hanja": "식식거리다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "식식대다",
+    "translation": "Хий гаргах, амьсгалах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "식신",
+    "translation": "хоолны бурхан, тогооч",
+    "hanja": "食神",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식약처",
+    "translation": "хүнс, эмийн аюулгүй байдлын газар",
+    "hanja": "食藥處",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식약청",
+    "translation": "хүнс, эмийн аюулгүй байдлын газар",
+    "hanja": "食藥廳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식양",
+    "translation": "хэв маяг, загвар",
+    "hanja": "式樣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식염수",
+    "translation": "физиологийн уусмал, шорвог ус",
+    "hanja": "食鹽水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식욕",
+    "translation": "хоолны дуршил",
+    "hanja": "食慾",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식용",
+    "translation": "хоол хүнсэнд",
+    "hanja": "食用",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "식용유",
+    "translation": "хүнсний тос",
+    "hanja": "食用油",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식육",
+    "translation": "мах идэх",
+    "hanja": "食肉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식은땀",
+    "translation": "хүйтэн хөлс",
+    "hanja": "食은땀",
+    "pos": "м.н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "식은밥",
+    "translation": "Хүйтэн будаа",
+    "hanja": "食은밥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식음료",
+    "translation": "Хоол унд",
+    "hanja": "食飮料",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식읍",
+    "translation": "Хоолны газар",
+    "hanja": "食邑",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "식이",
+    "translation": "дэглэм",
+    "hanja": "食餌",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "식인",
+    "translation": "хүн идэх",
+    "hanja": "食人",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "식인종",
+    "translation": "хүн иддэг амьтан",
+    "hanja": "食人種",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "식자",
+    "translation": "Уншигч",
+    "hanja": "識者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식장",
+    "translation": "ёслолын танхим",
+    "hanja": "式場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식적",
+    "translation": "хоол шингээхгүй байх",
+    "hanja": "食積",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식전",
+    "translation": "ёслолын өмнө",
+    "hanja": "式典",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "식중독",
+    "translation": "Хоолны хордлого",
+    "hanja": "食中毒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식초",
+    "translation": "Цагаан цуу",
+    "hanja": "食醋",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "식충",
+    "translation": "Хоосон ховдог хүн",
+    "hanja": "食蟲",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "식칼",
+    "translation": "хутга",
+    "hanja": "食칼",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "식탁",
+    "translation": "хоолны ширээ",
+    "hanja": "食卓",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "식탁보",
+    "translation": "ширээний бүтээлэг",
+    "hanja": "食卓褓",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식탐",
+    "translation": "хоолны шунал",
+    "hanja": "食貪",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "식판",
+    "translation": "таваг",
+    "hanja": "食板",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "식품",
+    "translation": "Хүнсний бүтээгдэхүүн",
+    "hanja": "食品",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "식품점",
+    "translation": "хүнсний дэлгүүр",
+    "hanja": "食品店",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식해",
+    "translation": "Сикхае (загасны исгэсэн хоол)",
+    "hanja": "食醢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "식혜",
+    "translation": "Сикхе (Солонгос ундаа)",
+    "hanja": "食醯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "식후",
+    "translation": "хоолны дараа",
+    "hanja": "食後",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식히다",
+    "translation": "Хөргөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  }
+]

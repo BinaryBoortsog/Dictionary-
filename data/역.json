@@ -1,0 +1,702 @@
+[
+  {
+    "word": "역",
+    "translation": "станц",
+    "hanja": "驛",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "역겹다",
+    "translation": "Дотор муухайрах",
+    "hanja": "역겹다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역경",
+    "translation": "Хүндрэл, бэрхшээл",
+    "hanja": "逆境",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역공",
+    "translation": "сөрөг довтолгоо",
+    "hanja": "逆攻",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역공하다",
+    "translation": "сөрөг довтолгоо хийх",
+    "hanja": "逆攻하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역관",
+    "translation": "орчуулагч",
+    "hanja": "譯官",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "역광",
+    "translation": "сүүдэр",
+    "hanja": "逆光",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "역군",
+    "translation": "хөдөлмөрчин",
+    "hanja": "役軍",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "역기능",
+    "translation": "үйл ажиллагааны доголдол",
+    "hanja": "逆機能",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역내",
+    "translation": "станцын дотор",
+    "hanja": "域內",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "역당",
+    "translation": "дарангуйлагч нам",
+    "hanja": "逆黨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "역도",
+    "translation": "хүндийн өргөлт",
+    "hanja": "力道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "역도산",
+    "translation": "Рикидозан",
+    "hanja": "力道山",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "역도하다",
+    "translation": "хууль зөрчих; урвах",
+    "hanja": "逆徒하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역동",
+    "translation": "динамик",
+    "hanja": "力動",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "역동적",
+    "translation": "эрч хүчтэй",
+    "hanja": "力動的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "역량",
+    "translation": "чадавхи",
+    "hanja": "力量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역력하다",
+    "translation": "илт",
+    "hanja": "歷歷하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역력히",
+    "translation": "тодорхой, ил тод",
+    "hanja": "歷歷히",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "역류",
+    "translation": "урсгал сөрөх",
+    "hanja": "逆流",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역류하다",
+    "translation": "урсгал сөрөх",
+    "hanja": "逆流하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역린",
+    "translation": "лууны урвуу хайрс (хаан/дээдсийн уур хилэнг өдөөх зүйл)",
+    "hanja": "逆鱗",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "역마살",
+    "translation": "аялах дуртай зан (хувь заяаны нэг төрөл)",
+    "hanja": "驛馬殺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역명",
+    "translation": "буудлын нэр",
+    "hanja": "驛名",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "역모",
+    "translation": "хуйвалдаан",
+    "hanja": "逆謀",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "역무",
+    "translation": "Үүрэг, албан ёсны үйлчилгээ",
+    "hanja": "役務",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역무실",
+    "translation": "вокзалын алба",
+    "hanja": "驛務室",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역방향",
+    "translation": "урвуу чиглэл",
+    "hanja": "逆方向",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "역배",
+    "translation": "урвуу хувьцаа",
+    "hanja": "逆培",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역법",
+    "translation": "цаг тооны бичиг",
+    "hanja": "曆法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역변",
+    "translation": "урвуу өөрчлөлт",
+    "hanja": "逆變",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "역병",
+    "translation": "тарваган тахал",
+    "hanja": "疫病",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "역부족",
+    "translation": "хүч хүрэхгүй байх",
+    "hanja": "力不足",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "역사",
+    "translation": "Түүх",
+    "hanja": "歷史",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "역사가",
+    "translation": "түүхч",
+    "hanja": "歷史家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역사관",
+    "translation": "түүхийн үзэл баримтлал, түүхийн үзэл",
+    "hanja": "歷史觀",
+    "pos": "н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "역사상",
+    "translation": "түүхийн туршид",
+    "hanja": "歷史上",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "역사성",
+    "translation": "түүхэн шинж чанар, түүхэн байдал",
+    "hanja": "歷史性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역사적",
+    "translation": "түүхэн",
+    "hanja": "歷史的",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "역사책",
+    "translation": "Түүхийн ном",
+    "hanja": "歷史冊",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "역사하다",
+    "translation": "Түүхтэй байх",
+    "hanja": "役事하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역사학",
+    "translation": "түүхийн шинжлэх ухаан",
+    "hanja": "歷史學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역산",
+    "translation": "Урвуу тооцоолол",
+    "hanja": "逆算",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역산하다",
+    "translation": "урвуу тооцоолох",
+    "hanja": "逆算하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "역삼",
+    "translation": "Ёксам (газрын нэр)",
+    "hanja": "驛三",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "역서",
+    "translation": "хуанли, цаглабар",
+    "hanja": "曆書",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "역설",
+    "translation": "парадокс",
+    "hanja": "逆說",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "역설적",
+    "translation": "ёгт утгатай, парадоксал",
+    "hanja": "逆說的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역설하다",
+    "translation": "үндсэн санаагаа илэрхийлэх",
+    "hanja": "力說하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역성",
+    "translation": "этгээд талын",
+    "hanja": "逆性",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "역성들다",
+    "translation": "талд орох",
+    "hanja": "役聲들다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역성장하다",
+    "translation": "урвуу өсөлттэй байх",
+    "hanja": "逆成長하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역세권",
+    "translation": "буудлын ойр орчим",
+    "hanja": "역세권( 역勢圈)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역수",
+    "translation": "Урвуу тоо",
+    "hanja": "逆數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역순",
+    "translation": "урвуу дараалал",
+    "hanja": "逆順",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역술가",
+    "translation": "зөнч",
+    "hanja": "易術家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역습",
+    "translation": "сөрөг довтолгоо",
+    "hanja": "逆襲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역습하다",
+    "translation": "сөрөг довтолгоо хийх",
+    "hanja": "逆襲하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "역시",
+    "translation": "мөн",
+    "hanja": "亦是",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "역신",
+    "translation": "тахал бурхан",
+    "hanja": "疫神",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역심",
+    "translation": "урвах санаа",
+    "hanja": "逆心",
+    "pos": "мөн",
+    "cefr": "C2"
+  },
+  {
+    "word": "역아",
+    "translation": "урвуу төрөлт",
+    "hanja": "逆兒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역안",
+    "translation": "хил дамнасан",
+    "hanja": "域外",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "역외",
+    "translation": "гадаад",
+    "hanja": "域外",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "역이용하다",
+    "translation": "Урвуу ашиглах, сөрөг талаас нь ашиглах",
+    "hanja": "逆利用하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역임하다",
+    "translation": "алба хаших",
+    "hanja": "歷任하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역자",
+    "translation": "орчуулагч",
+    "hanja": "譯者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "역작",
+    "translation": "шилдэг бүтээл, гайхамшигт бүтээл",
+    "hanja": "力作",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "역작용",
+    "translation": "Эсрэг үйлдэл, сөрөг нөлөө",
+    "hanja": "逆作用",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "역장",
+    "translation": "станцын дарга",
+    "hanja": "驛長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역적",
+    "translation": "эх оронч",
+    "hanja": "逆賊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역전",
+    "translation": "Эргэлт, байрыг солих",
+    "hanja": "逆轉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역전당하다",
+    "translation": "хожигдох",
+    "hanja": "逆轉當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역전되다",
+    "translation": "өөрчлөгдөх, эргэлт хийх",
+    "hanja": "逆轉되다",
+    "pos": "ү.ү",
+    "cefr": "C1"
+  },
+  {
+    "word": "역전승",
+    "translation": "урвуу ялалт",
+    "hanja": "逆轉勝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역전승하다",
+    "translation": "Эргэлтийн ялалт",
+    "hanja": "逆轉勝하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역전패",
+    "translation": "ялагдсан",
+    "hanja": "逆轉敗",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "역전패하다",
+    "translation": "ялагдах, буцаж ялагдах",
+    "hanja": "逆轉敗하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역전하다",
+    "translation": "урвуулах (байдал)",
+    "hanja": "逆轉하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역점",
+    "translation": "Онцлох зүйл",
+    "hanja": "力點",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "역정",
+    "translation": "уур хилэн",
+    "hanja": "逆情",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "역제안하다",
+    "translation": "эсрэг санал тавих",
+    "hanja": "逆提案-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역조",
+    "translation": "эргэлтийн ус",
+    "hanja": "逆潮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역졸",
+    "translation": "шуудангын ажилтан",
+    "hanja": "驛卒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역주",
+    "translation": "тайлбартай орчуулга",
+    "hanja": "譯註",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "역주행하다",
+    "translation": "Урсгал сөрж явах",
+    "hanja": "逆走行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역지사지",
+    "translation": "бусдын оронд өөрийгөө тавих",
+    "hanja": "易地思之",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역지사지하다",
+    "translation": "өөр хүний оронд өөрийгөө тавьж үзэх",
+    "hanja": "易地思之하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "역참",
+    "translation": "өртөө",
+    "hanja": "驛站",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역청",
+    "translation": "бохь, давирхай",
+    "hanja": "瀝靑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역추적하다",
+    "translation": "урвуу хянах",
+    "hanja": "逆追跡─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역투",
+    "translation": "бүх хүчээ гаргах",
+    "hanja": "力投",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역풍",
+    "translation": "сөрөг салхи",
+    "hanja": "逆風",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "역하다",
+    "translation": "зэвүүцэм",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역할",
+    "translation": "үүрэг",
+    "hanja": "役割",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "역할극",
+    "translation": "дүрд тоглох",
+    "hanja": "役割劇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역행",
+    "translation": "урвуу чиглэлд явах",
+    "hanja": "逆行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "역행하다",
+    "translation": "урвуу явах",
+    "hanja": "逆行하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "역활",
+    "translation": "үүрэг",
+    "hanja": "役割",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "역효과",
+    "translation": "Сөрөг үр дагавар",
+    "hanja": "逆效果",
+    "pos": "Noun",
+    "cefr": "B2"
+  }
+]

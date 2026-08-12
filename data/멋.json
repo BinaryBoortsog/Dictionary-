@@ -1,0 +1,93 @@
+[
+  {
+    "word": "멋",
+    "translation": "хэв маяг",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "멋대로",
+    "translation": "дураар, хүссэнээрээ",
+    "hanja": "멋대로",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "멋들다",
+    "translation": "гоёмсог, дэгжин",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "멋모르다",
+    "translation": "юу ч мэдэхгүй, гэнэн",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "멋쁨",
+    "translation": "гоё сайхан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "멋스럽다",
+    "translation": "загварлаг, дэгжин",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "멋없다",
+    "translation": "урамгүй, амтгүй, загваргүй",
+    "hanja": "멋없다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "멋없이",
+    "translation": "сонирхолгүй",
+    "hanja": "멋없이",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "멋있다",
+    "translation": "хүчтэй",
+    "hanja": "멋있다",
+    "pos": "adj",
+    "cefr": "B1"
+  },
+  {
+    "word": "멋쟁이",
+    "translation": "гоё хүн, загварлаг хүн",
+    "hanja": "멋쟁이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "멋적다",
+    "translation": "Эвгүй, ичмээр, царай алдах",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "멋지다",
+    "translation": "гайхалтай, гоё",
+    "hanja": "멋지다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "멋쩍다",
+    "translation": "эвгүй байдалд орох",
+    "hanja": "멋쩍다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  }
+]

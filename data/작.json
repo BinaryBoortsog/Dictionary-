@@ -1,0 +1,688 @@
+[
+  {
+    "word": "작",
+    "translation": "ажил",
+    "hanja": "作",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "작가",
+    "translation": "зохиолч",
+    "hanja": "作家",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "작가하다",
+    "translation": "захирал, зохиолч болох",
+    "hanja": "作家하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작계",
+    "translation": "төлөвлөгөө",
+    "hanja": "作計",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작고하다",
+    "translation": "таалал төгсөх, нас барах",
+    "hanja": "作故하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "작곡",
+    "translation": "хөгжим зохиох",
+    "hanja": "作曲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작곡가",
+    "translation": "хөгжмийн зохиолч",
+    "hanja": "作曲家",
+    "pos": "NOUN",
+    "cefr": "A2"
+  },
+  {
+    "word": "작곡되다",
+    "translation": "хөгжимдөгдөх",
+    "hanja": "作曲되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작곡자",
+    "translation": "хөгжмийн зохиолч, композитор",
+    "hanja": "作曲者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작곡하다",
+    "translation": "хөгжим зохиох",
+    "hanja": "作曲하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작구",
+    "translation": "шүлэг, зохиолын ишлэл",
+    "hanja": "作句",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "작금",
+    "translation": "өнөө үе",
+    "hanja": "灼今",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작년",
+    "translation": "өнгөрсөн жил",
+    "hanja": "昨年",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "작다",
+    "translation": "жижиг",
+    "hanja": "작다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "작달막하다",
+    "translation": "намхан, давжаа",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작당",
+    "translation": "Хуйвалдах, бүлэглэх",
+    "hanja": "作黨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작당하다",
+    "translation": "Хамжлага болох, бүлэглэх",
+    "hanja": "作黨하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작동",
+    "translation": "ажиллагаа, ажиллах",
+    "hanja": "作動",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "작동되다",
+    "translation": "ажиллах",
+    "hanja": "作動되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작동하다",
+    "translation": "ажиллах, үйлчлэх",
+    "hanja": "作動하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "작두",
+    "translation": "цавчих хутга",
+    "hanja": "斫刀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작디",
+    "translation": "Маш жижиг",
+    "hanja": "",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "작디작다",
+    "translation": "маш жижигхэн",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "작렬",
+    "translation": "дэлбэрэлт; хүчтэй цохилт",
+    "hanja": "炸裂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작렬하다",
+    "translation": "дэлбэрэх",
+    "hanja": "炸裂하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작명",
+    "translation": "нэр өгөх",
+    "hanja": "作名",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "작명하다",
+    "translation": "нэр өгөх",
+    "hanja": "作名하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작문",
+    "translation": "Зохион бичлэг",
+    "hanja": "作文",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "작문하다",
+    "translation": "зохиох, бичих",
+    "hanja": "作文하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작물",
+    "translation": "ургац",
+    "hanja": "作物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작법",
+    "translation": "Бичих арга, найруулах арга",
+    "hanja": "作法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작별",
+    "translation": "салах ёс",
+    "hanja": "作別",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작별하다",
+    "translation": "Баяртай гэж хэлэх",
+    "hanja": "作別하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "작부",
+    "translation": "эмэгтэй ажилчин",
+    "hanja": "酌婦",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "작사",
+    "translation": "үг бичих",
+    "hanja": "作詞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작사하다",
+    "translation": "үг зохиох",
+    "hanja": "作詞하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작살",
+    "translation": "Гар хийцийн жад",
+    "hanja": "작살",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "작살나다",
+    "translation": "Эвдрэх, сүйтгэгдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작살내다",
+    "translation": "сүйрүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작성",
+    "translation": "Бичих",
+    "hanja": "作成",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작성되다",
+    "translation": "бичигдэх, боловсрогдох",
+    "hanja": "作成되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작성자",
+    "translation": "зохиогч",
+    "hanja": "作成者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "작성하다",
+    "translation": "бичих, боловсруулах",
+    "hanja": "作成하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "작심",
+    "translation": "шийдвэр гаргах",
+    "hanja": "作心",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "작심삼일",
+    "translation": "гурван өдрийн шийдвэр, түр зуурын шийдвэр",
+    "hanja": "作心三日",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작심하다",
+    "translation": "Шийдэх",
+    "hanja": "作心하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작약",
+    "translation": "сарнайн бадамлянхуа",
+    "hanja": "芍藥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작어",
+    "translation": "загас",
+    "hanja": "작어",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "작업",
+    "translation": "ажил",
+    "hanja": "作業",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "작업대",
+    "translation": "Ажлын тавцан",
+    "hanja": "作業臺",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "작업량",
+    "translation": "ажлын хэмжээ",
+    "hanja": "作業量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작업복",
+    "translation": "Ажлын хувцас",
+    "hanja": "作業服",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "작업실",
+    "translation": "ажлын өрөө",
+    "hanja": "作業室",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "작업자",
+    "translation": "ажилчин",
+    "hanja": "作業者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작업장",
+    "translation": "Ажлын байр, цех",
+    "hanja": "作業場",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "작업하다",
+    "translation": "ажиллах",
+    "hanja": "作業하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "작열",
+    "translation": "түлэгдэх",
+    "hanja": "灼熱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작열하다",
+    "translation": "Хөхрөх, гал шиг асах",
+    "hanja": "灼熱하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "작용",
+    "translation": "үйлчлэх",
+    "hanja": "作用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작용되다",
+    "translation": "үйлчлэх, нөлөөлөх",
+    "hanja": "作用되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작용하다",
+    "translation": "нөлөөлөх",
+    "hanja": "作用하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작위",
+    "translation": "цол",
+    "hanja": "爵位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작은놈",
+    "translation": "бяцхан хүү",
+    "hanja": "작은놈",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "작은누나",
+    "translation": "бага эгч (эрэгтэй хүний)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "작은따옴표",
+    "translation": "дан хашилт",
+    "hanja": "작은따옴표",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작은딸",
+    "translation": "бага охин",
+    "hanja": "작은딸",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "작은멋쟁이나비",
+    "translation": "Жижиг гоёхон эрвээхэй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작은방",
+    "translation": "жижиг өрөө",
+    "hanja": "작은房",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "작은북",
+    "translation": "жижиг бөмбөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "작은빨간집모기",
+    "translation": "жижиг улаан гэрийн шумуул",
+    "hanja": "작은빨간집모기",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "작은술",
+    "translation": "Цайны халбага",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "작은아버지",
+    "translation": "бага ах",
+    "hanja": "작은아버지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "작은어머니",
+    "translation": "бага ээж",
+    "hanja": "작은어머니",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "작은언니",
+    "translation": "бага эгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "작은엄마",
+    "translation": "жижиг ээж (аавын дүүтэй гэрлэсэн эгч)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "작은오빠",
+    "translation": "Бага ах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "작은집",
+    "translation": "Бяцхан байшин",
+    "hanja": "작은집",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "작은창자",
+    "translation": "нарийн гэдэс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작은할머니",
+    "translation": "ээг дүү, эцгийн дүү",
+    "hanja": "작은할머니",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "작은할아버지",
+    "translation": "авга ах",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "작은형",
+    "translation": "бага ах",
+    "hanja": "작은형",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "작자",
+    "translation": "зохиогч",
+    "hanja": "作者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "작작",
+    "translation": "хангалттай",
+    "hanja": "作作",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "작작하다",
+    "translation": "болгоомжтой байх, хэмжээгээ мэдэх",
+    "hanja": "作作하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작전",
+    "translation": "ажиллагаа",
+    "hanja": "作戰",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "작전하다",
+    "translation": "Ажиллагаа хийх, стратеги боловсруулах",
+    "hanja": "作戰하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작정",
+    "translation": "шийдвэр, төлөвлөгөө",
+    "hanja": "作定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작정되다",
+    "translation": "шийдэгдэх, төлөвлөгдөх",
+    "hanja": "作定—",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작정하다",
+    "translation": "Шийдэх, тогтох, төлөвлөх",
+    "hanja": "作定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작중",
+    "translation": "зохиолын дунд",
+    "hanja": "作中",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작태",
+    "translation": "үйлдэл",
+    "hanja": "作態",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작품",
+    "translation": "бүтээл",
+    "hanja": "作品",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "작품성",
+    "translation": "Уран бүтээлийн чанар",
+    "hanja": "作品性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작풍",
+    "translation": "ажлын хэв маяг",
+    "hanja": "作風",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작하다",
+    "translation": "болох",
+    "hanja": "作하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "작혼",
+    "translation": "Сүнсийг бүтээх",
+    "hanja": "作魂",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "작화",
+    "translation": "зураг зурах (манга, анимэ)",
+    "hanja": "作畫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "작황",
+    "translation": "ургац",
+    "hanja": "作況",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

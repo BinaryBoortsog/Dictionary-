@@ -1,0 +1,324 @@
+[
+  {
+    "word": "흉",
+    "translation": "Сорив",
+    "hanja": "凶",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흉가",
+    "translation": "аймшигтай байшин",
+    "hanja": "凶家",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "흉갑",
+    "translation": "цээжний хуяг",
+    "hanja": "胸甲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "흉강",
+    "translation": "цээжний хөндий",
+    "hanja": "胸腔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉계",
+    "translation": "муу санаа",
+    "hanja": "凶計",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉골",
+    "translation": "хөхний яс",
+    "hanja": "胸骨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉곽",
+    "translation": "цээжний хэнхдэг",
+    "hanja": "胸廓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉관",
+    "translation": "цээжний хоолой",
+    "hanja": "胸管",
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "흉금",
+    "translation": "сэтгэл, зүрх",
+    "hanja": "胸襟",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉기",
+    "translation": "Аюултай зэвсэг",
+    "hanja": "凶器",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "흉내",
+    "translation": "дуурайх, имитаци",
+    "hanja": "흉내",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흉년",
+    "translation": "муу ургацтай жил",
+    "hanja": "凶年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흉노",
+    "translation": "Хүннү",
+    "hanja": "匈奴",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉몽",
+    "translation": "муу зүүд",
+    "hanja": "凶夢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흉물",
+    "translation": "Аймаар зүйл",
+    "hanja": "凶物",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉물스럽다",
+    "translation": "муухай, жигшмээр",
+    "hanja": "凶物—",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉배",
+    "translation": "урвуу байрлал",
+    "hanja": "胸背",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉벽",
+    "translation": "Босоо хана, парапет",
+    "hanja": "胸壁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "흉보다",
+    "translation": "Муулах",
+    "hanja": "凶보다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "흉부",
+    "translation": "цээж",
+    "hanja": "胸部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흉부외과",
+    "translation": "цээжний мэс засал",
+    "hanja": "胸部外科",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉사",
+    "translation": "муу хэрэг, гай зовлон",
+    "hanja": "凶事",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉상",
+    "translation": "баримал цээж",
+    "hanja": "胸像",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉성",
+    "translation": "хөхний дуу, цээжний дуу",
+    "hanja": "胸聲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "흉쇄유돌근",
+    "translation": "Стерноклейдомастоид булчин",
+    "hanja": "胸鎖乳突筋",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "흉수",
+    "translation": "Муу ус, бохир ус",
+    "hanja": "凶水",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "흉심",
+    "translation": "муу санаа",
+    "hanja": "兇心",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "흉악",
+    "translation": "Хэрцгий, харгис",
+    "hanja": "凶惡",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "흉악범",
+    "translation": "аймшигт гэмт хэрэгтэн",
+    "hanja": "凶惡犯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉악하다",
+    "translation": "Харгис, аймшигтай",
+    "hanja": "凶惡하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉작",
+    "translation": "муу ургац",
+    "hanja": "凶作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흉조",
+    "translation": "муу ёр",
+    "hanja": "凶兆",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흉중",
+    "translation": "зүрх сэтгэл",
+    "hanja": "胸中",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉지",
+    "translation": "таагүй газар",
+    "hanja": "凶地",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉추",
+    "translation": "цээжний нуруу",
+    "hanja": "胸椎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉측하다",
+    "translation": "аймшигтай, муухай",
+    "hanja": "凶測—",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉칙",
+    "translation": "муухай",
+    "hanja": "凶勅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉터",
+    "translation": "сорви",
+    "hanja": "흉터",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "흉터투성이",
+    "translation": "соривтой",
+    "hanja": "흉터투성이",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흉통",
+    "translation": "цээж өвдөх",
+    "hanja": "胸痛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흉패",
+    "translation": "хүзүүний зүүлт",
+    "hanja": "胸牌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉포하다",
+    "translation": "хэрцгий, догшин",
+    "hanja": "凶暴-",
+    "pos": "형용사 (Adjective)",
+    "cefr": "B2"
+  },
+  {
+    "word": "흉폭",
+    "translation": "хэрцгий догшин",
+    "hanja": "凶暴",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉하다",
+    "translation": "муухай",
+    "hanja": "凶하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흉허물",
+    "translation": "Сэв",
+    "hanja": "凶허물",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흉흉하다",
+    "translation": "аймшигтай",
+    "hanja": "凶凶하다",
+    "pos": "adjective",
+    "cefr": "C2"
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "word": "폐",
+    "translation": "уушиг",
+    "hanja": "肺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폐가",
+    "translation": "хаягдсан байшин",
+    "hanja": "廢家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폐간",
+    "translation": "хэвлэлээ зогсоох",
+    "hanja": "廢刊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐간되다",
+    "translation": "хаагдах",
+    "hanja": "廢刊되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐간하다",
+    "translation": "хаах",
+    "hanja": "廢刊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐강",
+    "translation": "сургалтыг цуцлах",
+    "hanja": "廢講",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐강되다",
+    "translation": "хичээл цуцлагдах",
+    "hanja": "廢講되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐건전지",
+    "translation": "хуучин батерей",
+    "hanja": "廢乾電池",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폐결핵",
+    "translation": "уушгины сүрьеэ",
+    "hanja": "肺結核",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐경",
+    "translation": "цэвэршилт",
+    "hanja": "閉經",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐계",
+    "translation": "хаягдал тахиа",
+    "hanja": "廢雞",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "폐관",
+    "translation": "хаалттай танхим",
+    "hanja": "閉館",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐관하다",
+    "translation": "Хаах (байгууллага)",
+    "hanja": "閉館하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐광",
+    "translation": "уурхайн хаалт",
+    "hanja": "廢鑛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐광되다",
+    "translation": "уурхай хаагдах",
+    "hanja": "廢鑛되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐교",
+    "translation": "сургууль хаагдах",
+    "hanja": "廢校",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐교되다",
+    "translation": "сургууль хаагдах",
+    "hanja": "廢校되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐교하다",
+    "translation": "сургуулиа хаах",
+    "hanja": "廢校하다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐기되다",
+    "translation": "Хаягдах, хүчингүй болох",
+    "hanja": "廢棄되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐기물",
+    "translation": "хаягдал, хог хаягдал",
+    "hanja": "廢棄物",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐기하다",
+    "translation": "Хаях, устгах",
+    "hanja": "廢棄하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐단",
+    "translation": "муу муухай зүйл",
+    "hanja": "弊端",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐렴",
+    "translation": "Уушгины үрэвсэл",
+    "hanja": "肺炎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐막",
+    "translation": "хаалт",
+    "hanja": "閉幕",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐막되다",
+    "translation": "хаагдах",
+    "hanja": "閉幕되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐막식",
+    "translation": "хаалтын ёслол",
+    "hanja": "閉幕式",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐막하다",
+    "translation": "Хаах, дуусгах (хөшиг)",
+    "hanja": "閉幕하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐물",
+    "translation": "Хаягдал",
+    "hanja": "廢物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐백",
+    "translation": "хурим",
+    "hanja": "幣帛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐병",
+    "translation": "Уушигны өвчин",
+    "hanja": "肺病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐부",
+    "translation": "Уушги",
+    "hanja": "肺腑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐비",
+    "translation": "Харамжтай хатан, халагдсан хатан",
+    "hanja": "廢妃",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐사",
+    "translation": "манай компани",
+    "hanja": "弊社",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐사되다",
+    "translation": "үхэх",
+    "hanja": "斃死되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐사하다",
+    "translation": "үхэх (амьтан)",
+    "hanja": "斃死하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "폐색",
+    "translation": "бөглөрөл, хаалт",
+    "hanja": "閉塞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐선",
+    "translation": "ашиглалтаас гарсан зам",
+    "hanja": "廢線",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐쇄",
+    "translation": "хаалт",
+    "hanja": "閉鎖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐쇄되다",
+    "translation": "хаагдах",
+    "hanja": "閉鎖되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐쇄성",
+    "translation": "хаалттай байдал",
+    "hanja": "閉鎖性",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "폐쇄시키다",
+    "translation": "Хаах, битүүлэх",
+    "hanja": "閉鎖시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐쇄적",
+    "translation": "хаалттай, битүү",
+    "hanja": "閉鎖的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐쇄하다",
+    "translation": "Хаах",
+    "hanja": "閉鎖하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐수",
+    "translation": "Урьдчилсан ус",
+    "hanja": "廢水",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐습",
+    "translation": "муу зуршил, хуучирсан заншил",
+    "hanja": "弊習",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐암",
+    "translation": "уушгины хорт хавдар",
+    "hanja": "肺癌",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐업",
+    "translation": "үйл ажиллагааг зогсоох",
+    "hanja": "廢業(폐업)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐업하다",
+    "translation": "үйл ажиллагаагаа зогсоох",
+    "hanja": "廢業하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐역",
+    "translation": "хаалттай өртөө",
+    "hanja": "廢驛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐원",
+    "translation": "сургууль, эмнэлэг хаагдах",
+    "hanja": "閉院",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "폐원하다",
+    "translation": "эмнэлэг хаагдах",
+    "hanja": "閉院하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐위",
+    "translation": "хаан ширээнээс буулгах",
+    "hanja": "廢位",
+    "pos": "name",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐위되다",
+    "translation": "хаан ширээнээс буух",
+    "hanja": "廢位되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "폐위하다",
+    "translation": "хаан ширээнээс буулгах",
+    "hanja": "廢位하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐유",
+    "translation": "хаягдал тос",
+    "hanja": "廢油",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "өөдгүй хүн",
+    "hanja": "廢人",
+    "pos": "명사",
+    "cefr": "C1",
+    "word": "폐인"
+  },
+  {
+    "word": "폐장",
+    "translation": "хаагдах",
+    "hanja": "閉場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐장되다",
+    "translation": "хаагдах",
+    "hanja": "閉場되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐장하다",
+    "translation": "хаах",
+    "hanja": "閉場하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐점",
+    "translation": "хаалт, хаалттай дэлгүүр",
+    "hanja": "閉店",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐점하다",
+    "translation": "хаагдах",
+    "hanja": "閉店하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폐정",
+    "translation": "төрийн үйл ажиллагааг зогсоох",
+    "hanja": "廢政",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "폐족",
+    "translation": "гэр бүлийн нэр хүнд унах",
+    "hanja": "廢族",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "폐주",
+    "translation": "хаягдсан нохой",
+    "hanja": "廢主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐지",
+    "translation": "татгалзах",
+    "hanja": "廢止",
+    "pos": "명사, 동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폐지되다",
+    "translation": "Татгалзагдах, цуцлагдах",
+    "hanja": "廢止되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐지하다",
+    "translation": "хасах",
+    "hanja": "廢止-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐차",
+    "translation": "машин хаях",
+    "hanja": "廢車",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폐차되다",
+    "translation": "хуучин машин болж хаягдах",
+    "hanja": "廢車되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐차장",
+    "translation": "хуучин машины хашаа",
+    "hanja": "廢車場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폐차하다",
+    "translation": "хуучин машин устгах",
+    "hanja": "廢車하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "폐출되다",
+    "translation": "хаягдах",
+    "hanja": "廢黜되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "폐포",
+    "translation": "Уушигны цэврүү",
+    "hanja": "肺胞",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "폐품",
+    "translation": "хог хаягдал",
+    "hanja": "廢品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "폐하",
+    "translation": "Эзэн хаан (албан ёсны дуудлага)",
+    "hanja": "陛下",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐하다",
+    "translation": "халах",
+    "hanja": "廢하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐해",
+    "translation": "хор хөнөөл",
+    "hanja": "弊害",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐허",
+    "translation": "Туурь",
+    "hanja": "廢墟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐활량",
+    "translation": "уушигны багтаамж",
+    "hanja": "肺活量",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "폐회",
+    "translation": "хаалт",
+    "hanja": "閉會",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "폐회식",
+    "translation": "хаалтын ажиллагаа",
+    "hanja": "閉會式",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

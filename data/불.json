@@ -1,0 +1,2487 @@
+[
+  {
+    "word": "불",
+    "translation": "гал",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "불가",
+    "translation": "боломжгүй",
+    "hanja": "不可",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "불가결하다",
+    "translation": "зайлшгүй",
+    "hanja": "不可決하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불가능",
+    "translation": "Боломжгүй",
+    "hanja": "不可能",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "불가능하다",
+    "translation": "боломжгүй",
+    "hanja": "不可能하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불가리아",
+    "translation": "Болгар",
+    "hanja": "불가리아",
+    "pos": "нэр",
+    "cefr": "A2"
+  },
+  {
+    "word": "불가마",
+    "translation": "зуух, халуун зуух",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "불가분",
+    "translation": "салгаж үл болох",
+    "hanja": "不可分",
+    "pos": "관형사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불가사리",
+    "translation": "Далайн од",
+    "hanja": "不可殺이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불가사의",
+    "translation": "үл ойлгогдох",
+    "hanja": "不可思議",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불가사의하다",
+    "translation": "гайхамшигтай, учир битүүлэг",
+    "hanja": "不可思議하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불가살이",
+    "translation": "алж чадахгүй",
+    "hanja": "不可殺이",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불가촉천민",
+    "translation": "хүршгүй давхарга",
+    "hanja": "不可觸賤民",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "불가피성",
+    "translation": "зайлшгүй байдал",
+    "hanja": "不可避性",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불가피하다",
+    "translation": "зайлшгүй",
+    "hanja": "不可避하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "불가하다",
+    "translation": "боломжгүй байх",
+    "hanja": "不可하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불가항력",
+    "translation": "даван туулах боломжгүй хүч",
+    "hanja": "不可抗力",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "불가항력적",
+    "translation": "давж гарах аргагүй",
+    "hanja": "不可抗力的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불같다",
+    "translation": "гал шиг (халуун, хурц)",
+    "hanja": "불같다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "불개미",
+    "translation": "Улаан шоргоолж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불건강하다",
+    "translation": "эрүүл бус байх",
+    "hanja": "不健康하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불건전하다",
+    "translation": "эрүүл бус, зөв бус",
+    "hanja": "不健全하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불결",
+    "translation": "цэвэр бус, бохир",
+    "hanja": "不潔",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불결하다",
+    "translation": "бохир, цэвэр бус",
+    "hanja": "不潔하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불경",
+    "translation": "Эдийн засгийн уналт",
+    "hanja": "不景",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불경기",
+    "translation": "эдийн засгийн хямрал",
+    "hanja": "不景氣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불경스럽다",
+    "translation": "хүндэтгэлгүй",
+    "hanja": "不敬스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불경죄",
+    "translation": "бурхныг доромжилсон хэрэг (Шашин)",
+    "hanja": "不敬罪",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불경하다",
+    "translation": "Хүндэтгэлгүй, ёс бус",
+    "hanja": "不敬하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불계",
+    "translation": "дийлдэхгүй",
+    "hanja": "不計",
+    "pos": "NNG",
+    "cefr": "C1"
+  },
+  {
+    "word": "불고기",
+    "translation": "булгуги (Солонгос хоол)",
+    "hanja": "불고기",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "불고깃집",
+    "translation": "булгогины газар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "불곰",
+    "translation": "Хүрэн баавгай",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "불공",
+    "translation": "бурханд өргөх мөргөл",
+    "hanja": "佛供",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불공드리다",
+    "translation": "Буян үйлдэх, мөргөл үйлдэх",
+    "hanja": "佛供드리다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불공정",
+    "translation": "шударга бус",
+    "hanja": "不公正",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불공정하다",
+    "translation": "шударга бус",
+    "hanja": "不公正하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불공평",
+    "translation": "шударга бус, тэнцвэргүй",
+    "hanja": "不公平",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불공평하다",
+    "translation": "Шудрага бус",
+    "hanja": "不公平하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "불과하다",
+    "translation": "Зүгээр л..., л байна",
+    "hanja": "不過하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불광",
+    "translation": "Бурханы гэрэл",
+    "hanja": "佛光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불교",
+    "translation": "буддын шашин",
+    "hanja": "佛敎",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불구",
+    "translation": "хөгжлийн бэрхшээлтэй",
+    "hanja": "不具",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불구경",
+    "translation": "гал",
+    "hanja": "불구경(火—)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불구경하다",
+    "translation": "гал үзэх",
+    "hanja": "불具景하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불구대천",
+    "translation": "дайсагнал, үхэх хүртэлх дайсагнал",
+    "hanja": "不俱戴天",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불구덩이",
+    "translation": "галын нүх",
+    "hanja": "불구덩이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불구속",
+    "translation": "барьцаагүй",
+    "hanja": "不拘束",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불구자",
+    "translation": "хөгжлийн бэрхшээлтэй хүн",
+    "hanja": "不具者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불구하다",
+    "translation": "үл харгалзан",
+    "hanja": "不拘하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불국",
+    "translation": "Буддын орон",
+    "hanja": "佛國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불국사",
+    "translation": "Булгүгса",
+    "hanja": "佛國寺",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "불굴",
+    "translation": "шанхайдаггүй",
+    "hanja": "不屈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불귀",
+    "translation": "буцаж ирэхгүй",
+    "hanja": "不歸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불규칙",
+    "translation": "тогтмол бус",
+    "hanja": "不規則",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "불규칙성",
+    "translation": "жигд бус байдал",
+    "hanja": "不規則性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불규칙적",
+    "translation": "тогтмол бус",
+    "hanja": "不規則的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "불규칙하다",
+    "translation": "тогтмол бус",
+    "hanja": "不規則하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불균일하다",
+    "translation": "жигд бус, тэгш бус",
+    "hanja": "不均一하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불균형",
+    "translation": "тэнцвэргүй байдал",
+    "hanja": "不均衡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불균형하다",
+    "translation": "тэнцвэргүй байх",
+    "hanja": "不均衡하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불그레하다",
+    "translation": "улаавтар",
+    "hanja": "불그레하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불그리하다",
+    "translation": "урайнхай",
+    "hanja": "붉으리하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불그스레하다",
+    "translation": "улаавтар",
+    "hanja": "불그스레하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불그스름하다",
+    "translation": "улаавтар",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불그죽죽하다",
+    "translation": "Улаавтар, улаан хүрэн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불금",
+    "translation": "баасан",
+    "hanja": "不金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불긋불긋하다",
+    "translation": "улаан ягаан өнгөтэй байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불기둥",
+    "translation": "галын багана",
+    "hanja": "불기둥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불기소",
+    "translation": "шүүхэд өгөхгүй байх",
+    "hanja": "不起訴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불기소되다",
+    "translation": "хэрэгсэхгүй болгох",
+    "hanja": "不起訴되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "불기소하다",
+    "translation": "Хэрэгсэхгүй болгох",
+    "hanja": "不起訴하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "불기운",
+    "translation": "гал гарах шинж тэмдэг",
+    "hanja": "불氣運",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불길",
+    "translation": "дөл",
+    "hanja": "불길",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불길하다",
+    "translation": "муу ёртой",
+    "hanja": "不吉하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불꽃",
+    "translation": "гал",
+    "hanja": "불꽃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불꽃같다",
+    "translation": "дөл адил",
+    "hanja": "불꽃같다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불꽃놀이",
+    "translation": "галын наадам, салют",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불꽃놀이하다",
+    "translation": "гэрэлтэх",
+    "hanja": null,
+    "pos": "VV",
+    "cefr": "B1"
+  },
+  {
+    "word": "불끈",
+    "translation": "гэнэт, хүчтэйгээр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불끈거리다",
+    "translation": "уурлах, хүчтэй хөдлөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불끈불끈",
+    "translation": "гүдс гүдс",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불끈불끈하다",
+    "translation": "Огцом босох",
+    "hanja": null,
+    "pos": "Үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "불끈하다",
+    "translation": "гэнэт уурлах, гэнэт уурлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불나다",
+    "translation": "гал гарах",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "불낙",
+    "translation": "булнаг; үхрийн махан шөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불내다",
+    "translation": "гал гаргах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불능",
+    "translation": "чадваргүй",
+    "hanja": "不能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불다",
+    "translation": "үлэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "불단",
+    "translation": "бурхны тахил",
+    "hanja": "佛壇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불당",
+    "translation": "бурханы сүм",
+    "hanja": "佛堂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불덕",
+    "translation": "буянгүй",
+    "hanja": "不德",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불덩어리",
+    "translation": "галтай бөөгнөрөл",
+    "hanja": "불덩어리",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불덩이",
+    "translation": "Галт бөмбөг",
+    "hanja": "불덩이",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "불도",
+    "translation": "бурханы шашин",
+    "hanja": "佛道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불도그",
+    "translation": "бульдог",
+    "hanja": "불도그",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "불도장",
+    "translation": "бурханы өлмий",
+    "hanja": "佛跳牆",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "불도저",
+    "translation": "бульдозер",
+    "hanja": "bulldozer",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "불독",
+    "translation": "бульдог",
+    "hanja": "bulldog",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불떡",
+    "translation": "гэнэтийн цохилт",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "불똥",
+    "translation": "Гал, оч",
+    "hanja": "불똥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불뚝",
+    "translation": "гэнэт хөөрөх",
+    "hanja": "불뚝",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불란서",
+    "translation": "Франц (хуучирсан)",
+    "hanja": "佛蘭西",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불랑",
+    "translation": "хэсэг, яриа",
+    "hanja": "不良",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불량",
+    "translation": "чанаргүй",
+    "hanja": "不良",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불량배",
+    "translation": "дээрэмчин",
+    "hanja": "不良輩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불량스럽다",
+    "translation": "муу муухай, өвөрмөц",
+    "hanja": "不良-",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불량자",
+    "translation": "муу хүн, дээрэмчин",
+    "hanja": "不良者",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불량품",
+    "translation": "голоогтой бараа",
+    "hanja": "不良品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불량하다",
+    "translation": "Муу, хууль бус",
+    "hanja": "不良하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불러내다",
+    "translation": "Дуудах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "불러들이다",
+    "translation": "дуудах, татах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불러올리다",
+    "translation": "Дуудах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불러일으키다",
+    "translation": "Өдөөх, уриалах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불로불사",
+    "translation": "үхэшгүй мөнх",
+    "hanja": "不老不死",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "불로장생",
+    "translation": "Мөнхийн залуу нас, урт наслах",
+    "hanja": "不老長生",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "불로초",
+    "translation": "мөнхийн өвс",
+    "hanja": "不老草",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불룩",
+    "translation": "түнхийх, овойх",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "불룩하다",
+    "translation": "Тунгалаг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불류다",
+    "translation": "Цацах, тараах (хуучирсан хэлбэр)",
+    "hanja": "不流多",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불륜",
+    "translation": "гэрлэлтээс гадуурх харилцаа",
+    "hanja": "不倫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불륜하다",
+    "translation": "гэрлэлтийн гаднах харилцаатай байх",
+    "hanja": "不倫하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불리",
+    "translation": "ашиггүй, хүнд",
+    "hanja": "不利",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불리다",
+    "translation": "Дуудагдах",
+    "hanja": "불리다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "불리우다",
+    "translation": "дуудуулах, нэрлэгдэх",
+    "hanja": "불리우다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "불리하다",
+    "translation": "таагүй",
+    "hanja": "不利하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불릿",
+    "translation": "суман тэмдэг, буудлага",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "불만",
+    "translation": "сэтгэл ханамжгүй байдал",
+    "hanja": "不滿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불만스럽다",
+    "translation": "сэтгэл хангалуун бус",
+    "hanja": "不滿스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불만스레",
+    "translation": "сэтгэл хангалуун бус",
+    "hanja": "不滿스레",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "불만족",
+    "translation": "сэтгэл ханамжгүй",
+    "hanja": "不滿足",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "불만족스럽다",
+    "translation": "Сэтгэл хангалуун бус байх",
+    "hanja": "不滿足스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불만족하다",
+    "translation": "сэтгэл хангалуун бус байх",
+    "hanja": "不滿足하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불만하다",
+    "translation": "Сэтгэл хангалуун бус байх",
+    "hanja": "不滿하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불매",
+    "translation": "худалдаж авахгүй байх",
+    "hanja": "不買",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불매하다",
+    "translation": "Худалдан авахгүй байх",
+    "hanja": "不買하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "불면증",
+    "translation": "Нойргүйдэл",
+    "hanja": "不眠症",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불멸",
+    "translation": "мөнх бус",
+    "hanja": "不滅",
+    "pos": "мüns",
+    "cefr": "C1"
+  },
+  {
+    "word": "불멸하다",
+    "translation": "мөнх бус байх",
+    "hanja": "不滅하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불명",
+    "translation": "үл мэдэгдэх",
+    "hanja": "不明",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불명예",
+    "translation": "Ичгүүр",
+    "hanja": "不名譽",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "불명예스럽다",
+    "translation": "ичгүүртэй",
+    "hanja": "不名譽스럽다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "불명하다",
+    "translation": "Тодорхойгүй",
+    "hanja": "不明하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불명확하다",
+    "translation": "тодорхойгүй",
+    "hanja": "不明確하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불모",
+    "translation": "үржил шимгүй, үргүй",
+    "hanja": "不毛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불모지",
+    "translation": "үржил шимгүй газар",
+    "hanja": "不毛地",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "불문",
+    "translation": "Франц хэл",
+    "hanja": "불문(佛文)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불문율",
+    "translation": "бичигдээгүй хууль",
+    "hanja": "不文律",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불문하다",
+    "translation": "үл хамаарах, үл өөрчлөгдөх",
+    "hanja": "不問하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불미스럽다",
+    "translation": "таагүй",
+    "hanja": "不美스럽다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "불민하다",
+    "translation": "Ухаан муутай, чадваргүй",
+    "hanja": "不敏하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불바다",
+    "translation": "гал тэнгис",
+    "hanja": "불바다",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불발",
+    "translation": "буруудах, бүтэлгүйтэх",
+    "hanja": "不發",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불발되다",
+    "translation": "амжилтгүй болох, биелэхгүй байх",
+    "hanja": "不發되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "불발탄",
+    "translation": "дэлбэрээгүй бөмбөг",
+    "hanja": "不發彈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불뱀",
+    "translation": "галт могой",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불법",
+    "translation": "хууль бус",
+    "hanja": "不法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불법적",
+    "translation": "хууль бус",
+    "hanja": "不法的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불법하다",
+    "translation": "хууль бус",
+    "hanja": "不法하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불법화하다",
+    "translation": "хууль бус болгох",
+    "hanja": "不法化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불벼락",
+    "translation": "аянга",
+    "hanja": "불벼락",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불벽",
+    "translation": "гал хана",
+    "hanja": "不璧",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불변",
+    "translation": "хувиршгүй",
+    "hanja": "不變",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불변성",
+    "translation": "хувирамтгай бус байдал",
+    "hanja": "不變性",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "불변하다",
+    "translation": "хувирамтгай бус байх",
+    "hanja": "不變하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불볕",
+    "translation": "Наран шаргал",
+    "hanja": "불볕",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "불볕더위",
+    "translation": "халуун нарны халуун",
+    "hanja": "불볕더위",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "불복",
+    "translation": "дуулгаваргүй байх, үл зөвшөөрөх",
+    "hanja": "不服",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "불복종",
+    "translation": "дуулгаваргүй байдал",
+    "hanja": "不服從",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불복종하다",
+    "translation": "үл дуулгавартай байх",
+    "hanja": "不服從하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "불복하다",
+    "translation": "дуулгаваргүй байх",
+    "hanja": "不服하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불본행집경",
+    "translation": "Буддын шашны ном (нэр)",
+    "hanja": "佛本行集經",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불분명하다",
+    "translation": "тодорхойгүй",
+    "hanja": "不分明하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불붙다",
+    "translation": "гал авалцах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불붙이다",
+    "translation": "гал тавих",
+    "hanja": "불붙이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불빛",
+    "translation": "Гэрлийн туяа",
+    "hanja": "불빛",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "불사",
+    "translation": "үл үхэх",
+    "hanja": "不死",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불사르다",
+    "translation": "шатаах",
+    "hanja": "불사르다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불사신",
+    "translation": "үл үхэгч",
+    "hanja": "不死身",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "불사조",
+    "translation": "Феникс",
+    "hanja": "不死鳥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불사하다",
+    "translation": "амиа золих, үхлээс айхгүй байх",
+    "hanja": "不辭-하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "불산",
+    "translation": "Устөрөгчийн фтор",
+    "hanja": "弗酸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불상",
+    "translation": "бурхан",
+    "hanja": "佛像",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불상사",
+    "translation": "Харамсалтай явдал",
+    "hanja": "不祥事",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불새",
+    "translation": "Гал шувуу",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "불성",
+    "translation": "буддын шашин, буруу зан",
+    "hanja": "佛性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불성실",
+    "translation": "үнэнч бус байдал",
+    "hanja": "不誠實",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불성실하다",
+    "translation": "үл үнэнч",
+    "hanja": "不誠實하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불세출",
+    "translation": "ховор, онцгой, хосгүй",
+    "hanja": "不世出",
+    "pos": "관형사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불소",
+    "translation": "фтор",
+    "hanja": "弗素",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불손하다",
+    "translation": "үл хүндэтгэсэн, хүндэтгэлгүй",
+    "hanja": "不遜하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불수",
+    "translation": "Пудда (жимс)",
+    "hanja": "佛手",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불순",
+    "translation": "цэвэр бус, бохир",
+    "hanja": "不純",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불순물",
+    "translation": "хольц, хог хаягдал",
+    "hanja": "不純物",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "불순분자",
+    "translation": "бусармаг элемент",
+    "hanja": "不純分子",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불순종하다",
+    "translation": "Дуулгаваргүй байх",
+    "hanja": "不順從-",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "불순하다",
+    "translation": "хольцтой",
+    "hanja": "不純하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불시",
+    "translation": "гэнэтийн",
+    "hanja": "不時",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "불시착",
+    "translation": "ороогүй газар буух",
+    "hanja": "不時着",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불시착하다",
+    "translation": "Яаралтай буух",
+    "hanja": "不時着하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불식",
+    "translation": "хийлгэх",
+    "hanja": "拂拭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불식되다",
+    "translation": "арилгах",
+    "hanja": "拂拭되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불식하다",
+    "translation": "арилгах",
+    "hanja": "拂拭하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불신",
+    "translation": "үл итгэх",
+    "hanja": "不信",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불신감",
+    "translation": "итгэлгүй байдал",
+    "hanja": "不信感",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "불신자",
+    "translation": "үмээртэн",
+    "hanja": "不信者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불신하다",
+    "translation": "үл итгэх, үл итгэлцэх",
+    "hanja": "不信하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불심",
+    "translation": "бурханы сэтгэл",
+    "hanja": "佛心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불쌍하다",
+    "translation": "өрөвдөх",
+    "hanja": "불쌍하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불쌍히",
+    "translation": "өрөвдөн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불쏘시개",
+    "translation": "гал түлэх мод",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불쑥",
+    "translation": "гэнэт",
+    "hanja": "불쑥",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불쑥불쑥",
+    "translation": "Гэнэт гэнэт",
+    "hanja": "불쑥불쑥",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불씨",
+    "translation": "Цог, гал цог",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불안",
+    "translation": "айдас",
+    "hanja": "不安",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "불안감",
+    "translation": "сэтгэл түгших",
+    "hanja": "不安感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불안불안하다",
+    "translation": "тогтворгүй, эргэлзээтэй",
+    "hanja": "不安不安하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "불안스럽다",
+    "translation": "түгшүүртэй",
+    "hanja": "不安스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불안전하다",
+    "translation": "найдваргүй, аюулгүй бус байх",
+    "hanja": "不安全하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불안정",
+    "translation": "Тогтворгүй байдал",
+    "hanja": "不安定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불안정성",
+    "translation": "тогтворгүй байдал",
+    "hanja": "不安定性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불안정하다",
+    "translation": "тогтворгүй",
+    "hanja": "不安定하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불안증",
+    "translation": "сэтгэлийн түгшүүр, айдас",
+    "hanja": "不安症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불안하다",
+    "translation": "тайван бус",
+    "hanja": "不安하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "불알",
+    "translation": "төмсөг",
+    "hanja": "―",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "불암",
+    "translation": "Бурам (нурууны нэр)",
+    "hanja": "佛岩",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "불야성",
+    "translation": "шөнийн гэрлээр гялалзах хот",
+    "hanja": "不夜城",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불어",
+    "translation": "франц хэл",
+    "hanja": "佛語",
+    "pos": "명사 (Noun)",
+    "cefr": "A1"
+  },
+  {
+    "word": "불어나다",
+    "translation": "нэмэгдэх",
+    "hanja": "불어나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불어넣다",
+    "translation": "хүч оруулах, сүнс хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불어닥치다",
+    "translation": "үлээх (салхи)",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불어먹다",
+    "translation": "амьсгалах, үлээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불여우",
+    "translation": "улаан үнэг",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "불여일견",
+    "translation": "нэг үзсэн нь мянган сонсохоос дээр",
+    "hanja": "不如一見",
+    "pos": "idiom",
+    "cefr": "C1"
+  },
+  {
+    "word": "불연성",
+    "translation": "шатамхай бус",
+    "hanja": "不燃性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불연속",
+    "translation": "тасралтгүй",
+    "hanja": "不連續",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불연속적",
+    "translation": "тасралтгүй бус",
+    "hanja": "不連續的",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불온하다",
+    "translation": "жигшүүртэй",
+    "hanja": "不穩하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "불완전",
+    "translation": "Бүрэн бус, дутуу",
+    "hanja": "不完全",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불완전하다",
+    "translation": "Дутуу",
+    "hanja": "不完全하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불요불급하다",
+    "translation": "шаардлагагүй, яаралтай биш",
+    "hanja": "不要不急하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "불용",
+    "translation": "хэрэглэгдэхгүй",
+    "hanja": "不用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불우",
+    "translation": "азгүй, хүнд хэцүү",
+    "hanja": "不遇",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불우하다",
+    "translation": "Х어цгүй, азгүй, гашуудсан",
+    "hanja": "不遇하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불운",
+    "translation": "азгүй байдал, харамсалтай",
+    "hanja": "不運",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불운하다",
+    "translation": "азгүй, хувь дутуу",
+    "hanja": "不運하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불원",
+    "translation": "өдгөөгөөс үл хол",
+    "hanja": "不遠",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불유쾌하다",
+    "translation": "таагүй, сэтгэлд таагүй",
+    "hanja": "不愉快하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불응",
+    "translation": "татгалзах, үл зөвшөөрөх",
+    "hanja": "不應",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불응하다",
+    "translation": "Татгалзах, зөвшөөрөхгүй байх",
+    "hanja": "不應하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불의",
+    "translation": "шударга бус байдал",
+    "hanja": "不義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불의하다",
+    "translation": "шударга бус байх",
+    "hanja": "不義하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불이",
+    "translation": "Нэгдэл, нэгдмэл байдал",
+    "hanja": "不二",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불이다",
+    "translation": "гал",
+    "hanja": "불이다",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "불이익",
+    "translation": "хохирол",
+    "hanja": "不利益",
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "불이익하다",
+    "translation": "хор хөнөөлтэй",
+    "hanja": "不利益하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불이행",
+    "translation": "биелүүлээгүй",
+    "hanja": "不履行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불이행하다",
+    "translation": "биелүүлэхгүй байх",
+    "hanja": "不履行하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불일치",
+    "translation": "үл нийцэх байдал",
+    "hanja": "不一致",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불일치하다",
+    "translation": "үл нийцэх, зөрөх",
+    "hanja": "不一致하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불임",
+    "translation": "үр тогтоох чадваргүй, ариутгал",
+    "hanja": "不妊",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "불자",
+    "translation": "буддын шашинтай хүн",
+    "hanja": "佛子",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불장",
+    "translation": "Галын талбай",
+    "hanja": "불장",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불장난",
+    "translation": "гал наадах, гал гаргах",
+    "hanja": "불장난",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불장난하다",
+    "translation": "галтай тоглох",
+    "hanja": "불장난하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "불전",
+    "translation": "буддын сургаал",
+    "hanja": "佛典",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불제",
+    "translation": "бурханы шашны зүй тогтол",
+    "hanja": "佛制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불제자",
+    "translation": "бурханы шашинт лам",
+    "hanja": "佛弟子",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "불조심하다",
+    "translation": "галаас болгоомжлох",
+    "hanja": "불조심하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "불질",
+    "translation": "гал тавих",
+    "hanja": "불질",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불질하다",
+    "translation": "гал тавих, шатаах",
+    "hanja": "火―하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불찰",
+    "translation": "харалган, алдаа",
+    "hanja": "不察",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불참",
+    "translation": "оролцохгүй байх",
+    "hanja": "不參",
+    "pos": "мüns",
+    "cefr": "B1"
+  },
+  {
+    "word": "불참하다",
+    "translation": "оролцохгүй байх",
+    "hanja": "不參하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불철주야",
+    "translation": "шөнөгүй",
+    "hanja": "不撤晝夜",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불청",
+    "translation": "Урилгагүй, зөвшөөрөлгүй",
+    "hanja": "不請",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불청객",
+    "translation": "Урилгагүй зочин",
+    "hanja": "不請客",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불초",
+    "translation": "эцгээ дууриагаагүй хүү",
+    "hanja": "不肖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불출",
+    "translation": "гаргахгүй байх",
+    "hanja": "不出",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불출마",
+    "translation": "нэр дэвшихгүй байх",
+    "hanja": "不出馬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불출마하다",
+    "translation": "Нэрээ татах",
+    "hanja": "不出馬-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불출석하다",
+    "translation": "таслах",
+    "hanja": "不出席하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불충",
+    "translation": "үл үнэнч",
+    "hanja": "不忠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불충분",
+    "translation": "Хангалтгүй",
+    "hanja": "不充分",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불충분하다",
+    "translation": "хангалтгүй",
+    "hanja": "不充分하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불충하다",
+    "translation": "Үнэнч бус байх",
+    "hanja": "不忠하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불측하다",
+    "translation": "таашгүй",
+    "hanja": "不測하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불치",
+    "translation": "эмчлэх боломжгүй",
+    "hanja": "不治",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "불치병",
+    "translation": "эдгэшгүй өвчин",
+    "hanja": "不治病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불친절",
+    "translation": "эелдэг бус",
+    "hanja": "불친절(不親切)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불친절하다",
+    "translation": "Эелдэг бус байх",
+    "hanja": "不親切하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불침번",
+    "translation": "шөнийн манаа, сэрүүн манаа",
+    "hanja": "不寢番",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불콰하다",
+    "translation": "улайлгах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불쾌",
+    "translation": "таагүй, эвгүй",
+    "hanja": "不快",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불쾌감",
+    "translation": "Таагүй мэдрэмж",
+    "hanja": "不快感",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "불쾌지수",
+    "translation": "таагүй байдлын индекс",
+    "hanja": "不快指數",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불쾌하다",
+    "translation": "таагүй",
+    "hanja": "不快하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "불키다",
+    "translation": "гэрэл асаах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "불타다",
+    "translation": "шатах, дүрэлзэх",
+    "hanja": "불-",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "불타오르다",
+    "translation": "шатах, үлээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불탑",
+    "translation": "бурханы суварга",
+    "hanja": "佛塔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불태우다",
+    "translation": "шатаах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불토",
+    "translation": "галт шороо",
+    "hanja": "佛土",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "불통",
+    "translation": "харилцаа тасрах",
+    "hanja": "不通",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불통되다",
+    "translation": "холбоо тасрах, харилцаа тасрах",
+    "hanja": "不通되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불투명",
+    "translation": "тунгалаг бус",
+    "hanja": "不透明",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불투명하다",
+    "translation": "тунгалаг бус",
+    "hanja": "不透明하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불퉁거리다",
+    "translation": "хөмсөг зангидах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불퉁하다",
+    "translation": "уурлах, дургүйцэх",
+    "hanja": "불퉁하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불특정",
+    "translation": "тодорхойгүй, тодорхой бус",
+    "hanja": "不特定",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불특정하다",
+    "translation": "тодорхойгүй",
+    "hanja": "不特定하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불티",
+    "translation": "оч",
+    "hanja": "불티",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불티나다",
+    "translation": "гал шиг хурдан зарагдах, амжилттай байх",
+    "hanja": "불티나다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "불판",
+    "translation": "галын тавиур",
+    "hanja": "불판",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "불패",
+    "translation": "Ялагдашгүй",
+    "hanja": "不敗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불펜",
+    "translation": "Булпен (бэйсболын талбай)",
+    "hanja": "불펜",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "불편",
+    "translation": "Тав тухгүй байдал",
+    "hanja": "不便",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "불편하다",
+    "translation": "эвгүй байх, тухгүй байх",
+    "hanja": "不便하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "불평",
+    "translation": "гомдол, дургүйцэл",
+    "hanja": "不平",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불평등",
+    "translation": "тэгш бус байдал",
+    "hanja": "不平等",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불평등하다",
+    "translation": "Тэгш бус, ялгавартай",
+    "hanja": "不平等하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불평불만",
+    "translation": "гомдол, дургүйцэл",
+    "hanja": "不平不滿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불평하다",
+    "translation": "гомдоллох",
+    "hanja": "不平하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "불포화",
+    "translation": "ханаагүй",
+    "hanja": "不飽和",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불필요하다",
+    "translation": "шаардлагагүй байх",
+    "hanja": "不必要하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불한당",
+    "translation": "дээрэмчин",
+    "hanja": "不汗黨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불합격",
+    "translation": "тэнцээгүй",
+    "hanja": "不合格",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불합격되다",
+    "translation": "тэнцэхгүй байх",
+    "hanja": "不合格되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불합격하다",
+    "translation": "шалгуурт тэнцэхгүй байх",
+    "hanja": "不合格하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "불합리",
+    "translation": "үндэслэлгүй",
+    "hanja": "不合理",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불합리하다",
+    "translation": "утгагүй, үндэслэлгүй",
+    "hanja": "不合理-",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불행",
+    "translation": "азгүй, аз жаргалгүй",
+    "hanja": "不幸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불행하다",
+    "translation": "азгүй",
+    "hanja": "不幸하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불행히",
+    "translation": "харамсалтай нь",
+    "hanja": "不幸히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불향",
+    "translation": "утсан үнэр",
+    "hanja": "불香",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불허",
+    "translation": "Зөвшөөрөхгүй",
+    "hanja": "不許",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불허되다",
+    "translation": "зөвшөөрөхгүй байх",
+    "hanja": "不許되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불허하다",
+    "translation": "зөвшөөрөхгүй байх, хориглох",
+    "hanja": "不許하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불현듯",
+    "translation": "санаандгүй, гэнэт",
+    "hanja": "不顯듯",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불협",
+    "translation": "үл нийцэх, зөрчилдөх",
+    "hanja": "不協",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불협화음",
+    "translation": "үл эвлэрэх авиа",
+    "hanja": "不協和音",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불호",
+    "translation": "сэтгэл хангалуун бус",
+    "hanja": "不呼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불호하다",
+    "translation": "Таалагдахгүй байх",
+    "hanja": "不好하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불혹",
+    "translation": "дөчин настай",
+    "hanja": "不惑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "불화",
+    "translation": "Үл зохицох",
+    "hanja": "不和",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불화하다",
+    "translation": "үгүй хийх, устгах; эвгүй байдалтай байх",
+    "hanja": "不和하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불확실",
+    "translation": "тодорхойгүй",
+    "hanja": "不確實",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불확실성",
+    "translation": "Тодорхой бус байдал",
+    "hanja": "不確實性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불확실하다",
+    "translation": "тодорхойгүй",
+    "hanja": "不確實하다",
+    "pos": "т.н",
+    "cefr": "B1"
+  },
+  {
+    "word": "불황",
+    "translation": "эдийн засгийн хямрал",
+    "hanja": "不況",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "불효",
+    "translation": "үүндэн, үл хүндэтгэх",
+    "hanja": "不孝",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "불효막심하다",
+    "translation": "үл хүндэтгэх",
+    "hanja": "不孝莫甚하다",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "불효자",
+    "translation": "аягүй хүү",
+    "hanja": "不孝子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "불효하다",
+    "translation": "үл хүндэтгэх",
+    "hanja": "不孝하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "불후",
+    "translation": "мөнхийн, мартагдашгүй",
+    "hanja": "不朽",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

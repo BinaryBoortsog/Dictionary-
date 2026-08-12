@@ -1,0 +1,499 @@
+[
+  {
+    "word": "게",
+    "translation": "хавч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "게거품",
+    "translation": "хөөс",
+    "hanja": "게거품",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "게걸스럽다",
+    "translation": "Шунахай, залхуу",
+    "hanja": "게걸스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "게걸스레",
+    "translation": "Идэмхий, шунахай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "게걸음",
+    "translation": "хавчны алхаа, хажуугаар явах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "게놈",
+    "translation": "геном",
+    "hanja": "게놈",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "게다",
+    "translation": "Кета (Модон шаахай)",
+    "hanja": "下駄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "게다리",
+    "translation": "хавчны хөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "게달",
+    "translation": "Хөл нүцгэн",
+    "hanja": "게달",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "게드",
+    "translation": "гед",
+    "hanja": "게드",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "게디스",
+    "translation": "Геддис",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "게딱지",
+    "translation": "сам хорхойн хуяг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "게라",
+    "translation": "Гера (Грекийн бурхан)",
+    "hanja": null,
+    "pos": "Proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "게르",
+    "translation": "гэр",
+    "hanja": "게르",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "게르니카",
+    "translation": "Герника",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "게르마늄",
+    "translation": "германи",
+    "hanja": "germanium",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "게르하르트",
+    "translation": "Герхард",
+    "hanja": "게르하르트",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "게리",
+    "translation": "Гэри",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "게릴라",
+    "translation": "партизан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "게릴라전",
+    "translation": "партизаны дайн",
+    "hanja": "게릴라戰",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "게맛살",
+    "translation": "хавчны мах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "게바라",
+    "translation": "Че Гевара",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "게살",
+    "translation": "хавчны мах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "게송",
+    "translation": "гэсэг",
+    "hanja": "偈頌",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "게슈타포",
+    "translation": "гестапо",
+    "hanja": "게슈타포",
+    "pos": "NNP",
+    "cefr": "C2"
+  },
+  {
+    "word": "게슈탈트",
+    "translation": "гештальт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "게스트",
+    "translation": "Зочин",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "게슴츠레",
+    "translation": "бүдэг бадаг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": null
+  },
+  {
+    "word": "게슴츠레하다",
+    "translation": "цайвар",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "게시",
+    "translation": "нийтлэх",
+    "hanja": "揭示",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "게시되다",
+    "translation": "нийтлэгдэх, зарлагдах",
+    "hanja": "揭示되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "게시판",
+    "translation": "зарлалын самбар",
+    "hanja": "揭示板",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "게시하다",
+    "translation": "нийтлэх, зарлах",
+    "hanja": "揭示하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "게실",
+    "translation": "Уутанцар, дивертикул",
+    "hanja": "憩室",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "게아",
+    "translation": "далайн дун",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "게양",
+    "translation": "Далайд хөвөх",
+    "hanja": "揭揚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "게양대",
+    "translation": "тугны шон",
+    "hanja": "揭揚臺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "게양되다",
+    "translation": "туг далбаа өргөх",
+    "hanja": "揭揚되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "게양하다",
+    "translation": "мандуулах",
+    "hanja": "揭揚하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "게우",
+    "translation": "бөөлжих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "게우다",
+    "translation": "бөөлжих",
+    "hanja": "게우다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "게으르다",
+    "translation": "залхуу",
+    "hanja": "null",
+    "pos": "adj",
+    "cefr": "A2"
+  },
+  {
+    "word": "게으름",
+    "translation": "залхуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "게으름뱅이",
+    "translation": "Залхуу хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "게을러터지다",
+    "translation": "Маш залхуу",
+    "hanja": null,
+    "pos": "Тэмдэг нэр",
+    "cefr": "B1"
+  },
+  {
+    "word": "게을리",
+    "translation": "залхуу",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "게을리하다",
+    "translation": "залхуурах",
+    "hanja": "게을리하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "게이",
+    "translation": "гей",
+    "hanja": "게이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "게이머",
+    "translation": "тоглогч",
+    "hanja": "gamer",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "게이밍",
+    "translation": "тоглоомчин",
+    "hanja": "게이밍",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "게이샤",
+    "translation": "гэйша",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "게이코",
+    "translation": "Гэйко",
+    "hanja": "게이코",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "게이터",
+    "translation": "гэтр (гуталны түрийвч)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "게이트",
+    "translation": "хаалга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "게이트웨이",
+    "translation": "гарц",
+    "hanja": "gateway",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "게인",
+    "translation": "Ороо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "게일",
+    "translation": "Гейл (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "게임",
+    "translation": "тоглоом",
+    "hanja": "Game",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "게임기",
+    "translation": "тоглоомын машин",
+    "hanja": "게임機",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "게임방",
+    "translation": "Тоглоомын өрөө, PC тоглоомын газар",
+    "hanja": "게임방",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "게임하다",
+    "translation": "тоглоом тоглох",
+    "hanja": "game하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "게자리",
+    "translation": "Мэлхий одны орд",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "게장",
+    "translation": "хараалтай сам хорхой",
+    "hanja": "게醬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "게재되다",
+    "translation": "нийтлэгдэх",
+    "hanja": "揭載되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "게재하다",
+    "translation": "нийтлэх, хэвлэх",
+    "hanja": "揭載하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "게중",
+    "translation": "дундаас",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "게코",
+    "translation": "геккон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "게타",
+    "translation": "гэта",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "게토",
+    "translation": "гетто",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "게티즈버그",
+    "translation": "Геттисбург",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "게하",
+    "translation": "Зочин буудал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  }
+]

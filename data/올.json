@@ -1,0 +1,436 @@
+[
+  {
+    "word": "올",
+    "translation": "энэ жил; утас, хялгас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "올가미",
+    "translation": "ороолт",
+    "hanja": "올가미",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "올가을",
+    "translation": "Энэ намар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "올갱이",
+    "translation": "голын дун",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "올게",
+    "translation": "ирэх, ойртох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "올겨울",
+    "translation": "энэ өвөл",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "올곧다",
+    "translation": "шударга",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "올그다",
+    "translation": "зогсоох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "올께",
+    "translation": "ирэх болно (аялгуу)",
+    "hanja": "올께",
+    "pos": "어미",
+    "cefr": "A2"
+  },
+  {
+    "word": "올드팬",
+    "translation": "хуучин фэн",
+    "hanja": "old fan",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "올라붙다",
+    "translation": "наалдах, наалдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "올라서다",
+    "translation": "дээшлэх",
+    "hanja": "올라서다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "올라앉다",
+    "translation": "дээр суух",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "올라운드",
+    "translation": "бүх талын, олон талын",
+    "hanja": "올라운드",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "올라타다",
+    "translation": "хөлөглөн гарах",
+    "hanja": "없음",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "올란도",
+    "translation": "Орландо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "올래",
+    "translation": "ир, одоо",
+    "hanja": "올래",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "올랜도",
+    "translation": "Орландо (хотын нэр)",
+    "hanja": "올랜도",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "올레길",
+    "translation": "Олле зам",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "올레산",
+    "translation": "олейны хүчил",
+    "hanja": "올레산",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "올레지기",
+    "translation": "харанхуйд нуугдах",
+    "hanja": null,
+    "pos": "v",
+    "cefr": "B2"
+  },
+  {
+    "word": "올려다보다",
+    "translation": "дээшээ харах",
+    "hanja": "올려다보다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "올려다보이다",
+    "translation": "дээрээс харагдах",
+    "hanja": "올려다보이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "올려붙이다",
+    "translation": "Дээш нь наах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "올려치다",
+    "translation": "Дээш цохих, үнэлгээг өсгөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "올록볼록",
+    "translation": "гүдгэр хонхор, товгор гүдгэр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "올록볼록하다",
+    "translation": "гүнзгий гүдгэр",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "올르다",
+    "translation": "өсөх, нэмэгдэх",
+    "hanja": "올르다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "올리",
+    "translation": "Олли (хүний нэр)",
+    "hanja": "None",
+    "pos": "Proper Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "올리고당",
+    "translation": "олигосахарид",
+    "hanja": "올리고糖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "올리다",
+    "translation": "олгих",
+    "hanja": "올리다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "올리버",
+    "translation": "Оливер (нэр)",
+    "hanja": null,
+    "pos": "proper noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "올리베이라",
+    "translation": "Оливейра (нэр)",
+    "hanja": "null",
+    "pos": "нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "올리브",
+    "translation": "Чидун жимс",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "올리브유",
+    "translation": "чидун жимсний тос",
+    "hanja": "olive油",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "올리비에",
+    "translation": "Оливье (нэр)",
+    "hanja": "Olivier",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "올림피아",
+    "translation": "Олимпийн наадам",
+    "hanja": "Olympia",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "올림피아드",
+    "translation": "олимпиад",
+    "hanja": "Olympiad",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "올림픽",
+    "translation": "олимп",
+    "hanja": "올림픽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "올립",
+    "translation": "олимф",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "올망졸망",
+    "translation": "Жижигхэн, нялх, хөөрхөн",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "올망졸망하다",
+    "translation": "бяцхан",
+    "hanja": "None",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "올무",
+    "translation": "урхи, хавх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "올므다",
+    "translation": "утсанд орооцолдох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "올바로",
+    "translation": "Зөв, шулуун",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "올바르다",
+    "translation": "зөв",
+    "hanja": "올바르다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "올방개",
+    "translation": "усны самар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "올뱅이",
+    "translation": "Загасчлах завь",
+    "hanja": "올뱅이",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "올버니",
+    "translation": "Олбани",
+    "hanja": "올버니",
+    "pos": "NNP",
+    "cefr": "C1"
+  },
+  {
+    "word": "올보르",
+    "translation": "Ольборг",
+    "hanja": "올보르",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "올봄",
+    "translation": "энэ хавар",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "올비",
+    "translation": "тэмээний үс",
+    "hanja": "올비",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "올빼미",
+    "translation": "шар шувуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "올빽",
+    "translation": "бүхнийг арагш самнах (үс)",
+    "hanja": "올빽",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "올여름",
+    "translation": "энэ зун",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "올인원",
+    "translation": "бүхнийг нэг дор",
+    "hanja": "all-in-one",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "올인하다",
+    "translation": "бүх зүйлийг оруулах",
+    "hanja": "올인하다(All-in하다)",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "올챙이",
+    "translation": "дүгэр",
+    "hanja": "올챙이",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "올컷",
+    "translation": "үсийг тэгшлэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "올케",
+    "translation": "Эхнэрийн дүү эмэгтэй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "올킬하다",
+    "translation": "бүгдийг алах",
+    "hanja": "올킬하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "올해",
+    "translation": "энэ жил",
+    "hanja": "올해",
+    "pos": "명사",
+    "cefr": "A1"
+  }
+]

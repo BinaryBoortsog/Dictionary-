@@ -1,0 +1,688 @@
+[
+  {
+    "word": "달",
+    "translation": "сар",
+    "hanja": "달",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "달가닥거리다",
+    "translation": "Тачигнаж дуугарах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달각거리다",
+    "translation": "Шуугих",
+    "hanja": null,
+    "pos": "Үйл үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "달각달각",
+    "translation": "Чих чих",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달갑다",
+    "translation": "тааламжтай",
+    "hanja": " dalgapda",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "달개비",
+    "translation": "комеллина (Commelina)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "달걀",
+    "translation": "өндөг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "달걀귀신",
+    "translation": "Өндөгний сүнс (царайгүй сүнс)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "달걀노른자",
+    "translation": "өндөгний шар",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "달걀흰자",
+    "translation": "өндөгний цагаан",
+    "hanja": "null",
+    "pos": "нэр үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "달거리",
+    "translation": "Сард нэг удаа",
+    "hanja": "달거리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달겨들다",
+    "translation": "Дайрах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달고나",
+    "translation": "далгона",
+    "hanja": "달고나",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "달곰이",
+    "translation": "чихэр, амттан",
+    "hanja": "달곰이",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "달관",
+    "translation": "амьдралыг гүн гүнзгий ойлгох",
+    "hanja": "達觀",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "달관하다",
+    "translation": "гүн гүнзгий ойлгох",
+    "hanja": "達觀하다",
+    "pos": "үйл үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "달구",
+    "translation": "Урт үсний хавчаар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달구경",
+    "translation": "сар харах",
+    "hanja": "달구경",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달구다",
+    "translation": "халаах, халуун болгох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달그락",
+    "translation": "дулуг дулуг (чимээ)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "달그락거리다",
+    "translation": "дугарах",
+    "hanja": "None",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달그락달그락",
+    "translation": "шажигнах дуу",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달그림자",
+    "translation": "Сарны сүүдэр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "달님",
+    "translation": "сар (хүндэтгэлийн хэлбэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "달다",
+    "translation": "амттай байх, өлгөх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "달달거리다",
+    "translation": "Чихэрлэг дуугарах, сачигнах",
+    "hanja": "달달거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달달하다",
+    "translation": "амттай",
+    "hanja": "달달하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달동",
+    "translation": "Сарны уул",
+    "hanja": "달동",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달동네",
+    "translation": "ядуусын хороолол (уулын орой дээрх)",
+    "hanja": "달동네",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달디달다",
+    "translation": "Маш чихэрлэг",
+    "hanja": "달디달다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달뜨다",
+    "translation": "саран мандах, сэтгэл хөөрөх",
+    "hanja": "달뜨다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달라들다",
+    "translation": "Наалдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달라붙다",
+    "translation": "наалдах",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "달란트",
+    "translation": "Авьяас, чадвар",
+    "hanja": "달란트",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달랏",
+    "translation": "Далат",
+    "hanja": "달랏",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "달랑",
+    "translation": "ганцхан, ганц",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "달랑거리다",
+    "translation": "өлгөгдөн унжих",
+    "hanja": "달랑거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달랑달랑",
+    "translation": "дүүжлэгдсэн, сэгсэгнэсэн",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "달랑달랑하다",
+    "translation": "савлах, дүүжлэгдэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달랑베르",
+    "translation": "даламбер",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "달래다",
+    "translation": "тайвшруулах",
+    "hanja": "달래다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달러",
+    "translation": "доллар",
+    "hanja": "달러",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "달러화",
+    "translation": "доллар",
+    "hanja": "달러化",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "달려들다",
+    "translation": "ухасхийх",
+    "hanja": "달려들다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달력",
+    "translation": "хуанли, календарь",
+    "hanja": "달력",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "달리",
+    "translation": "Өөрөөр",
+    "hanja": "null",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "달리기하다",
+    "translation": "гүйх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "달리다",
+    "translation": "гүүх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "달리아",
+    "translation": "далиа (цэцэг)",
+    "hanja": null,
+    "pos": "м.н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "달리하다",
+    "translation": "өөрөөр хийх",
+    "hanja": "달리하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달마",
+    "translation": "Дарма",
+    "hanja": "達磨",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "달마시안",
+    "translation": "Далмациан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달만",
+    "translation": "сар бүр",
+    "hanja": "달만",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "달맞이",
+    "translation": "сарыг угтах",
+    "hanja": "달맞이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달무리",
+    "translation": "сарны гэрэл",
+    "hanja": "달무리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달미",
+    "translation": "далдуу модны жимс",
+    "hanja": "달미",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "달바",
+    "translation": "далбаа (манж үгнээс)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "달밤",
+    "translation": "сартай шөнө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "달변",
+    "translation": "уран үг, уран илтгэл",
+    "hanja": "達辯",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "달비",
+    "translation": "сарны бороо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "달빛",
+    "translation": "саран гэрэл",
+    "hanja": "달빛",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "달성",
+    "translation": "гүйцэтгэл, амжилт",
+    "hanja": "達成",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달성되다",
+    "translation": "хүрэх, биелэх",
+    "hanja": "達成되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달성하다",
+    "translation": "хүрэх",
+    "hanja": "達成하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "달수",
+    "translation": "Сарны хугацаа",
+    "hanja": "달수",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "달식",
+    "translation": "сарын ёслол",
+    "hanja": "達食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달싹",
+    "translation": "хөнгөхөн хөдлөх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달싹거리다",
+    "translation": "хөдөлгөх, хөдлөх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달아나다",
+    "translation": "зугтах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달아매다",
+    "translation": "Уяж өлгөх",
+    "hanja": "달아매다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "달아오르다",
+    "translation": "халуун болох, улайх",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "달음박질",
+    "translation": "гөрөөсөн гүйлт, гүйх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달음박질치다",
+    "translation": "гүйх (Үйл үг)",
+    "hanja": "N/A",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "달음질",
+    "translation": "гүйлт, давхилт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달음질치다",
+    "translation": "гuições",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "달음질하다",
+    "translation": "гүйлгэх, хөөцөлдөх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "달이",
+    "translation": "Сар (саргүй-даль이)",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "달이다",
+    "translation": "чанах (эм, ундаа)",
+    "hanja": "달이다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달인",
+    "translation": "Мэргэжилтэн, ур чадвартай хүн",
+    "hanja": "達人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달전",
+    "translation": "сарын өмнө",
+    "hanja": "달前",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "달집태우기",
+    "translation": "Сарны байшинг шатаах ёслол (уламжлалт)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달짝지근하다",
+    "translation": "амттай",
+    "hanja": "달짝지근-",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "달착지근하다",
+    "translation": "달착지근하다",
+    "hanja": "달착지근하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달천",
+    "translation": "Далчон (газар зүй)",
+    "hanja": "달천",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달칵",
+    "translation": "дарах чимээ",
+    "hanja": "달칵",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달칵거리다",
+    "translation": "тачигнах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "달콤새콤하다",
+    "translation": "чихэрлэг, исгэлэн амттай",
+    "hanja": "달콤새콤하다",
+    "pos": "VA",
+    "cefr": "C1"
+  },
+  {
+    "word": "달콤하다",
+    "translation": "Амттай",
+    "hanja": "달콤하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "달콤히",
+    "translation": "амттайгаар",
+    "hanja": "달콤히",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "달큰하다",
+    "translation": "чихэрлэг, амттай",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달큼하다",
+    "translation": "чихэрлэг, амттай",
+    "hanja": "",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "달태",
+    "translation": "сарны хажуу",
+    "hanja": "달태",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "달톤",
+    "translation": "дальтон",
+    "hanja": "달톤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "달팽이",
+    "translation": "эмгэн хумс",
+    "hanja": "달팽이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "달팽이관",
+    "translation": "эмгэн хумсны суваг",
+    "hanja": "달팽이管",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "달포",
+    "translation": "нэг сар гаруй",
+    "hanja": " 달포",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "달필",
+    "translation": "сайн бичиг",
+    "hanja": "達筆",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "달하다",
+    "translation": "хүрэх",
+    "hanja": "達하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

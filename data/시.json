@@ -1,0 +1,3173 @@
+[
+  {
+    "word": "시",
+    "translation": "цаг",
+    "hanja": "時",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시가",
+    "translation": "үүрийн цолмон, үүр",
+    "hanja": "市街",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시가전",
+    "translation": "хотын тулаан",
+    "hanja": "市街戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시가행진",
+    "translation": "гудамжны жагсаал",
+    "hanja": "市街行進",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시각",
+    "translation": "харц",
+    "hanja": "視角",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시각적",
+    "translation": "харааны",
+    "hanja": "視覚的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "시각차",
+    "translation": "цагийн зөрүү",
+    "hanja": "時角差",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시각표",
+    "translation": "Цагийн хуваарь",
+    "hanja": "時刻表",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시각화",
+    "translation": "харагдахуйц болгох",
+    "hanja": "視角化",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시각화되다",
+    "translation": "Харагдах",
+    "hanja": "視覚化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시각화하다",
+    "translation": "харагдахуйц болгох, дүрслэх",
+    "hanja": "視覚化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시간",
+    "translation": "цаг",
+    "hanja": "時間",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "시간대",
+    "translation": "цагийн бүс",
+    "hanja": "時間帶",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시간문제",
+    "translation": "Цаг хугацааны асуудал",
+    "hanja": "時間問題",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시간적",
+    "translation": "цаг хугацааны",
+    "hanja": "時間的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시간제",
+    "translation": "цагийн ажил",
+    "hanja": "時間制",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시간차",
+    "translation": "цагийн зөрүү",
+    "hanja": "時間差",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시간표",
+    "translation": "Цагийн хуваарь",
+    "hanja": "時間表",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시간하다",
+    "translation": "цаг гаргах",
+    "hanja": "視姦하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시강",
+    "translation": "цагийн хичээл",
+    "hanja": "試講",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시거",
+    "translation": "тамхи",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시건방지다",
+    "translation": "бардам, ихэмсэг",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시걸",
+    "translation": "чармайх",
+    "hanja": "시걸",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "시계",
+    "translation": "цаг",
+    "hanja": "時計",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "시계추",
+    "translation": "цагны дүүжин",
+    "hanja": "時計錘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시계탑",
+    "translation": "цагийн цамхаг",
+    "hanja": "時計塔",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시곗바늘",
+    "translation": "цагийн зүү",
+    "hanja": "시계-바늘",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시곗줄",
+    "translation": "цагны оосор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시고",
+    "translation": "туршлага, эсээ",
+    "hanja": "試考",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시골",
+    "translation": "хөдөө",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "시골길",
+    "translation": "Хөдөөний зам",
+    "hanja": "시골길",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시골뜨기",
+    "translation": "Хөдөөний хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시골살이",
+    "translation": "хөдөө амьдрах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시골스럽다",
+    "translation": "хөдөөний, энгийн, бүдүүлэг",
+    "hanja": "시골스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "시골집",
+    "translation": "хөдөөгийн байшин",
+    "hanja": null,
+    "pos": "м.н",
+    "cefr": "A2"
+  },
+  {
+    "word": "시공",
+    "translation": "барих, барилгын ажил",
+    "hanja": "施工",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시공되다",
+    "translation": "барилга угсралтын ажил эхлэх",
+    "hanja": "施工되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시공하다",
+    "translation": "барих",
+    "hanja": "施工하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시관",
+    "translation": "цагийн менежер",
+    "hanja": "試官",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "시구",
+    "translation": "шүлгийн мөр",
+    "hanja": "詩句",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시구하다",
+    "translation": "Эхлэлийг тавих (спортод)",
+    "hanja": "始球하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시국",
+    "translation": "одоогийн үе, цаг үе",
+    "hanja": "時局",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시군구",
+    "translation": "хот, муж, дүүрэг",
+    "hanja": "市郡區",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시궁창",
+    "translation": "бохир усны суваг",
+    "hanja": "시궁창",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시권",
+    "translation": "шалгах хуудас",
+    "hanja": "試卷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시궐",
+    "translation": "урьд шөнө",
+    "hanja": "時厥",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시그",
+    "translation": "сигма",
+    "hanja": "시그",
+    "pos": "명",
+    "cefr": "C2"
+  },
+  {
+    "word": "시그널",
+    "translation": "Дохио",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시그래프",
+    "translation": "сиграфикс",
+    "hanja": "시그래프",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "시그마",
+    "translation": "сигма",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시금",
+    "translation": "туршилт",
+    "hanja": "試金",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시금석",
+    "translation": "туршилтын хангалт",
+    "hanja": "試金石",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시금치",
+    "translation": "Бууцай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시급",
+    "translation": "цагийн хөлс",
+    "hanja": "時給",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시급하다",
+    "translation": "Яаралтай байх",
+    "hanja": "時急하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "시급히",
+    "translation": "яаралтай, шуурхай",
+    "hanja": "時急히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시기",
+    "translation": "үе, үе шат; атаархал",
+    "hanja": "時期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시기상조",
+    "translation": "цагаасаа өмнө",
+    "hanja": "時機尚早",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시기적",
+    "translation": "цаг үеийн",
+    "hanja": "時機的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시기적절하다",
+    "translation": "цаг хугацааны хувьд тохиромжтой",
+    "hanja": "時期適切하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시기하다",
+    "translation": "атаархах",
+    "hanja": "猜忌하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시꺼멓다",
+    "translation": "хар өнгөтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시꺼메지다",
+    "translation": "Харлах, бүхэлдээ хар болох",
+    "hanja": "시꺼메지다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "시끄다",
+    "translation": "дуу шуутай",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시끄럽다",
+    "translation": "чимээтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시끌벅적",
+    "translation": "дуу шуутай, шуугиантай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시끌벅적하다",
+    "translation": "чимээ шуугиантай, хөл хөдөлгөөн ихтэй",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시끌시끌",
+    "translation": "шуугиантай, чимээ шуугиантай",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "시끌시끌하다",
+    "translation": "шуугиантай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시끼",
+    "translation": "муухай хүүхэд (заримдаа хайрласан утгатай)",
+    "hanja": "NULL",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시나",
+    "translation": "Шина",
+    "hanja": "시나",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시나리오",
+    "translation": "сценари",
+    "hanja": "scenario",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시나몬",
+    "translation": "Хушга",
+    "hanja": "시나몬",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시나브로",
+    "translation": "аажмаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시나위",
+    "translation": "шинави",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시나이",
+    "translation": "Синай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시나트라",
+    "translation": "Синатра",
+    "hanja": "Sinatra",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시날로아",
+    "translation": "Синалоа",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시내",
+    "translation": "хотын төв",
+    "hanja": "市內",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시내버스",
+    "translation": "хотын автобус",
+    "hanja": "市內버스",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "시냅스",
+    "translation": "Синапс",
+    "hanja": "synapse",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시냇가",
+    "translation": "горхины эрэг",
+    "hanja": "시냇가",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시냇물",
+    "translation": "Горхи",
+    "hanja": "시냇물",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "시너",
+    "translation": "туранхай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시너지",
+    "translation": "синерги",
+    "hanja": "시너지",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시네마테크",
+    "translation": "синематек",
+    "hanja": "cinematheque",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시녀",
+    "translation": "Ордны шивэгчин",
+    "hanja": "侍女",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시녕",
+    "translation": "Шинин",
+    "hanja": "西寧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시노",
+    "translation": "Шино",
+    "hanja": "志野",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시놉시스",
+    "translation": "синопсис",
+    "hanja": "시놉시스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시뇨리지",
+    "translation": "сеньораж",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시누이",
+    "translation": "Нөхрийн эгч/дүү",
+    "hanja": "시아누이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시늉",
+    "translation": "дуурайх",
+    "hanja": "示늉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시늉하다",
+    "translation": "Дүрд тоглох, дуурайх",
+    "hanja": "示늉하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시니",
+    "translation": "сини",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시니어",
+    "translation": "ахлах",
+    "hanja": "senior",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시니컬하다",
+    "translation": "ичингүйрэх, үл итгэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시다",
+    "translation": "исгэлэн, хүчиллэг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시다바리",
+    "translation": "бусдын гар хөл болох",
+    "hanja": "null",
+    "pos": "은어",
+    "cefr": "B2"
+  },
+  {
+    "word": "시단",
+    "translation": "шүлгийн талбар, яруу найргийн ертөнц",
+    "hanja": "詩壇",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시달리다",
+    "translation": "Зовох",
+    "hanja": "시달리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시달하다",
+    "translation": "хавчих, дарамтлах",
+    "hanja": "示達하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시답다",
+    "translation": "хүсэх, сэтгэлд нийцэх",
+    "hanja": "시답다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시답잖다",
+    "translation": "хогийн, үнэ цэнэгүй",
+    "hanja": "시답잖다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시대",
+    "translation": "эрин үе, цаг үе",
+    "hanja": "時代",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "시대상",
+    "translation": "Цаг үеийн дүр төрх",
+    "hanja": "時代相",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시대적",
+    "translation": "цаг үеийн",
+    "hanja": "時代的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시대착오",
+    "translation": "цаг үеийн шаардлага хангахгүй байх",
+    "hanja": "時代錯誤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시대착오적",
+    "translation": "хуучинсаг",
+    "hanja": "時代錯誤的",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시댁",
+    "translation": "нөхрийн гэр бүл",
+    "hanja": "媤宅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시덕",
+    "translation": "Саддаг",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시덥다",
+    "translation": "утга учиргүй, хэрэггүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시도",
+    "translation": "оролдлого",
+    "hanja": "試圖",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시도되다",
+    "translation": "оролдох",
+    "hanja": "試圖되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시도하다",
+    "translation": "Оролдох",
+    "hanja": "試圖하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "시돈",
+    "translation": "Сидон",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시동",
+    "translation": "асаалт",
+    "hanja": "始動",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시동생",
+    "translation": "нөхрийн дүү эрэгтэй",
+    "hanja": "媤同生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시드",
+    "translation": "үр",
+    "hanja": "seed",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시드니",
+    "translation": "Сидней",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시드르",
+    "translation": "сидр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시들다",
+    "translation": "хатах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시들시들",
+    "translation": "хатаж хорчийсон",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시들시들하다",
+    "translation": "хатах, сульдах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시들하다",
+    "translation": "хуучирсан",
+    "hanja": "시들하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시디",
+    "translation": "Си Ди",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시디롬",
+    "translation": "сидиром",
+    "hanja": "CD-ROM",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시디플레이어",
+    "translation": "си ди тоглуулагч",
+    "hanja": "CD플레이어",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "시딩",
+    "translation": "сидинг",
+    "hanja": "seeding",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시라",
+    "translation": "Шира (хүний нэр)",
+    "hanja": "시라",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시라미",
+    "translation": "хөвдөн шавьж",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "시라소니",
+    "translation": "линс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시라카와",
+    "translation": "Ширакава (хүний нэр)",
+    "hanja": "白川",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시라쿠사",
+    "translation": "Сиракус (хот)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시래깃국",
+    "translation": "Сирэги-чулууны шөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시럽",
+    "translation": "сироп",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시렁",
+    "translation": "тавиур, өлгүүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시력",
+    "translation": "Хараа",
+    "hanja": "視力",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시련",
+    "translation": "Сорилт",
+    "hanja": "試鍊",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시렵다",
+    "translation": "даарах",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "시로",
+    "translation": "шүлгээр",
+    "hanja": "詩로",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "시로미",
+    "translation": "чага",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시로코",
+    "translation": "сирокко (халуун салхи)",
+    "hanja": "Sirocco",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시론",
+    "translation": "туршилтын онол, туршилтын эсээ",
+    "hanja": "試論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시료",
+    "translation": "дээж, сорьц",
+    "hanja": "試料",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시료하다",
+    "translation": "Дээж авах; Шинжилгээ хийх",
+    "hanja": "試料하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시루",
+    "translation": "уурын сав",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시루떡",
+    "translation": "ширү ток (уламжлалт будааны бялуу)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시류",
+    "translation": "эпохын урсгал",
+    "hanja": "時流",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시름",
+    "translation": "санаа зовох, уй гашуу",
+    "hanja": "시름",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시름시름",
+    "translation": "аажмаар өвдөх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시름없이",
+    "translation": "Санаа зовохгүйгээр",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시리",
+    "translation": "Сири",
+    "hanja": "시리",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "시리다",
+    "translation": "хүйтэн мэдрэгдэх, чимчигнэх",
+    "hanja": "―",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "시리아",
+    "translation": "Сири",
+    "hanja": "시리아",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "시리얼",
+    "translation": "үр тарианы каш",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시리우스",
+    "translation": "Сириус",
+    "hanja": "시리우스",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시리즈",
+    "translation": "цуврал",
+    "hanja": "series",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시림",
+    "translation": "хүйтэн, жиндэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시립",
+    "translation": "хотын өмчийн",
+    "hanja": "市立",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시마",
+    "translation": "хязгаар, төгсгөл",
+    "hanja": "boundary, end",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시마네현",
+    "translation": "Шимане муж",
+    "hanja": "島根縣",
+    "pos": "proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "시마론",
+    "translation": "Симарон (Нэр, маркийн нэр)",
+    "hanja": "시마론",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시마이",
+    "translation": "дуусах, төгсгөх (япон хэлнээс гаралтай)",
+    "hanja": "終い",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시마이하다",
+    "translation": "Дуусгах, төгсгөх (япон хэлнээс)",
+    "hanja": "仕舞이하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시말서",
+    "translation": "тайлбар бичиг",
+    "hanja": "始末書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시먼스",
+    "translation": "Симмонс",
+    "hanja": "Simmons",
+    "pos": "Proper Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시멘",
+    "translation": "цемент",
+    "hanja": "시멘트",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "시멘트",
+    "translation": "цемент",
+    "hanja": "Cement",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시모",
+    "translation": "хадам ээж",
+    "hanja": "媤母",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시모노세키",
+    "translation": "Симоносэки",
+    "hanja": "下關",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시몬",
+    "translation": "Симон",
+    "hanja": "Simon",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "시몽",
+    "translation": "Симон",
+    "hanja": "시몽",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시무",
+    "translation": "өнөөгийн ажил, бизнес",
+    "hanja": "時務",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시무룩",
+    "translation": "Уйтгартай, гунигтай",
+    "hanja": "—",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시무룩하다",
+    "translation": "уруу царайтай",
+    "hanja": "시무룩하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시무식",
+    "translation": "шинэ жилийн нээлтийн ёслол",
+    "hanja": "始務式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시무하다",
+    "translation": "(ажил) эхлэх",
+    "hanja": "視務하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시문",
+    "translation": "шүлэг, яруу найраг",
+    "hanja": "詩文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시뮬레이션",
+    "translation": "симуляци",
+    "hanja": "시뮬레이션",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시뮬레이션하다",
+    "translation": "симуляци хийх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시뮬레이터",
+    "translation": "Симулятор",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시므온",
+    "translation": "Симеон (хүний нэр)",
+    "hanja": "시므온",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시미",
+    "translation": "шим",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시미즈",
+    "translation": "Шимизу (인명)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시민",
+    "translation": "иргэн",
+    "hanja": "市民",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시민권",
+    "translation": "иргэний эрх",
+    "hanja": "市民權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시민운동",
+    "translation": "иргэний хөдөлгөөн",
+    "hanja": "市民運動",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시바",
+    "translation": "Шива",
+    "hanja": "시바",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시바스",
+    "translation": "Шибас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시바타",
+    "translation": "Шибата",
+    "hanja": "시바타",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시반",
+    "translation": "үхлийн толбо",
+    "hanja": "屍斑",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시발",
+    "translation": "өгөөш, эхлэл",
+    "hanja": "始發",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시발점",
+    "translation": "эхлэл",
+    "hanja": "始發點",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시방",
+    "translation": "одоо",
+    "hanja": "時方",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시백",
+    "translation": "гэрчийн гэрчлэл",
+    "hanja": "視白",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시버트",
+    "translation": "сиверт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시벌",
+    "translation": "хачин",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시범",
+    "translation": "жишиг, үлгэр жишээ",
+    "hanja": "示範",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시범적",
+    "translation": "туршилтын",
+    "hanja": "示範的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "시베리아",
+    "translation": "Сибирь",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시벨리우스",
+    "translation": "Сибелиус",
+    "hanja": "Sibelius",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시보",
+    "translation": "цагийн мэдээ, цагийг дуудлагаар мэдээлэх",
+    "hanja": "時報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시보리",
+    "translation": "сибори",
+    "hanja": "絞り",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시봉",
+    "translation": "үйлчлэх",
+    "hanja": "侍奉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시부",
+    "translation": "хадам аав",
+    "hanja": "媤父",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시부리",
+    "translation": "Цагаан хусны нахиа",
+    "hanja": "시부리",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시부모",
+    "translation": "Хадам эцэг эх (нөхрийн талаас)",
+    "hanja": "媤父母",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시부야구",
+    "translation": "Шибуя дүүрэг (Токио хотын дүүрэг)",
+    "hanja": "渋谷區",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시브",
+    "translation": "Кот (зээр), жижиг хутга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시비",
+    "translation": "маргаан",
+    "hanja": "是非",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시비조",
+    "translation": "хэрүүл маргаантай байдал, маргаан үүсгэх",
+    "hanja": "是非調",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시비하다",
+    "translation": "маргалдах, хэрүүл хийх",
+    "hanja": "是非하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시뻘겋다",
+    "translation": "хувхуу улаан, тод улаан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시뻘게지다",
+    "translation": "улайх, маш их улайх",
+    "hanja": "시뻘게지다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시사",
+    "translation": "Угтвар",
+    "hanja": "時事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시사점",
+    "translation": "санаа, ач холбогдол",
+    "hanja": "示唆點",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시사회",
+    "translation": "нээлтийн үзвэр",
+    "hanja": "試寫會",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시상",
+    "translation": "шагнал гардуулах ёслол",
+    "hanja": "施賞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시상대",
+    "translation": "шагнал гардуулах тавцан",
+    "hanja": "施賞臺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시상식",
+    "translation": "шагнал гардуулах ёслол",
+    "hanja": "授賞式",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시상하다",
+    "translation": "Шагнал гардуулах",
+    "hanja": "施賞하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시샘하다",
+    "translation": "атаархах, хорсох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시생",
+    "translation": "Эхлэл, эхлэх",
+    "hanja": "始生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시샤",
+    "translation": "шиша",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시샤모",
+    "translation": "Шишамо (загас)",
+    "hanja": "시샤모",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시서화",
+    "translation": "шүлэг, уран бичиг, зураг",
+    "hanja": "詩書畫",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시선",
+    "translation": "Харц",
+    "hanja": "視線",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시설",
+    "translation": "байгууламж",
+    "hanja": "施設",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시설물",
+    "translation": "байгууламж",
+    "hanja": "施設物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시성",
+    "translation": "ариун хүнээр тодрох",
+    "hanja": "諡聖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시세",
+    "translation": "ханш",
+    "hanja": "市勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시소",
+    "translation": "дүүжингийн тоглоом",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시속",
+    "translation": "цагийн хурд",
+    "hanja": "時速",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시수",
+    "translation": "цагаар хичээллэх",
+    "hanja": "時數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시술",
+    "translation": "эмчилгээ",
+    "hanja": "施術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시술하다",
+    "translation": "Эмчилгээ хийх",
+    "hanja": "施術하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시스",
+    "translation": "Цис (Cis)",
+    "hanja": "시스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시스루",
+    "translation": "урвалгүй (хувцас)",
+    "hanja": "시스루",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시스템",
+    "translation": "систем",
+    "hanja": "system",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시승",
+    "translation": "туршиж унах",
+    "hanja": "試乘",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시승하다",
+    "translation": "туршиж унах (машин)",
+    "hanja": "試乘하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시시",
+    "translation": "цаг хугацаа",
+    "hanja": "時時",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시시각각",
+    "translation": "цаг мөч бүр, үргэлж",
+    "hanja": "時時刻刻",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시시껄렁하다",
+    "translation": "утга учиргүй, хоосон, дэмий",
+    "hanja": "시시껄렁하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시시덕거리다",
+    "translation": "наадамдах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시시덕대다",
+    "translation": "хөгжилдөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시시때때로",
+    "translation": "үе үе",
+    "hanja": "時時때때로",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "시시비비",
+    "translation": "зөв бурууг шүүх",
+    "hanja": "是是非非",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시시콜콜",
+    "translation": "хэрэггүй зүйл",
+    "hanja": "時時콜콜",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시시콜콜하다",
+    "translation": "жижиг сажиг",
+    "hanja": "時時callcall하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "시시포스",
+    "translation": "Сизиф",
+    "hanja": "시시포스",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시시하다",
+    "translation": "утга учиргүй",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "시식",
+    "translation": "амтлах",
+    "hanja": "試食",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시식하다",
+    "translation": "Амтлах",
+    "hanja": "試食하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시식회",
+    "translation": "амталгааны арга хэмжээ",
+    "hanja": "試食會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시신",
+    "translation": "цогцос",
+    "hanja": "屍身",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시신경",
+    "translation": "нүдний мэдрэл",
+    "hanja": "視神經",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시아버지",
+    "translation": "Хадам эцэг",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시아주버니",
+    "translation": "нөхрийн ах",
+    "hanja": "媤아주버니",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시안하다",
+    "translation": "төсөл боловсруулах",
+    "hanja": "示案하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시암",
+    "translation": "Сиам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시앗",
+    "translation": "нутгийн эгч, нөхрийн нууц амраг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시앙",
+    "translation": "хүндэтгэсэн утгатай дуудлага",
+    "hanja": "샹",
+    "pos": "감탄사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시애틀",
+    "translation": "Сиэтл",
+    "hanja": "Seattle",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시야",
+    "translation": "Хараа",
+    "hanja": "視野",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시약",
+    "translation": "урвалж",
+    "hanja": "試藥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시어",
+    "translation": "яруу найргийн хэл",
+    "hanja": "詩語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시어른",
+    "translation": "хадам эцэг эх",
+    "hanja": "媤어른",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시어링",
+    "translation": "шарах (мах г.м.)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시어머니",
+    "translation": "Хадам ээж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시어서커",
+    "translation": "сиэрсакер",
+    "hanja": "시어서커",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "시에나",
+    "translation": "Сиена",
+    "hanja": "시에나",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시에라리온",
+    "translation": "Сьерра Леон",
+    "hanja": "Sierra Leone",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시엘",
+    "translation": "Сиэль (франц нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시엠레아프",
+    "translation": "Сиемреап",
+    "hanja": "Siem Reap",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시연하다",
+    "translation": "үзүүлэн таниулах",
+    "hanja": "試演-",
+    "pos": "ү.",
+    "cefr": "B2"
+  },
+  {
+    "word": "시연회",
+    "translation": "танилцуулгын үзүүлэн, үзүүлэнгийн хурал",
+    "hanja": "試演會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시오",
+    "translation": "сио (испани нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시오니즘",
+    "translation": "Сионизм",
+    "hanja": "시오니즘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시옷",
+    "translation": "시 (солонгос үсэг)",
+    "hanja": "시옷",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "시와",
+    "translation": "шүлэг, яруу найраг",
+    "hanja": "詩와",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시왕",
+    "translation": "арван хаан",
+    "hanja": "十王",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "시외",
+    "translation": "хотын гаднах",
+    "hanja": "市外",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시외버스",
+    "translation": "хот хоорондын автобус",
+    "hanja": "市外버스",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시운전하다",
+    "translation": "Туршилт жолоодож үзэх",
+    "hanja": "試運轉하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시웅",
+    "translation": "тэмцээн, сорилго",
+    "hanja": "試雄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시원섭섭하다",
+    "translation": "нэгэн зэрэг сэтгэл хангалуун, харамсах",
+    "hanja": "N/A",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시원스럽다",
+    "translation": "сэрүүн, цэнгэг",
+    "hanja": "시원스럽다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "시원스레",
+    "translation": "сэрүүхэн, тайван",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시원시원",
+    "translation": "сэрүүн сэрүүн",
+    "hanja": "시원시원",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시원시원하다",
+    "translation": "хүйтэн",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시원찮다",
+    "translation": "Сайнгүй",
+    "hanja": "시원찮다",
+    "pos": "тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "시원하다",
+    "translation": "сэрүүн байх",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시원히",
+    "translation": "Сэрүүнээр, тайван",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시월",
+    "translation": "аравдугаар сар",
+    "hanja": "十月",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시월드",
+    "translation": "хадам эхийн ертөнц",
+    "hanja": "媤월드",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시위",
+    "translation": "жагсаал",
+    "hanja": "示威",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시위대",
+    "translation": "жагсагчид",
+    "hanja": "示威隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시위하다",
+    "translation": "жагсаал хийх",
+    "hanja": "示威하다",
+    "pos": "ү",
+    "cefr": "B2"
+  },
+  {
+    "word": "시음",
+    "translation": "амсах, согтууруулах ундаа амсах",
+    "hanja": "試飮",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "시음하다",
+    "translation": "амтлах, сондгодох",
+    "hanja": "試 M",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시의",
+    "translation": "Хугацааны ач холбогдол, цаг үеийн шаардлага",
+    "hanja": "時宜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시의적절하다",
+    "translation": "Цаг үеэ олсон",
+    "hanja": "時宜適切하다",
+    "pos": "Adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "시이",
+    "translation": "нүдний харц",
+    "hanja": "視",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시이다",
+    "translation": "шүлэг",
+    "hanja": "詩이다",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시인",
+    "translation": "Яруу найрагч",
+    "hanja": "詩人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시인하다",
+    "translation": "Хүлээн зөвшөөрөх",
+    "hanja": "是認하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "시일",
+    "translation": "өдөр",
+    "hanja": "時日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시일야방성대곡",
+    "translation": "өдөр шөнөгүй уйлах",
+    "hanja": "是日也放聲大哭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시자",
+    "translation": "туслах",
+    "hanja": "侍者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시작",
+    "translation": "эхлэл",
+    "hanja": "始作",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "시작다",
+    "translation": "эхлэх",
+    "hanja": "始作다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시작되다",
+    "translation": "эхлэх",
+    "hanja": "始作되다",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "시작하다",
+    "translation": "эхлэх",
+    "hanja": "始作",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "시장",
+    "translation": "зах",
+    "hanja": "市場",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "시장기",
+    "translation": "өлсөх",
+    "hanja": "市場氣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시장성",
+    "translation": "Зах зээлийн боломж",
+    "hanja": "市場性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시장하다",
+    "translation": "Өлсөх",
+    "hanja": "시장하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시저",
+    "translation": "Цезарь",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "시저스",
+    "translation": "хайч",
+    "hanja": "시저스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시적",
+    "translation": "шүлгийн",
+    "hanja": "詩的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시전",
+    "translation": "зах зээл",
+    "hanja": "市廛",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시전하다",
+    "translation": "үзүүлэх, хэрэглэх, ашиглах",
+    "hanja": "施展-하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시절",
+    "translation": "үе, цаг",
+    "hanja": "時節",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시점",
+    "translation": "цаг хугацаа",
+    "hanja": "始點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시접",
+    "translation": "оёосны илүүдэл",
+    "hanja": "始摺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시정",
+    "translation": "засах, залруулах",
+    "hanja": "是正",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시정되다",
+    "translation": "Засагдах",
+    "hanja": "是正되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시정하다",
+    "translation": "засах, залруулах",
+    "hanja": "是正하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시제",
+    "translation": "цаг",
+    "hanja": "시제(時制)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시제품",
+    "translation": "туршилтын загвар",
+    "hanja": "試製品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시조",
+    "translation": "Үндэслэгч",
+    "hanja": "始祖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시종",
+    "translation": "үйлчлэгч",
+    "hanja": "侍從",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시종일관",
+    "translation": "анхнаас эцэс хүртэл",
+    "hanja": "始終一貫",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시주",
+    "translation": "хандив, өглөг (сүмийн)",
+    "hanja": "施主",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시주하다",
+    "translation": "хандив өгөх (сүм хийдэд)",
+    "hanja": "施主하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시중",
+    "translation": "үйлчлэх",
+    "hanja": "侍中",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시중들다",
+    "translation": "үйлчлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시즈닝",
+    "translation": "амтлагч",
+    "hanja": "시즈닝",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시즈오카",
+    "translation": "Шизүока (Японы хот)",
+    "hanja": "静岡",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시즌",
+    "translation": "улирал",
+    "hanja": "season",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시지푸스",
+    "translation": "Сизиф",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시직",
+    "translation": "эхлэх, эхлэл",
+    "hanja": "始職",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시집",
+    "translation": "яруу найргийн түүвэр",
+    "hanja": "詩集",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시집가다",
+    "translation": "Гэрлэх",
+    "hanja": "媤집가다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시집보내다",
+    "translation": "Охиноо нөхөрт гаргах",
+    "hanja": "媤집보내다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시집살이",
+    "translation": "бэрлэх, бэр болж амьдрах",
+    "hanja": "媤집살이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시집살이하다",
+    "translation": "гэрийн эзэн болох",
+    "hanja": "媤집살이하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시집오다",
+    "translation": "хүргэн орох",
+    "hanja": "媤집오다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시짱",
+    "translation": "Төвд",
+    "hanja": "西藏",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시차",
+    "translation": "цагийн зөрүү",
+    "hanja": "時差",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시착",
+    "translation": "туршиж өмсөх",
+    "hanja": "試着",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시착하다",
+    "translation": "туршлага",
+    "hanja": "試着하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시찰",
+    "translation": "шалгалт, хяналт",
+    "hanja": "視察",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시찰하다",
+    "translation": "шалгах, хянах",
+    "hanja": "視察하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시참",
+    "translation": "яриа хийх, ярилцах",
+    "hanja": "詩參",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시책",
+    "translation": "бодлого",
+    "hanja": "施策",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시청",
+    "translation": "хотын захиргаа",
+    "hanja": "市廳",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시청각",
+    "translation": "Хараа сонсголын",
+    "hanja": "視聽覺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시청률",
+    "translation": "үзэгчдийн тоо",
+    "hanja": "視聽率",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시청자",
+    "translation": "үзэгч",
+    "hanja": "視聽者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시청하다",
+    "translation": "үзэх, сонсох (ТВ-ээр)",
+    "hanja": "視聽하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시체",
+    "translation": "цогцос",
+    "hanja": "屍體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시쳇말",
+    "translation": "одоогийн хэллэг",
+    "hanja": "時偈말",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시초",
+    "translation": "эхлэл",
+    "hanja": "始初",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시촉",
+    "translation": "Туршиж өдөөх, туршиж мэдрэх",
+    "hanja": "試觸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시총",
+    "translation": "зах зээлийн нийт үнэлгээ",
+    "hanja": "市總",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시추",
+    "translation": "хайгуул, өрөмдөх",
+    "hanja": "試錐",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시추공",
+    "translation": "хайгуулын нүх",
+    "hanja": "試錐孔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시추에이션",
+    "translation": "Нөхцөл байдал",
+    "hanja": "Situation",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시추하다",
+    "translation": "өндөр өрөмдлөг хийх",
+    "hanja": "試錐하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시축",
+    "translation": "хөлбөмбөгийн эхлэл",
+    "hanja": "始蹴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시취",
+    "translation": "мэдэгдэхүйц үнэр",
+    "hanja": "尸臭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시츄에이션",
+    "translation": "Нөхцөл байдал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시치",
+    "translation": "долоо (옛말)",
+    "hanja": "시치",
+    "pos": "수사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시치미",
+    "translation": "гэнэн царай",
+    "hanja": "시치미",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시칠리아",
+    "translation": "сицили",
+    "hanja": "시칠리아",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시카고",
+    "translation": "Чикаго",
+    "hanja": "시카고",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시카다",
+    "translation": "Хатаах",
+    "hanja": "식다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시카리",
+    "translation": "сикари (эртний еврей алуурчны бүлэг)",
+    "hanja": "시카리",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시커멓다",
+    "translation": "бүхэлдээ хар, хөхрөн хар",
+    "hanja": "시커멓다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시커메지다",
+    "translation": "харлах",
+    "hanja": "시커메지다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시코",
+    "translation": "Сико",
+    "hanja": "시코",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시코르스키",
+    "translation": "Сикорский",
+    "hanja": "Sikorsky",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시코쿠",
+    "translation": "Шикоку (Японы нэг арал)",
+    "hanja": "四國",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시퀀스",
+    "translation": "Дараалал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시퀄",
+    "translation": "Үргэлжлэл, дараагийн анги",
+    "hanja": "시퀄",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시퀸",
+    "translation": "гялалзсан шигтгээ",
+    "hanja": "sequin",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시크교",
+    "translation": "Сикхизм",
+    "hanja": "시크教",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시크다",
+    "translation": "хүйтнээр хандах",
+    "hanja": "시크다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시크릿",
+    "translation": "нууц",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시크하다",
+    "translation": "гоёмсог, загварлаг, дэгжин",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시큰거리다",
+    "translation": "хөших",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시큰둥하다",
+    "translation": "сонирхолгүй байх",
+    "hanja": "시큰둥하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시큰하다",
+    "translation": "гунигтай, өвдөх",
+    "hanja": null,
+    "pos": "тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "시큼시큼하다",
+    "translation": "исгэлэн амттай",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "시큼털털하다",
+    "translation": "Хүчиллэг, исгэлэн амттай, эвгүй амттай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시큼하다",
+    "translation": "исгэлэн",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "시키다",
+    "translation": "Захиалах, хийлгэх, тушаах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "시타",
+    "translation": "сита (чагнуур, шүүлт хийх сав)",
+    "hanja": "シータ",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시터",
+    "translation": "хүүхэд харагч, асрагч",
+    "hanja": "시터",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시턴",
+    "translation": "ситон",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시테",
+    "translation": "Цитадел",
+    "hanja": "시테",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시트",
+    "translation": "хуудас",
+    "hanja": "sheet",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시트론",
+    "translation": "цитрон",
+    "hanja": "시트론",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시트콤",
+    "translation": "Ситком",
+    "hanja": "Sitcom",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시티",
+    "translation": "хот",
+    "hanja": "city",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시파",
+    "translation": "нөхөрлөл",
+    "hanja": "蓍波",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시판",
+    "translation": "зах зээлд гаргах, борлуулалт",
+    "hanja": "市販",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시판되다",
+    "translation": "худалдаанд гарах, зах зээлд гарах",
+    "hanja": "市販되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시판하다",
+    "translation": "зах зээлд гаргах",
+    "hanja": "市販하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시퍼렇다",
+    "translation": "хөх ногоон",
+    "hanja": "시퍼렇다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시퍼레지다",
+    "translation": "хөхрөх, шаравтар болох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시펑",
+    "translation": "Сифэн (Хүний нэр эсвэл газар усны нэр байж болно)",
+    "hanja": "시펑",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시편",
+    "translation": "Дуулал",
+    "hanja": "詩篇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시포",
+    "translation": "хуучин даавуу",
+    "hanja": "詩法",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "시푸다",
+    "translation": "Хүсэх, хүсэл тэмүүлэлтэй байх (хуучин үг)",
+    "hanja": "시푸다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시프",
+    "translation": "Шифф",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "시프다",
+    "translation": "Хүссэн",
+    "hanja": "null",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "시프터",
+    "translation": "шилжүүлэгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시프트",
+    "translation": "ээлж",
+    "hanja": " sipeuteu",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "시피",
+    "translation": "~шиг, ~мэт",
+    "hanja": "시피",
+    "pos": "의존명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시학",
+    "translation": "уран зохиолын онол",
+    "hanja": "詩學",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시한",
+    "translation": "хугацаа, хязгаар",
+    "hanja": "時限",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시한부",
+    "translation": "хугацаатай, хязгаартай",
+    "hanja": "時限附",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시한폭탄",
+    "translation": "Цагийн бөмбөг",
+    "hanja": "時限爆彈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시합",
+    "translation": "тэмцээн",
+    "hanja": "試合",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시합하다",
+    "translation": "тэмцээнд оролцох, өрсөлдөх",
+    "hanja": "試合하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "시해",
+    "translation": "хааныг алах",
+    "hanja": "弑害",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시해되다",
+    "translation": "алагдах",
+    "hanja": "弑害되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시해하다",
+    "translation": "аллага үйлдэх, хороох",
+    "hanja": "弑害하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시행",
+    "translation": "хэрэгжилт",
+    "hanja": "施行",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시행되다",
+    "translation": "Хэрэгжих",
+    "hanja": "施行되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시행착오",
+    "translation": "Алдаа оноо, туршилт",
+    "hanja": "施行錯誤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시행하다",
+    "translation": "хэрэгжүүлэх",
+    "hanja": "施行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시향",
+    "translation": "үнэртэй усны үнэрлэх",
+    "hanja": "試香",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시험",
+    "translation": "шалгалт",
+    "hanja": "試驗",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시험공부",
+    "translation": "шалгалтад бэлдэх",
+    "hanja": "試驗工夫",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시험공부하다",
+    "translation": "шалгалтанд бэлдэх",
+    "hanja": "試驗工夫하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "시험관",
+    "translation": "туршилтын хоолой",
+    "hanja": "試驗管",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시험대",
+    "translation": "сорилт",
+    "hanja": "試驗臺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시험장",
+    "translation": "шалгалтын газар",
+    "hanja": "試驗場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시험적",
+    "translation": "туршилтын, шалгалтын",
+    "hanja": "實驗的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "시험지",
+    "translation": "Шалгалтын хуудас",
+    "hanja": "試驗紙",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시험하다",
+    "translation": "Турших",
+    "hanja": "試驗하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "시현하다",
+    "translation": "Илчлэх, үзүүлэх",
+    "hanja": "示顯하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시혜",
+    "translation": "тусламж үзүүлэх",
+    "hanja": "施惠",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시혼",
+    "translation": "шүлгийн сүнс",
+    "hanja": "詩魂",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "시화",
+    "translation": "яруу найргийн зураг",
+    "hanja": "詩畫",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "시황",
+    "translation": "зах зээлийн байдал",
+    "hanja": "市況",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시효",
+    "translation": "хугацаа",
+    "hanja": "時效",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시흥",
+    "translation": "Сихын (хот)",
+    "hanja": "始興",
+    "pos": "noun",
+    "cefr": "B1"
+  }
+]

@@ -1,0 +1,1514 @@
+[
+  {
+    "word": "실",
+    "translation": "утас",
+    "hanja": " sil",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "실각",
+    "translation": "албан тушаалаас буух",
+    "hanja": "失脚",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "실각하다",
+    "translation": "Албан тушаалаас буух",
+    "hanja": "失脚-",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "실감",
+    "translation": "Бодитоор мэдрэх",
+    "hanja": "실감 (實感)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실감되다",
+    "translation": "бодит байдлыг мэдрэх",
+    "hanja": "實感되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실감하다",
+    "translation": "мэдрэх",
+    "hanja": "實感하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실갱이",
+    "translation": "Хэрүүл, маргаан",
+    "hanja": "실갱이",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "실거리",
+    "translation": "хэрэгжүүлэх зай",
+    "hanja": "실거리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실거주하다",
+    "translation": "бодитоор амьдрах",
+    "hanja": "實居住하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실검",
+    "translation": "Бодит цагийн хайлт",
+    "hanja": "實檢",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "실격",
+    "translation": "хасах",
+    "hanja": "失格",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "실격되다",
+    "translation": "хасагдах, эрхээ ханах",
+    "hanja": "失格되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실격하다",
+    "translation": "тэнцэхгүй болох",
+    "hanja": "失格하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실과",
+    "translation": "практик ажил",
+    "hanja": "實科",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실권",
+    "translation": "бодит эрх мэдэл",
+    "hanja": "實權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실권자",
+    "translation": "Жинхэнэ эрх мэдэлтэй хүн, 실력자",
+    "hanja": "實權者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실금",
+    "translation": "бага зэрэг шээс алдах",
+    "hanja": "失禁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실기하다",
+    "translation": "Боломжийг алдах",
+    "hanja": "失機하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실낱",
+    "translation": "утасны үзүүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실낱같다",
+    "translation": "маш бага",
+    "hanja": "No Hanja",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실내",
+    "translation": "дотор, өрөөний",
+    "hanja": "室內",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "실내조명",
+    "translation": "дотор гэрэлтүүлэг",
+    "hanja": "室內照明",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실내화",
+    "translation": "Гэрийн шаахай, таваг",
+    "hanja": "室內靴",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실눈",
+    "translation": "унтаа нүд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실다",
+    "translation": "ачих",
+    "hanja": "N/A",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "실드",
+    "translation": "бамбай, хамгаалах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실뜨기",
+    "translation": "Утас уяж тоглох (тоглоом)",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "실란트",
+    "translation": "битүүмжлэгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실랑이",
+    "translation": "маргаан",
+    "hanja": "실랑이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실랑이하다",
+    "translation": "хэрэлдэх, маргалдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실러",
+    "translation": "Шиллер (нэр)",
+    "hanja": "Schiller",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실러캔스",
+    "translation": "целакант",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실런트",
+    "translation": "битүүмжлэгч",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실력",
+    "translation": "чадвар",
+    "hanja": "實力",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실력자",
+    "translation": "Хүчтэй хүн",
+    "hanja": "實力者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실력파",
+    "translation": "чадварлаг хүн",
+    "hanja": "實力派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실례",
+    "translation": "бүдүүлэг, муу жишээ",
+    "hanja": "失禮",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "실례되다",
+    "translation": "бүдүүлэг байх",
+    "hanja": "失禮되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "실례하다",
+    "translation": "Уучлалт гуйх",
+    "hanja": "失禮하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실로",
+    "translation": "үнэхээр, үнэнээр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실로시빈",
+    "translation": "псилоцибин",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "실로폰",
+    "translation": "ксилофон",
+    "hanja": "실로폰",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실록",
+    "translation": "Бодит түүх, он цагийн хэлхээс",
+    "hanja": "實錄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실루엣",
+    "translation": "Сүүдэр",
+    "hanja": "실루엣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실룩",
+    "translation": "шилүүдэн",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실룩거리다",
+    "translation": "чичигнэх, анивчих",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실룩실룩",
+    "translation": "Бөнжигнөх, аяархан хөдлөх",
+    "hanja": "실룩실룩",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실리",
+    "translation": "Бодит ашиг",
+    "hanja": "実利",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "실리다",
+    "translation": "Ачигдах, хэвлэгдэх",
+    "hanja": "實—",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실리적",
+    "translation": "практик, ашиг хонжоотой",
+    "hanja": "實利的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실리카",
+    "translation": "цахиур",
+    "hanja": "실리카",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "실리콘",
+    "translation": "Силикон",
+    "hanja": "실리콘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실린더",
+    "translation": "цилиндр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실링",
+    "translation": "тааз; шиллинг (мөнгөн тэмдэгт)",
+    "hanja": "실링",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실마리",
+    "translation": "Утасны үзүүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실망",
+    "translation": "урам хугарах",
+    "hanja": "失望",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실망감",
+    "translation": "урам хугарах",
+    "hanja": "失望感",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "실망스럽다",
+    "translation": "урам хугарах",
+    "hanja": "失望스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실망시키다",
+    "translation": "урмыг хугалах",
+    "hanja": "失望시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실망하다",
+    "translation": "Урам хугарах",
+    "hanja": "失望하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실명",
+    "translation": "жинхэнэ нэр",
+    "hanja": "實名",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실명되다",
+    "translation": "харалган болох",
+    "hanja": "失明-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실명제",
+    "translation": "жинхэнэ нэрээр",
+    "hanja": "實名制",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "실명하다",
+    "translation": "Харах чадвараа алдах",
+    "hanja": "失明하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "실무",
+    "translation": "практик ажил",
+    "hanja": "實務",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실무자",
+    "translation": "хэрэгжүүлэгч",
+    "hanja": "實務者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "실무적",
+    "translation": "практик, ажил хэрэгч",
+    "hanja": "實務的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실물",
+    "translation": "Бодит зүйл",
+    "hanja": "實物",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "실미",
+    "translation": "Силми",
+    "hanja": "실미",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "실바",
+    "translation": "Силва",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "실밥",
+    "translation": "оёдлын утас",
+    "hanja": "실밥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실버",
+    "translation": "Мөнгө (өнгө)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실베스터",
+    "translation": "силвестер",
+    "hanja": "실베스터",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "실비",
+    "translation": "бодит зардал",
+    "hanja": "實費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실사",
+    "translation": "Бодит байдлын судалгаа",
+    "hanja": "實査",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실사용하다",
+    "translation": "бодит байдалд ашиглах",
+    "hanja": "實使用하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "실사하다",
+    "translation": "бодит үзлэг хийх",
+    "hanja": "實査하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실사화하다",
+    "translation": "Бодит байдалд ойртуулах",
+    "hanja": "實寫化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실상",
+    "translation": "бодит байдал",
+    "hanja": "實相",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "실생활",
+    "translation": "бодит амьдрал",
+    "hanja": "實生活",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실선",
+    "translation": "зузаан шугам, тасралтгүй шугам",
+    "hanja": "實線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실성",
+    "translation": "галзуурах",
+    "hanja": "失性",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실성하다",
+    "translation": "галзуурах",
+    "hanja": "失性하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실세",
+    "translation": "бодит хүч",
+    "hanja": "實勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실소",
+    "translation": "хөхрөлт",
+    "hanja": "失笑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실소하다",
+    "translation": "инээх, инээд алдах",
+    "hanja": "失笑하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실속",
+    "translation": "ашиг тус",
+    "hanja": "實속",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실수",
+    "translation": "алдаа",
+    "hanja": "失手",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "실수투성이",
+    "translation": "алдаатай",
+    "hanja": "失手투성이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실수하다",
+    "translation": "алдаа гаргах",
+    "hanja": "失手하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실습",
+    "translation": "дадлага",
+    "hanja": "實習",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "실습비",
+    "translation": "практикийн төлбөр",
+    "hanja": "實習費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실습생",
+    "translation": "дадлагажигч, интэрн",
+    "hanja": "實習生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실습실",
+    "translation": "дадлагын өрөө, лаборатори",
+    "hanja": "實習室",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실습하다",
+    "translation": "дадлага хийх",
+    "hanja": "實習하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "실시",
+    "translation": "Хэрэгжүүлэх, гүйцэтгэх",
+    "hanja": "實施",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실시간",
+    "translation": "бодит цаг хугацаа",
+    "hanja": "實時間",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "실시되다",
+    "translation": "Хэрэгжих, гүйцэтгэгдэх",
+    "hanja": "實施되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실시하다",
+    "translation": "гүйцэтгэх, хэрэгжүүлэх",
+    "hanja": "實施",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "실신",
+    "translation": "ухаан алдах",
+    "hanja": "失神",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실신하다",
+    "translation": "ухаан алдах",
+    "hanja": "失神하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실실거리다",
+    "translation": "инээмсэглэх, шоошгонох",
+    "hanja": "없음",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실실대다",
+    "translation": "инээмсэглэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실어증",
+    "translation": "яриа сулрах өвчин",
+    "hanja": "失語症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실언",
+    "translation": "алдаатай үг, бодлогогүй үг",
+    "hanja": "失言",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "실언하다",
+    "translation": "алдаатай үг хэлэх",
+    "hanja": "失言-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실업",
+    "translation": "ажилгүйдэл",
+    "hanja": " sireop",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "실업가",
+    "translation": "Аж үйлдвэрч",
+    "hanja": "實業家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실업계",
+    "translation": "аж үйлдвэрийн салбар",
+    "hanja": "實業界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실업률",
+    "translation": "ажилгүйдлийн түвшин",
+    "hanja": "失業率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실업자",
+    "translation": "ажилгүй хүн",
+    "hanja": "失業者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실업하다",
+    "translation": "ажилгүй болох",
+    "hanja": "失業하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실없다",
+    "translation": "Үнэ цэнгүй",
+    "hanja": "實없다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "실없이",
+    "translation": "утга учиргүй, хоосон, дэмий",
+    "hanja": "實없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실연",
+    "translation": "Хайраас хагацах",
+    "hanja": "失戀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실연하다",
+    "translation": "буруу хийх",
+    "hanja": "失演하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실오라기",
+    "translation": "Утас",
+    "hanja": "실오라기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실온",
+    "translation": "Өрөөний температур",
+    "hanja": "室溫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실외",
+    "translation": "гадаа, гадаад",
+    "hanja": "室外",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실용",
+    "translation": "бодит хэрэглээ, практик",
+    "hanja": "實用",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "실용서",
+    "translation": "практик ном",
+    "hanja": "實用書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실용성",
+    "translation": "практикт хэрэглэх боломжтой байдал",
+    "hanja": "실용성(實用性)",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "실용적",
+    "translation": "практикт",
+    "hanja": "實用的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "실용주의",
+    "translation": "прагматизм",
+    "hanja": "實用主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실용화",
+    "translation": "практикт хэрэгжүүлэх",
+    "hanja": "實用化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "실용화되다",
+    "translation": "Практикт нэвтрэх, хэрэгжиж эхлэх",
+    "hanja": "實用化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실용화하다",
+    "translation": "Ашиглалтад оруулах, практикт нэвтрүүлэх",
+    "hanja": "實用化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실의",
+    "translation": "Уйтгар гуниг",
+    "hanja": "失意",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "실익",
+    "translation": "Бодит ашиг",
+    "hanja": "實益",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실장",
+    "translation": "Албаны дарга",
+    "hanja": "室長",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "실재",
+    "translation": "бодит байдал",
+    "hanja": "實在",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실재하다",
+    "translation": "бодит орших",
+    "hanja": "實在하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실적",
+    "translation": "гүйцэтгэл, үр дүн",
+    "hanja": "實績",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실전",
+    "translation": "бодит тулаан",
+    "hanja": "實戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실전되다",
+    "translation": "алдагдах, үрэгдэх",
+    "hanja": "失傳되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "실점",
+    "translation": "оноо алдах",
+    "hanja": "失點",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실점하다",
+    "translation": "Оноо алдах",
+    "hanja": "失點하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실정",
+    "translation": "бодит байдал",
+    "hanja": "實情",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "실제",
+    "translation": "бодит байдал",
+    "hanja": "實際",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실조",
+    "translation": "үл зохицох",
+    "hanja": "失調",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "실족",
+    "translation": "хөл алдах",
+    "hanja": "失足",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실족사하다",
+    "translation": "бүдэрч үхэх",
+    "hanja": "失足死하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실족하다",
+    "translation": "Хөл алдах",
+    "hanja": "失足하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "실존",
+    "translation": "бодит оршихуй",
+    "hanja": "實存",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실존적",
+    "translation": "оршихуйн",
+    "hanja": "實存的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실존주의",
+    "translation": "экзистенциализм",
+    "hanja": "實存主義",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "실존하다",
+    "translation": "бодит орших",
+    "hanja": "實存하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실종",
+    "translation": "ор сураггүй алга болох",
+    "hanja": "실종(失踪)",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "실종되다",
+    "translation": "Сураггүй болох",
+    "hanja": "失踪되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실종자",
+    "translation": "сураггүй алга болсон хүн",
+    "hanja": "失踪者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실증",
+    "translation": "бодит баталгаа, үнэн баримт",
+    "hanja": "實證",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "실증적",
+    "translation": "Практик, туршлагатай",
+    "hanja": "實證的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실증하다",
+    "translation": "Баталгаажуулах",
+    "hanja": "實證하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실직",
+    "translation": "Ажилгүй болох",
+    "hanja": "失職",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "실직자",
+    "translation": "ажилгүй хүн",
+    "hanja": "실직자(失職者)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실직하다",
+    "translation": "ажлаа алдах, ажилгүй болох",
+    "hanja": "失職하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실질",
+    "translation": "бодит байдал",
+    "hanja": "實質",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실질적",
+    "translation": "бодит",
+    "hanja": "實質的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "실쭉",
+    "translation": "хумиатай, үрчийсэн",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "실착",
+    "translation": "алдаа, эндүүрэл",
+    "hanja": "失着",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실책",
+    "translation": "буруу алхам",
+    "hanja": "실책(失策)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실천",
+    "translation": "хэрэгжүүлэх",
+    "hanja": "實踐",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "실천되다",
+    "translation": "хэрэгжих",
+    "hanja": "實踐되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실천력",
+    "translation": "хэрэгжүүлэх чадвар",
+    "hanja": "實踐力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실천적",
+    "translation": "практик, бодит",
+    "hanja": "實踐的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실천하다",
+    "translation": "хэрэгжүүлэх",
+    "hanja": "實踐하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "실체",
+    "translation": "бодит байдал",
+    "hanja": "實體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실체화하다",
+    "translation": "бодит болгох",
+    "hanja": "實體化하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "실총",
+    "translation": "Буугаар буудах",
+    "hanja": "實銃",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "실추",
+    "translation": "нэр хүнд унах",
+    "hanja": "失墜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실추되다",
+    "translation": "нэр хүндээ алдах, унах",
+    "hanja": "失墜되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "실추시키다",
+    "translation": "нэр хүндийг унагаах",
+    "hanja": "失墜시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실추하다",
+    "translation": "унагаах, нэр хүндээ алдах",
+    "hanja": "失墜하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실축",
+    "translation": "алдаа",
+    "hanja": "失蹴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실축하다",
+    "translation": "Алдаа хийх, буруу тооцоолох",
+    "hanja": "失築하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실측",
+    "translation": "бодит хэмжилт",
+    "hanja": "實測",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실측하다",
+    "translation": "хэмжих",
+    "hanja": "實測하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실컷",
+    "translation": "хүссэнээрээ",
+    "hanja": "실컷",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실크",
+    "translation": "торго",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실크해트",
+    "translation": "Торгоны малгай",
+    "hanja": "silk hat",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실키",
+    "translation": "торгомсог, зөөлөн",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "실탄",
+    "translation": "бодит сум",
+    "hanja": "實彈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실태",
+    "translation": "бодит байдал",
+    "hanja": "實態",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "실토",
+    "translation": "нуугаагүй хэлэх",
+    "hanja": "實吐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실토하다",
+    "translation": "Үнэнийг хэлэх, нээлттэй ярих",
+    "hanja": "實吐하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "실트",
+    "translation": "Элс",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실파",
+    "translation": "согино",
+    "hanja": "실파",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실팍하다",
+    "translation": "Бат бөх, хатуу",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실패",
+    "translation": "бүтэлгүйтэл",
+    "hanja": "失敗",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실패자",
+    "translation": "азгүй хүн, бүтэлгүйтсэн хүн",
+    "hanja": "失敗者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실패작",
+    "translation": "Амжилтгүй бүтээл",
+    "hanja": "失敗作",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "실패하다",
+    "translation": "амжилтгүй болох",
+    "hanja": "失敗─",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "실포",
+    "translation": "жинхэнэ багц",
+    "hanja": "實包",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실프다",
+    "translation": "Уйтгарлах, гуниглах",
+    "hanja": "실프다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실피",
+    "translation": "Нимгэн судлууд, нимгэн арьс",
+    "hanja": "실피",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "실핏줄",
+    "translation": "Судас, хялгасан судас",
+    "hanja": "실핏줄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실하다",
+    "translation": "бат бөх, чанга",
+    "hanja": "實하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실학",
+    "translation": "практик судлал",
+    "hanja": "實學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실행",
+    "translation": "хэрэгжүүлэх",
+    "hanja": "實行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실행되다",
+    "translation": "гүйцэтгэгдэх, хэрэгжих",
+    "hanja": "實行되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실행하다",
+    "translation": "Биелүүлэх",
+    "hanja": "實行하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실향민",
+    "translation": "нутгаасаа дүрвэгч",
+    "hanja": "失鄕民",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "실험",
+    "translation": "туршилт",
+    "hanja": "實驗",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "실험실",
+    "translation": "Лаборатори",
+    "hanja": "實驗室",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "실험적",
+    "translation": "туршилтын",
+    "hanja": "實驗的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "실험하다",
+    "translation": "туршилт хийх",
+    "hanja": "實驗하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "실현",
+    "translation": "хэрэгжилт, биелэлт",
+    "hanja": "實現",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실현되다",
+    "translation": "биелэх",
+    "hanja": "實現되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실현시키다",
+    "translation": "хэрэгжүүлэх",
+    "hanja": "實現시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실현하다",
+    "translation": "хэрэгжүүлэх",
+    "hanja": "實現하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실형",
+    "translation": "бодит ял",
+    "hanja": "實刑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실화",
+    "translation": "Бодит түүх",
+    "hanja": "實話",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "실황",
+    "translation": "бодит нөхцөл байдал",
+    "hanja": "實況",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실효",
+    "translation": "бодит үр дүн",
+    "hanja": "實效",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실효성",
+    "translation": "үр дүн, үр ашиг",
+    "hanja": "實效性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "실히",
+    "translation": "үнэхээр",
+    "hanja": "實히",
+    "pos": "adverb",
+    "cefr": "B2"
+  }
+]

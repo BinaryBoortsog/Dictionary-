@@ -1,0 +1,324 @@
+[
+  {
+    "word": "콜",
+    "translation": "дуудах",
+    "hanja": "call",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "콜더",
+    "translation": "колдэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콜드브루",
+    "translation": "хүйтэн хандмал",
+    "hanja": "cold brew",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "콜드웰",
+    "translation": "Колдвелл (нэр)",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "콜라",
+    "translation": "кола",
+    "hanja": "cola",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "콜라겐",
+    "translation": "Коллаген",
+    "hanja": "콜라겐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콜라드",
+    "translation": "коллад (ургамал)",
+    "hanja": "Collard",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콜라보",
+    "translation": "хамтын ажиллагаа",
+    "hanja": "콜라보",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜라보레이션",
+    "translation": "Хамтын ажиллагаа",
+    "hanja": "collaboration",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜라보하다",
+    "translation": "хамтран ажиллах, коллабораци хийх",
+    "hanja": "Collaboration하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜라비",
+    "translation": "кохлраби",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜라주",
+    "translation": "коллаж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜러",
+    "translation": "Кёллер",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜럼버스",
+    "translation": "Колумб",
+    "hanja": "Columbus",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜레라",
+    "translation": "холер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜레스테롤",
+    "translation": "холестерол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜레트",
+    "translation": "Колетт",
+    "hanja": "콜레트",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "콜렉션",
+    "translation": "цуглуулга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜렉터",
+    "translation": "цуглуулагч",
+    "hanja": "null",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜로니아",
+    "translation": "колониа (хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콜로니얼",
+    "translation": "колоничлолын",
+    "hanja": "colonial",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜로라도주",
+    "translation": "Колорадо муж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜로서스",
+    "translation": "Колосс, асар том хөшөө",
+    "hanja": "콜로서스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "콜로세움",
+    "translation": "Колизей",
+    "hanja": "콜로세움",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콜록",
+    "translation": "ханиалгах дуу",
+    "hanja": "콜록",
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "콜록거리다",
+    "translation": "Ханиалгах",
+    "hanja": "N/A",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "콜록대다",
+    "translation": "ханиалгах",
+    "hanja": "콜록대다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "콜록콜록",
+    "translation": "ханиалгах чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "콜록콜록하다",
+    "translation": "Ханиалгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜롬보",
+    "translation": "Коломбо",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜롬비아",
+    "translation": "Колумб",
+    "hanja": "콜롬비아",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "콜리",
+    "translation": "Колли",
+    "hanja": "콜리",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "콜리플라워",
+    "translation": "цагаан цэцэгт байцаа",
+    "hanja": "콜리플라워",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "콜린",
+    "translation": "колин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜린스",
+    "translation": "Коллинс (нэр)",
+    "hanja": "Collins",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "콜린에스테라아제",
+    "translation": "холинэстераза",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "콜먼",
+    "translation": "колман",
+    "hanja": "콜먼",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜백",
+    "translation": "буцааж залгах",
+    "hanja": "call back",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "콜슬로",
+    "translation": "коулслоу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜카타",
+    "translation": "Калькутта",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜콜",
+    "translation": "хурхирах чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜키지",
+    "translation": "үйлчилгээний хураамж",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콜타르",
+    "translation": "нүүрсний давирхай",
+    "hanja": "콜타르",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜택시",
+    "translation": "дуудаж ирүүлсэн такси",
+    "hanja": "call taxi",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "콜트",
+    "translation": "кольт",
+    "hanja": "Colt",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콜트레인",
+    "translation": "Колтрейн (Trane - нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

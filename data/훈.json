@@ -1,0 +1,261 @@
+[
+  {
+    "word": "훈",
+    "translation": "хүндэтгэл",
+    "hanja": "訓",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "훈계",
+    "translation": "заавар, сургамж",
+    "hanja": "訓戒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "훈계하다",
+    "translation": "зааварчлах",
+    "hanja": "訓戒하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "훈구",
+    "translation": "далайд ойрхон",
+    "hanja": "訓舊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "훈기",
+    "translation": "Дулаан агаар",
+    "hanja": "薰氣",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "훈남",
+    "translation": "сайхан залуу",
+    "hanja": "訓男",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "훈녀",
+    "translation": "сайхан охин",
+    "hanja": "薰女",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "훈도",
+    "translation": "сурган хүмүүжүүлэх",
+    "hanja": "訓導",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "훈련",
+    "translation": "сургалт",
+    "hanja": "訓練",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "훈련되다",
+    "translation": "дасгалждаг, сургагдах",
+    "hanja": "訓練되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "훈련병",
+    "translation": "Сургалтын цэрэг",
+    "hanja": "訓練兵",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "훈련생",
+    "translation": "дадлагажигч, суралцагч",
+    "hanja": "訓練生",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "훈련소",
+    "translation": "Сургалтын төв",
+    "hanja": "訓練所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "훈련시키다",
+    "translation": "сургах",
+    "hanja": "訓練시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "훈련하다",
+    "translation": "дасгал сургууль хийх",
+    "hanja": "訓練하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "훈령",
+    "translation": "заавар",
+    "hanja": "訓令",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "훈민",
+    "translation": "Хунмин",
+    "hanja": "訓民",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "훈민정음",
+    "translation": "Хунминжонгим (Солонгос цагаан толгойн эртний нэр)",
+    "hanja": "訓民正音",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "훈방",
+    "translation": "сануулан суллах",
+    "hanja": "訓放",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "훈방되다",
+    "translation": "зөвлөгөө өгч суллагдах",
+    "hanja": "訓放되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "훈석",
+    "translation": "албан тушаалын нэр",
+    "hanja": "薰席",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "훈수",
+    "translation": "зөвлөгөө",
+    "hanja": "訓手",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "훈시",
+    "translation": "заавар",
+    "hanja": "訓示",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "훈연",
+    "translation": "утлага",
+    "hanja": "燻煙",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "훈연하다",
+    "translation": "Утaaгаар дарах",
+    "hanja": "燻煙하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "훈육",
+    "translation": "Сургамж",
+    "hanja": "訓育",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "훈육하다",
+    "translation": "сахилга баттай болгох",
+    "hanja": "訓育하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "훈자",
+    "translation": "Хүнз",
+    "hanja": "Hunza",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "훈장",
+    "translation": "одон, медаль",
+    "hanja": "勳章",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "훈제",
+    "translation": "Утсан мах",
+    "hanja": "薰製",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "훈제하다",
+    "translation": "утсан бүтээгдэхүүн хийх",
+    "hanja": "燻製하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "훈증",
+    "translation": "утлага (Анагаах)",
+    "hanja": "薰蒸",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "훈춘",
+    "translation": "Хүнчүнь",
+    "hanja": "琿春",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "훈툰",
+    "translation": "хуантан (хятад хоол)",
+    "hanja": "餛飩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "훈풍",
+    "translation": "зөөлөн салхи",
+    "hanja": "薰風",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "훈화",
+    "translation": "сургаал",
+    "hanja": "訓話",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "훈훈하다",
+    "translation": "дулаахан",
+    "hanja": "薰薰하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  }
+]

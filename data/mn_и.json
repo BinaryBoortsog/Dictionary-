@@ -1,0 +1,8941 @@
+[
+  {
+    "word": "오",
+    "translation": "ирэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "보내다",
+    "translation": "илгээх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "이렇다",
+    "translation": "иймэрхүү",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "더",
+    "translation": "илүү",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "먹다",
+    "translation": "идэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "많이",
+    "translation": "их",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "오다",
+    "translation": "ирэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "웃다",
+    "translation": "инээх",
+    "hanja": "웃다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "믿다",
+    "translation": "итгэх",
+    "hanja": "믿다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "표현",
+    "translation": "илэрхийлэл",
+    "hanja": "表現",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "훨씬",
+    "translation": "Илүү их",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "도착하다",
+    "translation": "ирэх",
+    "hanja": "到着하다",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "나타나다",
+    "translation": "илрэх, гарч ирэх",
+    "hanja": "나타나다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보통",
+    "translation": "ихэвчлэн, ердийн",
+    "hanja": "普通",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대부분",
+    "translation": "ихэнх, дийлэнх",
+    "hanja": "大部分",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인터넷",
+    "translation": "интернет",
+    "hanja": "internet",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "표현하다",
+    "translation": "илэрхийлэх",
+    "hanja": "表現하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "더욱",
+    "translation": "илүү",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드러나다",
+    "translation": "илчлэгдэх",
+    "hanja": "드러나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뻔하다",
+    "translation": "Илэрхий, тодорхой",
+    "hanja": "뻔하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대학",
+    "translation": "Их сургууль",
+    "hanja": "大學",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "시민",
+    "translation": "иргэн",
+    "hanja": "市民",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "발표",
+    "translation": "Илтгэл",
+    "hanja": "發表",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "드러내다",
+    "translation": "илчлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미소",
+    "translation": "инээмсэглэл",
+    "hanja": "微笑",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "인천",
+    "translation": "Инчон",
+    "hanja": "仁川",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "이러다",
+    "translation": "ингэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부끄럽다",
+    "translation": "ичих",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공개",
+    "translation": "ил болгох",
+    "hanja": "公開",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요렇다",
+    "translation": "иймэрхүү байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "웃기다",
+    "translation": "инээлгэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여유",
+    "translation": "илүү цаг",
+    "hanja": "餘裕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이스라엘",
+    "translation": "Израил",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "적극적",
+    "translation": "идэвхтэй",
+    "hanja": "積極的",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "이탈리아",
+    "translation": "Итали",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "나타내다",
+    "translation": "илэрхийлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "활동하다",
+    "translation": "идэвхтэй байх",
+    "hanja": "活動-",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내년",
+    "translation": "ирэх жил",
+    "hanja": "來年",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "흔히",
+    "translation": "ихэвчлэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "탄핵",
+    "translation": "импичмент",
+    "hanja": "彈劾",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "택배",
+    "translation": "илгээмж",
+    "hanja": "宅配",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "스페인",
+    "translation": "Испани",
+    "hanja": "스페인",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "내보내다",
+    "translation": "илгээх, гаргах",
+    "hanja": "내보내다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "확신",
+    "translation": "итгэл",
+    "hanja": "確信",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "도착",
+    "translation": "ирэх",
+    "hanja": "到着",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "대학교",
+    "translation": "их сургууль",
+    "hanja": "大學校",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "마법사",
+    "translation": "илбэчин",
+    "hanja": "魔法師",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발견",
+    "translation": "илрүүлэг, олдоц",
+    "hanja": "發見",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대학생",
+    "translation": "их сургуулийн оюутан",
+    "hanja": "大學生",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "상당하다",
+    "translation": "ихээхэн, нилээд",
+    "hanja": " 상당하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "백화점",
+    "translation": "их дэлгүүр",
+    "hanja": "百貨店",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수능",
+    "translation": "их сургуулийн элсэлтийн шалгалт",
+    "hanja": "修能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소위",
+    "translation": "ихэнхдээ",
+    "hanja": "所謂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여호와",
+    "translation": "Иехова",
+    "hanja": "Jehovah",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신뢰",
+    "translation": "итгэл, найдварт байдал",
+    "hanja": "信賴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고백하다",
+    "translation": "илчлэх, хүлээн зөвшөөрөх",
+    "hanja": "告白하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창피하다",
+    "translation": "ичих, ичгүүртэй",
+    "hanja": "瘡疤하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "확신하다",
+    "translation": "итгэлтэй байх, батлах",
+    "hanja": "確信하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "선호하다",
+    "translation": "илүүд үзэх",
+    "hanja": "選好하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "이런저런",
+    "translation": "Ийм тийм",
+    "hanja": "null",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "든든하다",
+    "translation": "Итгэлтэй",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향후",
+    "translation": "ирээдүйд",
+    "hanja": "向後",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대왕",
+    "translation": "их хаан",
+    "hanja": "大王",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "누리꾼",
+    "translation": "интернет хэрэглэгч",
+    "hanja": "누리꾼",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "문명",
+    "translation": "Иргэншил",
+    "hanja": "文明",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "드시다",
+    "translation": "Идэх, уух (хүндэтгэлийн)",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "메일",
+    "translation": "имэйл",
+    "hanja": "mail",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "먹히다",
+    "translation": "Идэгдэх, баригдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "노출되다",
+    "translation": "ил гарах, ил болох",
+    "hanja": "露出되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이란",
+    "translation": "Иран",
+    "hanja": "이란",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "출석하다",
+    "translation": "ирэх",
+    "hanja": "出席하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "민망하다",
+    "translation": "ичгүүртэй, тавгүй",
+    "hanja": "旼望하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활발하다",
+    "translation": "идэвхтэй, сэргэлэн",
+    "hanja": "活潑하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적극",
+    "translation": "идэвхтэй",
+    "hanja": "積極",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "대개",
+    "translation": "ихэвчлэн",
+    "hanja": "大槪",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "연설",
+    "translation": "илтгэл",
+    "hanja": "演說",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대량",
+    "translation": "их хэмжээний",
+    "hanja": "大量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혁신",
+    "translation": "инноваци",
+    "hanja": "革新",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "더욱더",
+    "translation": "илүү их",
+    "hanja": "더욱더",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동일하다",
+    "translation": "ижил",
+    "hanja": "同一하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "벚꽃",
+    "translation": "интоор",
+    "hanja": "벚꽃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쓰다듬다",
+    "translation": "илэх",
+    "hanja": "쓰다듬다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "신원",
+    "translation": "иргэний үнэмлэх",
+    "hanja": "신원(身元)",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "한층",
+    "translation": "илүү, улам их",
+    "hanja": "한層",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "이상형",
+    "translation": "идеал төрх",
+    "hanja": "理想型",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "적발되다",
+    "translation": "илчлэгдэх",
+    "hanja": "摘發되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칼로리",
+    "translation": "Илчлэг",
+    "hanja": "칼로리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "블레이드",
+    "translation": "Ир",
+    "hanja": "블레이드",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인도네시아",
+    "translation": "Индонези",
+    "hanja": "인도네시아",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "신앙",
+    "translation": "итгэл",
+    "hanja": "信仰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출석",
+    "translation": "ирэц",
+    "hanja": "出席",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "현역",
+    "translation": "идэвхтэй алба",
+    "hanja": "現役",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발효",
+    "translation": "исгэх",
+    "hanja": "發酵",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "의뢰하다",
+    "translation": "итгэж даатгах, захиалах",
+    "hanja": "依賴하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "개그맨",
+    "translation": "инээдмийн жүжигчин, хошин шогийн жүжигчин",
+    "hanja": "개그맨",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "활성화",
+    "translation": "идэвхжүүлэх",
+    "hanja": "活性化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쪽팔리다",
+    "translation": "ичих, нүүр хийх газаргүй болох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강연",
+    "translation": "илтгэл, лекц",
+    "hanja": "講演",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "개그",
+    "translation": "инээдмийн тоглолт",
+    "hanja": "gag",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "밝혀내다",
+    "translation": "илрүүлэх, тодруулах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체리",
+    "translation": "интоор",
+    "hanja": "체리",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "막대하다",
+    "translation": "их, асар том",
+    "hanja": "莫大하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활약",
+    "translation": "идэвхтэй ажиллагаа",
+    "hanja": "活躍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투명",
+    "translation": "ил тод",
+    "hanja": "透明",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대다수",
+    "translation": "ихэнх",
+    "hanja": "大多數",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신분증",
+    "translation": "иргэний үнэмлэх",
+    "hanja": "身分證",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "매직",
+    "translation": "Ид шид",
+    "hanja": "magic",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "이메일",
+    "translation": "Имэйл",
+    "hanja": "이메일",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "웃음소리",
+    "translation": "Инээд",
+    "hanja": "웃음소리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "후원",
+    "translation": "Ивээн тэтгэгч",
+    "hanja": "後援",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표현되다",
+    "translation": "Илэрхийлэгдэх",
+    "hanja": "表現되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "마술",
+    "translation": "Илбэ",
+    "hanja": "魔術",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "뻔뻔하다",
+    "translation": "ичих нүүрээ улалзуулахгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민원",
+    "translation": "иргэний өргөдөл",
+    "hanja": "民願",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "상당수",
+    "translation": "ихэнх нь",
+    "hanja": "相當數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대폭",
+    "translation": "их хэмжээгээр",
+    "hanja": "大幅",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "국적",
+    "translation": "Иргэншил",
+    "hanja": "國籍",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "진로",
+    "translation": "Ирээдүйн зам",
+    "hanja": "進路",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "표하다",
+    "translation": "илэрхийлэх",
+    "hanja": "表하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처먹다",
+    "translation": "идэх (грубо)",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요거트",
+    "translation": "Иогурт",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "키트",
+    "translation": "иж бүрдэл",
+    "hanja": "kit",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "휩쓸다",
+    "translation": "идэх, устгах",
+    "hanja": "휩쓸다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이토록",
+    "translation": "ийм их",
+    "hanja": "이토록",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신뢰하다",
+    "translation": "итгэх, найдах",
+    "hanja": "信賴하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "아일랜드",
+    "translation": "Ирланд",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "엑스",
+    "translation": "Икс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "신념",
+    "translation": "Итгэл үнэмшил",
+    "hanja": "信念",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쑥스럽다",
+    "translation": "ичихүйц",
+    "hanja": "쑥스럽다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "검출되다",
+    "translation": "Илрүүлэх",
+    "hanja": "檢出道다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이슬람",
+    "translation": "Ислам",
+    "hanja": "이슬람",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예루살렘",
+    "translation": "Иерусалим",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "이브",
+    "translation": "Ив (нэр)",
+    "hanja": "Eve",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "인용",
+    "translation": "Иш татах",
+    "hanja": "引用",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "노출",
+    "translation": "Ил гаргах",
+    "hanja": "露出",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "활약하다",
+    "translation": "Идэвхтэй оролцох",
+    "hanja": "活躍하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "큰돈",
+    "translation": "их мөнгө",
+    "hanja": "큰돈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피식",
+    "translation": "инээх дуу",
+    "hanja": "피식",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이순신",
+    "translation": "И Сүньшинь",
+    "hanja": "李舜臣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수입하다",
+    "translation": "импортлох",
+    "hanja": "輸入하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "노골적",
+    "translation": "Илэн далангүй, нилээд тод",
+    "hanja": "露骨的",
+    "pos": "관형사/명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "마술사",
+    "translation": "илбэчин",
+    "hanja": "魔術師",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "엔지니어",
+    "translation": "инженер",
+    "hanja": "engineer",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "이라크",
+    "translation": "Ирак",
+    "hanja": "Iraq",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "자백",
+    "translation": "илчлэх",
+    "hanja": "自白",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "후원하다",
+    "translation": "ивээн тэтгэгч",
+    "hanja": "後援하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "인용하다",
+    "translation": "иш татах",
+    "hanja": "引用하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "오가다",
+    "translation": "ирэх очих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내비치다",
+    "translation": "илчлэх, үзүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인플레이션",
+    "translation": "инфляци",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인터페이스",
+    "translation": "интерфейс",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "폭로하다",
+    "translation": "Ил болгох",
+    "hanja": "暴露하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수줍다",
+    "translation": "Ичимхий",
+    "hanja": "수줍다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "엔",
+    "translation": "Иен",
+    "hanja": "圓",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "뻔히",
+    "translation": "илт, тодорхой",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민간인",
+    "translation": "иргэн",
+    "hanja": "民間人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신용",
+    "translation": "итгэл",
+    "hanja": "信用",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "활성화되다",
+    "translation": "идэвхжих",
+    "hanja": "活性化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "그럴싸하다",
+    "translation": "итгэмээргүй",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대망",
+    "translation": "их хүсэл",
+    "hanja": "大望",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대포",
+    "translation": "их буу",
+    "hanja": "大砲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "과잉",
+    "translation": "илүүдэл",
+    "hanja": "過剩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쌍둥이",
+    "translation": "ихэр",
+    "hanja": "쌍둥이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "폭로",
+    "translation": "илчлэх",
+    "hanja": "暴露",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "거액",
+    "translation": "их хэмжээний мөнгө, их мөнгө",
+    "hanja": "巨額",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기술자",
+    "translation": "инженер, техникч",
+    "hanja": "技術者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "파견",
+    "translation": "Илгээх",
+    "hanja": "派遣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얻어먹다",
+    "translation": "Идэх",
+    "hanja": "얻어먹다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "엣지",
+    "translation": "Ирмэг",
+    "hanja": "edge",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어루만지다",
+    "translation": "Илж таалах",
+    "hanja": "어루만지다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "이즈",
+    "translation": "Ийз",
+    "hanja": "이즈",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내전",
+    "translation": "иргэний дайн",
+    "hanja": "內戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "장래",
+    "translation": "ирээдүй",
+    "hanja": "將來",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "만지작거리다",
+    "translation": "илэх, оролдох",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "앞날",
+    "translation": "ирээдүй",
+    "hanja": "앞날",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "표명하다",
+    "translation": "илэрхийлэх",
+    "hanja": "表明하다",
+    "pos": "ү.ү.",
+    "cefr": "B2"
+  },
+  {
+    "word": "스페인어",
+    "translation": "Испани хэл",
+    "hanja": "西班牙語",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "신도",
+    "translation": "итгэлтэн",
+    "hanja": "信徒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭설",
+    "translation": "их цас",
+    "hanja": "暴雪",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "크리드",
+    "translation": "итгэл үнэмшил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소극적",
+    "translation": "идэвхгүй, сөрөг",
+    "hanja": "消極的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발효되다",
+    "translation": "исэх",
+    "hanja": "醱酵되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소질",
+    "translation": "идэвх",
+    "hanja": "素質",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕창",
+    "translation": "их хэмжээгээр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발표회",
+    "translation": "илтгэлийн арга хэмжээ",
+    "hanja": "發表會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "먹잇감",
+    "translation": "идэш тэжээл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동향",
+    "translation": "Ижил чиг хандлага, нэг нутгийн хүн",
+    "hanja": "動向",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "당나귀",
+    "translation": "Илжиг",
+    "hanja": "당나귀",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "앞길",
+    "translation": "ирээдүй",
+    "hanja": "앞길",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "새콤하다",
+    "translation": "исгэлэн амттай",
+    "hanja": "",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡수다",
+    "translation": "идэх, уух (хүндэтгэлийн)",
+    "hanja": "",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "네티즌",
+    "translation": "интернэт хэрэглэгч",
+    "hanja": "netizen",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대감",
+    "translation": "Их тайж",
+    "hanja": "大監",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대주주",
+    "translation": "Их хувьцаа эзэмшигч",
+    "hanja": "大株主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "선호",
+    "translation": "илүүд үзэх",
+    "hanja": "選好",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "토로하다",
+    "translation": "Илчлэх",
+    "hanja": "吐露하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대용량",
+    "translation": "Их багтаамжтай",
+    "hanja": "大容量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "우스꽝스럽다",
+    "translation": "Инээдтэй, хөгжилтэй",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유후",
+    "translation": "их, өргөн",
+    "hanja": "悠悠",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "욥",
+    "translation": "Иов",
+    "hanja": "욥",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신자",
+    "translation": "итгэгч, шүтлэгтэн",
+    "hanja": "信者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미래",
+    "translation": "Ирээдүй",
+    "hanja": "未來",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "인슐린",
+    "translation": "Инсулин",
+    "hanja": "insulin",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "까꿍",
+    "translation": "инээлдэх",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "빙긋",
+    "translation": "Инээмсэглэх, гиюүрэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요만하다",
+    "translation": "иймэрхүү, ийм хэмжээтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동등하다",
+    "translation": "ижил тэнцүү",
+    "hanja": "同等하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이태리",
+    "translation": "Итали",
+    "hanja": "伊太利",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "잡아먹히다",
+    "translation": "идүүлэх",
+    "hanja": null,
+    "pos": "үйл",
+    "cefr": "B1"
+  },
+  {
+    "word": "믿음",
+    "translation": "итгэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "암시하다",
+    "translation": "Илэрхийлэх",
+    "hanja": "暗示하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표명",
+    "translation": "Илэрхийлэх",
+    "hanja": "表明",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쏘",
+    "translation": "ингэж, тийм учраас",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "파견되다",
+    "translation": "Илгээгдэх",
+    "hanja": "派遣되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "꿈나무",
+    "translation": "Ирээдүйн найдвар",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전송하다",
+    "translation": "илгээх",
+    "hanja": "電送하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "거만하다",
+    "translation": "ихэмсэг",
+    "hanja": "倨慢하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신맛",
+    "translation": "исгэлэн амт",
+    "hanja": "新맛",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "조커",
+    "translation": "инээдмийн, онигооч",
+    "hanja": "joker",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "이래저래",
+    "translation": "Ингэж тийнхүү",
+    "hanja": "이래저래",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수치스럽다",
+    "translation": "ичгүүртэй",
+    "hanja": "羞恥스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이성계",
+    "translation": "И Сон Ге",
+    "hanja": "李成桂(이성계)",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발각되다",
+    "translation": "илчлэгдэх, олдох",
+    "hanja": "發覺되다(발각되다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빙그레",
+    "translation": "Инээмсэглэх, баясах",
+    "hanja": "빙그레",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "기껏해야",
+    "translation": "Ихдээ л",
+    "hanja": "기껏해야",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "인덱스",
+    "translation": "Индекс",
+    "hanja": "index",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공학",
+    "translation": "Инженерчлэл",
+    "hanja": "工學",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대국",
+    "translation": "Их улс",
+    "hanja": "大國",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대입",
+    "translation": "Их сургуульд элсэх",
+    "hanja": "大入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역력하다",
+    "translation": "илт",
+    "hanja": "歷歷하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이사크",
+    "translation": "Исаак (нэр)",
+    "hanja": null,
+    "pos": "proper noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "활성화하다",
+    "translation": "идэвхжүүлэх",
+    "hanja": "活性化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "치타",
+    "translation": "Ирвэс",
+    "hanja": "cheetah",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "활발히",
+    "translation": "идэвхтэй",
+    "hanja": "活潑히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "엽서",
+    "translation": "Ил захидал",
+    "hanja": "葉書",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "주도적",
+    "translation": "Идэвхтэй, тэргүүлэх",
+    "hanja": "主導的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강호",
+    "translation": "их гол мөрөн, нуур",
+    "hanja": "江湖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검",
+    "translation": "илд, сэлэм",
+    "hanja": "劍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패러디",
+    "translation": "Инээдэмжүүлэг",
+    "hanja": "패러디",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이토",
+    "translation": "Ито (нэр)",
+    "hanja": "이토",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "계시",
+    "translation": "илчлэл",
+    "hanja": "啓示",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코미디언",
+    "translation": "инээдмийн жүжигчин",
+    "hanja": "comedian",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "폭주",
+    "translation": "их хэмжээгээр уух",
+    "hanja": "暴走",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망신",
+    "translation": "Ичгүүр, нэр төр унах",
+    "hanja": "亡身",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다량",
+    "translation": "Их хэмжээ, олон тоо",
+    "hanja": "多量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "후원자",
+    "translation": "ивээн тэтгэгч",
+    "hanja": "後援者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "싱긋",
+    "translation": "инээмсэглэх",
+    "hanja": "싱긋",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "주술사",
+    "translation": "илбэчин",
+    "hanja": "呪術師",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인디언",
+    "translation": "Индиан",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "애드리브",
+    "translation": "импровизаци, зохиомол яриа",
+    "hanja": "애드리브",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신뢰도",
+    "translation": "Итгэлцэл",
+    "hanja": "信賴度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "오락가락하다",
+    "translation": "ирэх, явах (олон удаа)",
+    "hanja": "往來-하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들통나다",
+    "translation": "илчлэгдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표현력",
+    "translation": "илэрхийлэх чадвар",
+    "hanja": "表現力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "시큼하다",
+    "translation": "исгэлэн",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "대공",
+    "translation": "ихэнх",
+    "hanja": "大功",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "인강",
+    "translation": "интернэт хичээл",
+    "hanja": "因講",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "위탁",
+    "translation": "итгэмжлэх",
+    "hanja": "委託",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "패시브",
+    "translation": "идэвхгүй",
+    "hanja": "패시브",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "야곱",
+    "translation": "Иаков",
+    "hanja": "야곱",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "표범",
+    "translation": "идэвхтэн",
+    "hanja": "豹",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "협찬",
+    "translation": "Ивээн тэтгэх",
+    "hanja": "協賛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제출되다",
+    "translation": "илгээгдэх",
+    "hanja": "提出—",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인절미",
+    "translation": "Инжолми (цагаан будааны наалддаг бялуу)",
+    "hanja": "引節미",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강대국",
+    "translation": "их гүрэн",
+    "hanja": "强大國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어쩌고저쩌고",
+    "translation": "ийш тийш",
+    "hanja": "—",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "피시방",
+    "translation": "интернэт кафе",
+    "hanja": "PC房",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "소포",
+    "translation": "илгээмж",
+    "hanja": "小包",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "먹을거리",
+    "translation": "Идэх зүйл, хүнс",
+    "hanja": "먹을거리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "허세",
+    "translation": "Ихэмсэг зан, бардам зан",
+    "hanja": "虛勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이슬람교",
+    "translation": "Исламын шашин",
+    "hanja": "이슬람교",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발송하다",
+    "translation": "илгээх, хүргэх",
+    "hanja": "發送하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적발하다",
+    "translation": "Илрүүлэх",
+    "hanja": "摘發하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "믿기다",
+    "translation": "итгэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동족",
+    "translation": "Ижил төрөл",
+    "hanja": "同族",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유다",
+    "translation": "Иуда",
+    "hanja": "猶大",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사쿠라",
+    "translation": "интоорын цэцэг",
+    "hanja": "桜",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "극찬",
+    "translation": "Их магтаал",
+    "hanja": "極讚",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "탐지",
+    "translation": "илрүүлэх",
+    "hanja": "探知",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "이세영",
+    "translation": "И Сэ-ён (хүний нэр)",
+    "hanja": "李世榮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표출하다",
+    "translation": "Илэрхийлэх",
+    "hanja": "表出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가호",
+    "translation": "Ивээл, хамгаалалт",
+    "hanja": "加護",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "더새다",
+    "translation": "илүү гоожих",
+    "hanja": "더새다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "까발리다",
+    "translation": "илчлэх",
+    "hanja": "까발리다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동체",
+    "translation": "их бие",
+    "hanja": "胴體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인덕션",
+    "translation": "индукц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이스탄불",
+    "translation": "Истанбул",
+    "hanja": "이스탄불",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "스폰서",
+    "translation": "ивээн тэтгэгч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "활동적",
+    "translation": "идэвхтэй",
+    "hanja": "活動的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "적나라하다",
+    "translation": "ил тод байх, нүцгэн байх",
+    "hanja": "赤裸裸하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "차주",
+    "translation": "ирэх долоо хоног",
+    "hanja": "次週",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "여호수아",
+    "translation": "Иошуа (хүний нэр)",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "적발",
+    "translation": "илрүүлэх, баривчлах",
+    "hanja": "摘發",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "스피치",
+    "translation": "илтгэл",
+    "hanja": null,
+    "pos": "мüns",
+    "cefr": "B1"
+  },
+  {
+    "word": "본격화하다",
+    "translation": "идэвхжүүлэх",
+    "hanja": "本格化하다",
+    "pos": "үйл үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "검술",
+    "translation": "Илдний урлаг",
+    "hanja": "劍術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신조",
+    "translation": "итгэл үнэмшил, зарчим",
+    "hanja": "信條",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "넌지시",
+    "translation": "Ил тод бус, шууд бус",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "군더더기",
+    "translation": "илүүдэл",
+    "hanja": "군더더기",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "남아돌다",
+    "translation": "Илүүдэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "웃음기",
+    "translation": "инээх сэтгэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시민권",
+    "translation": "иргэний эрх",
+    "hanja": "市民權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공대",
+    "translation": "Инженерчлэлийн коллеж",
+    "hanja": "工大",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "을",
+    "translation": "идэвхгүй утгатай үйл үгийн дагавар",
+    "hanja": "을",
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "능동적",
+    "translation": "идэвхтэй",
+    "hanja": "能動的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대학가",
+    "translation": "их сургуулийн дүүрэг",
+    "hanja": "大學街",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유망주",
+    "translation": "Ирээдүйтэй залуу тамирчин",
+    "hanja": "有望株",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현저히",
+    "translation": "илт, мэдэгдэхүйц",
+    "hanja": "顯著히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다리미",
+    "translation": "инженерийн түүх",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수동적",
+    "translation": "идэвхгүй, идэвхгүй",
+    "hanja": "受動的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수입되다",
+    "translation": "Импортлогдох",
+    "hanja": "輸入되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "노출하다",
+    "translation": "ил гаргах",
+    "hanja": "露出하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연설하다",
+    "translation": "илтгэл тавих",
+    "hanja": "演說하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이질적",
+    "translation": "ижил бус, ялгаатай",
+    "hanja": "異質的",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "아이슬란드",
+    "translation": "Исланд",
+    "hanja": "Iceland",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "검성",
+    "translation": "илдээр хийсэн",
+    "hanja": "劍聖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "증가되다",
+    "translation": "ихсэх",
+    "hanja": "增加되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "일산",
+    "translation": "Ильсан (газрын нэр)",
+    "hanja": "一山",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "액티비티",
+    "translation": "Идэвхтэй үйл ажиллагаа, актив",
+    "hanja": "activity",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대의",
+    "translation": "их утга, чухал санаа",
+    "hanja": "大義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "모어",
+    "translation": "илүү",
+    "hanja": " moe_eo",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "이노베이션",
+    "translation": "инноваци",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이닝",
+    "translation": "иннинг",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "동성",
+    "translation": "ижил хүйс",
+    "hanja": "同性",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "방긋",
+    "translation": "инээмсэглэх, баясах",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "인치",
+    "translation": "инч",
+    "hanja": "인치",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "노출시키다",
+    "translation": "илчлэх, ил гаргах",
+    "hanja": "露出시키다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "운동가",
+    "translation": "Идэвхтэн",
+    "hanja": "運動家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "연단",
+    "translation": "Инженер",
+    "hanja": "演壇",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "내란",
+    "translation": "иргэний дайн",
+    "hanja": "內亂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "증명사진",
+    "translation": "иргэний үнэмлэхний зураг",
+    "hanja": "證明寫眞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "아이덴티티",
+    "translation": "идентити",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕성하다",
+    "translation": "идэвхтэй, хөгжин цэцэглэсэн",
+    "hanja": "旺盛하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "새콤달콤",
+    "translation": "исгэлэн амттай",
+    "hanja": "새콤달콤",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "고발되다",
+    "translation": "Илчлэгдэх, мэдээлэгдэх",
+    "hanja": "告發되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발설하다",
+    "translation": "илчлэх, нууцыг дэлгэх",
+    "hanja": "發說하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무안하다",
+    "translation": "ичиж зовох",
+    "hanja": "無顔하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요만큼",
+    "translation": "иймэрхүү",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "히죽",
+    "translation": "инээх",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공인",
+    "translation": "иргэний баталгаа",
+    "hanja": "公認",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "도래하다",
+    "translation": "ирэх",
+    "hanja": "到來하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발휘",
+    "translation": "илрүүлэх",
+    "hanja": "發揮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "태반",
+    "translation": "ихэнх",
+    "hanja": "胎盤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미덥다",
+    "translation": "итгэлтэй",
+    "hanja": "미덥다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강단",
+    "translation": "индэр",
+    "hanja": "講壇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "들통",
+    "translation": "Илчлэгдэх",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "민법",
+    "translation": "Иргэний хууль",
+    "hanja": "民法",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "동식",
+    "translation": "ижил хэлбэр",
+    "hanja": "同式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발송",
+    "translation": "илгээх, хүргэх",
+    "hanja": "發送",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "보우",
+    "translation": "ивээл",
+    "hanja": "保佑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "새콤달콤하다",
+    "translation": "исгэлэн-чихэрлэг",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이러이러하다",
+    "translation": "ийм г.м., тийм г.м.",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송구스럽다",
+    "translation": "ичиж зовох, гэмших",
+    "hanja": "송구스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제국주의",
+    "translation": "империализм",
+    "hanja": "帝國主義",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발효시키다",
+    "translation": "исгэх, ферментжүүлэх",
+    "hanja": "發酵시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대성",
+    "translation": "их амжилт",
+    "hanja": "大成",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발송되다",
+    "translation": "илгээгдэх, хүргэгдэх",
+    "hanja": "發送 되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동성애",
+    "translation": "ижил хүйстний хайр дурлал",
+    "hanja": "同性愛",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "큰스님",
+    "translation": "их лам, ахмад лам",
+    "hanja": "큰스님",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "웃음거리",
+    "translation": "инээдэм, шог хошигнол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대장정",
+    "translation": "их аян",
+    "hanja": "大長征",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대청소",
+    "translation": "их цэвэрлэгээ",
+    "hanja": "大掃除",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "탐지하다",
+    "translation": "илрүүлэх",
+    "hanja": "探知하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자만하다",
+    "translation": "ихэмсэг зан гаргах, бардамнах",
+    "hanja": "自慢하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "발휘되다",
+    "translation": "илрэх, гарах",
+    "hanja": "發揮되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "웃어넘기다",
+    "translation": "Инээж өнгөрөөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탄핵하다",
+    "translation": "импичмент хийх",
+    "hanja": "彈劾하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "허허허다",
+    "translation": "инээх",
+    "hanja": "허허허다",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "웃음꽃",
+    "translation": "инээмсэглэл",
+    "hanja": "웃음꽃",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "관성",
+    "translation": "Инерци",
+    "hanja": "慣性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "거금",
+    "translation": "Их хэмжээний мөнгө",
+    "hanja": "巨金",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발신자",
+    "translation": "Илгээгч",
+    "hanja": "發信者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "들어나다",
+    "translation": "илчлэгдэх",
+    "hanja": "—",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "극찬하다",
+    "translation": "их магтах",
+    "hanja": "極讚–",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "치욕",
+    "translation": "ичгүүр",
+    "hanja": "恥辱",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "다림질",
+    "translation": "Индүүдэх",
+    "hanja": "다림질",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인터랙티브",
+    "translation": "интерактив",
+    "hanja": "interactive",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "피력하다",
+    "translation": "илэрхийлэх, тодорхойлох",
+    "hanja": "披瀝하다",
+    "pos": "ү.ү",
+    "cefr": "C1"
+  },
+  {
+    "word": "먹튀",
+    "translation": "идэж зугтах",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "스템",
+    "translation": "иш",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신뢰감",
+    "translation": "итгэл",
+    "hanja": "信賴感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "섭리",
+    "translation": "Ивээл",
+    "hanja": "攝理",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "활동가",
+    "translation": "идэвхтэн",
+    "hanja": "活動家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삭히다",
+    "translation": "исгэх",
+    "hanja": "삭히다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인터폴",
+    "translation": "Интерпол",
+    "hanja": "인터폴",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발현",
+    "translation": "илрэл",
+    "hanja": "發顯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "민사",
+    "translation": "иргэний хэрэг",
+    "hanja": "民事",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대지진",
+    "translation": "их газар хөдлөлт",
+    "hanja": "大地震",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유대교",
+    "translation": "Иудаизм",
+    "hanja": "猶太敎",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "이종훈",
+    "translation": "И Чонг Хун",
+    "hanja": "李宗勳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이탈리아어",
+    "translation": "Итали хэл",
+    "hanja": "이탈리아語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "창피",
+    "translation": "Ичгүүр",
+    "hanja": "猖披",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "술사",
+    "translation": "илбэчин",
+    "hanja": "術士",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "추장",
+    "translation": "индиан",
+    "hanja": "酋長",
+    "pos": "сущ",
+    "cefr": "B2"
+  },
+  {
+    "word": "목돈",
+    "translation": "Их мөнгө",
+    "hanja": "몫돈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "앵두",
+    "translation": "интоор",
+    "hanja": "櫻桃",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "찾아들다",
+    "translation": "ирж очих, зочлох",
+    "hanja": "찾아들다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무기력",
+    "translation": "идэвхгүй байдал, сул дорой",
+    "hanja": "無氣力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인용되다",
+    "translation": "ишлэл татагдах",
+    "hanja": "引用되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벚나무",
+    "translation": "интоорын мод",
+    "hanja": "벚나무",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산화",
+    "translation": "исэлдэлт",
+    "hanja": "酸化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광역시",
+    "translation": "их хот",
+    "hanja": "廣域市",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "나귀",
+    "translation": "илжиг",
+    "hanja": "나귀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민원실",
+    "translation": "иргэдийн өргөдөл хүлээн авах тасаг",
+    "hanja": "民願室",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공공연하다",
+    "translation": "Ил тод байх, нийтэд мэдэгдэхүйц байх",
+    "hanja": "公公然하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검출",
+    "translation": "Илрүүлэх, илрэлт",
+    "hanja": "檢出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "티다",
+    "translation": "Илэрхийлэгдэх, мэдэгдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이특",
+    "translation": "итэг",
+    "hanja": "利特",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대학교수",
+    "translation": "их сургуулийн профессор",
+    "hanja": "大學敎授",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다리다",
+    "translation": "индүүдэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "활성",
+    "translation": "идэвхтэй",
+    "hanja": "活性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "애드립",
+    "translation": "импровизаци",
+    "hanja": "애드립",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "발현되다",
+    "translation": "илрэх",
+    "hanja": "發顯되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "우편엽서",
+    "translation": "Ил захидал",
+    "hanja": "郵便葉書",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "신탁",
+    "translation": "итгэлцэл",
+    "hanja": "信託",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "민증",
+    "translation": "иргэний үнэмлэх",
+    "hanja": "民證",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "겸연쩍다",
+    "translation": "ичиж зовох",
+    "hanja": "null",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "큰절",
+    "translation": "их ёслолын мэндчилгээ",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "왕복하다",
+    "translation": "ирэх очих, давхилдах",
+    "hanja": "往復하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "갑부",
+    "translation": "их баян",
+    "hanja": "甲富",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "십중팔구",
+    "translation": "ихэнх тохиолдолд, бараг заавал",
+    "hanja": "十中八九",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이상화",
+    "translation": "Идеал болгох",
+    "hanja": "理想化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "커밍아웃",
+    "translation": "Ил гарах (бэлгийн чиг хандлага)",
+    "hanja": "coming out",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염치없다",
+    "translation": "Ичгүүргүй, нүүр байхгүй",
+    "hanja": "廉恥없다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "태왕",
+    "translation": "Их хаан",
+    "hanja": "太王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "뻔뻔스럽다",
+    "translation": "ичгүүргүй, зоригтой",
+    "hanja": "뻔뻔스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부끄",
+    "translation": "ичгүүр, ичих",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "엔지니어링",
+    "translation": "инженерчлэл",
+    "hanja": "engineering",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "결석하다",
+    "translation": "Ирээгүй",
+    "hanja": "缺席하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "먹보",
+    "translation": "Их идэш",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "희망차다",
+    "translation": "Итгэл дүүрэн байх",
+    "hanja": "希望차다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기관차",
+    "translation": "илчит тэрэг",
+    "hanja": "機關車",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미래형",
+    "translation": "ирээдүйн хэлбэр, загвар",
+    "hanja": "未來型",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "월등하다",
+    "translation": "Илүү, давамгай, давуу",
+    "hanja": "越等하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "도그마",
+    "translation": "итгэл үнэмшил",
+    "hanja": "도그마",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "싱글벙글",
+    "translation": "инээмсэглэх",
+    "hanja": "싱글벙글",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유망하다",
+    "translation": "ирээдүйтэй",
+    "hanja": "有望하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "히죽거리다",
+    "translation": "инээх",
+    "hanja": "히죽거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이러쿵저러쿵",
+    "translation": "ийм тйим юм ярих",
+    "hanja": "이러쿵저러쿵",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "레포트",
+    "translation": "илтгэл, тайлан",
+    "hanja": "null",
+    "pos": "н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "광희",
+    "translation": "их баяр хөөр",
+    "hanja": "狂喜",
+    "pos": "н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "허심탄회하다",
+    "translation": "илэн далангүй байх, чин сэтгэлээсээ байх",
+    "hanja": "虛心坦懷-",
+    "pos": "тэм.",
+    "cefr": "C1"
+  },
+  {
+    "word": "요나단",
+    "translation": "Ионадан (нэр)",
+    "hanja": "null",
+    "pos": "н.",
+    "cefr": "A1"
+  },
+  {
+    "word": "거상",
+    "translation": "их худалдаачин",
+    "hanja": "巨商",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활동성",
+    "translation": "Идэвхтэй байдал",
+    "hanja": "活動性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "익산",
+    "translation": "Иксан (хот)",
+    "hanja": "益山",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "폭음",
+    "translation": "их уух",
+    "hanja": "暴飮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "창창하다",
+    "translation": "ирээдүй нь гэрэлтэй байх, өнгөлөг байх",
+    "hanja": "昌昌하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "동면",
+    "translation": "ичээнд орох",
+    "hanja": "冬眠",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "표출되다",
+    "translation": "илрэх, ил гарах",
+    "hanja": "表出되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "동성애자",
+    "translation": "ижил хүйстэн",
+    "hanja": "同性愛者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "부끄럼",
+    "translation": "ичих",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다분히",
+    "translation": "ихэнхдээ",
+    "hanja": "多分히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "취식",
+    "translation": "идэх",
+    "hanja": "取食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코믹하다",
+    "translation": "Инээдтэй",
+    "hanja": "코믹하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동학",
+    "translation": "ижил сургуулийн сурагч",
+    "hanja": "同學",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "대승",
+    "translation": "их ялалт",
+    "hanja": "대승(大勝)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이승훈",
+    "translation": "И Сын Хүн (нэр)",
+    "hanja": "이승훈(李承勳)",
+    "pos": "인명",
+    "cefr": "A1"
+  },
+  {
+    "word": "가소롭다",
+    "translation": "инээдтэй, шооч",
+    "hanja": "가소롭다(可笑롭다)",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "황송하다",
+    "translation": "ичгүүртэй, хүндэтгэлтэй",
+    "hanja": "황송(惶悚)하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이까짓",
+    "translation": "Ийм юмыг, энэ мэт",
+    "hanja": null,
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대회장",
+    "translation": "их хуралдааны танхим",
+    "hanja": "大會場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "도도하다",
+    "translation": "ихэмсэг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유사성",
+    "translation": "ижил төстэй байдал",
+    "hanja": "類似性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예레미야",
+    "translation": "Иеремиа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이구아나",
+    "translation": "игуана",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "희극",
+    "translation": "инээдмийн жүжиг",
+    "hanja": "喜劇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대잔치",
+    "translation": "их баяр",
+    "hanja": "大-",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "능동",
+    "translation": "Идэвхтэй, үйлчлэлтэй",
+    "hanja": "能動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이중섭",
+    "translation": "И Жүн-соб",
+    "hanja": "李仲燮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동명",
+    "translation": "ижил нэртэй",
+    "hanja": "同名",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인왕",
+    "translation": "Инван",
+    "hanja": "仁王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이미르",
+    "translation": "Имир",
+    "hanja": "Ymir",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문무",
+    "translation": "иргэний ба цэргийн",
+    "hanja": "文武",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "윙윙",
+    "translation": "Ингээд",
+    "hanja": "윙윙",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빤하다",
+    "translation": "илэрхий, тодорхой",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "함박웃음",
+    "translation": "инээмсэглэл",
+    "hanja": "함박웃음",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "불명예",
+    "translation": "Ичгүүр",
+    "hanja": "不名譽",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "동질감",
+    "translation": "Ижилсэх мэдрэмж",
+    "hanja": "同質感",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "낯간지럽다",
+    "translation": "Ичмээр",
+    "hanja": "낯간지럽다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "translation": "инээх",
+    "hanja": "N/A",
+    "pos": "부사",
+    "cefr": "A2",
+    "word": "킥킥"
+  },
+  {
+    "word": "정족수",
+    "translation": "ирэлцэх тоо",
+    "hanja": "定足數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수입품",
+    "translation": "импортын бараа бүтээгдэхүүн",
+    "hanja": "輸入品",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "이황",
+    "translation": "Ий Хванг",
+    "hanja": "李滉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "곪다",
+    "translation": "идээрэх, муудах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협찬하다",
+    "translation": "ивээн тэтгэх",
+    "hanja": "協贊하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배시시",
+    "translation": "инээмсэглэх нь",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이치조",
+    "translation": "Ичижо",
+    "hanja": "一條",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "대식가",
+    "translation": "их иддэг хүн",
+    "hanja": "大食家",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "위저드",
+    "translation": "илбэчин",
+    "hanja": "위저드",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "탄로",
+    "translation": "илчлэгдэх",
+    "hanja": "綻露",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "무화과나무",
+    "translation": "инжир мод",
+    "hanja": "無花果나무",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출두하다",
+    "translation": "Ирэх",
+    "hanja": "出頭하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대소변",
+    "translation": "их, бага бие засах",
+    "hanja": "大小便",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "생글생글",
+    "translation": "инээмсэглэн",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "떼돈",
+    "translation": "их мөнгө",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "포병",
+    "translation": "их бууч",
+    "hanja": "砲兵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠식하다",
+    "translation": "идэх",
+    "hanja": "蠶食하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공학자",
+    "translation": "инженер",
+    "hanja": "工學者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고만고만하다",
+    "translation": "ижил төстэй",
+    "hanja": "고만고만하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잉카",
+    "translation": "инка",
+    "hanja": "잉카",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망신당하다",
+    "translation": "ичгүүрт орох",
+    "hanja": "M恥辱당하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신앙심",
+    "translation": "итгэл үнэмшил",
+    "hanja": "信仰心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발효하다",
+    "translation": "исгэх",
+    "hanja": "發酵하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "티내다",
+    "translation": "илчлэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "침식",
+    "translation": "идэгдэх",
+    "hanja": "侵蝕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "웃참",
+    "translation": "инээдийг тэсэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "허허벌판",
+    "translation": "их тал",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어릿광대",
+    "translation": "инээдмийн жүжигчин",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신의",
+    "translation": "итгэл",
+    "hanja": "信義",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "생긋",
+    "translation": "инээмсэглэх, тонгох",
+    "hanja": "생긋",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이글루",
+    "translation": "иглу",
+    "hanja": "igloo",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이혁",
+    "translation": "И Хёк (хүний нэр)",
+    "hanja": "李爀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "서슬",
+    "translation": "ирийн ирмэг",
+    "hanja": "西瑟",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕래하다",
+    "translation": "ирэх очих",
+    "hanja": "往來하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쭈뼛거리다",
+    "translation": "ичингүйрэх, ээрч муурах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "오다가다",
+    "translation": "ирэх явах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "낄낄대다",
+    "translation": "инээх, хөхрөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "마호",
+    "translation": "илбэ",
+    "hanja": "魔狐",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대공황",
+    "translation": "их хямрал",
+    "hanja": "大恐慌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언변",
+    "translation": "илтгэх ур чадвар",
+    "hanja": "言辯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민방위",
+    "translation": "иргэний хамгаалалт",
+    "hanja": "民防衛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수입액",
+    "translation": "импортын хэмжээ",
+    "hanja": "輸入額",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대홍수",
+    "translation": "Их үер",
+    "hanja": "大洪水",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칼춤",
+    "translation": "илдээр бүжиглэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의주",
+    "translation": "Ижүү",
+    "hanja": "義州",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요오드",
+    "translation": "Иод",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쓰담쓰담",
+    "translation": "Илэх",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대청",
+    "translation": "Их танхим",
+    "hanja": "대청",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "새콤",
+    "translation": "исгэлэн, сэрүүн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "애란",
+    "translation": "Ирланд (улсын нэр)",
+    "hanja": "愛蘭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민관",
+    "translation": "иргэд болон засгийн газар",
+    "hanja": "民官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "안마",
+    "translation": "иллэг, массаж",
+    "hanja": "按摩",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "프리젠테이션",
+    "translation": "илтгэл, танилцуулга",
+    "hanja": "프리젠테이션",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맹활약",
+    "translation": "идэвхтэй үйл ажиллагаа",
+    "hanja": "猛活躍",
+    "pos": "name",
+    "cefr": "B2"
+  },
+  {
+    "word": "인큐베이터",
+    "translation": "инкубатор",
+    "hanja": "incubator",
+    "pos": "name",
+    "cefr": "B2"
+  },
+  {
+    "word": "잔업",
+    "translation": "Илүү цагаар ажиллах",
+    "hanja": "殘業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출동시키다",
+    "translation": "илгээх",
+    "hanja": "出動시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제도권",
+    "translation": "институцийн хүрээ",
+    "hanja": "制度圈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "미온적",
+    "translation": "идэвхгүй",
+    "hanja": "微溫的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검무",
+    "translation": "Илдэн бүжиг",
+    "hanja": "劍舞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "술법",
+    "translation": "илбэ, шид",
+    "hanja": "術法",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대축제",
+    "translation": "Их баяр",
+    "hanja": "大祝祭",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대혼란",
+    "translation": "их эмх замбараагүй байдал",
+    "hanja": "大混亂",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "히죽히죽",
+    "translation": "инээх, ёжтой инээх",
+    "hanja": "히죽히죽",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이드",
+    "translation": "ид (сэтгэл зүй)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "낄낄",
+    "translation": "инээх дуу (гийн)",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "키득키득",
+    "translation": "инээх дуу",
+    "hanja": "키득키득",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "떵떵거리다",
+    "translation": "их зан гаргах",
+    "hanja": "떵떵거리다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭로되다",
+    "translation": "Илчлэгдэх",
+    "hanja": "暴露되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이븐",
+    "translation": "Ибн",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발췌",
+    "translation": "ишлэл",
+    "hanja": "拔萃",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이온",
+    "translation": "ион",
+    "hanja": "이온",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동일시하다",
+    "translation": "ижил гэж үзэх",
+    "hanja": "同一視하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표출",
+    "translation": "Илэрхийлэх",
+    "hanja": "表出",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "먹방하다",
+    "translation": "Их идэх (шуудангаар харуулах)",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "도술",
+    "translation": "илбэ",
+    "hanja": "道術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "진물",
+    "translation": "идээ",
+    "hanja": "津물",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대학살",
+    "translation": "их аллага",
+    "hanja": "大虐殺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "출두",
+    "translation": "ирэх, хүрэлцэн ирэх",
+    "hanja": "出頭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이상향",
+    "translation": "идеал ертөнц",
+    "hanja": "理想鄕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건방",
+    "translation": "ихэмсэг, бардам",
+    "hanja": "倨慢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산화되다",
+    "translation": "исэлдэх",
+    "hanja": "酸化되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유망",
+    "translation": "Ирээдүйтэй, найдвортой",
+    "hanja": "有望",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이데아",
+    "translation": "идэя, санаа",
+    "hanja": "이데아",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심복",
+    "translation": "итгэлт хүн, нарийн бичиг",
+    "hanja": "心腹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "웃지다",
+    "translation": "инээлгэх, хөгжилтэй байлгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "싹수",
+    "translation": "ирээдүйн боломж, ирээдүй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "아이온",
+    "translation": "Ион",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뻐기다",
+    "translation": "их зан гаргах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동화되다",
+    "translation": "ижилсэх",
+    "hanja": "同化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인플레",
+    "translation": "инфляци",
+    "hanja": "inflation",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "웃상",
+    "translation": "Инээж буй нүүр",
+    "hanja": "웃相",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검객",
+    "translation": "илдээр тулалдагч",
+    "hanja": "劍客",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대영",
+    "translation": "Их Британи",
+    "hanja": "大英",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "우쭐대다",
+    "translation": "их зан гаргах",
+    "hanja": "None",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혈청",
+    "translation": "ийлдэс",
+    "hanja": "血清",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "좀먹다",
+    "translation": "Идэх, тэмтрүүлэн идэх",
+    "hanja": "좀먹다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "양조",
+    "translation": "исгэх, нэрэх",
+    "hanja": "釀造",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대환영",
+    "translation": "их баярлалтай, таатай хүлээн авах",
+    "hanja": "大歡迎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "에단",
+    "translation": "Итан (хүний нэр)",
+    "hanja": "에단",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "남사스럽다",
+    "translation": "Ичмээр",
+    "hanja": "남사스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음양",
+    "translation": "инь-янь, эрэгтэй, эмэгтэй",
+    "hanja": "陰陽",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐쩍",
+    "translation": "их туранхай",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "무안",
+    "translation": "ичгүүр, нүүр хийх газар үгүй",
+    "hanja": "無顔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대첩",
+    "translation": "их ялалт",
+    "hanja": "大捷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민통선",
+    "translation": "иргэний хяналтын шугам",
+    "hanja": "民統線",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "좀체",
+    "translation": "ихэвчлэн, бараг",
+    "hanja": "좀체",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "치욕스럽다",
+    "translation": "ичгүүртэй, гутамшигтай",
+    "hanja": "恥辱스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다분하다",
+    "translation": "ихэнх, их",
+    "hanja": "多扮-",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "송출하다",
+    "translation": "илгээх, цацах",
+    "hanja": "送出-",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "이오니아",
+    "translation": "Иониа",
+    "hanja": "Ionia",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "이비",
+    "translation": "Иби (хувийн нэр)",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "메트로폴리스",
+    "translation": "их хот",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "신봉하다",
+    "translation": "итгэх, дагах",
+    "hanja": "信奉하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인벤",
+    "translation": "Инвен (тоглоомын нэр)",
+    "hanja": "Inven",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "킥킥거리다",
+    "translation": "инээх, хийх (дуу)",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공신력",
+    "translation": "итгэлцэл, нэр хүнд",
+    "hanja": "公信力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "담화문",
+    "translation": "илүүлэх бичиг",
+    "hanja": "談話文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인두",
+    "translation": "индуктор",
+    "hanja": "人頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헷",
+    "translation": "ингэх, тэгэх (тунхаглал)",
+    "hanja": "null",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "불명예스럽다",
+    "translation": "ичгүүртэй",
+    "hanja": "不名譽스럽다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "포탑",
+    "translation": "их бууны цамхаг",
+    "hanja": "砲塔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발현하다",
+    "translation": "илрэх, биелэгдэх",
+    "hanja": "發顯하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "후원회",
+    "translation": "ивээн тэтгэгчдийн хурал",
+    "hanja": "後援會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "들춰내다",
+    "translation": "илрүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이시이",
+    "translation": "Ишии (нэр)",
+    "hanja": "石井",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "잭팟",
+    "translation": "их хонжвор",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "웃프다",
+    "translation": "инээдтэй бас гунигтай",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "폭식하다",
+    "translation": "их идэх",
+    "hanja": "폭식하다(暴食하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "위임장",
+    "translation": "итгэмжгүй",
+    "hanja": "위임장(委任狀)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발각",
+    "translation": "илрүүлэх",
+    "hanja": "발각(發覺)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "히스패닉",
+    "translation": "испани гаралтай",
+    "hanja": "히스패닉",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈팡질팡",
+    "translation": "ийш тийшээ самуурах",
+    "hanja": "―",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "토로",
+    "translation": "илчлэх",
+    "hanja": "吐露",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "방긋방긋",
+    "translation": "инээмсэглэх, мишээх",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "영약",
+    "translation": "ид шидтэн",
+    "hanja": "靈藥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "위탁하다",
+    "translation": "итгэмжлэх, даатгах",
+    "hanja": "委託하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군살",
+    "translation": "илүүдэл өөх",
+    "hanja": "軍살",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐지되다",
+    "translation": "илэрсэн",
+    "hanja": "探知되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발표문",
+    "translation": "илтгэл",
+    "hanja": "發表文",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발표자",
+    "translation": "илтгэгч",
+    "hanja": "發表者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부끄러움",
+    "translation": "ичгүүр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "화포",
+    "translation": "их буу",
+    "hanja": "火砲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠식되다",
+    "translation": "Идэгдэх, булаагдах",
+    "hanja": "蠶食되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법술",
+    "translation": "ид шид, арга барил",
+    "hanja": "法術",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시니컬하다",
+    "translation": "ичингүйрэх, үл итгэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "큰비",
+    "translation": "их бороо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "급행",
+    "translation": "илүү хурдан",
+    "hanja": "急行",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "아이소메트릭",
+    "translation": "изометр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "챙피",
+    "translation": "ичгүүр",
+    "hanja": "챙피",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "민망",
+    "translation": "ичгүүртэй, эвгүй байдал",
+    "hanja": "憫惘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망측하다",
+    "translation": "ичгүүртэй, зохисгүй",
+    "hanja": "罔測하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이정환",
+    "translation": "И Жон-хуан",
+    "hanja": "李正桓",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "요단강",
+    "translation": "Иордан гол",
+    "hanja": "요단江",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "적극성",
+    "translation": "идэвхтэй байдал",
+    "hanja": "積極性",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "레오파드",
+    "translation": "идэгчин ирвэс, барзгар ирвэс",
+    "hanja": "레오파드",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "후안",
+    "translation": "ичгүүргүй нүүр",
+    "hanja": "厚顔",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보형물",
+    "translation": "имплант, суулгац",
+    "hanja": "補形物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이맘",
+    "translation": "Имам",
+    "hanja": "이맘",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대희",
+    "translation": "Их баяр хөөр",
+    "hanja": "大喜",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "강연자",
+    "translation": "илтгэгч",
+    "hanja": "講演者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "앞일",
+    "translation": "Ирээдүй, ирэх ажил",
+    "hanja": "앞일",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신망",
+    "translation": "итгэл, нэр хүнд",
+    "hanja": "信望",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이시카와",
+    "translation": "Ишикава (нэр)",
+    "hanja": "石川",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이카루스",
+    "translation": "Икар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동의어",
+    "translation": "ижил утгатай үг",
+    "hanja": "同義語",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "스마일",
+    "translation": "инээмсэглэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "야고보",
+    "translation": "Иаков",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대운",
+    "translation": "их аз (хувь тавилан)",
+    "hanja": "大運",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "포성",
+    "translation": "их бууны дуу",
+    "hanja": "砲聲",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "싱글거리다",
+    "translation": "Инээмсэглэх",
+    "hanja": "싱글거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "설마설마하다",
+    "translation": "итгэхгүй байх",
+    "hanja": "설마설마",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "호패",
+    "translation": "иргэний үнэмлэх (хуучны)",
+    "hanja": "號牌",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대통",
+    "translation": "их зохицол",
+    "hanja": "大通",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다다익선",
+    "translation": "их байх тусам сайн",
+    "hanja": "多多益善",
+    "pos": "사자성어",
+    "cefr": "C2"
+  },
+  {
+    "word": "여윳돈",
+    "translation": "илүү мөнгө, нөөц мөнгө",
+    "hanja": "餘裕돈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대혁명",
+    "translation": "их хувьсгал",
+    "hanja": "大革命",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제리코",
+    "translation": "Иерихо",
+    "hanja": "Jericho",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수입국",
+    "translation": "импортлогч орон",
+    "hanja": "輸入國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "어쩌고저쩌고하다",
+    "translation": "ингэ тэгээд ярих",
+    "hanja": "어쩌고저쩌고하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이베리코",
+    "translation": "Иберико (гахайн нэг төрөл)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "송고",
+    "translation": "илгээх, гардуулах",
+    "hanja": "送稿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한창때",
+    "translation": "ид үе",
+    "hanja": "한창때",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대패하다",
+    "translation": "Их хэмжээгээр ялагдах",
+    "hanja": "大敗하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "안마하다",
+    "translation": "Иллэг хийх",
+    "hanja": "按摩하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "니야",
+    "translation": "инээмсэглэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대평원",
+    "translation": "их тал",
+    "hanja": "大平原",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맹활약하다",
+    "translation": "идэвхтэй оролцох, чухал үүрэг гүйцэтгэх",
+    "hanja": "猛活躍하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "치욕적",
+    "translation": "ичгүүртэй, гутамшигтай",
+    "hanja": "恥辱的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "노발대발하다",
+    "translation": "ихэд уурлах, хилэгнэх",
+    "hanja": "怒髮大發하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "오라",
+    "translation": "ирээрэй (хүндэтгэлийн бус)",
+    "hanja": "오라",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "픽픽",
+    "translation": "инээх дуу, санаа алдах",
+    "hanja": "픽픽",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "발신인",
+    "translation": "илгээгч",
+    "hanja": "發信人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "치성",
+    "translation": "идэвхтэй байдал, хүчтэй байдал",
+    "hanja": "熾盛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대행진",
+    "translation": "их жагсаал",
+    "hanja": "大行進",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "신용하다",
+    "translation": "итгэх, найдах",
+    "hanja": "信用하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "도검",
+    "translation": "Илд",
+    "hanja": "刀劍",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "주포",
+    "translation": "их буу, үндсэн буу",
+    "hanja": "主砲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이선희",
+    "translation": "И Сон Хи",
+    "hanja": "李仙姬",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "출석부",
+    "translation": "Ирцийн дэвтэр",
+    "hanja": "出席簿",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "이런",
+    "translation": "Ийм, иймэрхүү",
+    "hanja": null,
+    "pos": "관형사",
+    "cefr": "A1"
+  },
+  {
+    "word": "동재",
+    "translation": "ижил материал, ижил авъяас",
+    "hanja": "同材",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "진학률",
+    "translation": "их сургуульд элсэх хувь",
+    "hanja": "進學률",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공탁",
+    "translation": "итгэмжлэгдсэн хадгаламж",
+    "hanja": "供託",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "검출하다",
+    "translation": "илрүүлэх",
+    "hanja": "檢出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여유분",
+    "translation": "илүү хэсэг, нэмэлт хэмжээ",
+    "hanja": "餘裕分",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "싱글벙글하다",
+    "translation": "инээмсэглэх, баярлах",
+    "hanja": "Q",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사파이어",
+    "translation": "индооноос",
+    "hanja": "sapphire",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이광철",
+    "translation": "И Кванчол (хувийн нэр)",
+    "hanja": "李光哲",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "인디오",
+    "translation": "индианчууд",
+    "hanja": "Indio",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다림질하다",
+    "translation": "инээлгэх",
+    "hanja": "다림질하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유사점",
+    "translation": "ижил төстэй тал",
+    "hanja": "類似點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대식",
+    "translation": "Их идэх",
+    "hanja": "大食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "본격화",
+    "translation": "Идэвхжих, жинхэнэ утгаараа эхлэх",
+    "hanja": "本格化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이용우",
+    "translation": "И Ён-у (Хүний нэр)",
+    "hanja": "李龍雨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이비스",
+    "translation": "ибис (шувуу)",
+    "hanja": "ibis",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이히",
+    "translation": "ихи (инээх дуу)",
+    "hanja": "이히",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "캐넌",
+    "translation": "их буу",
+    "hanja": "cannon",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이리되다",
+    "translation": "Ийм болох",
+    "hanja": "이리되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "생고생",
+    "translation": "Их зовлон",
+    "hanja": "生苦生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뽀록나다",
+    "translation": "илчлэгдэх, нууц задрах (хэлний доод түвшин)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대군",
+    "translation": "их цэрэг",
+    "hanja": "大軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "후생",
+    "translation": "ирээдүй хойч",
+    "hanja": "後生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요러다",
+    "translation": "ийнхүү хийх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신봉자",
+    "translation": "Итгэгч",
+    "hanja": "信奉者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제도화하다",
+    "translation": "Институцжуулах",
+    "hanja": "制度化",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "싱글싱글",
+    "translation": "инээмсэглэсээр",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이즈미르",
+    "translation": "Измир",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발제",
+    "translation": "илтгэл, танилцуулга",
+    "hanja": "發題",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "문관",
+    "translation": "иргэний албан хаагч",
+    "hanja": "文官",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "천하대장군",
+    "translation": "их жанжин",
+    "hanja": "天下大將軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "일리노이주",
+    "translation": "Иллинойс муж (АНУ)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡숫다",
+    "translation": "идэх, уух (хүндэтгэлийн)",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대졸자",
+    "translation": "Их сургууль төгсөгч",
+    "hanja": "大卒者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인용문",
+    "translation": "Ишлэл, ишлэлийн өгүүлбэр",
+    "hanja": "引用文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "임스",
+    "translation": "Иймс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "걸신들리다",
+    "translation": "Их идэх дуртай болох",
+    "hanja": "乞神들리다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임피던스",
+    "translation": "импеданс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "당혹",
+    "translation": "ичиж зовох",
+    "hanja": "當惑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "껄떡대다",
+    "translation": "ичиг ичиг хийх, горойх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표현법",
+    "translation": "илэрхийлэх арга",
+    "hanja": "表現法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내년도",
+    "translation": "ирэх жилийн",
+    "hanja": "來年度",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전도유망하다",
+    "translation": "ирээдүйтэй",
+    "hanja": "前途有望하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "오만방자하다",
+    "translation": "их зантай, бардам, онгирсон",
+    "hanja": "傲慢放恣하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제도화",
+    "translation": "институцичлэх, тогтолцоотой болгох",
+    "hanja": "制度化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대흥",
+    "translation": "их хөгжил, агуу хөгжил",
+    "hanja": "大興",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "복심",
+    "translation": "итгэлт хүн, дотны хүн",
+    "hanja": "腹心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "노심초사",
+    "translation": "их санаа зовох",
+    "hanja": "勞心焦思",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "올께",
+    "translation": "ирэх болно (аялгуу)",
+    "hanja": "올께",
+    "pos": "어미",
+    "cefr": "A2"
+  },
+  {
+    "word": "킬킬",
+    "translation": "инээх дуу",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "이동휘",
+    "translation": "И Дун-хви (хүний нэр)",
+    "hanja": "李東輝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인버터",
+    "translation": "инвертер",
+    "hanja": "인버터",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여차저차",
+    "translation": "Ингэж тэгж",
+    "hanja": "여차저차",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임펄스",
+    "translation": "Импульс",
+    "hanja": "임펄스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인스",
+    "translation": "инч (хэмжээ)",
+    "hanja": "인스",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "염치없이",
+    "translation": "ичих нүүргүйгээр, ичгүүр сонжуургүйгээр",
+    "hanja": "廉恥없이",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "이베리아",
+    "translation": "Ибери",
+    "hanja": "Iberia",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "일라",
+    "translation": "ила",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "선호되다",
+    "translation": "илүүд үзэгдэх, таашаагдах",
+    "hanja": "選好되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집약적",
+    "translation": "интенсив",
+    "hanja": "集約的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "벙긋거리다",
+    "translation": "инээмсэглэх, бага зэрэг онгойлгох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기대주",
+    "translation": "ирээдүйтэй, найдвар тавих",
+    "hanja": "期待株",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "장조",
+    "translation": "ихэнх, гол",
+    "hanja": "長調",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "둥이",
+    "translation": "ихэр",
+    "hanja": "둥이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "둥치",
+    "translation": "их бие, үндэс",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "소한",
+    "translation": "Их хүйтний өмнөх үе",
+    "hanja": "小寒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비화하다",
+    "translation": "Ил болох, нууц задрах",
+    "hanja": "飛火하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "철면피",
+    "translation": "Ичгүүргүй нүүр",
+    "hanja": "鐵面皮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "내도",
+    "translation": "Ирэх, хүрч ирэх (고어 또는 문어)",
+    "hanja": "來度",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "실소하다",
+    "translation": "инээх, инээд алдах",
+    "hanja": "失笑하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "과대망상",
+    "translation": "ихэмсэг сэтгэхүй, сүр жавхаатай санагдах",
+    "hanja": "誇大妄想",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대타협",
+    "translation": "их зохицол",
+    "hanja": "大妥協",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발신",
+    "translation": "илгээх",
+    "hanja": "發信",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동일시",
+    "translation": "ижилсгэх, адилтгах",
+    "hanja": "同一視",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인디케이터",
+    "translation": "индикатор",
+    "hanja": "인디케이터",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "처묵다",
+    "translation": "Идэх (бүдүүлэг үг)",
+    "hanja": "처묵다",
+    "pos": "동사",
+    "cefr": "Aoci"
+  },
+  {
+    "word": "시다",
+    "translation": "исгэлэн, хүчиллэг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "대청소하다",
+    "translation": "их цэвэрлэгээ хийх",
+    "hanja": "大淸掃─",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "희화화하다",
+    "translation": "инээдмийн дүр болгох",
+    "hanja": "戲畫化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인소",
+    "translation": "интернэт роман",
+    "hanja": null,
+    "pos": "м.н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "출결",
+    "translation": "ирэц, ирц бүртгэл",
+    "hanja": "出缺",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "신임하다",
+    "translation": "итгэх",
+    "hanja": "信任하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "니나노",
+    "translation": "инээмсэглэх, баярлах (дууны аялга)",
+    "hanja": "니나노",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "애무하다",
+    "translation": "илэх, энхрийлэх",
+    "hanja": "愛撫하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대준",
+    "translation": "ихэнх нь зөвшөөрсөн",
+    "hanja": "大準",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "단복",
+    "translation": "Иж бүрэн хувцас",
+    "hanja": "團服",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "검법",
+    "translation": "ирийн арга, сэлмийн арга",
+    "hanja": "劍法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대설",
+    "translation": "их цас",
+    "hanja": "大雪",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "호언장담",
+    "translation": "Ихэмсэг яриа",
+    "hanja": "豪言壯談",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "뽀록",
+    "translation": "Илчлэгдэх",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "뒷날",
+    "translation": "Ирээдүй, дараагийн өдөр",
+    "hanja": "뒷날",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수집다",
+    "translation": "Ичмээр, ичих",
+    "hanja": "수집다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "웃음바다",
+    "translation": "Инээдмийн далай",
+    "hanja": "웃음바다",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대사헌",
+    "translation": "их зочин",
+    "hanja": "大司憲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등가",
+    "translation": "ижил утга",
+    "hanja": "等價",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "시민운동",
+    "translation": "иргэний хөдөлгөөн",
+    "hanja": "市民運動",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대동소이하다",
+    "translation": "ижил төстэй байх",
+    "hanja": "大同小異하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "화현",
+    "translation": "илчлэл, илрэл",
+    "hanja": "化現",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "국구",
+    "translation": "иргэний үндэс",
+    "hanja": "國舅",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "그럴싸",
+    "translation": "Итгэмжтэй",
+    "hanja": "그럴싸",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인디애나폴리스",
+    "translation": "Индианаполис",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "이민수",
+    "translation": "И Минсү (нэр)",
+    "hanja": "李敏洙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삼고초려",
+    "translation": "Ихэд гуйх, урих",
+    "hanja": "三顧草廬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "베키다",
+    "translation": "Илүүдэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "창피스럽다",
+    "translation": "Ичмээр",
+    "hanja": "猖披스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "펜팔",
+    "translation": "имеил найз",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "위그드라실",
+    "translation": "Игдрасил",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쉭쉭거리다",
+    "translation": "исгэрэх, шуугих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "킬킬대다",
+    "translation": "инээх, ёжтой инээх",
+    "hanja": "킬킬대다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탈장",
+    "translation": "ивэрхий",
+    "hanja": "脫腸",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "이리듐",
+    "translation": "Иридиум (химийн элемент)",
+    "hanja": "iridium",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "장래성",
+    "translation": "Ирээдүйтэй байдал",
+    "hanja": "將來性",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "검날",
+    "translation": "илдний ир",
+    "hanja": "劍날",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠식당하다",
+    "translation": "идэгдэх, эзлэгдэх",
+    "hanja": "蠶食당하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이몽룡",
+    "translation": "И Монгрён",
+    "hanja": "李夢龍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "그럭",
+    "translation": "иймэрхүү байдлаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배임",
+    "translation": "итгэмжлэлээ урвах",
+    "hanja": "背任",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤벌레",
+    "translation": "инээх, баярлах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이윤영",
+    "translation": "И Юнён (нэр)",
+    "hanja": "李潤永",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "쌍생",
+    "translation": "ихэр",
+    "hanja": "雙生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망신시키다",
+    "translation": "ичгүүр төрүүлэх, нэр төрийг нь гутаах",
+    "hanja": "亡身시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬조",
+    "translation": "ивээн тэтгэгч",
+    "hanja": "贊助",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "래원",
+    "translation": "ирэх эх үүсвэр",
+    "hanja": "來源",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "민수",
+    "translation": "иргэний",
+    "hanja": "民需",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적분",
+    "translation": "интеграл",
+    "hanja": "적분(積分)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "초과분",
+    "translation": "илүүдэл",
+    "hanja": "초과분(超過分)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대파하다",
+    "translation": "ихээр устгах",
+    "hanja": "大破하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "감지덕지하다",
+    "translation": "их баяртай байх",
+    "hanja": "感激德지하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "생글거리다",
+    "translation": "инээмсэглэх, аяархан инээх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "망신스럽다",
+    "translation": "ичгүүртэй, нүүр хугарах",
+    "hanja": "亡身스럽다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "애무",
+    "translation": "илэх, таалах",
+    "hanja": "愛撫",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "윤식",
+    "translation": "ижил төрлийн хоол",
+    "hanja": "輪食",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이구아노돈",
+    "translation": "игуанодон (үлэг гүрвэл)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "피력",
+    "translation": "илэрхийлэх, хэлэх",
+    "hanja": "披瀝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실실거리다",
+    "translation": "инээмсэглэх, шоошгонох",
+    "hanja": "없음",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동류",
+    "translation": "ижил төрөл, нэг төрлийн",
+    "hanja": "同類",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "임씨",
+    "translation": "Им овогт",
+    "hanja": "任氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이하응",
+    "translation": "Ихаын (хүний нэр)",
+    "hanja": "李昰應",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인도네시아어",
+    "translation": "Индонез хэл",
+    "hanja": "인도네시아語",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "의뢰되다",
+    "translation": "итгэж өгөх, даатгагдах",
+    "hanja": "依賴되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "웃게",
+    "translation": "инээх",
+    "hanja": "웃게",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동일성",
+    "translation": "ижил байдал",
+    "hanja": "同一性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하도",
+    "translation": "ихэнхдээ",
+    "hanja": "하도",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "보호국",
+    "translation": "ивээл улс",
+    "hanja": "保護國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산화하다",
+    "translation": "исэлдэх",
+    "hanja": "酸化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동일",
+    "translation": "ижил",
+    "hanja": "同一",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "미레",
+    "translation": "ирээдүй",
+    "hanja": "未來",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "휴화산",
+    "translation": "идэвхгүй галт уул",
+    "hanja": "休火山",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "망신살",
+    "translation": "ичих зовних явдал",
+    "hanja": "亡身殺",
+    "pos": "명",
+    "cefr": "C2"
+  },
+  {
+    "word": "신심",
+    "translation": "итгэл",
+    "hanja": "信心",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "인드라",
+    "translation": "индра",
+    "hanja": "인드라",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "이카로스",
+    "translation": "икар",
+    "hanja": "이카로스",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "새큼하다",
+    "translation": "исгэлэн",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인트라넷",
+    "translation": "интранет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "출첵",
+    "translation": "ирсэн эсэхийг шалгах",
+    "hanja": "出check",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "피동",
+    "translation": "идэвхгүй байдал, үйлдэгдэх",
+    "hanja": "被動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인터라켄",
+    "translation": "Интерлакен",
+    "hanja": "Interlaken",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "노다지",
+    "translation": "их хэмжээний алт (байнга)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤실헤실",
+    "translation": "инээмсэглэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "어빙",
+    "translation": "Ирвинг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "관념론",
+    "translation": "идеализм",
+    "hanja": "觀念論",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이상주의",
+    "translation": "идеализм",
+    "hanja": "理想主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동질성",
+    "translation": "ижил байдал",
+    "hanja": "同質性",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이상국",
+    "translation": "идеал улс",
+    "hanja": "理想國",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비희",
+    "translation": "инээдтэй дүр",
+    "hanja": "誹戲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "최대화하다",
+    "translation": "ихэсгэх",
+    "hanja": "最大化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요우",
+    "translation": "Ио",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "때려먹다",
+    "translation": "идэж дуусгах, хулгайлах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "대폭적",
+    "translation": "их хэмжээний",
+    "hanja": "大幅的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "이신",
+    "translation": "итгэлтэй түшмэл",
+    "hanja": "貳臣",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "파렴치하다",
+    "translation": "ичгүүргүй",
+    "hanja": "破廉恥하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "활동력",
+    "translation": "идэвхтэй байдал, үйл ажиллагааны чадвар",
+    "hanja": "活動力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "의종",
+    "translation": "Ийжун (Гурёогийн хаан)",
+    "hanja": "毅宗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "새콤새콤",
+    "translation": "исгэлэн",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "부화되다",
+    "translation": "инкубатор хийх",
+    "hanja": "孵化되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "버찌",
+    "translation": "инжир",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "불신감",
+    "translation": "итгэлгүй байдал",
+    "hanja": "不信感",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "미래상",
+    "translation": "Ирээдүйн дүр төрх",
+    "hanja": "未來像",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이효석",
+    "translation": "И Хё-сок (хүний нэр)",
+    "hanja": "李孝石",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "일루미나티",
+    "translation": "Иллюминати",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유유상종",
+    "translation": "ижил төрлийн хүмүүс нэгдэх",
+    "hanja": "類類相從",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "희극적",
+    "translation": "инээдмийн",
+    "hanja": "喜劇的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인코더",
+    "translation": "инкодер",
+    "hanja": "encoder",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "방글방글",
+    "translation": "инээмсэглэх",
+    "hanja": "방글방글",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "어쩌구저쩌구",
+    "translation": "ингэж тэгж",
+    "hanja": "어쩌구저쩌구",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "다리미판",
+    "translation": "инженерийн самбар",
+    "hanja": "다리미板",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "임실",
+    "translation": "Имсил",
+    "hanja": "任實",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대풍",
+    "translation": "Их ургац, их салхи",
+    "hanja": "大豊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "착신",
+    "translation": "ирэх дуудлага",
+    "hanja": "着信",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "파송하다",
+    "translation": "илгээх, явуулах",
+    "hanja": "派送하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "마술하다",
+    "translation": "илбэ хийх",
+    "hanja": "魔術하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이젝터",
+    "translation": "Ижектор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "아이롱",
+    "translation": "индүү",
+    "hanja": "아이롱",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "치찰음",
+    "translation": "исгэрсэн дуу",
+    "hanja": "齒擦音",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "피식거리다",
+    "translation": "инээмсэглэх, гижигдэх",
+    "hanja": "피식거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이부프로펜",
+    "translation": "ибупрофен",
+    "hanja": "이부프로펜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "방실방실",
+    "translation": "инээмсэглэн, мишээж",
+    "hanja": "방실방실",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이리하다",
+    "translation": "ингэх, ингэж хийх",
+    "hanja": "이리하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "요시야",
+    "translation": "Иосиа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "히힝",
+    "translation": "Инээх дуу",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "이나리",
+    "translation": "Инари",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송신하다",
+    "translation": "илгээх, цацах",
+    "hanja": "送信하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이숙",
+    "translation": "И Сук",
+    "hanja": "李淑",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "부끄러워하다",
+    "translation": "ичих, ичгүүрлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "이스파한",
+    "translation": "Исфахан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "발고하다",
+    "translation": "Илчлэх/мэдэгдэх",
+    "hanja": "發告하다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "누설되다",
+    "translation": "Ил болох/задрах",
+    "hanja": "漏泄되다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "그런고로",
+    "translation": "иймээс",
+    "hanja": "그렇고로",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "사대주의",
+    "translation": "их гүрнийг шүтэх үзэл",
+    "hanja": "事大主義",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "이누이트",
+    "translation": "инуит",
+    "hanja": "이누이트",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "호민",
+    "translation": "Иргэн, ард түмэн",
+    "hanja": "戶民",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이승만",
+    "translation": "И Сынман",
+    "hanja": "李承晩",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "만석꾼",
+    "translation": "Их хөрөнгөтэй хүн",
+    "hanja": "萬石꾼",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "동배",
+    "translation": "ижил насны",
+    "hanja": "同輩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "특근",
+    "translation": "илүү цагаар ажиллах",
+    "hanja": "特勤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뷰트",
+    "translation": "идэвхгүй байна",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피식하다",
+    "translation": "инээмсэглэх",
+    "hanja": "피식하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고름",
+    "translation": "идээ, шар ус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "색인",
+    "translation": "индекс, хавсралт",
+    "hanja": "索引",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "그로",
+    "translation": "ингэснээр",
+    "hanja": "그로",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인디애나주",
+    "translation": "Индиана муж",
+    "hanja": "인디애나주",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "웃음보",
+    "translation": "инээд",
+    "hanja": "웃음보",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표면화되다",
+    "translation": "ил болох",
+    "hanja": "表面化되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "민망스럽다",
+    "translation": "ичмээр, эвгүй",
+    "hanja": "憫惘스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쏘이",
+    "translation": "идэвхгүй үйлдэл",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대성공하다",
+    "translation": "их амжилт олох",
+    "hanja": "大成功하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "키득",
+    "translation": "инээх дуу",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이러이러다",
+    "translation": "иймэрхүү байх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계시하다",
+    "translation": "илчлэх",
+    "hanja": "啓示하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "격변하다",
+    "translation": "ихээр өөрчлөгдөх, огцом өөрчлөгдөх",
+    "hanja": "激變하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "아웃팅",
+    "translation": "илчлэх",
+    "hanja": "outing",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "잉크젯",
+    "translation": "инкжет",
+    "hanja": "inkjet",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "강론",
+    "translation": "илтгэл, лекц",
+    "hanja": "講論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "홍설",
+    "translation": "их цас, хүчтэй цас",
+    "hanja": "洪雪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송부하다",
+    "translation": "Илгээх",
+    "hanja": "送付하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "후안무치하다",
+    "translation": "Ичгүүргүй, нүүрэмгий",
+    "hanja": "厚顔無恥하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "이노시톨",
+    "translation": "Инозитол",
+    "hanja": null,
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "태학",
+    "translation": "их сургууль, академи",
+    "hanja": "太學",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잉그다",
+    "translation": "их хэмжээгээр цуглуулах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "미소하다",
+    "translation": "инээмсэглэх",
+    "hanja": "微笑하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "민간용",
+    "translation": "иргэний зориулалттай",
+    "hanja": "民間用",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송부",
+    "translation": "илгээх",
+    "hanja": "送付",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신복",
+    "translation": "итгэлтэй боол",
+    "hanja": "臣僕",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "발효유",
+    "translation": "исгэсэн сүү",
+    "hanja": "發酵乳",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대화재",
+    "translation": "их түймэр",
+    "hanja": "大火災",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이차돈",
+    "translation": "Ичадон",
+    "hanja": "異次頓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "서검",
+    "translation": "илдэс",
+    "hanja": "書劍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤헤거리다",
+    "translation": "инээсхийн алхах, инээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송다",
+    "translation": "илгээх, хүргэх (хуучирсан)",
+    "hanja": "送다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이태백",
+    "translation": "И Тэбэк (хүний нэр; Ли Баи)",
+    "hanja": "李太白",
+    "pos": "명사 (고유명사)",
+    "cefr": "C2"
+  },
+  {
+    "word": "어쩌고",
+    "translation": "Ийм тэрийгээр, гэх мэт",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "자만",
+    "translation": "ихэмсэг зан",
+    "hanja": "自慢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "거두",
+    "translation": "их ноён",
+    "hanja": "巨頭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "표정하다",
+    "translation": "илэрхийлэх",
+    "hanja": "表情하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "내달",
+    "translation": "ирэх сар",
+    "hanja": "来月",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "무성히",
+    "translation": "ихээр",
+    "hanja": "茂盛히",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "벙긋",
+    "translation": "инээмсэглэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요딴",
+    "translation": "иймэрхүү, тиймэрхүү",
+    "hanja": null,
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벼리다",
+    "translation": "ирээ гаргах, хурцлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "스스럼없다",
+    "translation": "ичимхий бус, чөлөөтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이럭",
+    "translation": "иймэрхүү, энэ мэт",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동일시되다",
+    "translation": "ижилсэх",
+    "hanja": "同一視되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "절식",
+    "translation": "идэхээс татгалзах, хоолны дэглэм барих",
+    "hanja": "節食",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "먹자",
+    "translation": "идэцгээе",
+    "hanja": "먹자",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "들추어내다",
+    "translation": "илчлэх",
+    "hanja": "들추어내다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "현격히",
+    "translation": "ихээхэн",
+    "hanja": "懸隔히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "침식하다",
+    "translation": "идэх",
+    "hanja": "侵蝕하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "입센",
+    "translation": "Ибсен",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "웅변가",
+    "translation": "илтгэгч",
+    "hanja": "雄辯家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "귀납적",
+    "translation": "Индуктив",
+    "hanja": "歸納的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "야심만만하다",
+    "translation": "Их амбицтай, шуналтай",
+    "hanja": "野心滿滿하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "시현하다",
+    "translation": "Илчлэх, үзүүлэх",
+    "hanja": "示顯하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "웅변하다",
+    "translation": "илтгэх",
+    "hanja": "雄辯하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대졸",
+    "translation": "их сургууль төгссөн",
+    "hanja": "大卒",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "실실대다",
+    "translation": "инээмсэглэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대무",
+    "translation": "их бүжиг",
+    "hanja": "大舞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이태원동",
+    "translation": "Итхэвон-дун (Сөүлийн нэгэн дүүрэг)",
+    "hanja": "梨泰院洞",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계면쩍다",
+    "translation": "ичигэмээр",
+    "hanja": "계面쩍다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "음양오행",
+    "translation": "инь-ян, таван элемент",
+    "hanja": "陰陽五行",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인포그래픽",
+    "translation": "инфографик",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "애용되다",
+    "translation": "Их хэрэглэгдэх",
+    "hanja": "愛用되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "동위",
+    "translation": "ижил байрлалтай",
+    "hanja": "同位",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "후안무치",
+    "translation": "ичгүүргүй",
+    "hanja": "厚顔無恥",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "씽긋",
+    "translation": "инээмсэглэх",
+    "hanja": "null",
+    "pos": "дагавар үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "아이오딘",
+    "translation": "иод",
+    "hanja": "아이오딘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "마공",
+    "translation": "ид шидийн хүч",
+    "hanja": "魔法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대연",
+    "translation": "их хурал",
+    "hanja": "大宴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이만저만하다",
+    "translation": "ийм тийм",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잉여",
+    "translation": "илүүдэл",
+    "hanja": "剩餘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이포리",
+    "translation": "Ифол (газарзүйн нэр)",
+    "hanja": "Ifoly",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대복",
+    "translation": "их аз жаргал",
+    "hanja": "大福",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인왕제색도",
+    "translation": "Инванжэсэнду",
+    "hanja": "仁王霽色圖",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "예리코",
+    "translation": "Иерихо",
+    "hanja": "예리코",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이원익",
+    "translation": "И Вон-ик (Солонгосын түүхэн хүн)",
+    "hanja": "李元翼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "우짖다",
+    "translation": "исгэрэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대환",
+    "translation": "их баяр баясгалан",
+    "hanja": "大歡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대성황",
+    "translation": "их амжилт",
+    "hanja": "大盛況",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민권",
+    "translation": "иргэний эрх",
+    "hanja": "民權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대궁",
+    "translation": "иш",
+    "hanja": "大弓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인더스강",
+    "translation": "Инд мөрөн",
+    "hanja": "인더스江",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "약손",
+    "translation": "ид шидийн гар",
+    "hanja": "藥손",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수동태",
+    "translation": "идэвхгүй",
+    "hanja": "受動態",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쭈뼛쭈뼛하다",
+    "translation": "ичингүйрэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대근",
+    "translation": "их ажил",
+    "hanja": "大勤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이종태",
+    "translation": "И Жон-тae",
+    "hanja": "李鍾泰",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하여",
+    "translation": "ингээд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연단하다",
+    "translation": "илтгэл тавих",
+    "hanja": "演壇하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "면구스럽다",
+    "translation": "ичиж зовох, нүүр хийх газаргүй болох",
+    "hanja": "面咎스럽다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이바라키",
+    "translation": "Ибараки",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민관군",
+    "translation": "иргэн, төрийн албан хаагч, цэрэг",
+    "hanja": "民官軍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이슬라마바드",
+    "translation": "Исламабад (Пакистаны нийслэл)",
+    "hanja": "이슬라마바드",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현신",
+    "translation": "илрэл",
+    "hanja": "現身",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낙천",
+    "translation": "итгэлтэй байдал",
+    "hanja": "樂天",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "파송",
+    "translation": "илгээх",
+    "hanja": "派送",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "히죽대다",
+    "translation": "инээмсэглэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "될성부르다",
+    "translation": "ирээдүйтэй байх",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동성동본",
+    "translation": "ижил овог ижил угсаа",
+    "hanja": "同姓同本",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이슈타르",
+    "translation": "Иштар",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예이츠",
+    "translation": "Иейтс",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인스트",
+    "translation": "инструктор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "일리아드",
+    "translation": "Илиад",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "논문집",
+    "translation": "илтгэлийн эмхэтгэл",
+    "hanja": "論文集",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수수방관하다",
+    "translation": "Идэвхгүй байх",
+    "hanja": "袖手傍觀하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쓰담쓰담하다",
+    "translation": "илэх, энхрийлэх",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "더리",
+    "translation": "Илүү",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "뻔뻔히",
+    "translation": "Ичгүүргүйгээр",
+    "hanja": "뻔뻔히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "히히덕거리다",
+    "translation": "Инээд алдах",
+    "hanja": "히히덕거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "곤욕스럽다",
+    "translation": "Ичгүүртэй, хэцүү байдалд орох",
+    "hanja": "困辱스럽다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "수줍음",
+    "translation": "Ичимхий",
+    "hanja": "수줍음",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "북두",
+    "translation": "Их долоон од",
+    "hanja": "北斗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "먹자구",
+    "translation": "идье",
+    "hanja": "먹자구",
+    "pos": "interjection",
+    "cefr": "A2"
+  },
+  {
+    "word": "잉골슈타트",
+    "translation": "Инголштадт хот",
+    "hanja": "잉골슈타트",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "이은애",
+    "translation": "И Ын-э (хүний нэр)",
+    "hanja": "N/A",
+    "pos": "Proper Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "번연히",
+    "translation": "илтэд, тодорхой",
+    "hanja": "番然히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "대폭락하다",
+    "translation": "ихээр унах",
+    "hanja": "大暴落하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임영",
+    "translation": "Имён (Нэр)",
+    "hanja": "任影",
+    "pos": "Proper Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "대딩",
+    "translation": "их сургуулийн оюутан (сленг)",
+    "hanja": "대딩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "스폰서십",
+    "translation": "ивээн тэтгэгч",
+    "hanja": "스폰서십",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농포",
+    "translation": "идээт үрэвсэл",
+    "hanja": "膿疱",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대광",
+    "translation": "их гэрэл",
+    "hanja": "大光",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기탁",
+    "translation": "итгэмжлэх, өгөх",
+    "hanja": "寄託",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통섭",
+    "translation": "интеграци, нэгтгэл",
+    "hanja": "統攝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "대분",
+    "translation": "ихэнх хэсэг",
+    "hanja": "大部分",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이튼",
+    "translation": "Итон",
+    "hanja": "이튼",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이희영",
+    "translation": "И Хиён",
+    "hanja": "李熙榮",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "찝찔하다",
+    "translation": "исгэлэн, шорвог",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "노천",
+    "translation": "ил задгай газар, задгай",
+    "hanja": "露天",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "숨김없다",
+    "translation": "илэн далангүй, нуух зүйлгүй байх",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "이범석",
+    "translation": "И Бом Сок (хүний нэр)",
+    "hanja": "李範奭",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "주뼛거리다",
+    "translation": "ичингүйрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "노골화되다",
+    "translation": "ил болох",
+    "hanja": "露骨化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수탁",
+    "translation": "итгэлцэл, захиалга",
+    "hanja": "受託",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "큰따옴표",
+    "translation": "ишлэлийн тэмдэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "발제하다",
+    "translation": "илтгэл тавих",
+    "hanja": "發題하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "한즉",
+    "translation": "ингэхээр, болзошгүй",
+    "hanja": "--",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "이세벨",
+    "translation": "Иезабел",
+    "hanja": "--",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "요쿠르트",
+    "translation": "Иогурт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "내주",
+    "translation": "ирэх долоо хоног",
+    "hanja": "來週",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "빵긋",
+    "translation": "инээх (гэнэт)",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "포연",
+    "translation": "их бууны утаа",
+    "hanja": "砲煙",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "이승영",
+    "translation": "И Сын-ён",
+    "hanja": "李承瑛",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "열락",
+    "translation": "их баяр баясгалан",
+    "hanja": "悅樂",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "떠버리다",
+    "translation": "их ярих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "양밥",
+    "translation": "ид шид",
+    "hanja": "妖法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이금희",
+    "translation": "И Күм-хи (нэр)",
+    "hanja": "李錦姬",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "임나일본부설",
+    "translation": "Имна-Японгийн засаг захиргааны онол",
+    "hanja": "任那日本府說",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "맥파",
+    "translation": "импульсийн долгион",
+    "hanja": "脈波",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이덕무",
+    "translation": "И Док-му (хүний нэр)",
+    "hanja": "李德懋",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이사도라",
+    "translation": "Исадора (нэр)",
+    "hanja": "이사도라",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "게걸스레",
+    "translation": "Идэмхий, шунахай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검광",
+    "translation": "илдний гэрэл",
+    "hanja": "劍光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탁성",
+    "translation": "идэх дуу, чанга дуу хоолой",
+    "hanja": "濁聲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "매구",
+    "translation": "илбэдэх",
+    "hanja": "魅句",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이즈시",
+    "translation": "Изуши",
+    "hanja": null,
+    "pos": "Нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "과이",
+    "translation": "Илүү",
+    "hanja": "過",
+    "pos": "Дайвар үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "대종",
+    "translation": "их хонх",
+    "hanja": "大鐘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "드러",
+    "translation": "илчлэх, ил гаргах",
+    "hanja": "",
+    "pos": "어미",
+    "cefr": "A2"
+  },
+  {
+    "word": "인덱싱",
+    "translation": "Индексжүүлэлт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다림",
+    "translation": "инженерийн зураг",
+    "hanja": "다림",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고해하다",
+    "translation": "илчлэх",
+    "hanja": "告解하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "싹수없다",
+    "translation": "Ирээдүйгүй, найдваргүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "준주",
+    "translation": "Иж бүрэн муж",
+    "hanja": "準州",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보담",
+    "translation": "илүү",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이태리어",
+    "translation": "итали хэл",
+    "hanja": "伊太利語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대혼",
+    "translation": "их хурим",
+    "hanja": "大婚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환술",
+    "translation": "Илбэ, хувиргалт",
+    "hanja": "幻術",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "저리되다",
+    "translation": "ийм болох",
+    "hanja": "저리되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "산패",
+    "translation": "Исэлдэх",
+    "hanja": "酸敗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "캐논볼",
+    "translation": "их бууны сум",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수치감",
+    "translation": "ичгүүрийн мэдрэмж",
+    "hanja": "羞恥感",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "에스파냐어",
+    "translation": "Испани хэл",
+    "hanja": "에스파냐語",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "대생",
+    "translation": "ижил төрлийн",
+    "hanja": "對生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "식각",
+    "translation": "ишлэл, сийлбэр",
+    "hanja": "蝕刻",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "익주",
+    "translation": "Икжү (газарзүйн нэр)",
+    "hanja": "益州",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이수다",
+    "translation": "ижил төстэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사민",
+    "translation": "иргэд",
+    "hanja": "士民",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "캥캥",
+    "translation": "ингэх ингэх",
+    "hanja": "캥캥",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "더한층",
+    "translation": "илүү их",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이리스",
+    "translation": "Ирис",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인디고",
+    "translation": "индиго",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "너므",
+    "translation": "их",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "온후하다",
+    "translation": "ийлдэг",
+    "hanja": "溫厚-",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "이러저러다",
+    "translation": "ийм тийм юм хийх",
+    "hanja": "이러저러다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰마님",
+    "translation": "их хатагтай",
+    "hanja": "큰마님",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태사",
+    "translation": "их багш",
+    "hanja": "太師",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "하전",
+    "translation": "ион",
+    "hanja": "荷電",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인동",
+    "translation": "индон ургамал",
+    "hanja": "忍冬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이검",
+    "translation": "ийгом (нэр)",
+    "hanja": "李劍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현현",
+    "translation": "илчлэгдэх, илрэх",
+    "hanja": "顯現",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동형",
+    "translation": "ижил төрөл, ижил хэлбэр",
+    "hanja": "同形",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이기붕",
+    "translation": "И Ги-бүн",
+    "hanja": "李箕鵬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "성래",
+    "translation": "ирэх",
+    "hanja": "成來",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파렴치",
+    "translation": "ичгүүргүй",
+    "hanja": "破廉恥",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "영험",
+    "translation": "ид шид",
+    "hanja": "靈驗",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀납법",
+    "translation": "индукц",
+    "hanja": "歸納法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능글거리다",
+    "translation": "инээмсэглэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발신되다",
+    "translation": "илгээгдэх",
+    "hanja": "發信되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "이승휴",
+    "translation": "И Сынхю",
+    "hanja": "李承休",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시큼시큼하다",
+    "translation": "исгэлэн амттай",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "대호황",
+    "translation": "их цэцэглэлт",
+    "hanja": "大好況",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "여차저차하다",
+    "translation": "Ийм тийм болчихлоо",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궐석",
+    "translation": "Ирээгүй",
+    "hanja": "闕席",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이래",
+    "translation": "Ирээ",
+    "hanja": "以來",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임철",
+    "translation": "им Чол",
+    "hanja": "林喆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송고하다",
+    "translation": "Илгээх",
+    "hanja": "送稿하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "일리아스",
+    "translation": "Илиад",
+    "hanja": "Ilias",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인토네이션",
+    "translation": "интонаци",
+    "hanja": "intonation",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "재신임하다",
+    "translation": "итгэлийг дахин хүлээлгэх",
+    "hanja": "再信任하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발송자",
+    "translation": "илгээгч",
+    "hanja": "발송자(發送者)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이율곡",
+    "translation": "Ий Иүл-гок (Солонгосын философич)",
+    "hanja": "李珥谷",
+    "pos": "Proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "대악",
+    "translation": "их муу",
+    "hanja": "大惡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민용",
+    "translation": "иргэний хэрэглээ",
+    "hanja": "民用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표면화하다",
+    "translation": "ил гаргах, илчлэх",
+    "hanja": "表面化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수오지심",
+    "translation": "ичгүүр, уур",
+    "hanja": "羞惡之心",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "수욕",
+    "translation": "Ичгүүр, шившиг",
+    "hanja": "羞辱",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "더이",
+    "translation": "Илүү, нэмэлт",
+    "hanja": "더이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "그덕",
+    "translation": "Ивээл, ач тус",
+    "hanja": "그덕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "우숩다",
+    "translation": "Инээдтэй, хөгжилтэй (хуучны)",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "인티",
+    "translation": "инти (хэмжих нэгж)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "빵끗",
+    "translation": "инээмсэглэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "과신",
+    "translation": "Итгэл хэтэрхий их байх",
+    "hanja": "過信",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "주뼛주뼛",
+    "translation": "Ичингүйрэн, эргэлзэн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의사하다",
+    "translation": "Ижилсэх, адилхан байх",
+    "hanja": "擬似하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "박소",
+    "translation": "Инээд, хөхөрсөн дуу",
+    "hanja": "拍笑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "초현",
+    "translation": "илүүрхсэн",
+    "hanja": "超玄",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "빈출",
+    "translation": "ихэнхдээ гарч ирэх",
+    "hanja": "頻出",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "양양하다",
+    "translation": "их, өргөн дэлгэр",
+    "hanja": "洋洋하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문명국가",
+    "translation": "Иргэншсэн улс",
+    "hanja": "文明國家",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "대방출하다",
+    "translation": "Их хэмжээгээр гаргах, хямдралтай худалдах",
+    "hanja": "大放出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "올게",
+    "translation": "ирэх, ойртох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "노골",
+    "translation": "ил шууд",
+    "hanja": "露骨",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "이선좌",
+    "translation": "И Сон-жва (хүний нэр)",
+    "hanja": "李善佐",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인스브루크",
+    "translation": "Инсбрук (хот)",
+    "hanja": "Innsbruck",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "오버타임",
+    "translation": "илүү цаг",
+    "hanja": "overtime",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "진달",
+    "translation": "илчлэх, тайлагнах",
+    "hanja": "陳達",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이사금",
+    "translation": "Исагым (Шиллагийн хаан)",
+    "hanja": "尼師今",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이석형",
+    "translation": "И Сок-хён (хүний нэр)",
+    "hanja": "李碩亨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "현현하다",
+    "translation": "илрэх, үзэгдэх",
+    "hanja": "顯現하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "임팔라",
+    "translation": "импала",
+    "hanja": "임팔라",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "동근",
+    "translation": "ижил үндэстэй",
+    "hanja": "同根",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이소트레티노인",
+    "translation": "изотретиноин",
+    "hanja": "이소트레티노인",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "몰염치하다",
+    "translation": "ичих нүүргүй",
+    "hanja": "沒廉恥하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송수신",
+    "translation": "илгээх, хүлээн авах",
+    "hanja": "送受信",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "태실",
+    "translation": "ихсийн шарил",
+    "hanja": "胎室",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자랑질하다",
+    "translation": "ихрүүлэх, гайхуулах",
+    "hanja": "자랑질하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "동가",
+    "translation": "ижил үнэ",
+    "hanja": "同價",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "칼싸움하다",
+    "translation": "илдээр тулалдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송신되다",
+    "translation": "илгээгдэх",
+    "hanja": "送信되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "열없다",
+    "translation": "ичгүүртэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이인범",
+    "translation": "И Ин-бом",
+    "hanja": "李寅範",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신래",
+    "translation": "итгэл",
+    "hanja": "信來",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인바운드",
+    "translation": "инбаунд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송수신하다",
+    "translation": "илгээх, хүлээн авах",
+    "hanja": "送受信─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신두",
+    "translation": "итгэл үнэмшил",
+    "hanja": "信頭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이근택",
+    "translation": "и гын-тэг",
+    "hanja": "李根澤",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "등위",
+    "translation": "ижил зэрэг; ижил хэвлэлийн",
+    "hanja": "等位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "신탁하다",
+    "translation": "итгэж даатгах",
+    "hanja": "信託하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "문반",
+    "translation": "Иргэний албан тушаалтан",
+    "hanja": "文班",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "푸학",
+    "translation": "Инээд алдах чимээ",
+    "hanja": "푸학",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "서반",
+    "translation": "Испани",
+    "hanja": "西班牙",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "치희",
+    "translation": "инээмсэглэл",
+    "hanja": "稚姬",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인퓨저",
+    "translation": "инфузер",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대제전",
+    "translation": "их баяр наадам",
+    "hanja": "大祭典",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "마구리",
+    "translation": "ирмэг, хязгаар",
+    "hanja": "마구리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빙긋빙긋",
+    "translation": "инээмсэглэсээр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "염매",
+    "translation": "ихэнх хувьцааг эзэмших",
+    "hanja": "廉買",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "이바노프",
+    "translation": "Иванов",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "책책",
+    "translation": "ичиж, дургүйцсэн байдал",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "피동문",
+    "translation": "идэвхгүй өгүүлбэр",
+    "hanja": "被動文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언나",
+    "translation": "ил гарах",
+    "hanja": "언나",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다리미질",
+    "translation": "инженедэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잉구",
+    "translation": "ингу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "신룡",
+    "translation": "ид шидийн луу",
+    "hanja": "神龍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무초",
+    "translation": "ишгүй",
+    "hanja": "無草",
+    "pos": "NNG",
+    "cefr": "C1"
+  },
+  {
+    "word": "표명되다",
+    "translation": "илэрхийлэгдэх",
+    "hanja": "表明되다",
+    "pos": "VV",
+    "cefr": "C1"
+  },
+  {
+    "word": "이상화되다",
+    "translation": "идеалчлагдах",
+    "hanja": "理想化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잉키",
+    "translation": "Инки",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "허허거리다",
+    "translation": "Инээд алдах",
+    "hanja": "허허거리다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "오마다",
+    "translation": "Их хэмжээгээр",
+    "hanja": "오마다",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "신앙하다",
+    "translation": "итгэх (шашин)",
+    "hanja": "信仰하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요래조래",
+    "translation": "Ийм тийм, ингэж тэгж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한창나이",
+    "translation": "ид нас",
+    "hanja": "한창나이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "회교",
+    "translation": "Исламын шашин",
+    "hanja": "回教",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대채",
+    "translation": "ихэнх",
+    "hanja": "大體",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이상범",
+    "translation": "И Сан-бом",
+    "hanja": "李相範",
+    "pos": "인명",
+    "cefr": "C2"
+  },
+  {
+    "word": "보고대회",
+    "translation": "илтгэх хурал",
+    "hanja": "報告大會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "체신",
+    "translation": "итгэл, нэр хүнд",
+    "hanja": "體信",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "치욕감",
+    "translation": "Ичгүүрийн мэдрэмж",
+    "hanja": "恥辱感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "블러싱",
+    "translation": "ичих, ичгэвтэр байдал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "상그레",
+    "translation": "инээмсэглэж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "양심선언하다",
+    "translation": "ичгүүргүйгээр тунхаглах",
+    "hanja": "良心宣言—",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "일맥상통",
+    "translation": "ижил утгатай, уялдаатай",
+    "hanja": "一脈相通",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만지작만지작",
+    "translation": "Илж таалж, байнга хүрэх",
+    "hanja": "만지작만지작",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계시되다",
+    "translation": "Илчлэгдэх, ил болох, үзэгдэх",
+    "hanja": "啓示-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "능동태",
+    "translation": "идэвхтэй дуу хоолой",
+    "hanja": "能動態",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대놓고",
+    "translation": "Ил тод, нээлттэйгээр",
+    "hanja": "—",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인젝터",
+    "translation": "Инжектор",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "생글생글하다",
+    "translation": "инээмсэглэх",
+    "hanja": "생글생글하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "버",
+    "translation": "ишлэх",
+    "hanja": "버",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "촉망",
+    "translation": "ирээдүйтэй, ирээдүйг харах",
+    "hanja": "囑望",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "동화시키다",
+    "translation": "ижилсгэх, уусгах",
+    "hanja": "同化시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "그레이트배리어리프",
+    "translation": "Их Хамгаалалтын Хад",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "큰이",
+    "translation": "ихэнх",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투명대",
+    "translation": "ил тод бүс",
+    "hanja": "透明帶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "진취성",
+    "translation": "Идэвх санаачлага",
+    "hanja": "進取性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "먹뱉",
+    "translation": "Идэж, идэж хаях (Хоолоо идээд буцааж гаргах гэсэн утгатай)",
+    "hanja": "먹뱉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빵긋빵긋",
+    "translation": "инээмсэглэх",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동성연애",
+    "translation": "ижил хүйстэнтэй харилцах",
+    "hanja": "同性戀愛",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "싱글대다",
+    "translation": "инээмсэглэх, ичингүйрэн инээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "발검",
+    "translation": "илдээрээ сугалах",
+    "hanja": "拔劍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "안민",
+    "translation": "иргэдийг тайвшруулах",
+    "hanja": "安民",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "희화",
+    "translation": "Инээдмийн зураг, шог зураг",
+    "hanja": "戲畫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "큰바람",
+    "translation": "их салхи",
+    "hanja": "큰바람",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "어줍다",
+    "translation": "ичиж зовох",
+    "hanja": "어줍다",
+    "pos": "тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "이온화되다",
+    "translation": "ионжих",
+    "hanja": "이온化되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "인큐",
+    "translation": "инкубатор",
+    "hanja": "인큐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "적분하다",
+    "translation": "интеграцчилах",
+    "hanja": "積分하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "히히거리다",
+    "translation": "инээх",
+    "hanja": "히히거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "현상되다",
+    "translation": "илрэх, үүсэх",
+    "hanja": "現像되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인터페론",
+    "translation": "интерферон",
+    "hanja": "인터페론",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "양조하다",
+    "translation": "Исгэх",
+    "hanja": "釀造하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "하송",
+    "translation": "Илгээх",
+    "hanja": "下送",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "양성화하다",
+    "translation": "Ил тод болгох, албан ёсны болгох",
+    "hanja": "陽性化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자랑이",
+    "translation": "Ихэмсэг, бардам хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이바노비치",
+    "translation": "Иванович",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수입상",
+    "translation": "импортлогч",
+    "hanja": "輸入商",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벙글벙글",
+    "translation": "инээмсэглэх",
+    "hanja": "벙글벙글",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이와테",
+    "translation": "иватэ (Японы аймаг)",
+    "hanja": "이와테",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "이괄",
+    "translation": "И Гвал (хүн)",
+    "hanja": "李适",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "절복",
+    "translation": "итгүүлэх",
+    "hanja": "折伏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수동형",
+    "translation": "идэвхгүй хэлбэр",
+    "hanja": "受動形",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민단",
+    "translation": "иргэний бүлэг",
+    "hanja": "民團",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군말",
+    "translation": "илүү үг",
+    "hanja": "군말",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "요아킴",
+    "translation": "Иоахим",
+    "hanja": "요아킴",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "연향",
+    "translation": "илүү үнэр",
+    "hanja": "筵享",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "외해",
+    "translation": "ил далай",
+    "hanja": "外海",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "대죄하다",
+    "translation": "их нүгэл үйлдэх",
+    "hanja": "大罪하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "염치",
+    "translation": "ичгүүр",
+    "hanja": "廉恥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인니",
+    "translation": "инжин, лаг",
+    "hanja": "印尼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "세나다",
+    "translation": "илчлэх, илрүүлэх",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송부되다",
+    "translation": "илгээгдэх",
+    "hanja": "送付되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "노지",
+    "translation": "ил талбай",
+    "hanja": "露地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이르쿠츠크",
+    "translation": "Иркутск",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "신임",
+    "translation": "итгэл, итгэх",
+    "hanja": "信任",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "홍범",
+    "translation": "Их дүрэм",
+    "hanja": "洪範",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "득실득실",
+    "translation": "ихээр, олноор, дүүрэн",
+    "hanja": "得失得失",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인가이",
+    "translation": "Ингай",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "무망하다",
+    "translation": "Итгэлгүй байх",
+    "hanja": "無望하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "인디안",
+    "translation": "индиан",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "임나",
+    "translation": "Имна (эртний улсын нэр)",
+    "hanja": "任那",
+    "pos": "고유명사",
+    "cefr": null
+  },
+  {
+    "word": "표출시키다",
+    "translation": "ил гаргах, илэрхийлэх",
+    "hanja": "表出시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패팅",
+    "translation": "илэх, таших",
+    "hanja": "patting",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "올래",
+    "translation": "ир, одоо",
+    "hanja": "올래",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "포디엄",
+    "translation": "индэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수줍어하다",
+    "translation": "ичих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대결전",
+    "translation": "Их тулаан",
+    "hanja": "大決戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "나월",
+    "translation": "ирэх сар",
+    "hanja": "來月",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "벙글거리다",
+    "translation": "инээмсэглэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "망측스럽다",
+    "translation": "ичгүүртэй, зохисгүй",
+    "hanja": "罔測스럽다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "폭음하다",
+    "translation": "их хэмжээгээр уух",
+    "hanja": "暴飮하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인디애나대",
+    "translation": "Индиана их сургууль",
+    "hanja": "인디애나大",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "투화하다",
+    "translation": "илрүүлэх",
+    "hanja": "透華하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "에지",
+    "translation": "ирмэг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "과잉하다",
+    "translation": "илүүдэх",
+    "hanja": "過剩하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "히쭉",
+    "translation": "инээмсэглэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "무화과잼",
+    "translation": "инжирийн чанамал",
+    "hanja": "無花果jam",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "대유",
+    "translation": "их элбэг",
+    "hanja": "大有",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "인바",
+    "translation": "Илүүдэл",
+    "hanja": "인바",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "건의되다",
+    "translation": "ийм санал дэвшүүлэгдэх",
+    "hanja": "建議되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여차여차하다",
+    "translation": "ийм тийм юм болох, ингэж тэгэх",
+    "hanja": "如次如次하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "파안대소",
+    "translation": "инээдээр дүүрэн",
+    "hanja": "破顔大笑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "노골화하다",
+    "translation": "илчлэх",
+    "hanja": "露骨化하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "이충무공",
+    "translation": "И Чүн Мү Гун",
+    "hanja": "李忠武公",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "지수화하다",
+    "translation": "индексжүүлэх",
+    "hanja": "指數化하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "래빈",
+    "translation": "ирсэн зочин",
+    "hanja": "來賓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "이트륨",
+    "translation": "иттриум",
+    "hanja": "이트륨",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

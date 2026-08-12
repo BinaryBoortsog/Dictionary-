@@ -1,0 +1,793 @@
+[
+  {
+    "word": "밀",
+    "translation": "Буудай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "밀가루",
+    "translation": "гурил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "밀거래하다",
+    "translation": "хууль бусаар арилжих",
+    "hanja": "密去來하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀고하다",
+    "translation": "мэдээлэх, илчлэх",
+    "hanja": "密告하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀교",
+    "translation": "нууц сургаал",
+    "hanja": "密教",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀다",
+    "translation": "Түлхэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "밀당",
+    "translation": "таталцал түлхэлт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀당하다",
+    "translation": "түрэх татах",
+    "hanja": "밀당하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀도",
+    "translation": "нягтрал",
+    "hanja": "密度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀라노",
+    "translation": "Милан",
+    "hanja": "Milano",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "밀랍",
+    "translation": "лав",
+    "hanja": "蜜蠟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀레니얼",
+    "translation": "мянганы үеийнхэн",
+    "hanja": "밀레니얼",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀레니엄",
+    "translation": "мянганы",
+    "hanja": " millenium",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀레다",
+    "translation": "түлэх",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "밀레이",
+    "translation": "Милай (нэр)",
+    "hanja": "밀레이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "밀레투스",
+    "translation": "Милет",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "밀려나다",
+    "translation": "шахагдах",
+    "hanja": "밀려나다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀려들다",
+    "translation": "урьсан татах, бөөнөөр ирэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀렵",
+    "translation": "хууль бус ан, хулгайн ан",
+    "hanja": "密獵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀렵꾼",
+    "translation": "хууль бус анчин",
+    "hanja": "密獵꾼",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀렵하다",
+    "translation": "хууль бусаар агнах",
+    "hanja": "密獵하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀로",
+    "translation": "мило (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "밀른",
+    "translation": "Миллийн",
+    "hanja": "밀른",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "밀리",
+    "translation": "милли",
+    "hanja": "milli",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "밀리그램",
+    "translation": "миллиграм",
+    "hanja": "밀리그램",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "밀리다",
+    "translation": "түлхэгдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "밀리리터",
+    "translation": "миллилитр",
+    "hanja": "밀리리터",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "밀리미터",
+    "translation": "Миллиметр",
+    "hanja": "밀리미터",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "밀리볼트",
+    "translation": "Милливольт",
+    "hanja": "mV",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀리세컨드",
+    "translation": "миллисекунд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀리시버트",
+    "translation": "миллисиверт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "밀리어",
+    "translation": "саятан",
+    "hanja": "밀리어",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀리초",
+    "translation": "миллисекунд",
+    "hanja": "밀리초",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀림",
+    "translation": "шигүү ой, халуун орны ой",
+    "hanja": "密林",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "밀링",
+    "translation": "энгийн байдал",
+    "hanja": "밀링",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀매",
+    "translation": "хууль бус худалдаа",
+    "hanja": "密賣",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀매하다",
+    "translation": "хууль бусаар худалдаа хийх",
+    "hanja": "密賣하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀명",
+    "translation": "Нууц тушаал",
+    "hanja": "密命",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀무역",
+    "translation": "хууль бус худалдаа",
+    "hanja": "密貿易",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀물",
+    "translation": "далайн түрлэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "밀반입",
+    "translation": "хууль бусаар оруулах",
+    "hanja": "密搬入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀반입되다",
+    "translation": "хууль бусаар оруулах",
+    "hanja": "密搬入되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀반입하다",
+    "translation": "хууль бусаар оруулах",
+    "hanja": "密搬入하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀반출",
+    "translation": "хууль бусаар гадагш гаргах",
+    "hanja": "密搬出",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀반출되다",
+    "translation": "хууль бусаар эх орноос гаргах",
+    "hanja": "密搬出되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀반출하다",
+    "translation": "хууль бусаар гаргах",
+    "hanja": "密搬出하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀밭",
+    "translation": "улаан буудайн талбай",
+    "hanja": "밀밭",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "밀번",
+    "translation": "мянган удаа",
+    "hanja": "密番",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "밀본",
+    "translation": "Нууц бүлэг",
+    "hanja": "密本",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀봉",
+    "translation": "битүүмжлэх",
+    "hanja": "密閉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀봉되다",
+    "translation": "битүүмжлэгдэх",
+    "hanja": "密封되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀봉하다",
+    "translation": "Битүүмжлэх, лацдах",
+    "hanja": "密封하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀사",
+    "translation": "нууц элч, илгээлт",
+    "hanja": "密使",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀서",
+    "translation": "нууц захидал",
+    "hanja": "密書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀수",
+    "translation": "хууль бус наймаа, хил нэвтрүүлэх",
+    "hanja": "密輸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀수되다",
+    "translation": "хууль бусаар оруулах",
+    "hanja": "密輸되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀수입하다",
+    "translation": "хууль бусаар импортлох",
+    "hanja": "密輸入하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀수출하다",
+    "translation": "хууль бусаар экспортлох",
+    "hanja": "密輸出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀수품",
+    "translation": "хууль бус бараа",
+    "hanja": "密輸品",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀수하다",
+    "translation": "хууль бусаар наймаа хийх",
+    "hanja": "密輸하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀스",
+    "translation": "Улаан буудай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "밀스펙",
+    "translation": "цэргийн стандарт",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀실",
+    "translation": "нууц өрөө",
+    "hanja": "密室",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀알",
+    "translation": "будааны үр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀약",
+    "translation": "нууц гэрээ",
+    "hanja": "密約",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀양",
+    "translation": "Мирян",
+    "hanja": "密陽",
+    "pos": "нэр",
+    "cefr": "C2"
+  },
+  {
+    "word": "밀어",
+    "translation": "Нууц үгээр",
+    "hanja": "密語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "밀어내다",
+    "translation": "түлхэж гаргах",
+    "hanja": "밀어내다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀어닥치다",
+    "translation": "хийлгэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀어뜨리다",
+    "translation": "түлхэж унагах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "밀어붙이다",
+    "translation": "Шахаж оруулах, гүйн түлхэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀어젖히다",
+    "translation": "түлхэн онгойлгох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀워키",
+    "translation": "Милвоки",
+    "hanja": "밀워키",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "밀월",
+    "translation": "бал сар",
+    "hanja": "蜜月",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "밀월여행",
+    "translation": "бал сарын аялал",
+    "hanja": "蜜月旅行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀웜",
+    "translation": "гурилын хорхой",
+    "hanja": "mealworm",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "밀입국",
+    "translation": "хууль бусаар хил нэвтрэх",
+    "hanja": "密入國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀입국자",
+    "translation": "хууль бус цагаач, нууцаар нэвтрэх",
+    "hanja": "密入國者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀입국하다",
+    "translation": "хууль бусаар нэвтрэх",
+    "hanja": "密入國하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀전병",
+    "translation": "будааны бяслаг, хивэгний талх",
+    "hanja": "밀煎餠",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀접하다",
+    "translation": "ойр байх",
+    "hanja": "密接하다",
+    "pos": "т.ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀접히",
+    "translation": "нягт холбоотой",
+    "hanja": "密接히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀정",
+    "translation": "тагнуулч",
+    "hanja": "密偵",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀조",
+    "translation": "хууль бусаар үйлдвэрлэх, нууцаар хийх",
+    "hanja": "密造",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀주",
+    "translation": "хууль бус архи",
+    "hanja": "密酒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀집",
+    "translation": "нягт суурьшсан",
+    "hanja": "密集",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀집되다",
+    "translation": "бөөгнөрөх",
+    "hanja": "密集되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀집하다",
+    "translation": "нягтших",
+    "hanja": "密集하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀짚",
+    "translation": "Сүрлэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "밀짚모자",
+    "translation": "сүрлэн малгай",
+    "hanja": "밀짚모자",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "밀착",
+    "translation": "наалдах, нягт холбоо",
+    "hanja": "密着",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀착되다",
+    "translation": "Нягт байх",
+    "hanja": "密着되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀착시키다",
+    "translation": "ойртуулах",
+    "hanja": "密着시키다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀착하다",
+    "translation": "нягт барьцалдах, ойрхон байх",
+    "hanja": "密着하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀초",
+    "translation": "лаа",
+    "hanja": "蜜초",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "밀치",
+    "translation": "хавчсан загас (숭어)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀치다",
+    "translation": "түрэх",
+    "hanja": "밀치다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "밀치락달치락하다",
+    "translation": "түлхэлцэх",
+    "hanja": "밀치락달치락하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "밀크셰이크",
+    "translation": "милкшейк",
+    "hanja": "밀크셰이크",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "밀크쉐이크",
+    "translation": "сүүтэй шейк",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "밀크초콜릿",
+    "translation": "Сүүтэй шоколад",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "밀크커피",
+    "translation": "сүүтэй кофе",
+    "hanja": "milk coffee",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "밀턴",
+    "translation": "Милтон",
+    "hanja": "밀턴",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "밀통",
+    "translation": "нууц холбоо",
+    "hanja": "密通",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀티아데스",
+    "translation": "Милтиадес",
+    "hanja": "밀티아데스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀파",
+    "translation": "нууцаар илгээх",
+    "hanja": "密派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀폐",
+    "translation": "Битүүмжлэх",
+    "hanja": "密閉",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀폐되다",
+    "translation": "битүүмжлэгдэх",
+    "hanja": "密閉되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀폐하다",
+    "translation": "битүүмжлэх",
+    "hanja": "密閉하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "밀푀유",
+    "translation": "мильфей",
+    "hanja": "불란서 음식 이름",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "밀항",
+    "translation": "нууцаар зорчих",
+    "hanja": "密航",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀항자",
+    "translation": "хууль бус цагаач",
+    "hanja": "密航者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "밀회",
+    "translation": "Нууц уулзалт",
+    "hanja": "密會",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

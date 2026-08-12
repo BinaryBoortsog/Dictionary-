@@ -1,0 +1,471 @@
+[
+  {
+    "word": "형",
+    "translation": "ах",
+    "hanja": "兄",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "형광",
+    "translation": "Флюресцент",
+    "hanja": "螢光",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "형광등",
+    "translation": "флюресцент гэрэл",
+    "hanja": "螢光燈",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "형구",
+    "translation": "хэлбэр баригч",
+    "hanja": "型具",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형국",
+    "translation": "Байдал, нөхцөл байдал",
+    "hanja": "形局",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형기",
+    "translation": "ял эдлэх хугацаа",
+    "hanja": "刑期",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형님",
+    "translation": "ах (эрэгтэй)",
+    "hanja": "兄님",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "형도",
+    "translation": "бага ах",
+    "hanja": "兄道",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "형량",
+    "translation": "Ял",
+    "hanja": "刑量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형무관",
+    "translation": "Шоронгийн офицер",
+    "hanja": "刑務官",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형무소",
+    "translation": "шорон",
+    "hanja": "刑務所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "형민",
+    "translation": "Хён Мин (хүний нэр)",
+    "hanja": "炯旻",
+    "pos": "명",
+    "cefr": "A1"
+  },
+  {
+    "word": "형배",
+    "translation": "ах дүү",
+    "hanja": "兄輩",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "형벌",
+    "translation": "ял",
+    "hanja": "刑罰",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "형법",
+    "translation": "эрүүгийн хууль",
+    "hanja": "刑法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "형부",
+    "translation": "хүргэн ах",
+    "hanja": "兄夫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "형사",
+    "translation": "мөрдөгч",
+    "hanja": "刑事",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형산",
+    "translation": "Хёонь уул",
+    "hanja": "衡山",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "형상",
+    "translation": "Дүрс, хэлбэр",
+    "hanja": "形狀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형상하다",
+    "translation": "Дүрслэх",
+    "hanja": "形象하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "형상화",
+    "translation": "Дүрслэх",
+    "hanja": "形象化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형상화되다",
+    "translation": "биелэгдэх",
+    "hanja": "形象化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형상화하다",
+    "translation": "хэлбэржүүлэх",
+    "hanja": "形象化-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형서",
+    "translation": "дүү",
+    "hanja": "兄서",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "형석",
+    "translation": "флюорит",
+    "hanja": "螢石",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "형설지공",
+    "translation": "шаргуу хичээл зүтгэл",
+    "hanja": "螢雪之功",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "형성",
+    "translation": "Бүрдүүлэх",
+    "hanja": "形成",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "형성기",
+    "translation": "Бүрэлдэх үе",
+    "hanja": "形成期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "형성되다",
+    "translation": "бүрэлдэх, үүсэх",
+    "hanja": "形成되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "형성시키다",
+    "translation": "형성하다, 만들다",
+    "hanja": "形成시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "형성하다",
+    "translation": "үүсгэх, бүрдүүлэх",
+    "hanja": "形成하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "형세",
+    "translation": "нөхцөл байдал",
+    "hanja": "形勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "형수",
+    "translation": "эгч",
+    "hanja": "兄嫂",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "형식",
+    "translation": "хэлбэр, загвар",
+    "hanja": "形式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "형식적",
+    "translation": "Хуурамч, албан ёсны",
+    "hanja": "形式的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "형식화하다",
+    "translation": "албан ёсны болгох, хэлбэржүүлэх",
+    "hanja": "形式化하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "형씨",
+    "translation": "Ноён",
+    "hanja": "兄氏",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "형아",
+    "translation": "Ах (залуу хүн)",
+    "hanja": "兄아",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "형양",
+    "translation": "Хёнъян",
+    "hanja": "衡陽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형언하다",
+    "translation": "тайлбарлах, тодорхойлох",
+    "hanja": "形言하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형옥",
+    "translation": "шорон",
+    "hanja": "刑獄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형용",
+    "translation": "Тодорхойлолт, дүрслэл",
+    "hanja": "形容",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형용사",
+    "translation": "тэмдэг нэр",
+    "hanja": "形容詞",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "형용하다",
+    "translation": "тодорхойлох, дүрслэх",
+    "hanja": "形容하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형장",
+    "translation": "цаазын талбай",
+    "hanja": "刑場",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "형제",
+    "translation": "ах дүү",
+    "hanja": "兄弟",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "형제애",
+    "translation": "ах дүүгийн хайр",
+    "hanja": "兄弟愛",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "형제자매",
+    "translation": "ах эгч дүү нар",
+    "hanja": "兄弟姊妹",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "형조",
+    "translation": "Хёнжо (хуучны нэр)",
+    "hanja": "刑曹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형질",
+    "translation": "шинж чанар, шинж тэмдэг",
+    "hanja": "形質",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형철",
+    "translation": "төмөр",
+    "hanja": "形鐵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형체",
+    "translation": "Хэлбэр, биет",
+    "hanja": "形體",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "형태",
+    "translation": "хэлбэр",
+    "hanja": "形態",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "형태소",
+    "translation": "морфем",
+    "hanja": "形態素",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "형태적",
+    "translation": "хэлбэрийн",
+    "hanja": "形態的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "형통",
+    "translation": "Далд хувь, хувь тавилан",
+    "hanja": "亨通",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형통하다",
+    "translation": "амжилттай байх, бүтэмжтэй байх",
+    "hanja": "亨通하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "형틀",
+    "translation": "хүрээ",
+    "hanja": "刑틀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "형판",
+    "translation": "загвар",
+    "hanja": "型板",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형편",
+    "translation": "Нөхцөл",
+    "hanja": "形便",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "형편없다",
+    "translation": "муухай",
+    "hanja": "形便없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "형편없이",
+    "translation": "муухайгаар, маш муу",
+    "hanja": "형편없이",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "형평",
+    "translation": "тэнцвэр",
+    "hanja": "衡平",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "형평성",
+    "translation": "тэгш байдал, шударга ёс",
+    "hanja": "衡平性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형형색색",
+    "translation": "олон өнгийн",
+    "hanja": "形形色色",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "형형하다",
+    "translation": "гэрэлтсэн, тод гэрэлтсэн",
+    "hanja": "炯炯하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "형형히",
+    "translation": "гэрэлтсэн",
+    "hanja": "炯炯히",
+    "pos": "부사",
+    "cefr": "C1"
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "word": "예의",
+    "translation": "ёс зүй",
+    "hanja": "禮儀",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "영남",
+    "translation": "Ённам",
+    "hanja": "嶺南",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "매너",
+    "translation": "Ёс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여수",
+    "translation": "Ёсү (хот)",
+    "hanja": "麗水",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "밑바닥",
+    "translation": "ёроол",
+    "hanja": "밑바닥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "도덕적",
+    "translation": "ёс суртахууны",
+    "hanja": "道德的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용산",
+    "translation": "Ёнсан",
+    "hanja": "龍山",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "덕화",
+    "translation": "ёс суртахууны нөлөө",
+    "hanja": "德化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "여의도",
+    "translation": "Ёидо",
+    "hanja": "汝矣島",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "윤리",
+    "translation": "ёс зүй",
+    "hanja": "倫理",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "도덕",
+    "translation": "ёс суртахуун",
+    "hanja": "道德",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "예절",
+    "translation": "ёс зүй",
+    "hanja": "禮節",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풍습",
+    "translation": "ёс заншил",
+    "hanja": "風習",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "영등포구",
+    "translation": "Ёндынбу-гу",
+    "hanja": "永登浦區",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "경례",
+    "translation": "ёслох",
+    "hanja": "敬禮",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "세리머니",
+    "translation": "ёслол, үйл ажиллагаа",
+    "hanja": "ceremony",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "영희",
+    "translation": "Ёнхи (хүн нэр)",
+    "hanja": "英姬",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "윤리적",
+    "translation": "ёс суртахууны",
+    "hanja": "倫理的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "관례",
+    "translation": "ёс, нийцэл",
+    "hanja": "慣例",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "영철",
+    "translation": "Ёнчол (нэр)",
+    "hanja": "英哲",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "격식",
+    "translation": "ёс зүй, ёс журам",
+    "hanja": "格式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "도덕성",
+    "translation": "ёс суртахуун",
+    "hanja": "道德性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "역설적",
+    "translation": "ёгт утгатай, парадоксал",
+    "hanja": "逆說的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요코하마",
+    "translation": "Ёкохама",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "의전",
+    "translation": "ёслол, хатуу дүрэм",
+    "hanja": "儀典",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "연천",
+    "translation": "Ёнчон (газар зүйн нэр)",
+    "hanja": "漣川",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요요",
+    "translation": "ё-ё",
+    "hanja": "yoyo",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식전",
+    "translation": "ёслолын өмнө",
+    "hanja": "式典",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "추행",
+    "translation": "Ёс бус үйлдэл",
+    "hanja": "醜行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예식",
+    "translation": "ёслол",
+    "hanja": "禮式",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "식장",
+    "translation": "ёслолын танхим",
+    "hanja": "式場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "의례",
+    "translation": "ёслол",
+    "hanja": "儀禮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "영덕",
+    "translation": "Ёндүк (газарзүйн нэр)",
+    "hanja": "盈德",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풍자하다",
+    "translation": "ёжлох",
+    "hanja": "諷刺하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "예법",
+    "translation": "Ёс зүй",
+    "hanja": "禮法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "끙끙대다",
+    "translation": "ёолох, дуудах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "연산군",
+    "translation": "Ёнсан Гүн (нэрийн хаан)",
+    "hanja": "연산군(燕山君)",
+    "pos": "인명",
+    "cefr": "C1"
+  },
+  {
+    "word": "에티켓",
+    "translation": "ёс зүй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "낑낑대다",
+    "translation": "ёолох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "리셉션",
+    "translation": "ёслолын хүлээн авалт",
+    "hanja": "reception",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "영의정",
+    "translation": "Ёнгуйжонг (эртний албан тушаал)",
+    "hanja": "영의정",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부도덕하다",
+    "translation": "ёс суртахуунгүй, адгууслаг",
+    "hanja": "不道德하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비윤리적",
+    "translation": "Ёс зүйгүй",
+    "hanja": "非倫理的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예의범절",
+    "translation": "ёс зүй",
+    "hanja": "禮儀凡節",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "인사치레",
+    "translation": "ёс төдий мэндчилгээ",
+    "hanja": "人事치레",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "경례하다",
+    "translation": "ёслох, мэндлэх",
+    "hanja": "敬禮하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "요시미",
+    "translation": "Ёшими",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "신음",
+    "translation": "ёолох",
+    "hanja": "呻吟",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "품행",
+    "translation": "Ёс суртахуун, зан ааш",
+    "hanja": "品行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "영산강",
+    "translation": "Ёнсан гол (Солонгос)",
+    "hanja": "榮山江",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "앵",
+    "translation": "ёоё",
+    "hanja": "—",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "요미",
+    "translation": "ёми",
+    "hanja": "요미",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍기",
+    "translation": "ёс суртахуун",
+    "hanja": "風紀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "이죽거리다",
+    "translation": "Ёжлох, доог тохуу хийх",
+    "hanja": "N/A",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "덕망",
+    "translation": "ёс суртахууны нэр хүнд",
+    "hanja": "德望",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "영노",
+    "translation": "ённо (хананд зурах арслангийн дүрс)",
+    "hanja": "獰奴",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "영변",
+    "translation": "Ёнбён",
+    "hanja": "寧邊",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "영규",
+    "translation": "Ёнгю (хүний нэр)",
+    "hanja": "英圭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "관용적",
+    "translation": "ёс суртахууны, хэлц үгийн",
+    "hanja": "慣用的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "요코스카",
+    "translation": "Ёкосука (Японы хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비도덕적",
+    "translation": "ёс суртахуунгүй",
+    "hanja": "非道德的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "영랑",
+    "translation": "Ённан (нэр)",
+    "hanja": "永郞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "영풍",
+    "translation": "ёнпүн(компани)",
+    "hanja": "永豊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "역삼",
+    "translation": "Ёксам (газрын нэр)",
+    "hanja": "驛三",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "영광군",
+    "translation": "Ёнгванг муж",
+    "hanja": "靈光郡",
+    "pos": "м.н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "윤리학",
+    "translation": "Ёс зүй, ёс суртахууны судлал",
+    "hanja": "倫理學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "도의",
+    "translation": "Ёс суртахуун",
+    "hanja": "道義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비루하다",
+    "translation": "ёс бус",
+    "hanja": "卑陋하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "욜다",
+    "translation": "ёолдох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": null
+  },
+  {
+    "word": "패륜아",
+    "translation": "ёс суртахуунгүй хүүхэд",
+    "hanja": "悖倫兒",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "제식",
+    "translation": "ёслолын хувцас",
+    "hanja": "制式",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "요시노",
+    "translation": "Ёшино (Японы газарзүйн нэр, хүний нэр)",
+    "hanja": "吉野",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "례",
+    "translation": "ёс заншил",
+    "hanja": "禮",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "용평",
+    "translation": "Ёнпён (газрын нэр)",
+    "hanja": "龍平",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용비어천가",
+    "translation": "Ёнби-очонга (Солонгосын хуучин найруулгын зохиол)",
+    "hanja": "龍飛御天歌",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "예악",
+    "translation": "ёс зүй ба хөгжим",
+    "hanja": "禮樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "부덕",
+    "translation": "ёс суртахуунгүй",
+    "hanja": "不德",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "윤리관",
+    "translation": "ёс суртахууны үзэл",
+    "hanja": "倫理觀",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "요식",
+    "translation": "Ёслол",
+    "hanja": "要式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강상",
+    "translation": "Ёс суртахуун, ёс журам",
+    "hanja": "綱常",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비양심적",
+    "translation": "ёс суртахуунгүй",
+    "hanja": "非良心的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "영흥",
+    "translation": "Ёнгхын (газар нэр)",
+    "hanja": "永興",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "무저갱",
+    "translation": "ёроолгүй нүх",
+    "hanja": "無底坑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "식순",
+    "translation": "ёслолын дэс дараалал",
+    "hanja": "式順",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여천",
+    "translation": "Ёочон (газар зүйн нэр)",
+    "hanja": "麗泉",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "염상섭",
+    "translation": "Ёом Сан-соп",
+    "hanja": "廉想涉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "연암",
+    "translation": "Ёнам (хүний нэр, газар)",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요이",
+    "translation": "ёои",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "요오",
+    "translation": "ёоёо (тоглоом)",
+    "hanja": "yo-yo",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "용규",
+    "translation": "Ёнгю",
+    "hanja": "榕圭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "부도덕",
+    "translation": "ёс суртахуунгүй",
+    "hanja": "不道德",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대례",
+    "translation": "ёслол",
+    "hanja": "大禮",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "도학",
+    "translation": "Ёс суртахууны ухаан",
+    "hanja": "道學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예부",
+    "translation": "Ёслолын яам",
+    "hanja": "禮部",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "범절",
+    "translation": "Ёс журам",
+    "hanja": "凡節",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용강",
+    "translation": "Ёнган (газар зүйн нэр)",
+    "hanja": "龍岡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "요코즈나",
+    "translation": "ёкозуна (сүмогийн хамгийн өндөр цол)",
+    "hanja": "橫綱",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "도덕군자",
+    "translation": "ёс суртахууны эрхэм хүн",
+    "hanja": "道德君子",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "영욱",
+    "translation": "Ён-ук (хүний нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "바닥없다",
+    "translation": "ёроолгүй",
+    "hanja": "바닥없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "예도",
+    "translation": "ёс зүй",
+    "hanja": "禮度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "명륜",
+    "translation": "ёс суртахуун",
+    "hanja": "明倫",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "예장",
+    "translation": "ёслолын хувцас",
+    "hanja": "禮裝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "의전하다",
+    "translation": "ёс журмыг дагах",
+    "hanja": "儀典—",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "도덕관",
+    "translation": "Ёс суртахууны үзэл бодол",
+    "hanja": "道德觀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍격",
+    "translation": "ёс суртахуун, зан чанар",
+    "hanja": "風格",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "예학",
+    "translation": "ёс зүйн ухаан",
+    "hanja": "禮學",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "용계",
+    "translation": "Ёнгэ (газар нэр)",
+    "hanja": "龍溪",
+    "pos": "고유명사",
+    "cefr": "C1"
+  }
+]

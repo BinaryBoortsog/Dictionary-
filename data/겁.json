@@ -1,0 +1,86 @@
+[
+  {
+    "word": "겁",
+    "translation": "айдас",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "겁나다",
+    "translation": "айх",
+    "hanja": "겁나다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "겁내다",
+    "translation": "айх",
+    "hanja": "怯내다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "겁대가리",
+    "translation": "айдасгүй байдал",
+    "hanja": "겁대가리",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "겁먹다",
+    "translation": "айх, сүрдэх",
+    "hanja": "겁먹다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "겁박",
+    "translation": "Сүрдүүлэг",
+    "hanja": "劫迫",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "겁박하다",
+    "translation": "Айлган сүрдүүлэх",
+    "hanja": "劫迫하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "겁보",
+    "translation": "аймхай хүн",
+    "hanja": "怯보",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "겁쟁이",
+    "translation": "аймхай",
+    "hanja": "겁쟁이",
+    "pos": "NOUN",
+    "cefr": "B1"
+  },
+  {
+    "word": "겁주다",
+    "translation": "айлгах",
+    "hanja": "겁주다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "겁탈",
+    "translation": "хүчирхийлэл",
+    "hanja": "劫奪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "겁탈하다",
+    "translation": "Дээрэмдэх",
+    "hanja": "劫奪",
+    "pos": "동사",
+    "cefr": "C2"
+  }
+]

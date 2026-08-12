@@ -1,0 +1,429 @@
+[
+  {
+    "word": "큰고니",
+    "translation": "хун",
+    "hanja": "큰고니",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰고모",
+    "translation": "Том эгч (эцгийн)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰곰",
+    "translation": "том баавгай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰기러기",
+    "translation": "галуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰길",
+    "translation": "Өргөн зам, их зам",
+    "hanja": "큰길",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰놈",
+    "translation": "том амьтан, том хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰누나",
+    "translation": "том эгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "큰누님",
+    "translation": "том эгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰눈",
+    "translation": "Том нүд",
+    "hanja": "큰눈",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "큰돈",
+    "translation": "их мөнгө",
+    "hanja": "큰돈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰따옴표",
+    "translation": "ишлэлийн тэмдэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "큰딸",
+    "translation": "Том охин",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "큰마님",
+    "translation": "их хатагтай",
+    "hanja": "큰마님",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "큰마음",
+    "translation": "том сэтгэл",
+    "hanja": "큰마음",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "큰맘",
+    "translation": "том сэтгэл, их зүрх",
+    "hanja": "큰맘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "큰매",
+    "translation": "бүргэд",
+    "hanja": "큰매",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰머리",
+    "translation": "том толгой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "큰며느리",
+    "translation": "Том хүүгийн эхнэр, ахмад бэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰물",
+    "translation": "үер, их ус",
+    "hanja": "큰물",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰바람",
+    "translation": "их салхи",
+    "hanja": "큰바람",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰방",
+    "translation": "Том өрөө",
+    "hanja": "큰房",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰부리까마귀",
+    "translation": "Хошууны хар хэрээ",
+    "hanja": "큰부리까마귀",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "큰북",
+    "translation": "том бөмбөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰불",
+    "translation": "том түймэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰비",
+    "translation": "их бороо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰사람",
+    "translation": "агуу хүн",
+    "hanja": "큰사람",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "큰사랑",
+    "translation": "том хайр",
+    "hanja": "큰사랑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰사슴",
+    "translation": "том буга",
+    "hanja": "큰사슴",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰사전",
+    "translation": "бүтэн толь бичиг",
+    "hanja": "큰사전",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰삼촌",
+    "translation": "том авга ах (эцгийн ах)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰상",
+    "translation": "том шагнал",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰성",
+    "translation": "том хот, том бэхлэлт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰소리",
+    "translation": "чанга дуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰소리치다",
+    "translation": "том дуугарах, бардамнах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "큰손",
+    "translation": "том гар (их нөлөөтэй хүн)",
+    "hanja": "큰손",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "큰술",
+    "translation": "том халбага",
+    "hanja": "큰술",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰스님",
+    "translation": "их лам, ахмад лам",
+    "hanja": "큰스님",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "큰아버님",
+    "translation": "ах аав",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰아버지",
+    "translation": "ээжийн ах",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰아빠",
+    "translation": "том ах",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "큰아이",
+    "translation": "том хүүхэд",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰애",
+    "translation": "том хүүхэд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰어머니",
+    "translation": "ээжийн эгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰어머님",
+    "translation": "том ээж",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰언니",
+    "translation": "Том эгч",
+    "hanja": "큰언니",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "큰엄마",
+    "translation": "авга эгч (аавын эгч)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰오빠",
+    "translation": "том ах (эмэгтэй хүний)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰외삼촌",
+    "translation": "ахлах нагац ах",
+    "hanja": null,
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰이",
+    "translation": "ихэнх",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰이모",
+    "translation": "Ахмад эмэгтэй тал",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰일",
+    "translation": "том ажил, том хэрэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰입배스",
+    "translation": "том амтай басс",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "큰절",
+    "translation": "их ёслолын мэндчилгээ",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰절하다",
+    "translation": "том мэндлэх",
+    "hanja": "큰절하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰집",
+    "translation": "Том байшин",
+    "hanja": "큰집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰창자",
+    "translation": "бүдүүн гэдэс",
+    "hanja": "큰창자",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "큰칼",
+    "translation": "том хутга",
+    "hanja": "큰칼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큰코다치다",
+    "translation": "том унагах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "큰판",
+    "translation": "том тоглоом, том үйл явдал",
+    "hanja": "큰판",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "큰할아버지",
+    "translation": "өвөөгийн ах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "큰형",
+    "translation": "том ах",
+    "hanja": "큰兄",
+    "pos": "명사",
+    "cefr": "A2"
+  }
+]

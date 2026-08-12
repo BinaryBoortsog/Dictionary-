@@ -1,0 +1,275 @@
+[
+  {
+    "word": "책",
+    "translation": "ном",
+    "hanja": "冊",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "책가방",
+    "translation": "Үүргэвч, сургуулийн цүнх",
+    "hanja": "冊가방",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "책갈피",
+    "translation": "номын хавчуурга",
+    "hanja": "冊갈피",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "책값",
+    "translation": "номын үнэ",
+    "hanja": "冊값",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "책거리",
+    "translation": "номны баяр",
+    "hanja": "冊巨里",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "책걸상",
+    "translation": "ширээ сандал",
+    "hanja": "冊傑像",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "책꽂이",
+    "translation": "номны тавиур",
+    "hanja": "冊꽂이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "책동",
+    "translation": "хуйвалдаан, өдөөн хатгалга",
+    "hanja": "策動",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "책략",
+    "translation": "стратеги, тактик",
+    "hanja": "策略",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "책력",
+    "translation": "хуанли, тооллын бичиг",
+    "hanja": "冊曆",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "책망",
+    "translation": "зэмлэх",
+    "hanja": "責望",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "책망하다",
+    "translation": "зэмлэх, буруушаах",
+    "hanja": "責望하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "책무",
+    "translation": "үүрэг, хариуцлага",
+    "hanja": "責務",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "책받침",
+    "translation": "номын дэвсгэр, дэвсгэр тавцан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "책방",
+    "translation": "номны дэлгүүр",
+    "hanja": "冊房",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "책벌레",
+    "translation": "номд дуртай хүн, номын хорхойтон",
+    "hanja": "冊벌레",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "책보",
+    "translation": "Номын хавтас",
+    "hanja": "冊褓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "책봉",
+    "translation": "сайд",
+    "hanja": "冊封",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "책봉되다",
+    "translation": "тунхаглагдах",
+    "hanja": "冊封되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "책봉하다",
+    "translation": "Шагнал олгох, цол хэргэм хүртээх",
+    "hanja": "冊封하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "책비",
+    "translation": "Нотлох баримт",
+    "hanja": "策費",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "책사",
+    "translation": "зөвлөх",
+    "hanja": "策士",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "책상",
+    "translation": "ширээ",
+    "hanja": "冊床",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "책상다리",
+    "translation": "Хөлөө хумих, суугаа байрлал",
+    "hanja": "책床다리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "책상머리",
+    "translation": "ширээний толгой",
+    "hanja": "冊床머리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "책임",
+    "translation": "Хариуцлага",
+    "hanja": "責任",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "책임감",
+    "translation": "хариуцлагын мэдрэмж",
+    "hanja": "責任感",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "책임자",
+    "translation": "хариуцагч",
+    "hanja": "責任者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "책임지다",
+    "translation": "хариуцлага хүлээх",
+    "hanja": "責任지다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "책자",
+    "translation": "Ном товхимол",
+    "hanja": "冊子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "책잡다",
+    "translation": "буруушаах, шүүмжлэх",
+    "hanja": "責잡다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "책잡히다",
+    "translation": "барьцаалагдах",
+    "hanja": "책잡히다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "책장",
+    "translation": "номны шүүгээ",
+    "hanja": "冊장",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "책정",
+    "translation": "үнэ тогтоох",
+    "hanja": "策定",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "책정되다",
+    "translation": "тогтоогдох, шийдэгдэх",
+    "hanja": "策定되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "책정하다",
+    "translation": "тогтоох",
+    "hanja": "策定하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "책책",
+    "translation": "ичиж, дургүйцсэн байдал",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "책판",
+    "translation": "Номын хавтас",
+    "hanja": "책판",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "책하다",
+    "translation": "номыг",
+    "hanja": "책하다",
+    "pos": "동사",
+    "cefr": "A2"
+  }
+]

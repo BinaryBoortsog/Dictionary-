@@ -1,0 +1,863 @@
+[
+  {
+    "word": "심",
+    "translation": "зүрх",
+    "hanja": "芯",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "심각",
+    "translation": "ноцтой",
+    "hanja": " simgak",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "심각성",
+    "translation": "ноцтой байдал",
+    "hanja": "深刻性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심각하다",
+    "translation": "ноцтой",
+    "hanja": "深刻하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "심각히",
+    "translation": "ноцтойгоор, гүнзгийгээр",
+    "hanja": "深刻히",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "심경",
+    "translation": "Сэтгэлийн байдал",
+    "hanja": "心境",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "심계",
+    "translation": "гүн гүнзгий тооцоо",
+    "hanja": "心計",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심곡",
+    "translation": "гүн жалга",
+    "hanja": "深谷",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심기다",
+    "translation": "суулгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "심기일전",
+    "translation": "сэтгэл үлэмж тогтворжих",
+    "hanja": "心機一轉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심기일전하다",
+    "translation": "сэтгэлээ шинэчлэх, шинээр эхлэх",
+    "hanja": "心機一轉하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심난하다",
+    "translation": "сэтгэл түгших, санаа зовох",
+    "hanja": "心難─",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심낭",
+    "translation": "зүрхний уут",
+    "hanja": "心囊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심다",
+    "translation": "суулгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "심대하다",
+    "translation": "маш том, ноцтой",
+    "hanja": "甚大하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심도",
+    "translation": "гүний",
+    "hanja": "深度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심드렁",
+    "translation": "хүйтэн хөндий, тоомжиргүй",
+    "hanja": "",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "심드렁하다",
+    "translation": "хүсэлгүй, сонирхолгүй",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심란하다",
+    "translation": "сэтгэл түгших, санаа зовох",
+    "hanja": "心亂하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심려",
+    "translation": "сэтгэл зовох",
+    "hanja": "心慮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심려하다",
+    "translation": "санаа зовох, түгших",
+    "hanja": "心慮하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심력",
+    "translation": "оюун санааны хүч",
+    "hanja": "心力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심령",
+    "translation": "сүнс, сэтгэл",
+    "hanja": "心靈",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "심리",
+    "translation": "сэтгэл зүй",
+    "hanja": "心理",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "심리적",
+    "translation": "сэтгэл зүйн",
+    "hanja": "心理的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심리전",
+    "translation": "сэтгэл зүйн дайн",
+    "hanja": "心理戰",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "심리하다",
+    "translation": "мөрдөн шалгах",
+    "hanja": "審理하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심리학",
+    "translation": "Сэтгэл судлал",
+    "hanja": "心理學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심모",
+    "translation": "гүн бодол",
+    "hanja": "深謀",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심문",
+    "translation": "Байцаалт",
+    "hanja": "審問",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "심문하다",
+    "translation": "байцаах",
+    "hanja": "審問하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심미안",
+    "translation": "гоо зүйн мэдрэмж",
+    "hanja": "審美眼",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "심박",
+    "translation": "Зүрхний цохилт",
+    "hanja": "心搏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심박하다",
+    "translation": "зүрхний цохилт",
+    "hanja": "心搏하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "심방",
+    "translation": "зүрхний тосгуур",
+    "hanja": "心房",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "심방하다",
+    "translation": "айлчлах, эргэж очих",
+    "hanja": "尋訪하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심배",
+    "translation": "зүрхний дуртай; зүрхний хайрт",
+    "hanja": "心愛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심벌",
+    "translation": "тэмдэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "심벌즈",
+    "translation": "цамбала",
+    "hanja": "심벌즈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심법",
+    "translation": "сэтгэлийн арга",
+    "hanja": "心法",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심병",
+    "translation": "Сэтгэцийн өвчин",
+    "hanja": "心病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심보",
+    "translation": "Захиргаа",
+    "hanja": "心보",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심복",
+    "translation": "итгэлт хүн, нарийн бичиг",
+    "hanja": "心腹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심볼",
+    "translation": "тэмдэг",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "심봉",
+    "translation": "зүрхний дотор тал",
+    "hanja": "心棒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심봤다",
+    "translation": "Яг оллоо!",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "심부",
+    "translation": "гүн хэсэг, гол хэсэг",
+    "hanja": "深部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심부름",
+    "translation": "Гүйцэтгэх ажил",
+    "hanja": "使喚",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "심부름꾼",
+    "translation": "Даалгавар гүйцэтгэгч",
+    "hanja": "심부름꾼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "심부름하다",
+    "translation": "даалгавар биелүүлэх",
+    "hanja": "심부름하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "심부전",
+    "translation": "Зүрхний дутагдал",
+    "hanja": "心不全",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심사",
+    "translation": "шүүмжлэл",
+    "hanja": "審査",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심사숙고",
+    "translation": "гүн гүнзгий бодох, нягт нямбай бодох",
+    "hanja": "深思熟考",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심사숙고하다",
+    "translation": "Гүн гүнзгий бодох",
+    "hanja": "深思熟考하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심사평",
+    "translation": "Шүүмж, үнэлгээ",
+    "hanja": "審査評",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심사하다",
+    "translation": "шалгах",
+    "hanja": "審査하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심산",
+    "translation": "гүн уул",
+    "hanja": "深山",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심상",
+    "translation": "Төсөөлөл, сэтгэлийн дүр төрх",
+    "hanja": "心象",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심상찮다",
+    "translation": "ер бусын, хачирхалтай",
+    "hanja": "尋常찮다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심상하다",
+    "translation": "энгийн",
+    "hanja": "尋常하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심서",
+    "translation": "гүн гүнзгий бодол",
+    "hanja": "心緖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심성",
+    "translation": "зан чанар",
+    "hanja": " simseong",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "심소",
+    "translation": "гүн гүнзгий бодол",
+    "hanja": "深思",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "심술",
+    "translation": "Ууртай зан",
+    "hanja": "心術",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "심술궂다",
+    "translation": "муу санаатай",
+    "hanja": "N/A",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "심술꾸러기",
+    "translation": "хэрүүлч, ууртай хүн",
+    "hanja": "心術꾸러기",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심술보",
+    "translation": "ууртай хүн, ширүүн зан",
+    "hanja": "심술보",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심술부리다",
+    "translation": "хор хөнөөл учруулах",
+    "hanja": "心術부리다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "심술쟁이",
+    "translation": "хорон санаатай хүн",
+    "hanja": "心術쟁이",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "심스",
+    "translation": "Симс (хүний нэр)",
+    "hanja": "심스",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "심신",
+    "translation": "сэтгэл ба бие",
+    "hanja": "心身",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "심실",
+    "translation": "зүрхний ховдол",
+    "hanja": "心室",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "심심찮다",
+    "translation": "үгүй биш",
+    "hanja": "甚甚찮다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심심풀이",
+    "translation": "цагийг өнгөрөөх",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "심심하다",
+    "translation": "уйтгартай",
+    "hanja": "심심하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "심씨",
+    "translation": "Шим овог",
+    "hanja": "沈氏",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "심야",
+    "translation": "шөнө дунд",
+    "hanja": "深夜",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "심양",
+    "translation": "Шэньян",
+    "hanja": "瀋陽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심연",
+    "translation": "Гүн нүх",
+    "hanja": "深淵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심영",
+    "translation": "гүн гүнзгий сүүдэр",
+    "hanja": "深影",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심오하다",
+    "translation": "гүн гүнзгий",
+    "hanja": "深奧하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "심우",
+    "translation": "гүний үхэр",
+    "hanja": "尋牛",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "심원하다",
+    "translation": "гүн гүнзгий",
+    "hanja": "深遠하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심의",
+    "translation": "хянан үзэх, хэлэлцэх",
+    "hanja": "審議",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심의되다",
+    "translation": "хэлэлцэгдэх, авч хэлэлцэгдэх",
+    "hanja": "審議되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심의하다",
+    "translation": "хэлэлцэх, нягтлах",
+    "hanja": "審議하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심의회",
+    "translation": "зөвлөл",
+    "hanja": "審議會",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심장",
+    "translation": "зүрх",
+    "hanja": "心臟",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "심장병",
+    "translation": "зүрхний өвчин",
+    "hanja": "心臟病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심장부",
+    "translation": "Зүрхэн хэсэг, төв хэсэг",
+    "hanja": "心臟部",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심장하다",
+    "translation": "зүрхтэй, зоригтой",
+    "hanja": "甚壯하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심적",
+    "translation": "сэтгэлийн",
+    "hanja": "心的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심정",
+    "translation": "сэтгэл санаа",
+    "hanja": "心情",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "심제",
+    "translation": "зүрхний эм",
+    "hanja": "心劑",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "심줄",
+    "translation": "судсан, шөрмөс",
+    "hanja": "심줄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심중",
+    "translation": "зүрх сэтгэл",
+    "hanja": "心中",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심증",
+    "translation": "Дотоод итгэл",
+    "hanja": "心證",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심천",
+    "translation": "Шэньжэнь",
+    "hanja": "深圳",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심청",
+    "translation": "Сим Чон",
+    "hanja": "沈淸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "심청가",
+    "translation": "шимчонга (Солонгос уламжлалт дуула)",
+    "hanja": "沈淸歌",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심청전",
+    "translation": "Симчхонг-жон (고전 소설)",
+    "hanja": "沈淸傳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심취",
+    "translation": "гүн гүнзгий шингэх",
+    "hanja": "心醉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심취하다",
+    "translation": "Гүн автах",
+    "hanja": "心醉하다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "심층",
+    "translation": "гүн гүнзгий",
+    "hanja": "深層",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심쿵하다",
+    "translation": "зүрх дэлсэх",
+    "hanja": "心쿵하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "심통",
+    "translation": "муу зан, уур уцаар",
+    "hanja": "心通",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심파",
+    "translation": "Зүрхний долгион",
+    "hanja": "心波",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심판",
+    "translation": "шүүгч",
+    "hanja": "審判",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심판하다",
+    "translation": "шүүх, дүгнэх",
+    "hanja": "審判하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심평",
+    "translation": "үнэлгээ",
+    "hanja": "審評",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심폐",
+    "translation": "Зүрх уушиг",
+    "hanja": "心肺",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "심포지엄",
+    "translation": "симпозиум",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심플하다",
+    "translation": "Энгийн",
+    "hanja": "simple-하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "심하다",
+    "translation": "хэтрүүлсэн",
+    "hanja": "甚하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "심해",
+    "translation": "гүний тэнгис",
+    "hanja": "심해(深海)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "심혈",
+    "translation": "чин сэтгэл",
+    "hanja": "心血",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "심호흡",
+    "translation": "гүнзгий амьсгал",
+    "hanja": "深呼吸",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "심호흡하다",
+    "translation": "гүнзгий амьсгалах",
+    "hanja": "深呼吸하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "심화",
+    "translation": "Гүнзгийрэх, эрчимжих",
+    "hanja": "深化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심화되다",
+    "translation": "гүнзгийрэх, хурцдах",
+    "hanja": "深化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심화시키다",
+    "translation": "гүнзгийрүүлэх, эрчимжүүлэх",
+    "hanja": "深化시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심화하다",
+    "translation": "гүнзгийрүүлэх, хурцатгах",
+    "hanja": "深化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "심히",
+    "translation": "Маш",
+    "hanja": "甚히",
+    "pos": "Adverb",
+    "cefr": "B2"
+  }
+]

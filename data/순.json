@@ -1,0 +1,940 @@
+[
+  {
+    "word": "순",
+    "translation": "Цэвэр, дараалал",
+    "hanja": "純",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "순간",
+    "translation": "мөч",
+    "hanja": "瞬間",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "순간순간",
+    "translation": "Хормын хоромд",
+    "hanja": "瞬間瞬間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순간적",
+    "translation": "агшин зуурын",
+    "hanja": "瞬間的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "순간하다",
+    "translation": "гэнэт гарч ирэх, гэнэт өнгөрөх",
+    "hanja": "瞬間하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "순검",
+    "translation": "эргүүл хийх",
+    "hanja": "巡檢",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "순결",
+    "translation": "цэвэр ариун",
+    "hanja": "純潔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순결하다",
+    "translation": "цэвэр ариун",
+    "hanja": "純潔하다",
+    "pos": "Adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "순경",
+    "translation": "цагдаа",
+    "hanja": "巡警",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "순공",
+    "translation": "цэвэр ашиг",
+    "hanja": "純工",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순교",
+    "translation": "шашин шүтлэг, итгэл үнэмшлийнхээ төлөө амь үрэгдэх",
+    "hanja": "殉教",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "순교자",
+    "translation": "шударга ёсны төлөө амь үрэгдсэн хүн, үхэх",
+    "hanja": "殉敎者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순교하다",
+    "translation": "шахид болох",
+    "hanja": "殉敎하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순구",
+    "translation": "чистых уст (устна)",
+    "hanja": "醇軀",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "순국",
+    "translation": "эх орондоо хайртай байх",
+    "hanja": "殉國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순국선열",
+    "translation": "Эх орныхоо төлөө амь үрэгдсэн баатар",
+    "hanja": "殉國先烈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순국하다",
+    "translation": "эх орныхоо төлөө амь үрэгдэх",
+    "hanja": "殉國하다",
+    "pos": "v",
+    "cefr": "C1"
+  },
+  {
+    "word": "순금",
+    "translation": "цэвэр алт",
+    "hanja": "純金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "순기능",
+    "translation": "эерэг функц",
+    "hanja": "順機能",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "순나",
+    "translation": "сунна",
+    "hanja": "순나",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순대",
+    "translation": "сүндээ (цусан хиам)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "순댓국",
+    "translation": "цус хиамны шөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "순덕",
+    "translation": "сүндэг",
+    "hanja": "順德",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "순도",
+    "translation": "цэвэршил",
+    "hanja": "純度",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "순두부",
+    "translation": "Зөөлөн тофу",
+    "hanja": "순두부",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "순두부찌개",
+    "translation": "Зөөлөн тофутай шөл",
+    "hanja": "純豆腐찌개",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "순둥순둥하다",
+    "translation": "номхон, зөөлөн, хөөрхөн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "순둥이",
+    "translation": "даруухан хүн",
+    "hanja": "순둥이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "순라",
+    "translation": "Эргүүл, харуул",
+    "hanja": "巡邏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순령",
+    "translation": "Эргүүл",
+    "hanja": "巡領",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "순례",
+    "translation": "мөргөл",
+    "hanja": "巡禮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순례자",
+    "translation": "мөргөлчин",
+    "hanja": "巡禮者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "순례하다",
+    "translation": "мөргөл үйлдэх, аялах",
+    "hanja": "巡禮하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순롓길",
+    "translation": "мөргөлийн зам",
+    "hanja": "巡禮길",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순록",
+    "translation": "цаа буга",
+    "hanja": "馴鹿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "순리",
+    "translation": "Жамаараа, ёс журмаараа",
+    "hanja": "順理",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순매도하다",
+    "translation": "Цэвэр худалдах",
+    "hanja": "純賣渡하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순매수하다",
+    "translation": "цэвэр худалдан авах",
+    "hanja": "純買受하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순면",
+    "translation": "цэвэр хөвөн",
+    "hanja": "純棉",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "순모",
+    "translation": "цэвэр ноос",
+    "hanja": "純毛",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "순무",
+    "translation": "сонгино",
+    "hanja": "순무",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "순미",
+    "translation": "цэвэр гоо үзэсгэлэн",
+    "hanja": "純美",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순박하다",
+    "translation": "Гэнэн",
+    "hanja": "淳朴하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순발력",
+    "translation": "хурдтай урвалжлах чадвар",
+    "hanja": "瞬發力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순방",
+    "translation": "айлчлал, тойрон аялал",
+    "hanja": "巡訪",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "순방하다",
+    "translation": "албан ёсны айлчлал хийх",
+    "hanja": "巡訪하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순배",
+    "translation": "дараагийн тойрог",
+    "hanja": "循杯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "순백",
+    "translation": "цэвэр цагаан",
+    "hanja": "純白",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순백색",
+    "translation": "цэвэр цагаан өнгө",
+    "hanja": "純白色",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "순번",
+    "translation": "Дараалал, ээлж",
+    "hanja": "順番",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "순복",
+    "translation": "Дуулгавартай байх",
+    "hanja": "順服",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순사",
+    "translation": "Цагдаа (хуучин үг)",
+    "hanja": "巡査",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "순삭",
+    "translation": "Хурдан алга болох",
+    "hanja": "瞬삭",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "순삭하다",
+    "translation": "түргэн устгах, хурдан дуусгах",
+    "hanja": "瞬삭하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "순산",
+    "translation": "хүүхэд төрүүлэх",
+    "hanja": "順産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순산하다",
+    "translation": "Амаржих",
+    "hanja": "順産하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순서",
+    "translation": "дараалал, эмх цэгц",
+    "hanja": "順序",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "순수",
+    "translation": "цэвэр",
+    "hanja": "純粹",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "순수성",
+    "translation": "цэвэр ариун байдал",
+    "hanja": "純粹性",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "순수익",
+    "translation": "цэвэр ашиг",
+    "hanja": "純收益",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순수하다",
+    "translation": "цэвэр ариун",
+    "hanja": "純粹하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "순순하다",
+    "translation": "Дуулгавартай, тайван",
+    "hanja": "順順하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "순순히",
+    "translation": "дуулгавартай",
+    "hanja": "順順히",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "순시",
+    "translation": "шалгалт хийх",
+    "hanja": "巡視",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "순시하다",
+    "translation": "шалгах, хянах",
+    "hanja": "巡視하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순식",
+    "translation": "шуурхай хоол",
+    "hanja": "瞬食",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순식간",
+    "translation": "нүд ирмэхийн зуур",
+    "hanja": "瞬息間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순신",
+    "translation": "хоньчин",
+    "hanja": "純信",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "순심",
+    "translation": "гэнэн сэтгэл / тунгалаг сэтгэл",
+    "hanja": "純心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순안",
+    "translation": "Сунань (газарзүйн нэр)",
+    "hanja": "順安",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "순애",
+    "translation": "ариун хайр",
+    "hanja": "純愛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순애보",
+    "translation": "цэвэр хайрын түүх",
+    "hanja": "純愛譜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순양",
+    "translation": "ая тухтай",
+    "hanja": "順恙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "순연되다",
+    "translation": "хойшлогдох (арга хэмжээ)",
+    "hanja": "順延되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "순연하다",
+    "translation": "хойшлуулах",
+    "hanja": "順延하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순영",
+    "translation": "цэвэр ашиг",
+    "hanja": "純利",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순우",
+    "translation": "Сайн найз; цэвэр ариун байдал",
+    "hanja": "醇友",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순위",
+    "translation": "Зэрэглэл",
+    "hanja": "順位",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "순위권",
+    "translation": "үндсэн зэрэглэл",
+    "hanja": "順位圈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순은",
+    "translation": "цэвэр мөнгө",
+    "hanja": "純銀",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "순응",
+    "translation": "дасан зохицох, нийцэх",
+    "hanja": "順應",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순응하다",
+    "translation": "Дасан зохицох",
+    "hanja": "順應하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "순이",
+    "translation": "сүний",
+    "hanja": "順伊",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "순이익",
+    "translation": "Цэвэр ашиг",
+    "hanja": "純利益",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순익",
+    "translation": "цэвэр ашиг",
+    "hanja": "純益",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "Сунжа",
+    "hanja": "順子",
+    "pos": "명사",
+    "cefr": "A2",
+    "word": "순자"
+  },
+  {
+    "word": "순장",
+    "translation": "хүн дагуулах",
+    "hanja": "殉葬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "순전하다",
+    "translation": "цэвэр ариун",
+    "hanja": "純全하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순전히",
+    "translation": "зөвхөн",
+    "hanja": "純全히",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "순정",
+    "translation": "Цэвэр сэтгэл, үнэнч хайр",
+    "hanja": "純情",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순정이",
+    "translation": "гэнэн цайлган сэтгэл",
+    "hanja": "純情利",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "순제",
+    "translation": "эзэн хаан",
+    "hanja": "純帝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "순조",
+    "translation": "Сүнжу (Солонгосын хаан)",
+    "hanja": "純祖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "순조롭다",
+    "translation": "саадгүй, дардан байх",
+    "hanja": "順調롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순종",
+    "translation": "дуулгавартай",
+    "hanja": "順從",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순종하다",
+    "translation": "дуулгавартай байх",
+    "hanja": "順從하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "순주",
+    "translation": "торгоны даавуу",
+    "hanja": "純紬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순증",
+    "translation": "цэвэр өсөлт",
+    "hanja": "純增",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순직",
+    "translation": "үүргээ гүйцэтгэж байгаад нас барах",
+    "hanja": "殉職",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순직하다",
+    "translation": "албан үүргээ гүйцэтгэж байгаад нас барах",
+    "hanja": "殉職하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순진무구하다",
+    "translation": "гэнэн цайлган, гэмгүй",
+    "hanja": "純眞無垢하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순진하다",
+    "translation": "гэнэн",
+    "hanja": "純眞하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "순차",
+    "translation": "дараалал",
+    "hanja": "順次",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "순차적",
+    "translation": "Урагшлах, дараалан",
+    "hanja": "順次的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순찰",
+    "translation": "ээлжит шалгах, эргүүл",
+    "hanja": "巡察",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "순찰대",
+    "translation": "Эргүүл",
+    "hanja": "巡察隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순찰차",
+    "translation": "хяналтын машин",
+    "hanja": "巡察車",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "순찰하다",
+    "translation": "эргүүл хийх",
+    "hanja": "巡察하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순창",
+    "translation": "Сүнчан (газар нэр)",
+    "hanja": "淳昌",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "순천",
+    "translation": "Сүнчон",
+    "hanja": "順天",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "순천시",
+    "translation": "Сүнчон хот",
+    "hanja": "順天市",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "순천향대",
+    "translation": "Сунчонхян их сургууль",
+    "hanja": "順天鄕大",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "순철",
+    "translation": "цэвэр төмөр",
+    "hanja": "純鐵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순탄",
+    "translation": "тайван, саадгүй",
+    "hanja": "順坦",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순탄하다",
+    "translation": "Дардан",
+    "hanja": "順坦하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순탄히",
+    "translation": "хялбарханаар",
+    "hanja": "順坦히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순풍",
+    "translation": "араас салхитай",
+    "hanja": "順風",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순하다",
+    "translation": "дөлгөөн, номхон",
+    "hanja": "順하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "순항",
+    "translation": "дарвуулт, жигд хөвөх",
+    "hanja": "巡航",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순항하다",
+    "translation": "Далайн замыг туулах, аялах",
+    "hanja": "巡航하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순행",
+    "translation": "аялах",
+    "hanja": "巡行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순혈",
+    "translation": "цэвэр цус",
+    "hanja": "純血",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순화",
+    "translation": "цэвэршүүлэлт",
+    "hanja": "純化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순화되다",
+    "translation": "уян зөөлөн болох",
+    "hanja": "純化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순화하다",
+    "translation": "цэвэршүүлэх, дасгах",
+    "hanja": "醇化하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "순환",
+    "translation": "эргэлт, мөчлөг",
+    "hanja": "循環",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순환기내과",
+    "translation": "зүрх судасны эмгэг судлал",
+    "hanja": "循環器內科",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "순환되다",
+    "translation": "эргэлдэх, тойрох",
+    "hanja": "循環되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "순환하다",
+    "translation": "эргэлдэх, тойрох",
+    "hanja": "循環하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "순회",
+    "translation": "Аялал",
+    "hanja": "巡廻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순회공연",
+    "translation": "Тоглолтын аялан тоглолт",
+    "hanja": "巡廻公演",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "순회하다",
+    "translation": "тойрох, айлчлах",
+    "hanja": "巡廻하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "순흥",
+    "translation": "Сүнхын (газар)",
+    "hanja": "順興",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "순희",
+    "translation": "Сүнхи",
+    "hanja": "順姬",
+    "pos": "Noun",
+    "cefr": "C2"
+  }
+]

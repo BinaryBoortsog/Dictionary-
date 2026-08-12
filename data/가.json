@@ -1,0 +1,3803 @@
+[
+  {
+    "word": "가",
+    "translation": "хүртэл",
+    "hanja": "街",
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가가",
+    "translation": "тус бүр",
+    "hanja": "家家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가가다",
+    "translation": "хааяа очих",
+    "hanja": "家家다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가가린",
+    "translation": "Гагарин",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가감하다",
+    "translation": "нэмж хасах",
+    "hanja": "加減─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가객",
+    "translation": "Дуучин",
+    "hanja": "歌客",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가거",
+    "translation": "очих газар, буудаллах газар",
+    "hanja": "可居",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가건물",
+    "translation": "түр барилга",
+    "hanja": "假建物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가검물",
+    "translation": "сорьц",
+    "hanja": "假檢物",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가게",
+    "translation": "Дэлгүүр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가겐",
+    "translation": "Каген",
+    "hanja": "가겐",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가겟방",
+    "translation": "дэлгүүр",
+    "hanja": "가겟房",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가겟집",
+    "translation": "дүгүүр, дэлгүүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가격",
+    "translation": "Үнэ",
+    "hanja": "價格",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가격표",
+    "translation": "үнийн тэмдэг",
+    "hanja": "價格表",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가격하다",
+    "translation": "цохих, мөргөх",
+    "hanja": "加擊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가결",
+    "translation": "Батлах (санал хураалтаар)",
+    "hanja": "可決",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가결되다",
+    "translation": "Зардагдах, батлагдах",
+    "hanja": "可決되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가결하다",
+    "translation": "бүтээж шийдэх",
+    "hanja": "可決하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가경",
+    "translation": "гайхамшигтай үзэмж",
+    "hanja": "佳景",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가계",
+    "translation": "айлын төсөв",
+    "hanja": "家計",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가계부",
+    "translation": "гэр бүлийн төсвийн дэвтэр",
+    "hanja": "家計簿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가계약",
+    "translation": "урьдчилсан гэрээ",
+    "hanja": "假契約",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가고",
+    "translation": "явсан, өнгөрсөн",
+    "hanja": "歌鼓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가고시마",
+    "translation": "Кагошима",
+    "hanja": "Kagoshima",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가곡",
+    "translation": "дуу",
+    "hanja": "歌曲",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가공",
+    "translation": "боловсруулалт",
+    "hanja": "加工",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가공되다",
+    "translation": "боловсруулагдах",
+    "hanja": "加工되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가공성",
+    "translation": "боловсруулах чадвар",
+    "hanja": "加工性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가공식품",
+    "translation": "боловсруулсан хүнс",
+    "hanja": "加工食品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가공업",
+    "translation": "үйлдвэрлэл, боловсруулах үйлдвэр",
+    "hanja": "加工業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가공품",
+    "translation": "боловсруулсан бүтээгдэхүүн",
+    "hanja": "加工品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가공하다",
+    "translation": "боловсруулах, хувиргах",
+    "hanja": "加工하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가관",
+    "translation": "маш үзэсгэлэнтэй үзэгдэл",
+    "hanja": "可觀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가교",
+    "translation": "гүүр",
+    "hanja": "架橋",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가구",
+    "translation": "тавилга",
+    "hanja": "家具",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가구점",
+    "translation": "тавилганы дэлгүүр",
+    "hanja": "家具店",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가극",
+    "translation": "дуурь",
+    "hanja": "歌劇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가글",
+    "translation": "ам зайлах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가금",
+    "translation": "гэрийн тэжээмэл шувуу",
+    "hanja": "家禽",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가급",
+    "translation": "боломжтой",
+    "hanja": "可及",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가급적",
+    "translation": "боломжтой бол",
+    "hanja": "可及的",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가까스로",
+    "translation": "Хүчээр",
+    "hanja": "가까스로",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "가까이",
+    "translation": "ойрхон",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가까이하다",
+    "translation": "ойртуулах",
+    "hanja": "가까이하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "가깝다",
+    "translation": "ойрхон",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가꼬",
+    "translation": "байсан байсан",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가꾸다",
+    "translation": "Ургуулах",
+    "hanja": "가꾸다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "가끄다",
+    "translation": "хүндрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가끔",
+    "translation": "хааяа",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가끔가끔",
+    "translation": "Хааяа, заримдаа",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "가끔가다",
+    "translation": "хааяа, үе үе",
+    "hanja": "가끔가다",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가나",
+    "translation": "Гана (улс)",
+    "hanja": "가나",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가나가와현",
+    "translation": "Канагава муж",
+    "hanja": "神奈川県",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가나다",
+    "translation": "Ганада (Солонгос цагаан толгойн эхний үсгүүд)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가나다라마바사",
+    "translation": "Ганадара (Солонгос цагаан толгойн эхний үсгүүд)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가나다순",
+    "translation": "цагаан толгойн үсгийн дарааллаар",
+    "hanja": "가나다순(가나다順)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가나슈",
+    "translation": "ганаш",
+    "hanja": "가나슈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가나안",
+    "translation": "Канаан",
+    "hanja": "Canaan",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가나자와",
+    "translation": "Каназава хот (Японы хот)",
+    "hanja": "金沢",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "가난",
+    "translation": "ядуурал",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가난뱅이",
+    "translation": "ядуу хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가난하다",
+    "translation": "ядуу",
+    "hanja": "가난하다",
+    "pos": "adj",
+    "cefr": "A2"
+  },
+  {
+    "word": "가납하다",
+    "translation": "түр хүлээн авах",
+    "hanja": "可納하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가내",
+    "translation": "гэрийн дотор, гэр бүлийн",
+    "hanja": "家內",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가냘프다",
+    "translation": "нарийхан, туранхай",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가네샤",
+    "translation": "Ганеша",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가넷",
+    "translation": "гэгнэт",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가녀리다",
+    "translation": "нарийхан, эмзэг",
+    "hanja": null,
+    "pos": "т.ү",
+    "cefr": "C1"
+  },
+  {
+    "word": "가노",
+    "translation": "Канно (япон/хүн нэр)",
+    "hanja": "加納",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가느다",
+    "translation": "нарийхан",
+    "hanja": "N/A",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "가느다랗다",
+    "translation": "нарийн, бүдэг",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가느스름하다",
+    "translation": "нарийн, гоолиг нарийхан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가는귀",
+    "translation": "чийхэн чихтэй",
+    "hanja": "가는귀",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "가늘다",
+    "translation": "Нарийхан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가늠",
+    "translation": "баримжаа, тооцоо",
+    "hanja": "가늠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가늠되다",
+    "translation": "баримжаалах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가늠하다",
+    "translation": "таамаглах",
+    "hanja": "가늠하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가능",
+    "translation": "Боломжтой",
+    "hanja": "可能",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "가능성",
+    "translation": "боломж",
+    "hanja": "可能性",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가능하다",
+    "translation": "Боломжтой",
+    "hanja": "可能하다",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "가니",
+    "translation": "орох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가니메데",
+    "translation": "Ганимед (од гараг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가니시",
+    "translation": "Гарниш",
+    "hanja": "Garnish",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가다",
+    "translation": "явах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "가다듬다",
+    "translation": "тайвшрах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가다랑어",
+    "translation": "бонито (загас)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가닥",
+    "translation": "хэлхээ",
+    "hanja": "가닥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가닥가닥",
+    "translation": "шилбэ шилбээр",
+    "hanja": "가닥가닥",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가닥가닥하다",
+    "translation": "залхуурах, уйтгарлах",
+    "hanja": "가닥가닥하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "가닥하다",
+    "translation": "туузлах",
+    "hanja": "가닥하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가담",
+    "translation": "оролцох",
+    "hanja": "加擔",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "가당찮다",
+    "translation": "үр ашиггүй",
+    "hanja": "可當찮다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가당하다",
+    "translation": "Зохистой, таатай",
+    "hanja": "可當하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가닿다",
+    "translation": "хүрэх",
+    "hanja": "가닿다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "가덕",
+    "translation": "Гадык арал",
+    "hanja": "加德",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가데스",
+    "translation": "Кадеш",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가도",
+    "translation": "зам",
+    "hanja": "街道",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가독성",
+    "translation": "уншигдах байдал",
+    "hanja": "可讀性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가동",
+    "translation": "Ашиглалтад оруулах",
+    "hanja": "稼動",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가동되다",
+    "translation": "Ажиллах",
+    "hanja": "稼動되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가동성",
+    "translation": "хөдөлгөөнт байдал, ажиллах чадвар",
+    "hanja": "稼動性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가동하다",
+    "translation": "Ажиллуулах",
+    "hanja": "稼動하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "가되다",
+    "translation": "болох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가두",
+    "translation": "гудамж, зам",
+    "hanja": "街頭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가두다",
+    "translation": "хорих, түгжих",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "가두리",
+    "translation": "тор, хашаа",
+    "hanja": "가두리",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "가드",
+    "translation": "хамгаалагч, харуу",
+    "hanja": "guard",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가드너",
+    "translation": "цэцэрлэгч",
+    "hanja": "가드너",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가드닝",
+    "translation": "цэцэрлэгжүүлэлт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가득",
+    "translation": "дүүрэн",
+    "hanja": "가득",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "가득가득",
+    "translation": "дүүрэн",
+    "hanja": "---",
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "가득가득하다",
+    "translation": "дүүрэн, дүүрэн байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가득차다",
+    "translation": "дүүрэх",
+    "hanja": "가득차다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가득하다",
+    "translation": "дүүрэн, бялхсан",
+    "hanja": "가득하다",
+    "pos": "adj",
+    "cefr": "B1"
+  },
+  {
+    "word": "가득히",
+    "translation": "дүүрэн, бялхтал",
+    "hanja": "가득히",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가든",
+    "translation": "Цэцэрлэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가디건",
+    "translation": "кардиган",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가라",
+    "translation": "яв",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가라아게",
+    "translation": "гараагэ (Япон хоол)",
+    "hanja": "から揚げ",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가라앉다",
+    "translation": "живэх",
+    "hanja": "─",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가라앉히다",
+    "translation": "намжаах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "가라오케",
+    "translation": "караоке",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가라이",
+    "translation": "Карай (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가라테",
+    "translation": "Каратэ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가락",
+    "translation": "Ая, хэмнэл, утас",
+    "hanja": "가락",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가락국수",
+    "translation": "гоймон",
+    "hanja": "가락국수",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가락지",
+    "translation": "бөгж",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가락지빵",
+    "translation": "цагираг талх",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가랍다",
+    "translation": "хүнд, бие барьсан",
+    "hanja": null,
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "가랏",
+    "translation": "яв!",
+    "hanja": "가랏",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가랑비",
+    "translation": "бороо",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가랑이",
+    "translation": "хөлний завсар, ташаа",
+    "hanja": "가랑이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가랑잎",
+    "translation": "хуурай навч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가래떡",
+    "translation": "гарээ-тток",
+    "hanja": "가래떡",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가래이",
+    "translation": "ханиадны цэр",
+    "hanja": "가래이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가래침",
+    "translation": "Цэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가량",
+    "translation": "орчим",
+    "hanja": "가량",
+    "pos": "의존 명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가려",
+    "translation": "нуун далдлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가려내다",
+    "translation": "ялгах, сонгох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가려움",
+    "translation": "загатнах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가려움증",
+    "translation": "загатнах өвчин",
+    "hanja": "가려움症",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가려하다",
+    "translation": "гэж хийх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "가련하다",
+    "translation": "Өрөвдөлтэй",
+    "hanja": "可憐하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가렵다",
+    "translation": "Загатнах",
+    "hanja": "가렵다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "가령",
+    "translation": "жишээлбэл",
+    "hanja": "假令",
+    "pos": "ADV",
+    "cefr": "B2"
+  },
+  {
+    "word": "가로",
+    "translation": "хөндлөн",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가로놓이다",
+    "translation": "Хөндлөн хэвтэх",
+    "hanja": "가로놓이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가로등",
+    "translation": "гудамжны гэрэл",
+    "hanja": "가로燈",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가로등불빛",
+    "translation": "гудамжны гэрэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가로등불빛아래",
+    "translation": "гудамжны гэрэл доор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가로림만",
+    "translation": "Гарорим булаг",
+    "hanja": "加露林灣",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가로막다",
+    "translation": "хаах",
+    "hanja": "가로막다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "가로막살",
+    "translation": "хөндлөн хана",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가로막히다",
+    "translation": "хаагдах, боогдох",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "가로세로",
+    "translation": "хөндлөн болон урт нь",
+    "hanja": null,
+    "pos": "n",
+    "cefr": "A2"
+  },
+  {
+    "word": "가로수",
+    "translation": "гудамжны мод",
+    "hanja": "街路樹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가로젓다",
+    "translation": "толгой сэгсрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가로줄",
+    "translation": "хэвтээ шугам",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가로지르다",
+    "translation": "хөндлөн гарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가로채다",
+    "translation": "бусдынхийг авах",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "가로축",
+    "translation": "хөндлөн тэнхлэг",
+    "hanja": "가로軸",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가롭다",
+    "translation": "хор хөнөөлтэй, хэцүү",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가루",
+    "translation": "нунтаг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가루다",
+    "translation": "гаруда (домогт шувуу)",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가루비누",
+    "translation": "утасны саван",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가루약",
+    "translation": "Нунтаг эм",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가르",
+    "translation": "хүндэтгэл",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가르다",
+    "translation": "хуваах, тусгаарлах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "가르랑거리다",
+    "translation": "миацгах (муур)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가르마",
+    "translation": "үсний хуваалт",
+    "hanja": "가르마",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가르치다",
+    "translation": "заах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가르치심",
+    "translation": "сургаал",
+    "hanja": "가르치심",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가르침",
+    "translation": "сургаал, заавар",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가르키다",
+    "translation": "заах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가름하다",
+    "translation": "Ялгах",
+    "hanja": "가름하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가리",
+    "translation": "хэсэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가리개",
+    "translation": "хаалт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가리다",
+    "translation": "хаах",
+    "hanja": "가리다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "가리발디",
+    "translation": "Гарибальди",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가리비",
+    "translation": "хясаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가리온",
+    "translation": "цагаан морь",
+    "hanja": "가리온",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가리왕산",
+    "translation": "Гаривансан уул",
+    "hanja": "가리왕산",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가리키다",
+    "translation": "заах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가림막",
+    "translation": "хаалт, халхавч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가마",
+    "translation": "Зуух",
+    "hanja": "가마",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가마니",
+    "translation": "Уут, шуудай",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가마솥",
+    "translation": "том тогоо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가마우지",
+    "translation": "Галуу",
+    "hanja": "가마우지",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가마이",
+    "translation": "чимээгүй, дуугүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가마쿠라",
+    "translation": "Камакура",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가만가만히",
+    "translation": "Аяархан, зөөлөн",
+    "hanja": "—",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가만두다",
+    "translation": "тайван байлгах, орхих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가만있다",
+    "translation": "чимээгүй байх",
+    "hanja": "─",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가만히",
+    "translation": "чимээгүй, хөдөлгөөнгүй",
+    "hanja": "가만히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가말리엘",
+    "translation": "Гамалиел",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가망",
+    "translation": "боломж, найдвар",
+    "hanja": "可望",
+    "pos": "н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "가망성",
+    "translation": "боломж, хэтийн төлөв",
+    "hanja": "可望性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가맣다",
+    "translation": "хар өнгийн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가맹",
+    "translation": "гишүүнчлэл",
+    "hanja": "加盟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가맹국",
+    "translation": "Гишүүн улс",
+    "hanja": "加盟國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가맹점",
+    "translation": "франчайзын дэлгүүр",
+    "hanja": "加盟店",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가메",
+    "translation": "каме /шавар сав/",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가면",
+    "translation": "баг",
+    "hanja": "假面",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가면극",
+    "translation": "багт жүжиг",
+    "hanja": "假面劇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가명",
+    "translation": "хуурамч нэр",
+    "hanja": "假名",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가모",
+    "translation": "залхуу (хуучирсан)",
+    "hanja": "가모",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가묘",
+    "translation": "хуурамч булш",
+    "hanja": "假墓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가무",
+    "translation": "дуу бүжиг",
+    "hanja": "歌舞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가무잡잡하다",
+    "translation": "бор арьстай, бараандуу",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가문",
+    "translation": "уда",
+    "hanja": "家門",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가물",
+    "translation": "Ган гачиг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가물가물",
+    "translation": "бүдэг бадаг",
+    "hanja": "null",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "가물가물하다",
+    "translation": "Бүдгэрэх, 흐릿해지다",
+    "hanja": "가물가물하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가물거리다",
+    "translation": "бүүдгэрдэх",
+    "hanja": "가물거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가물다",
+    "translation": "гандсан",
+    "hanja": "가물다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가물치",
+    "translation": "могод загас",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가뭄",
+    "translation": "ганд",
+    "hanja": "가뭄",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가뭇",
+    "translation": "Мөргөлийн үзүүр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가뭇없이",
+    "translation": "ул мөргүй, ор мөргүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가믄",
+    "translation": "хар",
+    "hanja": "",
+    "pos": "관형사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가미",
+    "translation": "нэмэх",
+    "hanja": "加味",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가미되다",
+    "translation": "нэмэгдэх",
+    "hanja": "가미되다(加味되다)",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "가미하다",
+    "translation": "нэмэх",
+    "hanja": "加味하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가바",
+    "translation": "ГАБА",
+    "hanja": "GABA",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가발",
+    "translation": "хиймэл үс",
+    "hanja": "假髮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가방",
+    "translation": "цүнх",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가배",
+    "translation": "кофе",
+    "hanja": "加琲",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가버",
+    "translation": "Габер",
+    "hanja": null,
+    "pos": "인명",
+    "cefr": "B2"
+  },
+  {
+    "word": "가버나움",
+    "translation": "Капернаум (Библийн хот)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가베",
+    "translation": "кофе",
+    "hanja": "가베",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가벼이",
+    "translation": "хөнгөнөөр",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "가벽",
+    "translation": "хуурамч хана",
+    "hanja": "假壁",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가변",
+    "translation": "хувьсах",
+    "hanja": "可變",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가변성",
+    "translation": "хувьсамтгай чанар",
+    "hanja": "可變性",
+    "pos": "n",
+    "cefr": "C2"
+  },
+  {
+    "word": "가변적",
+    "translation": "хувьсамтгай",
+    "hanja": "可變的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "가볍다",
+    "translation": "хөнгөн",
+    "hanja": "가볍다",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "가병",
+    "translation": "гэрийн цэрэг, хувийн цэрэг",
+    "hanja": "家兵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가보",
+    "translation": "гэр бүлийн эд хөрөнгө",
+    "hanja": "家寶",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가봉",
+    "translation": "Габон",
+    "hanja": "加蓬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가봉하다",
+    "translation": "эхний эсгүүр хийх",
+    "hanja": "假縫하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가부",
+    "translation": "зөвшөөрөл ба татгалзал",
+    "hanja": "可否",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가부장",
+    "translation": "Гэр бүлийн тэргүүн",
+    "hanja": "家父長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가부장적",
+    "translation": "эрхшээлтэй",
+    "hanja": "家父長的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가부장제",
+    "translation": "Эцгийн эрхт ёс",
+    "hanja": "家父長制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가부좌",
+    "translation": "завилан суух",
+    "hanja": "跏趺坐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가부키",
+    "translation": "Кабуки",
+    "hanja": "歌舞伎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가분수",
+    "translation": "бутархай тоо",
+    "hanja": "假分數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가불",
+    "translation": "урьдчилгаа",
+    "hanja": "假拂",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가불다",
+    "translation": "урьдчилгаа авах",
+    "hanja": "가불다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가불하다",
+    "translation": "урьдчилж төлөх",
+    "hanja": "假拂하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가붓하다",
+    "translation": "хөнгөн, хялбар",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가브",
+    "translation": "Гав (хүний нэр)",
+    "hanja": "가브",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가브리",
+    "translation": "Хавсрах, барих (нулимс)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "가비",
+    "translation": "Габи",
+    "hanja": "Gavi",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가뿐하다",
+    "translation": "хөнгөн, хялбар",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가뿐히",
+    "translation": "Хөнгөхөн",
+    "hanja": "가뿐히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가쁘다",
+    "translation": "Амьсгал давчдах",
+    "hanja": "가쁘다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "가삐",
+    "translation": "Хурдан",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가사",
+    "translation": "гэрийн ажил, дууны үг",
+    "hanja": "家事",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가사다",
+    "translation": "өргөх",
+    "hanja": "가사다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "가사하다",
+    "translation": "гэр орны ажил хийх",
+    "hanja": "家事하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가산",
+    "translation": "нэмэх",
+    "hanja": "加算",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가산되다",
+    "translation": "нэмэгдэх",
+    "hanja": "加算되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가산점",
+    "translation": "нэмэлт оноо",
+    "hanja": "加算點",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가산하다",
+    "translation": "нэмэх, нэмэгдүүлэх",
+    "hanja": "加算하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "가상",
+    "translation": "виртуал",
+    "hanja": "假想",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가상도",
+    "translation": "Хийсвэр зураг",
+    "hanja": "假想圖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가상하다",
+    "translation": "Гарамгай байх",
+    "hanja": "嘉賞하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가생이",
+    "translation": "Зах, ирмэг",
+    "hanja": "가생이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가서명하다",
+    "translation": "гарын үсэг зурах",
+    "hanja": "假署名하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "가석방",
+    "translation": "хугацаанаас өмнө суллах",
+    "hanja": "假釋放",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가석방되다",
+    "translation": "хугацаанаас өмнө суллагдах",
+    "hanja": "假釋放되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가석방하다",
+    "translation": "хугацаанаас өмнө суллах",
+    "hanja": "假釋放하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "가설",
+    "translation": "таамаглал",
+    "hanja": "假說",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가설무대",
+    "translation": "Түр тайз",
+    "hanja": "假說舞臺",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가성",
+    "translation": "хуурамч дуу хоолой",
+    "hanja": "假聲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가세",
+    "translation": "Гэр бүл нэмэгдэх",
+    "hanja": "加勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가세다",
+    "translation": "Хүчтэй, эрчимтэй",
+    "hanja": "苛세다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가세하다",
+    "translation": "Нэгдэх",
+    "hanja": "加勢하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가소롭다",
+    "translation": "инээдтэй, шооч",
+    "hanja": "가소롭다(可笑롭다)",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가속",
+    "translation": "хурд нэмэх, хурдац",
+    "hanja": "加速",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가속도",
+    "translation": "хурд",
+    "hanja": "加速度",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가속되다",
+    "translation": "хурдасгах",
+    "hanja": "加速되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가속하다",
+    "translation": "хурдлах, түргэтгэх",
+    "hanja": "加速하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가속화",
+    "translation": "хурдасгах, хурдац",
+    "hanja": "加速化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가속화되다",
+    "translation": "Хурдацтай болох",
+    "hanja": "加速化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가속화하다",
+    "translation": "хурдасгах",
+    "hanja": "加速化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가솔",
+    "translation": "гэр бүл",
+    "hanja": "家率",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가솔린",
+    "translation": "бензин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가쇼",
+    "translation": "явсан уу",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가수",
+    "translation": "Дуучин",
+    "hanja": "歌手",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "가수하다",
+    "translation": "нэмэх",
+    "hanja": "加數하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "가쉬",
+    "translation": "гаши",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가스",
+    "translation": "хий",
+    "hanja": "가스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가스관",
+    "translation": "хий дамжуулах хоолой",
+    "hanja": "Gas管",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가스라이터",
+    "translation": "гаслайтер (сэтгэлзүйн хүчирхийлэгч)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가스레인지",
+    "translation": "хий зуух",
+    "hanja": null,
+    "pos": "мüns",
+    "cefr": "A2"
+  },
+  {
+    "word": "가스보일러",
+    "translation": "хийний бойлер",
+    "hanja": "가스보일러",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가스실",
+    "translation": "Хийн камер",
+    "hanja": "Gas室",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가스총",
+    "translation": "хийн буу",
+    "hanja": "가스銃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가스켓",
+    "translation": "зангиа",
+    "hanja": "가스켓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가스통",
+    "translation": "хийний сав",
+    "hanja": "가스筒",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가스파초",
+    "translation": "гаспачо (Испани маягийн хүйтэн шөл)",
+    "hanja": "gazpacho",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가스펠",
+    "translation": "гээспил (Gospel)",
+    "hanja": "가스펠",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가슴",
+    "translation": "Цээж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가슴둘레",
+    "translation": "цээжний тойрог",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가슴살",
+    "translation": "цээжний мах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가슴속",
+    "translation": "Угт, дотор",
+    "hanja": "가슴속",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가슴앓이",
+    "translation": "зүрх өвдөх",
+    "hanja": "가슴앓이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가슴주머니",
+    "translation": "Цээживч, цээжний халаас",
+    "hanja": "가슴주머니",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가슴팍",
+    "translation": "цээж, өвчүү",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가습",
+    "translation": "чийгшүүлэх",
+    "hanja": "加濕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가습기",
+    "translation": "чийгшүүлэгч",
+    "hanja": "加濕器",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가시",
+    "translation": "өргөс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가시고기",
+    "translation": "Загас (gasi)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가시광선",
+    "translation": "харагдах гэрэл",
+    "hanja": "可視光線",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가시권",
+    "translation": "үзэгдэх хүрээ",
+    "hanja": "可視圈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가시나",
+    "translation": "Охин (аялгуу буюу доромжилсон)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가시내",
+    "translation": "охин (нутгийн аялгуугаар)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가시다",
+    "translation": "Арилгах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가시덤불",
+    "translation": "өргөст бут",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가시라구",
+    "translation": "гудас; хувцасны гудас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가시리",
+    "translation": "явахад (хуучирсан арга)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가시방석",
+    "translation": "өргөст дэвсгэр, эвгүй байдал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가시밭길",
+    "translation": "Өргөст зам",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가시적",
+    "translation": "харагдахуйц, илэрхий",
+    "hanja": "可視的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "가시투성이",
+    "translation": "өгсөрхөг",
+    "hanja": "가시투성이",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가시화",
+    "translation": "бодитой болгох, харагдахуйц болгох",
+    "hanja": "可視化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가시화되다",
+    "translation": "харагдах, ил тод болох",
+    "hanja": "可視化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가시화하다",
+    "translation": "харагдахуйц болгох, нүдэнд харагдахуйц болгох",
+    "hanja": "可視化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가식",
+    "translation": "Хуурамч байдал",
+    "hanja": "假飾",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가식적",
+    "translation": "хуурамч",
+    "hanja": "假飾的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가신",
+    "translation": "гэрийн албат",
+    "hanja": "家臣",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가실",
+    "translation": "шатаалт, гал тавих",
+    "hanja": "家室",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가십",
+    "translation": "цуу, хов жив",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가십거리",
+    "translation": "хов жив",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가쓰오부시",
+    "translation": "кацуобуши (загас)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가아",
+    "translation": "Гаа (хуучин үг)",
+    "hanja": "駕兒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가안",
+    "translation": "түр төлөвлөгөө",
+    "hanja": "假案",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가압",
+    "translation": "даралт нэмэх",
+    "hanja": "加壓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가압류하다",
+    "translation": "түр хугацаагаар хураах",
+    "hanja": "假押留─",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가액",
+    "translation": "үнэ цэнэ",
+    "hanja": "價額",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가야",
+    "translation": "Каяа (солонгосын эртний улс)",
+    "hanja": "伽耶/加耶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가야금",
+    "translation": "каягым (баягууд)",
+    "hanja": "伽倻琴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가야바",
+    "translation": "Каяаба",
+    "hanja": "가야바",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가양",
+    "translation": "Яруу найргийн төрөл",
+    "hanja": "歌釀",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가업",
+    "translation": "гэр бүлийн бизнес",
+    "hanja": "家業",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가없다",
+    "translation": "хязгааргүй, тоо томшгүй",
+    "hanja": "N/A",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가에",
+    "translation": "хажууд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가역",
+    "translation": "буцаах боломжтой",
+    "hanja": "可逆",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가연성",
+    "translation": "шатамхай",
+    "hanja": "可燃性",
+    "pos": "name",
+    "cefr": "C1"
+  },
+  {
+    "word": "가열",
+    "translation": "халаах, халаалт",
+    "hanja": "加熱",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가열되다",
+    "translation": "халагдах",
+    "hanja": "加熱되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가열시키다",
+    "translation": "халаах",
+    "hanja": "加熱시키다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "가열차다",
+    "translation": "халуун, эрчимтэй",
+    "hanja": "加熱차다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "가열하다",
+    "translation": "халаах",
+    "hanja": "加熱하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가염",
+    "translation": "давс нэмэх",
+    "hanja": "加鹽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가엽다",
+    "translation": "Өрөвдөм",
+    "hanja": "가엽다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가엾다",
+    "translation": "өрөвдөлтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가엾이",
+    "translation": "хөөрхийлөлтэйгөөр",
+    "hanja": "가엾이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가예",
+    "translation": "Жишээлбэл, үлгэр жишээ",
+    "hanja": "假例",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가오",
+    "translation": "Нэр төр, нүүр",
+    "hanja": "顔",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가오루",
+    "translation": "үнэртэй ус",
+    "hanja": "薫",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가오리",
+    "translation": "Цацраг загас",
+    "hanja": "가오리",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가오슝",
+    "translation": "Гаосюн (Тайванийн хот)",
+    "hanja": "高雄",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가오카오",
+    "translation": "Гаокао (БНХАУ-ын их сургуулийн элсэлтийн шалгалт)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가옥",
+    "translation": "Байшин",
+    "hanja": "家屋",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가와고에",
+    "translation": "Кавагоэ",
+    "hanja": "川越",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가와사키",
+    "translation": "Кавасаки",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가왕",
+    "translation": "дууны хаан (дуучин)",
+    "hanja": "歌王",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가외",
+    "translation": "нэмэлт, илүү",
+    "hanja": "加外",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가요제",
+    "translation": "дууны наадам",
+    "hanja": "歌謠祭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가용",
+    "translation": "ашиглах боломжтой",
+    "hanja": "可用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가용하다",
+    "translation": "хэрэглэгдэх боломжтой",
+    "hanja": "可用하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가우디",
+    "translation": "Гауди",
+    "hanja": "가우디",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가우스",
+    "translation": "Гаусс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가운",
+    "translation": "Халат",
+    "hanja": "gown",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가운데",
+    "translation": "голд",
+    "hanja": "가운데",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "가운뎃손가락",
+    "translation": "дунд хуруу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가위",
+    "translation": "хайч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가위눌리다",
+    "translation": "Хараал хүрэх (нойрондоо)",
+    "hanja": "가위눌리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가위바위보",
+    "translation": "харандаа-цаас-хач",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가위질",
+    "translation": "хайчлах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가위질하다",
+    "translation": "хайчлах, хайчилж тайрах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가위표",
+    "translation": "X тэмдэг",
+    "hanja": "가위표",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가윗날",
+    "translation": "хаврын өдөр",
+    "hanja": "가윗날",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가유",
+    "translation": "цацлага, тос түрхэх",
+    "hanja": "加油",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가을",
+    "translation": "намар",
+    "hanja": "가을",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "가을걷이",
+    "translation": "ургац хураалт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가을날",
+    "translation": "Намрын өдөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가을맞이",
+    "translation": "намрын баяр",
+    "hanja": "가을맞이",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가을바람",
+    "translation": "намрын салхи",
+    "hanja": "가을바람",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가을밤",
+    "translation": "Намрын шөнө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가을볕",
+    "translation": "намрын нар, намрын зүг",
+    "hanja": "가을볕",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가을비",
+    "translation": "Намрын бороо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가을철",
+    "translation": "Намрын улирал",
+    "hanja": "가을철",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가을하다",
+    "translation": "хураах, ургац хураах",
+    "hanja": "가을하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가이",
+    "translation": "гишүүн",
+    "hanja": "가이",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가이거",
+    "translation": "Гейгер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가이다",
+    "translation": "Байх, таарах (고어)",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가이던스",
+    "translation": "зааварчилгаа",
+    "hanja": "guidance",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가이드",
+    "translation": "хөтөч",
+    "hanja": "guide",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가이드라인",
+    "translation": "Удирдамж",
+    "hanja": "guideline",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가이사",
+    "translation": "Цезарь",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가이아",
+    "translation": "Гаяа (Грекийн домогт)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가이아나",
+    "translation": "Гайана (улс)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가이우스",
+    "translation": "Гайус (нэр)",
+    "hanja": "null",
+    "pos": "нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "가입",
+    "translation": "Элсэлт",
+    "hanja": "加入",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가입국",
+    "translation": "гишүүн орон",
+    "hanja": "加入國",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가입되다",
+    "translation": "гишүүнээр элсэгдэх, бүртгүүлэх",
+    "hanja": "加入되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가입비",
+    "translation": "Элсэлтийн хураамж",
+    "hanja": "加入費",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가입시키다",
+    "translation": "элсүүлэх",
+    "hanja": "加入시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가입자",
+    "translation": "гишүүн, бүртгүүлэгч",
+    "hanja": "加入者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가입하다",
+    "translation": "элсэх, гишүүн болох",
+    "hanja": "加入하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가자",
+    "translation": "явъя",
+    "hanja": null,
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "가자구",
+    "translation": "ганхдаг сандал",
+    "hanja": "假子區",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가자미",
+    "translation": "Халзан загас",
+    "hanja": "가자미",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가자이",
+    "translation": "Казай (хүний нэр)",
+    "hanja": "加子異",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가자하다",
+    "translation": "тавих, оруулах",
+    "hanja": "加字하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가작",
+    "translation": "сайн зохиол, шилдэг бүтээл",
+    "hanja": "佳作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가잡다",
+    "translation": "хүчтэй барих",
+    "hanja": "가잡다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가장",
+    "translation": "хамгийн",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "가장귀",
+    "translation": "булан",
+    "hanja": "가장귀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가장자리",
+    "translation": "захаар, ирмэг",
+    "hanja": "가장자리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가장하다",
+    "translation": "дүр эсгэх, хувирах",
+    "hanja": "假裝하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가장행렬",
+    "translation": "багт наадам",
+    "hanja": "假裝行列",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가재",
+    "translation": "жимстэй хавч",
+    "hanja": "가재",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가재도구",
+    "translation": "Гэр ахуйн хэрэгсэл",
+    "hanja": "家財道具",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가재미",
+    "translation": "Загасны нэг төрөл",
+    "hanja": "가재미",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가전",
+    "translation": "гэрийн цахилгаан хэрэгсэл",
+    "hanja": "家電",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가전제품",
+    "translation": "Гэр ахуйн цахилгаан хэрэгсэл",
+    "hanja": "家電製品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가점",
+    "translation": "нэмэлт оноо",
+    "hanja": "加點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가정",
+    "translation": "гэр",
+    "hanja": "家庭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가정되다",
+    "translation": "таамаглажээ",
+    "hanja": "假定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가정법",
+    "translation": "нөхцөлт байдал",
+    "hanja": "假定法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가정부",
+    "translation": "гэрийн үйлчлэгч",
+    "hanja": "家政婦",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가정불화",
+    "translation": "гэр бүлийн маргаан",
+    "hanja": "家庭不和",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가정용품",
+    "translation": "гэр ахуйн хэрэгсэл",
+    "hanja": "家庭用品",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가정일",
+    "translation": "Гэрийн ажил",
+    "hanja": "家庭일",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가정적",
+    "translation": "Гэр бүлд хайртай, гэрсэг",
+    "hanja": "家庭的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가정주부",
+    "translation": "гэрийн эзэгтэй",
+    "hanja": "家庭主婦",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가정집",
+    "translation": "Гэр",
+    "hanja": "家庭집",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가정하다",
+    "translation": "Таамаглах",
+    "hanja": "假定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가제",
+    "translation": "марль",
+    "hanja": "가제",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가제이",
+    "translation": "Газей",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가제트",
+    "translation": "гаджет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가젤",
+    "translation": "газель",
+    "hanja": "가젤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가져다주다",
+    "translation": "авчирч өгөх",
+    "hanja": "가져다주다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가족",
+    "translation": "Гэр бүл",
+    "hanja": "家族",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "가족계획",
+    "translation": "Гэр бүл төлөвлөлт",
+    "hanja": "家族計畫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가족력",
+    "translation": "гэр бүлийн түүх; удам дагасан өвчин",
+    "hanja": "家族歷",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가족적",
+    "translation": "гэр бүлийн",
+    "hanja": "家族的",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가족주의",
+    "translation": "Гэр бүлсэг үзэл",
+    "hanja": "家族主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가족회의",
+    "translation": "гэр бүлийн зөвлөгөөн",
+    "hanja": "가족회의(家族會議)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가주",
+    "translation": "айл өрх, гэрийн эзэн",
+    "hanja": "家主",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가죽",
+    "translation": "арьс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가죽끈",
+    "translation": "ширэн оосор",
+    "hanja": "가죽끈",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가죽옷",
+    "translation": "Арьсан хувцас",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가준이",
+    "translation": "Гажуни (хүн нэр)",
+    "hanja": "가준이",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가중",
+    "translation": "хүндрүүлэх, нэмэгдүүлэх",
+    "hanja": "加重",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가중되다",
+    "translation": "хүндрэх",
+    "hanja": "加重되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가중시키다",
+    "translation": "хүндрүүлэх, эрчимжүүлэх",
+    "hanja": "加重시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가중하다",
+    "translation": "нэмэгдүүлэх",
+    "hanja": "加重하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가즈",
+    "translation": "явах",
+    "hanja": "가즈",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가증",
+    "translation": "Жүсэм, их зан",
+    "hanja": "加增",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가증스럽다",
+    "translation": "жигшмээр, аймшигтай",
+    "hanja": "可憎스럽다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가증하다",
+    "translation": "Нэмэгдүүлэх",
+    "hanja": "加増하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가증히",
+    "translation": "жигшүүртэйгээр",
+    "hanja": "可憎히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가지",
+    "translation": "мөчир",
+    "hanja": "가지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가지가지",
+    "translation": "олон төрлийн, янз бүрийн",
+    "hanja": "가지가지",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가지각색",
+    "translation": "олон төрөл",
+    "hanja": "가지各色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가지고오다",
+    "translation": "авчрах",
+    "hanja": "가지고오다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가지고지",
+    "translation": "Авч очих",
+    "hanja": "가지고지",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "가지구",
+    "translation": "авчирч",
+    "hanja": "가지구",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가지다",
+    "translation": "байх, эзэмших",
+    "hanja": "가지다",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "가지런하다",
+    "translation": "зэрэгцсэн",
+    "hanja": "가지런하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가지런히",
+    "translation": "эгц",
+    "hanja": "가지런히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가지안테프",
+    "translation": "Газиантеп",
+    "hanja": "가지안테프",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "가지오다",
+    "translation": "Авчрах, авч ирэх",
+    "hanja": "가지오다",
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "가지치기하다",
+    "translation": "мөчир тайрах",
+    "hanja": "가지치기하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "가질",
+    "translation": "Эзэмших",
+    "hanja": "N/A",
+    "pos": "동사 (어미)",
+    "cefr": "A2"
+  },
+  {
+    "word": "가짓수",
+    "translation": "төрөл зүйл, тоо хэмжээ",
+    "hanja": "가지-數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가짓줄",
+    "translation": "утас, кабель",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가짜",
+    "translation": "хуурамч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가차",
+    "translation": "Өршөөлгүй",
+    "hanja": "假借",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가찹다",
+    "translation": "Ойр, ойрхон",
+    "hanja": "---",
+    "pos": "Adj",
+    "cefr": "B1"
+  },
+  {
+    "word": "가창",
+    "translation": "Дуулах, дуулах урлаг",
+    "hanja": "歌唱",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가창력",
+    "translation": "дуулах чадвар",
+    "hanja": "歌唱力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가채",
+    "translation": "хиймэл үс",
+    "hanja": "加髢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가책",
+    "translation": "гэмшил",
+    "hanja": "呵責",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가청",
+    "translation": "сонсогдох",
+    "hanja": "可聽",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가체",
+    "translation": "히ймэл үс",
+    "hanja": "假 Chế",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가축",
+    "translation": "гэрийн тэжээвэр амьтад, мал",
+    "hanja": "家畜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가축화되다",
+    "translation": "Гэрийн тэжээмэл болох",
+    "hanja": "家畜化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가축화하다",
+    "translation": "гаршуулах",
+    "hanja": "家畜化하다",
+    "pos": "VV",
+    "cefr": "B2"
+  },
+  {
+    "word": "가출",
+    "translation": "гэрээсээ зугтах",
+    "hanja": "家出",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가출옥",
+    "translation": "бага хугацааны хорих ял",
+    "hanja": "假出獄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가출하다",
+    "translation": "гэрээсээ гарах, зайнаас гарах",
+    "hanja": "家出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가츠",
+    "translation": "Гац",
+    "hanja": "가츠",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가치",
+    "translation": "үнэ цэнэ",
+    "hanja": "價値",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가치관",
+    "translation": "Үнэ цэнийн үзэл",
+    "hanja": "價値觀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가칭",
+    "translation": "Түр нэр",
+    "hanja": "假稱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가타",
+    "translation": "яриа, хэлц",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가타기리",
+    "translation": "Катагири (Япон нэр)",
+    "hanja": null,
+    "pos": "고유명사 (Proper Noun)",
+    "cefr": "A2"
+  },
+  {
+    "word": "가타부타",
+    "translation": "тийм, үгүй гэх мэт",
+    "hanja": "可他付他",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가타부타하다",
+    "translation": "тийм ч үгүй, ийм ч үгүй гэх, шийдэхгүй байх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가타카나",
+    "translation": "катакана (Япон үсэг)",
+    "hanja": "片仮名",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가태",
+    "translation": "үр хөндөлт хийлгэх",
+    "hanja": "假胎",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가택",
+    "translation": "гэр орон",
+    "hanja": "家宅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가테",
+    "translation": "галт тэрэг",
+    "hanja": null,
+    "pos": "명사 (방언)",
+    "cefr": "A2"
+  },
+  {
+    "word": "가토",
+    "translation": "Като (Японы нэр)",
+    "hanja": "加藤",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "가톨릭",
+    "translation": "Католик шашин",
+    "hanja": "Catholic",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가톨릭교도",
+    "translation": "католик шашинтан",
+    "hanja": "가톨릭敎徒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가톨릭교회",
+    "translation": "Католик сүм",
+    "hanja": "가톨릭敎會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가투",
+    "translation": "гэнэтийн цохилт",
+    "hanja": "街頭",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가트",
+    "translation": "ГАТТ",
+    "hanja": "가트",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가트다",
+    "translation": "хатуу, ширүүн болох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가티",
+    "translation": "хөдөлгөөн, аялал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가파르다",
+    "translation": "Эгц / Налуу",
+    "hanja": "가파르다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가판",
+    "translation": "замын хажуугийн лангуу",
+    "hanja": "街販",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가편",
+    "translation": "Зар сурталчилгааны танилцуулга",
+    "hanja": "假篇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가평",
+    "translation": "Гапён (нэр)",
+    "hanja": "加平",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가품",
+    "translation": "хуурамч бүтээгдэхүүн",
+    "hanja": "假品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가풍",
+    "translation": "гэр бүлийн уламжлал",
+    "hanja": "家風",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "가프",
+    "translation": "Гап",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가피",
+    "translation": "Гэрчийг яллагдагчтай тулгаж байцаах",
+    "hanja": "加被",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가필드",
+    "translation": "Гарфилд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가하다",
+    "translation": "нэмэх",
+    "hanja": "加하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "가학",
+    "translation": "садизм",
+    "hanja": "加虐",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "가학적",
+    "translation": "садист, хүчирхийлэх",
+    "hanja": "加虐的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가해",
+    "translation": "гэмтээх, хохирол учруулах",
+    "hanja": "加害",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가해자",
+    "translation": "хохирогч",
+    "hanja": "加害者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가향",
+    "translation": "үнэртэй",
+    "hanja": "加香",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가형",
+    "translation": "хуурамч хэлбэр",
+    "hanja": "假形",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가호",
+    "translation": "Ивээл, хамгаалалт",
+    "hanja": "加護",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가혹",
+    "translation": "хэрцгий",
+    "hanja": "苛酷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가혹하다",
+    "translation": "хатуу ширүүн",
+    "hanja": "苛酷하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가화만사성",
+    "translation": "гэр хөрөнгөтэй бол бүх зүйл бүтдэг",
+    "hanja": "家和萬事成",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가효",
+    "translation": "үр дүн",
+    "hanja": "可效",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가후",
+    "translation": "Жя Шиү",
+    "hanja": "賈詡",
+    "pos": "NOUN",
+    "cefr": "C2"
+  },
+  {
+    "word": "가훈",
+    "translation": "гэрийн сургаал",
+    "hanja": "家訓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가히",
+    "translation": "Зүй ёсоор",
+    "hanja": "可히",
+    "pos": "Adverb",
+    "cefr": "C2"
+  }
+]

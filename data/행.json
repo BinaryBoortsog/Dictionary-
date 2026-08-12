@@ -1,0 +1,520 @@
+[
+  {
+    "word": "행",
+    "translation": "мөр",
+    "hanja": "행(行)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행각",
+    "translation": "Үйл, явдал",
+    "hanja": "行脚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행간",
+    "translation": "мөр хооронд, нууц утга",
+    "hanja": "行間",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행거",
+    "translation": "өлгүүр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "행구",
+    "translation": "Жуулчин",
+    "hanja": "行謳",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "행군",
+    "translation": "марш",
+    "hanja": "行軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행군하다",
+    "translation": "марш хийх, жагсан алхах",
+    "hanja": "行軍하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행궁",
+    "translation": "царгийн ордон",
+    "hanja": "行宮",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "행그리",
+    "translation": "өлссөн, өлөн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "행글라이더",
+    "translation": "ханглайдер",
+    "hanja": "hang glider",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행글라이딩",
+    "translation": "ханглайдинг",
+    "hanja": "hang gliding",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행낭",
+    "translation": "тээшний цүнх, богц",
+    "hanja": "行囊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행동",
+    "translation": "үйлдэл, үйл ажиллагаа",
+    "hanja": "行動",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행동거지",
+    "translation": "Зан авир, үйлдэл",
+    "hanja": "行動擧止",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행동하다",
+    "translation": "үйлдэх",
+    "hanja": "行動하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행락객",
+    "translation": "аялагч",
+    "hanja": "行樂客",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "행랑",
+    "translation": "Гарц",
+    "hanja": "行廊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행랑채",
+    "translation": "Гадна байшин, үйлчлэлийн байр",
+    "hanja": "行廊채",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행렬",
+    "translation": "жагсаал",
+    "hanja": "行列",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "행로",
+    "translation": "зам, аялалын зам",
+    "hanja": "行路",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "행마",
+    "translation": "Морь унах",
+    "hanja": "行馬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행매",
+    "translation": "худалдаа хийх",
+    "hanja": "行賣",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "행방",
+    "translation": "ор сураг",
+    "hanja": "行方",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행방불명",
+    "translation": "сураггүй алга болох",
+    "hanja": "行方不明",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행방불명되다",
+    "translation": "сураггүй болох",
+    "hanja": "行方不明되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "행배",
+    "translation": "алхах, зорчих (хуучирсан)",
+    "hanja": "行輩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행보",
+    "translation": "алхаа, үйлдэл",
+    "hanja": "行步",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행복",
+    "translation": "аз жаргал",
+    "hanja": "幸福",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "행복감",
+    "translation": "аз жаргалын мэдрэмж",
+    "hanja": "幸福感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행복동",
+    "translation": "аз жаргалтай хороолол",
+    "hanja": "幸福洞",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "행복하다",
+    "translation": "жаргалтай байх",
+    "hanja": "幸福하다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "행사",
+    "translation": "арга хэмжээ",
+    "hanja": "行事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행사되다",
+    "translation": "Хэрэглэгдэх, зохион байгуулагдах",
+    "hanja": "行使되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "행사장",
+    "translation": "үйл ажиллагааны газар",
+    "hanja": "行事場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행사하다",
+    "translation": "хэрэгжүүлэх, ашиглах",
+    "hanja": "行使하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행상",
+    "translation": "хэсэгчлэн худалдаа эрхлэх",
+    "hanja": "行商",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행색",
+    "translation": "хувцаслалт ба гадаад байдал",
+    "hanja": "行色",
+    "pos": "н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "행선",
+    "translation": "зүг чиг",
+    "hanja": "行船",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행선지",
+    "translation": "Очих газар",
+    "hanja": "行先地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행성",
+    "translation": "гариг",
+    "hanja": "行星",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "행세",
+    "translation": "дүрд тоглох",
+    "hanja": "行勢(행세)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행세하다",
+    "translation": "дүрд тоглох, дүр эсгэх",
+    "hanja": "行世하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행수",
+    "translation": "гүйцэтгэх захирал, албан тушаалтан",
+    "hanja": "行首",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행시",
+    "translation": "төрийн албаны шалгалт (томилгоо)",
+    "hanja": "行試",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행실",
+    "translation": "Үйлдэл",
+    "hanja": "行實",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "행악",
+    "translation": "муу үйл",
+    "hanja": "行惡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행어",
+    "translation": "өлгүүр",
+    "hanja": "행어",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "행여",
+    "translation": "Хэрвээ, магадгүй",
+    "hanja": "幸餘",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행오버",
+    "translation": "согтууруулах ундаа",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "행운",
+    "translation": "аз",
+    "hanja": "幸運",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행운아",
+    "translation": "азтай хүн",
+    "hanja": "幸運兒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행원",
+    "translation": "банкны ажилтан",
+    "hanja": "行員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행위",
+    "translation": "үйлдэл, үйл ажиллагаа",
+    "hanja": "行爲",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "행음하다",
+    "translation": "Садарлах",
+    "hanja": "行淫하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행인",
+    "translation": "замын хүн",
+    "hanja": "行人",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "행자",
+    "translation": "гуйлгачин",
+    "hanja": "行者",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "행장",
+    "translation": "аяллын хувцас",
+    "hanja": "行裝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행적",
+    "translation": "Мөр",
+    "hanja": "行跡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행정",
+    "translation": "Захиргаа",
+    "hanja": "行政",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행정가",
+    "translation": "захирагч, удирдагч",
+    "hanja": "行政家",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "행정권",
+    "translation": "гүйцэтгэх эрх мэдэл",
+    "hanja": "行政權",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "행정부",
+    "translation": "гүйцэтгэх засаглал, засаг захиргаа",
+    "hanja": "行政府",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "행주",
+    "translation": "ширээний алчуур",
+    "hanja": "行주",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "행주산성",
+    "translation": "Хэнжусансон",
+    "hanja": "幸州山城",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행주치마",
+    "translation": "хормогч",
+    "hanja": "行廚치마",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행진곡",
+    "translation": "марш",
+    "hanja": "行進曲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행진하다",
+    "translation": "Жагсах, марш хийх",
+    "hanja": "行進하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행차",
+    "translation": "Явах, айлчлал",
+    "hanja": "行次",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "행차하다",
+    "translation": "аялах",
+    "hanja": "行次하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "행커치프",
+    "translation": "алчуур",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "행태",
+    "translation": "зан байдал",
+    "hanja": "行態",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "행패",
+    "translation": "зүй бус үйлдэл",
+    "hanja": "行悖",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "행하",
+    "translation": "хэрэгжүүлэх, хийх",
+    "hanja": "行下",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "행하다",
+    "translation": "Хийх, гүйцэтгэх",
+    "hanja": "行하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

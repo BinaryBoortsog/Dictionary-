@@ -1,0 +1,751 @@
+[
+  {
+    "word": "등",
+    "translation": "гэх мэт",
+    "hanja": "等",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "등가",
+    "translation": "ижил утга",
+    "hanja": "等價",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등거리",
+    "translation": "тэнцүү зайтай",
+    "hanja": "等距離",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "등걸",
+    "translation": "Модны үлдэгдэл",
+    "hanja": "등걸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등경",
+    "translation": "гэрлийн суурь",
+    "hanja": "燈檠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등고선",
+    "translation": "тэнхлэг шугам",
+    "hanja": "等高線",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등골",
+    "translation": "нурууны яс",
+    "hanja": "등골",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등교",
+    "translation": "Сургуульд явах",
+    "hanja": "登校",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "등교하다",
+    "translation": "сургуульд явах",
+    "hanja": "登校-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등굣길",
+    "translation": "сургуулийн зам",
+    "hanja": "登校-길",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "등극",
+    "translation": "сэнтийд суух, хаан ширээнд суух",
+    "hanja": "登極",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등극하다",
+    "translation": "хаан ширээнд суух",
+    "hanja": "登極하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등급",
+    "translation": "Зэрэг, түвшин, ангилал",
+    "hanja": "等級",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등기",
+    "translation": "бүртгэл",
+    "hanja": "등기(登記)",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "등기되다",
+    "translation": "бүртгэгдэх",
+    "hanja": "登記되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "등기부",
+    "translation": "бүртгэлийн дэвтэр, лавлах дэвтэр",
+    "hanja": "登記簿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등기하다",
+    "translation": "Бүртгүүлэх",
+    "hanja": "登記하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등나무",
+    "translation": "вистериа (ургамал)",
+    "hanja": "藤나무",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "등단",
+    "translation": "тайзан дээр гарах",
+    "hanja": "登壇",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "등단하다",
+    "translation": "тайзан дээр гарах",
+    "hanja": "登壇-",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "등대",
+    "translation": "гэрэлт цамхаг",
+    "hanja": "燈臺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등대지기",
+    "translation": "гэрэлт цамхгийн манаач",
+    "hanja": "燈臺지기",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등등",
+    "translation": "гэх мэт",
+    "hanja": "等等",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등등하다",
+    "translation": "агуу, алдартай",
+    "hanja": "騰騰하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등딱지",
+    "translation": "хуяг",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등락",
+    "translation": "өсөлт бууралт, хэлбэлзэл",
+    "hanja": "騰落",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등록",
+    "translation": "бүртгэл",
+    "hanja": "登錄",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "등록금",
+    "translation": "сургалтын төлбөр",
+    "hanja": "登錄金",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "등록되다",
+    "translation": "бүртгэгдэх",
+    "hanja": "登錄되다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "등록부",
+    "translation": "бүртгэлийн дэвтэр",
+    "hanja": "登錄簿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등록비",
+    "translation": "бүртгэлийн хураамж",
+    "hanja": "登錄費",
+    "pos": "n",
+    "cefr": "A2"
+  },
+  {
+    "word": "등록세",
+    "translation": "бүртгэлийн хураамж",
+    "hanja": "登錄稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등록증",
+    "translation": "бүртгэлийн үнэмлэх",
+    "hanja": "登錄證",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "등록하다",
+    "translation": "Бүртгүүлэх",
+    "hanja": "登錄하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "등롱",
+    "translation": "чихэвч",
+    "hanja": "燈籠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등명",
+    "translation": "гэрэлтүүлэг",
+    "hanja": "燈明",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등목하다",
+    "translation": "унадаг морь унах",
+    "hanja": "登木하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등반",
+    "translation": "авирах",
+    "hanja": "登攀",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "등반하다",
+    "translation": "авирах",
+    "hanja": "登攀하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "등받이",
+    "translation": "түшлэг",
+    "hanja": "등받이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "등본",
+    "translation": "хуулбар /албан ёсны/",
+    "hanja": "謄本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등분",
+    "translation": "тэнцүү хэсэг",
+    "hanja": "等分",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등분하다",
+    "translation": "тэнцүү хуваах",
+    "hanja": "等分하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "등불",
+    "translation": "дэнлүү",
+    "hanja": "등불(燈불)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "등뼈",
+    "translation": "нуруу",
+    "hanja": "등뼈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등사",
+    "translation": "хуулбарлах",
+    "hanja": "謄寫",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "등사하다",
+    "translation": "хуулбарлах",
+    "hanja": "謄寫하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등산",
+    "translation": "ууланд авирах",
+    "hanja": "登山",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "등산가",
+    "translation": "Уулчин",
+    "hanja": "登山家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등산객",
+    "translation": "ууланд авирагч",
+    "hanja": "登山客",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "등산로",
+    "translation": "уулын авиралтын зам",
+    "hanja": "登山路",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등산복",
+    "translation": "Уулын хувцас",
+    "hanja": "登山服",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "등산하다",
+    "translation": "ууланд авирах",
+    "hanja": "登山하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "등산화",
+    "translation": "уулын гутал",
+    "hanja": "登山靴",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "등살",
+    "translation": "нурууны булчин",
+    "hanja": "등살",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등상",
+    "translation": "ууланд гарах, авирах",
+    "hanja": "登山",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등석",
+    "translation": "өгсөх",
+    "hanja": "登釋",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "등성",
+    "translation": "нуруу",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "등성이",
+    "translation": "нуруу, хяр",
+    "hanja": "등성이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등속",
+    "translation": "гэх мэт",
+    "hanja": "等속",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등수",
+    "translation": "Эрэмбэ, зэрэг",
+    "hanja": "等數",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등식",
+    "translation": "тэгшитгэл",
+    "hanja": "等式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등신",
+    "translation": "тэнэг",
+    "hanja": "等身",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등심",
+    "translation": "нурууны мах",
+    "hanja": "등心",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "등쌀",
+    "translation": "Дарамт, шахалт",
+    "hanja": "등쌀",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "등양",
+    "translation": "авирах, өгсөх",
+    "hanja": "登揚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등어리",
+    "translation": "нуруу",
+    "hanja": null,
+    "pos": "NNG",
+    "cefr": "A2"
+  },
+  {
+    "word": "등에",
+    "translation": "нуруун дээр",
+    "hanja": null,
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "등용",
+    "translation": "албан тушаалд томилох",
+    "hanja": "登用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등용되다",
+    "translation": "Албан тушаалд томилогдох",
+    "hanja": "登用되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등용문",
+    "translation": "албан тушаалд орох зам",
+    "hanja": "登龍門",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등용하다",
+    "translation": "ажилд авах",
+    "hanja": "登用하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등원",
+    "translation": "парламент руу явах",
+    "hanja": "登院",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등원하다",
+    "translation": "цэцэрлэгт явах",
+    "hanja": "登院하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등위",
+    "translation": "ижил зэрэг; ижил хэвлэлийн",
+    "hanja": "等位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등유",
+    "translation": "керосин",
+    "hanja": "등유(燈油)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등이",
+    "translation": "гэх мэт",
+    "hanja": "등이",
+    "pos": "조사",
+    "cefr": "A2"
+  },
+  {
+    "word": "등자",
+    "translation": "дөрөө (морины)",
+    "hanja": "등자(鐙子)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등잔",
+    "translation": "Дэнлүүний гэрэл, тосгуур",
+    "hanja": "燈盞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등잔불",
+    "translation": "тосон дэнлүүний гэрэл",
+    "hanja": "燈盞불",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등장",
+    "translation": "гарч ирэх",
+    "hanja": "登場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등장시키다",
+    "translation": "Гаргаж ирэх",
+    "hanja": "登場시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등장인물",
+    "translation": "дүр",
+    "hanja": "登場人物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등장하다",
+    "translation": "гарч ирэх, илрэх",
+    "hanja": "登場하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등재",
+    "translation": "бүртгэх, жагсаалтад оруулах",
+    "hanja": "登載",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등재되다",
+    "translation": "Бүртгэгдэх",
+    "hanja": "登載되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등재하다",
+    "translation": "Бүртгэх",
+    "hanja": "登載-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등정",
+    "translation": "оргилд гарах, өгсөх",
+    "hanja": "登頂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등정하다",
+    "translation": "оргилд гарах",
+    "hanja": "登頂하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등줄기",
+    "translation": "нурууны яс",
+    "hanja": "등줄기",
+    "pos": "м",
+    "cefr": "B2"
+  },
+  {
+    "word": "등지",
+    "translation": "гэх мэт газрууд",
+    "hanja": "等地",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "등지다",
+    "translation": "Нуруугаар эргэх; үл тоомсорлох",
+    "hanja": "등지다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등짝",
+    "translation": "нуруу",
+    "hanja": "등짝",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "등청하다",
+    "translation": "сонгосон байгууллагад орох",
+    "hanja": "登廳하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "등치",
+    "translation": "Тэнцүү хийх, ижил болгох",
+    "hanja": "等置",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등치다",
+    "translation": "нуруундаа цохиход",
+    "hanja": "등치다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등탑",
+    "translation": "гэрэлт цамхаг",
+    "hanja": "燈塔",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등판",
+    "translation": "Нуруу",
+    "hanja": "登판",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "등판하다",
+    "translation": "гарах",
+    "hanja": "登板하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등품",
+    "translation": "Адилтгах",
+    "hanja": "等品",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "등하굣길",
+    "translation": "сургууль руу явах, буцах зам",
+    "hanja": "登下校길",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등하다",
+    "translation": "ар талдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "등한시",
+    "translation": "үл тоомсорлох",
+    "hanja": "等閑視",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "등한시하다",
+    "translation": "үл тоомсорлох",
+    "hanja": "等閑視하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등허리",
+    "translation": "нурууны гол хэсэг",
+    "hanja": "등-허리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "등호",
+    "translation": "тэнцүүгийн тэмдэг",
+    "hanja": "等號",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "등화",
+    "translation": "гэрэлтүүлэг",
+    "hanja": "燈火",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

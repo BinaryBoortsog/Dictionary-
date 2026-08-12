@@ -1,0 +1,3075 @@
+[
+  {
+    "word": "유",
+    "translation": "төрөл",
+    "hanja": "類",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유가",
+    "translation": "Нефтийн үнэ",
+    "hanja": "油價",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유가족",
+    "translation": "Гэр бүл",
+    "hanja": "遺家族",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유감",
+    "translation": "Харамсалтай",
+    "hanja": "遺憾",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유감스럽다",
+    "translation": "харамсалтай",
+    "hanja": "遺憾스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유감없이",
+    "translation": "харамсалгүй",
+    "hanja": "遺憾없이",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "유격",
+    "translation": "нийцэж үл өгөх, холдох",
+    "hanja": "遊擊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유격대",
+    "translation": "партизан (Цэргийн)",
+    "hanja": "遊擊隊",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유격수",
+    "translation": "шоотстоп (бейсбол)",
+    "hanja": "遊擊手",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유고",
+    "translation": "хоосон",
+    "hanja": "有故",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유고슬라비아",
+    "translation": "Югослав",
+    "hanja": "Yugoslavia",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유골",
+    "translation": "Үлдэгдэл яс",
+    "hanja": "遺骨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유공",
+    "translation": "гавьяат",
+    "hanja": "有功",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유공자",
+    "translation": "гавьяатан",
+    "hanja": "有功者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유곽",
+    "translation": "янханы газар",
+    "hanja": "遊廓",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유관",
+    "translation": "хамааралтай",
+    "hanja": "有關",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유관순",
+    "translation": "Ю Гван-сун (Солонгосын тусгаар тогтнолын баатар эмэгтэй)",
+    "hanja": "柳寬順",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "유광",
+    "translation": "гялалзсан",
+    "hanja": "有光",
+    "pos": "Noun/Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "유괴",
+    "translation": "Хүүхэд хулгайлах",
+    "hanja": "誘拐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유괴되다",
+    "translation": "Хулгайлагдах",
+    "hanja": "誘拐되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유괴범",
+    "translation": "хүүхэд хулгайлагч",
+    "hanja": "誘拐犯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유괴하다",
+    "translation": "хүн хулгайлах",
+    "hanja": "誘拐하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "유교",
+    "translation": "күнзийн шашин",
+    "hanja": "儒敎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유구",
+    "translation": "удаан хугацааны, эртний",
+    "hanja": "悠久",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유구무언",
+    "translation": "юу ч хэлэх үггүй байх",
+    "hanja": "有口無言",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유구하다",
+    "translation": "урт удаан түүхтэй",
+    "hanja": "悠久하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "유권",
+    "translation": "сонгуулийн эрхтэй",
+    "hanja": "有權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유권자",
+    "translation": "сонгогч",
+    "hanja": "有權者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유금",
+    "translation": "хөдөлгөөнт мөнгө",
+    "hanja": "遊金",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유급",
+    "translation": "цалинтай",
+    "hanja": "有給",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유급되다",
+    "translation": "Жил давтах",
+    "hanja": "留級되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유급하다",
+    "translation": "анги давтах",
+    "hanja": "留級하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유기농",
+    "translation": "органик",
+    "hanja": "有機農",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유기되다",
+    "translation": "орхигдох",
+    "hanja": "遺棄되다",
+    "pos": "үйл үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "유기물",
+    "translation": "органик бодис",
+    "hanja": "有機物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유기인제",
+    "translation": "Органик шингэлэгч бодис",
+    "hanja": "有機印劑",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "유기적",
+    "translation": "Органик, нягт холбоотой",
+    "hanja": "有機的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유기체",
+    "translation": "органик биет",
+    "hanja": "有機體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유기하다",
+    "translation": "Хаях, орхих",
+    "hanja": "遺棄하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유길준",
+    "translation": "Ю Гил-Жун (хүний нэр)",
+    "hanja": "兪吉濬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유나",
+    "translation": "Юна (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유난",
+    "translation": "Гайхалтай",
+    "hanja": "類難",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유난스럽다",
+    "translation": "хэтрүүлсэн, ер бусын",
+    "hanja": "유난스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유난스레",
+    "translation": "онцгойлон",
+    "hanja": "類難스레",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유난하다",
+    "translation": "онцгой, ер бусын",
+    "hanja": "有難하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유난히",
+    "translation": "онцгойлон, гайхмаар",
+    "hanja": "殊히",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "유네스코",
+    "translation": "ЮНЕСКО",
+    "hanja": "유네스코",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유년",
+    "translation": "бага нас, хүүхэд нас",
+    "hanja": "幼年",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "유년기",
+    "translation": "бага нас",
+    "hanja": "幼年期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유념",
+    "translation": "Санах, анхаарах",
+    "hanja": "留念",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유념하다",
+    "translation": "анхаарах",
+    "hanja": "留意--",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유노",
+    "translation": "Юно",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "유능",
+    "translation": "чадварлаг",
+    "hanja": "有能",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유능하다",
+    "translation": "чадвартай",
+    "hanja": "有能하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "유니",
+    "translation": "Юни (Нэр)",
+    "hanja": "唯你",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유니버스",
+    "translation": "орчлон ертөнц",
+    "hanja": "universe",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유니버시아드",
+    "translation": "Универсиад",
+    "hanja": "유니버시아드",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유니세프",
+    "translation": "ЮНИСЕФ",
+    "hanja": "UNICEF",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유니섹스",
+    "translation": "юнисекс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유니스",
+    "translation": "Юнис",
+    "hanja": "Eunice",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유니스트",
+    "translation": "Юнист (UNIST)",
+    "hanja": "유니스트",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유니콘",
+    "translation": "Ганц эвэрт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유니폼",
+    "translation": "хувцас, дүрэмт хувцас",
+    "hanja": "uniform",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유닛",
+    "translation": "нэгж",
+    "hanja": "unit",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "유다",
+    "translation": "Иуда",
+    "hanja": "猶大",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유단자",
+    "translation": "хар бүстэй хүн",
+    "hanja": "有段者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유달리",
+    "translation": "онцгой",
+    "hanja": "類달리",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유당",
+    "translation": "сүүний сахар, лактоз",
+    "hanja": "乳糖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유대",
+    "translation": "холбоо, нэгдэл",
+    "hanja": "紐帶",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유대감",
+    "translation": "дотно харилцаа",
+    "hanja": "紐帶感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유대교",
+    "translation": "Иудаизм",
+    "hanja": "猶太敎",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유대인",
+    "translation": "еврей",
+    "hanja": "猶太人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유덕",
+    "translation": "буянтай",
+    "hanja": "有德",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유도",
+    "translation": "Удирдах",
+    "hanja": "誘導",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유도되다",
+    "translation": "удирдуулах",
+    "hanja": "誘導되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유도리",
+    "translation": "уян хатан, уян хатан байдал",
+    "hanja": "遊動裡",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "유도하다",
+    "translation": "Удирдах",
+    "hanja": "誘導하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유독",
+    "translation": "хортой",
+    "hanja": "有毒",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유독성",
+    "translation": "хортой бодис",
+    "hanja": "有毒性",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "유독하다",
+    "translation": "хортой",
+    "hanja": "有毒하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유동",
+    "translation": "урсгал",
+    "hanja": "流動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유동성",
+    "translation": "хөрвөх чанар",
+    "hanja": "流動性",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유동식",
+    "translation": "шингэн хоол",
+    "hanja": "流動食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유동적",
+    "translation": "хувьсамтгай, тогтворгүй",
+    "hanja": "流動的",
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "유동하다",
+    "translation": "урсгалдах",
+    "hanja": "流動하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유두",
+    "translation": "хөхний товч",
+    "hanja": "乳頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유두리",
+    "translation": "уян хатан байдал, зохицох чадвар",
+    "hanja": "融通",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유들유들하다",
+    "translation": "уян хатан, зөөлөн",
+    "hanja": null,
+    "pos": "adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "유등",
+    "translation": "усан дэнлүү",
+    "hanja": "流燈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유디",
+    "translation": "Юдит (нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유딩",
+    "translation": "цэцэрлэгийн хүүхэд",
+    "hanja": "유딩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유라시아",
+    "translation": "Еврази",
+    "hanja": "유라시아",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유락",
+    "translation": "амралт зугаалга",
+    "hanja": "遊樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유람",
+    "translation": "аялал",
+    "hanja": "遊覽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유람선",
+    "translation": "зугаалгын завь, усан онгоц",
+    "hanja": "遊覽船",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유람하다",
+    "translation": "аялах, зугаалах",
+    "hanja": "遊覽하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유랑",
+    "translation": "тэнэх",
+    "hanja": "流浪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유랑민",
+    "translation": "нүүдэлчин (Нийгэм)",
+    "hanja": "流浪民",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유랑하다",
+    "translation": "тэнүүчлэх",
+    "hanja": "流浪하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유래",
+    "translation": "гарал үүсэл",
+    "hanja": "由來",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유래되다",
+    "translation": "үүсэх",
+    "hanja": "由來되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "유래하다",
+    "translation": "гарал үүсэлтэй",
+    "hanja": "由來하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유량",
+    "translation": "урсгал",
+    "hanja": "流量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유럽",
+    "translation": "Европ",
+    "hanja": "歐洲",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "유레카",
+    "translation": "эврика",
+    "hanja": "유레카",
+    "pos": "감탄사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유려하다",
+    "translation": "уран гоё, цэвэрхэн",
+    "hanja": "流麗하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유력",
+    "translation": "нөлөөтэй",
+    "hanja": "有力",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유력시되다",
+    "translation": "нэр дэвших",
+    "hanja": "有力視되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유력자",
+    "translation": "нөлөө бүхий хүн",
+    "hanja": "有力者",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유력하다",
+    "translation": "хүчтэй",
+    "hanja": "有力하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유령",
+    "translation": "сүнс",
+    "hanja": "幽靈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유례",
+    "translation": "түүхэн жишээ",
+    "hanja": "類例",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유례없다",
+    "translation": "Урьд өмнө байгаагүй",
+    "hanja": "類例없다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유례없이",
+    "translation": "урьд хожид байгаагүйгээр",
+    "hanja": "類例없이",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유로",
+    "translation": "евро",
+    "hanja": "유로",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "유로뉴스",
+    "translation": "Евроньюс",
+    "hanja": "유로뉴스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유로비전",
+    "translation": "Евровидение дууны тэмцээн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유로스타",
+    "translation": "Евростар (галт тэрэг)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "유로존",
+    "translation": "Евробүс",
+    "hanja": "Eurozone",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유로파",
+    "translation": "Европа (дагуул)",
+    "hanja": "유로파",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유론",
+    "translation": "нейрон",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "유료",
+    "translation": "Төлбөртэй",
+    "hanja": "유료 (有料)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유료화되다",
+    "translation": "төлбөртэй болох",
+    "hanja": "有料化되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "유료화하다",
+    "translation": "хураамжтай болгох",
+    "hanja": "有料化--",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "유루",
+    "translation": "урсгал",
+    "hanja": "遺漏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유류",
+    "translation": "түлш",
+    "hanja": "油類",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유르트",
+    "translation": "Гэр",
+    "hanja": "yurt",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "유리",
+    "translation": "шил",
+    "hanja": "琉璃",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유리그릇",
+    "translation": "Шилэн аяга таваг",
+    "hanja": "琉璃그릇",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유리되다",
+    "translation": "тусгаарлагдах",
+    "hanja": "遊離되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유리문",
+    "translation": "Шилэн хаалга",
+    "hanja": "琉璃門",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유리병",
+    "translation": "Шилэн сав",
+    "hanja": "琉璃甁",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유리수",
+    "translation": "рационал тоо",
+    "hanja": "有理數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유리잔",
+    "translation": "шилэн аяга",
+    "hanja": " yurijan",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "유리창",
+    "translation": "цонхны шил",
+    "hanja": "琉璃窓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유리컵",
+    "translation": "шилэн аяга",
+    "hanja": "琉璃컵",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "유리하다",
+    "translation": "давуу талтай, ашигтай",
+    "hanja": "有利하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유린",
+    "translation": "гишгэх, хөлөөрөө дарах",
+    "hanja": "蹂躪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유린당하다",
+    "translation": "хүчирхийлэгдэх, хөлөөр гишгэгдэх",
+    "hanja": "蹂躪當-",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유린되다",
+    "translation": "Зөрчигдөх, хөсөрдөх, доромжлогдох",
+    "hanja": "蹂躪-",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유린하다",
+    "translation": "хөлөөрөө гишгэх, доромжлох",
+    "hanja": "蹂躪—",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유막",
+    "translation": "тосны давхарга",
+    "hanja": "油膜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유망",
+    "translation": "Ирээдүйтэй, найдвортой",
+    "hanja": "有望",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유망주",
+    "translation": "Ирээдүйтэй залуу тамирчин",
+    "hanja": "有望株",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유망하다",
+    "translation": "ирээдүйтэй",
+    "hanja": "有望하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유머",
+    "translation": "хошин шог",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "유머러스하다",
+    "translation": "наргианч, хошин шогийн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유메",
+    "translation": "мөрөөдөл",
+    "hanja": "ゆめ",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유명",
+    "translation": "алдартай",
+    "hanja": "有名",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "유명무실",
+    "translation": "нэртэй боловч үнэндээ үнэ цэнгүй",
+    "hanja": "有名無實",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유명무실하다",
+    "translation": "нэртэй боловч үнэндээ үр дүн муутай",
+    "hanja": "有名無實하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유명세",
+    "translation": "Нэр хүнд",
+    "hanja": "有名세를",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유명하다",
+    "translation": "алдартай",
+    "hanja": "有名-",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "유모",
+    "translation": "асрагч эх, хүүхэд харагч",
+    "hanja": "乳母",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유모차",
+    "translation": "хүүхдийн тэрэг",
+    "hanja": "乳母車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유목",
+    "translation": "Нүүдэл, нүүдэллэх",
+    "hanja": "遊牧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유목하다",
+    "translation": "нүүдэллэх",
+    "hanja": "遊牧하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유무",
+    "translation": "байгаа эсэх",
+    "hanja": "有無",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유묵",
+    "translation": "Үлдсэн бичээс",
+    "hanja": "遺墨",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "유물",
+    "translation": "үзмэр, дурсгал",
+    "hanja": "遺物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유미",
+    "translation": "үзэсгэлэнтэй",
+    "hanja": "唯美",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유바리",
+    "translation": "Юбари (газарзүйн нэр)",
+    "hanja": "유바리",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유박",
+    "translation": "тостой үлдэгдэл",
+    "hanja": "油粕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유발",
+    "translation": "үүсгэх",
+    "hanja": "誘發",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유발되다",
+    "translation": "үүсэх, өдөөгдөх",
+    "hanja": "誘發되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유발시키다",
+    "translation": "Үүсгэх, бий болгох",
+    "hanja": "誘發시키다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "유발하다",
+    "translation": "үүсгэх",
+    "hanja": "誘發하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "유방",
+    "translation": "Хөх",
+    "hanja": "乳房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유방암",
+    "translation": "Хөхний хавдар",
+    "hanja": "乳房癌",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유배",
+    "translation": "Цөллөг",
+    "hanja": "流配",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유배당하다",
+    "translation": "цөлөгдөх",
+    "hanja": "流配當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유배되다",
+    "translation": "цөлөгдөх, цөллөгт явуулах",
+    "hanja": "流配되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유배지",
+    "translation": "Цөлөгдсөн газар",
+    "hanja": "流配地",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유백",
+    "translation": "Сүүн цагаан",
+    "hanja": "乳白",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유별",
+    "translation": "онцгой",
+    "hanja": "有別",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유별나다",
+    "translation": "Онцгой",
+    "hanja": "類別나다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "유별하다",
+    "translation": "онцгой, өвөрмөц",
+    "hanja": "有別하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유병",
+    "translation": "өвчтэй байх",
+    "hanja": "有病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유보",
+    "translation": "хойшлуулах",
+    "hanja": "留保",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유보되다",
+    "translation": "хойшлогдох",
+    "hanja": "留保되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유보하다",
+    "translation": "хойшлуулах, түр зогсоох",
+    "hanja": "留保하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유복자",
+    "translation": "Өнчин, өнчин хүүхэд (эцэггүй)",
+    "hanja": "遺腹子",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "유복하다",
+    "translation": "баялаг, чинээлэг",
+    "hanja": "有福하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유부",
+    "translation": "гэрлэсэн эмэгтэй",
+    "hanja": "有夫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유부남",
+    "translation": "Гэрлэсэн эрэгтэй",
+    "hanja": "有夫男",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유부녀",
+    "translation": "гэрлэсэн эмэгтэй",
+    "hanja": "有夫女",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유분",
+    "translation": "тосны агууламж",
+    "hanja": "油分",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유분수",
+    "translation": "хэмжээ хязгаар",
+    "hanja": "有分數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유브이",
+    "translation": "хэт ягаан туяа",
+    "hanja": "UV",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유비",
+    "translation": "Бэлтгэл",
+    "hanja": "有備",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유비무환",
+    "translation": "бэлтгэлтэй бол аюул үгүй",
+    "hanja": "有備無患",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유비쿼터스",
+    "translation": "бүх газарт байгаа",
+    "hanja": "Ubiquitous",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유빙",
+    "translation": "хөвөгч мөс",
+    "hanja": "流氷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유사",
+    "translation": "төстэй",
+    "hanja": "類似",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유사성",
+    "translation": "ижил төстэй байдал",
+    "hanja": "類似性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유사시",
+    "translation": "онцгой байдал",
+    "hanja": "有事時",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유사점",
+    "translation": "ижил төстэй тал",
+    "hanja": "類似點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유사품",
+    "translation": "хуурамч бүтээгдэхүүн",
+    "hanja": "類似品",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유사하다",
+    "translation": "төстэй, адил төстэй",
+    "hanja": "類似하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유산",
+    "translation": "Өв",
+    "hanja": "遺産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유산균",
+    "translation": "сүүний хүчлийн бактери",
+    "hanja": "乳酸菌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유산되다",
+    "translation": "үр хөндөх, үр дүнгүй болох",
+    "hanja": "流産되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유산하다",
+    "translation": "Үр хөндүүлэх, зулбах",
+    "hanja": "流産하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유상",
+    "translation": "Төлбөртэй",
+    "hanja": "有償",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유색",
+    "translation": "өнгөт",
+    "hanja": "有色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유생",
+    "translation": "сургуулийн сурагч (хуучин)",
+    "hanja": "儒生",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유서",
+    "translation": "Гэрээслэл",
+    "hanja": "遺書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유석",
+    "translation": "үлдэгдэл, хадны зүүлт",
+    "hanja": "遺石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유선",
+    "translation": "утас",
+    "hanja": "有線",
+    "pos": "мüns",
+    "cefr": "B1"
+  },
+  {
+    "word": "유선형",
+    "translation": "Урсгал шугамтай хэлбэр",
+    "hanja": "流線形",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유설",
+    "translation": "үлдсэн домог",
+    "hanja": "遺說",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유성룡",
+    "translation": "Ю Соннён (хүний нэр)",
+    "hanja": "柳成龍",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "유세",
+    "translation": "ухуулга, сурталчилгаа",
+    "hanja": "遊說",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유세차",
+    "translation": "учир шалтгаан",
+    "hanja": "有勢次",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "유세하다",
+    "translation": "Сурталчлах",
+    "hanja": "遊說하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유소년",
+    "translation": "хүүхэд нас",
+    "hanja": "幼少年",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유속",
+    "translation": "урсгалын хурд",
+    "hanja": "流速",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유수",
+    "translation": "Урсгал ус",
+    "hanja": "流水",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유수하다",
+    "translation": "улиран өнгөрөх, урсах",
+    "hanja": "流逝하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유숙하다",
+    "translation": "Хоноглох",
+    "hanja": "留宿하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "유순하다",
+    "translation": "зөөлөн",
+    "hanja": "柔順하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유스이",
+    "translation": "Урсгал ус",
+    "hanja": "流水",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유시",
+    "translation": "хүсэн таних, сэжиглэх",
+    "hanja": "喩示",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유식",
+    "translation": "мэдлэгтэй, боловсролтой",
+    "hanja": "有識",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유식하다",
+    "translation": "мэдлэгтэй, боловсролтой",
+    "hanja": "有識-",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "유실",
+    "translation": "Алдсан",
+    "hanja": "流失",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유실되다",
+    "translation": "үрэгдэх",
+    "hanja": "遺失되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유실물",
+    "translation": "гэмтсэн, алга болсон эд зүйл",
+    "hanja": "遺失物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유심",
+    "translation": "сэтгэц",
+    "hanja": "唯心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유심하다",
+    "translation": "Анхааралтай байх, санаж явах",
+    "hanja": "有心하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유심히",
+    "translation": "анхааралтай",
+    "hanja": "留意히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유씨",
+    "translation": "Ю овогтой хүн",
+    "hanja": "柳氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유아",
+    "translation": "нярай",
+    "hanja": "乳兒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유아복",
+    "translation": "хүүхдийн хувцас",
+    "hanja": "乳兒服",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유아원",
+    "translation": "цэцэрлэг",
+    "hanja": "幼兒園",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유압",
+    "translation": "гидравлик",
+    "hanja": "油壓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유액",
+    "translation": "сүүний шингэн, сүүн шүүс",
+    "hanja": "乳液",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유야",
+    "translation": "Юяа (нэр)",
+    "hanja": "유야",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유야무야",
+    "translation": "замхрах, үгүй болгох",
+    "hanja": "有耶無耶",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유야무야되다",
+    "translation": "үгүй болох, замхрах",
+    "hanja": "有耶無耶되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유약",
+    "translation": "эмзэг",
+    "hanja": "柔弱",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유약하다",
+    "translation": "Сульдах, сул дорой",
+    "hanja": "柔弱하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유언",
+    "translation": "гэрээслэл, захиас",
+    "hanja": "遺言",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유언비어",
+    "translation": "Цуу яриа",
+    "hanja": "流言蜚語",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유언장",
+    "translation": "Гэрээслэл",
+    "hanja": "遺言狀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유언하다",
+    "translation": "гэрээслэл үлдээх",
+    "hanja": "遺言-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유업",
+    "translation": "сүүний бүтээгдэхүүн",
+    "hanja": "乳業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유에",
+    "translation": "Юэ (нэр)",
+    "hanja": "유에",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유에스",
+    "translation": "АНУ",
+    "hanja": "US",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "유에스비",
+    "translation": "USB",
+    "hanja": "USB",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "유에프오",
+    "translation": "ОУН, Нисэгч танихгүй объект",
+    "hanja": "UFO",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유엔",
+    "translation": "НҮБ",
+    "hanja": "UN",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유엔군",
+    "translation": "НҮБ-ын цэрэг",
+    "hanja": "UN軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유역",
+    "translation": "Сав газар",
+    "hanja": "流域",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유연",
+    "translation": "уян хатан",
+    "hanja": "柔軟",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "유연성",
+    "translation": "уян хатан чанар",
+    "hanja": "柔軟性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유연탄",
+    "translation": "хийн нүүрс, bituminous coal",
+    "hanja": "有煙炭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유연하다",
+    "translation": "уян хатан",
+    "hanja": "柔軟하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유연히",
+    "translation": "уян хатан",
+    "hanja": "悠然히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유열",
+    "translation": "хөгжилтэй байдал",
+    "hanja": "愉悅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유영",
+    "translation": "сэлэх, сэлэлт",
+    "hanja": "游泳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유영하다",
+    "translation": "хөвөх",
+    "hanja": "游泳하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유예",
+    "translation": "Хойшлуулах",
+    "hanja": "猶豫",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "유예되다",
+    "translation": "хойшлогдох",
+    "hanja": "猶豫되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유예하다",
+    "translation": "хойшлуулах, хугацаа сунгах",
+    "hanja": "猶豫하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유용",
+    "translation": "зүй зохистой ашиглах, дээрэмдэх",
+    "hanja": "流用",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유용성",
+    "translation": "Хэрэгцээ",
+    "hanja": "有用性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유용하다",
+    "translation": "ашигтай, хэрэгтэй",
+    "hanja": "有用하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "유우",
+    "translation": "сүүн үнээ",
+    "hanja": "乳牛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유원",
+    "translation": "урт удаан хугацаа",
+    "hanja": "悠遠",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유원지",
+    "translation": "Зугаа цэнгээний газар",
+    "hanja": "遊園地",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유월",
+    "translation": "зургадугаар сар",
+    "hanja": "六月",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "유위",
+    "translation": "оролцоотой",
+    "hanja": "유위(有爲)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유유",
+    "translation": "чөлөөтэй сэлэх",
+    "hanja": "悠悠",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유유상종",
+    "translation": "ижил төрлийн хүмүүс нэгдэх",
+    "hanja": "類類相從",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유유자적",
+    "translation": "тайван амьдрах",
+    "hanja": "悠悠自適",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유유자적하다",
+    "translation": "ердийн",
+    "hanja": "悠悠自適하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유유하다",
+    "translation": "чөлөөтэй",
+    "hanja": "悠悠하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유유히",
+    "translation": "тайван, намуухан",
+    "hanja": "悠悠히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유의",
+    "translation": "анхаарах, харгалзах",
+    "hanja": "留意",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유의미하다",
+    "translation": "утга учиртай, ач холбогдолтой",
+    "hanja": "有意味-",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유의어",
+    "translation": "ойролцоо утгатай үг",
+    "hanja": "類義語",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유의하다",
+    "translation": "анхаарах",
+    "hanja": "留意하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유이하다",
+    "translation": "зөвхөн нэг байх",
+    "hanja": "唯一하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유익",
+    "translation": "үр ашигтай",
+    "hanja": "有益",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유익하다",
+    "translation": "ашигтай, үр өгөөжтэй",
+    "hanja": "有益하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "유인",
+    "translation": "татгалзсан, урхидсан",
+    "hanja": "誘引",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유인되다",
+    "translation": "уруу татагдах",
+    "hanja": "誘引되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유인물",
+    "translation": "тараах материал",
+    "hanja": "誘引物",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "유인원",
+    "translation": "хүн дүрстэй сармагчин",
+    "hanja": "類人猿",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유인하다",
+    "translation": "татах",
+    "hanja": "誘引하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유일",
+    "translation": "ганц",
+    "hanja": "唯一",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유일무이",
+    "translation": "ганц, давтагдашгүй",
+    "hanja": "唯一無二",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유일무이하다",
+    "translation": "ганц биетэй",
+    "hanja": "唯一無二하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유일신",
+    "translation": "ганц бурхан",
+    "hanja": "唯一神",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유일하다",
+    "translation": "ганц, цорын ганц",
+    "hanja": "唯一하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유임",
+    "translation": "албан тушаалтай үлдэх",
+    "hanja": "留任",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유임되다",
+    "translation": "үүрэгт ажлаа үргэлжлүүлэх",
+    "hanja": "留任되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유임하다",
+    "translation": "Албан тушаалдаа үлдэх",
+    "hanja": "留任하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "유입",
+    "translation": "урсгал",
+    "hanja": "流入",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유입되다",
+    "translation": "Урсгал орох",
+    "hanja": "流入되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "유입하다",
+    "translation": "Урсгал орох/цутгах",
+    "hanja": "流入하다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "유잉",
+    "translation": "хөдөлгөөнд орох",
+    "hanja": "儒英",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유자",
+    "translation": "үндсэн ашиглагч",
+    "hanja": "柚子",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유자차",
+    "translation": "шохойны цай",
+    "hanja": "柚子茶",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유작",
+    "translation": "нас барсны дараах бүтээл",
+    "hanja": "遺作",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유장",
+    "translation": "урт",
+    "hanja": "悠長",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유재하다",
+    "translation": "авъяастай байх",
+    "hanja": "有才하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유저",
+    "translation": "хэрэглэгч",
+    "hanja": "user",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유적",
+    "translation": "дурсгал",
+    "hanja": "遺跡",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유적지",
+    "translation": "түүхийн дурсгалт газар",
+    "hanja": "遺跡地",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "유전",
+    "translation": "удамшил",
+    "hanja": "遺傳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유전되다",
+    "translation": "удамших",
+    "hanja": "遺傳되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "유전병",
+    "translation": "удамшлын өвчин",
+    "hanja": "遺傳病",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유전자",
+    "translation": "ген, удамшил",
+    "hanja": "遺傳子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유전적",
+    "translation": "удамшлын",
+    "hanja": "遺傳的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유전하다",
+    "translation": "удамших",
+    "hanja": "遺傳하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유전학",
+    "translation": "Удамшлын шинжлэх ухаан",
+    "hanja": "遺傳學",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유제",
+    "translation": "үлдэгдэл",
+    "hanja": "遺題",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유제품",
+    "translation": "сүү, сүүн бүтээгдэхүүн",
+    "hanja": "乳製品",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "유조",
+    "translation": "нефтийн",
+    "hanja": "油槽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유조선",
+    "translation": "газрын тос тээвэрлэгч хөлөг онгоц",
+    "hanja": "油槽船",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유조차",
+    "translation": "шатахуун тээвэрлэгч",
+    "hanja": "油槽車",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유족",
+    "translation": "хохирогчдын гэр бүл, эцэг эх",
+    "hanja": "遺族",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유종",
+    "translation": "Төгсгөл",
+    "hanja": "有終",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유죄",
+    "translation": "гэм буруутай",
+    "hanja": "有罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유주택자",
+    "translation": "байшин эзэмшигч",
+    "hanja": "有住宅者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유증",
+    "translation": "гэрээслэлээр үлдээх",
+    "hanja": "遺贈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유지",
+    "translation": "Харуулах, хадгалах",
+    "hanja": "維持",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유지되다",
+    "translation": "хадгалагдах",
+    "hanja": "維持되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유지류",
+    "translation": "Тос, өөхний төрөл",
+    "hanja": "油脂類",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유지방",
+    "translation": "сүүний тос",
+    "hanja": "乳脂肪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유지비",
+    "translation": "засварын зардал",
+    "hanja": "維持費",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유지어터",
+    "translation": "жин баригч",
+    "hanja": "유지어터",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유지하다",
+    "translation": "Хагaлах",
+    "hanja": "維持하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "유차",
+    "translation": "шатлалаа алдах, он дамжих (шалгалтад)",
+    "hanja": "留差",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유착",
+    "translation": "наалдах, наалт",
+    "hanja": "癒着",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유착되다",
+    "translation": "наалдах",
+    "hanja": "癒着되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "유착하다",
+    "translation": "харилцаа тогтоох",
+    "hanja": "癒着하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "유찰",
+    "translation": "Худалдан борлуулалт цуцлагдах",
+    "hanja": "流札",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유찰되다",
+    "translation": "худалдагдахгүй байх, цуцлагдах",
+    "hanja": "流札되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유창",
+    "translation": "чөлөөтэй",
+    "hanja": "流暢",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유창성",
+    "translation": "урсгал",
+    "hanja": "流暢性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유창하다",
+    "translation": "чөлөөтэй ярих",
+    "hanja": "流暢하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유채",
+    "translation": "рапс, усан будаг",
+    "hanja": "油菜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유채색",
+    "translation": "өнгийн өнгө",
+    "hanja": "有彩色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유책",
+    "translation": "буруутай",
+    "hanja": "有責",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유척",
+    "translation": "зэс хэмжүүр (эртний)",
+    "hanja": "鍮尺",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유청",
+    "translation": "Ээдэм",
+    "hanja": "乳淸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "translation": "бие",
+    "hanja": "流體",
+    "pos": "명사",
+    "cefr": "C2",
+    "word": "유체"
+  },
+  {
+    "word": "유추",
+    "translation": "аналоги",
+    "hanja": "類推",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유추되다",
+    "translation": "аналогиор дүгнэгдэх",
+    "hanja": "類推되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유추하다",
+    "translation": "Дүгнэх, таамаглах",
+    "hanja": "類推하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유축",
+    "translation": "хөхүүлэх",
+    "hanja": "乳畜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유출",
+    "translation": "Алга болох, урсах",
+    "hanja": "流出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유출되다",
+    "translation": "Алга болох",
+    "hanja": "流出되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "유출하다",
+    "translation": "Алдах, задруулах",
+    "hanja": "流出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유충",
+    "translation": "Авгалдай",
+    "hanja": "幼蟲",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유치",
+    "translation": "хүүхэд шиг, боловсролгүй",
+    "hanja": "幼稚",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유치되다",
+    "translation": "Холбогдох",
+    "hanja": "誘致되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유치원",
+    "translation": "цэцэрлэг",
+    "hanja": "幼稚園",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유치원생",
+    "translation": "Цэцэрлэгийн хүүхэд",
+    "hanja": "幼稚園生",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "유치장",
+    "translation": "баривчлах байр, түр хорих газар",
+    "hanja": "留置場",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유치찬란하다",
+    "translation": "хүүхдийн тоглоом мэт гялалзах",
+    "hanja": "幼稚燦爛하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유치하다",
+    "translation": "татгасан",
+    "hanja": "幼稚하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유카",
+    "translation": "юукка",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유카와",
+    "translation": "Юкава (хүн)",
+    "hanja": "湯川",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유카타",
+    "translation": "юката",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유칼립투스",
+    "translation": "эвкалипт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유커",
+    "translation": "Хятад жуулчин",
+    "hanja": "游客",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유쾌",
+    "translation": "хөгжилтэй, таатай",
+    "hanja": "愉快",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유쾌하다",
+    "translation": "хөгжилтэй",
+    "hanja": "愉快-",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유클리드",
+    "translation": "Эвклид",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유타",
+    "translation": "Юта",
+    "hanja": "Utah",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "유탄",
+    "translation": "төөрсөн сум",
+    "hanja": "流彈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유턴",
+    "translation": "буцаж эргэх",
+    "hanja": "U-turn",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유턴하다",
+    "translation": "U эргэлт хийх",
+    "hanja": "U-turn하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유토",
+    "translation": "утопи, хөдөлгөөнт дүрсний шавар",
+    "hanja": "유토",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유토피아",
+    "translation": "Утопи",
+    "hanja": "Utopia",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유통",
+    "translation": "худалдаа",
+    "hanja": "流通",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유통되다",
+    "translation": "эргэлтэд орох, худалдаалагдах",
+    "hanja": "流通되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유통망",
+    "translation": "худалдааны сүлжээ",
+    "hanja": "流通網",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유통하다",
+    "translation": "хуваарилах",
+    "hanja": "流通-",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "유티",
+    "translation": "Юүти",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유틸",
+    "translation": "хэрэглээ",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유틸리티",
+    "translation": "ашиглалт, хэрэглээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유파",
+    "translation": "урсгал, чиглэл",
+    "hanja": "流派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유폐",
+    "translation": "хорих, тусгаарлах",
+    "hanja": "幽閉",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유폐되다",
+    "translation": "хоригдох, тусгаарлагдах",
+    "hanja": "幽閉되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유폐하다",
+    "translation": "түгжих, хорих",
+    "hanja": "幽閉하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유포",
+    "translation": "тархах, түгээх",
+    "hanja": "流布",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유포되다",
+    "translation": "тархах, түгэх",
+    "hanja": "流布-되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "유포리아",
+    "translation": "эуфориа (хэт баяр баясгалан)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유포하다",
+    "translation": "Түгээх, тараах",
+    "hanja": "流布하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유표",
+    "translation": "төөрсөн тэмдэг",
+    "hanja": "遺票",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유품",
+    "translation": "дурсгалын зүйл",
+    "hanja": "遺品",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유프라테스강",
+    "translation": "Евфрат мөрөн",
+    "hanja": "유프라테스江",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유피",
+    "translation": "Юпи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유피테르",
+    "translation": "Юпитер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유하다",
+    "translation": "зөөлөн",
+    "hanja": "유하다(柔하다)",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유학",
+    "translation": "Гадаадад сурах",
+    "hanja": "留學",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유학생",
+    "translation": "Оюутан",
+    "hanja": "留學生",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "유학하다",
+    "translation": "гадаадад сурах",
+    "hanja": "留學하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유한하다",
+    "translation": "хязгаартай",
+    "hanja": "有限-하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "유합",
+    "translation": "нэгдэл, нэгдэх",
+    "hanja": "癒合",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유해",
+    "translation": "хортой, аюултай",
+    "hanja": "有害",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유행",
+    "translation": "Загвар",
+    "hanja": "流行",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "유행가",
+    "translation": "поп дуу",
+    "hanja": "流行歌",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "유행되다",
+    "translation": "Моодонд орох, тархах",
+    "hanja": "流行되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유행병",
+    "translation": "халдварт өвчин",
+    "hanja": "流行病",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "유행성",
+    "translation": "Тархалттай, дэлгэрсэн",
+    "hanja": "流行性",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유행어",
+    "translation": "Түгээмэл үг",
+    "hanja": "流行語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유행하다",
+    "translation": "моодонд орох, дэлгэрэх",
+    "hanja": "流行하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "유향",
+    "translation": "Ладан",
+    "hanja": "乳香",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "유혈",
+    "translation": "цустай, цус урсах",
+    "hanja": "流血",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유협",
+    "translation": "баатарлаг журам",
+    "hanja": "遊俠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유형",
+    "translation": "төрөл",
+    "hanja": "類型",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유형원",
+    "translation": "Ю Хён-вон (хүний нэр)",
+    "hanja": "柳馨遠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유혹",
+    "translation": "уруу татах",
+    "hanja": "誘惑",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "유혹당하다",
+    "translation": "уруу татагдах",
+    "hanja": "誘惑當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유혹되다",
+    "translation": "Уруу татагдах",
+    "hanja": "誘惑되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "유혹적",
+    "translation": "уруу татсан, сэтгэл татам",
+    "hanja": "誘惑的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유혹하다",
+    "translation": "уруу татах",
+    "hanja": "誘惑하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유화",
+    "translation": "тосон зураг",
+    "hanja": "油畫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유화되다",
+    "translation": "тослог болох",
+    "hanja": "乳化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유황",
+    "translation": "хүхэр",
+    "hanja": "硫黃",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유회",
+    "translation": "зэвсэг цугларах",
+    "hanja": "遊會",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "유효",
+    "translation": "хүчинтэй",
+    "hanja": "有效",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유효하다",
+    "translation": "хүчинтэй байх",
+    "hanja": "有效─",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유후",
+    "translation": "их, өргөн",
+    "hanja": "悠悠",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유훈",
+    "translation": "гэрээслэл, сургаал",
+    "hanja": "遺訓",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유휴",
+    "translation": "ашиглагдаагүй, чөлөөтэй",
+    "hanja": "遊休",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유흥",
+    "translation": "Зугаа цэнгэл, зугаацах",
+    "hanja": "遊興",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유흥가",
+    "translation": "зугаа цэнгээний гудамж",
+    "hanja": "遊興街",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "유흥비",
+    "translation": "зугаа цэнгэлийн зардал",
+    "hanja": "遊興費",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유흥업",
+    "translation": "зугаа цэнгээний үйлдвэрлэл",
+    "hanja": "遊興業",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "유흥업소",
+    "translation": "Үзвэр үйлчилгээний газар",
+    "hanja": "遊興業所",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유희",
+    "translation": "тоглоом",
+    "hanja": "遊戲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유희적",
+    "translation": "тоглоомын, зугаа цэнгэлийн",
+    "hanja": "遊戱的",
+    "pos": "관형사",
+    "cefr": "C1"
+  }
+]

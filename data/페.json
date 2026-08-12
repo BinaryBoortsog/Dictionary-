@@ -1,0 +1,786 @@
+[
+  {
+    "word": "페",
+    "translation": "паул, феллон",
+    "hanja": "페",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페가수스",
+    "translation": "Пегас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페그",
+    "translation": "пег",
+    "hanja": "페그",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페깅",
+    "translation": "Пеггинг (шууд орчуулга байхгүй)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페낭",
+    "translation": "Пенанг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페널티",
+    "translation": "Торгууль",
+    "hanja": "페널티",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페넬로페",
+    "translation": "Пенелопа",
+    "hanja": "Penelope",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페놀",
+    "translation": "фенол",
+    "hanja": "페놀",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "페놀프탈레인",
+    "translation": "фенолфталеин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페니",
+    "translation": "Пенни",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "페니실린",
+    "translation": "пенициллин",
+    "hanja": "penicillin",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "페니키아",
+    "translation": "Финик",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페다",
+    "translation": "цохих",
+    "hanja": "N/A",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "페달",
+    "translation": "педаль",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페달링",
+    "translation": "Дөрөө эргүүлэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페데리코",
+    "translation": "Федерико",
+    "hanja": "페데리코",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "페도라",
+    "translation": "федора малгай",
+    "hanja": "Fedora",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페디큐어",
+    "translation": "Педикюр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페라가모",
+    "translation": "Феррагамо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페라리",
+    "translation": "Феррари",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "페라이트",
+    "translation": "феррит",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페럿",
+    "translation": "суманд (амьтан)",
+    "hanja": "Ferret",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페레",
+    "translation": "ферре",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "페로",
+    "translation": "төмөр (гадаргуугийн нэрлэж буй)",
+    "hanja": null,
+    "pos": "명사 (외래어)",
+    "cefr": "C1"
+  },
+  {
+    "word": "페로몬",
+    "translation": "феромон",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페루",
+    "translation": "Перу",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페루자",
+    "translation": "Перужа (хот)",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페르디난트",
+    "translation": "Фердинанд (хүний нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페르마",
+    "translation": "Ферма",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "페르메이르",
+    "translation": "Вермеер",
+    "hanja": "페르메이르",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페르미",
+    "translation": "Ферми",
+    "hanja": "페르미",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페르세우스",
+    "translation": "Персей (одны орд)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페르세포네",
+    "translation": "Персефон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페르소나",
+    "translation": "Персона",
+    "hanja": "페르소나",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페르시아",
+    "translation": "Перс",
+    "hanja": "페르시아",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페리",
+    "translation": "Гарам, усан онгоц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페리윙클",
+    "translation": "перивинкл (загас)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "페리클레스",
+    "translation": "Перикл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페미",
+    "translation": "феминист",
+    "hanja": "femme",
+    "pos": "м.н./т.ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "페미니스트",
+    "translation": "Феминист",
+    "hanja": "페미니스트",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페미니즘",
+    "translation": "феминизм",
+    "hanja": "페미니즘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페미컨",
+    "translation": "Пеммикан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페브르",
+    "translation": "Февр",
+    "hanja": "페브르",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페산",
+    "translation": "Хаягдал уул",
+    "hanja": "廢山",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페샤와르",
+    "translation": "Пешавар (хот)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페소",
+    "translation": "песо",
+    "hanja": "페소",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "페스",
+    "translation": "фесс",
+    "hanja": "페스",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "페스츄리",
+    "translation": "зуурмаг",
+    "hanja": "pastry",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "페스탈로치",
+    "translation": "Песталоцчи (хүний нэр)",
+    "hanja": "페스탈로치",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페스트",
+    "translation": "тархалт",
+    "hanja": "pest",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페스티발",
+    "translation": "фестивал",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "페스티벌",
+    "translation": "фестиваль",
+    "hanja": "festival",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페시",
+    "translation": "Пеши",
+    "hanja": "페시",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "페어",
+    "translation": "хос; үзэсгэлэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페어런트",
+    "translation": "Эцэг эх",
+    "hanja": null,
+    "pos": "Нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "페어링",
+    "translation": "холбох, хослуулах",
+    "hanja": "pairing",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "페어뱅크스",
+    "translation": "Фэрбенкс (хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페어웨이",
+    "translation": "гольфийн талбай",
+    "hanja": null,
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "페오멜라닌",
+    "translation": "Феомеланин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페이",
+    "translation": "цалин хөлс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페이드",
+    "translation": "Унтрах",
+    "hanja": "Fade",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페이드아웃",
+    "translation": "феед-аут (дуу намдах)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페이딩",
+    "translation": "Уналт (дохионы)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페이로드",
+    "translation": "ачаа (payload)",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페이버",
+    "translation": "Дэмжлэг, таалал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페이소스",
+    "translation": "Патхос, эмгэнэл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페이스",
+    "translation": "хурд, алхам",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페이스메이커",
+    "translation": "пеисмейкер (зүрхний хэмнэл зохицуулагч)",
+    "hanja": "ペースメーカー",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페이스오프",
+    "translation": "нүүр царай өөрчлөх мэс засал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페이스트",
+    "translation": "зуурмаг",
+    "hanja": "paste",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페이스트리",
+    "translation": "нарийн боов",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "페이슨",
+    "translation": "Фэйсон (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페이시스트라토스",
+    "translation": "Писистрат",
+    "hanja": "페이시스트라토스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페이싱",
+    "translation": "алхалт, хурд тохируулга",
+    "hanja": "pacing",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페이저",
+    "translation": "пейжер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페이즈",
+    "translation": "үе шат",
+    "hanja": "phase",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "페이즐리",
+    "translation": "пэйсли хээ",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "페이지",
+    "translation": "хуудас",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "페이크",
+    "translation": "хуурамч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페이터",
+    "translation": "Патер",
+    "hanja": "Pater",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페이파",
+    "translation": "Пэйпа (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페이퍼백",
+    "translation": "зөөлөн хавтастай ном",
+    "hanja": "페이퍼백",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페인",
+    "translation": "Өвдөлт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페인터",
+    "translation": "зураач",
+    "hanja": "페인터",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페인트",
+    "translation": "Будаг",
+    "hanja": "페인트",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페인트칠",
+    "translation": "будах, өнгөлөх",
+    "hanja": "Paint漆",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "페인트칠하다",
+    "translation": "будах",
+    "hanja": "NaN",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "페인팅",
+    "translation": "зураг, будаг",
+    "hanja": "painting",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페일에일",
+    "translation": "цайвар алей",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페잔",
+    "translation": "Фезан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페즈",
+    "translation": "Фес малгай",
+    "hanja": "페즈",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "페치",
+    "translation": "феи (нэр)",
+    "hanja": "페치",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페키니즈",
+    "translation": "пекин нохой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페타",
+    "translation": "Пета",
+    "hanja": "페타",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페탕크",
+    "translation": "петанк",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "페테르부르크",
+    "translation": "Петербург",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페투치니",
+    "translation": "Феттучини (хоол)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "페튜니아",
+    "translation": "петуни (цэцэг)",
+    "hanja": "Petunia",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "페트",
+    "translation": "ПЭТ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페트라",
+    "translation": "Петра",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "페트라르카",
+    "translation": "Петрарка",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": null
+  },
+  {
+    "word": "페트병",
+    "translation": "хуванцар сав",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "페티",
+    "translation": "феттиш",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "페티시",
+    "translation": "фетиш",
+    "hanja": "페티시",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페티시즘",
+    "translation": "фетишизм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "페티코트",
+    "translation": "дотуур юбка",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페퍼",
+    "translation": "Перец",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "페퍼로니",
+    "translation": "Пепперони",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "페퍼민트",
+    "translation": "Перементин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "페플럼",
+    "translation": "Пеплум (хувцасны хэв маяг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "페하",
+    "translation": "уналт",
+    "hanja": "폐하",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "페히슈타인",
+    "translation": "Пехштейн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

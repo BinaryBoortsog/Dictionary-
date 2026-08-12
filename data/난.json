@@ -1,0 +1,702 @@
+[
+  {
+    "word": "난",
+    "translation": "би",
+    "hanja": "나",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "난간",
+    "translation": "хашлага",
+    "hanja": "欄干",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "난감하다",
+    "translation": "Эвгүй байдалд орох",
+    "hanja": "難堪하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "난계",
+    "translation": "Намгт, налуу газар",
+    "hanja": "蘭溪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난공불락",
+    "translation": "эзлэгдэшгүй",
+    "hanja": "難攻不落",
+    "pos": "тодорхойлогч",
+    "cefr": "C1"
+  },
+  {
+    "word": "난관",
+    "translation": "бэрхшээл",
+    "hanja": "難關",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난교",
+    "translation": "бүлэглэсэн секс",
+    "hanja": "亂交",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "난국",
+    "translation": "Хүнд байдал",
+    "hanja": "難局",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난금",
+    "translation": "хориглох",
+    "hanja": "難禁",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "난기류",
+    "translation": "Тэнгисийн агаар",
+    "hanja": "亂氣流",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난나",
+    "translation": "Нанна (нэрийг хөрвүүлэх)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난닝",
+    "translation": "Наньнин",
+    "hanja": "난닝",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "난닝구",
+    "translation": "майк, футболк",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "난다",
+    "translation": "нисдэг",
+    "hanja": "날다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "난데없다",
+    "translation": "гэнэтийн, санаандгүй",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난데없이",
+    "translation": "гэнэт",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난도",
+    "translation": "хүндрэл",
+    "hanja": "難度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난도질",
+    "translation": "огтолж тасдах",
+    "hanja": "亂刀질",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "난도질하다",
+    "translation": "хэрчих",
+    "hanja": "亂刀질하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난독증",
+    "translation": "унших, бичих чадваргүй",
+    "hanja": "難讀症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난동",
+    "translation": "үймээн самуун",
+    "hanja": "亂動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난두",
+    "translation": "сагс",
+    "hanja": "籃頭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난로",
+    "translation": "Зуух",
+    "hanja": "暖爐",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "난롯가",
+    "translation": "Зуухны хажуу",
+    "hanja": "煖爐가",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "난롯불",
+    "translation": "Зуухны гал",
+    "hanja": "난롯불",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "난류",
+    "translation": "дулаан урсгал",
+    "hanja": "暖流",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "난리",
+    "translation": "Эмх замбараагүй байдал",
+    "hanja": "亂離",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "난리하다",
+    "translation": "үймүүлэх, эмх замбараагүй байдал үүсгэх",
+    "hanja": "亂離하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난립",
+    "translation": "эмх замбараагүй байх",
+    "hanja": "亂立",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "난립하다",
+    "translation": "эмх замбараагүй байх, олноор орших",
+    "hanja": "亂立하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난망하다",
+    "translation": "мартагдашгүй",
+    "hanja": "難忘하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난맥",
+    "translation": "ээдрээтэй байдал",
+    "hanja": "亂脈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난무",
+    "translation": "эгзэгтэй бүжиг",
+    "hanja": "亂舞",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난무하다",
+    "translation": "замбараагүй тархах",
+    "hanja": "亂舞하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난민",
+    "translation": "Дүрвэгч",
+    "hanja": "難民",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난민촌",
+    "translation": "дүрвэгсдийн хуаран",
+    "hanja": "難民村",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "난방",
+    "translation": "халаалт",
+    "hanja": "暖房",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "난봉",
+    "translation": "заваан явдал, хэрүүл тэмцэл, дайн",
+    "hanja": "亂棒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난봉꾼",
+    "translation": "садарлагч, завхайрал",
+    "hanja": "亂奉꾼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난부",
+    "translation": "өмнөд хэсэг",
+    "hanja": "南部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난사",
+    "translation": "Хамаагүй буудах",
+    "hanja": "亂射",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난사하다",
+    "translation": "буудаж самуурах",
+    "hanja": "난사(亂射)하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난산",
+    "translation": "хүнд хүүхэд төрөх",
+    "hanja": "難産",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난삽하다",
+    "translation": "ойлгомжгүй байх",
+    "hanja": "難澁하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "난상",
+    "translation": "Эмх замбараагүй байдал",
+    "hanja": "亂象",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난색",
+    "translation": "бараан өнгө, бэрхшээл",
+    "hanja": "難色",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "난생",
+    "translation": "хэзээ ч анх удаа",
+    "hanja": "濫生",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "난생처음",
+    "translation": "анх удаагаа",
+    "hanja": "亂生처음",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "난석",
+    "translation": "сайн чулуу",
+    "hanja": "蘭石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난세",
+    "translation": "эрхэмсэг цаг үе",
+    "hanja": "亂世",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "난센스",
+    "translation": "утгагүй зүйл",
+    "hanja": "nonsense",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난소",
+    "translation": "өндгөвч",
+    "hanja": "卵巢",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "난수",
+    "translation": "санамсаргүй тоо",
+    "hanja": "亂數",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "난수표",
+    "translation": "Санамсаргүй тооны хүснэгт",
+    "hanja": "亂數表",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난시",
+    "translation": "Нарны гэрэл (үүр шөнө)",
+    "hanja": "難視",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "난쏘공",
+    "translation": "Тэнэг мэт цохилуулах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난양",
+    "translation": "Өмнөд тэнгис",
+    "hanja": "南洋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난이도",
+    "translation": "хүндрэл",
+    "hanja": "難易度",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "난임",
+    "translation": "үр тогтохгүй байх, хүүхэдгүй байх",
+    "hanja": "難姙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난입",
+    "translation": "Гэнэт орох",
+    "hanja": "亂入",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난입하다",
+    "translation": "шууд орох",
+    "hanja": "亂入하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난자",
+    "translation": "Өндгөн эс",
+    "hanja": "卵子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난자당하다",
+    "translation": "Хүчирхийлүүлэх",
+    "hanja": "亂刺當하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "난자완스",
+    "translation": "Наньжауаньсы",
+    "hanja": "獅子頭",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "난자하다",
+    "translation": "дур мэдэн цавчих",
+    "hanja": "亂刺하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난잡하다",
+    "translation": "Замбараагүй, эмх замбараагүй",
+    "hanja": "亂雜하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난장",
+    "translation": "эмх замбараагүй байдал",
+    "hanja": "亂場",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난장이",
+    "translation": "одой хүн",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "난장판",
+    "translation": "замбараагүй байдал",
+    "hanja": "난장판",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난쟁이",
+    "translation": "одой",
+    "hanja": "난쟁이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "난적",
+    "translation": "хэцүү дайсан, хүчтэй өрсөлдөгч",
+    "hanja": "難敵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난전",
+    "translation": "багуулсан",
+    "hanja": "亂戰",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "난점",
+    "translation": "бэрхшээлтэй цэг",
+    "hanja": "難點",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난제",
+    "translation": "хэцүү асуудал, бэрхшээл",
+    "hanja": "難題",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난조",
+    "translation": "хямрал",
+    "hanja": "亂調",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난주",
+    "translation": "сайн дураараа уух архи",
+    "hanja": "濫酒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난중",
+    "translation": "дайны дунд",
+    "hanja": "亂中",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "난중일기",
+    "translation": "дайны өдрийн тэмдэглэл (Ли Сүн-Шинийх)",
+    "hanja": "亂中日記",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난지도",
+    "translation": "Нанжиду (хогийн цэг байсан газар)",
+    "hanja": "蘭芝島",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난징",
+    "translation": "Нанжин (хот)",
+    "hanja": "南京",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "난처하다",
+    "translation": "хүнд байдалд орох",
+    "hanja": "難處하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난청",
+    "translation": "Сонсголын бэрхшээл",
+    "hanja": "難聽",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "난초",
+    "translation": "орхидей цэцэг",
+    "hanja": "蘭草",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "난치병",
+    "translation": "эдгэшгүй өвчин",
+    "hanja": "難治病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난타",
+    "translation": "цохилт",
+    "hanja": "亂打",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난타전",
+    "translation": "ширүүн тулаан",
+    "hanja": "亂打戰",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난타하다",
+    "translation": "цохиж унах",
+    "hanja": "亂打하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난투",
+    "translation": "зодоон, тулаан",
+    "hanja": "亂鬪",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "난투극",
+    "translation": "хэрүүл тэмцэл",
+    "hanja": "亂鬪劇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난파",
+    "translation": "сүйрэх",
+    "hanja": "難破",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "난파되다",
+    "translation": "сүйрэх, живэх",
+    "hanja": "難破되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난파선",
+    "translation": "сүйрсэн хөлөг онгоц",
+    "hanja": "難破船",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "난파하다",
+    "translation": "сүйрэх, живэх",
+    "hanja": "難破하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "난포",
+    "translation": "өндгөвчний үүр",
+    "hanja": "卵胞",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "난폭",
+    "translation": "хэрцгий",
+    "hanja": "亂暴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난폭하다",
+    "translation": "хэрцгий догшин",
+    "hanja": "亂暴하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "난항",
+    "translation": "хүндрэл",
+    "hanja": "난항(難航)",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "난향",
+    "translation": "цохио үнэр",
+    "hanja": "蘭香",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "난황",
+    "translation": "өндөгний шар",
+    "hanja": "卵黃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "난후",
+    "translation": "Дараа нь, сүүлдэх",
+    "hanja": "亂後",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

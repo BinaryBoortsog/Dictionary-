@@ -1,0 +1,1101 @@
+[
+  {
+    "word": "종",
+    "translation": "хонх",
+    "hanja": "鐘",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "종가",
+    "translation": "үндсэн гэр бүл",
+    "hanja": "宗家",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "종각",
+    "translation": "хонхны цамхаг",
+    "hanja": "鐘閣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종강",
+    "translation": "Хичээлийн төгсгөл",
+    "hanja": "終講",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종강하다",
+    "translation": "Хичээл дуусах",
+    "hanja": "終講하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종결",
+    "translation": "төгсгөл",
+    "hanja": "終結",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종결되다",
+    "translation": "дуусах",
+    "hanja": " jonggyeoldeoda",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "종결짓다",
+    "translation": "дуусгах",
+    "hanja": "終結짓다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종결하다",
+    "translation": "дуусгах, төгсгөх",
+    "hanja": "終結하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종고",
+    "translation": "хонх, бөмбөр",
+    "hanja": "鐘鼓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종교",
+    "translation": "шашин",
+    "hanja": "宗敎",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "종교계",
+    "translation": "шашны хүрээ",
+    "hanja": "宗敎界",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "종교관",
+    "translation": "шашны үзэл баримтлал",
+    "hanja": "宗敎觀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종교인",
+    "translation": "шашинтан",
+    "hanja": "宗敎人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종교적",
+    "translation": "шашны",
+    "hanja": "宗敎的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종교학",
+    "translation": "шашин судлал",
+    "hanja": "宗敎學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종구",
+    "translation": "бөмбөрцөг",
+    "hanja": "種球",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "종국",
+    "translation": "эцсийн",
+    "hanja": "終局",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "종규",
+    "translation": "Жонгю",
+    "hanja": "鍾圭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "종근",
+    "translation": "үндэс иш",
+    "hanja": "種根",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종금사",
+    "translation": "үүсмэл санхүүгийн компани",
+    "hanja": "綜金社",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "종기",
+    "translation": "буглаа",
+    "hanja": "腫氣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종내",
+    "translation": "эцэст нь",
+    "hanja": "終乃",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종년",
+    "translation": "зарц эмэгтэй",
+    "hanja": "宗年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종노릇",
+    "translation": "Зарц хийх, боол болох",
+    "hanja": "從노릇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종노릇하다",
+    "translation": "боол болох",
+    "hanja": "從—",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종다리",
+    "translation": "Эгэл божгино",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종단",
+    "translation": "уртраг",
+    "hanja": "縱斷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종단하다",
+    "translation": "хөндлөн гарах",
+    "hanja": "縱斷하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "종달",
+    "translation": "жайлууллага",
+    "hanja": "終達",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "종달새",
+    "translation": "тогтоны шувуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종당",
+    "translation": "эцсийн эцэст",
+    "hanja": "終當",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종대",
+    "translation": "Урт эгнээ, цуваа",
+    "hanja": "縱隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종두",
+    "translation": "вакцин тарих",
+    "hanja": "種痘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종래",
+    "translation": "урьд нь",
+    "hanja": "從來",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종량제",
+    "translation": "Хэмжээнээс хамаарсан төлбөрийн систем",
+    "hanja": "從量制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종려",
+    "translation": "далдуу мод",
+    "hanja": "棕櫚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종렬",
+    "translation": "Босоо эгнээ",
+    "hanja": "縱列",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종례",
+    "translation": "хичээл дууссаны дараах хурал",
+    "hanja": "終禮",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "종로",
+    "translation": "Жонно",
+    "hanja": "鐘路",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종료",
+    "translation": "дуусах",
+    "hanja": "終了",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종료되다",
+    "translation": "дуусах",
+    "hanja": "終了되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "종료하다",
+    "translation": "дуусах",
+    "hanja": "終了하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "종루",
+    "translation": "хонхны цамхаг",
+    "hanja": "鐘樓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종류",
+    "translation": "төрөл",
+    "hanja": "種類",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "종류별",
+    "translation": "төрөл тус бүрээр",
+    "hanja": "種類別",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "종마",
+    "translation": "азарга",
+    "hanja": "種馬",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "종막",
+    "translation": "төгсгөлийн үзэгдэл",
+    "hanja": "終幕",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "종말",
+    "translation": "төгсгөл",
+    "hanja": "終末",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "종말론",
+    "translation": "төгсгөлийн онол, эсхатологи",
+    "hanja": "終末論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종목",
+    "translation": "төрөл, спорт төрөл",
+    "hanja": "種目",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종묘",
+    "translation": "Жунмёо сүм",
+    "hanja": "宗廟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종무식",
+    "translation": "ажлын жилийн хаалтын үдэшлэг",
+    "hanja": "終務式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종문",
+    "translation": "үе дамжсан, ургийн мод",
+    "hanja": "宗門",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종반",
+    "translation": "төгсгөл үе",
+    "hanja": "終盤",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "종방",
+    "translation": "Дуусгах, сүүлчийн анги",
+    "hanja": "終放",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종배",
+    "translation": "Хонх",
+    "hanja": "鐘輩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종범",
+    "translation": "Туслах гэмт хэрэгтэн",
+    "hanja": "從犯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종별",
+    "translation": "төрөл",
+    "hanja": "種別",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종복",
+    "translation": "боол",
+    "hanja": "從僕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종부",
+    "translation": "үндсэн эхнэр",
+    "hanja": "宗婦",
+    "pos": "мüns",
+    "cefr": "C1"
+  },
+  {
+    "word": "종북",
+    "translation": "БНАСАУ-ыг дэмжигч",
+    "hanja": "從北",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종사",
+    "translation": "ажил, үйл ажиллагаа",
+    "hanja": "從事",
+    "pos": "name",
+    "cefr": "B2"
+  },
+  {
+    "word": "종사자",
+    "translation": "ажилтан",
+    "hanja": "從事者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종사하다",
+    "translation": "эрхлэх",
+    "hanja": "從事하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "종살이",
+    "translation": "боолчлох",
+    "hanja": "從살이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종석",
+    "translation": "суурь чулуу",
+    "hanja": "宗石",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "종성",
+    "translation": "эгшигт гийгүүлэгч",
+    "hanja": "終聲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종소리",
+    "translation": "хонхны дуу",
+    "hanja": "鐘소리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "종속",
+    "translation": "хамаарал",
+    "hanja": "從屬",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "종속되다",
+    "translation": "Хамааралтай болох",
+    "hanja": "從屬되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종속시키다",
+    "translation": "хамааралтай болгох",
+    "hanja": "從屬시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종속적",
+    "translation": "хамааралтай",
+    "hanja": "從屬的",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "종손",
+    "translation": "үндсэн гэр бүлийн ач хүү",
+    "hanja": "宗孫",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "종수",
+    "translation": "Тоо баримт",
+    "hanja": "種數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종숙",
+    "translation": "авга ах",
+    "hanja": "從叔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종식",
+    "translation": "Дуусгавар болгох, зогсоох",
+    "hanja": "終息",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "эцэслэх",
+    "hanja": "終熄되다",
+    "pos": "동사",
+    "cefr": "C1",
+    "word": "종식되다"
+  },
+  {
+    "word": "종식시키다",
+    "translation": "төгсгөх, дуусгах",
+    "hanja": "終息시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종식하다",
+    "translation": "төгсгөх, дуусгах",
+    "hanja": "終息-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종신",
+    "translation": "насан турш",
+    "hanja": "終身",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종신직",
+    "translation": "насан туршийн албан тушаал",
+    "hanja": "終身職",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종신형",
+    "translation": "бүх насаар хорих ял",
+    "hanja": "終身刑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종실",
+    "translation": "ягсарь",
+    "hanja": "宗室",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "종심",
+    "translation": "гүний",
+    "hanja": "縱深",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "종아리",
+    "translation": "шиншилж",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "종알거리다",
+    "translation": "нимгэн ярих",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "종알대다",
+    "translation": "чихэнд шивнэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종알종알",
+    "translation": "шившигнэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종암",
+    "translation": "Жонгам",
+    "hanja": "鍾巖",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종양",
+    "translation": "хавдар, нян",
+    "hanja": "腫瘍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종언",
+    "translation": "төгсгөл",
+    "hanja": "終焉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종업",
+    "translation": "мэргэжил",
+    "hanja": "從業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종업원",
+    "translation": "ажилчин, үйлчлэгч",
+    "hanja": "從業員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종연",
+    "translation": "төгсгөлийн тоглолт",
+    "hanja": "終演",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종열",
+    "translation": "эгнээ, цуваа",
+    "hanja": "縱列",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종영",
+    "translation": "дуусах, төгсөх (кино, нэвтрүүлэг)",
+    "hanja": "終映",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "종영되다",
+    "translation": "дуусах (Цуврал/Кино)",
+    "hanja": "終映되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "종영하다",
+    "translation": "дуусах",
+    "hanja": "終映하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종용",
+    "translation": "шахах, ятгах",
+    "hanja": "慫慂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종용하다",
+    "translation": "яаравчлуулах",
+    "hanja": "慫慂하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "종이",
+    "translation": "цаас",
+    "hanja": "종이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "종이띠",
+    "translation": "цаасан тууз",
+    "hanja": "종이 띠",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "종이배",
+    "translation": "цаасан завь",
+    "hanja": "종이배",
+    "pos": "нэр үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "종이접기",
+    "translation": "цаас нугалах урлаг (оригами)",
+    "hanja": "종이摺기",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "종이컵",
+    "translation": "цаасан аяга",
+    "hanja": "종이컵",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "종인",
+    "translation": "боол / зарц",
+    "hanja": "從人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종일",
+    "translation": "бүхэл өдөр, өдөржин",
+    "hanja": "終日",
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "종일토록",
+    "translation": "бүх өдөржин, бүтэн өдөр",
+    "hanja": "終日토록",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종잇장",
+    "translation": "цаасны хуудас",
+    "hanja": "종잇장",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종잇조각",
+    "translation": "цаасны хэлтэрхий",
+    "hanja": "종잇조각",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "종자",
+    "translation": "үр",
+    "hanja": "種子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종잡다",
+    "translation": "таамаглах, ойлгох, багцаалах",
+    "hanja": "縱雜다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종잣돈",
+    "translation": "эхний хөрөнгө, үндсэн хөрөнгө",
+    "hanja": "種子돈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종장",
+    "translation": "төгсгөлийн бүлэг, төгсгөл",
+    "hanja": "終章",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "종적",
+    "translation": "мөр, ул мөр",
+    "hanja": "蹤跡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종전",
+    "translation": "өмнө нь",
+    "hanja": "從前",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "종점",
+    "translation": "төгсгөлийн цэг",
+    "hanja": "終點",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "종정",
+    "translation": "сүм хийдийн тэргүүн",
+    "hanja": "宗正",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "종제",
+    "translation": "дээрэмчин, хулгайч",
+    "hanja": "從弟",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "종족",
+    "translation": "овог, аймаг",
+    "hanja": "種族",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "종종",
+    "translation": "үе үе",
+    "hanja": "種種",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "종종거리다",
+    "translation": "хурдан алхах",
+    "hanja": "종종거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종종걸음",
+    "translation": "хурдан алхаа",
+    "hanja": "종종걸음",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종주",
+    "translation": "Урт аялал, цулгуй аялал",
+    "hanja": "縱走",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종주국",
+    "translation": "тэргүүлэх улс, тулгуур улс",
+    "hanja": "宗主國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종주하다",
+    "translation": "ноёрхох",
+    "hanja": "縱走하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종중",
+    "translation": "овгийн дунд, овог дотор",
+    "hanja": "宗中",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "종지",
+    "translation": "савх",
+    "hanja": "終止",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "종지부",
+    "translation": "төгсгөл",
+    "hanja": "終止符",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종진",
+    "translation": "хүнд өвчин",
+    "hanja": "重疢",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "종착역",
+    "translation": "эцсийн буудал, төгсгөлийн галт тэрэгний зогсоол",
+    "hanja": "終着驛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "종착점",
+    "translation": "төгсгөлийн цэг",
+    "hanja": "終着点",
+    "pos": "명са",
+    "cefr": "B2"
+  },
+  {
+    "word": "종착지",
+    "translation": "эцсийн зогсоол",
+    "hanja": "終着地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종창",
+    "translation": "хавдар",
+    "hanja": "腫脹",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "종철",
+    "translation": "жеонгчеол (нэр)",
+    "hanja": "宗哲",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "종추",
+    "translation": "богино хугацаа",
+    "hanja": "終趨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "종치",
+    "translation": "хонх дуугарах",
+    "hanja": "鐘치",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "종친",
+    "translation": "хааны гэр бүлийн гишүүд",
+    "hanja": "宗親",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종친회",
+    "translation": "Угсаатны хамаатны холбоо",
+    "hanja": "宗親會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종탑",
+    "translation": "Хонхны цамхаг",
+    "hanja": "鐘塔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종택",
+    "translation": "төрөлх гэр (удам судрын)",
+    "hanja": "宗宅",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "종특",
+    "translation": "зүйлийн онцлог",
+    "hanja": "種特",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종파",
+    "translation": "урсгал",
+    "hanja": "宗派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종편",
+    "translation": "Бүрэн хэмжээний суваг (ерөнхий суваг)",
+    "hanja": "綜編",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "종표",
+    "translation": "мэдэгдэл",
+    "hanja": "綜標",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "종학",
+    "translation": "сүргийн сургууль",
+    "hanja": "宗學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종합",
+    "translation": "нэгтгэх",
+    "hanja": "綜合",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종합되다",
+    "translation": "нэгтгэгдэх",
+    "hanja": "綜合되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종합적",
+    "translation": "цогц",
+    "hanja": "綜合的",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "종합하다",
+    "translation": "нэгтгэх, багцлах",
+    "hanja": "綜合하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종형",
+    "translation": "үеэл ах",
+    "hanja": "從兄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "종화",
+    "translation": "тахиа дуудах",
+    "hanja": "鐘畫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종환",
+    "translation": "жонгүан",
+    "hanja": "鍾桓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "종횡",
+    "translation": "хөндлөн босоо",
+    "hanja": "縱橫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "종횡무진",
+    "translation": "чөлөөтэй явах",
+    "hanja": "縱橫無盡",
+    "pos": "adverb",
+    "cefr": "C2"
+  },
+  {
+    "word": "종횡무진하다",
+    "translation": "чөлөөтэй зорчих, хаа сайгүй явах",
+    "hanja": "縱橫無盡하다",
+    "pos": "동사",
+    "cefr": "C2"
+  }
+]

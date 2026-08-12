@@ -1,0 +1,2039 @@
+[
+  {
+    "word": "제",
+    "translation": "Миний (зөвхөн зарим нөхцөлд)",
+    "hanja": "弟",
+    "pos": "관형사",
+    "cefr": "A1"
+  },
+  {
+    "word": "제가",
+    "translation": "Миний гэр",
+    "hanja": "諸家",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제가끔",
+    "translation": "тус тусдаа, харгалзах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제가하다",
+    "translation": "болих",
+    "hanja": "除去하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제각각",
+    "translation": "Тухайн бүр",
+    "hanja": "제각각",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제각기",
+    "translation": "тус тусдаа, өөр өөрийн",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "제값",
+    "translation": "бодит үнэ",
+    "hanja": "제값",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "제강",
+    "translation": "Ган үйлдвэрлэл",
+    "hanja": "製鋼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제개",
+    "translation": "нээх",
+    "hanja": "除開",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제거",
+    "translation": "Устгах",
+    "hanja": "除去",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제거되다",
+    "translation": "Зайлшгүй болох",
+    "hanja": "除去되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "제거하다",
+    "translation": "устгах",
+    "hanja": "除去하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제것",
+    "translation": "өөрийнх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "제격",
+    "translation": "тохирох, зохих",
+    "hanja": "제格",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제고",
+    "translation": "нэмэгдүүлэх",
+    "hanja": "提高",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제고하다",
+    "translation": "нэмэгдүүлэх, дээшлүүлэх",
+    "hanja": "提高하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제곱",
+    "translation": "зэрэгт",
+    "hanja": "제곱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제곱근",
+    "translation": "ялгавар",
+    "hanja": " 제곱根",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제곱미터",
+    "translation": "Дөрвөлжин метр",
+    "hanja": "제곱미터",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제곱센티미터",
+    "translation": "квадрат сантиметр",
+    "hanja": "제곱 centimetre",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제곱킬로미터",
+    "translation": "ам метр",
+    "hanja": "제곱kilometer",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제곱하다",
+    "translation": "квадратлах",
+    "hanja": "제곱하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제공",
+    "translation": "хангалт, нийлүүлэлт",
+    "hanja": "提供",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제공되다",
+    "translation": "өгөгдөх",
+    "hanja": "提供되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "제공받다",
+    "translation": "Хүлээн авах, хангамж авах",
+    "hanja": "提供받다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "제공하다",
+    "translation": "нийлүүлэх",
+    "hanja": "提供하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "제과",
+    "translation": "боовны үйлдвэр",
+    "hanja": "製菓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제과점",
+    "translation": "нарийн боовны газар",
+    "hanja": "製菓店",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "제관",
+    "translation": "тийм ээ",
+    "hanja": "祭官",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제구",
+    "translation": "бүх багаж хэрэгсэл",
+    "hanja": "諸具",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제구실",
+    "translation": "өөрийн үүрэг, өөрийн үүрэг гүйцэтгэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제국",
+    "translation": "эзэнт гүрэн",
+    "hanja": "帝國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제국주의",
+    "translation": "империализм",
+    "hanja": "帝國主義",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제균하다",
+    "translation": "бактери устгах",
+    "hanja": "除菌하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제금",
+    "translation": "Цагаан мөнгө",
+    "hanja": "鉦",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제기되다",
+    "translation": "өргөн баригдсан",
+    "hanja": "提起되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "제기차기",
+    "translation": "жегичаги (тоглоом)",
+    "hanja": "提基차기",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "제기하다",
+    "translation": "өргөн барих",
+    "hanja": "提起하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "제까짓",
+    "translation": "түүний ч гэсэн",
+    "hanja": "劑까짓",
+    "pos": "대명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제깟",
+    "translation": "Өөрийнх нь, хувийн",
+    "hanja": "null",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제끄다",
+    "translation": "алгасах, хаях",
+    "hanja": "제끄다",
+    "pos": "v",
+    "cefr": "B2"
+  },
+  {
+    "word": "제끼다",
+    "translation": "хаях, шидэх (хэлний ярианы хэлбэр)",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "제너",
+    "translation": "Женнер (Английн эрдэмтэн)",
+    "hanja": "제너",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제너럴리스트",
+    "translation": "ерөнхий мэргэжилтэн",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제너레이터",
+    "translation": "генератор",
+    "hanja": "generator",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제네릭",
+    "translation": "ерөнхий, генерик",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제네바",
+    "translation": "Женев (хот)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "제네비브",
+    "translation": "Женевьев (нэр)",
+    "hanja": "제네비브",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제노",
+    "translation": "Жено",
+    "hanja": "제노",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제노바",
+    "translation": "Генуя (хот)",
+    "hanja": "Genova",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "제노사이드",
+    "translation": "хоморголон устгах",
+    "hanja": "Genocide",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제논",
+    "translation": "ксенон (химийн элемент)",
+    "hanja": "Xenon",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제니",
+    "translation": "Женни",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "제닉스",
+    "translation": "Реникс",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제다",
+    "translation": "цай бэлтгэх",
+    "hanja": "製茶",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제단",
+    "translation": "Тахилын ширээ",
+    "hanja": "祭壇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제대",
+    "translation": "цэргийн албанаас халагдах",
+    "hanja": "除隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제대로",
+    "translation": "зөв, зохих ёсоор",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "제대하다",
+    "translation": "цэргийн албанаас халагдах",
+    "hanja": "除隊하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제도",
+    "translation": "систем",
+    "hanja": "制度",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제도권",
+    "translation": "институцийн хүрээ",
+    "hanja": "制度圈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제도적",
+    "translation": "тогтолцооны, институциональ",
+    "hanja": "制度的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제도하다",
+    "translation": "бэлтгэх",
+    "hanja": "製圖하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제도화",
+    "translation": "институцичлэх, тогтолцоотой болгох",
+    "hanja": "制度化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제도화되다",
+    "translation": "журамчлагдах",
+    "hanja": "制度化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제도화하다",
+    "translation": "Институцжуулах",
+    "hanja": "制度化",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제독",
+    "translation": "адмирал",
+    "hanja": "提督",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제동",
+    "translation": "тормоз",
+    "hanja": "制動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제등",
+    "translation": "Түрүү",
+    "hanja": "提燈",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "제때",
+    "translation": "цагтаа",
+    "hanja": "제때",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제때제때",
+    "translation": "цаг хугацаанд нь",
+    "hanja": "제때제때",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제라늄",
+    "translation": "герань",
+    "hanja": "Geranium",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제라다",
+    "translation": "Жерата (нэр)",
+    "hanja": "제라다",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "제라르",
+    "translation": "Жерар",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제럴드",
+    "translation": "Жералд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제련",
+    "translation": "цэвэршүүлэх",
+    "hanja": "製鍊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제련소",
+    "translation": "боловсруулах үйлдвэр",
+    "hanja": "製鍊所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제련하다",
+    "translation": "цэвэрлэх",
+    "hanja": "製鍊하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "제령",
+    "translation": "зарлиг, тогтоол",
+    "hanja": "制令",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제례",
+    "translation": "тахилгын ёслол",
+    "hanja": "祭禮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제로",
+    "translation": "тэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "제로니모",
+    "translation": "Жеронимо",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제로섬",
+    "translation": "тэг нийлбэр",
+    "hanja": "제로섬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제로페이",
+    "translation": "тэг төлөлт",
+    "hanja": "제로페이",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제록스",
+    "translation": "ксерокс",
+    "hanja": "xerox",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "제론",
+    "translation": "Жерон (нэр)",
+    "hanja": "제론",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "제롬",
+    "translation": "Жером",
+    "hanja": "제롬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제리",
+    "translation": "Желе",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "제리코",
+    "translation": "Иерихо",
+    "hanja": "Jericho",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제막",
+    "translation": "хөшөөний нээлт",
+    "hanja": "除幕",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제막되다",
+    "translation": "хөшөөг нээх",
+    "hanja": "除幕되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제막식",
+    "translation": "баримлын нээлтийн ёслол",
+    "hanja": "除幕式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제말",
+    "translation": "өөрийн үг",
+    "hanja": "題말",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "제맛",
+    "translation": "жинхэнэ амт",
+    "hanja": "제맛",
+    "pos": "м",
+    "cefr": "B2"
+  },
+  {
+    "word": "제망매가",
+    "translation": "Жемангмэга (шүлэг)",
+    "hanja": "祭亡妹歌",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제멋",
+    "translation": "өөрөө",
+    "hanja": "제멋",
+    "pos": "대명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제멋대로",
+    "translation": "дураараа",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제명",
+    "translation": "Хасах",
+    "hanja": "除名",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제명되다",
+    "translation": "нэр хасагдах, гишүүнчлэлээс хасагдах",
+    "hanja": "除名되다",
+    "pos": "v",
+    "cefr": "B2"
+  },
+  {
+    "word": "제명하다",
+    "translation": "Хөөх",
+    "hanja": "除名하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제모",
+    "translation": "үс хусах",
+    "hanja": "除毛",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "제모하다",
+    "translation": "үс авах",
+    "hanja": "除毛하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제목",
+    "translation": "гарчиг, нэр",
+    "hanja": "題目",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "제문",
+    "translation": "бичсэн тайлбар",
+    "hanja": "祭文",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제물",
+    "translation": "тахил",
+    "hanja": "祭物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제반",
+    "translation": "бүх зүйл",
+    "hanja": "諸般",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제발",
+    "translation": "гуйя",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "제방",
+    "translation": "Далан, хаалт",
+    "hanja": "堤防",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제벌",
+    "translation": "чүнчү",
+    "hanja": "財閥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제법",
+    "translation": "хэсэг",
+    "hanja": "制法",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제보",
+    "translation": "мэдээлэх",
+    "hanja": "提報",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제보자",
+    "translation": "Мэдээлэгч",
+    "hanja": "提報者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제보하다",
+    "translation": "мэдээлэх, илчлэх",
+    "hanja": "提報하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "제복",
+    "translation": "үндэсний хувцас",
+    "hanja": "制服",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "제본",
+    "translation": "ном хавтаслах",
+    "hanja": "製本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제본되다",
+    "translation": "хавтаслагдах",
+    "hanja": "製本되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "제본하다",
+    "translation": "ном хавтаслах",
+    "hanja": "製本하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제부",
+    "translation": "эгчийн нөхөр",
+    "hanja": "弟夫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제분",
+    "translation": "гурил татах",
+    "hanja": "製粉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제분소",
+    "translation": "Гурилын үйлдвэр",
+    "hanja": "製粉所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제비",
+    "translation": "хараацай",
+    "hanja": "null",
+    "pos": "NOUN",
+    "cefr": "B1"
+  },
+  {
+    "word": "제비꽃",
+    "translation": "ягаан цэцэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제비뽑기",
+    "translation": "сугалаа сугалах",
+    "hanja": "제비뽑기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제비뽑기하다",
+    "translation": "сугалах, шодож сонгох",
+    "hanja": "提 비뽑기하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "제비족",
+    "translation": "эмэгтэй хүнээр тэжээлгэдэг эрэгтэй",
+    "hanja": "제비族",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제빙",
+    "translation": "мөс хийх",
+    "hanja": "製氷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제빵",
+    "translation": "талх нарийн боов хийх",
+    "hanja": "製빵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "제사",
+    "translation": "мөргөл, тахилга",
+    "hanja": "祭祀",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제사상",
+    "translation": "Тахилын ширээ",
+    "hanja": "祭祀床",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제사하다",
+    "translation": "Өргөл барих, тахил өргөх",
+    "hanja": "祭祀하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제삼",
+    "translation": "гурав дахь",
+    "hanja": "第三",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제삼자",
+    "translation": "гуравдагч этгээд",
+    "hanja": "第三者",
+    "pos": "сущ",
+    "cefr": "B2"
+  },
+  {
+    "word": "제삿날",
+    "translation": "тахилгын өдөр, тахилгын баяр",
+    "hanja": "祭祀날",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제삿밥",
+    "translation": "тахилгын хоол",
+    "hanja": "祭祀밥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제상",
+    "translation": "тахилын ширээ",
+    "hanja": "祭床",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제석",
+    "translation": "Шива",
+    "hanja": "帝釋",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제설",
+    "translation": "цас цэвэрлэх",
+    "hanja": "除雪",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제설기",
+    "translation": "Цас цэвэрлэх машин",
+    "hanja": "除雪機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제섭",
+    "translation": "Жэсэб",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제성",
+    "translation": "Хүчээ нэгтгэх",
+    "hanja": "齊聲",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "제소",
+    "translation": "зарга үүсгэх, шүүхэд зарга мэдүүлэх",
+    "hanja": "提訴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제소되다",
+    "translation": "шүүхэд дуудагдах",
+    "hanja": "제소되다(提訴되다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제소하다",
+    "translation": "гомдол гаргах",
+    "hanja": "提訴하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제수",
+    "translation": "хадмыг хүндэтгэх",
+    "hanja": "祭需",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제수하다",
+    "translation": "санал болгох, хүндэтгэх",
+    "hanja": "除授하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제스",
+    "translation": "Жесс (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "제스처",
+    "translation": "дохио зангаа",
+    "hanja": "gesture",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "제스쳐",
+    "translation": "дохио",
+    "hanja": "gesture",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제습",
+    "translation": "чийг татах",
+    "hanja": "除濕",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제습기",
+    "translation": "чийг татагч",
+    "hanja": "除濕器",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제시",
+    "translation": "танилцуулах",
+    "hanja": "提示",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "제시간",
+    "translation": "цагтаа, хугацаандаа",
+    "hanja": "定時間",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "제시되다",
+    "translation": "санал болгох",
+    "hanja": "提示되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "제시하다",
+    "translation": "танилцуулах",
+    "hanja": "提示하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제식",
+    "translation": "ёслолын хувцас",
+    "hanja": "制式",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제신",
+    "translation": "Бүх бурхад",
+    "hanja": "諸神",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제씨",
+    "translation": "ноён",
+    "hanja": "諸氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제아무리",
+    "translation": "Хэдийгээр",
+    "hanja": "제아무리",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제안",
+    "translation": "Санал",
+    "hanja": "提案",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제안되다",
+    "translation": "санал болгогдсон",
+    "hanja": "提案되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제안서",
+    "translation": "санал хүсэлт, төслийн санал",
+    "hanja": "提案書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제안자",
+    "translation": "санаачлагч",
+    "hanja": "提案者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제안하다",
+    "translation": "санал болгох",
+    "hanja": "提案하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제압",
+    "translation": "Номхтгох, дарангуйлах",
+    "hanja": "制壓",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제압당하다",
+    "translation": "дарагдах, номхоруулагдах",
+    "hanja": "制壓當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제압되다",
+    "translation": "ноолуулагдах, дарлагдах",
+    "hanja": "制壓되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제압하다",
+    "translation": "Дарах, дийлэх",
+    "hanja": "制壓하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제약",
+    "translation": "хязгаарлалт",
+    "hanja": "制約",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제약되다",
+    "translation": "хязгаарлагдах",
+    "hanja": "制約되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "제약하다",
+    "translation": "Хязгаарлах",
+    "hanja": "制約하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "제어",
+    "translation": "хянах",
+    "hanja": "制御",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제어되다",
+    "translation": "хянах, удирдагдах",
+    "hanja": "制御되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제어하다",
+    "translation": "Хянах, жолоодох",
+    "hanja": "制御하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제언",
+    "translation": "санал",
+    "hanja": "提言",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제언하다",
+    "translation": "санал дэвшүүлэх",
+    "hanja": "提言하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "제연",
+    "translation": "утаа зайлуулах",
+    "hanja": "除煙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제염",
+    "translation": "Давс үйлдвэрлэх",
+    "hanja": "製鹽",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제영",
+    "translation": "шүлэг зохиох",
+    "hanja": "題詠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제올라이트",
+    "translation": "зеолит",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제왕",
+    "translation": "хаан, эзэн",
+    "hanja": "帝王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제외",
+    "translation": "хасах, оруулахгүй байх",
+    "hanja": "除外",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "제외되다",
+    "translation": "хасагдах, оруулахгүй байх",
+    "hanja": "除外되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제외하다",
+    "translation": "хасах, оруулахгүй байх",
+    "hanja": "除外하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제우스",
+    "translation": "Зевс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제웅",
+    "translation": "Муу ёрын хүний дүр",
+    "hanja": "除雄",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제원",
+    "translation": "үзүүлэлт",
+    "hanja": "諸元",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제위",
+    "translation": "хаан ширээ",
+    "hanja": "帝位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제육",
+    "translation": "гахайн мах",
+    "hanja": "猪肉",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "제육볶음",
+    "translation": "Гахайн махтай хачиртай хоол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제윤",
+    "translation": "жиюнь (хятад нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제의",
+    "translation": "Санал, зөвлөмж",
+    "hanja": "提議",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제의하다",
+    "translation": "санал болгох",
+    "hanja": "提議하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제이디",
+    "translation": "Ж.Д. (нэр)",
+    "hanja": "제이디",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제이시",
+    "translation": "Жей Си (нэр)",
+    "hanja": "JC",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "제이피",
+    "translation": "Ж.П.",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "제일",
+    "translation": "хамгийн сайн",
+    "hanja": "第一",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "제일가다",
+    "translation": "хамгийн сайн байх",
+    "hanja": "第一가다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제일주의",
+    "translation": "хамгийн чухал үзэл",
+    "hanja": "第一主義",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "제임스",
+    "translation": "Жеймс",
+    "hanja": "James",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "제임스타운",
+    "translation": "Жеймс Таун",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제자",
+    "translation": "шавь",
+    "hanja": "弟子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제자리",
+    "translation": "байрандаа",
+    "hanja": "定자리",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "translation": "газар дээрээ зогсох",
+    "hanja": "제자리걸음",
+    "pos": "명사",
+    "cefr": "B2",
+    "word": "제자리걸음"
+  },
+  {
+    "word": "제작",
+    "translation": "бүтээх",
+    "hanja": "製作",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제작되다",
+    "translation": "үйлдвэрлэгдэх",
+    "hanja": "製作되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "제작물",
+    "translation": "Бүтээл",
+    "hanja": "製作物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제작비",
+    "translation": "Үйлдвэрлэлийн зардал",
+    "hanja": "製作費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제작사",
+    "translation": "үйлдвэрлэгч компани",
+    "hanja": "製作社",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제작소",
+    "translation": "үйлдвэрлэлтийн газар",
+    "hanja": "製作所",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제작자",
+    "translation": "үйлдвэрлэгч",
+    "hanja": "製作者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제작진",
+    "translation": "баг",
+    "hanja": "製作陣",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제작하다",
+    "translation": "үйлдвэрлэх",
+    "hanja": "製作하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "제장",
+    "translation": "бүх зүйл",
+    "hanja": "諸將",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제재",
+    "translation": "Хориг арга хэмжээ",
+    "hanja": "制裁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제재소",
+    "translation": "хөрөөний цех",
+    "hanja": "製材所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제재하다",
+    "translation": "хориг тавих, шийтгэх",
+    "hanja": "制裁하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제적",
+    "translation": "хасах",
+    "hanja": "除籍",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제적당하다",
+    "translation": "Хасагдах, бүртгэлээс хасуулax",
+    "hanja": "除籍當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제적되다",
+    "translation": "бүртгэлээс хасагдах",
+    "hanja": "除籍되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "제전",
+    "translation": "баяр наадам",
+    "hanja": "祭典",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제정",
+    "translation": "баталсан, тогтоосон",
+    "hanja": "制定",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제정되다",
+    "translation": "баталсан",
+    "hanja": "制定되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "제정신",
+    "translation": "эрүүл ухаан",
+    "hanja": "제정신(制精神)",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제정하다",
+    "translation": "баталгаажуулах",
+    "hanja": "制定하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "제제",
+    "translation": "шийтгэл",
+    "hanja": "制裁",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제조",
+    "translation": "үйлдвэрлэл",
+    "hanja": "製造",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제조되다",
+    "translation": "үйлдвэрлэгдэх",
+    "hanja": "製造되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제조법",
+    "translation": "үйлдвэрлэх арга",
+    "hanja": "製造法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제조사별",
+    "translation": "үйлдвэрлэгч тус бүр",
+    "hanja": "製造社別",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제조업",
+    "translation": "үйлдвэрлэл",
+    "hanja": "製造業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제조업자",
+    "translation": "Үйлдвэрлэгч",
+    "hanja": "製造業者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제조일",
+    "translation": "үйлдвэрлэсэн өдөр",
+    "hanja": "製造日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제조하다",
+    "translation": "үйлдвэрлэх",
+    "hanja": "製造하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "제주",
+    "translation": "авьяас, чадвар",
+    "hanja": "才主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제주도",
+    "translation": "Жэжү арал",
+    "hanja": "濟州島",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "제주살이",
+    "translation": "Чежу арал дээр амьдрах",
+    "hanja": "濟州살이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제주특별자치도",
+    "translation": "Чежүгийн тусгай өөртөө засах муж",
+    "hanja": "濟州特別自治道",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제중",
+    "translation": "бүх хүмүүс",
+    "hanja": "濟衆",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제지",
+    "translation": "хязгаарлалт",
+    "hanja": "制止",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제지되다",
+    "translation": "зогсоох, хаах",
+    "hanja": "制止되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제지하다",
+    "translation": "хориглох, зогсоох",
+    "hanja": "制止하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제진",
+    "translation": "чичиргээг арилгах",
+    "hanja": "除振",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "제집",
+    "translation": "өөрийн байшин",
+    "hanja": "제집",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제차",
+    "translation": "дахин, удаа дараа",
+    "hanja": "再次",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제창",
+    "translation": "санал дэвшүүлэх, уриалах",
+    "hanja": "提唱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제창하다",
+    "translation": "хамтдаа дуулах, хамтдаа уриалах",
+    "hanja": "齊唱하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제척",
+    "translation": "хасах",
+    "hanja": "除斥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제천",
+    "translation": "Тэнгэрт тахил өргөх",
+    "hanja": "祭天",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제철",
+    "translation": "Улирлын",
+    "hanja": "際鐵",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제철소",
+    "translation": "гангийн үйлдвэр",
+    "hanja": "製鐵所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제청",
+    "translation": "Санал болгох",
+    "hanja": "提請",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제청하다",
+    "translation": "санал болгох",
+    "hanja": "提請하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "제초",
+    "translation": "хог ургамлыг устгах",
+    "hanja": "除草",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "제초제",
+    "translation": "хогийн ургамлын эсрэг бодис",
+    "hanja": "除草劑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제출",
+    "translation": "хүргүүлэх",
+    "hanja": "提出",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "제출되다",
+    "translation": "илгээгдэх",
+    "hanja": "提出—",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "제출하다",
+    "translation": "өгөх, гардуулах",
+    "hanja": "提出",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "제치다",
+    "translation": "Гүйцэх, давах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제키다",
+    "translation": "оролцохгүй орхих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제타",
+    "translation": "зета",
+    "hanja": "zeta",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제트",
+    "translation": "Тийрэлтэт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제판",
+    "translation": "хавтан хийх",
+    "hanja": "製版",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제패",
+    "translation": "давамгайлах",
+    "hanja": "制覇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제패하다",
+    "translation": "Ноёрхох, байлдан дагуулах",
+    "hanja": "제패하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제퍼",
+    "translation": "Зефир",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제퍼스",
+    "translation": "жефферс",
+    "hanja": "제퍼스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제퍼슨",
+    "translation": "Жефферсон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제포",
+    "translation": "Даавуу",
+    "hanja": "製捕",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "제풀에",
+    "translation": "өөрийн эрхгүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제품",
+    "translation": "бүтээгдэхүүн",
+    "hanja": "製品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제품화되다",
+    "translation": "бүтээгдэхүүн болгох",
+    "hanja": "製品化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제품화하다",
+    "translation": "бүтээгдэхүүн болгох",
+    "hanja": "製品化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제프리스",
+    "translation": "Жеффрис (хүний нэр)",
+    "hanja": "Jefferies",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제피",
+    "translation": "зефир (чихэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제피로스",
+    "translation": "Зефирос (салхины бурхан)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제하다",
+    "translation": "Хасах, болиулах",
+    "hanja": "除하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제학",
+    "translation": "судлаач",
+    "hanja": "提學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제한",
+    "translation": "хязгаарлалт",
+    "hanja": "制限",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "제한되다",
+    "translation": "Хязгаарлагдах",
+    "hanja": "制限되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "제한적",
+    "translation": "хязгаарлагдмал",
+    "hanja": "制限的",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "제한하다",
+    "translation": "хязгаарлах",
+    "hanja": "制限하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제해권",
+    "translation": "Далай тэнгисийг хянах эрх",
+    "hanja": "制海權",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "제향",
+    "translation": "тахилгын зан үйл",
+    "hanja": "祭享",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제헌",
+    "translation": "үндсэн хууль тогтоомж",
+    "hanja": "制憲",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "제헌절",
+    "translation": "Үндсэн хуулийн өдөр",
+    "hanja": "制憲節",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제형",
+    "translation": "хэлбэр, төрөл",
+    "hanja": "劑形",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제호",
+    "translation": "гарчиг",
+    "hanja": "題號",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제화",
+    "translation": "Гутлын үйлдвэрлэл",
+    "hanja": "製靴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제후",
+    "translation": "ван",
+    "hanja": "諸侯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "제휴",
+    "translation": "хамтын ажиллагаа",
+    "hanja": "提攜",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제휴하다",
+    "translation": "제휴하다, 손을 잡다",
+    "hanja": "提携하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

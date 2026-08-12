@@ -1,0 +1,618 @@
+[
+  {
+    "word": "석",
+    "translation": "гурван өдөр",
+    "hanja": "夕",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "석가",
+    "translation": "Будда",
+    "hanja": "釋迦",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석가모니",
+    "translation": "Бурхан багш",
+    "hanja": "釋迦牟尼",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석가탑",
+    "translation": "석가탑",
+    "hanja": "釋迦塔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석간",
+    "translation": "оройн сонин",
+    "hanja": "夕刊",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "석간신문",
+    "translation": "оройн сонин",
+    "hanja": "夕刊新聞",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "석강",
+    "translation": "чулуун гол",
+    "hanja": "石江",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "석경",
+    "translation": "Чулуун толь",
+    "hanja": "石鏡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "석고대죄하다",
+    "translation": "үхлээ хүлээн зөвшөөрөх",
+    "hanja": "席藁待罪하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "석공",
+    "translation": "чулуучин",
+    "hanja": "石工",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석관",
+    "translation": "үүр",
+    "hanja": "石棺",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "석교",
+    "translation": "Чулуун гүүр",
+    "hanja": "石橋",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "석구",
+    "translation": "Соггүм",
+    "hanja": "石구",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "석굴",
+    "translation": "Чулуун агуй",
+    "hanja": "石窟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석굴암",
+    "translation": "Соккурам",
+    "hanja": "石窟庵",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석궁",
+    "translation": "Хөндлөн нум",
+    "hanja": "石弓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석권",
+    "translation": "бүхнийг эзлэх, ноёрхох",
+    "hanja": "席捲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "석권하다",
+    "translation": "эзлэн авах",
+    "hanja": "席卷하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석두",
+    "translation": "чулуун толгой, тэнэг хүн",
+    "hanja": "石頭",
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "석등",
+    "translation": "чулуун гэрэл",
+    "hanja": "石燈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석류",
+    "translation": "анар",
+    "hanja": "石榴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석면",
+    "translation": "чулуун хөвөн, асбест",
+    "hanja": "石綿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석모",
+    "translation": "Сукмо арал",
+    "hanja": "席毛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석문",
+    "translation": "Чулуун хаалга",
+    "hanja": "石門",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "석물",
+    "translation": "чулуун баримал",
+    "hanja": "石物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석박",
+    "translation": "чулуун таваг",
+    "hanja": "石鉢",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "석발",
+    "translation": "чулуугаар ухах/олборлох",
+    "hanja": "石發",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "석방",
+    "translation": "суллах",
+    "hanja": "釋放",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석방되다",
+    "translation": "Сулагдах",
+    "hanja": "釋放되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "석방시키다",
+    "translation": "Чөлөөлөх",
+    "hanja": "釋放시키다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "석방하다",
+    "translation": "суллах",
+    "hanja": "釋放하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "석배다",
+    "translation": "хоол шингээхгүй байх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석벽",
+    "translation": "чулуун хана",
+    "hanja": "石壁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석별",
+    "translation": "салах ёс",
+    "hanja": "惜別",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석보",
+    "translation": "чулуун ном",
+    "hanja": "石譜",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "석봉",
+    "translation": "Согбонг",
+    "hanja": "石峰",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석불",
+    "translation": "чулуун бурхан",
+    "hanja": "石佛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석비",
+    "translation": "хөшөө чулуу",
+    "hanja": "石碑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석사",
+    "translation": "магистр",
+    "hanja": "碩士",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석상",
+    "translation": "чулуун баримал",
+    "hanja": "石像",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "석성",
+    "translation": "чулуун бэхлэлт",
+    "hanja": "石城",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석션",
+    "translation": "сорох",
+    "hanja": "석션",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석쇠",
+    "translation": "шарах тор",
+    "hanja": "石-, 쇠-",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석수",
+    "translation": "чулуучин",
+    "hanja": "石手",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석수장이",
+    "translation": "чулуучин",
+    "hanja": "石手丈이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석수쟁이",
+    "translation": "чулуучин",
+    "hanja": "石수쟁이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석순",
+    "translation": "Чулуун багана",
+    "hanja": "石筍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석식",
+    "translation": "оройн хоол",
+    "hanja": "夕食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석실",
+    "translation": "чулуун тасалгаа",
+    "hanja": "石室",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "석씨",
+    "translation": "Сакъяа",
+    "hanja": "釋氏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석아",
+    "translation": "[ходоод] чулуужих",
+    "hanja": "石芽",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "석양",
+    "translation": "нар жаргах",
+    "hanja": "夕陽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석양빛",
+    "translation": "Нар жаргах үеийн гэрэл",
+    "hanja": "夕陽빛",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "석연하다",
+    "translation": "Тодорхойгүй, эргэлзээтэй",
+    "hanja": "釋然하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "석영",
+    "translation": "болор, кварц",
+    "hanja": "石英",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석유",
+    "translation": "Нефть",
+    "hanja": "石油",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석유난로",
+    "translation": "керосины зуух",
+    "hanja": "石油暖爐",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "석이",
+    "translation": "чулууны мөөг",
+    "hanja": "石耳",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "석자",
+    "translation": "гурван инч",
+    "hanja": "石子",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "석장",
+    "translation": "Аяллын таяг",
+    "hanja": "錫杖",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "석정",
+    "translation": "чулуун худаг",
+    "hanja": "石井",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석조",
+    "translation": "чулуун хийц",
+    "hanja": "石造",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석좌",
+    "translation": "суудлын чулуу",
+    "hanja": "碩座",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "석주",
+    "translation": "чулуун багана",
+    "hanja": "石柱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석차",
+    "translation": "Зэрэглэл",
+    "hanja": "席次",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석찬",
+    "translation": "оройн зоог",
+    "hanja": "夕饌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석천",
+    "translation": "чулуун булаг",
+    "hanja": "石泉",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "석청",
+    "translation": "Хадны зөгийн бал",
+    "hanja": "石淸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석촌",
+    "translation": "Сөкчон",
+    "hanja": "石村",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "석축",
+    "translation": "чулуун хана",
+    "hanja": "石築",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "석출되다",
+    "translation": "тунах",
+    "hanja": "析出되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "석탄",
+    "translation": "нүүрс",
+    "hanja": "石炭",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "석탈해",
+    "translation": "Сөк талхэ",
+    "hanja": "昔脫解",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "석탑",
+    "translation": "чулуун суврага",
+    "hanja": "石塔",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "석태",
+    "translation": "Чулуун хөвд",
+    "hanja": "石苔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석판",
+    "translation": "Чулуун хавтан",
+    "hanja": "石板",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석패",
+    "translation": "бараг ялагдах",
+    "hanja": "惜敗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석필",
+    "translation": "шохойн харандаа",
+    "hanja": "石筆",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "석학",
+    "translation": "эрдэмтэн",
+    "hanja": "碩學",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "석호",
+    "translation": "далайн булан",
+    "hanja": "潟湖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석화",
+    "translation": "Чулуужсан",
+    "hanja": "石化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석환",
+    "translation": "чулуун бөгж",
+    "hanja": "石環",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "석회",
+    "translation": "шохой",
+    "hanja": "石灰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석회물",
+    "translation": "шохойн материал",
+    "hanja": "石灰물",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "석회수",
+    "translation": "шохойн ус",
+    "hanja": "石灰水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석회암",
+    "translation": "шохойн чулуу",
+    "hanja": "石灰岩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "석회질",
+    "translation": "шохойн чулуу",
+    "hanja": "石灰質",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "석훈",
+    "translation": "Сок-хүн (нэр)",
+    "hanja": "石勳",
+    "pos": "Proper noun",
+    "cefr": "C2"
+  }
+]

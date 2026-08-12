@@ -1,0 +1,1822 @@
+[
+  {
+    "word": "반",
+    "translation": "Хагас, тал",
+    "hanja": "半",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "반가움",
+    "translation": "баяр баясгалан",
+    "hanja": "반가움",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반가워하다",
+    "translation": "баярлах, таалах",
+    "hanja": "半-",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반가이",
+    "translation": "баяртайгаар",
+    "hanja": "반가이",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반감",
+    "translation": "дайншилт, эсэргүүцэл",
+    "hanja": "反感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반감되다",
+    "translation": "буурах, багасах",
+    "hanja": "半減되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "반갑다",
+    "translation": "баярлах",
+    "hanja": "반갑다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반값",
+    "translation": "Хагас үнэ",
+    "hanja": "半값",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "반개",
+    "translation": "Хагас нээлттэй",
+    "hanja": "半開",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반격",
+    "translation": "сөрөг довтолгоо",
+    "hanja": "反擊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반격하다",
+    "translation": "дайралтаар хариу тооцох",
+    "hanja": "反擊하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "반고",
+    "translation": "Пангуу (домогт дүр)",
+    "hanja": "盤古",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "반고리관",
+    "translation": "хагас дугуй суваг",
+    "hanja": "半고리管",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "반고흐",
+    "translation": "Ван Гог",
+    "hanja": null,
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "반골",
+    "translation": "Эсэргүүцэгч",
+    "hanja": "反骨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반공",
+    "translation": "Коммунизмын эсрэг",
+    "hanja": "反共",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반교",
+    "translation": "хагас боловсрол",
+    "hanja": "半敎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반구",
+    "translation": "хагас бөмбөрцөг",
+    "hanja": "半球",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반구다",
+    "translation": "хагас бөмбөрцөг",
+    "hanja": "半球다",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반구형",
+    "translation": "хагас бөмбөрцөг хэлбэртэй",
+    "hanja": "半球形",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반군",
+    "translation": "босогч, эсэргүүцэгч",
+    "hanja": "叛軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반기",
+    "translation": "хагас жил",
+    "hanja": "半期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반기다",
+    "translation": "угтах",
+    "hanja": "反기다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반나",
+    "translation": "банна (бурханы нэр)",
+    "hanja": "般若",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "반나마",
+    "translation": "Хагас үлдсэн",
+    "hanja": "半南-, 半나마",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반나절",
+    "translation": "хагас өдөр",
+    "hanja": "半나절",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반납",
+    "translation": "буцаах",
+    "hanja": "返納",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반납되다",
+    "translation": "Буцаагдах",
+    "hanja": "返納되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "반납하다",
+    "translation": "буцааж өгөх, хүлээлгэн өгөх",
+    "hanja": "返納하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "반년",
+    "translation": "Хагас жил",
+    "hanja": "半年",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "반노",
+    "translation": "боолчлол",
+    "hanja": "伴奴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반다이",
+    "translation": "Бандай (компани)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반닫이",
+    "translation": "хагас онгойдог шүүгээ",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반달",
+    "translation": "Хагас сар",
+    "hanja": "半달",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반달가슴곰",
+    "translation": "саран баавгай",
+    "hanja": "반달가슴곰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반대",
+    "translation": "Эсрэг, үгүйсгэл",
+    "hanja": "反對",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반대급부",
+    "translation": "эсрэг төлбөр, хариу үйлдэл",
+    "hanja": "反對給付",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반대되다",
+    "translation": "эсрэг байх",
+    "hanja": "反對-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반대말",
+    "translation": "эсрэг утгатай үг",
+    "hanja": "反對말",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반대쪽",
+    "translation": "Эсрэг тал",
+    "hanja": "反對쪽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반대파",
+    "translation": "сөрөг хүчин",
+    "hanja": "反對派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반대편",
+    "translation": "эсрэг тал",
+    "hanja": "反對便",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반대표",
+    "translation": "Эсрэг санал, эсрэг төлөөлөгч",
+    "hanja": "反代表",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반대하다",
+    "translation": "эсэргүүцэх",
+    "hanja": "反對-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반도",
+    "translation": "хойг",
+    "hanja": "半島",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반도네온",
+    "translation": "бандонеон",
+    "hanja": "bandoneon",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반도체",
+    "translation": "хагас дамжуулагч",
+    "hanja": "半導體",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반독점",
+    "translation": "Монополийн эсрэг",
+    "hanja": "反獨占",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "반동",
+    "translation": "Ухрах, эсэргүүцэл",
+    "hanja": "反動",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반동분자",
+    "translation": "эсэргүүцэгч",
+    "hanja": "反動分子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반드시",
+    "translation": "заавал, гарцаагүй",
+    "hanja": "반드시",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반들거리다",
+    "translation": "гялалзах, өнгөлөг болох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반들반들",
+    "translation": "гялалзсан",
+    "hanja": "반들반들",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반들반들하다",
+    "translation": "гүйлтгэр, гялалзсан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반듯반듯",
+    "translation": "тэгш, цэвэрхэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반듯하다",
+    "translation": "Тэгш, цэвэрхэн",
+    "hanja": "반듯하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반등",
+    "translation": "сэргэх, өсөх",
+    "hanja": "反騰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반등하다",
+    "translation": "сэргэх, өсөх (үнийн хувьд)",
+    "hanja": "反騰하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "반디",
+    "translation": "Гэрэлт цох",
+    "hanja": "伴딧",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반디쿠트",
+    "translation": "Бандикут (амьтан)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반딧불",
+    "translation": "гэрэлт цох",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반딧불이",
+    "translation": "гэрэлт цох, гэрэлт бяцхан эрвээхэй",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반라",
+    "translation": "хагас нүцгэн",
+    "hanja": "半裸",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반란",
+    "translation": "бослого",
+    "hanja": "叛亂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반란군",
+    "translation": "Босогчдын арми",
+    "hanja": "叛亂軍",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반려",
+    "translation": "хань",
+    "hanja": "伴侶",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반려되다",
+    "translation": "татгалзах, буцаагдах",
+    "hanja": " 반려되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반려자",
+    "translation": "хань",
+    "hanja": "伴侶者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반려하다",
+    "translation": "татгалзах",
+    "hanja": "駁戾-",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "반령",
+    "translation": "бозлог (амьтан)",
+    "hanja": "斑羚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반례",
+    "translation": "сөрөг жишээ",
+    "hanja": "反例",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반로",
+    "translation": "тахир дутуу",
+    "hanja": "半路",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반론",
+    "translation": "сөрөг аргумент",
+    "hanja": "反論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반론하다",
+    "translation": "Сөрөг баримт гаргах",
+    "hanja": "反論하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반류",
+    "translation": "Урсгалын эсрэг",
+    "hanja": "反流",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반리",
+    "translation": "Банри",
+    "hanja": "半里",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "반마",
+    "translation": "загалмайн нэг хэсэг",
+    "hanja": "半馬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "반만년",
+    "translation": "таван мянган жил",
+    "hanja": "半萬年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반말",
+    "translation": "энгийн яриа",
+    "hanja": "半말",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반말지거리",
+    "translation": "дурайх",
+    "hanja": "半말지거리",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반말하다",
+    "translation": "энгийн ярих",
+    "hanja": "半말하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반면",
+    "translation": "нөгөө талаар",
+    "hanja": "反面",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반면교사",
+    "translation": "муу жишээ",
+    "hanja": "反面敎師",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반명",
+    "translation": "Тодорхойгүй, бүдэг бадаг",
+    "hanja": "不明",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반모",
+    "translation": "хагас малгай",
+    "hanja": "半帽",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반목",
+    "translation": "өшөө хорсол, дайсагнал",
+    "hanja": "反目",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반목하다",
+    "translation": "дайн дажин гаргах, дайсагнах",
+    "hanja": "反目하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반문",
+    "translation": "сөргүүлэн асуух",
+    "hanja": "反問",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반문하다",
+    "translation": "Эргүүлж асуух",
+    "hanja": "反問하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반미",
+    "translation": "Америк эсрэг",
+    "hanja": "反美",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반민족",
+    "translation": "үндэстний эсрэг",
+    "hanja": "反民族",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반민족적",
+    "translation": "үндэсний эсрэг",
+    "hanja": "反民族的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반민주",
+    "translation": "ардчиллын эсрэг",
+    "hanja": "反民主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반민주적",
+    "translation": "ардчилалгүй",
+    "hanja": "反民主的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반바지",
+    "translation": "Богино өмд",
+    "hanja": "반바지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반박",
+    "translation": "татгалзах",
+    "hanja": "反駁",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반박되다",
+    "translation": "Эсэргүүцэгдэх, няцаагдах",
+    "hanja": "反駁되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반박문",
+    "translation": "эсэргүүцлийн бичиг",
+    "hanja": "反駁文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반박하다",
+    "translation": "татгалзах",
+    "hanja": "反駁하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반반",
+    "translation": "хагас хагас, тэн хагас",
+    "hanja": "半半",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반반하다",
+    "translation": "хэвийн, дундаж",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반발",
+    "translation": "эсэргүүцэл, сайн хариу үйлдэл",
+    "hanja": "反撥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반발심",
+    "translation": "тэмцэх сэтгэл",
+    "hanja": "反撥心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반발하다",
+    "translation": "Эсэргүүцэх, үл нийцэх",
+    "hanja": "反撥하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "반백",
+    "translation": "тавин хувь, цагаан халтар",
+    "hanja": "半白",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반별",
+    "translation": "ангиудаар",
+    "hanja": "班別",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반병",
+    "translation": "хагас шил",
+    "hanja": "半병",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반병신",
+    "translation": "тахир дутуу",
+    "hanja": "半病身",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반보",
+    "translation": "хагас алхам",
+    "hanja": "半步",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반복",
+    "translation": "давталт",
+    "hanja": "反復",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반복되다",
+    "translation": "давтагдах",
+    "hanja": "反復되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반복하다",
+    "translation": "давтах",
+    "hanja": "反復하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "반북",
+    "translation": "Хойд Солонгосыг эсэргүүцэх",
+    "hanja": "反北",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반비",
+    "translation": "Урвуу харьцаа",
+    "hanja": "反比",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반비례",
+    "translation": "урвуу хамаарал",
+    "hanja": "反比例",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반비례하다",
+    "translation": "эсрэг пропорциональ байх",
+    "hanja": "反比例하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "반사",
+    "translation": "ойлголт",
+    "hanja": "反射",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반사되다",
+    "translation": "Ойх",
+    "hanja": "反射되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반사시키다",
+    "translation": "ойлгох, тусгах",
+    "hanja": "反射시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반사적",
+    "translation": "рефлексээр",
+    "hanja": "反射的",
+    "pos": "т.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "반사하다",
+    "translation": "Ойлгох",
+    "hanja": "反射하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반사회적",
+    "translation": "нийгмийн эсрэг",
+    "hanja": "反社會的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반삭",
+    "translation": "Хагас хуссан",
+    "hanja": "半삭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반상",
+    "translation": "тэгш бус байдал",
+    "hanja": "班常",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반상회",
+    "translation": "хорооны хурал",
+    "hanja": "班常會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반색",
+    "translation": "баяртайгаар угтах",
+    "hanja": "反色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반색하다",
+    "translation": "баярлан инээмсэглэх, баяртайгаар угтах",
+    "hanja": "반색하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반생",
+    "translation": "хагас амьдрал",
+    "hanja": "半生",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반석",
+    "translation": "Хадан суурь",
+    "hanja": "磐石",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반성",
+    "translation": "өөрийгөө шүүмжлэх",
+    "hanja": "反省",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반성문",
+    "translation": "Уучлал",
+    "hanja": "反省文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반성적",
+    "translation": "бодолтой",
+    "hanja": "反省的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반성하다",
+    "translation": "эргэцүүлэн бодох",
+    "hanja": "反省-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반소",
+    "translation": "Хариу нэхэмжлэл, сөрөг нэхэмжлэл",
+    "hanja": "反訴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반소매",
+    "translation": "богино ханцуй",
+    "hanja": "半소매",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반송",
+    "translation": "буцаах",
+    "hanja": "返送",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반송되다",
+    "translation": "буцаагдах",
+    "hanja": "返送되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반송하다",
+    "translation": "буцаан илгээх",
+    "hanja": "返送하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반수",
+    "translation": "Хагас",
+    "hanja": "半數",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반숙",
+    "translation": "Хагас болгосон",
+    "hanja": "半熟",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "반시",
+    "translation": "хагас цаг",
+    "hanja": "半時",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반신",
+    "translation": "хагас бие",
+    "hanja": "半身",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반신반의하다",
+    "translation": "хагас итгэж, хагас үл итгэх",
+    "hanja": "半信半疑하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반신불수",
+    "translation": "хагас саажилт",
+    "hanja": "半身不隨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반신욕",
+    "translation": "хагас биеийн усанд орох",
+    "hanja": "半身浴",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반쎄오",
+    "translation": "Банан сэо (Вьетнам хоол)",
+    "hanja": "반쎄오",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반애",
+    "translation": "хэсэгчлэн дурлах",
+    "hanja": "半愛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반액",
+    "translation": "хагас үнэ",
+    "hanja": "半額",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "반야",
+    "translation": "банза чагшаади",
+    "hanja": "般若",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "반어",
+    "translation": "Эсрэг утгатай үг, ирони",
+    "hanja": "反語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반역",
+    "translation": "Урвалт",
+    "hanja": "反逆",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반역자",
+    "translation": "урвагч",
+    "hanja": "反逆者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반역죄",
+    "translation": "урвалтын гэмт хэрэг",
+    "hanja": "反逆罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반역하다",
+    "translation": "урвах",
+    "hanja": "反逆하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반열",
+    "translation": "зэрэг зиндаа, түвшин",
+    "hanja": "班列",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반영되다",
+    "translation": "тусгагдах",
+    "hanja": "反映되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반영하다",
+    "translation": "тусгах",
+    "hanja": "反映하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "반올림",
+    "translation": "бөөрөнхийлөх",
+    "hanja": "半올림",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반올림하다",
+    "translation": "Бөөрөнхийлөх (тоо)",
+    "hanja": "半올림하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반원",
+    "translation": "хагас дугуй",
+    "hanja": "半圓",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반월",
+    "translation": "хагас сар",
+    "hanja": "半月",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반유",
+    "translation": "эсрэг нефть",
+    "hanja": "反油",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반음",
+    "translation": "хагас тон",
+    "hanja": "半音",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반응",
+    "translation": "хариу үйлдэл",
+    "hanja": "反應",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반응하다",
+    "translation": "Хариу үйлдэл үзүүлэх",
+    "hanja": "反應하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반의어",
+    "translation": "эсрэг утгатай үг",
+    "hanja": "反義語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반이",
+    "translation": "Тал нь",
+    "hanja": "半이",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "반인",
+    "translation": "Хагас хүн",
+    "hanja": "半人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반인륜",
+    "translation": "Хүн төрөлхтний эсрэг",
+    "hanja": "反人倫",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "반일",
+    "translation": "японы эсрэг",
+    "hanja": "反日",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반입",
+    "translation": "оруулах",
+    "hanja": "G",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반입되다",
+    "translation": "оруулж ирэх",
+    "hanja": "搬入되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반입하다",
+    "translation": "Оруулах, авчрах",
+    "hanja": "搬入하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반자",
+    "translation": "Тал хувь; Хагас",
+    "hanja": "半子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반작용",
+    "translation": "урвалж",
+    "hanja": "反作用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반잔",
+    "translation": "хагас цан",
+    "hanja": "半盞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반잠수정",
+    "translation": "Хагас шумбагч онгоц",
+    "hanja": "半潛水艇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반장",
+    "translation": "ангийн дарга",
+    "hanja": "班長",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반장하다",
+    "translation": "ангийн дарга хийх",
+    "hanja": "班長하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반전",
+    "translation": "эргэлт",
+    "hanja": "反轉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반전되다",
+    "translation": "эргэх, эргүүлэх",
+    "hanja": "反轉되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반전하다",
+    "translation": "хувьсгал хийх",
+    "hanja": "反轉하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "반절",
+    "translation": "тал",
+    "hanja": "半절",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반점",
+    "translation": "Сэвх, нөсөө",
+    "hanja": "斑點",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반정",
+    "translation": "төрийн эргэлт",
+    "hanja": "反正",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반제품",
+    "translation": "хагас боловсруулсан бүтээгдэхүүн",
+    "hanja": "半製品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반조",
+    "translation": "Дахин хийх, давтах",
+    "hanja": "反照",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반주",
+    "translation": "дагалдах хөгжим",
+    "hanja": "伴奏",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "반주자",
+    "translation": "дагалдан тоглогч",
+    "hanja": "伴奏者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반주하다",
+    "translation": "дагалдан хөгжимдөх",
+    "hanja": "伴奏하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반죽",
+    "translation": "зуурмаг",
+    "hanja": "半죽",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반죽하다",
+    "translation": "зуурах, холих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반중",
+    "translation": "Хятадын эсрэг",
+    "hanja": "反中",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반증",
+    "translation": "сөрөг нотолгоо",
+    "hanja": "反證",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반증하다",
+    "translation": "нотолгоо олох",
+    "hanja": "反證하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "반지",
+    "translation": "бөгж",
+    "hanja": "반지",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "반지르르",
+    "translation": "гялалзсан, гялтгар",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "반지르르하다",
+    "translation": "гялалзсан, гөлгөр",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반지름",
+    "translation": "Радиус",
+    "hanja": "半지름",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반짇고리",
+    "translation": "оёдлын хайрцаг",
+    "hanja": "반짇고리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반질거리다",
+    "translation": "гялалзах, толигор байх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "반질반질",
+    "translation": "гялалзсан",
+    "hanja": "반질반질",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반질반질하다",
+    "translation": "гялалзсан",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반질하다",
+    "translation": "гялалзсан",
+    "hanja": "반질하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반짝",
+    "translation": "гялалзах",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반짝거리다",
+    "translation": "Гялалзах, гялс гялс хийх",
+    "hanja": "반짝거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반짝반짝",
+    "translation": "гялалзах, гялтганах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반짝반짝하다",
+    "translation": "гялалзах, гялбаганах",
+    "hanja": "없음",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반짝이다",
+    "translation": "Гялалзах",
+    "hanja": "반짝이다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "반짝하다",
+    "translation": "гялалзах, гялтганах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반쪽",
+    "translation": "Хагас",
+    "hanja": "半쪽",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반차",
+    "translation": "хагас өдрийн чөлөө",
+    "hanja": "半次",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반찬",
+    "translation": "Хачир, дагалдах хоол",
+    "hanja": "飯饌",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "반찬거리",
+    "translation": "Хоолны хачир бэлдэх зүйл",
+    "hanja": "半饌거리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반창고",
+    "translation": "боолт",
+    "hanja": "絆創膏",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "반체제",
+    "translation": "системийн эсрэг",
+    "hanja": "反體制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반초",
+    "translation": "дахин эхлэх",
+    "hanja": "反初",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반촌",
+    "translation": "язгууртны суурин",
+    "hanja": "班村",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반추",
+    "translation": "эргэцүүлэх",
+    "hanja": "反芻",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반추하다",
+    "translation": "эргэцүүлэх, бодох",
+    "hanja": "反芻하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반출",
+    "translation": "гадагш гаргах, экспорт",
+    "hanja": "搬出",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반출되다",
+    "translation": "гаргах, экспортлох",
+    "hanja": "搬出되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "반출하다",
+    "translation": "гаргах",
+    "hanja": "搬出하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반칙",
+    "translation": "Дүрэм зөрчих, алдаа",
+    "hanja": "反則",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "반칙하다",
+    "translation": "Дүрэм зөрчих",
+    "hanja": "反則하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반침",
+    "translation": "хагас унтлагын өрөө",
+    "hanja": "半寢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반코마이신",
+    "translation": "ванкомицин",
+    "hanja": "반코마이신",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반코트",
+    "translation": "Хагас талбай",
+    "hanja": "半코트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반크",
+    "translation": "Банк (байгууллага)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반타작",
+    "translation": "хагас ургац, тал хувь",
+    "hanja": "半타작",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "반토",
+    "translation": "тал, хагас",
+    "hanja": "半土",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반통",
+    "translation": "хагас сав",
+    "hanja": "半筒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반투",
+    "translation": "Банту",
+    "hanja": "Bantu",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반투명",
+    "translation": "хагас тунгалаг",
+    "hanja": "半透明",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반투명하다",
+    "translation": "бүдэг, хагас тунгалаг",
+    "hanja": "半透明-하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반트",
+    "translation": "ширүүн хэлбэр (хугацаа)",
+    "hanja": "반트",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "반파",
+    "translation": "хагас устгах, хэсэгчлэн сүйтгэх",
+    "hanja": "半破",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반파되다",
+    "translation": "хагас устх",
+    "hanja": "半破되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반팔",
+    "translation": "богино ханцуй",
+    "hanja": "半팔",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "반평생",
+    "translation": "амьдралын тал хувь",
+    "hanja": "半平生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반포",
+    "translation": "зарлах, тунхаглах",
+    "hanja": "頒布",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반포되다",
+    "translation": "Тушаал зарлиг гарах, нийтэд мэдээлэх",
+    "hanja": "頒布되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반포하다",
+    "translation": "зарлах",
+    "hanja": "頒布하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반푼이",
+    "translation": "хагас ухаантай",
+    "hanja": "半푼이",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반품",
+    "translation": "Буцаан олгох бараа",
+    "hanja": "返品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반품되다",
+    "translation": "буцаагдах",
+    "hanja": "返품되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반품하다",
+    "translation": "буцаах",
+    "hanja": "返품하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반피",
+    "translation": "хагас цус",
+    "hanja": "半—",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반하다",
+    "translation": "Дуртай болох, уруу татагдах",
+    "hanja": "反하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반항",
+    "translation": "тэмцэл, бослого",
+    "hanja": "反抗",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "반항심",
+    "translation": "эсэргүүцэх сэтгэл",
+    "hanja": "反抗心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반항아",
+    "translation": "босогч",
+    "hanja": "反抗兒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반항적",
+    "translation": "эсэргүүцсэн, дуулгаваргүй",
+    "hanja": "反抗的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반항하다",
+    "translation": "эсэргүүцэх, тэрслэх",
+    "hanja": "反抗하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반핵",
+    "translation": "цөмийн эсрэг",
+    "hanja": "反核",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반향",
+    "translation": "/дууны/ цуурай, нөлөө, үр нөлөө",
+    "hanja": "反響",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "반환",
+    "translation": "буцаах",
+    "hanja": "返還",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반환되다",
+    "translation": "буцаагдах",
+    "hanja": "返還되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반환점",
+    "translation": "эргэх цэг",
+    "hanja": "返還點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "반환하다",
+    "translation": "Буцаан олгох",
+    "hanja": "返還하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

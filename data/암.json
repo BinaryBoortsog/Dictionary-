@@ -1,0 +1,625 @@
+[
+  {
+    "word": "암",
+    "translation": "Хорт хавдар",
+    "hanja": "癌",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "암갈색",
+    "translation": "Хар хүрэн өнгө",
+    "hanja": "暗褐色",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "암것",
+    "translation": "эмэгчин амьтан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "암구다",
+    "translation": "үүрлэх",
+    "hanja": "암구다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암굴",
+    "translation": "агуй",
+    "hanja": "巖窟",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "암기력",
+    "translation": "маш сайн санах ой",
+    "hanja": "暗記力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암기하다",
+    "translation": "цээжлэх",
+    "hanja": "暗記하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "암내",
+    "translation": "биеийн үнэр",
+    "hanja": "암내",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암놈",
+    "translation": "эмэгчин амьтан",
+    "hanja": "암놈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "암다",
+    "translation": "Гэрлэх, гэр бүл болох (хуучин үг)",
+    "hanja": "암다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "암담하다",
+    "translation": "Баргар, харанхуй, найдваргүй",
+    "hanja": "暗澹하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암리차르",
+    "translation": "Амритсар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "암막",
+    "translation": "Харанхуй хөшиг",
+    "hanja": "暗幕",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "암만",
+    "translation": "хэчнээн ч байсан",
+    "hanja": "아무리",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "암매장",
+    "translation": "нууцаар оршуулах",
+    "hanja": "暗埋葬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암매장하다",
+    "translation": "нууцаар оршуулах",
+    "hanja": "暗埋葬하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "암모",
+    "translation": "аммони",
+    "hanja": "ammonia",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암모나이트",
+    "translation": "аммонит",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "암모니아",
+    "translation": "аммиак",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암묵",
+    "translation": "дуугүй байх, чимээгүй байх",
+    "hanja": "暗黙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "암묵적",
+    "translation": "далд, дуугүй",
+    "hanja": "暗黙的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암반",
+    "translation": "хадан цохио",
+    "hanja": "岩盤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암벽",
+    "translation": "Хадан хана, хад",
+    "hanja": "岩壁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암부",
+    "translation": "нууц хэсэг, сүүдэртэй хэсэг",
+    "hanja": "暗部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암브로시아",
+    "translation": "амброзиа (бурхдын хоол)",
+    "hanja": "ambrosia",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "암브로시우스",
+    "translation": "Амвросий (нэр)",
+    "hanja": "암브로시우스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암뽕",
+    "translation": "Эх үнээний дэлэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암사",
+    "translation": "Амса",
+    "hanja": "岩寺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암산",
+    "translation": "бодол",
+    "hanja": "暗算",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "암산하다",
+    "translation": "бодож гаргах",
+    "hanja": "暗算하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암살단",
+    "translation": "алагчийн бүлэг",
+    "hanja": "暗殺團",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "암살당하다",
+    "translation": "халдлагад өртөх",
+    "hanja": "暗殺當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암살되다",
+    "translation": "Алагдах",
+    "hanja": "暗殺-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암살하다",
+    "translation": "Алах, нууцаар алах",
+    "hanja": "暗殺하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암석",
+    "translation": "чулуулаг, хад",
+    "hanja": "岩石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암세포",
+    "translation": "хавдрын эс",
+    "hanja": "癌細胞",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "암소",
+    "translation": "үхэр, сүүний үхэр",
+    "hanja": "암牛",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "암송",
+    "translation": "Цээжлэх, цээжээр унших",
+    "hanja": "暗誦",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암송하다",
+    "translation": "цээжлэх",
+    "hanja": "暗誦하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "암수",
+    "translation": "эр эм",
+    "hanja": "雌雄",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "암술",
+    "translation": "Эмэгтэй цэцгийн эрхтэн",
+    "hanja": "암蕊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암스테르담",
+    "translation": "Амстердам",
+    "hanja": "Amsterdam",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "암스트롱",
+    "translation": "Армстронг",
+    "hanja": "암스트롱",
+    "pos": "нэр",
+    "cefr": "C2"
+  },
+  {
+    "word": "암시",
+    "translation": "Зөвлөгөө",
+    "hanja": "暗示",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암시되다",
+    "translation": "Санаа өгөгдөх, илтгэгдэх (далд утга)",
+    "hanja": "暗示되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암시장",
+    "translation": "хар зах",
+    "hanja": "闇市場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암시하다",
+    "translation": "Илэрхийлэх",
+    "hanja": "暗示하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암실",
+    "translation": "Харанхуй өрөө",
+    "hanja": "暗室",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "암암리",
+    "translation": "нууцаар, далд хэлбэрээр",
+    "hanja": "暗暗裡",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "암약",
+    "translation": "нууцаар ажиллах",
+    "hanja": "暗躍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암약하다",
+    "translation": "нууцаар ажиллах",
+    "hanja": "暗躍하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암양",
+    "translation": "хонь",
+    "hanja": "雌羊",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "암어",
+    "translation": "нууц үг, код",
+    "hanja": "暗語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암염",
+    "translation": "чулууны давс",
+    "hanja": "岩鹽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암운",
+    "translation": "харанхуй үүл",
+    "hanja": "暗雲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암울하다",
+    "translation": "Харанхуй, бүрхэг, гунигтай",
+    "hanja": "暗鬱하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암자",
+    "translation": "бясалгалын сүм",
+    "hanja": "庵子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암장",
+    "translation": "нуугдах",
+    "hanja": "暗葬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암적",
+    "translation": "харанхуй, нууц",
+    "hanja": "暗的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암전",
+    "translation": "Бүрэнхий, харанхуй",
+    "hanja": "暗轉",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "암중",
+    "translation": "Харанхуйд, нууцаар",
+    "hanja": "暗中",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "암체어",
+    "translation": "буйдан",
+    "hanja": "암체어",
+    "pos": "нэр үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "암초",
+    "translation": "ширэгт хад",
+    "hanja": "暗礁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암캉아지",
+    "translation": "эм гөлөг",
+    "hanja": "암캉아지",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "암캐",
+    "translation": "Эм нохой",
+    "hanja": "암캐",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "암컷",
+    "translation": "эм амьтан",
+    "hanja": "雌컷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "암키와",
+    "translation": "эм ваар",
+    "hanja": "암기와",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암탉",
+    "translation": "тахиа",
+    "hanja": "암탉",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "암퇘지",
+    "translation": "Эм гахай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "암투",
+    "translation": "нууц тэмцэл, далд тэмцэл",
+    "hanja": "暗鬪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암튼",
+    "translation": "ямар ч байсан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "암팡지다",
+    "translation": "чанга, тэсвэртэй",
+    "hanja": "암팡지다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암페어",
+    "translation": "ампер",
+    "hanja": "ampere",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암페타민",
+    "translation": "амфетамин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "암포",
+    "translation": "Амфора",
+    "hanja": "암포",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "암표",
+    "translation": "хар тасалбар",
+    "hanja": "暗票",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "암피트리온",
+    "translation": "Амфитрион",
+    "hanja": "Amphitryon",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "암행",
+    "translation": "нууцаар явах, нууц аялал",
+    "hanja": "暗行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암행어사",
+    "translation": "нууц байцаагч (солонгосын түүхэн албан тушаал)",
+    "hanja": "暗行御史",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "암호",
+    "translation": "Нууц үг, код",
+    "hanja": "暗號",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "암호문",
+    "translation": "Кодлогдсон бичиг",
+    "hanja": "暗號文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암호화",
+    "translation": "кодлох, нууцлах",
+    "hanja": "暗號化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암호화되다",
+    "translation": "кодлогдох",
+    "hanja": "暗號化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암호화하다",
+    "translation": "шифрлэх",
+    "hanja": "暗號化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암홀",
+    "translation": "Суганы нүх",
+    "hanja": "arm-hole",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암흑",
+    "translation": "харанхуй",
+    "hanja": "暗黑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암흑가",
+    "translation": "харанхуй хороолол",
+    "hanja": "暗黑街",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암흑기",
+    "translation": "харанхуй үе",
+    "hanja": "暗黑期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암흑시대",
+    "translation": "харанхуй үе",
+    "hanja": "暗黑時代",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

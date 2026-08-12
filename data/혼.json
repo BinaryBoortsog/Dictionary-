@@ -1,0 +1,660 @@
+[
+  {
+    "word": "혼",
+    "translation": "Сүнс, сэтгэл",
+    "hanja": "魂",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼곤하다",
+    "translation": "Унтаарах, манарах, ухаан балартах",
+    "hanja": "昏困하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼기",
+    "translation": "гэрлэх нас",
+    "hanja": "婚期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼꾸멍내다",
+    "translation": "Загнах, зэмлэх",
+    "hanja": "혼꾸멍내다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼나다",
+    "translation": "загнуулах",
+    "hanja": "魂나다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼내다",
+    "translation": "зэмлэх",
+    "hanja": "None",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼내키다",
+    "translation": "загнах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼담",
+    "translation": "гэрлэх тухай яриа",
+    "hanja": "婚談",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼돈",
+    "translation": "эмх замбараагүй байдал",
+    "hanja": "混沌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼돈되다",
+    "translation": "үймэх",
+    "hanja": "混沌되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼돈스럽다",
+    "translation": "үймээнтэй",
+    "hanja": "混沌스럽다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "혼돈하다",
+    "translation": "эмх замбараагүй байх",
+    "hanja": "混沌하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼동",
+    "translation": "андуурал",
+    "hanja": "混同",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼동되다",
+    "translation": "будилагдах, андуурагдах",
+    "hanja": "混同되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼동하다",
+    "translation": "Төөрөлдөх, андуурах",
+    "hanja": "混同하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼란",
+    "translation": "эмх замбараагүй байдал",
+    "hanja": "混亂",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼란기",
+    "translation": "үймээн самууны үе",
+    "hanja": "混亂期",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼란되다",
+    "translation": "үймэх, замбараагүй болох",
+    "hanja": "混亂되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼란상",
+    "translation": "эмх замбараагүй байдал",
+    "hanja": "混亂相",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼란스럽다",
+    "translation": "Төөрөгдөлтэй, үймээнтэй",
+    "hanja": "混亂스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼란시키다",
+    "translation": "будилаантуулах",
+    "hanja": "混亂시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼란하다",
+    "translation": "эмх замбараагүй",
+    "hanja": "混亂하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼령",
+    "translation": "сүнс",
+    "hanja": "魂靈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼례",
+    "translation": "Хурим",
+    "hanja": "婚禮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼례복",
+    "translation": "Хуримын хувцас",
+    "hanja": "婚禮服",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼례식",
+    "translation": "хуримын ёслол",
+    "hanja": "婚禮式",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼마",
+    "translation": "Хонма (Японы овог нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼맥",
+    "translation": "гэрлэн холбоо, хамаатан садан",
+    "hanja": "婚脈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼문",
+    "translation": "гэрлэлтийн баримт бичиг",
+    "hanja": "婚文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼미",
+    "translation": "Ухаан балартах, самуурах",
+    "hanja": "昏迷",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼미하다",
+    "translation": "мэдрэл сулрах, толгой эргэх",
+    "hanja": "昏迷하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼밥러",
+    "translation": "ганцаараа хооллогч",
+    "hanja": "혼밥러",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼방",
+    "translation": "холимог нэхмэл",
+    "hanja": "混紡",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼백",
+    "translation": "сүнс",
+    "hanja": "魂魄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼복",
+    "translation": "холимог хос (спорт)",
+    "hanja": "混複",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼비백산",
+    "translation": "айж сандарсан, аймшигт автсан",
+    "hanja": "魂飛魄散",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼비백산하다",
+    "translation": "хөл толгойгүй сандрах, айж балмагдах",
+    "hanja": "魂飛魄散하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "혼사",
+    "translation": "Хуримын асуудал",
+    "hanja": "婚事",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼삿길",
+    "translation": "гэрлэх зам",
+    "hanja": "婚事길",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼선",
+    "translation": "холилдох",
+    "hanja": "混線",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼성",
+    "translation": "холимог",
+    "hanja": "混成",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼세",
+    "translation": "Холимог дэлхий, эмх замбараагүй цаг үе",
+    "hanja": "混世",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "혼수",
+    "translation": "хуримын бэлэг",
+    "hanja": "婚需",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼수상태",
+    "translation": "комын байдал",
+    "hanja": "昏睡狀態",
+    "pos": "мüns",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼수품",
+    "translation": "хуримын сүйт зүйлс",
+    "hanja": "婚需品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼숙",
+    "translation": "холимог бөхөн",
+    "hanja": "混宿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼슈",
+    "translation": "Хонсю",
+    "hanja": "本州",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼식",
+    "translation": "холимог хоол",
+    "hanja": "混食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼신",
+    "translation": "Бүх бие, бүх зүрх сэтгэл",
+    "hanja": "渾身",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼약",
+    "translation": "сүй тавих",
+    "hanja": "婚約",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼연일체",
+    "translation": "нэгэн зүрх, нэгэн сэтгэл",
+    "hanja": "渾然一體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼영",
+    "translation": "холимог усанд сэлэлт",
+    "hanja": "混泳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼외",
+    "translation": "гэрлэлтийн гаднах",
+    "hanja": "婚外",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼용",
+    "translation": "хольж хэрэглэх",
+    "hanja": "混用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼용되다",
+    "translation": "혼용되다",
+    "hanja": "混用되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼용하다",
+    "translation": "혼용하다",
+    "hanja": "混用하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼인",
+    "translation": "гэрлэлт",
+    "hanja": "婚姻",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼인식",
+    "translation": "хурим",
+    "hanja": "婚姻式",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "혼인하다",
+    "translation": "гэрлэх",
+    "hanja": "婚姻하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼일강리역대국도지도",
+    "translation": "Хонилканри Ёгтэгукдожидо",
+    "hanja": "混一疆理歷代國都之圖",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "혼입",
+    "translation": "холих",
+    "hanja": "混入",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼입되다",
+    "translation": "холилдох",
+    "hanja": "混入되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼자",
+    "translation": "ганцаараа",
+    "hanja": "혼자",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "혼자되다",
+    "translation": "ганц бие болох",
+    "hanja": "혼자되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "혼자말",
+    "translation": "ганцаараа хэлэх үг",
+    "hanja": "혼자말",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "혼잡",
+    "translation": "түгжрэл, бөглөрөл",
+    "hanja": "混雜",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼잡하다",
+    "translation": "завгүй байх",
+    "hanja": "혼잡하다(混雜하다)",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼잣말",
+    "translation": "ганцаараа ярих",
+    "hanja": "혼잣말",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼잣말하다",
+    "translation": "Өөртөө ярих",
+    "hanja": "혼잣말하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼재",
+    "translation": "холимог орших",
+    "hanja": "混在",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼재되다",
+    "translation": "холилдох",
+    "hanja": "混在되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼재하다",
+    "translation": "холилдон орших, зэрэгцэн байх",
+    "hanja": "混在하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼전",
+    "translation": "гэрлэхээс өмнө, эмх замбараагүй тулаан",
+    "hanja": "婚前, 混戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼절",
+    "translation": "ухаан алдах",
+    "hanja": "昏絶",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼절하다",
+    "translation": "Ухаан алдах, тасрах",
+    "hanja": "昏絶하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼조",
+    "translation": "Холимог байдал",
+    "hanja": "混調",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼종",
+    "translation": "эрлийз",
+    "hanja": "混種",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼주",
+    "translation": "хуримын эзэн",
+    "hanja": "婚主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼쭐",
+    "translation": "Уурлах, зэмлэх",
+    "hanja": "魂쭐",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼쭐나다",
+    "translation": "Загнуулах",
+    "hanja": "魂쭐나다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼쭐내다",
+    "translation": "загнах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼처",
+    "translation": "гэрлэх газар",
+    "hanja": "婚處",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼천시계",
+    "translation": "одон орны цаг",
+    "hanja": "渾天時計",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "혼천의",
+    "translation": "тэнгэрийн бөмбөрцөг",
+    "hanja": "渾天儀",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "혼코노",
+    "translation": "караоке",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼탁",
+    "translation": "буюл, булингартай",
+    "hanja": "混濁",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼탁하다",
+    "translation": "Булингартай, бохир",
+    "hanja": "混濁하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼탕",
+    "translation": "нийтийн усанд орох газар",
+    "hanja": "混湯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼합",
+    "translation": "холимог",
+    "hanja": "混合",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼합되다",
+    "translation": "холилдох",
+    "hanja": "混合되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼합물",
+    "translation": "холимог",
+    "hanja": "混合物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼합하다",
+    "translation": "холих, нэгтгэх",
+    "hanja": "混合하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "혼혈",
+    "translation": "Эрлийз",
+    "hanja": "混血",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼혈아",
+    "translation": "эрлийз хүүхэд",
+    "hanja": "混血兒",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

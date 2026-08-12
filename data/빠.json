@@ -1,0 +1,324 @@
+[
+  {
+    "word": "빠",
+    "translation": "бар",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "빠가사리",
+    "translation": "Мунхаг хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠각",
+    "translation": "шажиг, хугарсан чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빠구리",
+    "translation": "хударгатай",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "빠그라지다",
+    "translation": "Эвдрэх, сүйрэх",
+    "hanja": "빠그라지다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빠그러지다",
+    "translation": "хугарч унах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠글빠글",
+    "translation": "Бужигнасан, бөөнөөрөө",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빠글빠글하다",
+    "translation": "бөөн бөөнөөрөө байх",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "빠꾸",
+    "translation": "буцаах",
+    "hanja": "빠꾸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빠꾸하다",
+    "translation": "Ухрах, буцах (буруу үг)",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "빠끔",
+    "translation": "Гэнэт, огцом нээх",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "빠끔히",
+    "translation": "бага зэрэг нээлттэй",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빠다",
+    "translation": "Цөцгийн тос",
+    "hanja": "빠다",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "빠드득",
+    "translation": "хатуу чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빠득",
+    "translation": "зурж, хавиран, тас няс хийх дуу",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠득빠득",
+    "translation": "Шүд хавирах",
+    "hanja": "빠득빠득",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠듯하다",
+    "translation": "хангалтгүй",
+    "hanja": "빠듯하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "빠따",
+    "translation": "бэйсболын цохиур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빠뜨리다",
+    "translation": "Орох, дутагдал",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "빠루",
+    "translation": "төмөр жад, хөших хэрэгсэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠르다",
+    "translation": "хурдан",
+    "hanja": "빠르다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "빠리",
+    "translation": "Парис хот",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "빠릿빠릿하다",
+    "translation": "хурдан шаламгай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빠밤",
+    "translation": "Пабам (дуу авиа дуурайх)",
+    "hanja": "빠밤",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "빠방",
+    "translation": "пус (машины дуу)",
+    "hanja": "빠방",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "빠방하다",
+    "translation": "дүүрэн байх, чанар сайтай байх",
+    "hanja": "빠방하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "빠삭",
+    "translation": "шажиг (дуу)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠삭빠삭하다",
+    "translation": "шажигнуур, хурц",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠삭하다",
+    "translation": "сайн мэддэг",
+    "hanja": "빠삭하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠스다",
+    "translation": "шарах",
+    "hanja": "빠스다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠싹하다",
+    "translation": "хурц, сайн мэддэг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "빠이",
+    "translation": "баярлалаа",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "빠이빠이",
+    "translation": "баяртай",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "빠작하다",
+    "translation": "Бат бөх, нягт",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠져나가다",
+    "translation": "зугтах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠져나오다",
+    "translation": "гарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠져들다",
+    "translation": "татан орох",
+    "hanja": "없음",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠지다",
+    "translation": "Унагах, алдах, дутах",
+    "hanja": null,
+    "pos": "동사 (Verb)",
+    "cefr": "A1"
+  },
+  {
+    "word": "빠지직",
+    "translation": "хагарах чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빠직",
+    "translation": "тас хийх (дуу чимээ)",
+    "hanja": "빠직",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "빠짐",
+    "translation": "хутгалдах",
+    "hanja": "빠짐",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "빠짐없이",
+    "translation": "бүгд",
+    "hanja": "빠짐없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠짝",
+    "translation": "маш хурдан, яг таг",
+    "hanja": "null",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠짝빠짝",
+    "translation": "маш хурдан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빠칭코",
+    "translation": "пачинко",
+    "hanja": "빠칭코",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빠트리다",
+    "translation": "Унагаж оруулах, орхих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

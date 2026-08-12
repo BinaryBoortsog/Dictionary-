@@ -1,0 +1,1255 @@
+[
+  {
+    "word": "산",
+    "translation": "уул",
+    "hanja": "山",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "산간",
+    "translation": "уулсын дунд",
+    "hanja": "山間",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산간벽지",
+    "translation": "уулын алслагдсан бүс нутаг",
+    "hanja": "山間僻地",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "산개",
+    "translation": "Тархах, сарних",
+    "hanja": "散開",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산개하다",
+    "translation": "тараах, тархаах",
+    "hanja": "散開하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "산거",
+    "translation": "ууланд амьдрах",
+    "hanja": "山居",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산고",
+    "translation": "Төрөх үеийн өвдөлт",
+    "hanja": "産苦",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "산골",
+    "translation": "уулын хөндий",
+    "hanja": "山골",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산골짜기",
+    "translation": "уулын хөндий",
+    "hanja": "山골짜기",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산골짝",
+    "translation": "хөндий",
+    "hanja": "山골짝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산과",
+    "translation": "эхийн үүтгэх эмч",
+    "hanja": "産科",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산군",
+    "translation": "уулын хаан",
+    "hanja": "山君",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "산기",
+    "translation": "уулын хий",
+    "hanja": "山氣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산기슭",
+    "translation": "уулын бэл",
+    "hanja": "山기슭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산길",
+    "translation": "уулын зам",
+    "hanja": "山길",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "산꼭대기",
+    "translation": "Уулын орой",
+    "hanja": "山꼭대기",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산나물",
+    "translation": "Уулын ногоо",
+    "hanja": "山나물",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산다",
+    "translation": "амьдрах",
+    "hanja": "살다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "산단",
+    "translation": "үйлдвэрийн цогцолбор",
+    "hanja": "産團",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "산달",
+    "translation": "산달 (아이가 태어날 달)",
+    "hanja": "産달",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산당",
+    "translation": "уулын сүм",
+    "hanja": "山堂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산대",
+    "translation": "уулын тавцан",
+    "hanja": "山臺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산더미",
+    "translation": "уулын овоолго",
+    "hanja": "山더미",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산도",
+    "translation": "хүчиллэг",
+    "hanja": "酸度",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "산동",
+    "translation": "Шаньдун (муж)",
+    "hanja": "山東",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산동네",
+    "translation": "уулын тосгон",
+    "hanja": "山동네",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산둥",
+    "translation": "Шаньдун",
+    "hanja": "山東",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산들바람",
+    "translation": "сэвшээ салхи",
+    "hanja": "산들-바람",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산들산들",
+    "translation": "зөөлөн, сэвшээ салхи",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산등성이",
+    "translation": "уулын нуруу",
+    "hanja": "山등성이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산디",
+    "translation": "Саади",
+    "hanja": "산디",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산딸기",
+    "translation": "Ойн бөөрөлзгөнө",
+    "hanja": "산딸기",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산딸나무",
+    "translation": "уулын бөөрөлзгөнө мод",
+    "hanja": "山딸나무",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산뜻",
+    "translation": "шинэхэн",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산뜻하다",
+    "translation": "цэвэрхэн",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "산란",
+    "translation": "түрс шахамдах",
+    "hanja": "産卵",
+    "pos": "сущ",
+    "cefr": "B2"
+  },
+  {
+    "word": "산란기",
+    "translation": "түрс шаших үе",
+    "hanja": "産卵期",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산란하다",
+    "translation": "Өндөглөх (амьтан)",
+    "hanja": "産卵하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "산림",
+    "translation": "ой мод",
+    "hanja": "山林",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산마",
+    "translation": "зэрлэг ямаа",
+    "hanja": "山馬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산마루",
+    "translation": "уулын орой",
+    "hanja": "山마루",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산마리노",
+    "translation": "Сан Марино",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산막",
+    "translation": "уулын овоохой",
+    "hanja": "山幕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산만하다",
+    "translation": "анхааралгүй",
+    "hanja": "散漫하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산매",
+    "translation": "сарниулан зарах",
+    "hanja": "散買",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산맥",
+    "translation": "уулын нуруу",
+    "hanja": "山脈",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "산모",
+    "translation": "эх",
+    "hanja": "産母",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산문",
+    "translation": "өгүүллэг, зохиол",
+    "hanja": "散文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산물",
+    "translation": "үр дүн",
+    "hanja": "産物",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "산미",
+    "translation": "хүчиллэг амт",
+    "hanja": "酸味",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산바",
+    "translation": "санба (бүжгийн нэг төрөл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산발",
+    "translation": "Тархмал",
+    "hanja": "散發",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산발되다",
+    "translation": "Түгэх, тархах",
+    "hanja": "散發되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산발하다",
+    "translation": "тархах",
+    "hanja": "散發하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "산보",
+    "translation": "Амралт",
+    "hanja": "散步",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산보하다",
+    "translation": "зугаалах",
+    "hanja": "散步하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산복",
+    "translation": "Уулын налуу; Уулын бэл",
+    "hanja": "山腹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산본",
+    "translation": "уулын үндэс",
+    "hanja": "山本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산봉우리",
+    "translation": "уулын орой",
+    "hanja": "山봉우리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산부인과",
+    "translation": "эх барих, эмэгтэйчүүдийн тасаг",
+    "hanja": "産婦人科",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산불",
+    "translation": "ойн түймэр",
+    "hanja": "山불",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산비탈",
+    "translation": "уулын налуу",
+    "hanja": "山비탈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산사",
+    "translation": "уулын сүм",
+    "hanja": "山寺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산사태",
+    "translation": "хөрсний нуралт",
+    "hanja": "山沙汰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산산",
+    "translation": "бут бутархай",
+    "hanja": "散散",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산산조각",
+    "translation": "хэлтэрхий",
+    "hanja": "산산조각",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산산히",
+    "translation": "Талхлан",
+    "hanja": "散散히",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "산살바도르",
+    "translation": "Сан Сальвадор",
+    "hanja": "산살바도르",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산삼",
+    "translation": "ойн сам хорхой",
+    "hanja": "山參",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "산상",
+    "translation": "уулын орой",
+    "hanja": "山上",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산새",
+    "translation": "уулын шувуу",
+    "hanja": "山-",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "산성",
+    "translation": "хүчиллэг",
+    "hanja": "酸性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산성비",
+    "translation": "хүчиллэг бороо",
+    "hanja": "酸性비",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산성화",
+    "translation": "хүчиллэгжүүлэх",
+    "hanja": "酸性化",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "산성화되다",
+    "translation": "хүчиллэгжих",
+    "hanja": "酸性化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산세",
+    "translation": "уулсын хэлбэр, харагдах байдал",
+    "hanja": "山勢",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "산소",
+    "translation": "хүчилтөрөгч",
+    "hanja": "酸素",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "산소통",
+    "translation": "Хүчилтөрөгчийн баллон",
+    "hanja": "酸素筒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산속",
+    "translation": "уулын дотор",
+    "hanja": "산속(山속)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산송장",
+    "translation": "амьд үхдэл",
+    "hanja": "산屍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산수",
+    "translation": "тооны арга",
+    "hanja": "算數",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산수화",
+    "translation": "уул усны зураг",
+    "hanja": "山水畫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산술",
+    "translation": "арифметик",
+    "hanja": "算術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산술적",
+    "translation": "арифметикийн, тооны",
+    "hanja": "算術的",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산스장",
+    "translation": "Санс Жан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산시",
+    "translation": "тархсан зах зээл",
+    "hanja": "山市",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "산식",
+    "translation": "тооцооны арга",
+    "hanja": "算式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산신",
+    "translation": "уулын бурхан",
+    "hanja": "山神",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산신령",
+    "translation": "Уулын сүнс",
+    "hanja": "山神靈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산실",
+    "translation": "усан оргилуур",
+    "hanja": "産室",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산아",
+    "translation": "төрсөн хүүхэд",
+    "hanja": "産兒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산악",
+    "translation": "уул нурууд",
+    "hanja": "山岳",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산악인",
+    "translation": "уулчин",
+    "hanja": "山岳人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산야",
+    "translation": "уулс, тал хээр",
+    "hanja": "山野",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산양",
+    "translation": "уул, хуц",
+    "hanja": "山羊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산업",
+    "translation": "Аж үйлдвэр",
+    "hanja": "産業",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "산업용",
+    "translation": "үйлдвэрлэлийн зориулалттай",
+    "hanja": "産業用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산업체",
+    "translation": "үйлдвэр",
+    "hanja": "産業體",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산업화",
+    "translation": "Аж үйлдвэржүүлэлт",
+    "hanja": "産業化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산업화되다",
+    "translation": "аж үйлдвэржүүлэх",
+    "hanja": "産業化되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "산와",
+    "translation": "урсгал усны хөндий",
+    "hanja": "山窩",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "산울림",
+    "translation": "цуурай",
+    "hanja": "山울림",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산원",
+    "translation": "уулын талбай",
+    "hanja": "山園",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산위",
+    "translation": "уулын орой",
+    "hanja": "山위",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "산유",
+    "translation": "гаргах",
+    "hanja": "産油",
+    "pos": "n",
+    "cefr": "C2"
+  },
+  {
+    "word": "산유국",
+    "translation": "нефть үйлдвэрлэгч улс",
+    "hanja": "産油國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산음",
+    "translation": "уулын сүүдэр, уулын хормой",
+    "hanja": "山陰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산이",
+    "translation": "уул (хүүхдийн хэлээр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "산입",
+    "translation": "тооцоонд оруулах",
+    "hanja": "算入",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산자",
+    "translation": "сайн эр, үнэнч хүн",
+    "hanja": "散者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산자락",
+    "translation": "Уулын бэл",
+    "hanja": "山자락",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산장",
+    "translation": "уулын байшин, амралтын газар",
+    "hanja": "山莊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산재",
+    "translation": "олон газар тархсан",
+    "hanja": "散在",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "산재되다",
+    "translation": "Тархсан байх; Санаанууд тархсан байх",
+    "hanja": "散在되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산재하다",
+    "translation": "Тархах, сарнисан байх",
+    "hanja": "散在하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산적",
+    "translation": "Олноор хуримтлагдах",
+    "hanja": "山積",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산적하다",
+    "translation": "овоорох, хуримтлагдах",
+    "hanja": "山積하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산전수전",
+    "translation": "амьдралын бэрхшээл",
+    "hanja": "山戰水戰",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산정",
+    "translation": "Тооцоолол",
+    "hanja": "算定",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "산정되다",
+    "translation": "Тооцоолох, үнэлэгдэх",
+    "hanja": "算定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산정하다",
+    "translation": "тооцоолох, үнэлэх",
+    "hanja": "算定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산조",
+    "translation": "санжо",
+    "hanja": "散調",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "산주",
+    "translation": "уулын эзэн, уулын архи",
+    "hanja": "山主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산줄기",
+    "translation": "уулын нуруу",
+    "hanja": "山-",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산중",
+    "translation": "Уулын дунд",
+    "hanja": "山中",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산증인",
+    "translation": "амьд гэрч",
+    "hanja": "生證人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산지",
+    "translation": "гарал үүсэл",
+    "hanja": "産地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산지사방",
+    "translation": "дөрвөн зүг, булан бүр",
+    "hanja": "散之四方",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산지옥나비",
+    "translation": "уулын эрвээхэй",
+    "hanja": "山地獄나비",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산짐승",
+    "translation": "уулын амьтан, зэрлэг амьтан",
+    "hanja": "山짐승",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산채",
+    "translation": "уулын ногоо",
+    "hanja": "山菜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산책",
+    "translation": "зугаалга",
+    "hanja": "散策",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산책하다",
+    "translation": "зугаалах, салхилах",
+    "hanja": "散策하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "산척",
+    "translation": "уулын хэмжээ",
+    "hanja": "山尺",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산천",
+    "translation": "уул ус",
+    "hanja": "山川",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산천어",
+    "translation": "уулын загас",
+    "hanja": "山川魚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산천초목",
+    "translation": "уулс, гол мөрөн, ургамал",
+    "hanja": "山川草木",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산청",
+    "translation": "Санчон (газар зүйн нэр)",
+    "hanja": "山淸",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "산체",
+    "translation": "уулын орой",
+    "hanja": "山體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산초",
+    "translation": "гашуун перец",
+    "hanja": "山椒",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "산촌",
+    "translation": "уулын тосгон",
+    "hanja": "山村",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "산출",
+    "translation": "үйлдвэрлэл",
+    "hanja": "産出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산출되다",
+    "translation": "үйлдвэрлэгдэх",
+    "hanja": "産出되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산출하다",
+    "translation": "Тооцоолох",
+    "hanja": "算出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산타",
+    "translation": "Санта",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "산타클로스",
+    "translation": "Өвлийн өвгөн",
+    "hanja": "Santa Claus",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산타페",
+    "translation": "Санта-Фе",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산탄",
+    "translation": "үрэл",
+    "hanja": "散彈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산탄데르",
+    "translation": "Сантандер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산터우",
+    "translation": "Шаньтоу (хот)",
+    "hanja": "汕頭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산테",
+    "translation": "санте (Францын ерөнхийлөгчийн тангараг өргөх ёслолын үг)",
+    "hanja": "Santé",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산토",
+    "translation": "Санто",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산토끼",
+    "translation": "зэрлэг туулай, уулын туулай",
+    "hanja": "山토끼",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산토도밍고",
+    "translation": "Санто Доминго",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산통",
+    "translation": "төрөх үеийн өвдөлт",
+    "hanja": "産痛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산티아고",
+    "translation": "Сантьяго",
+    "hanja": "Santiago",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "산파",
+    "translation": "эх баригч",
+    "hanja": "産婆",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산패",
+    "translation": "Исэлдэх",
+    "hanja": "酸敗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산포",
+    "translation": "Тархалт",
+    "hanja": "散布",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "산하",
+    "translation": "харьяа",
+    "hanja": "傘下",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산학",
+    "translation": "산학",
+    "hanja": "産學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산학연",
+    "translation": "үйлдвэр-их сургууль-судалгааны хүрээлэн",
+    "hanja": "産學硏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산해",
+    "translation": "уул, далай",
+    "hanja": "山海",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산해진미",
+    "translation": "Уул усны амттан (онцгой амттай хоол)",
+    "hanja": "山海珍味",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산행",
+    "translation": "ууланд аялах",
+    "hanja": "산행(山行)",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "산행하다",
+    "translation": "ууланд аялах",
+    "hanja": "山行하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산허리",
+    "translation": "уулын бэл",
+    "hanja": "山허리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산헤드린",
+    "translation": "Санхедрин",
+    "hanja": "산헤드린",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산호",
+    "translation": "Шүр",
+    "hanja": "珊瑚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "산호색",
+    "translation": "шүрэн өнгө",
+    "hanja": "珊瑚色",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "산호세",
+    "translation": "Сан Хосе (Америкийн хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산호초",
+    "translation": "шүрэн арал",
+    "hanja": "珊瑚礁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산화",
+    "translation": "исэлдэлт",
+    "hanja": "酸化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산화되다",
+    "translation": "исэлдэх",
+    "hanja": "酸化되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "산화하다",
+    "translation": "исэлдэх",
+    "hanja": "酸化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산회",
+    "translation": "хурал тарах",
+    "hanja": "散會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산회하다",
+    "translation": "таралах",
+    "hanja": "散會하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "산후",
+    "translation": "Төрсний дараах",
+    "hanja": "産後",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "산후안",
+    "translation": "Сан Хуан",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  }
+]

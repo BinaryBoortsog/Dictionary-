@@ -1,0 +1,702 @@
+[
+  {
+    "word": "드",
+    "translation": "ба /мөн/",
+    "hanja": null,
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "드가다",
+    "translation": "орох (표준어: 들어가다)",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "드골",
+    "translation": "Де Голль",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "드글드글",
+    "translation": "үе үе",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드글드글하다",
+    "translation": "бялхаж дүүрэх",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "드나들다",
+    "translation": "орж гарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드넓다",
+    "translation": "Өргөн уудам, дэлгэр",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드높다",
+    "translation": "маш өндөр",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "드높이",
+    "translation": "маш өндөр",
+    "hanja": "드높이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드높이다",
+    "translation": "өргөмжлөх, өндөрлөх",
+    "hanja": "없음",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드디어",
+    "translation": "эцэст нь, бүүр",
+    "hanja": "None",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드라마",
+    "translation": "драма",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "드라마틱하다",
+    "translation": "драматик, сэтгэл хөдөлгөм",
+    "hanja": "dramatic하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드라비다족",
+    "translation": "Дравид үндэстэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "드라세나",
+    "translation": "Драцена",
+    "hanja": "드라세나",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "드라이",
+    "translation": "Хуурай",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드라이버",
+    "translation": "Жолооч",
+    "hanja": "driver",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "드라이브",
+    "translation": "жолоодох, аялах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드라이브하다",
+    "translation": "машин барих, зугаалах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드라이비트",
+    "translation": "Хуурай бит",
+    "hanja": null,
+    "pos": "건축 용어",
+    "cefr": null
+  },
+  {
+    "word": "드라이어",
+    "translation": "хатаагч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드라이클리닝",
+    "translation": "хими цэвэрлэгээ",
+    "hanja": "드라이클리닝",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "드라이플라워",
+    "translation": "хатаасан цэцэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드라이하다",
+    "translation": "хуурай байх",
+    "hanja": "dry하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "드라큘라",
+    "translation": "Дракула",
+    "hanja": "Dracula",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드라크마",
+    "translation": "драхм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드래곤",
+    "translation": "луу",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "드래그",
+    "translation": "Чирэх",
+    "hanja": "drag",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드래프트",
+    "translation": "төсөл",
+    "hanja": "draft",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "드러",
+    "translation": "илчлэх, ил гаргах",
+    "hanja": "",
+    "pos": "어미",
+    "cefr": "A2"
+  },
+  {
+    "word": "드러그스토어",
+    "translation": "Эмийн сан",
+    "hanja": "드러그스토어",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드러나다",
+    "translation": "илчлэгдэх",
+    "hanja": "드러나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드러내다",
+    "translation": "илчлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드러눕다",
+    "translation": "хэвтэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "드러머",
+    "translation": "Бөмбөрчин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드럭",
+    "translation": "мансууруулах бодис",
+    "hanja": "drug",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드럼",
+    "translation": "бөмбөр",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "드럼스틱",
+    "translation": "бөмбөрний цохиур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드럼통",
+    "translation": "төмөр торх",
+    "hanja": "null",
+    "pos": "н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "드럽다",
+    "translation": "бохир",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드레",
+    "translation": "хүдэр, бөс бараа, хувцас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "드레서",
+    "translation": "хувцасны шүүгээ, хувцасны өлгүүр",
+    "hanja": "드레서",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "드레스",
+    "translation": "даашинз",
+    "hanja": "dress",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "드레스덴",
+    "translation": "Дрезден",
+    "hanja": "드레스덴",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "드레시하다",
+    "translation": "даашинзтай",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "드레싱",
+    "translation": "Хувцаслах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드레이크",
+    "translation": "Дрейк",
+    "hanja": "Drake",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드레이프",
+    "translation": "хөшиг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드레인",
+    "translation": "Ус зайлуулах",
+    "hanja": "드레인",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드레퓌스",
+    "translation": "Дрейфус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드로",
+    "translation": "зураг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드로우",
+    "translation": "шугам зурах",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드로이드",
+    "translation": "дроид",
+    "hanja": "드로이드",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "드로잉",
+    "translation": "зураг",
+    "hanja": "드로잉",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "드로즈",
+    "translation": "шортны дотуур өмд",
+    "hanja": "드로즈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드론",
+    "translation": "дрон",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드롭",
+    "translation": "унждас, уналт",
+    "hanja": "Drop",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드롭스",
+    "translation": "чихэр (дусал)",
+    "hanja": "drops",
+    "pos": "name",
+    "cefr": "A2"
+  },
+  {
+    "word": "드롭킥",
+    "translation": "дроп кик",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드루",
+    "translation": "друид, кельтийн тахилч",
+    "hanja": "드루",
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "드르다",
+    "translation": "буцаах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드르렁",
+    "translation": "хурхирах чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드르렁드르렁",
+    "translation": "хурхирах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "드르르",
+    "translation": "шуугиантай чимээ",
+    "hanja": "드르르",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드르륵",
+    "translation": "Дррр (дуу авиаг дуурайх)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "드르륵거리다",
+    "translation": "тарр хийх, дуугарах",
+    "hanja": "드르륵거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드릅다",
+    "translation": "муухай",
+    "hanja": "드릅다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "드릉드릉",
+    "translation": "хүрхэрсэн дуу",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "드릉드릉하다",
+    "translation": "хурхирах",
+    "hanja": "드릉드릉하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "드리",
+    "translation": "дрифт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드리다",
+    "translation": "өгөх (хүндэтгэлийн хэлбэр)",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "드리머",
+    "translation": "мөрөөдөгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드리볼",
+    "translation": "бөмбөг барих, бөмбөгөөр хөдлөх",
+    "hanja": "드리블",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드리블",
+    "translation": "Бөмбөг удирдах (спорт)",
+    "hanja": "드리블",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드리블하다",
+    "translation": "нэгжээр тоглох",
+    "hanja": "드리블하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드리오다",
+    "translation": "өгөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드리우다",
+    "translation": "уях, дүүжлэх",
+    "hanja": "드리우다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "드리퍼",
+    "translation": "дусаагуур",
+    "hanja": "드리퍼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드리프터",
+    "translation": "үүрэн төөлүүр",
+    "hanja": "드리프터",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "드리프트",
+    "translation": "дрифт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드리프팅",
+    "translation": "Дрифтинг",
+    "hanja": "Drifting",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "드릴",
+    "translation": "Өрөм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드림",
+    "translation": "мөрөөдөл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드림캐처",
+    "translation": "мөрөөдөл баригч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드림캐쳐",
+    "translation": "мөрөөдөл баригч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "드립",
+    "translation": "хошигнол",
+    "hanja": "drip",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드링크",
+    "translation": "Ундаа",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "드무",
+    "translation": "Ховор, цөөн",
+    "hanja": "드무",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "드문드문",
+    "translation": "үе үе",
+    "hanja": null,
+    "pos": "давшин үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "드문드문하다",
+    "translation": "ховор, цөөн",
+    "hanja": "드문드문하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "드물다",
+    "translation": "ховор",
+    "hanja": "null",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "드므",
+    "translation": "галын сав",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "드베",
+    "translation": "хөнжил, дэвсгэр хөнжил",
+    "hanja": "드베",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "드보르자크",
+    "translation": "Дворжак",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "드뷔시",
+    "translation": "Дебюсси",
+    "hanja": "드뷔시",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "드세다",
+    "translation": "хүчтэй",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "드시다",
+    "translation": "Идэх, уух (хүндэтгэлийн)",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "드오",
+    "translation": "дуусах, дуусах (хуучирсан)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "드워프",
+    "translation": "одой",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "드잡이",
+    "translation": "зодоон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

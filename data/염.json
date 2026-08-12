@@ -1,0 +1,401 @@
+[
+  {
+    "word": "염가",
+    "translation": "Хямд үнэ",
+    "hanja": "廉價",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "염기성",
+    "translation": "суурьлаг шинжтэй",
+    "hanja": "鹽基性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "염낭",
+    "translation": "Хэтэвч",
+    "hanja": "鹽囊",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "translation": "давсжилт",
+    "hanja": "鹽度",
+    "pos": "명사",
+    "cefr": "C1",
+    "word": "염도"
+  },
+  {
+    "word": "염두",
+    "translation": "санаандаа, анхааралдаа",
+    "hanja": "念頭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "염라",
+    "translation": "Там",
+    "hanja": "閻羅",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "염라대왕",
+    "translation": "там, үхэгсдийн бурхан",
+    "hanja": "閻羅大王",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "염려",
+    "translation": "санаа зовох, түгших",
+    "hanja": "念慮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "염려되다",
+    "translation": "Санаа зовох, түгших",
+    "hanja": "念慮되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "염려증",
+    "translation": "санаа зовох өвчин",
+    "hanja": " 염려症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염려하다",
+    "translation": "санаа зовох, түгших",
+    "hanja": "念慮하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "염력",
+    "translation": "сэтгэлийн хүч",
+    "hanja": "念力",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "염료",
+    "translation": "Будаг, өнгө",
+    "hanja": "染料",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "염매",
+    "translation": "ихэнх хувьцааг эзэмших",
+    "hanja": "廉買",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "염모",
+    "translation": "үс будагч",
+    "hanja": "染毛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염문",
+    "translation": "Хайрын цуу яриа, амрагийн хэрэг",
+    "hanja": "艶聞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "염미",
+    "translation": "Гоо сайхан, үзэсгэлэн",
+    "hanja": "艶美",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염병",
+    "translation": "тахал",
+    "hanja": "染病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염병하다",
+    "translation": "орчин үед хэрэглэгддэггүй ахмад үеийн үг",
+    "hanja": "染病하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "염부",
+    "translation": "тамын газар",
+    "hanja": "閻浮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염분",
+    "translation": "давсны хэмжээ, давс",
+    "hanja": "鹽分",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "염불",
+    "translation": "буддын залбирал унших",
+    "hanja": "念佛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "염불하다",
+    "translation": "бурханы нэрийг дуудах, тарни унших",
+    "hanja": "念佛하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염사",
+    "translation": "Торгуульчин",
+    "hanja": "殮師",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "염상섭",
+    "translation": "Ёом Сан-соп",
+    "hanja": "廉想涉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "염색",
+    "translation": "будах",
+    "hanja": "染色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "염색되다",
+    "translation": "будагдсан байх",
+    "hanja": "染色되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "염색약",
+    "translation": "будагч бодис",
+    "hanja": "染色藥",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "염색체",
+    "translation": "хромосом",
+    "hanja": "染色體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염색하다",
+    "translation": "будах",
+    "hanja": "染色하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "염세",
+    "translation": "пессимизм",
+    "hanja": "厭世",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염세적",
+    "translation": "гутранги үзэлтэй",
+    "hanja": "厭世的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염세주의",
+    "translation": "пессимизм (гутранги үзэл)",
+    "hanja": "厭世主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염소",
+    "translation": "ямаа",
+    "hanja": "염素",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "염수",
+    "translation": "давстай ус",
+    "hanja": "鹽水",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "염습",
+    "translation": "хүүр угаах",
+    "hanja": "殮襲",
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "염원",
+    "translation": "Хүсэл, мөрөөдөл",
+    "hanja": "念願",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "염원하다",
+    "translation": "хүсэх",
+    "hanja": "念願하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염장",
+    "translation": "давстай нөөшлөх, шунал",
+    "hanja": "鹽藏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "염장하다",
+    "translation": "давслах",
+    "hanja": "鹽藏하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "염전",
+    "translation": "давсны талбай",
+    "hanja": "鹽田",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "염정",
+    "translation": "хүсэл тачаал, дур булаам",
+    "hanja": "豔情",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "염제",
+    "translation": "Гүйдлийн эзэн",
+    "hanja": "炎帝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "염좌",
+    "translation": "мушгирах",
+    "hanja": "捻挫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염주",
+    "translation": "эрхи",
+    "hanja": "念珠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "염증",
+    "translation": "үрэвсэл",
+    "hanja": "炎症",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "염지하다",
+    "translation": "давстай усанд дэвтээх",
+    "hanja": "鹽漬하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "염초",
+    "translation": "давсны хүчил",
+    "hanja": "焰硝",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "염치",
+    "translation": "ичгүүр",
+    "hanja": "廉恥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "염치없다",
+    "translation": "Ичгүүргүй, нүүр байхгүй",
+    "hanja": "廉恥없다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "염치없이",
+    "translation": "ичих нүүргүйгээр, ичгүүр сонжуургүйгээр",
+    "hanja": "廉恥없이",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "염탐",
+    "translation": "тагнан шүүх",
+    "hanja": "廉探",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "염탐꾼",
+    "translation": "тагнуулч",
+    "hanja": "廉探꾼",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "염탐하다",
+    "translation": "Тагнуул хийх",
+    "hanja": "廉探하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "염통",
+    "translation": "зүрх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "염화",
+    "translation": "хлорид",
+    "hanja": "鹽化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "염희하다",
+    "translation": "хүсэх",
+    "hanja": "念希하다",
+    "pos": "동사",
+    "cefr": "C1"
+  }
+]

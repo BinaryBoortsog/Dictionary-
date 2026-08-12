@@ -1,0 +1,604 @@
+[
+  {
+    "word": "표",
+    "translation": "тасалбар",
+    "hanja": "票",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "표결",
+    "translation": "санал хураалт",
+    "hanja": "票決",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표결되다",
+    "translation": "санал хураалтаар шийдэгдэх",
+    "hanja": "票決되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표결하다",
+    "translation": "санал хураах",
+    "hanja": "票決하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표고",
+    "translation": "өндөрлөг",
+    "hanja": "標高",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표구",
+    "translation": "ерөнхий гэрээ",
+    "hanja": "表具",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표구하다",
+    "translation": "жаазлах, хүрээ хийх",
+    "hanja": "表具하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표기",
+    "translation": "бичих",
+    "hanja": "表記",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표기되다",
+    "translation": "Тэмдэглэгдэх, бичигдэх",
+    "hanja": "表記되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표기법",
+    "translation": "бичих арга",
+    "hanja": "表記法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표기하다",
+    "translation": "тэмдэглэх",
+    "hanja": "表記하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "표독스럽다",
+    "translation": "харгис хэрцгий, хорон санаатай",
+    "hanja": "慓毒스럽다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "표독하다",
+    "translation": "хэрцгий",
+    "hanja": "慓毒하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표류",
+    "translation": "хөвж явах",
+    "hanja": "漂流",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표류하다",
+    "translation": "урсгалаар явах",
+    "hanja": "漂流하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표리부동하다",
+    "translation": "хоёр нүүртэй",
+    "hanja": "表裏不同하다",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "표면",
+    "translation": "гадаргуу",
+    "hanja": "表面",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표면적",
+    "translation": "Гадаргуугийн талбай",
+    "hanja": "表面的",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표면화되다",
+    "translation": "ил болох",
+    "hanja": "表面化되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "표면화하다",
+    "translation": "ил гаргах, илчлэх",
+    "hanja": "表面化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표명",
+    "translation": "Илэрхийлэх",
+    "hanja": "表明",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표명되다",
+    "translation": "илэрхийлэгдэх",
+    "hanja": "表明되다",
+    "pos": "VV",
+    "cefr": "C1"
+  },
+  {
+    "word": "표명하다",
+    "translation": "илэрхийлэх",
+    "hanja": "表明하다",
+    "pos": "ү.ү.",
+    "cefr": "B2"
+  },
+  {
+    "word": "표문",
+    "translation": "албан бичиг, ил захидал",
+    "hanja": "表文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표방",
+    "translation": "Тунхаглах",
+    "hanja": "標榜",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "표방하다",
+    "translation": "тунхаглах, зарлах",
+    "hanja": "標榜하다",
+    "pos": "ү",
+    "cefr": "C1"
+  },
+  {
+    "word": "표밭",
+    "translation": "санал хураах талбар",
+    "hanja": "票밭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표백",
+    "translation": "цайруулах",
+    "hanja": "漂白",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "표백되다",
+    "translation": "Цайруулах, цайруулагдах",
+    "hanja": "漂白되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표백제",
+    "translation": "цайруулагч бодис",
+    "hanja": "漂白劑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표백하다",
+    "translation": "цайруулах",
+    "hanja": "漂白하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표범",
+    "translation": "идэвхтэн",
+    "hanja": "豹",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "표본",
+    "translation": "Загвар, дээж",
+    "hanja": "標本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표상",
+    "translation": "төлөөлөл, дүрслэл",
+    "hanja": "表象",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표상하다",
+    "translation": "Төлөөлөх, илэрхийлэх",
+    "hanja": "表象하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "표석",
+    "translation": "чулуун тэмдэг",
+    "hanja": "標石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표수",
+    "translation": "тоогоор, хүчээр",
+    "hanja": "票數",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표시",
+    "translation": "тэмдэг, тэмдэглэгээ",
+    "hanja": "表示",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표시되다",
+    "translation": "тэмдэглэх",
+    "hanja": "表示되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "표시하다",
+    "translation": "тэмдэглэх",
+    "hanja": "表示하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "표식",
+    "translation": "тэмдэг",
+    "hanja": "表式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표심",
+    "translation": "саналын сэтгэл",
+    "hanja": "票心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표어",
+    "translation": "уриа лоозон",
+    "hanja": "標語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표음",
+    "translation": "Дуу авианы тэмдэглэгээ",
+    "hanja": "表音",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표장",
+    "translation": "тэмдэг, тэмдэглэгээ",
+    "hanja": "表章",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표적",
+    "translation": "Бай",
+    "hanja": "標的",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "표적기",
+    "translation": "бай загвар",
+    "hanja": "標的機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표절",
+    "translation": "хулгай",
+    "hanja": " pyojeol",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "표절하다",
+    "translation": "хулгайлах, хуулбарлах",
+    "hanja": "剽竊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표정",
+    "translation": "царайны хувирал",
+    "hanja": "表情",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표정하다",
+    "translation": "илэрхийлэх",
+    "hanja": "表情하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "표제",
+    "translation": "гарчиг",
+    "hanja": "表題",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표제어",
+    "translation": "Толгой үг, гарчиг",
+    "hanja": "標題語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표주박",
+    "translation": "Бутлуур багваахай",
+    "hanja": "표주박",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "표준",
+    "translation": "стандарт, хэмжээ",
+    "hanja": "標準",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표준국어대사전",
+    "translation": "Солонгос хэлний стандарт тайлбар толь бичиг",
+    "hanja": "標準國語大辭典",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "표준말",
+    "translation": "Стандарт хэл",
+    "hanja": "標準말",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표준시",
+    "translation": "Стандарт цаг",
+    "hanja": "標準時",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표준어",
+    "translation": "стандарт хэл",
+    "hanja": "標準語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표준형",
+    "translation": "стандарт хэлбэр",
+    "hanja": "標準型",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "표준화",
+    "translation": "Стандартчилал",
+    "hanja": "標準化",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "표준화되다",
+    "translation": "стандартчилагдах",
+    "hanja": "標準化되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "표준화하다",
+    "translation": "стандартчилах",
+    "hanja": "標準化하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표지",
+    "translation": "Хавтас, тэмдэг",
+    "hanja": "表紙",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "표지판",
+    "translation": "тэмдэг",
+    "hanja": "標識板",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "표집",
+    "translation": "дээж авах",
+    "hanja": "標集",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "표징",
+    "translation": "утга учир, тэмдэг",
+    "hanja": "表徵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표차",
+    "translation": "саналын зөрүү",
+    "hanja": "票差",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "표착하다",
+    "translation": "угаагдах, эрэгт гарах",
+    "hanja": "漂着하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표찰",
+    "translation": "шошго",
+    "hanja": "標札",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표창",
+    "translation": "Шагнал, магтаал",
+    "hanja": "表彰",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "표창장",
+    "translation": "урмын үг, шагналын бичиг",
+    "hanja": "表彰狀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표창하다",
+    "translation": "шагнах, магтах",
+    "hanja": "表彰하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표출",
+    "translation": "Илэрхийлэх",
+    "hanja": "表出",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표출되다",
+    "translation": "илрэх, ил гарах",
+    "hanja": "表出되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "표출시키다",
+    "translation": "ил гаргах, илэрхийлэх",
+    "hanja": "表出시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표출하다",
+    "translation": "Илэрхийлэх",
+    "hanja": "表出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표층",
+    "translation": "Гадаргуугийн давхарга",
+    "hanja": "表層",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "표피",
+    "translation": "эпидермис",
+    "hanja": "表皮",
+    "pos": "сущ",
+    "cefr": "B2"
+  },
+  {
+    "word": "표하다",
+    "translation": "илэрхийлэх",
+    "hanja": "表하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "표현",
+    "translation": "илэрхийлэл",
+    "hanja": "表現",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "표현되다",
+    "translation": "Илэрхийлэгдэх",
+    "hanja": "表現되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표현력",
+    "translation": "илэрхийлэх чадвар",
+    "hanja": "表現力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "표현법",
+    "translation": "илэрхийлэх арга",
+    "hanja": "表現法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "표현하다",
+    "translation": "илэрхийлэх",
+    "hanja": "表現하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "표훈",
+    "translation": "өгүүлэх",
+    "hanja": "表訓",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

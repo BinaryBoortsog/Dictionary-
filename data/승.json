@@ -1,0 +1,681 @@
+[
+  {
+    "word": "승",
+    "translation": "ялалт",
+    "hanja": "勝",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "승가",
+    "translation": "Сангха (Буддын шашны лам нарын нөхөрлөл)",
+    "hanja": "僧伽",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "승강",
+    "translation": "өргөх, буулгах",
+    "hanja": "昇降",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승강구",
+    "translation": "лифтний хаалга",
+    "hanja": "昇降口",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승강기",
+    "translation": "лифт, өргөгч",
+    "hanja": "昇降機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승강장",
+    "translation": "Буудал",
+    "hanja": "昇降場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승객",
+    "translation": "Зорчигч",
+    "hanja": "乘客",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "승격",
+    "translation": "зэрэг ахиулах",
+    "hanja": "昇格",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승격되다",
+    "translation": "Дэвших",
+    "hanja": "昇格되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "승격하다",
+    "translation": "дэвших, зэрэглэл ахих",
+    "hanja": "昇格하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승계",
+    "translation": "Өв залгамжлах",
+    "hanja": "承繼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "승계되다",
+    "translation": "залгамжлах",
+    "hanja": "承繼되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승계하다",
+    "translation": "залгамжлах",
+    "hanja": "承繼하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승과",
+    "translation": "буддын шашны шалгалт",
+    "hanja": "僧科",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "승관",
+    "translation": "Амжилттай, ялалттай",
+    "hanja": "勝官",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "승구",
+    "translation": "ялан дийлэх",
+    "hanja": "勝句",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승급",
+    "translation": "зэрэг ахих",
+    "hanja": "승급(昇級)",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "승급하다",
+    "translation": "Дээшлэх",
+    "hanja": "昇級하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "승낙",
+    "translation": "зөвшөөрөл",
+    "hanja": "承諾",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승낙하다",
+    "translation": "Зөвшөөрөх, хүлээн зөвшөөрөх",
+    "hanja": "承諾하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승냥이",
+    "translation": "чоно",
+    "hanja": "승냥이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승단",
+    "translation": "Дамжаа ахих",
+    "hanja": "昇段",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승락",
+    "translation": "зөвшөөрөл",
+    "hanja": "承諾",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승려",
+    "translation": "Лам",
+    "hanja": "僧侶",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승룡",
+    "translation": "манган луу",
+    "hanja": "昇龍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승률",
+    "translation": "ялсан хувь",
+    "hanja": "勝率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승리",
+    "translation": "ялалт",
+    "hanja": "勝利",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승리하다",
+    "translation": "ялах, ялалт байгуулах",
+    "hanja": "勝利하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승마",
+    "translation": "морь унах",
+    "hanja": "乘馬",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "승마복",
+    "translation": "морь унах хувцас",
+    "hanja": "乘馬服",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "승마하다",
+    "translation": "морь унах",
+    "hanja": "乘馬하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승모",
+    "translation": "морины бариул",
+    "hanja": "승모",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승무",
+    "translation": "бүжигчин лам",
+    "hanja": "僧舞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승무원",
+    "translation": "багийн гишүүн",
+    "hanja": "乘務員",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "승미",
+    "translation": "ялах, ялалт",
+    "hanja": "勝美",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승병",
+    "translation": "лам цэрэг",
+    "hanja": "僧兵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승복",
+    "translation": "лам хувцас",
+    "hanja": "僧服",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승복하다",
+    "translation": "хүлээн зөвшөөрөх, дагах",
+    "hanja": "承服하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승부",
+    "translation": "ялалт эсвэл ялагдал",
+    "hanja": "勝負",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "승부수",
+    "translation": "шийдвэрлэх алхам",
+    "hanja": "勝負手",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승부욕",
+    "translation": "ялгуусан хүсэл",
+    "hanja": "勝負欲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승부처",
+    "translation": "шийдвэрлэх мөч, ялалт байгуулах цэг",
+    "hanja": "勝負處",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승부하다",
+    "translation": "Өрсөлдөх, тулалдах",
+    "hanja": "勝負하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승산",
+    "translation": "ялах боломж, давуу тал",
+    "hanja": "勝算",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승상",
+    "translation": "Ерөнхий сайд (хуучин)",
+    "hanja": "丞相",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "승선",
+    "translation": "онгоцонд суух",
+    "hanja": "乘船",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승선하다",
+    "translation": "онгоцонд суух, хөлөг онгоцонд гарах",
+    "hanja": "乘船하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승세",
+    "translation": "ялах давуу тал",
+    "hanja": "勝勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승소",
+    "translation": "ялах, шүүхэд ялах",
+    "hanja": "勝訴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승소하다",
+    "translation": "шүүхэд ялах",
+    "hanja": "勝訴하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "승승",
+    "translation": "ялалт цуглуулах",
+    "hanja": "乘勝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승승장구",
+    "translation": "Ялалтаар урагшлах",
+    "hanja": "乘勝長驅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승승장구하다",
+    "translation": "Ялалт байгуулах",
+    "hanja": "乘勝長驅하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승압",
+    "translation": "хүчдэл нэмэгдүүлэх",
+    "hanja": "昇壓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "승요",
+    "translation": "бурханы нэр",
+    "hanja": "僧謠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "승용",
+    "translation": "зөвшөөрөл",
+    "hanja": "乘用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승용차",
+    "translation": "суудлын машин",
+    "hanja": "乘用車",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "승인",
+    "translation": "зөвшөөрөл, батлах",
+    "hanja": "承認",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승인되다",
+    "translation": "зөвшөөрөгдөх",
+    "hanja": "承認되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승인하다",
+    "translation": "зөвшөөрөх",
+    "hanja": "承認하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "승일",
+    "translation": "Сын Иль (хүний нэр)",
+    "hanja": "承日",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "승자",
+    "translation": "Ялагч",
+    "hanja": "勝者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "승전",
+    "translation": "ялгуусан",
+    "hanja": "勝戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승전가",
+    "translation": "Ялалтын дуу",
+    "hanja": "勝戰歌",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "승전국",
+    "translation": "ялалт байгуулсан улс",
+    "hanja": "勝戰國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승전하다",
+    "translation": "ялалт байгуулах",
+    "hanja": "勝戰하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "승점",
+    "translation": "ялалтын оноо",
+    "hanja": "勝點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승제",
+    "translation": "үржих ба хуваах",
+    "hanja": "乘除",
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "승조",
+    "translation": "Сум",
+    "hanja": "승조",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "승지",
+    "translation": "Сайхан газар",
+    "hanja": "勝地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승진",
+    "translation": "албан тушаал дэвших",
+    "hanja": "昇進",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "승진시키다",
+    "translation": "албан тушаал дэвшүүлэх",
+    "hanja": "昇進시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승진하다",
+    "translation": "Албан тушаал ахих",
+    "hanja": "昇進하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승질",
+    "translation": "ааш зан (заншсан хэллэг)",
+    "hanja": "性—",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "승차",
+    "translation": "уналгад суух",
+    "hanja": "乘車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "승차감",
+    "translation": "Унахад эвтэйхэн байдал",
+    "hanja": "乘車感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승차권",
+    "translation": "тасалбар",
+    "hanja": "乘車券",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "승차하다",
+    "translation": "унаанд суух",
+    "hanja": "乘車하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "승천",
+    "translation": "тэнгэрт дэвших",
+    "hanja": "昇天",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승천하다",
+    "translation": "тэнгэрт дэвших",
+    "hanja": "昇天하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "승탁",
+    "translation": "давагдашгүй, тэвчихийн аргагүй",
+    "hanja": "勝詫",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "승탑",
+    "translation": "бурхны суварга",
+    "hanja": "僧塔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승패",
+    "translation": "ялалт ба ялагдал",
+    "hanja": "勝敗",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "승품",
+    "translation": "зэрэг ахих",
+    "hanja": "昇品",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승하다",
+    "translation": "мэдэх",
+    "hanja": "承하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "승하차",
+    "translation": "зорчигч буулгах, суулгах",
+    "hanja": "乘下車",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "승한",
+    "translation": "Сынгхан (хүний нэр)",
+    "hanja": "承翰",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승합",
+    "translation": "хамтдаа суух",
+    "hanja": "乘合",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "승합차",
+    "translation": "микроавтобус",
+    "hanja": "乘合車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "승협",
+    "translation": "зөвшилцөл, зөвшөөрөл",
+    "hanja": "承協",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "승혜",
+    "translation": "Сын-хе (эмэгтэй нэр)",
+    "hanja": "昇惠",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "승홍",
+    "translation": "мөнгөн усны хлорид",
+    "hanja": "昇汞",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "승화",
+    "translation": "дээшлэх, төгөлдөрших",
+    "hanja": "昇華",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "승화되다",
+    "translation": "Өндөрлөх, дээшлэх, сублимация болох",
+    "hanja": "昇華되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "승화시키다",
+    "translation": "дээшлүүлэх",
+    "hanja": "昇華시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "승화하다",
+    "translation": "уурших, дээшлэх",
+    "hanja": "昇華하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "승희",
+    "translation": "Сынгхи (нэр)",
+    "hanja": "承熙",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

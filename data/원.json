@@ -1,0 +1,1430 @@
+[
+  {
+    "word": "원",
+    "translation": "вон (мөнгөн тэмдэгт)",
+    "hanja": "圓",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "원가",
+    "translation": "өртөг",
+    "hanja": "原價",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원감",
+    "translation": "жижиг сургуулийн захирал",
+    "hanja": "園監",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원갓",
+    "translation": "бурхныг хуурч байна",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원거리",
+    "translation": "Алдас зайны",
+    "hanja": "遠距離",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원격",
+    "translation": "Зайнаас",
+    "hanja": "遠隔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원경",
+    "translation": "холын бараа",
+    "hanja": "원경(遠景)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원계",
+    "translation": "원계 (본래의 계획)",
+    "hanja": "原計",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원고",
+    "translation": "гар бичмэл",
+    "hanja": "原稿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원고료",
+    "translation": "Гар бичмэлийн төлбөр",
+    "hanja": "原稿料",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원곡",
+    "translation": "эх дуу",
+    "hanja": "原曲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원광",
+    "translation": "түүхий эрдэс",
+    "hanja": "原鑛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원구",
+    "translation": "анхны бөмбөрцөг",
+    "hanja": "原句",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원군",
+    "translation": "Нэмэлт хүч",
+    "hanja": "援軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원권",
+    "translation": "анхны эрх",
+    "hanja": "原券",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원귀",
+    "translation": "өшөөт сүнс, өс хонзонгийн сүнс",
+    "hanja": "怨鬼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원규",
+    "translation": "үндсэн дүрэм",
+    "hanja": "元規",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원균",
+    "translation": "Вон Гюн (хүний нэр)",
+    "hanja": "元均",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원근",
+    "translation": "аливаа зүйлсийн ойр хол",
+    "hanja": "遠近",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원근감",
+    "translation": "Алс хэт хэтийн мэдрэмж",
+    "hanja": "遠近感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원근법",
+    "translation": "алс хэтийн төлөв",
+    "hanja": "遠近法",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원금",
+    "translation": "үндсэн хөрөнгө, үндэс",
+    "hanja": "元金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원기",
+    "translation": "Эрч хүч",
+    "hanja": "元氣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원기둥",
+    "translation": "Цилиндр",
+    "hanja": "圓기둥",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원내",
+    "translation": "хүрээлэнгийн дотор",
+    "hanja": "院內",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원녀",
+    "translation": "ганц бие эмэгтэй",
+    "hanja": "怨女",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원년",
+    "translation": "эхний жил",
+    "hanja": "元年",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원념",
+    "translation": "өшөө хорсол",
+    "hanja": "怨念",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "원단",
+    "translation": "даавуу",
+    "hanja": "原緞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원당",
+    "translation": "үндсэн сүм",
+    "hanja": "元堂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원대",
+    "translation": "агуу, алс хэтийн",
+    "hanja": "遠大",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원대하다",
+    "translation": "зорготой, алсын хараатай",
+    "hanja": "遠大",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원더",
+    "translation": "гайхамшиг",
+    "hanja": "wán-dé",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원동력",
+    "translation": "хөдөлгөгч хүч",
+    "hanja": "原動力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원두",
+    "translation": "кофены үр",
+    "hanja": "原豆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원두막",
+    "translation": "хүлэмж, тарианы харуул",
+    "hanja": "원두막",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원두커피",
+    "translation": "кофены үр",
+    "hanja": "原豆커피",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원둘레",
+    "translation": "тойрог, тойрог зам",
+    "hanja": "圓둘레",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원디",
+    "translation": "нэг чиглэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원래",
+    "translation": "уг нь, анхнаасаа",
+    "hanja": "元來",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원력",
+    "translation": "бие даасан хүч",
+    "hanja": "願力",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "원령",
+    "translation": "сүнс, хий үзэгдэл",
+    "hanja": "怨靈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원로",
+    "translation": "Ахмад зүтгэлтэн",
+    "hanja": "元老",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원론",
+    "translation": "үндсэн зарчим",
+    "hanja": "原論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원론적",
+    "translation": "үндсэн",
+    "hanja": "原論的",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "원료",
+    "translation": "түүхий эд",
+    "hanja": "原料",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원료비",
+    "translation": "түүхий эдийн өртөг",
+    "hanja": "原料費",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원룸",
+    "translation": "Нэг өрөө",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "원류",
+    "translation": "Эх урсгал, эх үүсвэр",
+    "hanja": "源流",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원리",
+    "translation": "зарчим",
+    "hanja": "原理",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원리금",
+    "translation": "үндсэн ба хүүгийн мөнгө",
+    "hanja": "元利金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원만하다",
+    "translation": "эв нэгдэлтэй",
+    "hanja": "圓滿하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원만히",
+    "translation": "эвтэйхэн",
+    "hanja": "圓滿히",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "원망",
+    "translation": "гомдоллох",
+    "hanja": "怨望",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원망스럽다",
+    "translation": "голдог",
+    "hanja": "怨望스럽다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "원망하다",
+    "translation": "Гомдох",
+    "hanja": "怨望하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "원맨쇼",
+    "translation": "Нэг хүний тоглолт",
+    "hanja": "원맨쇼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원명",
+    "translation": "үндсэн нэр",
+    "hanja": "原名",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원모",
+    "translation": "алсын хараатай",
+    "hanja": "遠謀",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "원목",
+    "translation": "түүхий мод",
+    "hanja": "原木",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원무",
+    "translation": "Бүжгийн тойрог",
+    "hanja": "圓舞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원문",
+    "translation": "эх бичвэр",
+    "hanja": "原文",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원물",
+    "translation": "түүхий эд",
+    "hanja": "原物",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "원반",
+    "translation": "диск",
+    "hanja": "圓盤",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "원반던지기",
+    "translation": "диск хаях",
+    "hanja": "圓盤던지기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원배",
+    "translation": "Анхны утга",
+    "hanja": "原配",
+    "pos": "Нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "원병",
+    "translation": "Туслах цэрэг",
+    "hanja": "援兵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원보",
+    "translation": "үнэт эдлэл",
+    "hanja": "元寶",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "원복",
+    "translation": "эхний байдалд нь оруулах",
+    "hanja": "原復",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "원본",
+    "translation": "эх хувь",
+    "hanja": "原本",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원봉",
+    "translation": "анхны оосор",
+    "hanja": "原 봉",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "원불교",
+    "translation": "Вонбугё",
+    "hanja": "圓佛敎",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원비",
+    "translation": "сургалтын төлбөр, татвар",
+    "hanja": "院費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원뿔",
+    "translation": "конус",
+    "hanja": "圓뿔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원뿔형",
+    "translation": "конус хэлбэртэй",
+    "hanja": "圓뿔形",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원사",
+    "translation": "бригадын генерал",
+    "hanja": "元士",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원산",
+    "translation": "Үүсэл, гарал",
+    "hanja": "原産",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원산지",
+    "translation": "гарал үүсэл, эх орон",
+    "hanja": "原産地",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원삼",
+    "translation": "Солонгосын уламжлалт дээл",
+    "hanja": "圓衫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원상",
+    "translation": "анхны байдал",
+    "hanja": "原狀",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원상회복",
+    "translation": "анхны байдалд эргэн орох",
+    "hanja": "原狀恢復",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원색",
+    "translation": "үндсэн өнгө",
+    "hanja": "原色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원색적",
+    "translation": "бүдүүлэг, анхны өнгө",
+    "hanja": "原色的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "원생",
+    "translation": "оюутан",
+    "hanja": "院生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원샷",
+    "translation": "нэг амьсгаагаар",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원서",
+    "translation": "өргөдлийн маягт",
+    "hanja": "願書",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "원선",
+    "translation": "Анхны шугам, үндсэн шугам",
+    "hanja": "原線",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원성",
+    "translation": "гомдол, хараал",
+    "hanja": "怨聲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원소",
+    "translation": "элемент",
+    "hanja": "元素",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원손",
+    "translation": "үр ач хүүхэд",
+    "hanja": "元孫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원수",
+    "translation": "Өшөөтөн",
+    "hanja": "怨讐",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원수지간",
+    "translation": "Дайсагналтай харилцаа",
+    "hanja": "怨讐之間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원숙하다",
+    "translation": "Боловсорсон, гүйцсэн",
+    "hanja": "圓熟하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원숭이",
+    "translation": "сармагчин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원숭이띠",
+    "translation": "мич жилтэй",
+    "hanja": "원숭이띠",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원스",
+    "translation": "нэг удаа",
+    "hanja": "---",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "원스텝",
+    "translation": "нэг алхам",
+    "hanja": "one step",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "원시",
+    "translation": "анхдагч, эртний",
+    "hanja": "原始",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원시림",
+    "translation": "Онгон ой",
+    "hanja": "原始林",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원시생활",
+    "translation": "анхдагч амьдрал",
+    "hanja": "原始生活",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원시인",
+    "translation": "Анхны хүн",
+    "hanja": "原始人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원시적",
+    "translation": "Эртний",
+    "hanja": "原始的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "원식",
+    "translation": "анхны хэлбэр, эх хэлбэр",
+    "hanja": "原式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원신",
+    "translation": "Геншин (тоглоом)",
+    "hanja": "原神",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "원심",
+    "translation": "Төвөөс зугтах хүч",
+    "hanja": "遠心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원심력",
+    "translation": "төвөөс зугтах хүч",
+    "hanja": "遠心力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원씨",
+    "translation": "Вон овог",
+    "hanja": "元氏",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "원아",
+    "translation": "хүүхэд",
+    "hanja": "園兒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원안",
+    "translation": "Төсөл",
+    "hanja": "原案",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원안위",
+    "translation": "Цөмийн аюулгүй байдлын хороо (Nuclear Safety and Security Commission)",
+    "hanja": "원안위",
+    "pos": "약어",
+    "cefr": "C2"
+  },
+  {
+    "word": "원암",
+    "translation": "Анхаар (байшин)",
+    "hanja": "原庵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원앙",
+    "translation": "усан галуу",
+    "hanja": "鴛鴦",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원액",
+    "translation": "Анхны шингэн, өтгөн шүүс",
+    "hanja": "原液",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원양",
+    "translation": "далай",
+    "hanja": "遠洋",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "원어",
+    "translation": "эх хэл",
+    "hanja": "原語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원어민",
+    "translation": "уугуул хэлтэн",
+    "hanja": "原語民",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "원예",
+    "translation": "цэцэрлэгжүүлэлт, цэцэрлэг",
+    "hanja": "園藝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원외",
+    "translation": "парламентын гадна",
+    "hanja": "院外",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원용",
+    "translation": "хэрэглэх",
+    "hanja": "援用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원우",
+    "translation": "Хамт сурч буй оюутан, сургуулийн анд",
+    "hanja": "院友",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원원",
+    "translation": "эзэмшил",
+    "hanja": "苑園",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원위",
+    "translation": "анхны байрлал",
+    "hanja": "原位",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "원위치",
+    "translation": "анхны байрлал",
+    "hanja": "原位置",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원위치하다",
+    "translation": "Анхны байрлалд нь буцаах",
+    "hanja": "原位置하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원유",
+    "translation": "Түүхий нефть",
+    "hanja": "原油",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원유값",
+    "translation": "түүхий нефтийн үнэ",
+    "hanja": "原油값",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원육",
+    "translation": "түүхий мах",
+    "hanja": "原肉",
+    "    pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원윳값",
+    "translation": "түүхий сүүний үнэ",
+    "hanja": "原乳값",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원음",
+    "translation": "оригинал хөгжим",
+    "hanja": "原音",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원이",
+    "translation": "хүсэл, хүслэн",
+    "hanja": "願이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "원인",
+    "translation": "Шалтгаан",
+    "hanja": "原因",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "원일",
+    "translation": "нэгдэл, нэгдэх",
+    "hanja": "元一",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원자",
+    "translation": "атом",
+    "hanja": "原子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원자력",
+    "translation": "Цөмийн эрчим хүч",
+    "hanja": "原子力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원자재",
+    "translation": "түүхий эд",
+    "hanja": "原資材",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원자잿값",
+    "translation": "түүхий эдийн өртөг",
+    "hanja": "原材料값",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원작",
+    "translation": "анхны бүтээл",
+    "hanja": "原著",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원작자",
+    "translation": "анхны зохиогч",
+    "hanja": "原作者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원장",
+    "translation": "захирал",
+    "hanja": "院長",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "원재료",
+    "translation": "түүхий эд",
+    "hanja": "原材料",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원재룟값",
+    "translation": "түүхий эдийн үнэ",
+    "hanja": "原材料값",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원저",
+    "translation": "анхны зохиол",
+    "hanja": "原著",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원저우",
+    "translation": "Вэнжоу (хот)",
+    "hanja": "温州",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "원저자",
+    "translation": "үндсэн зохиогч",
+    "hanja": "原著者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원적",
+    "translation": "уг гарвал",
+    "hanja": "原籍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원적외선",
+    "translation": "хэт улаан туяа",
+    "hanja": "遠赤外線",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원전",
+    "translation": "эх сурвалж, эх зохиол",
+    "hanja": "原典",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원점",
+    "translation": "эхлэлийн цэг, анхны цэг",
+    "hanja": "原點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원정",
+    "translation": "Аялгуут",
+    "hanja": "遠征",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원정군",
+    "translation": "экспедиц, харьд мордож тулалдаж буй цэрэг",
+    "hanja": "遠征軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원정대",
+    "translation": "Экспедицийн баг",
+    "hanja": "遠征隊",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원제",
+    "translation": "анхны нэр",
+    "hanja": "原題",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원조",
+    "translation": "тусламж",
+    "hanja": "援助",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원조하다",
+    "translation": "туслах",
+    "hanja": "援助하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원종",
+    "translation": "анхны зүйл",
+    "hanja": "原種",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "원죄",
+    "translation": "удамшлын нүгэл",
+    "hanja": "原罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원주",
+    "translation": "дугуйн урт, тойргийн урт",
+    "hanja": "圓周",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원주민",
+    "translation": "Уугуул иргэн",
+    "hanja": "原住民",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원주율",
+    "translation": "тойргийн уртын харьцаа",
+    "hanja": "圓周率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원주인",
+    "translation": "уугуул иргэн",
+    "hanja": "原住民",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원지",
+    "translation": "алс газар",
+    "hanja": "遠地",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원진",
+    "translation": "эвдрэл",
+    "hanja": "怨嗔",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "원창",
+    "translation": "Мөнгөний сан, эх үүсвэр",
+    "hanja": "元倉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "원채",
+    "translation": "Анхнаасаа",
+    "hanja": "元債",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원천",
+    "translation": "эх үндэс, эх сурвалж",
+    "hanja": "源泉",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원천적",
+    "translation": "эх үндэсний",
+    "hanja": "源泉的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원청",
+    "translation": "үндсэн гэрээлэгч",
+    "hanja": "元請",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원체",
+    "translation": "эхнээсээ, анхнаасаа, ер нь",
+    "hanja": "元體",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원초",
+    "translation": "анхны эхлэл",
+    "hanja": "原初",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원초적",
+    "translation": "Анхдагч",
+    "hanja": "原初的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원추",
+    "translation": "конус",
+    "hanja": "圓錐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원추리",
+    "translation": "вандуй цэцэг",
+    "hanja": "萱草",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원충",
+    "translation": "протозоа",
+    "hanja": "原蟲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "원칙",
+    "translation": "зарчим",
+    "hanja": "原則",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "원칙적",
+    "translation": "Зарчмын хувьд",
+    "hanja": "原則的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원칩",
+    "translation": "нэг чип",
+    "hanja": "원칩",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원컨대",
+    "translation": "Хүснэ, гуйна",
+    "hanja": "願컨대",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "원탁",
+    "translation": "дугуй ширээ",
+    "hanja": "圓卓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원탑",
+    "translation": "Шилдэг",
+    "hanja": "원탑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원토",
+    "translation": "эх нутаг",
+    "hanja": "原土",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원통",
+    "translation": "Цилиндр",
+    "hanja": "圓筒",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "원통하다",
+    "translation": "гомдох",
+    "hanja": "冤痛하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원통형",
+    "translation": "цилиндр хэлбэртэй",
+    "hanja": "圓筒形",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원투",
+    "translation": "Зардал",
+    "hanja": "----",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원판",
+    "translation": "Эх хавтан",
+    "hanja": "原板",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "원패",
+    "translation": "нэг ялагдал",
+    "hanja": "元敗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원폭",
+    "translation": "атомын бөмбөг",
+    "hanja": "原爆",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원피",
+    "translation": "түүхий эд (арьс)",
+    "hanja": "原皮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원피스",
+    "translation": "нэг хувцас",
+    "hanja": "one-piece",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "원필",
+    "translation": "ерөнхийлөгч Пил (хүний нэр)",
+    "hanja": "元弼",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "원하다",
+    "translation": "Хүсэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "원한",
+    "translation": "хорсол",
+    "hanja": "怨恨",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "원행",
+    "translation": "урт аялал",
+    "hanja": "遠行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원형",
+    "translation": "Эх хувилбар",
+    "hanja": "原型",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원호",
+    "translation": "Тусламж",
+    "hanja": "援護",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원혼",
+    "translation": "ховдог сүнс, өшөө авах сүнс",
+    "hanja": "怨魂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원화",
+    "translation": "Воны тэмдэгт (KRW)",
+    "hanja": "圓貨",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "원활하다",
+    "translation": "саадгүй, жигд, уян хатан",
+    "hanja": "圓滑하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원활히",
+    "translation": "саадгүй, жигд",
+    "hanja": "圓滑히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원효",
+    "translation": "Вонхё (солонгосын лам)",
+    "hanja": "元曉",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "원훈",
+    "translation": "үндсэн гавьяа, үндсэн 공훈",
+    "hanja": "元勳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "원휘",
+    "translation": "бүрэн гэрэлтэх",
+    "hanja": "圓輝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "원흉",
+    "translation": "голомт",
+    "hanja": "元兇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원희",
+    "translation": "Вонхи (хүний нэр)",
+    "hanja": "元熙",
+    "pos": "고유명사",
+    "cefr": "C1"
+  }
+]

@@ -1,0 +1,898 @@
+[
+  {
+    "word": "독",
+    "translation": "хор",
+    "hanja": "毒",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "독감",
+    "translation": "томуу",
+    "hanja": "毒感",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "독거",
+    "translation": "ганцаараа амьдрах",
+    "hanja": "獨居",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독거노인",
+    "translation": "ганцаараа амьдардаг өндөр настан",
+    "hanja": "獨居老人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독거미",
+    "translation": "хортой аалз",
+    "hanja": "毒거미",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "독경",
+    "translation": "судар унших",
+    "hanja": "讀經",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독경하다",
+    "translation": "судар унших",
+    "hanja": "讀經하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독고",
+    "translation": "ганц бие, ганц хүн",
+    "hanja": "獨孤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독고다이",
+    "translation": "ганцаараа ажиллах",
+    "hanja": "獨孤다이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독과점",
+    "translation": "монополь",
+    "hanja": "獨寡占",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "독극물",
+    "translation": "хортой бодис",
+    "hanja": "毒劇物",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "독기",
+    "translation": "хор, хортой хий",
+    "hanja": "毒氣",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "독단",
+    "translation": "ганцаараа шийдвэр гаргах",
+    "hanja": "獨斷",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "독단적",
+    "translation": "Дураараа",
+    "hanja": "獨斷的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독대",
+    "translation": "ганцаараа уулзах",
+    "hanja": "獨對",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독대하다",
+    "translation": "ганцаар уулзах",
+    "hanja": "獨對하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독도",
+    "translation": "Догдо арал",
+    "hanja": "獨島",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "독려",
+    "translation": "Урамшуулан дэмжих",
+    "hanja": "독려",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독려하다",
+    "translation": "урсгал оруулах",
+    "hanja": "督勵하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "독립",
+    "translation": "тусгаар тогтнол",
+    "hanja": "獨立",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독립국",
+    "translation": "туcгаар тогтносон улс",
+    "hanja": "獨立國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독립군",
+    "translation": "тусгаар тогтнолын арми",
+    "hanja": "獨立軍",
+    "pos": "мüns",
+    "cefr": "C1"
+  },
+  {
+    "word": "독립되다",
+    "translation": "тусгаар тогтнох",
+    "hanja": "獨立—",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "독립문",
+    "translation": "тусгаар тогтнолын хаалга",
+    "hanja": "獨立門",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독립성",
+    "translation": "Бие даасан байдал",
+    "hanja": "獨立性",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "독립시키다",
+    "translation": "тусгаар тогтнуулах",
+    "hanja": "獨立시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독립신문",
+    "translation": "Тусгаар тогтнолын сонин",
+    "hanja": "獨立新聞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독립심",
+    "translation": "Бие даах сэтгэл",
+    "hanja": "獨立心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독립운동",
+    "translation": "туйлын хөдөлгөөн",
+    "hanja": "獨立運動",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "독립운동하다",
+    "translation": "тулгар бие даасан хөдөлгөөн",
+    "hanja": "독립운동하다(獨立運動하다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독립적",
+    "translation": "бие даасан",
+    "hanja": "獨立的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독립하다",
+    "translation": "туслах",
+    "hanja": "獨立하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독무",
+    "translation": "ганц биелэгдэх үүрэг",
+    "hanja": "獨舞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독무대",
+    "translation": "ганц бие тайз",
+    "hanja": "獨舞臺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독물",
+    "translation": "хортой бодис",
+    "hanja": "毒物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독박",
+    "translation": "ганцаараа хариуцах",
+    "hanja": "獨박",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독방",
+    "translation": "ганц камер, ганц өрөө",
+    "hanja": "獨房",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독배",
+    "translation": "хортой аяга",
+    "hanja": "毒杯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독백",
+    "translation": "Нэг үг",
+    "hanja": "獨白",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독백하다",
+    "translation": "Ганцаараа ярих",
+    "hanja": "獨白하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "독버섯",
+    "translation": "хортой мөөг",
+    "hanja": "毒버섯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "독보",
+    "translation": "ганц бие байх",
+    "hanja": "獨步",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "독보적",
+    "translation": "ганц бие, давтагдашгүй",
+    "hanja": "獨步的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독불장군",
+    "translation": "ганцаараа тулалдагч, хувиа хичээгч",
+    "hanja": "獨不將軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독사",
+    "translation": "хортой могой",
+    "hanja": "毒蛇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독사진",
+    "translation": "ганц хүний зураг",
+    "hanja": "獨寫眞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "독살",
+    "translation": "хордуулан алах",
+    "hanja": "毒殺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독살되다",
+    "translation": "хордож амиа алдах",
+    "hanja": "毒殺되다",
+    "pos": "т.ү.",
+    "cefr": "C1"
+  },
+  {
+    "word": "독살스럽다",
+    "translation": "хорлонтой, зальтай",
+    "hanja": "毒殺스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독살하다",
+    "translation": "хордуулж алах",
+    "hanja": "毒殺하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독생자",
+    "translation": "ганц хүү",
+    "hanja": "獨生子",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "독서",
+    "translation": "ном унших",
+    "hanja": "讀書",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "독서광",
+    "translation": "номд дуртай хүн, ном унших сонирхолтой хүн",
+    "hanja": "讀書狂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독서력",
+    "translation": "унших чадвар",
+    "hanja": "讀書力",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "독서실",
+    "translation": "Уншлагын танхим",
+    "hanja": "讀書室",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "독서하다",
+    "translation": "Ном унших",
+    "hanja": "讀書하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "독선",
+    "translation": "Өөрийгөө хүний дээд гэж бодох, хувиа бодох",
+    "hanja": "獨善",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "독선적",
+    "translation": "Гаргамтгай, өөрийгөө бусдаас дээгүүр тавьдаг",
+    "hanja": "獨善的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독설",
+    "translation": "хортой үг",
+    "hanja": "독설(毒舌)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독성",
+    "translation": "хортой бодис",
+    "hanja": "毒性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "독소",
+    "translation": "Хорт бодис",
+    "hanja": "毒素",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독수",
+    "translation": "гадаад уншигч",
+    "hanja": "讀手",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독수공방",
+    "translation": "ганцаараа өрөөндөө байх",
+    "hanja": "獨守空房",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "독수공방하다",
+    "translation": "ганцаараа өрөөндөө байх",
+    "hanja": "獨守空房하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "독수리",
+    "translation": "бүргэд",
+    "hanja": "독수리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "독시",
+    "translation": "Нүдний шил",
+    "hanja": "毒視",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "독식",
+    "translation": "ганцаараа идэх",
+    "hanja": "獨食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독식하다",
+    "translation": "Ганцаараа идэх",
+    "hanja": "獨食하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독신",
+    "translation": "гал ганц бие",
+    "hanja": "獨身",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "독신녀",
+    "translation": "ганц бие эмэгтэй",
+    "hanja": "獨身女",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "독신자",
+    "translation": "ганц бие",
+    "hanja": "獨身者",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "독신주의",
+    "translation": "ганц бие байх үзэл",
+    "hanja": "獨身主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독실",
+    "translation": "Сүсэг",
+    "hanja": "篤實",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독실하다",
+    "translation": "чин бишрэлтэй, үнэнч",
+    "hanja": "篤實하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "독심",
+    "translation": "сэтгэл унших",
+    "hanja": "讀心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독액",
+    "translation": "хортой шингэн, хор",
+    "hanja": "毒液",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독약",
+    "translation": "хортой эм",
+    "hanja": "毒藥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "독어",
+    "translation": "Герман хэл",
+    "hanja": "獨語",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "독우",
+    "translation": "Зөвхөн найз",
+    "hanja": "獨友",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독일",
+    "translation": "Герман",
+    "hanja": "獨逸",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "독일어",
+    "translation": "Герман хэл",
+    "hanja": "獨逸語",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "독자",
+    "translation": "уншигч",
+    "hanja": "讀者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "독자성",
+    "translation": "бие даасан байдал, онцлог",
+    "hanja": "獨自性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독자적",
+    "translation": "бие даасан",
+    "hanja": "獨自的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독자층",
+    "translation": "уншигчдын давхарга",
+    "hanja": "讀者層",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독재",
+    "translation": "Дарангуйлал",
+    "hanja": "獨裁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독재자",
+    "translation": "дарангуйлагч",
+    "hanja": "獨裁者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독재하다",
+    "translation": "дарангуйлах",
+    "hanja": "獨裁하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독점",
+    "translation": "монополь",
+    "hanja": "獨占",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "독점권",
+    "translation": "Онцгой эрх",
+    "hanja": "獨占權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독점욕",
+    "translation": "ганцаараа эзэмших хүсэл",
+    "hanja": "獨占欲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독점적",
+    "translation": "монополь",
+    "hanja": "獨占的",
+    "pos": "Adj",
+    "cefr": "C1"
+  },
+  {
+    "word": "독점하다",
+    "translation": "монопольдох",
+    "hanja": "독점하다(獨占하다)",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "독종",
+    "translation": "хатуу хүн",
+    "hanja": "毒種",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독주",
+    "translation": "ганцаараа хөгжим тоглох, соло",
+    "hanja": "獨奏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독주곡",
+    "translation": "ганцаарчилсан тоглолт",
+    "hanja": "獨奏曲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독주하다",
+    "translation": "ганц биеэр тоглох",
+    "hanja": "獨奏하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독주회",
+    "translation": "ганцаарчилсан тоглолт",
+    "hanja": "獨奏會",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "독지가",
+    "translation": "хандив өгөгч",
+    "hanja": "篤志家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독직",
+    "translation": "албан тушаалаа урвуулан ашиглах",
+    "hanja": "瀆職",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "독차지하다",
+    "translation": "ганц эзэмших",
+    "hanja": "獨 차지하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "독찰",
+    "translation": "тайлбарлах",
+    "hanja": "讀察",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독창",
+    "translation": "ганц дуулалт",
+    "hanja": "獨唱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "독창성",
+    "translation": "Уран сэтгэмж, өвөрмөц байдал",
+    "hanja": "獨創性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독창적",
+    "translation": "оригиналь, өвөрмөц",
+    "hanja": "獨創的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독창회",
+    "translation": "ганцаарчилсан тоглолт",
+    "hanja": "獨唱會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "독채",
+    "translation": "тусдаа байшин",
+    "hanja": "獨채",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "독초",
+    "translation": "хортой өвс",
+    "hanja": "毒草",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독촉",
+    "translation": "шаардах",
+    "hanja": "督促",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "독촉장",
+    "translation": "шаардах бичиг",
+    "hanja": "督促狀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독촉하다",
+    "translation": "шахах",
+    "hanja": "督促하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "독충",
+    "translation": "хортой шавж",
+    "hanja": "毒蟲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독취",
+    "translation": "утааг үнэрлэх",
+    "hanja": "毒吹",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "독침",
+    "translation": "Хортой",
+    "hanja": "毒針",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "독트린",
+    "translation": "сургаал",
+    "hanja": "獨트린",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "독특",
+    "translation": "Өвөрмөц, онцгой, дахин давтагдашгүй",
+    "hanja": "獨特",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "독특하다",
+    "translation": "Өвөрмөц, онцгой",
+    "hanja": "獨特하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "독파",
+    "translation": "уншиж дуусгах, гүйцэд унших",
+    "hanja": "讀破",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독파하다",
+    "translation": "урам зоригтой унших",
+    "hanja": "讀破하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "독하다",
+    "translation": "хортой, хурц",
+    "hanja": "毒하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독학",
+    "translation": "өөрийгөө сургах",
+    "hanja": "獨學",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "독학하다",
+    "translation": "өөрийгөө сургах",
+    "hanja": "獨學-",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "독해",
+    "translation": "унших чадвар, уншиж ойлгох",
+    "hanja": "讀解",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "독해력",
+    "translation": "унших чадвар",
+    "hanja": "讀解力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "독화살",
+    "translation": "хорт сум",
+    "hanja": "毒화살",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독회",
+    "translation": "унших үдэшлэг",
+    "hanja": "讀會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독후",
+    "translation": "уншсаны дараа",
+    "hanja": "讀後",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "독후감",
+    "translation": "номны тухай сэтгэгдэл",
+    "hanja": "讀後感",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

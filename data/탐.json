@@ -1,0 +1,366 @@
+[
+  {
+    "word": "탐",
+    "translation": "Тамын",
+    "hanja": "貪",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "탐관",
+    "translation": "шунахай түшмэл",
+    "hanja": "貪官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐관오리",
+    "translation": "шунахай түшмэл",
+    "hanja": "貪官汚吏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐구",
+    "translation": "судлах",
+    "hanja": "探究",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "탐구되다",
+    "translation": "судлагдах",
+    "hanja": "探究되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐구자",
+    "translation": "эрэн сурвалжлагч",
+    "hanja": "探求者",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐구하다",
+    "translation": "эрэлхийлэх, судлах",
+    "hanja": "探究하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐나다",
+    "translation": "шунах",
+    "hanja": "貪나다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐내다",
+    "translation": "шунах",
+    "hanja": "貪─",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐닉",
+    "translation": "донтох",
+    "hanja": "耽溺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐닉하다",
+    "translation": "шунах",
+    "hanja": "耽溺하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐독",
+    "translation": "ширүүн унших",
+    "hanja": "耽讀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐독하다",
+    "translation": "шингээж унших, амтархан унших",
+    "hanja": "耽讀하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐라",
+    "translation": "Тамра (хуучин Чежү арлын нэр)",
+    "hanja": "耽羅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐라국",
+    "translation": "Тамра улс (хуучин улсын нэр)",
+    "hanja": "耽羅國",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "탐문",
+    "translation": "мөрдөн байцаах",
+    "hanja": "探聞",
+    "pos": "мüns",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐문하다",
+    "translation": "судлах, лавлах, мөшгих",
+    "hanja": "探問하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐미",
+    "translation": "гоо зүй",
+    "hanja": "耽美",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐미주의",
+    "translation": "эстетик",
+    "hanja": "耽美主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐방",
+    "translation": "Аялж судлах",
+    "hanja": "探訪",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐방기",
+    "translation": "сэтгүүл зүйн аялал/сурвалжлага",
+    "hanja": "探訪記",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐방하다",
+    "translation": "судлах",
+    "hanja": "探訪하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐보",
+    "translation": "судлах",
+    "hanja": "探步",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "탐사",
+    "translation": "судалгаа",
+    "hanja": "探査",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐사되다",
+    "translation": "судлагдах, хайгдах, нээгдэх",
+    "hanja": "探査되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐사선",
+    "translation": "Судалгааны хөлөг онгоц",
+    "hanja": "探査船",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐사하다",
+    "translation": "хайх",
+    "hanja": "探査하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐색",
+    "translation": "хайх",
+    "hanja": "探索",
+    "pos": "м.н",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐색전",
+    "translation": "хайлт",
+    "hanja": "探索戰",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐색하다",
+    "translation": "хайх, судлах",
+    "hanja": "探索하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐스럽다",
+    "translation": "сайхан харагдах",
+    "hanja": "탐스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐식",
+    "translation": "шунал",
+    "hanja": "貪食",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐심",
+    "translation": "Хүсэл шунал",
+    "hanja": "貪心",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐욕",
+    "translation": "Шунал",
+    "hanja": "貪慾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐욕스럽다",
+    "translation": "шуналтай, хомхой",
+    "hanja": "貪慾스럽다",
+    "pos": "т.ү",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐욕적",
+    "translation": "шунахай, хомхой",
+    "hanja": "貪慾的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐정",
+    "translation": "мөрдөгч",
+    "hanja": "探偵",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐조",
+    "translation": "Шувуу ажиглах",
+    "hanja": "探鳥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐조등",
+    "translation": "хайлт гэрэл, прожектор",
+    "hanja": "探照燈",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐조하다",
+    "translation": "шувууны ажиглалт",
+    "hanja": "探鳥하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐지",
+    "translation": "илрүүлэх",
+    "hanja": "探知",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐지되다",
+    "translation": "илэрсэн",
+    "hanja": "探知되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐지하다",
+    "translation": "илрүүлэх",
+    "hanja": "探知하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐침",
+    "translation": "Шуургын үзүүр; мэдрэгч",
+    "hanja": "探針",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐탁하다",
+    "translation": "сэтгэлд нийцэх, таалагдах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐탐",
+    "translation": "сэтгэл хангалуун байдал",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "탐폰",
+    "translation": "тампон",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐하다",
+    "translation": "Шунах, хорхойсох",
+    "hanja": "貪하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "탐험",
+    "translation": "хайгуул",
+    "hanja": "探險",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "탐험가",
+    "translation": "аялагч",
+    "hanja": "探險家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "탐험대",
+    "translation": "хайгуулын баг",
+    "hanja": "探險隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "탐험하다",
+    "translation": "хайгуул хийх",
+    "hanja": "探險하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

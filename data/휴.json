@@ -1,0 +1,478 @@
+[
+  {
+    "word": "휴",
+    "translation": "Хүүхдийн амьсгал",
+    "hanja": "휴",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "휴가",
+    "translation": "Амралт",
+    "hanja": "休暇",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "휴가비",
+    "translation": "амралтын зардал, амралтын мөнгө",
+    "hanja": "休暇費",
+    "pos": "명사 (Noun)",
+    "cefr": "A2"
+  },
+  {
+    "word": "휴가철",
+    "translation": "Амралтын улирал",
+    "hanja": "休暇철",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "휴강",
+    "translation": "хичээл завсарлах",
+    "hanja": "休講",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "휴강하다",
+    "translation": "хичээл завсарлах",
+    "hanja": "休講하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴거",
+    "translation": "хураагдах",
+    "hanja": "携去",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "휴게",
+    "translation": "Амралт",
+    "hanja": "休憩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴게소",
+    "translation": "амралтын газар",
+    "hanja": "休憩所",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴게실",
+    "translation": "амралтын өрөө",
+    "hanja": "休憩室",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "휴경지",
+    "translation": "хоосон газар, эзгүй талбай",
+    "hanja": "休耕地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "휴계소",
+    "translation": "Амралтын газар",
+    "hanja": "休憩所",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "휴고",
+    "translation": "Хюго",
+    "hanja": "휴고",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "휴관",
+    "translation": "хаалттай байх",
+    "hanja": "休館",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴관하다",
+    "translation": "хаалттай байх",
+    "hanja": "休館하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴교",
+    "translation": "сургуулийн амралт",
+    "hanja": "休校",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴교하다",
+    "translation": "Сургууль хаах, сургуулийн хичээл зогсоох",
+    "hanja": "休校하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴대",
+    "translation": "зөөвөрлөх, авч явах",
+    "hanja": "攜帶",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴대용",
+    "translation": "Зөөврийн, халаасны",
+    "hanja": "携帶用",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴대폰",
+    "translation": "гар утас",
+    "hanja": "携帶폰",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "휴대품",
+    "translation": "Зөөврийн эд зүйл, авч явах зүйлс",
+    "hanja": "携帶品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴대하다",
+    "translation": "Авч явах",
+    "hanja": "携帶하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴덕",
+    "translation": "амрах, ажилдаа орохгүй байх",
+    "hanja": "休德",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "휴리스틱",
+    "translation": "эвристик",
+    "hanja": "heuristic",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "휴머니스트",
+    "translation": "хүмүүнлэгч",
+    "hanja": "Humanist",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "휴머니즘",
+    "translation": "хүмүүнлэг үзэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "휴무",
+    "translation": "амралт",
+    "hanja": "休務",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴무일",
+    "translation": "амралтын өдөр, ажлын бус өдөр",
+    "hanja": "休務日",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "휴무하다",
+    "translation": "Амрах, чөлөө авах",
+    "hanja": "休務하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "휴방",
+    "translation": "нэвтрүүлэг завсарлах",
+    "hanja": "休放",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "휴방하다",
+    "translation": "Нэвтрүүлгээ түр зогсоох",
+    "hanja": "休放하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴보",
+    "translation": "Хьюбо (роботын нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴스",
+    "translation": "Хьюс",
+    "hanja": "Hughes",
+    "pos": "н.н.",
+    "cefr": "C2"
+  },
+  {
+    "word": "휴스턴",
+    "translation": "Хьюстон",
+    "hanja": "휴스턴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴식",
+    "translation": "амралт",
+    "hanja": "休息",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "휴식처",
+    "translation": "амрах газар",
+    "hanja": "休息處",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴식하다",
+    "translation": "амрах",
+    "hanja": "休息하다",
+    "pos": "үйл үг",
+    "cefr": "A1"
+  },
+  {
+    "word": "휴아",
+    "translation": "Хьюа (нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "휴양",
+    "translation": "Амрах",
+    "hanja": "休養",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "휴양림",
+    "translation": "амралтын ой",
+    "hanja": "休養林",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴양소",
+    "translation": "Амралтын газар",
+    "hanja": "休養所",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "휴양지",
+    "translation": "Амралтын газар",
+    "hanja": "休養地",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴양하다",
+    "translation": "амрах, амарч зугаалах",
+    "hanja": "休養하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴업",
+    "translation": "үйл ажиллагаа түр зогсоох",
+    "hanja": "休業",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴업하다",
+    "translation": "ажлаа зогсоох",
+    "hanja": "休業하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴원",
+    "translation": "амрах, амарсан",
+    "hanja": "休園",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "휴원하다",
+    "translation": "цэцэрлэг хаах",
+    "hanja": "休園하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "휴이",
+    "translation": "Хьюи",
+    "hanja": "Huey",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "휴일",
+    "translation": "Амралтын өдөр",
+    "hanja": "休日",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "휴장",
+    "translation": "хаалт",
+    "hanja": "休場",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "휴장하다",
+    "translation": "хаалт хийх",
+    "hanja": "休場하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "휴재",
+    "translation": "нийтлэл түр зогсох",
+    "hanja": "休載",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "휴전",
+    "translation": "Гал зогсоох",
+    "hanja": "休戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "휴전선",
+    "translation": "галын шугам",
+    "hanja": "休戰線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "휴전하다",
+    "translation": "эвлэрэх",
+    "hanja": "休戰하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "휴정",
+    "translation": "хуралдаан завсарлах",
+    "hanja": "休廷",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "휴정하다",
+    "translation": "хуралдааныг хойшлуулах",
+    "hanja": "休庭하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "휴즈",
+    "translation": "гацуур",
+    "hanja": "fuse",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴지",
+    "translation": "цаасан алчуур",
+    "hanja": "休紙",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "휴직",
+    "translation": "чөлөө авах",
+    "hanja": "休職",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "휴직하다",
+    "translation": "ажлаасаа түр чөлөө авах",
+    "hanja": "休職하다",
+    "pos": "үйл үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴진",
+    "translation": "эмнэлэг хаах",
+    "hanja": "休診",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "휴진하다",
+    "translation": "үзлэгээ зогсоох",
+    "hanja": "休診하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "휴학",
+    "translation": "Суралцахыг түр зогсоох",
+    "hanja": "休學",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴학생",
+    "translation": "Суралцахаа түр зогсоосон оюутан",
+    "hanja": "休學生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴학하다",
+    "translation": "суудлаас чөлөө авах",
+    "hanja": "休學하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "휴화산",
+    "translation": "идэвхгүй галт уул",
+    "hanja": "休火山",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "휴회",
+    "translation": "хуралдааныг түр зогсоох",
+    "hanja": "休會",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

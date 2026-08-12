@@ -1,0 +1,919 @@
+[
+  {
+    "word": "건",
+    "translation": "зүйл",
+    "hanja": "件",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건가",
+    "translation": "гэр бүл сайн уу?",
+    "hanja": "健家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건강",
+    "translation": "эрүүл мэнд",
+    "hanja": "健康",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "건강미",
+    "translation": "эрүүл үзэсгэлэн, эрүүл байдал",
+    "hanja": "健康美",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건강식",
+    "translation": "Эрүүл хоол",
+    "hanja": "健康食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건강식품",
+    "translation": "эрүүл мэндийн бүтээгдэхүүн",
+    "hanja": "健康食品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건강하다",
+    "translation": "эрүүл байх",
+    "hanja": "健康하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "건강히",
+    "translation": "Эрүүл мэндээр",
+    "hanja": "健康히",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "건게",
+    "translation": "хуурай сам хорхой",
+    "hanja": "건게",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "건곤감리",
+    "translation": "Тэнгэр газар ус гал",
+    "hanja": "乾坤坎離",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "건교부",
+    "translation": "барилга, тээврийн яам",
+    "hanja": "建交部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건국",
+    "translation": "үндэслэл",
+    "hanja": "建國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건국되다",
+    "translation": "건국되다",
+    "hanja": "建國되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건국하다",
+    "translation": "Улс байгуулах",
+    "hanja": "建國하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건군절",
+    "translation": "Армийн баяр",
+    "hanja": "建軍節",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건기",
+    "translation": "Хуурай улирал",
+    "hanja": "乾期",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "건기식",
+    "translation": "хүнсний нэмэлт бүтээгдэхүүн",
+    "hanja": "健機食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건내",
+    "translation": "өгөх",
+    "hanja": "건내",
+    "pos": "Verb-related word",
+    "cefr": "A2"
+  },
+  {
+    "word": "건너",
+    "translation": "цаана, нөгөө талд",
+    "hanja": "건너",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "건너다",
+    "translation": "гарах",
+    "hanja": "건너다",
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "건너다니다",
+    "translation": "холхин явах",
+    "hanja": "--",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "건너다보다",
+    "translation": "шилжүүлэн харах, хажуу талаас харах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건너다보이다",
+    "translation": "дагуу харагдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건너뛰다",
+    "translation": "алгасах",
+    "hanja": "null",
+    "pos": "ү.ү.",
+    "cefr": "B1"
+  },
+  {
+    "word": "건너편",
+    "translation": "нөгөө тал",
+    "hanja": "건너편",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "건넌방",
+    "translation": "эсрэг талын өрөө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건널목",
+    "translation": "Гарц",
+    "hanja": "건널목",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "건넛마을",
+    "translation": "хөрш тосгон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건넛방",
+    "translation": "урсгал өрөө",
+    "hanja": "건넛房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건네다",
+    "translation": "дамжуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건네받다",
+    "translation": "хүлээж авах",
+    "hanja": "건네받다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "건느다",
+    "translation": "Хөндлөн гарах, давах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건달",
+    "translation": "дээрэмчин, танхай этгээд",
+    "hanja": "乾達",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건담",
+    "translation": "Гандам",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건당",
+    "translation": "хэрэг тутамд",
+    "hanja": "件當",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건대",
+    "translation": "Күнгүг их сургууль",
+    "hanja": "建大",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "건더기",
+    "translation": "Үлдэгдэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건덕지",
+    "translation": "үндэс",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "건데",
+    "translation": "гэхдээ",
+    "hanja": "null",
+    "pos": "Conjunction",
+    "cefr": "A2"
+  },
+  {
+    "word": "건드리다",
+    "translation": "хүрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건들거리다",
+    "translation": "сүржигнэх, аархах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건들건들하다",
+    "translation": "салхинд сэвэлзэх, хөнгөн хийсэн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건들다",
+    "translation": "хүрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건디",
+    "translation": "Ганди (нэр)",
+    "hanja": "건디",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "건릉",
+    "translation": "Геонрэнг (солонгосын хааны бунхан)",
+    "hanja": "健陵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건립",
+    "translation": "Байгуулах, барих",
+    "hanja": "建立",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "건립되다",
+    "translation": "байгуулагдах",
+    "hanja": "建立되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "건립하다",
+    "translation": "байгуулах",
+    "hanja": "建立하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건망증",
+    "translation": "Мартамхай байдал",
+    "hanja": "건망증",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건면",
+    "translation": "хуурай гоймон",
+    "hanja": "乾麵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건모",
+    "translation": "хуурай үс",
+    "hanja": "乾毛",
+    "pos": "명са",
+    "cefr": "B1"
+  },
+  {
+    "word": "건무",
+    "translation": "гэгээрүүлэх",
+    "hanja": "建武",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "건물",
+    "translation": "Барилга",
+    "hanja": "建物",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "건반",
+    "translation": "Даралтат хөгжмийн товчлуур",
+    "hanja": "鍵盤",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "건방",
+    "translation": "ихэмсэг, бардам",
+    "hanja": "倨慢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건방지다",
+    "translation": "бардам, ихэмсэг",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건배",
+    "translation": "эрүүл мэнд (туухай)",
+    "hanja": "乾杯",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "건배하다",
+    "translation": "хундага өргөх",
+    "hanja": "乾杯하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건별",
+    "translation": "хэрэг тус бүрээр",
+    "hanja": "件別",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건보",
+    "translation": "эрүүл мэндийн даатгал",
+    "hanja": "健保",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건빵",
+    "translation": "хатуу жигнэмэг, талхны жигнэмэг",
+    "hanja": "乾빵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건사",
+    "translation": "Арчлах, анхаарах",
+    "hanja": "健事",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건사하다",
+    "translation": "хадгалах",
+    "hanja": "幹事-",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "건상",
+    "translation": "эрүүл мэнд, сайн сайхан байдал",
+    "hanja": "健常",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "건석",
+    "translation": "хатсан чулуу",
+    "hanja": "乾石",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "건선",
+    "translation": "хагшаа",
+    "hanja": "乾癬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건설",
+    "translation": "барилга",
+    "hanja": "건설(建設)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건설되다",
+    "translation": "барилга баригдах, байгуулагдах",
+    "hanja": "建設되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건설업",
+    "translation": "барилгын үйлдвэрлэл",
+    "hanja": "建設業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건설업자",
+    "translation": "барилгачин, барилгын компани",
+    "hanja": "建設業者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건설적",
+    "translation": "Байгуулалтын",
+    "hanja": "建設的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건설하다",
+    "translation": "барих",
+    "hanja": "건설하다(建設하다)",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건성",
+    "translation": "хуурай",
+    "hanja": "乾性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건성건성",
+    "translation": "хайнга, үл тоомсорлож",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건수",
+    "translation": "Хэрэг",
+    "hanja": "件數",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "건승",
+    "translation": "байлдаанд ялах",
+    "hanja": "健勝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "건승하다",
+    "translation": "амжилттай байх, ялах",
+    "hanja": "健勝하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건식",
+    "translation": "хуурай хэлбэр",
+    "hanja": "乾式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건실하다",
+    "translation": "Бат бөх",
+    "hanja": "健實하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "건아",
+    "translation": "эр хүн",
+    "hanja": "健兒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건어물",
+    "translation": "Хатаасан бүтээгдэхүүн",
+    "hanja": "乾魚物",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "건열",
+    "translation": "хуурай хагарал",
+    "hanja": "乾裂",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "건우",
+    "translation": "건우 (хүний нэр)",
+    "hanja": "健祐",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "건의",
+    "translation": "санал, зөвлөгөө",
+    "hanja": "建議",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건의되다",
+    "translation": "ийм санал дэвшүүлэгдэх",
+    "hanja": "建議되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건의문",
+    "translation": "санал хүсэлтийн бичиг",
+    "hanja": "建議文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건의서",
+    "translation": "Санал хүсэлтийн хуудас",
+    "hanja": "建議書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건의안",
+    "translation": "Санал, шүүмж",
+    "hanja": "建議案",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "건의하다",
+    "translation": "Санал болгох",
+    "hanja": "建議하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건이",
+    "translation": "хэрэг, асуудал",
+    "hanja": "件",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건장하다",
+    "translation": "Бат бөх, чийрэг",
+    "hanja": "健壯하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "건재",
+    "translation": "эрүүл саруул байх",
+    "hanja": "健在",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건재하다",
+    "translation": "эрүүл, сайн байх",
+    "hanja": "健在하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건전성",
+    "translation": "эрүүл мэнд",
+    "hanja": "健全性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "건전지",
+    "translation": "хуурай зай",
+    "hanja": "乾電池",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "건전하다",
+    "translation": "эрүүл",
+    "hanja": "健全하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건제",
+    "translation": "хамтдаа барьсан, хамтдаа нэгдсэн",
+    "hanja": "建制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건제하다",
+    "translation": "Хүчинтэй байх",
+    "hanja": "健在하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건져먹다",
+    "translation": "өгөөж хүртэх",
+    "hanja": "건져먹다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건조",
+    "translation": "хуурай байдал",
+    "hanja": "乾燥",
+    "pos": "NOUN",
+    "cefr": "B1"
+  },
+  {
+    "word": "건조기",
+    "translation": "хатаагч",
+    "hanja": "乾燥機",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "건조대",
+    "translation": "хатаах тавиур",
+    "hanja": "乾燥臺",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "건조되다",
+    "translation": "хатаагдах, хуурайших",
+    "hanja": "乾燥되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건조물",
+    "translation": "барилга байгууламж",
+    "hanja": "建造物",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "건조시키다",
+    "translation": "хатаах",
+    "hanja": "乾燥시키다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "건조실",
+    "translation": "хатаах өрөө",
+    "hanja": "乾燥室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건조하다",
+    "translation": "хуурай",
+    "hanja": "乾燥하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건주",
+    "translation": "Ганжоу (지명)",
+    "hanja": "虔州",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건지다",
+    "translation": "аврах",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "건천",
+    "translation": "хатаж ширгэсэн гол",
+    "hanja": "乾川",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건청궁",
+    "translation": "Гончонгун (ордон)",
+    "hanja": "乾淸宮",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "건초",
+    "translation": "хадлан",
+    "hanja": "乾草",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건축",
+    "translation": "барилга, архитектур",
+    "hanja": "建築",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건축가",
+    "translation": "Архитектор",
+    "hanja": "建築家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건축되다",
+    "translation": "барилга баригдах",
+    "hanja": "建築되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건축물",
+    "translation": "барилга",
+    "hanja": "建築物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건축미",
+    "translation": "архитектурын гоо зүй",
+    "hanja": "建築美",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건축법",
+    "translation": "барилгын хууль",
+    "hanja": "建築法",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "건축사",
+    "translation": "архитектор",
+    "hanja": "建築士",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건축술",
+    "translation": "архитектурын ухаан, архитектур",
+    "hanja": "建築術",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "건축하다",
+    "translation": "барилга барих",
+    "hanja": "建築하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "건축학",
+    "translation": "Архитектур",
+    "hanja": "建築學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건춘문",
+    "translation": "Геончунмун (ордны хаалганы нэр)",
+    "hanja": "建春門",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "건터",
+    "translation": "Гунтер (Нэр)",
+    "hanja": "건터",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "건투",
+    "translation": "Амжилт хүсье, сайн тулаан",
+    "hanja": "健鬪",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건판",
+    "translation": "хуурай хавтан",
+    "hanja": "乾板",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "건평",
+    "translation": "нийт талбай",
+    "hanja": "建坪",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "건포도",
+    "translation": "үзэм",
+    "hanja": "乾葡萄",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "건폭",
+    "translation": "барилгын бүлэглэл",
+    "hanja": "建暴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "건하다",
+    "translation": "хатах",
+    "hanja": "乾하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "건행",
+    "translation": "Эрүүл мэнд, аз жаргал",
+    "hanja": "健幸",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

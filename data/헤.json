@@ -1,0 +1,667 @@
+[
+  {
+    "word": "헤",
+    "translation": "Хэх, хэхэ (инээх дуу)",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "헤게모니",
+    "translation": "Ноёрхол, засаглал",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤겔",
+    "translation": "Гегель",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤까닥",
+    "translation": "гэнэт унаж эргэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤다",
+    "translation": "бэлтгэх, зохицуулах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤더",
+    "translation": "толгой (вэб хуудасны)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤드",
+    "translation": "толгой (мэдээний)",
+    "hanja": "head",
+    "pos": "(명사)",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤드기어",
+    "translation": "толгойн хамгаалалт",
+    "hanja": "헤드기어",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤드라이너",
+    "translation": "гол тоглогч, гол үзүүлбэр",
+    "hanja": "헤드라이너",
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤드라이트",
+    "translation": "гэрэл",
+    "hanja": "헤드라이트",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤드라인",
+    "translation": "гарчиг",
+    "hanja": "헤드라인",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤드락",
+    "translation": "толгойгоор түгжих (бөх)",
+    "hanja": "headlock",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤드록",
+    "translation": "хүзүүнээс барих (бөх)",
+    "hanja": "headlock",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤드밴드",
+    "translation": "Толгойн боолт",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤드뱅잉",
+    "translation": "толгойгоо сэгсрэх (рок хөгжим)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤드셋",
+    "translation": "чихэвч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "헤드폰",
+    "translation": "Чихэвч",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "헤딩",
+    "translation": "Толгойгоор цохих",
+    "hanja": "heading",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤딩하다",
+    "translation": "толгойгоороо мөргөх",
+    "hanja": "헤딩하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤라",
+    "translation": "хера",
+    "hanja": null,
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤라클레스",
+    "translation": "Геракл",
+    "hanja": "Heracles",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤라클레이토스",
+    "translation": "Гераклит",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤로도토스",
+    "translation": "Херодот",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤로인",
+    "translation": "Хероин (мансууруулах бодис)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤롯",
+    "translation": "Херод",
+    "hanja": "Herod",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤르",
+    "translation": "Хер (нэр)",
+    "hanja": "N/A",
+    "pos": "Proper Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "헤르메스",
+    "translation": "Гермес",
+    "hanja": "헤르메스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤르손",
+    "translation": "Херсон",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤르츠",
+    "translation": "герц",
+    "hanja": "Hz",
+    "pos": "name",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤르페스",
+    "translation": "герпес",
+    "hanja": "헤르페스",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤리",
+    "translation": "хэрээ (сум)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤리스",
+    "translation": "Харрис",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤링",
+    "translation": "Херринг",
+    "hanja": "헤링",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤링본",
+    "translation": "загасны яс хээтэй",
+    "hanja": "herringbone",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤매다",
+    "translation": "төөлөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤매이다",
+    "translation": "Төөрөх",
+    "hanja": "헤매이다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤모글로빈",
+    "translation": "гемоглобин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤밍웨이",
+    "translation": "Хемингуэй",
+    "hanja": "Hemingway",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤벌레",
+    "translation": "инээх, баярлах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤벌리다",
+    "translation": "нээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤벌어지다",
+    "translation": "ангайх",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤벌쭉",
+    "translation": "амаа ангайх, инээмсэглэх",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤벌쭉하다",
+    "translation": "Ам ангайх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤벨",
+    "translation": "хөвөө",
+    "hanja": "헤벨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤브라이즘",
+    "translation": "еврейчүүдийн үг хэллэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤브론",
+    "translation": "Хеброн",
+    "hanja": "Hebron",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤비급",
+    "translation": "хүнд жин",
+    "hanja": "헤비급",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤비메탈",
+    "translation": "хүнд метал",
+    "hanja": "헤비메탈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤살",
+    "translation": "гэрлийн туяа",
+    "hanja": "헤살",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤세",
+    "translation": "Хессе",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤스",
+    "translation": "Хесс",
+    "hanja": "Hess",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤스티아",
+    "translation": "Хестиа (Грекийн бурхан)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤실헤실",
+    "translation": "инээмсэглэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤아다",
+    "translation": "Тоолох, бодох, дүгнэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤아리다",
+    "translation": "тооцох",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤어",
+    "translation": "Үс",
+    "hanja": "hair",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "헤어나다",
+    "translation": "гарах",
+    "hanja": "헤어나다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤어드라이어",
+    "translation": "үсний хатаагч",
+    "hanja": "헤어드라이어",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤어리",
+    "translation": "үслэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤어밴드",
+    "translation": "Үсний боолт",
+    "hanja": "hair band",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤어브러시",
+    "translation": "үсний сам",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤어스타일",
+    "translation": "Үсний засалт",
+    "hanja": "hairstyle",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤어스타일링",
+    "translation": "үс засалт",
+    "hanja": "hair styling",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤어컷",
+    "translation": "үс засах",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤어피스",
+    "translation": "үсний хавчаар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "헤어핀",
+    "translation": "Үсний хавчаар",
+    "hanja": "헤어핀",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤엄",
+    "translation": "сэлэх, усанд сэлэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤엄치다",
+    "translation": "Сэлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤엄하다",
+    "translation": "Сэлэх",
+    "hanja": "—",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤이",
+    "translation": "хөөе",
+    "hanja": null,
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "헤이그",
+    "translation": "Гааг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "헤이든",
+    "translation": "Хайден",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "헤이룽장",
+    "translation": "Хар Мөрөн",
+    "hanja": "黑龍江",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤이세이",
+    "translation": "Хэйсэй",
+    "hanja": "平成",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤이스팅스",
+    "translation": "Хэйстингс",
+    "hanja": "헤이스팅스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤이워드",
+    "translation": "Хэйвард",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤이즐넛",
+    "translation": "фундук",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤이지",
+    "translation": "манантай",
+    "hanja": "헤이지",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤일",
+    "translation": "мягмар гариг",
+    "hanja": "헤일",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤일로",
+    "translation": "гэрэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤임달",
+    "translation": "Хеймдал (Умард Европын домгийн баатар)",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤즈볼라",
+    "translation": "Хезболла",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤집다",
+    "translation": "таслах",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤징",
+    "translation": "хеджинг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤치다",
+    "translation": "Хуваах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤카테",
+    "translation": "Хекате (Грекийн бурхан)",
+    "hanja": "헤카테",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤테로",
+    "translation": "Гетеро",
+    "hanja": "헤테로",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "헤파",
+    "translation": "Хепа",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤파린",
+    "translation": "гепарин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤파이스토스",
+    "translation": "Гефест",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "헤프다",
+    "translation": "хуучинсаг",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤헤",
+    "translation": "хэхэ (инээх авиа)",
+    "hanja": null,
+    "pos": "interj",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤헤거리다",
+    "translation": "инээсхийн алхах, инээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "헤헷",
+    "translation": "хэхэ (инээх дуурайл)",
+    "hanja": "헤헷",
+    "pos": "Interjection",
+    "cefr": "A2"
+  },
+  {
+    "word": "헤헿",
+    "translation": "хэхэ (инээх дуу)",
+    "hanja": null,
+    "pos": "interjection",
+    "cefr": "A1"
+  }
+]

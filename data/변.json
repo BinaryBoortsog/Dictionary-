@@ -1,0 +1,814 @@
+[
+  {
+    "word": "변",
+    "translation": "өөрчлөлт",
+    "hanja": "變",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "변경",
+    "translation": "өөрчлөлт",
+    "hanja": "變更",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "변경되다",
+    "translation": "өөрчлөгдөх",
+    "hanja": "變更되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변경하다",
+    "translation": "өөрчлөх",
+    "hanja": "變更하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "변고",
+    "translation": "Гэнэтийн хэрэг",
+    "hanja": "變故",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "변곡점",
+    "translation": "хугарлын цэг",
+    "hanja": "變曲點",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "변광성",
+    "translation": "хувьсах одон",
+    "hanja": "變光星",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "변괴",
+    "translation": "хачирхалтай зүйл",
+    "hanja": "變怪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변군",
+    "translation": "хил хязгаарын цэрэг",
+    "hanja": "邊軍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "변기",
+    "translation": "жорлонгийн суултуур",
+    "hanja": "便器",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "변덕",
+    "translation": "ааш аяг",
+    "hanja": "變德",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변덕스럽다",
+    "translation": "хувирамтгай",
+    "hanja": "變德스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변동",
+    "translation": "өөрчлөлт",
+    "hanja": "變動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변동되다",
+    "translation": "өөрчлөгдөх",
+    "hanja": "變動되다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "변동시키다",
+    "translation": "хөдөлгөх, өөрчлөх",
+    "hanja": "變動시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변동하다",
+    "translation": "хувьсах, өөрчлөгдөх",
+    "hanja": "變動하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변두리",
+    "translation": "зах, хязгаар",
+    "hanja": "邊두리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변란",
+    "translation": "бослого",
+    "hanja": "變亂",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "변론",
+    "translation": "Өмгөөлөл",
+    "hanja": "辯論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변론하다",
+    "translation": "Өмгөөлөх",
+    "hanja": "辯論하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변리",
+    "translation": "ашиг тус",
+    "hanja": "便利",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "변리사",
+    "translation": "патентийн агент",
+    "hanja": "辨理士",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변명",
+    "translation": "шалтаг, өмгөөлөл",
+    "hanja": "辨明",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "변명하다",
+    "translation": "шалтаг хэлэх, өмгөөлөх",
+    "hanja": "辯明하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변모",
+    "translation": "өөрчлөлт, хувиргалт",
+    "hanja": "變貌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변모되다",
+    "translation": "Өөрчлөгдөх, хувирах",
+    "hanja": "變貌되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변모시키다",
+    "translation": "хувиргах, өөрчлөх",
+    "hanja": "變貌-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변모하다",
+    "translation": "өөрчлөгдөх, хувирах",
+    "hanja": "變貌하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "변발",
+    "translation": "сүлжмэл үс",
+    "hanja": "辮髮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변방",
+    "translation": "Хил хязгаар",
+    "hanja": "邊方",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변변찮다",
+    "translation": "сайн биш, муухай",
+    "hanja": "邊邊찮다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변변하다",
+    "translation": "хүрэлцээтэй",
+    "hanja": "邊邊하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변변히",
+    "translation": "хүндэтгэлтэйгээр",
+    "hanja": "邊邊히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변별",
+    "translation": "ялгах",
+    "hanja": "辨別",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변별하다",
+    "translation": "ялгах, тодорхойлох",
+    "hanja": "辨別―",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변복",
+    "translation": "Хувцсаа солих",
+    "hanja": "變服",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변복하다",
+    "translation": "хувцсаа солих",
+    "hanja": "變服하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변비",
+    "translation": "өтгөн хатах",
+    "hanja": "便秘",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변사",
+    "translation": "гайхалтай",
+    "hanja": "辯士",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "변사자",
+    "translation": "хэвийн бусаар нас барагч",
+    "hanja": "變死者",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "변사체",
+    "translation": "гомдлын шалтгаантай цогцос",
+    "hanja": "變死體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변상",
+    "translation": "нөхөн төлбөр",
+    "hanja": "辨償",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변상하다",
+    "translation": "нөхөн төлөх",
+    "hanja": "辨償하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변색",
+    "translation": "өнгө өөрчлөгдөх",
+    "hanja": "變色",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "변색되다",
+    "translation": "өнгө өөрчлөгдөх",
+    "hanja": "變色되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변색하다",
+    "translation": "өнгө өөрчлөгдөх",
+    "hanja": "變色하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변성",
+    "translation": "өөрчлөгдөх",
+    "hanja": "變聲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변성기",
+    "translation": "дуу хоолой өөрчлөгдөх үе",
+    "hanja": "變聲期",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "변소",
+    "translation": "Нүхэн жорлон, бие засах газар",
+    "hanja": "便所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변속",
+    "translation": "Хурд өөрчлөх, хурдны хайрцаг",
+    "hanja": "變速",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "변수",
+    "translation": "хувьсагч",
+    "hanja": "變數",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "변시",
+    "translation": "шалгалт өгөх",
+    "hanja": "變試",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변신",
+    "translation": "Өөрчлөгдөх",
+    "hanja": "變身",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변신술",
+    "translation": "хувилгаан, өөрчлөгдөх урлаг",
+    "hanja": "變身術",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변신하다",
+    "translation": "хувирах",
+    "hanja": "變身하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "변심",
+    "translation": "сэтгэл хувирах, бодол өөрчлөх",
+    "hanja": "變心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변심하다",
+    "translation": "сэтгэл нь өөрчлөгдөх, урвах",
+    "hanja": "變心하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "변씨",
+    "translation": "Бён (овог)",
+    "hanja": "卞氏",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "변온",
+    "translation": "Температурын өөрчлөлт",
+    "hanja": "變溫",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "변용",
+    "translation": "хувиргах",
+    "hanja": "變容",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "변위",
+    "translation": "Шилжилт",
+    "hanja": "變位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변이",
+    "translation": "мутаци",
+    "hanja": "變異",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "변이하다",
+    "translation": "хувирах, мутацид орох",
+    "hanja": "變異하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변인",
+    "translation": "хувьсагч",
+    "hanja": "變因",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "변장",
+    "translation": "Хувиргах, дүрээ солих",
+    "hanja": "變裝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변장하다",
+    "translation": "хувирах",
+    "hanja": "變裝하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변전",
+    "translation": "өөрчлөгдөх, хувирах",
+    "hanja": "變轉",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "변전소",
+    "translation": "цахилгаан дамжуулах станц",
+    "hanja": "變電所",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "변절",
+    "translation": "урвалт",
+    "hanja": "變節",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변절자",
+    "translation": "урвагч",
+    "hanja": "變節者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변절하다",
+    "translation": "Үнэнч бус болох, урвах",
+    "hanja": "變節하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변제",
+    "translation": "төлөх, барагдуулах",
+    "hanja": "辨濟",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "변제하다",
+    "translation": "төлөх, өрийг барагдуулах",
+    "hanja": "辨濟하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변조",
+    "translation": "Хуурамчаар үйлдэх",
+    "hanja": "變造",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변조되다",
+    "translation": "хуурамчаар үйлдэгдэх, өөрчлөгдөх",
+    "hanja": "變造되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변조하다",
+    "translation": "хуурамчаар үйлдэх, өөрчлөх",
+    "hanja": "變造하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변종",
+    "translation": "хувилбар",
+    "hanja": "變種",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변좌",
+    "translation": "суудал",
+    "hanja": "便座",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변주",
+    "translation": "хувилбар, өөрчлөлт",
+    "hanja": "變奏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변주곡",
+    "translation": "хувилбарт дуурь",
+    "hanja": "變奏曲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변주되다",
+    "translation": "хувьсах",
+    "hanja": "變奏되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "변주하다",
+    "translation": "Хувиргах, өөрчлөх",
+    "hanja": "變奏하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변죽",
+    "translation": "зах, хөвөө",
+    "hanja": "邊죽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변질",
+    "translation": "муудах, өөрчлөгдөх",
+    "hanja": "變質",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변질되다",
+    "translation": "Муудах, өөрчлөгдөх, чанараа алдах",
+    "hanja": "變質되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변질시키다",
+    "translation": "чанар муутгах, өөрчлөх",
+    "hanja": "變質시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변질하다",
+    "translation": "чанар муудах, өөрчлөгдөх",
+    "hanja": "變質하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변천",
+    "translation": "өөрчлөлт, хувирал",
+    "hanja": "變遷",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "변칙",
+    "translation": "буруу дүрэм",
+    "hanja": "變則",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변칙적",
+    "translation": "хууль бус, хэвийн бус, дүрэм журамгүй",
+    "hanja": "變則的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변침",
+    "translation": "чиглэл өөрчлөх",
+    "hanja": "變針",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변태",
+    "translation": "хувилгаан, солигдох, гаж донтой",
+    "hanja": "變態",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변태적",
+    "translation": "мутацитай, гаж, хэвийн бус",
+    "hanja": "변태적(變態的)",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변태하다",
+    "translation": "хувирах",
+    "hanja": "變態하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변하다",
+    "translation": "өөрчлөгдөх",
+    "hanja": "變하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "변한",
+    "translation": "өөрчлөгдсөн, хувирсан",
+    "hanja": "變寒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변함없다",
+    "translation": "өөрчлөгдөхгүй",
+    "hanja": "變함없다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "변함없이",
+    "translation": "өөрчлөгдөөгүй",
+    "hanja": "變함없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변혁",
+    "translation": "өөрчлөлт",
+    "hanja": "變革",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "변협",
+    "translation": "хуульчдын холбоо",
+    "hanja": "辯協",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변형",
+    "translation": "хувиргалт",
+    "hanja": "變形",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변형되다",
+    "translation": "хувирах",
+    "hanja": "變形되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변형하다",
+    "translation": "хувиргах",
+    "hanja": "變形하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변호",
+    "translation": "Өмгөөлөх, хамгаалах",
+    "hanja": "辯護",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변호사",
+    "translation": "хуульч",
+    "hanja": "辯護士",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변호인",
+    "translation": "Өмгөөлөгч",
+    "hanja": "辯護人",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "변호하다",
+    "translation": "өмгөөлөх",
+    "hanja": "辯護하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "변화",
+    "translation": "өөрчлөлт",
+    "hanja": "變化",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변화되다",
+    "translation": "Өөрчлөгдөх, хувирах",
+    "hanja": "變化되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "변화무쌍하다",
+    "translation": "хувьсамтгай",
+    "hanja": "變化無雙하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "변화시키다",
+    "translation": "өөрчлөх",
+    "hanja": "變化시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "변화율",
+    "translation": "өөрчлөлтийн хурд",
+    "hanja": "變化率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변화하다",
+    "translation": "өөрчлөгдөх",
+    "hanja": "變化하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "변환",
+    "translation": "хувиргах",
+    "hanja": "變換",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "변환되다",
+    "translation": "хувирах",
+    "hanja": "變換되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "변환하다",
+    "translation": "хувиргах",
+    "hanja": "變換하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  }
+]

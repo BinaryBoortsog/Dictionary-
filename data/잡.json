@@ -1,0 +1,527 @@
+[
+  {
+    "word": "잡",
+    "translation": "Ажил",
+    "hanja": "job",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잡가",
+    "translation": "олон төрлийн дуу",
+    "hanja": "雜歌",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡것",
+    "translation": "хог",
+    "hanja": "雜것",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡곡",
+    "translation": "Элдэв үр тариа",
+    "hanja": "雜穀",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡곡밥",
+    "translation": "олон төрлийн үр тарианы будаа",
+    "hanja": "雜穀밥",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡귀",
+    "translation": "Муу сүнс",
+    "hanja": "雜鬼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡균",
+    "translation": "янз бүрийн бактери",
+    "hanja": "雜菌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡념",
+    "translation": "бодол",
+    "hanja": "雜念",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡다",
+    "translation": "барих, атгах",
+    "hanja": "잡다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "잡다하다",
+    "translation": "олон янзын",
+    "hanja": "雜多하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡담",
+    "translation": "Чавганцалдах, дэмий ярих",
+    "hanja": "雜談",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잡담하다",
+    "translation": "яриа өрнүүлэх",
+    "hanja": "雜談하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡도리",
+    "translation": "нөхцөл байдлыг зохицуулах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "잡도리하다",
+    "translation": "Дарах, засах, сайжруулах",
+    "hanja": "잡도리하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡동사니",
+    "translation": "олон янзын зүйл, хог новш",
+    "hanja": "잡동사니",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡동산이",
+    "translation": "Хог новш, элдэв зүйл",
+    "hanja": "雜同散異",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡류",
+    "translation": "бузар, хог",
+    "hanja": "雜類",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡목",
+    "translation": "бут",
+    "hanja": "雜木",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡무",
+    "translation": "жижиг ажил",
+    "hanja": "雜務",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡배",
+    "translation": "муу хүн, хог шаар",
+    "hanja": "雜輩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡범",
+    "translation": "жижиг гэмт хэрэгтэн",
+    "hanja": "雜犯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡병",
+    "translation": "олон төрлийн өвчин",
+    "hanja": "雜病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡부",
+    "translation": "Туслах ажилчин, энгийн ажилчин",
+    "hanja": "雜夫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡사",
+    "translation": "олон ажил",
+    "hanja": "雜事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡상",
+    "translation": "хольц",
+    "hanja": "雜商",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "잡상인",
+    "translation": "жижиг худалдаачин, наймаачин",
+    "hanja": "雜商人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡생각",
+    "translation": "огт хамаагүй элдэв бодол",
+    "hanja": "雜생각",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡석",
+    "translation": "холимог чулуу",
+    "hanja": "雜石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡설",
+    "translation": "хоосон яриа, цуу яриа",
+    "hanja": "雜說",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡소다",
+    "translation": "сонин хачин яриа, хов жив",
+    "hanja": "雜疏하다",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡소리",
+    "translation": "хоосон яриа, цуу яриа",
+    "hanja": "雜소리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡수",
+    "translation": "хооллох",
+    "hanja": "雜數",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡수다",
+    "translation": "идэх, уух (хүндэтгэлийн)",
+    "hanja": "",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡숫다",
+    "translation": "идэх, уух (хүндэтгэлийн)",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡스",
+    "translation": "ажлууд",
+    "hanja": "Jobs",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡스럽다",
+    "translation": "жижигхэн, олон янз",
+    "hanja": "雜스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡식",
+    "translation": "холимог хоолтон",
+    "hanja": "雜食",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡신",
+    "translation": "Олон бурхан шүтээн",
+    "hanja": "雜神",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡아끌다",
+    "translation": "татаж татах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡아내다",
+    "translation": "барьж авах, илрүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡아넣다",
+    "translation": "Хийх, баривчлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡아당기다",
+    "translation": "таттах, чирэх",
+    "hanja": "잡아당기다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡아들다",
+    "translation": "баривчлах, барих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡아들이다",
+    "translation": "Баривчлах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡아떼다",
+    "translation": "татгалзах, үгүйсгэх",
+    "hanja": null,
+    "pos": "ү.ү",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡아뜯다",
+    "translation": "тасдан урах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡아매다",
+    "translation": "холбох",
+    "hanja": "잡아매다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡아먹다",
+    "translation": "барих; идэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡아먹히다",
+    "translation": "идүүлэх",
+    "hanja": null,
+    "pos": "үйл",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡아채다",
+    "translation": "Шуурхай барьж авах, шүүрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡아타다",
+    "translation": "Барих",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡어",
+    "translation": "Энгийн загас, жижиг загас",
+    "hanja": "雜魚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡역",
+    "translation": "жижиг ажил, туслах ажил",
+    "hanja": "雜役",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡음",
+    "translation": "дуу чимээ",
+    "hanja": "雜音",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡이",
+    "translation": "барьсан хүн/зүйл, баригч",
+    "hanja": null,
+    "pos": "접미사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡인",
+    "translation": "Хог шаар",
+    "hanja": "雜人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡일",
+    "translation": "жижиг ажил, янз бүрийн ажил",
+    "hanja": "雜일",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡종",
+    "translation": "эрлийз, мутант",
+    "hanja": "雜種",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡주",
+    "translation": "эргийн дагуух архи",
+    "hanja": "雜酒",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡지",
+    "translation": "сэтгүүл",
+    "hanja": "雜誌",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "잡지꽂이",
+    "translation": "сэтгүүлийн тавиур",
+    "hanja": "雜誌꽂이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡지다",
+    "translation": "баригдах, атгуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡지사",
+    "translation": "Сэтгүүлийн газар",
+    "hanja": "雜誌社",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잡지책",
+    "translation": "сэтгүүл",
+    "hanja": "雜誌冊",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잡채",
+    "translation": "жапче (хоол)",
+    "hanja": "雜菜",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "잡초",
+    "translation": "хогийн ургамал",
+    "hanja": "雜草",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡치다",
+    "translation": "Муутгах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡탕",
+    "translation": "Холимог шөл, олон төрлийн холимог",
+    "hanja": "雜湯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡티",
+    "translation": "сэвх",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "잡풀",
+    "translation": "хогийн ургамал",
+    "hanja": "雜풀",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "잡학",
+    "translation": "янз бүрийн мэдлэг",
+    "hanja": "雜學",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "잡화",
+    "translation": "олон төрлийн бараа",
+    "hanja": "雜貨",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡화상",
+    "translation": "бэлэн хувцасны дэлгүүр",
+    "hanja": "雜貨商",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡화점",
+    "translation": "бөөний барааны дэлгүүр",
+    "hanja": "雜貨店",
+    "pos": "мüns",
+    "cefr": "B1"
+  },
+  {
+    "word": "잡히다",
+    "translation": "баригдах",
+    "hanja": "잡히다",
+    "pos": "동사",
+    "cefr": "B1"
+  }
+]

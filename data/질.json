@@ -1,0 +1,520 @@
+[
+  {
+    "word": "질",
+    "translation": "чанар",
+    "hanja": "質",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "질감",
+    "translation": "бүтэц",
+    "hanja": "質感",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "질겁하다",
+    "translation": "Айх, цочих",
+    "hanja": "窒怯하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질겅거리다",
+    "translation": "зажийлах, хүлхэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "질겅질겅",
+    "translation": "шажигнуулах",
+    "hanja": "질겅질겅",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질겅질겅하다",
+    "translation": "зажилах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "질경이",
+    "translation": "тарваган шийр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "질곡",
+    "translation": "Хүлээс; гав; бэрхшээл",
+    "hanja": "桎梏",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "질그릇",
+    "translation": "Шавар эдлэл",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "질근",
+    "translation": "уян хатан",
+    "hanja": "질근",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "질근질근",
+    "translation": "зажилах чимээ",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질금",
+    "translation": "хулгайгаар бага багаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질기다",
+    "translation": "Уян хатан, бат бөх",
+    "hanja": "질기다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질깃하다",
+    "translation": "зузаан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "질끈",
+    "translation": "чанга татах",
+    "hanja": "질끈",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "질녀",
+    "translation": "зээ дүү (эмэгтэй)",
+    "hanja": "姪女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질다",
+    "translation": "Нойтон, чийглэг, наалдамхай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질량",
+    "translation": "масс",
+    "hanja": "質量",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "질려",
+    "translation": "залхах, уйдлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "질력",
+    "translation": "Бүрэн хүчээр",
+    "hanja": "盡力",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "질료",
+    "translation": "материал",
+    "hanja": "質料",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질리",
+    "translation": "Үнэн",
+    "hanja": "眞理",
+    "pos": "Нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "질리다",
+    "translation": "залхах",
+    "hanja": "질리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "질문",
+    "translation": "асуулт",
+    "hanja": "質問",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "질문지",
+    "translation": "асуулгын хуудас",
+    "hanja": "質問紙",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "질문하다",
+    "translation": "асуух",
+    "hanja": "質問하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "질병",
+    "translation": "өвчин",
+    "hanja": "疾病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질본",
+    "translation": "Өвчний хяналт, урьдчилан сэргийлэх төв (хуучин нэр)",
+    "hanja": "質本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질부",
+    "translation": "ач охин",
+    "hanja": "姪婦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질산",
+    "translation": "азотын хүчил",
+    "hanja": "窒酸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질색",
+    "translation": "Жигшил, дургүйцэл",
+    "hanja": "疾塞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질색팔색하다",
+    "translation": "Зэвүүцэх, дургүй хүрэх",
+    "hanja": "窒塞八色하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질색하다",
+    "translation": "Гижиг алдах",
+    "hanja": "질색하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질서",
+    "translation": "Эрх дараалал",
+    "hanja": "秩序",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질세",
+    "translation": "алдахгүй, хоцрохгүй",
+    "hanja": null,
+    "pos": "관용구",
+    "cefr": "B2"
+  },
+  {
+    "word": "질소",
+    "translation": "азот",
+    "hanja": "窒素",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질수",
+    "translation": "чанар",
+    "hanja": "質數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질시",
+    "translation": "хардалт, атаархал",
+    "hanja": "嫉視",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질시하다",
+    "translation": "Атаархах, өсөрхөх",
+    "hanja": "嫉視하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질식",
+    "translation": "амьсгал боогдох",
+    "hanja": "窒息",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "질식되다",
+    "translation": "амьсгал боогдох",
+    "hanja": "窒息되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질식사",
+    "translation": "амьсгал боогдох",
+    "hanja": "窒息死",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질식사하다",
+    "translation": "амьсгал боогдон үхэх",
+    "hanja": "窒息死하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "질식시키다",
+    "translation": "амьсгал боогдуулах",
+    "hanja": "窒息시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질식하다",
+    "translation": "амьсгал боогдох",
+    "hanja": "窒息하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질염",
+    "translation": "үтрээний үрэвсэл",
+    "hanja": "膣炎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질의",
+    "translation": "асуулт",
+    "hanja": "質疑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질의하다",
+    "translation": "асуух",
+    "hanja": "質疑하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "질적",
+    "translation": "чанарын",
+    "hanja": "質的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "질정",
+    "translation": "Асуух, шүүмжлэх",
+    "hanja": "質正",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "질주",
+    "translation": "Хурдлах, давхих",
+    "hanja": "疾走",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질주하다",
+    "translation": "хурдлах",
+    "hanja": "疾走하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질지다",
+    "translation": "чийгтэй байх",
+    "hanja": "질지다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질책",
+    "translation": "зэмлэл",
+    "hanja": "叱責",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질책하다",
+    "translation": "зэмлэх",
+    "hanja": "叱責하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "질척거리다",
+    "translation": "шавар шавхайтай байх",
+    "hanja": "질척거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질척대다",
+    "translation": "шавардах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질척이다",
+    "translation": "шавар шавхайтай байх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질척질척하다",
+    "translation": "шавар шавхайтай байх",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "null"
+  },
+  {
+    "word": "질척하다",
+    "translation": "шавар шавхайтай",
+    "hanja": "질척하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "질타",
+    "translation": "хатуу шүүмжлэл",
+    "hanja": "叱咤",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "질타하다",
+    "translation": "шүүмжлэх, зэмлэх",
+    "hanja": "叱咤하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "질투",
+    "translation": "атаархал",
+    "hanja": "嫉妬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질투심",
+    "translation": "Хардалт",
+    "hanja": "嫉妬心",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "질투하다",
+    "translation": "харамлах",
+    "hanja": "嫉妬하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "질퍽거리다",
+    "translation": "шавархнаар явах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질퍽이다",
+    "translation": "шавар шавхайтай байх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "질퍽질퍽",
+    "translation": "шавар шавхайтай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질퍽질퍽하다",
+    "translation": "шаварлаг",
+    "hanja": "질퍽질퍽하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "질펀하다",
+    "translation": "тархах, дэвсэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "질풍",
+    "translation": "шуурган салхи",
+    "hanja": "疾風",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "질풍노도",
+    "translation": "Шуурган (сэтгэл хөдлөл)",
+    "hanja": "疾風怒濤",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "질하다",
+    "translation": "ур чадвар",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "질환",
+    "translation": "өвчин",
+    "hanja": "疾患",
+    "pos": "Noun",
+    "cefr": "C1"
+  }
+]

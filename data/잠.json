@@ -1,0 +1,520 @@
+[
+  {
+    "word": "잠",
+    "translation": "Унтах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "잠간",
+    "translation": "түр зуур",
+    "hanja": "暫間",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠결",
+    "translation": "хагас унтаа байдал",
+    "hanja": "잠결",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠구다",
+    "translation": "түгжих, цоожлох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠귀",
+    "translation": "бөх нойртой",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠그다",
+    "translation": "түгжих, хаах",
+    "hanja": "잠그다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠금",
+    "translation": "түгжээ",
+    "hanja": "잠금",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠금장치",
+    "translation": "түгжих төхөөрөмж",
+    "hanja": "잠금裝置",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠기다",
+    "translation": "живэх, түгжигдэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠깐",
+    "translation": "Хэсэгхэн зуур",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠깐잠깐",
+    "translation": "үе үе",
+    "hanja": "잠깐잠깐",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠깜",
+    "translation": "хэсэг хугацаанд",
+    "hanja": "잠깜",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "잠꼬대",
+    "translation": "нойрондоо юм ярих",
+    "hanja": "잠꼬대",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠꼬대하다",
+    "translation": "잠꼬대하다",
+    "hanja": "잠꼬대하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠꾸러기",
+    "translation": "нойрсог, орондоо унтдаг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠녀",
+    "translation": "усан доор амьдардаг эмэгтэй",
+    "hanja": "潛女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠다",
+    "translation": "хаах",
+    "hanja": "잠다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠들다",
+    "translation": "унтчих",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "잠룡",
+    "translation": "далд эрх мэдэл, нууц хүч",
+    "hanja": "潛龍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "잠바",
+    "translation": "бүрээс",
+    "hanja": "잠바",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠발라야",
+    "translation": "жамбалая (хоол)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠방",
+    "translation": "түргэн, хурдан",
+    "hanja": "잠방",
+    "pos": "Adverb",
+    "cefr": "C2"
+  },
+  {
+    "word": "잠버릇",
+    "translation": "унтах муу зуршил",
+    "hanja": "잠버릇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠보",
+    "translation": "унтамхай хүн",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠복",
+    "translation": "нууц байх, нуувч",
+    "hanja": "潛伏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠복근무",
+    "translation": "нууц ажил",
+    "hanja": "潛伏勤務",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠복근무하다",
+    "translation": "нууц ажил хийх",
+    "hanja": "潛伏勤務하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠복기",
+    "translation": "далд үе",
+    "hanja": "潛伏期",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠복되다",
+    "translation": "нуун далдлагдах",
+    "hanja": "潛伏되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠복하다",
+    "translation": "нуун далдлах",
+    "hanja": "潛伏하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠봉",
+    "translation": "жигнэсэн гахайн мах",
+    "hanja": "jambon",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠봉뵈르",
+    "translation": "жамбон-бёр",
+    "hanja": "잠봉뵈르",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "잠비아",
+    "translation": "Замби",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠소",
+    "translation": "Замаг",
+    "hanja": "蠶所",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠수",
+    "translation": "шумбах",
+    "hanja": "潛水",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠수부",
+    "translation": "гүний усанд шумбагч",
+    "hanja": "潛水夫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠수하다",
+    "translation": "Шумбах",
+    "hanja": "潛水하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠수함",
+    "translation": "шумбагч онгоц",
+    "hanja": "潛水艦",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠시",
+    "translation": "Хэсэгхэн зуур",
+    "hanja": "暫時",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠시간",
+    "translation": "хэсэг хугацаагаар, түр зуур",
+    "hanja": "暫時間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠식",
+    "translation": "аажмаар идэх/хэрэглэх",
+    "hanja": "蠶食",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠식당하다",
+    "translation": "идэгдэх, эзлэгдэх",
+    "hanja": "蠶食당하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠식되다",
+    "translation": "Идэгдэх, булаагдах",
+    "hanja": "蠶食되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠식하다",
+    "translation": "идэх",
+    "hanja": "蠶食하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "잠실",
+    "translation": "Жамшил (газрын нэр)",
+    "hanja": "蠶室",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠언",
+    "translation": "сургаал, зүйр үг",
+    "hanja": "箴言",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "잠영",
+    "translation": "Усан дор сэлэх",
+    "hanja": "潛泳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠옷",
+    "translation": "унтлагын хувцас",
+    "hanja": "잠옷",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠원동",
+    "translation": "Жамвон-донг (газарзүйн нэр)",
+    "hanja": "蠶院洞",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "잠원초",
+    "translation": "Жамвонтын бага сургууль",
+    "hanja": "蠶院初",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠입",
+    "translation": "нууцаар нэвтрэх",
+    "hanja": "潛入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠입하다",
+    "translation": "Нэвтрэн орох, сэм нэвтрэх",
+    "hanja": "潛入하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠자다",
+    "translation": "унтах",
+    "hanja": "잠자다",
+    "pos": "VV",
+    "cefr": "A1"
+  },
+  {
+    "word": "잠자리",
+    "translation": "унтах газар",
+    "hanja": "잠자리",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "잠자코",
+    "translation": "чимээгүй",
+    "hanja": "潛然코",
+    "pos": "д.ү.",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠잠하다",
+    "translation": "чимээгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠잠히",
+    "translation": "чимээгүй, дуугүй",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠재되다",
+    "translation": "далд байх",
+    "hanja": "潛在되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠재력",
+    "translation": "потенциал, чадавхи",
+    "hanja": "潛在力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠재성",
+    "translation": "потенциал, нөөц боломж",
+    "hanja": "潛在性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠재우다",
+    "translation": "Унтуулах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠재의식",
+    "translation": "ухамсаргүйн байдал, далд ухамсар",
+    "hanja": "潛在意識",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠재적",
+    "translation": "далд, боломжит",
+    "hanja": "潛在的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠재하다",
+    "translation": "далд байх",
+    "hanja": "潛在하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠저",
+    "translation": "нуугдмал цээж",
+    "hanja": "潛邸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "잠적",
+    "translation": "алга болсон",
+    "hanja": "潛跡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠적하다",
+    "translation": "Нуугдах",
+    "hanja": "潛跡하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠정",
+    "translation": "түр зуурын",
+    "hanja": "暫定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "잠정적",
+    "translation": "түр зуурын, завсрын",
+    "hanja": "暫定的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠투정",
+    "translation": "унтахдаа дэмийрэх",
+    "hanja": "잠투정",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "잠항",
+    "translation": "шумбах",
+    "hanja": "潛航",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠항하다",
+    "translation": "шумбах",
+    "hanja": "潛航하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠행",
+    "translation": "нууцаар явах",
+    "hanja": "潛行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "잠행하다",
+    "translation": "нууцаар явах",
+    "hanja": "潛行하다",
+    "pos": "v",
+    "cefr": "C1"
+  }
+]

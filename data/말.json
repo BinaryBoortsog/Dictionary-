@@ -1,0 +1,1024 @@
+[
+  {
+    "word": "말",
+    "translation": "үг",
+    "hanja": "말",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "말갈",
+    "translation": "Мальгал",
+    "hanja": "靺鞨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "말갈기",
+    "translation": "морины сүүл",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말갛다",
+    "translation": "Тунгалаг, цэвэр, тод",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말객",
+    "translation": "аялагч, зочин",
+    "hanja": "말객",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말거다",
+    "translation": "яриа өрнүүлэх",
+    "hanja": "말걸다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말경",
+    "translation": "төгсгөл үеэр",
+    "hanja": "末景",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "말고",
+    "translation": "~гүй",
+    "hanja": "말고",
+    "pos": "조사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말괄량이",
+    "translation": "хэрүүлч эмэгтэй, танхай охин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말구",
+    "translation": "хүүдий, шуудай",
+    "hanja": "末句",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말굽",
+    "translation": "морины туурай",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말귀",
+    "translation": "ойлгох чадвар",
+    "hanja": "말귀",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "말꼬리",
+    "translation": "үгийн сүүл",
+    "hanja": "말꼬리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말꼬투리",
+    "translation": "үгийн сүүл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말끄러미",
+    "translation": "ширтэн",
+    "hanja": "말끄러미",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말끔",
+    "translation": "гэнэт цэвэрлэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말끔하다",
+    "translation": "цэвэрхэн, цэмцгэр",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말끔히",
+    "translation": "цэвэрхэн",
+    "hanja": "말끔히",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "말끝",
+    "translation": "үгийн төгсгөл",
+    "hanja": "말끝",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "말년",
+    "translation": "амьдралын сүүлчийн жилүүд",
+    "hanja": "末年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말놀이",
+    "translation": "үгийн тоглоом",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말다",
+    "translation": "болих, хийхгүй байх",
+    "hanja": "말다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말다툼",
+    "translation": "Маргаан",
+    "hanja": "말다툼",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말다툼하다",
+    "translation": "маргалдах, хэрүүл хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말단",
+    "translation": "эцсийн",
+    "hanja": "말단(末端)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말대",
+    "translation": "морь уух",
+    "hanja": "末代",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말대꾸",
+    "translation": "Хариу үг",
+    "hanja": "말대꾸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말대꾸하다",
+    "translation": "хор шарыг нь хөдөлгөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말대답",
+    "translation": "хариу үг",
+    "hanja": "말對答",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "말대답하다",
+    "translation": "хариу үг хэлэх, сөргүүлэн хариулах",
+    "hanja": "말대답하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말더듬",
+    "translation": "ээрэх, хэл амандаа орооцолдох",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말도",
+    "translation": "үгсийн утга",
+    "hanja": "말도",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말동무",
+    "translation": "ярианы хамтрагч",
+    "hanja": "말동무",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말동무하다",
+    "translation": "ярилцах",
+    "hanja": "말동무하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말똥",
+    "translation": "Адууны баас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말똥말똥",
+    "translation": "шивэгнэх, сонор сэрэмжтэй",
+    "hanja": "말똥말똥",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말똥말똥하다",
+    "translation": "сэргэг, нүд нь сэргэлэн байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말뜻",
+    "translation": "үгийн утга",
+    "hanja": "말뜻",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "말띠",
+    "translation": "морь жил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말라가",
+    "translation": "Малага (хот)",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말라가시",
+    "translation": "Малагас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말라깽이",
+    "translation": "туурайтай",
+    "hanja": "말라깽이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말라다",
+    "translation": "Сайн уу?",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "말라리아",
+    "translation": "хумхаа өвчин",
+    "hanja": "말라리아",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말라붙다",
+    "translation": "хатаж наалдах",
+    "hanja": "말라붙다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "말라비틀어지다",
+    "translation": "хатаж муудсан",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "말라빠지다",
+    "translation": "хатах, турах",
+    "hanja": "말라빠지다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말라위",
+    "translation": "Малави",
+    "hanja": null,
+    "pos": "н.н",
+    "cefr": "A2"
+  },
+  {
+    "word": "말라죽다",
+    "translation": "хатаж үхэх",
+    "hanja": "말라죽다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말라카",
+    "translation": "Малакка (байрлал)",
+    "hanja": "말라카",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "말랑",
+    "translation": "зөөлөн, уян (үгний хэсэг)",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "말랑거리다",
+    "translation": "зөөлөн, уян хатан, хучдастай",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말랑말랑",
+    "translation": "зөөлөн зөөлөн, зөөлөнхөн",
+    "hanja": "말랑말랑",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말랑말랑하다",
+    "translation": "Зөөлөн",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말랑이",
+    "translation": "Зөөлөн зүйл",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "말랑하다",
+    "translation": "зөөлөн",
+    "hanja": "N/A",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말래",
+    "translation": "амьсгал хураах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말랭이",
+    "translation": "Хатаасан хүнсний ногоо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말러",
+    "translation": "Малер",
+    "hanja": "말러",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말레비치",
+    "translation": "Малевич",
+    "hanja": "Malevich",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "말레이",
+    "translation": "Малай",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말레이시아",
+    "translation": "Малайз",
+    "hanja": "Malaysia",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말려들다",
+    "translation": "татагдан орох",
+    "hanja": "말려들다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말로",
+    "translation": "үгээр",
+    "hanja": "말路",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말르다",
+    "translation": "хатах, турах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말리",
+    "translation": "миль",
+    "hanja": "哩",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "말리다",
+    "translation": "хатаах, болиулах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말릭",
+    "translation": "Малик",
+    "hanja": "말릭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "말린",
+    "translation": "хатаасан",
+    "hanja": "말린",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말머리",
+    "translation": "үгийн эхлэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말뫼",
+    "translation": "Мальмё (хотын нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "말문",
+    "translation": "үгсийн эхлэл",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "말미",
+    "translation": "эцэс",
+    "hanja": "末尾",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말미암다",
+    "translation": "Үүдэн гарах",
+    "hanja": "말미암다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "말미잘",
+    "translation": "Далайн сарнай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말발",
+    "translation": "хэл ярианы хүч, үгний нөлөө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말발굽",
+    "translation": "морины туурай",
+    "hanja": "말발굽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말버릇",
+    "translation": "Үгийн хэллэг, ярианы зуршил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말벅지",
+    "translation": "морь шиг гуя / булчинлаг гуя",
+    "hanja": "말벅지",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말벌",
+    "translation": "зөгий",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말법",
+    "translation": "энэ цаг үе",
+    "hanja": "末法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말벗",
+    "translation": "ярианы анд",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "말보",
+    "translation": "Мальборо (тамхины брэнд)",
+    "hanja": "말보",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "말복",
+    "translation": "нохойн махны сүүлчийн өдөр",
+    "hanja": "末伏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말살",
+    "translation": "устгах",
+    "hanja": "抹殺",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "말살되다",
+    "translation": "устгагдах",
+    "hanja": "抹殺되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말살하다",
+    "translation": "устгах",
+    "hanja": "말살하다(抹殺하다)",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "말상",
+    "translation": "морьны царай",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "말석",
+    "translation": "сүүлчийн суудал",
+    "hanja": "末席",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말세",
+    "translation": "сүйрлийн үе, төгсгөлийн үе",
+    "hanja": "末世",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "말소",
+    "translation": "устгах, цуцлах",
+    "hanja": "抹消",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "말소되다",
+    "translation": "устгагдах",
+    "hanja": "抹消되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "말소리",
+    "translation": "ярианы дуу хоолой",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "말소하다",
+    "translation": "Устгах, арчих",
+    "hanja": "抹消하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말속",
+    "translation": "үгний утга",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "말솜씨",
+    "translation": "ярианы чадвар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말수",
+    "translation": "ярианы тоо",
+    "hanja": "말수",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말슴",
+    "translation": "үг, хэлсэн үг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "말실수",
+    "translation": "хэл ам",
+    "hanja": "말失手",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말실수하다",
+    "translation": "Амаа алдах, буруу ярих",
+    "hanja": "말실수하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "말싸움",
+    "translation": "Үг хэлээр маргалдах",
+    "hanja": "말싸움",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말싸움하다",
+    "translation": "маргалдах, хэрүүл хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말썽",
+    "translation": "асуудал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말썽거리",
+    "translation": "асуудал үүсгэгч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말썽꾸러기",
+    "translation": "сахилгагүй хүүхэд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말쑥하다",
+    "translation": "Цэвэрхэн, нямбай",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말씀",
+    "translation": "үг",
+    "hanja": "말씀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말씀드리다",
+    "translation": "ярих",
+    "hanja": "말씀드리다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "말씀하다",
+    "translation": "хэлэх",
+    "hanja": "말씀하다",
+    "pos": "Verb (honorific)",
+    "cefr": "A1"
+  },
+  {
+    "word": "말씨",
+    "translation": "Ярианы хэв маяг",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말씸",
+    "translation": "үг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말아먹다",
+    "translation": "Бүтэлгүйтүүлэх, сүйрүүлэх",
+    "hanja": "말아먹다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말아톤",
+    "translation": "марафон",
+    "hanja": "Marathon",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말없이",
+    "translation": "дуугүй",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "말엽",
+    "translation": "эцсийн үе",
+    "hanja": "末葉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말이다",
+    "translation": "гэсэн үг",
+    "hanja": "말이다",
+    "pos": "보조사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말일",
+    "translation": "Сард сүүлийн өдөр",
+    "hanja": "末日",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말자",
+    "translation": "Болохгүй гэдгийг мэдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말장난",
+    "translation": "үгийн тоглоом",
+    "hanja": "말장난",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "말장난하다",
+    "translation": "үгээр наадах, хошигнох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말재다",
+    "translation": "хурдан хэлэх, хурдтай ярих",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말재주",
+    "translation": "ярианы чадвар, үгсийн баялаг",
+    "hanja": "말재주",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말조심",
+    "translation": "үгэндээ болгоомжтой байх",
+    "hanja": "말操心",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말조심하다",
+    "translation": "Үгээ цэгнэх, болгоомжтой ярих",
+    "hanja": "말조심하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말종",
+    "translation": "сүүлчийн үеийн хүн",
+    "hanja": "末種",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말주변",
+    "translation": "хэл ярианы өндөр соёл",
+    "hanja": "말주변",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "말짱",
+    "translation": "бүрэн, цэвэрхэн",
+    "hanja": "말짱",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "말짱하다",
+    "translation": "Бүрэн бүтэн",
+    "hanja": "말짱하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말쯤",
+    "translation": "үгийн төгсгөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말참견",
+    "translation": "үг таслах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말초",
+    "translation": "захын",
+    "hanja": "末梢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "말초적",
+    "translation": "захын",
+    "hanja": "末梢的",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "말총",
+    "translation": "адууны сүүл",
+    "hanja": "말총",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "말출",
+    "translation": "хамгийн сүүлийн, төгсгөлийн",
+    "hanja": "末出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말캉말캉",
+    "translation": "말랑말랑, 부드럽다",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "말캉말캉하다",
+    "translation": "Зөөлхөн",
+    "hanja": "말캉말캉하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말캉하다",
+    "translation": "зөөлөн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말컹",
+    "translation": "Малькон",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "말코손바닥사슴",
+    "translation": "хандгай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말키",
+    "translation": "Малки",
+    "hanja": "말키",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "말통",
+    "translation": "морины торх, том торх",
+    "hanja": "말通",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "말투",
+    "translation": "ярианы хэв маяг",
+    "hanja": " 말투",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "말판",
+    "translation": "тоглоомын хөлөг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "말하",
+    "translation": "хэлэх",
+    "hanja": "말하",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "말하다",
+    "translation": "хэлэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "말허리",
+    "translation": "Ярианы дундуур таслах",
+    "hanja": "말허리",
+    "pos": "Noun",
+    "cefr": "B2"
+  }
+]

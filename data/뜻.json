@@ -1,0 +1,51 @@
+[
+  {
+    "word": "뜻",
+    "translation": "Утга, санаа",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "뜻깊다",
+    "translation": "утга учиртай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뜻대로",
+    "translation": "Санасны дагуу, хүссэнээр",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뜻밖",
+    "translation": "санаандгүй",
+    "hanja": "뜻밖",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "뜻있다",
+    "translation": "Утга учиртай",
+    "hanja": "",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "뜻풀이",
+    "translation": "тайлбар, утга тайлах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "뜻하다",
+    "translation": "утга учиртай, тэмдэглэх",
+    "hanja": "뜻하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

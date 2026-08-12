@@ -1,0 +1,772 @@
+[
+  {
+    "word": "목",
+    "translation": "хүзүү",
+    "hanja": "목",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목가",
+    "translation": "бэлчээрийн дуу",
+    "hanja": "牧歌",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "목가적",
+    "translation": "маллери",
+    "hanja": "牧歌的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "목각",
+    "translation": "модон сийлбэр",
+    "hanja": "木刻",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목간",
+    "translation": "банн",
+    "hanja": "沐簡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목감기",
+    "translation": "хоолойн ханиад",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "목걸이",
+    "translation": "хүзүүний зүүлт",
+    "hanja": "목걸이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목검",
+    "translation": "модон сэлэм",
+    "hanja": "木劍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목격",
+    "translation": "Нүдээр үзэх",
+    "hanja": "目擊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목격담",
+    "translation": "гэрчийн мэдүүлэг",
+    "hanja": "目擊談",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "목격되다",
+    "translation": "харсан, гэрчилсэн",
+    "hanja": "目擊되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목격자",
+    "translation": "гэрч",
+    "hanja": "目擊者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "목격하다",
+    "translation": "гэрчлэх",
+    "hanja": "目擊하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "목골",
+    "translation": "модон араг яс",
+    "hanja": "木骨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "목공",
+    "translation": "мужаан",
+    "hanja": "木工",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목공소",
+    "translation": "мужааны цех",
+    "hanja": "木工所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목공예",
+    "translation": "модон урлал",
+    "hanja": "木工藝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목관",
+    "translation": "модон хоолой (хөгжмийн зэмсэг)",
+    "hanja": "木管",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "목구멍",
+    "translation": "хоолой, залгиур",
+    "hanja": "목구멍",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목근",
+    "translation": "модлог үндэс",
+    "hanja": "木根",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "목금",
+    "translation": "Модон ксилофон",
+    "hanja": "木琴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목기",
+    "translation": "Модон сав",
+    "hanja": "木器",
+    "pos": "명са",
+    "cefr": "B2"
+  },
+  {
+    "word": "목단",
+    "translation": "Цэцэг (залгуурын төрөл)",
+    "hanja": "牧丹",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "목대",
+    "translation": "Модон тавцан/оноо",
+    "hanja": "木臺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "목덜미",
+    "translation": "хүзүүний ар тал",
+    "hanja": "목덜미",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목도",
+    "translation": "Нүдээр харах, гэрчлэх",
+    "hanja": "目睹",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목도리",
+    "translation": "Ороолт",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "목도하다",
+    "translation": "Нүдээр үзэх",
+    "hanja": "目睹하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "목돈",
+    "translation": "Их мөнгө",
+    "hanja": "몫돈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목동",
+    "translation": "хоньчин",
+    "hanja": "牧童",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목란",
+    "translation": "Магноли мод",
+    "hanja": "木蘭",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "목련",
+    "translation": "цээнэ цэцэг",
+    "hanja": "木蓮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목례",
+    "translation": "толгой дохих ёслол",
+    "hanja": "目禮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목례하다",
+    "translation": "толгой дохиж мэндлэх",
+    "hanja": "目禮하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목록",
+    "translation": "жагсаалт",
+    "hanja": "目錄",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목마",
+    "translation": "Модон морь",
+    "hanja": "木馬",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목마르다",
+    "translation": "цангах",
+    "hanja": "목마르다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목마름",
+    "translation": "цангах",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "목말",
+    "translation": "морь унах (хүүхэд)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목말라하다",
+    "translation": "цангах",
+    "hanja": "목말라하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "목매다",
+    "translation": "боох, дүүжлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목메다",
+    "translation": "Хоолой бачуурах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목멱산",
+    "translation": "намсан уул",
+    "hanja": "木覓山",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "목발",
+    "translation": "таяг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목봉",
+    "translation": "модон саваа (Хэрэгсэл)",
+    "hanja": "木棒",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "목사",
+    "translation": "пастор",
+    "hanja": "牧師",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "목살",
+    "translation": "хүзүүний мах",
+    "hanja": "목살",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목상",
+    "translation": "Модон баримал",
+    "hanja": "木像",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "목새",
+    "translation": "Хонхтой шувуу",
+    "hanja": "木𪾓 (대체 한자)",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "목석",
+    "translation": "Мод чулуу",
+    "hanja": "木石",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "목석같다",
+    "translation": "мод чулуу шиг хүйтэн",
+    "hanja": "木石같다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목선",
+    "translation": "Модон онгоц",
+    "hanja": "木船",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목성",
+    "translation": "Бархасбадь гариг",
+    "hanja": "木星",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목소",
+    "translation": "мохошгүй эрч хүч",
+    "hanja": "牧所/目素",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "목소리",
+    "translation": "дуу хоолой",
+    "hanja": "목소리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목수",
+    "translation": "Мужаан",
+    "hanja": "木手",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "목숨",
+    "translation": "амь нас",
+    "hanja": "목숨",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "목쉬다",
+    "translation": "хоолой сөөх",
+    "hanja": "목쉬다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목시",
+    "translation": "нүдний дуран",
+    "hanja": "目視",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "목신",
+    "translation": "Модоны бурхан",
+    "hanja": "木神",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "목요일",
+    "translation": "Пүрэв гараг",
+    "hanja": "木曜日",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "목욕",
+    "translation": "угаалга",
+    "hanja": "沐浴",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목욕물",
+    "translation": "усанд орох ус",
+    "hanja": "沐浴물",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목욕시키다",
+    "translation": "угаалгах",
+    "hanja": "沐浴시키다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "목욕재계",
+    "translation": "Ариун ёслолын усанд орох",
+    "hanja": "沐浴齋戒",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "목욕탕",
+    "translation": "Угаалгын өрөө / Халуун усны газар",
+    "hanja": "목욕탕 (沐浴湯)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목욕하다",
+    "translation": "угаах, банн хийх",
+    "hanja": "沐浴하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "목우",
+    "translation": "модон үхэр",
+    "hanja": "木牛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목운초",
+    "translation": "модон үүл, модон хөвөн",
+    "hanja": "木雲草",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "목자",
+    "translation": "Хонин сүрэгчин",
+    "hanja": "牧者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목장",
+    "translation": "бэлчээр, ферм",
+    "hanja": "牧場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목재",
+    "translation": "мод, материал",
+    "hanja": "木材",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "목적",
+    "translation": "зорилго",
+    "hanja": "目的",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "목적격",
+    "translation": "тусагдахын тийн ялгал",
+    "hanja": "目的格",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목적성",
+    "translation": "зорилготой байдал",
+    "hanja": "目的性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "목적어",
+    "translation": "туслах өгүүлбэр",
+    "hanja": "目的語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "목적지",
+    "translation": "Очих газар",
+    "hanja": "目的地",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "목적하다",
+    "translation": "зорих, зорилго тавих",
+    "hanja": "目的하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "목전",
+    "translation": "Нүдний өмнө",
+    "hanja": "目前",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목젖",
+    "translation": "хүүхэн хэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목제",
+    "translation": "модон эдлэл",
+    "hanja": "木製",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목조",
+    "translation": "модон хийцтэй",
+    "hanja": "木造",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목줄",
+    "translation": "хүзүүвч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "목중",
+    "translation": "хүзүүвч",
+    "hanja": "木中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목차",
+    "translation": "Агуулга",
+    "hanja": "目次",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "목책",
+    "translation": "модон хашаа",
+    "hanja": "木柵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목청",
+    "translation": "хоолойн дуу, хоолойн хүч",
+    "hanja": "목청",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목청껏",
+    "translation": "хоолойгоо шахуу, чанга дуугаар",
+    "hanja": "목廳껏",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목초",
+    "translation": "бэлчээрийн ургамал",
+    "hanja": "牧草",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "목축",
+    "translation": "мал аж ахуй, малчин",
+    "hanja": "牧畜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목축업",
+    "translation": "мал аж ахуй",
+    "hanja": "牧畜業",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목침",
+    "translation": "Модон дэр",
+    "hanja": "木枕",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "목탁",
+    "translation": "Модон хонх",
+    "hanja": "木鐸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목탄",
+    "translation": "модотын нүүрс, нүүрсээр зурах",
+    "hanja": "木炭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "목탑",
+    "translation": "Модон суварга",
+    "hanja": "木塔",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "목통",
+    "translation": "Модон сав",
+    "hanja": "木桶",
+    "pos": "명са",
+    "cefr": "B1"
+  },
+  {
+    "word": "목판",
+    "translation": "модон хавтан",
+    "hanja": "木板",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "목판본",
+    "translation": "модон сийлбэр",
+    "hanja": "木板本",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "목판화",
+    "translation": "модон сийлбэр",
+    "hanja": "木版畫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "목포",
+    "translation": "Могпо (хот)",
+    "hanja": "木浦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "목표",
+    "translation": "зорилго",
+    "hanja": "目標",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목표하다",
+    "translation": "зорилго тавих",
+    "hanja": "目標하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목하",
+    "translation": "одоогоор",
+    "hanja": "目下",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "목호",
+    "translation": "адуучин",
+    "hanja": "牧胡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "목화",
+    "translation": "хөвөн",
+    "hanja": "木花",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목화솜",
+    "translation": "хөвөн",
+    "hanja": "木花솜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목화씨",
+    "translation": "хөвөнгийн үр",
+    "hanja": "木花씨",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "목회",
+    "translation": "Сүмийн пастерын үйлчилгээ",
+    "hanja": "牧會",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "목회자",
+    "translation": "үнэнч хүн",
+    "hanja": "牧會者",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "목회하다",
+    "translation": "Пастор хийх",
+    "hanja": "牧會하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

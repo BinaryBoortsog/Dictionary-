@@ -1,0 +1,1115 @@
+[
+  {
+    "word": "간",
+    "translation": "хооронд",
+    "hanja": "間",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "간간하다",
+    "translation": "давстай",
+    "hanja": "간간",
+    "pos": "тэмдэг нэр",
+    "cefr": "A2"
+  },
+  {
+    "word": "간간히",
+    "translation": "үе үе",
+    "hanja": "間間히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간게",
+    "translation": "үе үе",
+    "hanja": "간게",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간격",
+    "translation": "завсар",
+    "hanja": "間隔",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "간결",
+    "translation": "Товч тодорхой",
+    "hanja": "簡潔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간결하다",
+    "translation": "товч, тодорхой",
+    "hanja": "簡潔하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간계",
+    "translation": "заль, мэх",
+    "hanja": "姦計",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간고등어",
+    "translation": "давсалсан скумбри",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "간곡하다",
+    "translation": "чин сэтгэлээсээ, гуйж байна",
+    "hanja": "懇曲하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "간곡히",
+    "translation": "чин сэтгэлээсээ, гуйж",
+    "hanja": "懇曲히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간과되다",
+    "translation": "үл тоомсорлогдох",
+    "hanja": "看過되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간과하다",
+    "translation": "үл тоомсорлох",
+    "hanja": "看過하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "간관",
+    "translation": "амьсгалын зам",
+    "hanja": "氣管",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "간교하다",
+    "translation": "Заль мэхтэй, хэрцгий",
+    "hanja": "奸巧하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "간구",
+    "translation": "гуйх, залбирах",
+    "hanja": "懇求",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간구하다",
+    "translation": "гуйх",
+    "hanja": "懇求하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간극",
+    "translation": "завсар",
+    "hanja": "間隙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간기",
+    "translation": "элэгний өвчин",
+    "hanja": "肝氣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간나",
+    "translation": "ганна (хойд Солонгосын хэлээр охин хүүхдийн нэр)",
+    "hanja": "간나",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간뇌",
+    "translation": "завсрын тархи",
+    "hanja": "間腦",
+    "pos": "судалгаа",
+    "cefr": "C1"
+  },
+  {
+    "word": "간다이",
+    "translation": "ганди",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간단간단하다",
+    "translation": "хялбар хялбар",
+    "hanja": "簡單簡單하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간단명료하다",
+    "translation": "Энгийн бөгөөд тодорхой",
+    "hanja": "簡單明瞭하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간단하다",
+    "translation": "хялбар",
+    "hanja": "簡單하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간단히",
+    "translation": "хялбархан",
+    "hanja": "簡單히",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "간담회",
+    "translation": "Харьцааны уулзалт",
+    "hanja": "懇談會",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간당간당",
+    "translation": "дөнгөн данган, арайхийн",
+    "hanja": "간당간당",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간당간당하다",
+    "translation": "амь нас дээсэн дөрөөн дээр",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간당하다",
+    "translation": "хэцүү",
+    "hanja": "間當하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간데없다",
+    "translation": "үл үзэгдэх",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간데이",
+    "translation": "Ганди (нэр)",
+    "hanja": "간데이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간도",
+    "translation": "гандуул",
+    "hanja": "間島",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간드러지다",
+    "translation": "хүчтэй дуугарах",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "간디",
+    "translation": "Ганди",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "간땡이",
+    "translation": "Зориг",
+    "hanja": "간땡이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간략하다",
+    "translation": "товчлох",
+    "hanja": "簡約하다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "간략화하다",
+    "translation": "хялбарчлах",
+    "hanja": "簡略化하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "간략히",
+    "translation": "Товчоор",
+    "hanja": "簡略히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간류",
+    "translation": "гол",
+    "hanja": "澗流",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "간만",
+    "translation": "сүүлийн үед, удаан хугацааны дараа",
+    "hanja": "間만",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간명하다",
+    "translation": "товч тодорхой",
+    "hanja": "簡明하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간발",
+    "translation": "ялимгүй зай",
+    "hanja": "間髮",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "간밤",
+    "translation": "өнгөрсөн шөнө",
+    "hanja": "間밤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간병",
+    "translation": "асрах",
+    "hanja": "看病",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간병인",
+    "translation": "Асарч сувилагч",
+    "hanja": "看病人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간병하다",
+    "translation": "асрах (өвчтнийг)",
+    "hanja": "看病하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간보다",
+    "translation": "амтлах, шалгах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "간봉",
+    "translation": "зай баригч",
+    "hanja": "間―",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "간부",
+    "translation": "Удирдлага",
+    "hanja": "幹部",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "간부급",
+    "translation": "удирдлагын түвшний",
+    "hanja": "幹部級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간부진",
+    "translation": "удирдлагын баг",
+    "hanja": "幹部陣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간빙기",
+    "translation": "мөстлөг хоорондын үе",
+    "hanja": "間氷期",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "간사이",
+    "translation": "Кансай (Японы бүс нутаг)",
+    "hanja": "關西",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간사하다",
+    "translation": "хуурамч",
+    "hanja": "奸詐하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간석지",
+    "translation": "шаварлаг газар",
+    "hanja": "干潟地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간선제",
+    "translation": "Шууд бус сонгуулийн систем",
+    "hanja": "間選制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간섭하다",
+    "translation": "хөндлөнгөөс оролцох",
+    "hanja": "干涉하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "간성",
+    "translation": "гол зам",
+    "hanja": "幹線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간소하다",
+    "translation": "Энгийн, хялбар",
+    "hanja": "簡素하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간소화",
+    "translation": "хялбарчлах",
+    "hanja": "簡素化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간소화되다",
+    "translation": "хялбарчлагдах",
+    "hanja": "簡素化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간소화하다",
+    "translation": "хялбарчлах",
+    "hanja": "簡素化하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간송",
+    "translation": "Гансон",
+    "hanja": "澗松",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "간수",
+    "translation": "Хадгалах",
+    "hanja": "看守",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간수하다",
+    "translation": "хадгалах",
+    "hanja": "看守하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간식",
+    "translation": "зууш",
+    "hanja": "間食",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "간식거리",
+    "translation": "зууш",
+    "hanja": "間食거리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "간식하다",
+    "translation": "завсар зууш идэх",
+    "hanja": "間食하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "간신",
+    "translation": "Хувийн заль",
+    "hanja": "姦臣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간신배",
+    "translation": "урвагч, зусардмал",
+    "hanja": "奸臣輩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간신히",
+    "translation": "арайхийн",
+    "hanja": "間辛이",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "간쑤",
+    "translation": "Ганьсу",
+    "hanja": "甘肅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간악하다",
+    "translation": "хорон санаатай, бузар",
+    "hanja": "奸惡하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간암",
+    "translation": "элэгний хорт хавдар",
+    "hanja": "肝癌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간언",
+    "translation": "Захирамж/зөвлөгөө",
+    "hanja": "諫言",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "간언하다",
+    "translation": "Зөвлөх",
+    "hanja": "諫言하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간여하다",
+    "translation": "оролцох",
+    "hanja": "干與하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "간염",
+    "translation": "элэгний үрэвсэл",
+    "hanja": "肝炎",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "간요",
+    "translation": "чухал",
+    "hanja": "肝要",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "간유",
+    "translation": "Загасны тос",
+    "hanja": "肝油",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간음",
+    "translation": "завхайрах, садарлах",
+    "hanja": "姦淫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간음죄",
+    "translation": "зангиа",
+    "hanja": "姦淫罪",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "간음하다",
+    "translation": "завхайрах",
+    "hanja": "姦淫하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "간의",
+    "translation": "багавтар хугацаа",
+    "hanja": "簡儀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간이식",
+    "translation": "간 이식",
+    "hanja": "肝移植",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간이식당",
+    "translation": "хөнгөн зуушны газар",
+    "hanja": "簡易食堂",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "간자",
+    "translation": "тагнуул",
+    "hanja": "間者",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "간자미",
+    "translation": "загас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간자키",
+    "translation": "Канзаки",
+    "hanja": "かんざき",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "간장",
+    "translation": "цуу",
+    "hanja": "간장",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "간재미",
+    "translation": "далайн хавч",
+    "hanja": "ㅡ",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간적",
+    "translation": "тагнуул, хорон санаат",
+    "hanja": "姦賊",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "간절하다",
+    "translation": "маш их хүсэх, чин сэтгэлийн",
+    "hanja": "懇切하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간절히",
+    "translation": "маш их хүсэх",
+    "hanja": "懇切히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간접",
+    "translation": "Шууд бус",
+    "hanja": "間接",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간접세",
+    "translation": "шууд бус татвар",
+    "hanja": "間接稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간접적",
+    "translation": "Шууд бус",
+    "hanja": "間接的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간접흡연",
+    "translation": "дам тамхидалт",
+    "hanja": "間接喫煙",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간조",
+    "translation": "түйрэн татах",
+    "hanja": "干潮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간주",
+    "translation": "Хүндэтгэл",
+    "hanja": "間奏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간주되다",
+    "translation": "тооцогдох",
+    "hanja": "看做되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간주하다",
+    "translation": "Тооцох",
+    "hanja": "看做하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간증",
+    "translation": "гэрчлэл",
+    "hanja": "간증",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간증하다",
+    "translation": "гэрчлэх",
+    "hanja": "證하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간지",
+    "translation": "хэв маяг",
+    "hanja": "간지",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간지나다",
+    "translation": "гоё харагдах, загварлаг байх",
+    "hanja": "간지나다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간지러다",
+    "translation": "зангаруулах, хөнгөн өвдөх",
+    "hanja": "간지러다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간지럽다",
+    "translation": "гижигтэй",
+    "hanja": "간지럽-",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간지럽히다",
+    "translation": "хоргоох",
+    "hanja": "간지럽히다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간직",
+    "translation": "хадгалах",
+    "hanja": "간직",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "간직되다",
+    "translation": "хадгалагдах, хадгалагдан үлдэх",
+    "hanja": "간직되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간직하다",
+    "translation": "Хадгалах, нандигнах",
+    "hanja": "看職하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간질",
+    "translation": "эпилепси",
+    "hanja": "癎疾",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "간질간질",
+    "translation": "шар шаргүй",
+    "hanja": "간질간질",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간질간질하다",
+    "translation": "загатнах",
+    "hanja": "간질간질하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간질거리다",
+    "translation": "간질이다, 짜증 나게 하다",
+    "hanja": "간질거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간질병",
+    "translation": "эпилепси",
+    "hanja": "癎疾病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간질이다",
+    "translation": "гүвэр гүвэр болгох",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간척",
+    "translation": "хуурай газар авах",
+    "hanja": "干拓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "간척지",
+    "translation": "далайг хатааж үүссэн газар",
+    "hanja": "干拓地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간척하다",
+    "translation": "далайг далангаар хаах",
+    "hanja": "干拓하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간첩",
+    "translation": "тагнуулч",
+    "hanja": "間諜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간첩죄",
+    "translation": "тагнуул хийсэн хэрэг",
+    "hanja": "間諜罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간청",
+    "translation": "Гуйх, гуйлт",
+    "hanja": "懇請",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간청하다",
+    "translation": "гуйх",
+    "hanja": "懇請하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간체",
+    "translation": "хялбаршуулсан хэлбэр",
+    "hanja": "簡體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간추리다",
+    "translation": "хураангуйлах",
+    "hanja": "간추리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간충",
+    "translation": "Ховдог, шуналтай хүн",
+    "hanja": "奸蟲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "간택",
+    "translation": "Сонгох",
+    "hanja": "揀擇",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "간택되다",
+    "translation": "сонгогдох",
+    "hanja": "揀擇되다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "간택하다",
+    "translation": "сонгох",
+    "hanja": "揀擇하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간토",
+    "translation": "Канто",
+    "hanja": "關東",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간통",
+    "translation": "амраглах, завхайрах, гэр бүлээс гадуурх харилцаа",
+    "hanja": "姦通",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간통죄",
+    "translation": "садар самууны гэмт хэрэг",
+    "hanja": "姦通罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간통하다",
+    "translation": "садарлагдах",
+    "hanja": "姦通하다",
+    "pos": "VV",
+    "cefr": "C1"
+  },
+  {
+    "word": "간특하다",
+    "translation": "зальтай, явуургүй",
+    "hanja": "奸慝하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간파",
+    "translation": "нээх; илрүүлэх",
+    "hanja": "看破",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간파하다",
+    "translation": "ойлгох, ухаарах, нэвт харах",
+    "hanja": "看破하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "간판",
+    "translation": "хаяг",
+    "hanja": "看板",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "간편결제",
+    "translation": "хялбар төлбөр",
+    "hanja": "簡便決済",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간편대용식",
+    "translation": "Шуурхай орлуулах хоол",
+    "hanja": "簡便代用食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간편식",
+    "translation": "бэлэн хоол",
+    "hanja": "簡便食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간편하다",
+    "translation": "Энгийн, хялбар",
+    "hanja": "簡便하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간편히",
+    "translation": "хялбархан",
+    "hanja": "簡便히",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "간하다",
+    "translation": "зөвлөх",
+    "hanja": "諫하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간행",
+    "translation": "хэвлэн нийтлэх",
+    "hanja": "刊行",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "간행되다",
+    "translation": "Хэвлэгдэх",
+    "hanja": "刊行되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "간행물",
+    "translation": "хэвлэл",
+    "hanja": "刊行物",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "간행하다",
+    "translation": "хэвлэн нийтлэх",
+    "hanja": "刊行하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "간헐적",
+    "translation": "тасалдалтай",
+    "hanja": "間歇的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "간호",
+    "translation": "сувилгаа",
+    "hanja": "看護",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간호대",
+    "translation": "сувилахуйн сургууль",
+    "hanja": "看護隊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간호부장",
+    "translation": "сувилагчийн дарга",
+    "hanja": "看護部長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간호사",
+    "translation": "сувилагч",
+    "hanja": "看護師",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "간호원",
+    "translation": "сувилагч",
+    "hanja": "看護員",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "간호하다",
+    "translation": "сувилах, асрах",
+    "hanja": "看護하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "간혹",
+    "translation": "хааяа",
+    "hanja": "間或",
+    "pos": "ADV",
+    "cefr": "B2"
+  },
+  {
+    "word": "간혹가다",
+    "translation": "Хааяа, заримдаа",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  }
+]

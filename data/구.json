@@ -1,0 +1,1885 @@
+[
+  {
+    "word": "구",
+    "translation": "хэсэг",
+    "hanja": "區",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구가",
+    "translation": "Дуулах, магтан дуулах",
+    "hanja": "謳歌",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "구가하다",
+    "translation": "дуулах",
+    "hanja": "謳歌하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구걸",
+    "translation": "гуйлга",
+    "hanja": "求乞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구걸하다",
+    "translation": "гуйлга гуйх",
+    "hanja": "求乞하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "구경꾼",
+    "translation": "үзэгч",
+    "hanja": "具景꾼",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구경나다",
+    "translation": "сонихох, үзэгдэх",
+    "hanja": "久景나다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "구경시키다",
+    "translation": "үзүүлэх, харуулах",
+    "hanja": "見物시키다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "구경하다",
+    "translation": "үзэх, харах, зугаацах",
+    "hanja": "求景하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "구공탄",
+    "translation": "нүүрсэн түлш",
+    "hanja": "九孔炭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구관조",
+    "translation": "жаргал шувуу",
+    "hanja": "九官鳥",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "구구절절",
+    "translation": "мөр мөрөөр",
+    "hanja": "句句節節",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구구절절하다",
+    "translation": "тодотгож хэлэх, нарийвчлан тайлбарлах",
+    "hanja": "句句節節하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구글다",
+    "translation": "бөхийх, нугалах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구금",
+    "translation": "баривчлах",
+    "hanja": "拘禁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구금되다",
+    "translation": "баривчлагдах",
+    "hanja": "拘禁되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구금자",
+    "translation": "Хоригдогч",
+    "hanja": "拘禁者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "구금하다",
+    "translation": "хорих",
+    "hanja": "拘禁하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구급약",
+    "translation": "түргэн тусламжийн эм",
+    "hanja": "救急藥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구급차",
+    "translation": "түргэн тусламжийн машин",
+    "hanja": "救急車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구기다",
+    "translation": "Үрчийлгэх, нугалах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구기자",
+    "translation": "Гожи жимс",
+    "hanja": "枸杞子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구김살",
+    "translation": "Үрчлээ",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "구깃구깃",
+    "translation": "Үрчгэр үрчгэр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구깃구깃하다",
+    "translation": "нэг их үрчлээсгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구나",
+    "translation": "Маргашгүй, үнэн",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구남초",
+    "translation": "Хуучин эрчүүд (хуучин хөвгүүд)",
+    "hanja": "舊男草",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구내식당",
+    "translation": "Дотуур байрны хоолны газар, цайны газар",
+    "hanja": "構內食堂",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구녕",
+    "translation": "нүх",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "구노",
+    "translation": "хуучин боол, хөлсний ажилчин",
+    "hanja": "舊奴",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "구닥다리",
+    "translation": "хуучин эдлэл, хуучин юм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구단주",
+    "translation": "багийн эзэн",
+    "hanja": "球團主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구덩이",
+    "translation": "нүх, суваг",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구데기",
+    "translation": "өт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구도자",
+    "translation": "мөрдөгч, эрэлчин",
+    "hanja": "求道者",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구독",
+    "translation": "захиалга",
+    "hanja": " 구독",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "구독료",
+    "translation": "захиалгын төлбөр",
+    "hanja": "購讀料",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구독자",
+    "translation": "дагагч",
+    "hanja": "購讀者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구독하다",
+    "translation": "захиалах",
+    "hanja": "購讀하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "구동",
+    "translation": "хөтлөх",
+    "hanja": "驅動",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "구동되다",
+    "translation": "хөдлөх, ажиллах",
+    "hanja": "驅動되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구동하다",
+    "translation": "Хөдөлгөх, ажиллуулах",
+    "hanja": "驅動-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구두끈",
+    "translation": "гуталны үдээс",
+    "hanja": "구두끈",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구두쇠",
+    "translation": " харамч",
+    "hanja": "守錢奴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구두약",
+    "translation": "гутал өнгөлөгч",
+    "hanja": "口頭藥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구두점",
+    "translation": "зүйн тэмдэг",
+    "hanja": "句讀點",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "구두코",
+    "translation": "гутлын хоншоор",
+    "hanja": "구두코",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "구둣발",
+    "translation": "Гуталтай хөл",
+    "hanja": "구둣발",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구둣방",
+    "translation": "гуталчин, гутлын дэлгүүр",
+    "hanja": "구둣房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구둣주걱",
+    "translation": "гутал өмсгөгч",
+    "hanja": "구둣주걱",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "구들장",
+    "translation": "халаалгын хавтан",
+    "hanja": "구들장",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구라",
+    "translation": "худал, худлаа ярих",
+    "hanja": "口羅",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "구라미",
+    "translation": "гурами",
+    "hanja": "구라미",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구라파",
+    "translation": "Европ",
+    "hanja": "歐羅巴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구락부",
+    "translation": "Клуб",
+    "hanja": "俱樂部",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구란",
+    "translation": "Худал хэлэх",
+    "hanja": "구란",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구럼",
+    "translation": "Бөөн",
+    "hanja": "구럼",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "구렁",
+    "translation": "шуудуу, хонхор",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "구렁이",
+    "translation": "могой",
+    "hanja": "구렁이",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구렁텅이",
+    "translation": "нүх, ангал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구레",
+    "translation": "гархи",
+    "hanja": "구레",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구레나룻",
+    "translation": "сахлагч",
+    "hanja": "구레나룻",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구렛나루",
+    "translation": "сахал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구력",
+    "translation": "Удаан жил",
+    "hanja": "舊曆",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "구례",
+    "translation": "Гуре",
+    "hanja": "求禮",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구로",
+    "translation": "Гуро",
+    "hanja": "九老",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구룡",
+    "translation": "Есөн луу",
+    "hanja": "九龍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구루",
+    "translation": "гуру",
+    "hanja": null,
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "구룽",
+    "translation": "толгод",
+    "hanja": "丘陵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구류되다",
+    "translation": "хоригдох",
+    "hanja": "拘留되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구류하다",
+    "translation": "Хорих",
+    "hanja": "拘留하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구르다",
+    "translation": "Эргэлдэх / Цохих",
+    "hanja": "구르다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구르프",
+    "translation": "үсний ороогч",
+    "hanja": "구르프",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구름",
+    "translation": "үүл",
+    "hanja": "구름",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "구름다리",
+    "translation": "гүүр",
+    "hanja": "구름다리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구름층",
+    "translation": "үүлэн давхарга",
+    "hanja": "구름層",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구름판",
+    "translation": "үүлэн хавтан",
+    "hanja": "구름板",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구릉",
+    "translation": "довцог",
+    "hanja": "丘陵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구릉지",
+    "translation": "толгод",
+    "hanja": "丘陵地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구리구리",
+    "translation": "хүнд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구리구리하다",
+    "translation": "муухай үнэртэй байх",
+    "hanja": "구리구리하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구리다",
+    "translation": "хуурамч",
+    "hanja": "---",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구리스",
+    "translation": "Тос, тослох материал",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "구리하다",
+    "translation": "муу, чанаргүй (гуйвуулах)",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "구리하시",
+    "translation": "Зэс бариул",
+    "hanja": "구리하시",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구린내",
+    "translation": "үнэр, бохир үнэр",
+    "hanja": "구린내",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구릿빛",
+    "translation": "хүрэл өнгөтэй",
+    "hanja": "구릿빛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구마모토",
+    "translation": "Кумамото",
+    "hanja": "熊本",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "구매되다",
+    "translation": "худалдан авах",
+    "hanja": "購買되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구매력",
+    "translation": "худалдан авах чадвар",
+    "hanja": "購買力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구매자",
+    "translation": "худалдан авагч",
+    "hanja": "購買者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구매하다",
+    "translation": "Худалдан авах",
+    "hanja": "購買하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구머",
+    "translation": "(стандарт бус) нүх",
+    "hanja": "구머",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구멍",
+    "translation": "нүх",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구멍가게",
+    "translation": "жижиг дэлгүүр",
+    "hanja": "구멍가게",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구멍투성이",
+    "translation": "нүх сүв дүүрэн",
+    "hanja": "구멍투성이",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구면",
+    "translation": "хуучин танил",
+    "hanja": "舊面",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구명보트",
+    "translation": "аврах завь",
+    "hanja": "救命boat",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구명정",
+    "translation": "Аврах завь",
+    "hanja": "救命艇",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "구명조끼",
+    "translation": "аврах хантааз",
+    "hanja": "救命조끼",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구명하다",
+    "translation": "Амийг нь аврах",
+    "hanja": "救命하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구물다",
+    "translation": "хуучирах, муудах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구미호",
+    "translation": "есөн сүүлт үнэг",
+    "hanja": "九尾狐",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구민",
+    "translation": "өөрийгөө аврах",
+    "hanja": "救民",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구박당하다",
+    "translation": "хавчигдах",
+    "hanja": "구박당하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구박하다",
+    "translation": "муухай хандах, дарлах",
+    "hanja": "驅迫하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구별",
+    "translation": "Ялгах",
+    "hanja": "區別",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구별되다",
+    "translation": "ялгагдах",
+    "hanja": "區別되다",
+    "pos": "ү.ү",
+    "cefr": "B2"
+  },
+  {
+    "word": "구별하다",
+    "translation": "Ялгах, ангилах",
+    "hanja": "區別하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구보하다",
+    "translation": "гүйлгэх",
+    "hanja": "駈步하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구봉",
+    "translation": "есөн орой",
+    "hanja": "九峯",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "구부러뜨리다",
+    "translation": "мурийлгах",
+    "hanja": "無",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구부러지다",
+    "translation": "Нугарах, муруйх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구부리다",
+    "translation": "нугалах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "구부정하다",
+    "translation": "Махийсан",
+    "hanja": "---",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구분",
+    "translation": "ялгах",
+    "hanja": "區分",
+    "pos": "NNG",
+    "cefr": "B1"
+  },
+  {
+    "word": "구분되다",
+    "translation": "ялгарах",
+    "hanja": "區分되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구분하다",
+    "translation": "Ялгах, ангилах",
+    "hanja": "區分하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구불거리다",
+    "translation": "мурийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구불구불",
+    "translation": "муруй, тахир",
+    "hanja": "",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "구불구불하다",
+    "translation": "Муруй, муруй",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "구비",
+    "translation": "Бэлтгэх, хангах",
+    "hanja": "具備",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구비되다",
+    "translation": "бэлтгэгдсэн байх, тоноглогдсон байх",
+    "hanja": "具備되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "구비하다",
+    "translation": "Бэлдэх, суулгах",
+    "hanja": "具備하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구사력",
+    "translation": "хэрэглэх чадвар",
+    "hanja": "驅使力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구사일생",
+    "translation": "Азтай амьд үлдэх",
+    "hanja": "九死一生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구사일생하다",
+    "translation": "үхлээс мултрах",
+    "hanja": "九死一生하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구사하다",
+    "translation": "бүрэн ашиглах",
+    "hanja": "驅使하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구상되다",
+    "translation": "төсөлд оруулах, бодогдох",
+    "hanja": "構想되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구상하다",
+    "translation": "төлөвлөх, бодож олох",
+    "hanja": "構想하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구색",
+    "translation": "багц, төрөл",
+    "hanja": "구색(具色)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구석구석",
+    "translation": "Булан тохой бүрд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구석기",
+    "translation": "хуучин чулуун зэвсгийн үе",
+    "hanja": "舊石器",
+    "pos": "н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "구석방",
+    "translation": "булангийн өрөө",
+    "hanja": "구석房",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구설수",
+    "translation": "хэл ам",
+    "hanja": "口舌數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구성되다",
+    "translation": "бүрдэх",
+    "hanja": "構成되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "구성비",
+    "translation": "бүтэц",
+    "hanja": "構成比",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구성원",
+    "translation": "Гишүүн",
+    "hanja": "構成員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구성지다",
+    "translation": "уран гоё, сайхан",
+    "hanja": "構成지다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "구성체",
+    "translation": "Бүрэлдэхүүн хэсэг",
+    "hanja": "構成體",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "구성하다",
+    "translation": "бүрдүүлэх, зохион байгуулах",
+    "hanja": "構成하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구세주",
+    "translation": "аврагч",
+    "hanja": "救世主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구속",
+    "translation": "Хорих",
+    "hanja": "拘束",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구속당하다",
+    "translation": "баривчлагдах, хоригдох",
+    "hanja": "拘束당하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구속되다",
+    "translation": "баривчлагдах",
+    "hanja": "拘束되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "구속력",
+    "translation": "заавал биелүүлэх чанар",
+    "hanja": "拘束力",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "구속하다",
+    "translation": "хорихоор шийдвэрлэх",
+    "hanja": "拘束하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "구송",
+    "translation": "үгээр ярих, амаар унших",
+    "hanja": "口誦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구수하다",
+    "translation": "амттай, эгшиглэнтэй",
+    "hanja": "N/A",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구술시험",
+    "translation": "Аман шалгалт",
+    "hanja": "口述試驗",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "구술하다",
+    "translation": "амаар хэлэх",
+    "hanja": "口述하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구스",
+    "translation": "галуу",
+    "hanja": "구스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구스다운",
+    "translation": "галуун хөвөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구스베리",
+    "translation": "үхрийн нүд (gooseberry)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구슬",
+    "translation": "Сувд, бөмбөлөг",
+    "hanja": "珠—",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구슬땀",
+    "translation": "бөмбөлөг хөлс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구슬리다",
+    "translation": "ялах, ятгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구슬치기",
+    "translation": "бөмбөгөөр тоглох",
+    "hanja": "구슬치기",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구슬프다",
+    "translation": "гунигтай, уйтгартай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구슬피",
+    "translation": "гунигтайгаар",
+    "hanja": "구슬피",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구습",
+    "translation": "хуучин заншил",
+    "hanja": "舊習",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구시대적",
+    "translation": "хуучин загварын, хуучинсаг",
+    "hanja": "舊時代的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구시렁거리다",
+    "translation": "горойх",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구시렁구시렁",
+    "translation": "гооглох",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구시렁대다",
+    "translation": "гомдоллох",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "구신",
+    "translation": "хуучин бурхан, хуучин сүнс",
+    "hanja": "舊神",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구실하다",
+    "translation": "үүрэг гүйцэтгэх",
+    "hanja": "口實하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구심력",
+    "translation": "төвд тэмүүлэх хүч",
+    "hanja": "求心力",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구심점",
+    "translation": "төвийн цэг",
+    "hanja": "求心點",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구아노",
+    "translation": "гуано",
+    "hanja": null,
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "구암",
+    "translation": "Guam (газарзүйн нэр)",
+    "hanja": "龜岩",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구애",
+    "translation": "Хайрын илэрхийлэл",
+    "hanja": "求愛",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "구애되다",
+    "translation": "хязгаарлагдах, боогдох",
+    "hanja": "拘礙되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "구애하다",
+    "translation": "Сормуусдаж гуйх",
+    "hanja": "求愛",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구약",
+    "translation": "Хуучин гэрээ",
+    "hanja": "舊約",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "구어체",
+    "translation": "Ярианы хэл",
+    "hanja": "口語體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구에",
+    "translation": "күи (Францын газарзүйн нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구역",
+    "translation": "бүс",
+    "hanja": "區域",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구역질",
+    "translation": "Бөөлжих, огиулах",
+    "hanja": "嘔逆질",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구역질하다",
+    "translation": "бөөлжих",
+    "hanja": "구역질하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구연동화",
+    "translation": "амьд үлгэр",
+    "hanja": "口演童話",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구연하다",
+    "translation": "구연하다 (이야기를 들려주다)",
+    "hanja": "口演하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구옥",
+    "translation": "хуучин байшин",
+    "hanja": "舊屋",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구용하다",
+    "translation": "Ялан дийлэх, дарах",
+    "hanja": "驅用하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구운몽",
+    "translation": "есөн үүлний зүүд",
+    "hanja": "九雲夢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구웅",
+    "translation": "Куун (нэр)",
+    "hanja": "龜雄",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구워삶다",
+    "translation": "яриагаар ятгах, арга хэрэглэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구원되다",
+    "translation": "аврагдах",
+    "hanja": "救援되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구원병",
+    "translation": "туслах цэрэг",
+    "hanja": "救援兵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구원자",
+    "translation": "Аврагч",
+    "hanja": "救援者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구원하다",
+    "translation": "Аврах",
+    "hanja": "救援하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구유",
+    "translation": "Мал тэжээх тэвш",
+    "hanja": "구유",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구이저우성",
+    "translation": "Гуйжоу муж",
+    "hanja": "貴州省",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구인난",
+    "translation": "ажилтан олох хүндрэл",
+    "hanja": "求人難",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구인하다",
+    "translation": "ажилтан авах",
+    "hanja": "求人하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구입",
+    "translation": "худалдан авах",
+    "hanja": "購入",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구입하다",
+    "translation": "худалдан авах",
+    "hanja": "購入하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구자라트",
+    "translation": "Гүжарат",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구전되다",
+    "translation": "амаар дамжих",
+    "hanja": "口傳되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구절",
+    "translation": "хэсэг, ишлэл",
+    "hanja": "句節",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구절판",
+    "translation": "Гужолпан (солонгос хоол)",
+    "hanja": "九折坂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구정물",
+    "translation": "Бохир ус",
+    "hanja": "궂은물",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구제되다",
+    "translation": "аврагдах, чөлөөлөгдөх",
+    "hanja": "救濟되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구제역",
+    "translation": "шүлхий",
+    "hanja": "口蹄疫",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "구제책",
+    "translation": "тусламжийн арга хэмжээ",
+    "hanja": "救濟策",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구제품",
+    "translation": "буяны бараа",
+    "hanja": "救濟品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구제하다",
+    "translation": "аврах",
+    "hanja": "救濟하다",
+    "pos": "үйл үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "구젱기",
+    "translation": "Далайн дунгийн нэг төрөл",
+    "hanja": "구젱기",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구조대원",
+    "translation": "аврагч",
+    "hanja": "救助隊員",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구조되다",
+    "translation": "аврагдах",
+    "hanja": "救助되다",
+    "pos": "ү.ү.",
+    "cefr": "B1"
+  },
+  {
+    "word": "구조하다",
+    "translation": "Аврах",
+    "hanja": "救助하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구조화",
+    "translation": "бүтцийн хувьд",
+    "hanja": "構造化",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "구조화되다",
+    "translation": "Бүтэцтэй болох",
+    "hanja": "構造化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구조화하다",
+    "translation": "бүтэцжүүлэх",
+    "hanja": "構造化하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "구족하다",
+    "translation": "бүхэлд нь хангагдах",
+    "hanja": "具足하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구중궁궐",
+    "translation": "хааны ордон",
+    "hanja": "九重宮闕",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구지다",
+    "translation": "Тааламжгүй, ашиггүй",
+    "hanja": null,
+    "pos": "형용사 (Adjective)",
+    "cefr": "B1"
+  },
+  {
+    "word": "구직자",
+    "translation": "ажил хайгч",
+    "hanja": "求職者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구직하다",
+    "translation": "ажил хайх",
+    "hanja": "求職하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구진",
+    "translation": "Хуучин үнэн",
+    "hanja": "舊眞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구질구질",
+    "translation": "булиг, муухай, өө сэв",
+    "hanja": "null",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "구질구질하다",
+    "translation": "бохир, залхуутай",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구차스럽다",
+    "translation": "Ядуу, ядмаг, муухай",
+    "hanja": "苟且스럽다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "구차하다",
+    "translation": "амьдрал хэцүү, дорой",
+    "hanja": "苟且하다",
+    "pos": "тү",
+    "cefr": "C1"
+  },
+  {
+    "word": "구첩반상",
+    "translation": "есөн тавагт хоол",
+    "hanja": "九楪飯床",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구청",
+    "translation": "хорооны захиргаа",
+    "hanja": "區廳",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구체성",
+    "translation": "тодорхой байдал",
+    "hanja": "具體性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구체적",
+    "translation": "тодорхой, нарийвчилсан",
+    "hanja": "具體的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구체화",
+    "translation": "Биелүүлэх, тодорхой болгох",
+    "hanja": "具體化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구체화되다",
+    "translation": "тодорхой болох",
+    "hanja": "具體化되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "구체화하다",
+    "translation": "конкретчлох",
+    "hanja": "具體化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구축되다",
+    "translation": "байгуулагдах, тогтох",
+    "hanja": "構築되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구축하다",
+    "translation": "байгуулах",
+    "hanja": "構築-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구출",
+    "translation": "аврах",
+    "hanja": "救出",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "구출되다",
+    "translation": "аврагдах",
+    "hanja": "救出되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구출하다",
+    "translation": "аврах",
+    "hanja": "救出하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구충제",
+    "translation": "Хорхой устгах эм",
+    "hanja": "駆虫剤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구층탑",
+    "translation": "есөн давхар пагода",
+    "hanja": "九層塔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구치소",
+    "translation": "баривчлах газар",
+    "hanja": "拘置所",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구타당하다",
+    "translation": "цохиулах",
+    "hanja": "毆打當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구타하다",
+    "translation": "зодох, нүдэх",
+    "hanja": "毆打하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구태의연하다",
+    "translation": "хуучин хэвээр байх",
+    "hanja": "舊態依然하다",
+    "pos": "형용사",
+    "cefr": "null"
+  },
+  {
+    "word": "구텐베르크",
+    "translation": "Гуттенберг",
+    "hanja": "구텐베르크",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "구토",
+    "translation": "бөөлжих",
+    "hanja": "嘔吐",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구토하다",
+    "translation": "бөөлжих",
+    "hanja": "嘔吐하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구파발",
+    "translation": "Гупабал (газрын нэр)",
+    "hanja": "舊把撥",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구판장",
+    "translation": "хуучин худалдааны цэг",
+    "hanja": "舊販場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구피",
+    "translation": "гуппи загас",
+    "hanja": "구피",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구하",
+    "translation": "Гуха",
+    "hanja": "句何",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "구하다",
+    "translation": "олох, аврах",
+    "hanja": "求-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구한말",
+    "translation": "Солонгосын Эзэнт улсын сүүл үе",
+    "hanja": "舊韓末",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구현",
+    "translation": "хэрэгжүүлэх, биелүүлэх",
+    "hanja": "具現",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "구현되다",
+    "translation": "Хэрэгжих, биеллээ олох",
+    "hanja": "具現되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구현하다",
+    "translation": "Хэрэгжүүлэх, биелүүлэх",
+    "hanja": "具現하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구형되다",
+    "translation": "ял эдлэх",
+    "hanja": "求刑되다",
+    "pos": "동사",
+    "cefr": null
+  },
+  {
+    "word": "구형하다",
+    "translation": "Цувралаар гаргах",
+    "hanja": "舊型하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구호대",
+    "translation": "аврах баг",
+    "hanja": "救護隊",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "구호물자",
+    "translation": "тусламжийн бараа",
+    "hanja": "救護物資",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구호품",
+    "translation": "тусламжийн бараа",
+    "hanja": "구호품(救護品)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구호하다",
+    "translation": "туслах",
+    "hanja": "救護하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구혼",
+    "translation": "гэрлэх санал тавих",
+    "hanja": "求婚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구혼자",
+    "translation": "гэрлэх санал тавигч, сүйт залуу",
+    "hanja": "求婚者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "구혼하다",
+    "translation": "гэрлэх санал тавих",
+    "hanja": "求婚하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구화",
+    "translation": "амаар ярих (сонсголын бэрхшээлтэй хүн)",
+    "hanja": "口話",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구황",
+    "translation": "өлсгөлөнгөөс аврах",
+    "hanja": "救荒",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "구획",
+    "translation": "хэсэг",
+    "hanja": "區劃",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구획되다",
+    "translation": "хуваах, хуваарилах",
+    "hanja": "區劃되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "구획하다",
+    "translation": "хэсэгчлэх",
+    "hanja": "區劃하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구휼",
+    "translation": "Тусламж үзүүлэх, аврах",
+    "hanja": "救恤",
+    "pos": "noun",
+    "cefr": "C2"
+  }
+]

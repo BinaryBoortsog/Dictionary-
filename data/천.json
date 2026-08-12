@@ -1,0 +1,688 @@
+[
+  {
+    "word": "천",
+    "translation": "Даавуу",
+    "hanja": "布",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "천거하다",
+    "translation": "Санал болгох",
+    "hanja": "薦擧하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천겁",
+    "translation": "мөнхийн цаг хугацаа",
+    "hanja": "千劫",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천계",
+    "translation": "тэнгэрийн ертөнц",
+    "hanja": "天界",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "천고",
+    "translation": "тэнгэрийн өндөр",
+    "hanja": "天高",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "천고마비",
+    "translation": "намар",
+    "hanja": "天高馬肥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천곡",
+    "translation": "Чонгог",
+    "hanja": "泉谷",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "천궁",
+    "translation": "тэнгэрийн ордон",
+    "hanja": "天宮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천극",
+    "translation": "дэвшилтэт зэрэг, дээд зэрэг",
+    "hanja": "踐極",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천근만근",
+    "translation": "маш хүнд",
+    "hanja": "千斤萬斤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천금",
+    "translation": "Асар их мөнгө, үнэ цэнэтэй",
+    "hanja": "千金",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "천남성",
+    "translation": "тэннамсон ургамал",
+    "hanja": "天南星",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천녀",
+    "translation": "Тэнгэрийн охин",
+    "hanja": "天女",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천노",
+    "translation": "Тэнгэрийн боол, тариачин",
+    "hanja": "賤奴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천당",
+    "translation": "диваажин",
+    "hanja": "天堂",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "천대하다",
+    "translation": "доромжлох",
+    "hanja": "賤待-",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "천덕꾸러기",
+    "translation": "Золиос, гологдол",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천도",
+    "translation": "нийслэлийг шилжүүлэх; нүүх",
+    "hanja": "遷都",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천도하다",
+    "translation": "нийслэлийг шилжүүлэх",
+    "hanja": "遷都하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천동설",
+    "translation": "Ганц үзэл",
+    "hanja": "天動說",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천둥소리",
+    "translation": "аянга цахилгаан",
+    "hanja": "천둥소리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "천둥하다",
+    "translation": "аянга цахих",
+    "hanja": "天動하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천뢰",
+    "translation": "Тэнгэрийн аянга",
+    "hanja": "天雷",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천륜",
+    "translation": "үүсэл, удам угсаа",
+    "hanja": "天倫",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "천리마",
+    "translation": "мянганы ли морь (хурдан морь)",
+    "hanja": "천리마(千里馬)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천리안",
+    "translation": "холын хараа",
+    "hanja": "千里眼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천만다행",
+    "translation": "маш их азтай",
+    "hanja": "千萬多幸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천만에",
+    "translation": "Өчүүхэн ч үгүй, тавтай морилно уу",
+    "hanja": "千萬에",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "천명",
+    "translation": "Тухайн хүний хувь заяа, хувь тавилан",
+    "hanja": "天命",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "천명하다",
+    "translation": "тунхаглах, зарлах",
+    "hanja": "闡明하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천문",
+    "translation": "од орон судлал",
+    "hanja": "天文",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "천문단위",
+    "translation": "од орон судлалын нэгж",
+    "hanja": "天文單位",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천문대",
+    "translation": "одон орон судлах газар",
+    "hanja": "天文臺",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "천문학",
+    "translation": "одон орон судлал",
+    "hanja": "天文學",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "천민",
+    "translation": "доод давхаргын хүн",
+    "hanja": "賤民",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천박하다",
+    "translation": "мулгуу",
+    "hanja": "淺薄하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천방지축",
+    "translation": "сахилгагүй, дураараа",
+    "hanja": "天方地軸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천변",
+    "translation": "голын эрэг",
+    "hanja": "川邊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천부당만부당하다",
+    "translation": "огт үндэслэлгүй",
+    "hanja": "千不當萬不當하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천부인",
+    "translation": "төрсөн тамга",
+    "hanja": "天賦印",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천부적",
+    "translation": "төрөлхийн, байгалиас заяасан",
+    "hanja": "天賦的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천비",
+    "translation": "Хус аяга",
+    "hanja": "天飛",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "천산",
+    "translation": "Тэнгэрийн уул",
+    "hanja": "天山",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "천산갑",
+    "translation": "хумс хавч",
+    "hanja": "穿山甲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천상계",
+    "translation": "диваажин",
+    "hanja": "天上界",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천상연",
+    "translation": "тэнгэрийн хайр",
+    "hanja": "天上緣",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "천상열차분야지도",
+    "translation": "Оддын одны зурхай",
+    "hanja": "天象列次分野之圖",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천생",
+    "translation": "төрөлхийн",
+    "hanja": "天生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천생연분",
+    "translation": "хувь тавилантай хос",
+    "hanja": " cheonsaengyeonbun",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "천신",
+    "translation": "Тэнгэрийн бурхан",
+    "hanja": "天神",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "천신만고",
+    "translation": "Мянган бэрхшээл",
+    "hanja": "千辛萬苦",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천신하다",
+    "translation": "тахил өргөх",
+    "hanja": "薦神하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "천심",
+    "translation": "Тэнгэрийн сэтгэл",
+    "hanja": "天心",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "천안",
+    "translation": "Чонан",
+    "hanja": "天安",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "천애",
+    "translation": "тэнгэрийн хаяа",
+    "hanja": "天涯",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "천양지차",
+    "translation": "Тэнгэр газар шиг ялгаатай",
+    "hanja": "天壤之差",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "천연가스",
+    "translation": "Байгалийн хий",
+    "hanja": "天然가스",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "천연기념물",
+    "translation": "байгалийн дурсгал",
+    "hanja": "天然記念物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천연덕스럽다",
+    "translation": "эгэл, байгалийн мэт",
+    "hanja": "天然덕스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "천연두",
+    "translation": "улаан бурхан",
+    "hanja": "天然痘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천연색",
+    "translation": "Байгалийн өнгө",
+    "hanja": "天然色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "천연자원",
+    "translation": "Байгалийн баялаг",
+    "hanja": "天然資源",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천옥",
+    "translation": "тэнгэрийн шорон",
+    "hanja": "天獄",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천왕",
+    "translation": "тэнгэрийн хаан",
+    "hanja": "天王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천우",
+    "translation": "тэнгэрийн тусламж",
+    "hanja": "天佑",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "천운",
+    "translation": "Тэнгэрийн заяа",
+    "hanja": "天運",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천원지방",
+    "translation": "тэнгэр дугуй, газар дөрвөлжин",
+    "hanja": "天圓地方",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천의",
+    "translation": "тэнгэрийн санаа, бурхны хувцас",
+    "hanja": "天意",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천인공노하다",
+    "translation": "хүн бүрийн дургүйг хүргэх",
+    "hanja": "天人共怒하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천재성",
+    "translation": "суут чанар",
+    "hanja": "天才性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천재일우",
+    "translation": "ховор боломж, аз тохиох",
+    "hanja": "千載一遇",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천재적",
+    "translation": "суут ухаантай",
+    "hanja": "天才的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천재지변",
+    "translation": "байгалийн гамшиг",
+    "hanja": "天災地變",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천정부지",
+    "translation": "өндөр үнэ, хязгааргүй өсөх",
+    "hanja": "天井不知",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천주교",
+    "translation": "католик шашин",
+    "hanja": "天主教",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천지개벽하다",
+    "translation": "ертөнц үүсэх",
+    "hanja": "天地開闢하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "천지인",
+    "translation": "Тэнгэр, газар, хүн",
+    "hanja": "天地人",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천진난만하다",
+    "translation": "гэнэн цайлган, ариун сэтгэлтэй",
+    "hanja": "天眞爛漫하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천진스럽다",
+    "translation": "гэнэн, цайлган",
+    "hanja": "天眞스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천진하다",
+    "translation": "гэнэн цайлган",
+    "hanja": "天眞─",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천차만별",
+    "translation": "өөр өөр",
+    "hanja": "千差萬別",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천착하다",
+    "translation": "гүнзгий судлах, гүн нэвтрэх",
+    "hanja": "穿鑿하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천천히",
+    "translation": "удаан",
+    "hanja": "천천히",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "천출",
+    "translation": "доод гаралтай",
+    "hanja": "賤出",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천침",
+    "translation": "тэнгэрийн зүү",
+    "hanja": "天鍼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천태만상",
+    "translation": "Олон янзын байдал",
+    "hanja": "千態萬象",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천편일률",
+    "translation": "нэгэн хэвийн",
+    "hanja": "千篇一律",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천편일률적",
+    "translation": "нэгэн хэвийн, уйтгартай",
+    "hanja": "千篇一律的",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "천하다",
+    "translation": "Доод, ядуу",
+    "hanja": "賤하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "천하대장군",
+    "translation": "их жанжин",
+    "hanja": "天下大將軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천하무적",
+    "translation": "ялагдашгүй",
+    "hanja": "天下無敵",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "천하장사",
+    "translation": "маш хүчтэй хүн",
+    "hanja": "天下壯士",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "천하태평",
+    "translation": "дэлхий дахинд амар амгалан; маш тайван",
+    "hanja": "天下泰平",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천현",
+    "translation": "тэнгэрийн харанхуй",
+    "hanja": "天玄",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "천혜",
+    "translation": "байгалийн бэлэг, бурхны хишиг",
+    "hanja": "天惠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천혜향",
+    "translation": "хүнд заяасан үнэр",
+    "hanja": "天惠香",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천황",
+    "translation": "эзэн хаан",
+    "hanja": "天皇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "천히",
+    "translation": "муугаар, доогуур",
+    "hanja": "賤히",
+    "pos": "부사",
+    "cefr": "C1"
+  }
+]

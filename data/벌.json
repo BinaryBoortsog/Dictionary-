@@ -1,0 +1,429 @@
+[
+  {
+    "word": "벌",
+    "translation": "Шийтгэл",
+    "hanja": "罰",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "벌거벗기다",
+    "translation": "нүцгэлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌거벗다",
+    "translation": "нүцгэн байх, тайчих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌거숭이",
+    "translation": "нүцгэн",
+    "hanja": "벌거숭이",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌겋다",
+    "translation": "Улаахан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌게지다",
+    "translation": "улайх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌교",
+    "translation": "бал чулуун гүүр",
+    "hanja": "筏橋",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "벌구",
+    "translation": "хорхой шавьж",
+    "hanja": "벌구",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌금",
+    "translation": "торгууль",
+    "hanja": "罰金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌금형",
+    "translation": "торгуулийн ял",
+    "hanja": "罰金刑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌꿀",
+    "translation": "зөгийн бал",
+    "hanja": "벌꿀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌다",
+    "translation": "хөдөлмөрлөж олох",
+    "hanja": "벌다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "벌떡",
+    "translation": "үсэрч босох",
+    "hanja": "벌떡",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌떡벌떡",
+    "translation": "огцом, гэнэт",
+    "hanja": "null",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌러덩",
+    "translation": "гүргэр, сулбай",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "벌렁",
+    "translation": "хүчтэй дэлбэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌렁거리다",
+    "translation": "дэлсэх, савлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "벌렁대다",
+    "translation": "дэлсэх, савлах",
+    "hanja": "벌렁대다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌렁벌렁",
+    "translation": "савлаж",
+    "hanja": "벌렁벌렁",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌렁벌렁하다",
+    "translation": "дөхөх дөхөх",
+    "hanja": "벌렁벌렁하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌레",
+    "translation": "хорхой",
+    "hanja": "벌레(蟲)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "벌레다",
+    "translation": "намайг хуурах",
+    "hanja": "벌레다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "벌름거리다",
+    "translation": "Хамраа үнэрлэх, амаа ангайлгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌리",
+    "translation": "нээх",
+    "hanja": "None",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "벌리다",
+    "translation": "Ангайлгах, дэлгэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌목",
+    "translation": "Мод бэлтгэх",
+    "hanja": "伐木",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌목꾼",
+    "translation": "модчин",
+    "hanja": "伐木꾼",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌목하다",
+    "translation": "мод огтлох",
+    "hanja": "伐木하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌벌",
+    "translation": "чичирч",
+    "hanja": "벌벌",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌서다",
+    "translation": "шийтгэл хүлээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌수",
+    "translation": "бал",
+    "hanja": "벌數",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "벌스다",
+    "translation": "хураах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "벌써",
+    "translation": "Аль хэдийн",
+    "hanja": "벌써",
+    "pos": "Adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "벌어들이다",
+    "translation": "Олох, хураах (мөнгө)",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "벌어먹다",
+    "translation": "амьжиргаагаа залгуулах",
+    "hanja": "벌어먹다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌이",
+    "translation": "орлого",
+    "hanja": "벌이",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌이다",
+    "translation": "эхлэх",
+    "hanja": "벌이다",
+    "pos": "VERB",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌전",
+    "translation": "буруушаал",
+    "hanja": "罰錢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌점",
+    "translation": "торгууль оноо",
+    "hanja": "罰點",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌주",
+    "translation": "торгуулийн архи",
+    "hanja": "罰酒",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌주다",
+    "translation": "шийтгэх",
+    "hanja": "罰주다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "벌집",
+    "translation": "зөгийн үүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌쭉",
+    "translation": "цэлгэр, том",
+    "hanja": "벌쭉",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌채",
+    "translation": "мод бэлтгэх",
+    "hanja": "伐採",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌채하다",
+    "translation": "мод огтлох",
+    "hanja": "伐採하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌처",
+    "translation": "тас",
+    "hanja": "벌처",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌초",
+    "translation": "оршуулгын газар дээрх өвсийг хадах",
+    "hanja": "伐草",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌초하다",
+    "translation": "оршуулгын газрыг цэвэрлэх",
+    "hanja": "伐草하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌충",
+    "translation": "нөхөн төлбөр",
+    "hanja": "補充",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "벌충하다",
+    "translation": "нөхөн төлөх",
+    "hanja": "補充하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "벌칙",
+    "translation": "торгууль, шийтгэл",
+    "hanja": "罰則",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌침",
+    "translation": "зөгийн хатгуур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌컥",
+    "translation": "Гэнэт уурлах, гэнэт онгойх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌컥벌컥",
+    "translation": "хурдан хурдан уух, шууд залгих",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌컨",
+    "translation": "Вулкан",
+    "hanja": "Vulcan",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌크",
+    "translation": "бөөнөөр, их хэмжээгээр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌키",
+    "translation": "өндөр",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "벌타",
+    "translation": "Торгууль",
+    "hanja": "罰打",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "벌통",
+    "translation": "зөгийн үүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌판",
+    "translation": "Тал хээр, талбай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "벌하다",
+    "translation": "шийтгэх",
+    "hanja": "罰하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

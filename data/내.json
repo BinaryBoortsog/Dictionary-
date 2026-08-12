@@ -1,0 +1,1626 @@
+[
+  {
+    "word": "내",
+    "translation": "дотор",
+    "hanja": "內",
+    "pos": "의존명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내가",
+    "translation": "би (эелдэг бус)",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "내가다",
+    "translation": "гаргах, авах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내각",
+    "translation": "Засгийн газар",
+    "hanja": "內閣",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "내객",
+    "translation": "дотоод зочин",
+    "hanja": "內客",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내거",
+    "translation": "минийх",
+    "hanja": "-",
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "내걸다",
+    "translation": "өлгөх",
+    "hanja": "내걸다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "내걸리다",
+    "translation": "өлгөгдөх",
+    "hanja": "내걸리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내경",
+    "translation": "дотоод диаметр",
+    "hanja": "內徑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내고",
+    "translation": "тухай",
+    "hanja": "乃告",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내곡",
+    "translation": "доторх хөндий",
+    "hanja": "內谷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내공",
+    "translation": "Дотоод хүч чадал",
+    "hanja": "內功",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "내과",
+    "translation": "Дотор өвчний тасаг",
+    "hanja": "內科",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내관",
+    "translation": "дотоод шүүдэс, биеийн доторх эрхтэн",
+    "hanja": "內官",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내구",
+    "translation": "удаан эдэлгээ",
+    "hanja": "耐久",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내구성",
+    "translation": "Бат бөх чанар",
+    "hanja": "耐久性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내국인",
+    "translation": "дотоодын иргэн",
+    "hanja": "內國人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내궁",
+    "translation": "дотоод ордон",
+    "hanja": "內宮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "내규",
+    "translation": "дотоод журам",
+    "hanja": "內規",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내근",
+    "translation": "дотоод ажил",
+    "hanja": "內勤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내기하다",
+    "translation": "мөрийцөх",
+    "hanja": "내기하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내년",
+    "translation": "ирэх жил",
+    "hanja": "來年",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "내년도",
+    "translation": "ирэх жилийн",
+    "hanja": "來年度",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내노",
+    "translation": "өг, үзүүл",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내노라하다",
+    "translation": "хэлэх",
+    "hanja": "내놓으라하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내놓다",
+    "translation": "гаргах, тавих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내다",
+    "translation": "өгөх",
+    "hanja": "내다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "내다버리다",
+    "translation": "хаях, шидэх",
+    "hanja": "내다버리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내다보다",
+    "translation": "урьдчилан харах",
+    "hanja": "내다보다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "내다보이다",
+    "translation": "харж байгаа",
+    "hanja": "None",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내단",
+    "translation": "дотоод засал",
+    "hanja": "內丹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내닫다",
+    "translation": "хүчтэй гүйх",
+    "hanja": "내닫다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내달",
+    "translation": "ирэх сар",
+    "hanja": "来月",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "내달리다",
+    "translation": "хурдлах, давхих",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "내던지다",
+    "translation": "шидэх",
+    "hanja": "내던지다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "내도",
+    "translation": "Ирэх, хүрч ирэх (고어 또는 문어)",
+    "hanja": "來度",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "내돌리다",
+    "translation": "гадагшлуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내동",
+    "translation": "дотор тал",
+    "hanja": "內同",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내동댕이치다",
+    "translation": "шидэх, хаях, орхих",
+    "hanja": "내동댕이치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내두르다",
+    "translation": "бүлхлэх",
+    "hanja": "내두르다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내드리다",
+    "translation": "өгөх, барих",
+    "hanja": "내드리다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내들다",
+    "translation": "Гаргаж ирэх, барьж гарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내디디다",
+    "translation": "гишгэх, алхах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내딛다",
+    "translation": "Гишгэх, нүүх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내따",
+    "translation": "Авах, гаргах",
+    "hanja": "내따",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내란",
+    "translation": "иргэний дайн",
+    "hanja": "內亂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내란죄",
+    "translation": "төрийн эсрэг, бослого үймээн гаргасан гэмт хэрэг",
+    "hanja": "內亂罪",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "내러티브",
+    "translation": "өгүүлэмж",
+    "hanja": "narrative",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내레이션",
+    "translation": "өгүүлэмж, нэмэлт тайлбар",
+    "hanja": "narration",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내레이터",
+    "translation": "өгүүлэгч, хөтлөгч",
+    "hanja": "내레이터",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내려다보다",
+    "translation": "харж байна",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "내려다보이다",
+    "translation": "доош харагдах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내려뜨리다",
+    "translation": "доош нь буулгах, унжуулах",
+    "hanja": "내려뜨리다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "내려받다",
+    "translation": "татаж авах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내려보내다",
+    "translation": "доош илгээх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내려서다",
+    "translation": "буух",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "내려쓰다",
+    "translation": "доош нь бичих, доош нь өмсөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내려앉다",
+    "translation": "буух, доошлох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내려쬐다",
+    "translation": "шарах, тусах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "내려찍다",
+    "translation": "цохих",
+    "hanja": "내려찍다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "내력",
+    "translation": "Түүх, замнал",
+    "hanja": "來歷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내로라하다",
+    "translation": "сайндаа тооцогдох",
+    "hanja": "내로라하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "내롭다",
+    "translation": "Дотогшоо, нууцлаг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내륙",
+    "translation": "эрт, эх газар",
+    "hanja": "內陸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내리",
+    "translation": "доош",
+    "hanja": "—",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "내리가다",
+    "translation": "буух, доошлох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내리감다",
+    "translation": "доош хаах (нүдээ)",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "내리긋다",
+    "translation": "доош зурах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "내리깔다",
+    "translation": "доош харах, доош харуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내리깔리다",
+    "translation": "Доошоо харах",
+    "hanja": "내리깔리다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "내리꽂다",
+    "translation": "хүчтэй шидэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내리꽂히다",
+    "translation": "доор хатгах, унагах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내리놓다",
+    "translation": "унжуулах, тавих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내리누르다",
+    "translation": "дор дарж дарах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내리다",
+    "translation": "буух",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내리닫다",
+    "translation": "дош доошоо гүйх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내리닫이",
+    "translation": "нээлхий",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "내리뜨다",
+    "translation": "доош хаях",
+    "hanja": "내리뜨다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내리막",
+    "translation": "Уруудах, уруу",
+    "hanja": "내리막",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내리막길",
+    "translation": "уруудах зам",
+    "hanja": null,
+    "pos": "м.н",
+    "cefr": "B1"
+  },
+  {
+    "word": "내리비치다",
+    "translation": "доош гэрэлтэх",
+    "hanja": "내리비치다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내리사랑",
+    "translation": "эцэг эхийн хүүхдэд хайрлах хайр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내리지다",
+    "translation": "Унагах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내리쬐다",
+    "translation": "гэрэлтэх",
+    "hanja": null,
+    "pos": "үйл",
+    "cefr": "B2"
+  },
+  {
+    "word": "내리찍다",
+    "translation": "Доошоо цохих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내리치다",
+    "translation": "доор цохих, доош буудах",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "내린천",
+    "translation": "Нэринчон (гол)",
+    "hanja": "內麟川",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "내림세",
+    "translation": "бууралт, уналт",
+    "hanja": "내림勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내막",
+    "translation": "дотоод нөхцөл байдал",
+    "hanja": "內幕",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "내말",
+    "translation": "миний үг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "내맡기다",
+    "translation": "Бууж өгөх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "내면",
+    "translation": "Дотоод, сэтгэл",
+    "hanja": "內面",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "내면세계",
+    "translation": "дотоод ертөнц",
+    "hanja": "內面世界",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "내면적",
+    "translation": "дотоод сэтгэлийн",
+    "hanja": "內面的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내면화",
+    "translation": "дотоодчлох",
+    "hanja": "內面化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내면화되다",
+    "translation": "Дотоодчилогдох; шингэх",
+    "hanja": "內面化되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "내면화하다",
+    "translation": "дотоодчлох",
+    "hanja": "內面化하다",
+    "pos": "동사",
+    "cefr": null
+  },
+  {
+    "word": "내몰다",
+    "translation": "Хөөн гаргах, явуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내몰리다",
+    "translation": "хөөгдөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내무",
+    "translation": "дотоод хэрэг, дотоод байдал",
+    "hanja": "內務",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "내무반",
+    "translation": "дотор харуул",
+    "hanja": "內務班",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내무부",
+    "translation": "дотоод хэргийн яам",
+    "hanja": "內務部",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "내밀다",
+    "translation": "сунах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내밀하다",
+    "translation": "дотно, нууцлаг",
+    "hanja": "內密하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "내발",
+    "translation": "дотоод хөл",
+    "hanja": "內髮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내방",
+    "translation": "айлчлах",
+    "hanja": "來訪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내방하다",
+    "translation": "зочлох",
+    "hanja": "來訪하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "내뱉다",
+    "translation": "гаргах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내버려두다",
+    "translation": "орхих",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "내버리다",
+    "translation": "орхих",
+    "hanja": "내버리다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "내벽",
+    "translation": "Дотоод хана",
+    "hanja": "內壁",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "내보내다",
+    "translation": "илгээх, гаргах",
+    "hanja": "내보내다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내보다",
+    "translation": "өөрийгөө харах, өөрөөсөө илүү",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내보이다",
+    "translation": "харуулах",
+    "hanja": "내보이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내복",
+    "translation": "Дотор хувцас",
+    "hanja": "內服",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내부",
+    "translation": "дотоод",
+    "hanja": "內部",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "내부망",
+    "translation": "Дотоод сүлжээ",
+    "hanja": "內部網",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "내부적",
+    "translation": "дотоод, дотогш",
+    "hanja": "內部的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "내분",
+    "translation": "дотоодын зөрчил",
+    "hanja": "內紛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내분비계",
+    "translation": "Дотоод шүүрлийн систем",
+    "hanja": "內分泌系",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내분비내과",
+    "translation": "дотоод шүүрлийн эрхтний дотрын тасаг",
+    "hanja": "內分泌內科",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내비",
+    "translation": "нави",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "내비게이션",
+    "translation": "навигаци",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내비게이터",
+    "translation": "навигатор",
+    "hanja": "내비게이터",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내비두다",
+    "translation": "орхих, зөвшөөрөх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내비치다",
+    "translation": "илчлэх, үзүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내빈",
+    "translation": "хүндэт зочин",
+    "hanja": "來賓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내빼다",
+    "translation": "зугтах, бултах",
+    "hanja": "내빼다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내뻗다",
+    "translation": "сунах, сунгагдах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내뿜다",
+    "translation": "Үлээх, гаргах (амьсгал), шүлсээ хаях",
+    "hanja": "내뿜다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내사",
+    "translation": "дотоод шалгалт",
+    "hanja": "內査",
+    "pos": "мüns",
+    "cefr": "C1"
+  },
+  {
+    "word": "내사하다",
+    "translation": "дотоод шалгалт хийх",
+    "hanja": "內査하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내산",
+    "translation": "Дотоод уулс",
+    "hanja": "內山",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "내상",
+    "translation": "дотоод гэмтэл",
+    "hanja": "內傷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내색",
+    "translation": "Үзэмж, өнгө төрх",
+    "hanja": "內色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내색하다",
+    "translation": "үзүүлэх, илэрхийлэх",
+    "hanja": "內色하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내생",
+    "translation": "дараагийн амьдрал, ирээдүйн амьдрал",
+    "hanja": "來生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내선",
+    "translation": "Дотоод шугам",
+    "hanja": "內線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내성",
+    "translation": "дотоод чанар",
+    "hanja": "耐性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "내성적",
+    "translation": "Дотоод хүн, дотогшоо",
+    "hanja": "內省的",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "내세",
+    "translation": "Дараагийн амьдрал",
+    "hanja": "來世",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내세우다",
+    "translation": "тавих, дэвшүүлэх",
+    "hanja": "내세우다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내셔널리즘",
+    "translation": "үндсэрхэг үзэл",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내속",
+    "translation": "Гэдэс дотор",
+    "hanja": "內 속",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내손",
+    "translation": "миний гар",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "내수",
+    "translation": "Дотоодын хэрэглээ",
+    "hanja": "內需",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내숭",
+    "translation": "худлаа дүр эсгэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내쉬다",
+    "translation": "амьсгаа гаргах",
+    "hanja": "내쉬다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내시",
+    "translation": "түшмэл, ордны түшмэл",
+    "hanja": "內侍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "내시다",
+    "translation": "Гарах, гаргах (хүндэтгэлийн)",
+    "hanja": "내시다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내신",
+    "translation": "сургуулийн үнэлгээ",
+    "hanja": "內申",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내실",
+    "translation": "дотоод агуулга",
+    "hanja": "內實",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내실화",
+    "translation": "бодит болгох",
+    "hanja": "內實化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "내쏘다",
+    "translation": "буудах, хаях",
+    "hanja": "내쏘다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내아",
+    "translation": "гэрт, дотор",
+    "hanja": "內衙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "내안",
+    "translation": "дотоод нүд",
+    "hanja": "內眼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "translation": "дотор тал",
+    "hanja": "內野",
+    "pos": "명사",
+    "cefr": "B2",
+    "word": "내야"
+  },
+  {
+    "word": "내야수",
+    "translation": "Бэйсболын тамирчин (инфилд)",
+    "hanja": "內野手",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내역",
+    "translation": "жагсаалт, нарийн зүйл",
+    "hanja": "內譯",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "내역서",
+    "translation": "дэлгэрэнгүй жагсаалт",
+    "hanja": "內譯書",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "내연",
+    "translation": "дотоод шаталт",
+    "hanja": "內燃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내열",
+    "translation": "халуунд тэсвэртэй",
+    "hanja": "耐熱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내열성",
+    "translation": "халуунд тэсвэртэй",
+    "hanja": "耐熱性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "내외",
+    "translation": "дотор гадна",
+    "hanja": "內外",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "내외부",
+    "translation": "Дотор болон гадна тал",
+    "hanja": "內外部",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내외분",
+    "translation": "нөхөр эхнэр хоёр",
+    "hanja": "內外분",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "내외하다",
+    "translation": "гэр доторх, гэр гаднах",
+    "hanja": "內外하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내용",
+    "translation": "агуулга",
+    "hanja": "內容",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내용물",
+    "translation": "агуулга",
+    "hanja": "內容物",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "내우외환",
+    "translation": "Дотоод, гадаад аюул",
+    "hanja": "內憂外患",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내원",
+    "translation": "эмнэлэгт очих",
+    "hanja": "來院",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "내원하다",
+    "translation": "эмнэлэгт ирэх",
+    "hanja": "來院하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내음",
+    "translation": "үнэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내음새",
+    "translation": "үнэр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내의",
+    "translation": "дотуур хувцас",
+    "hanja": "內衣",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "내이",
+    "translation": "дотор чих",
+    "hanja": "內耳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내일",
+    "translation": "маргааш",
+    "hanja": "來日",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "내일모레",
+    "translation": "Нөгөөдөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "내입",
+    "translation": "дотоод ам",
+    "hanja": "內入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내자",
+    "translation": "эхнэр, дотоодын хүн",
+    "hanja": "內子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내장",
+    "translation": "дотор эрхтэн",
+    "hanja": "內臟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내장되다",
+    "translation": "суурилуулсан",
+    "hanja": "內藏되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내장재",
+    "translation": "доторлогооны материал",
+    "hanja": "內裝材",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내장하다",
+    "translation": "Суулгах, барих",
+    "hanja": "內藏하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "내재되다",
+    "translation": "орших",
+    "hanja": "內在―",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내재적",
+    "translation": "Дотоод, үүнд орших",
+    "hanja": "內在的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내재하다",
+    "translation": "дотор нь орших, угаас байх",
+    "hanja": "內在하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내재화되다",
+    "translation": "дотоодчлох",
+    "hanja": "內在化되다",
+    "pos": "үйл үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "내재화하다",
+    "translation": "Дотоодчилох",
+    "hanja": "內在化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내적",
+    "translation": "дотоод",
+    "hanja": "內的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내전",
+    "translation": "иргэний дайн",
+    "hanja": "內戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내접하다",
+    "translation": "Дотор нь холбогдох",
+    "hanja": "內接하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내젓다",
+    "translation": "Сэгсрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내정",
+    "translation": "дотоод ажил",
+    "hanja": "內政",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내정되다",
+    "translation": "томилогдох",
+    "hanja": "內定되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내정하다",
+    "translation": "өмнө нь шийдвэрлэх, томилох",
+    "hanja": "內定하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "내제",
+    "translation": "доторх, дотоод",
+    "hanja": "內在",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내조",
+    "translation": "гэр бүлийн тусламж",
+    "hanja": "內助",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "내조하다",
+    "translation": "гэрийн ажилд туслах",
+    "hanja": "內助하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내주",
+    "translation": "ирэх долоо хоног",
+    "hanja": "來週",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "내지르다",
+    "translation": "Хашгирах, чанга дуугарах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내진",
+    "translation": "газар хөдлөлтийн тэсвэртэй",
+    "hanja": "耐震",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내진하다",
+    "translation": "орох",
+    "hanja": "來診하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "내쫓기다",
+    "translation": "хөөгдөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내쫓다",
+    "translation": "хөөж гаргах",
+    "hanja": "내쫓다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내찌르다",
+    "translation": "хатгах, хутгалах",
+    "hanja": "내찌르다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내처",
+    "translation": "Дотогшоо",
+    "hanja": "內處",
+    "pos": "adverb",
+    "cefr": "C2"
+  },
+  {
+    "word": "내추럴",
+    "translation": "Байгалийн",
+    "hanja": "natural",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내추럴하다",
+    "translation": "байгалийн",
+    "hanja": "natural─",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내출혈",
+    "translation": "дотуур цус алдалт (Анагаах)",
+    "hanja": "內出血",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "내측",
+    "translation": "дотор тал",
+    "hanja": "內側",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내치다",
+    "translation": "хөөж гаргах, халах",
+    "hanja": "내치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내키다",
+    "translation": "хүсэх, сэтгэлд таарах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "내통",
+    "translation": "дотоод холбоо, хуйвалдаан",
+    "hanja": "內通",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "내통하다",
+    "translation": "нууцаар холбоо барих",
+    "hanja": "內通하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "내파",
+    "translation": "тэсрэлт",
+    "hanja": "內破",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "내팽개치다",
+    "translation": "Хаях, унагаах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "내편",
+    "translation": "Миний тал",
+    "hanja": "내편",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "내포",
+    "translation": "агуулах, дотор тал",
+    "hanja": "內包",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내포되다",
+    "translation": "агуулагдах",
+    "hanja": "內包되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "내포하다",
+    "translation": "агуулах",
+    "hanja": "內包하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내품",
+    "translation": "Өөрийн эд зүйл",
+    "hanja": "內品",
+    "pos": "Нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "내피",
+    "translation": "дотор арьс",
+    "hanja": "內皮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "내한",
+    "translation": "хүйтэнд тэсвэртэй",
+    "hanja": "耐寒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내한하다",
+    "translation": "айлчлах",
+    "hanja": "來韓하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내항",
+    "translation": "дотоод боомт",
+    "hanja": "內港",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "내핵",
+    "translation": "Дотоод цөм",
+    "hanja": "內核",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내향",
+    "translation": "дотогшоо",
+    "hanja": "內向",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "내향성",
+    "translation": "дотогшоо",
+    "hanja": "內向性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내향적",
+    "translation": "дотогшоо, интроверт",
+    "hanja": "內向的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "내홍",
+    "translation": "дотоод үймээн",
+    "hanja": "內訌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "내후년",
+    "translation": "нөгөөдөр",
+    "hanja": "來後年",
+    "pos": "сущ",
+    "cefr": "B1"
+  }
+]

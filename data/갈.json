@@ -1,0 +1,618 @@
+[
+  {
+    "word": "갈",
+    "translation": "Хөрзөн, хивэг",
+    "hanja": "갈",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈가리",
+    "translation": "цөөн цөөнөөр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈갈",
+    "translation": "урвалт",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈게",
+    "translation": "Тэмээлзгэнэ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈겨니",
+    "translation": "загалмайт загас",
+    "hanja": "갈겨니",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "갈겨쓰다",
+    "translation": "хайнга бичих, сараачих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈고닦다",
+    "translation": "цэвэрлэж өнгөлөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈고리",
+    "translation": "дүгнүүр, дэгээ",
+    "hanja": "갈고리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈구",
+    "translation": "хүсэл тэмүүлэл",
+    "hanja": "渴求",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈구하다",
+    "translation": "маш их хүсэх",
+    "hanja": "渴求하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈급하다",
+    "translation": "машиг их хүсэх, цангасан",
+    "hanja": "渴急하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈기갈기",
+    "translation": "Урагдаж тасарсан байдалтай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈기다",
+    "translation": "цохих, шидэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈다",
+    "translation": "солих, хусаx",
+    "hanja": "갈다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "갈대",
+    "translation": "зэгс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈대밭",
+    "translation": "хулсны талбай",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈대숲",
+    "translation": "зэгсний төгөлдөг",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈댓잎",
+    "translation": "Зэгсний навч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈등",
+    "translation": "зөрчил",
+    "hanja": "葛藤",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈등하다",
+    "translation": "Зөрчилдөх",
+    "hanja": "葛藤하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈라",
+    "translation": "Гала (үдэшлэг)",
+    "hanja": "갈라",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈라내다",
+    "translation": "тусгаарлах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈라디아",
+    "translation": "Галати (Эртний бүс нутаг)",
+    "hanja": "갈라디아",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈라서다",
+    "translation": "салах, тусдаа амьдрах",
+    "hanja": "갈라서다",
+    "pos": "v",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈라파고스",
+    "translation": "Галапагос",
+    "hanja": "갈라파고스",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈락",
+    "translation": "галакт",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "갈란테",
+    "translation": "галланте",
+    "hanja": "galante",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈랑",
+    "translation": "Сайн, сайхан (хуучин үг)",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "갈래",
+    "translation": "салаа, мөчир",
+    "hanja": "갈래",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈래길",
+    "translation": "салбар зам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈랜드",
+    "translation": "Гарланд (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈레트",
+    "translation": "галет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "갈루아",
+    "translation": "Галуа (нэр)",
+    "hanja": "갈루아",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈륨",
+    "translation": "галль",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈리",
+    "translation": "Гали",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈리다",
+    "translation": "үүрлэх, хуваагдах, солигдох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈리마르",
+    "translation": "Галлимард (хэвлэн нийтлэгч)",
+    "hanja": "Gallimard",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "갈리아",
+    "translation": "Галлиа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈릭",
+    "translation": "саримс",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "갈릴레오",
+    "translation": "Галилей",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈릴레이",
+    "translation": "Галилей",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈릴리",
+    "translation": "Галил",
+    "hanja": "Galilee",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "갈림길",
+    "translation": "замын уулзвар",
+    "hanja": "갈림길",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈만",
+    "translation": "очих боломжтой, үнэ цэнэтэй",
+    "hanja": "갈만",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈망",
+    "translation": "хүсэл",
+    "hanja": "渴望",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈망하다",
+    "translation": "хүсэх",
+    "hanja": "渴望하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈매",
+    "translation": "галмаа (холын хараатай шувуу)",
+    "hanja": "褐매",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈매기",
+    "translation": "цахлай",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "갈메",
+    "translation": "галме",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "갈무리",
+    "translation": "Багцлах, цуглуулах",
+    "hanja": "갈무리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈무리되다",
+    "translation": "бэлтгэгдэх",
+    "hanja": "갈무리되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈무리하다",
+    "translation": "Эмхлэх, цэгцлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈변",
+    "translation": "Борлох",
+    "hanja": "褐變",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈변하다",
+    "translation": "Борлох",
+    "hanja": "褐變하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈보",
+    "translation": "биеэ үнэлэгч",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "갈보리",
+    "translation": "Голгота",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "갈비",
+    "translation": "хавирга",
+    "hanja": "갈비",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "갈비뼈",
+    "translation": "Хавирга",
+    "hanja": "갈비뼈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈비찜",
+    "translation": "хавирганы чанасан мах",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "갈비탕",
+    "translation": "хавирганы шөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "갈빗대",
+    "translation": "Хавирга",
+    "hanja": "갈빗대",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈빗살",
+    "translation": "хавирганы мах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈빗집",
+    "translation": "хавирганы ресторан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "갈색",
+    "translation": "хүрэн өнгө",
+    "hanja": "褐色",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "갈수",
+    "translation": "усан үзэм",
+    "hanja": "渴水",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈아먹다",
+    "translation": "сорох, идэх (сөрөг утгатай)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈아엎다",
+    "translation": "Хөмрөх",
+    "hanja": "갈아엎다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈아입다",
+    "translation": "хувцас солих",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "갈아입히다",
+    "translation": "хувцас солих",
+    "hanja": "갈아입히다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈아타다",
+    "translation": "Дамжин суух",
+    "hanja": "갈아타다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "갈음하다",
+    "translation": "солих, орлуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈이",
+    "translation": "солих",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈잎",
+    "translation": "намар шарласан навч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈증",
+    "translation": "цангах",
+    "hanja": "渴症",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈채",
+    "translation": "алга ташилт",
+    "hanja": "喝采",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈축",
+    "translation": "хүрэн тэнхлэг",
+    "hanja": "갈軸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈취",
+    "translation": "айлган сүрдүүлэх, мөнгө салгах",
+    "hanja": "喝取",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈취하다",
+    "translation": "Татвар хураах",
+    "hanja": "喝取하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "갈치",
+    "translation": "мөнгөн загас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈치다",
+    "translation": "өөрчлөх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈치속젓",
+    "translation": "Гахайн ясны дотор давсласан загас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "갈퀴",
+    "translation": "Гахайн сэрээ, хутгуур",
+    "hanja": "갈퀴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "갈키다",
+    "translation": "Агтны сүүлэн дэх үсийг таслах",
+    "hanja": "갈키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈팡질팡",
+    "translation": "ийш тийшээ самуурах",
+    "hanja": "―",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈팡질팡하다",
+    "translation": "Ойлгохгүй самуурах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈피",
+    "translation": "чиглэл, зам",
+    "hanja": "갈피",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "갈하다",
+    "translation": "шударга, цэвэр",
+    "hanja": "渴하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갈현",
+    "translation": "Галхён (газар нэр)",
+    "hanja": "葛峴",
+    "pos": "고유명사",
+    "cefr": "C1"
+  }
+]

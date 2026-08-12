@@ -1,0 +1,681 @@
+[
+  {
+    "word": "번",
+    "translation": "Удаа",
+    "hanja": "番",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "번가",
+    "translation": "ээлжлэн",
+    "hanja": "番街",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번갈다",
+    "translation": "ээлжлэх",
+    "hanja": "번갈다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "번개",
+    "translation": "аянга",
+    "hanja": "番개",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "번갯불",
+    "translation": "аянга",
+    "hanja": "번갯불",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번거럽다",
+    "translation": "түвэгтэй, төвөгтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번거로움",
+    "translation": "түвэгтэй байдал",
+    "hanja": "煩巨로움",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번거롭다",
+    "translation": "түвэгтэй, төвөгтэй",
+    "hanja": "번거롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번견",
+    "translation": "харуул нохой",
+    "hanja": "番犬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번국",
+    "translation": "Вассалын улс",
+    "hanja": "藩國",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "번뇌",
+    "translation": "зовлон, шаналал",
+    "hanja": "煩惱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번뇌하다",
+    "translation": "зовлон шаналалд автах / санаа зовох",
+    "hanja": "煩惱하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번다",
+    "translation": "олон, баян",
+    "hanja": "煩多",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "번대",
+    "translation": "толгойны ороолт",
+    "hanja": " 번대",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번데기",
+    "translation": "Хүрэнцэр, өт, царцаа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번동",
+    "translation": "Бондун",
+    "hanja": "번동",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번드르르하다",
+    "translation": "гялалзсан, гялгар",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번득",
+    "translation": "Гялс, огцом гялбах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번득거리다",
+    "translation": "Гялалзах, оч буулах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번들거리다",
+    "translation": "гялалзах, гялтганах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번들대다",
+    "translation": "гялалзах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번들번들",
+    "translation": "гялалзсан, өнгөлөг",
+    "hanja": "없음",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번들번들하다",
+    "translation": "гялалзсан, гялгар",
+    "hanja": "번들번들하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번듯하다",
+    "translation": "Тэгшхэн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번뜩",
+    "translation": "Гялс, огцом (гэрэл)",
+    "hanja": "번뜩",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번뜩거리다",
+    "translation": "гялалзах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번뜩이다",
+    "translation": "гялалзах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번뜩하다",
+    "translation": "гялсхийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번리",
+    "translation": "хуурамч",
+    "hanja": "煩裡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "번만",
+    "translation": "зөвхөн",
+    "hanja": "번만",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "번민",
+    "translation": "зовнил",
+    "hanja": "煩悶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번민하다",
+    "translation": "тарчлаан зовох",
+    "hanja": "煩悶하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번방",
+    "translation": "олон өрөө",
+    "hanja": "繁房",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번번히",
+    "translation": "үргэлж",
+    "hanja": "番番이",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번복",
+    "translation": "цуцлах",
+    "hanja": "번복",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번복되다",
+    "translation": "буцаагдах",
+    "hanja": "飜覆-",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "번복하다",
+    "translation": "Цуцлах, хүчингүй болгох",
+    "hanja": "飜覆하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "번성",
+    "translation": "цэцэглэн хөгжих",
+    "hanja": "繁盛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번성하다",
+    "translation": "хөгжих, цэцэглэх",
+    "hanja": "繁盛하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번스",
+    "translation": "Бёрнс",
+    "hanja": "번스",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "번스타인",
+    "translation": "Бернштейн",
+    "hanja": "번스타인",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번식",
+    "translation": "үржих",
+    "hanja": "繁殖",
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "번식기",
+    "translation": "үржлийн үе",
+    "hanja": "繁殖期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번식되다",
+    "translation": "үржих",
+    "hanja": "繁殖되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번식력",
+    "translation": "үржих чадвар",
+    "hanja": "繁殖力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번식지",
+    "translation": "үржлийн газар",
+    "hanja": "繁殖地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번식하다",
+    "translation": "үржих",
+    "hanja": "繁殖하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번아웃",
+    "translation": "Ядаргаа, сэтгэл санааны хоосрол",
+    "hanja": "번아웃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번안",
+    "translation": "дасан зохицох",
+    "hanja": "翻案",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번역",
+    "translation": "орчуулга",
+    "hanja": "飜譯",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "번역가",
+    "translation": "орчуулагч",
+    "hanja": "飜譯家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번역기",
+    "translation": "орчуулагч машин",
+    "hanja": "飜譯機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번역되다",
+    "translation": "орчуулагдах",
+    "hanja": "飜譯-",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "번역료",
+    "translation": "орчуулгын хөлс",
+    "hanja": "飜譯料",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "번역문",
+    "translation": "орчуулга",
+    "hanja": "飜譯文",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번역본",
+    "translation": "Орчуулгын хувилбар",
+    "hanja": "飜譯本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번역어",
+    "translation": "Орчуулгын үг",
+    "hanja": "飜譯語",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "번역자",
+    "translation": "орчуулагч",
+    "hanja": "飜譯者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "번역판",
+    "translation": "орчуулга",
+    "hanja": "飜譯版",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번역하다",
+    "translation": "орчуулах",
+    "hanja": "飜譯하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "번연히",
+    "translation": "илтэд, тодорхой",
+    "hanja": "番然히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번영",
+    "translation": "цэцэгшүүлэх",
+    "hanja": "繁榮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번영하다",
+    "translation": "цэцэглэн хөгжих",
+    "hanja": "繁榮하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "번외",
+    "translation": "нэмэлт",
+    "hanja": "番外",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번이",
+    "translation": "шууд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번인",
+    "translation": "Burn-in (электроник)",
+    "hanja": "Burn-in",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번잡스럽다",
+    "translation": "бохир",
+    "hanja": "번잡스럽다(煩雜스럽다)",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번잡하다",
+    "translation": "хөл хөдөлгөөн ихтэй, завгүй",
+    "hanja": "煩雜하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번장",
+    "translation": "Ахлагч",
+    "hanja": "班長",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번제",
+    "translation": "шатаалт тахил",
+    "hanja": "燔祭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "번지",
+    "translation": "Харьяалагдах хаяг, газар (хуучин утгаар)",
+    "hanja": "番地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번지다",
+    "translation": "тархах, түгэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번지르르",
+    "translation": "гялалзсан",
+    "hanja": "번지르르",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "번지르르하다",
+    "translation": "гялалзсан",
+    "hanja": "번지르르하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "번지수",
+    "translation": "байшингийн дугаар",
+    "hanja": "番地數",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "번질거리다",
+    "translation": "гялалзах, арзайх",
+    "hanja": "번질거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번짐",
+    "translation": "тархах",
+    "hanja": "번짐",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "번째",
+    "translation": "Дараалал заах",
+    "hanja": "番째",
+    "pos": "의존명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "번쩍",
+    "translation": "гялс",
+    "hanja": "번쩍",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "번쩍거리다",
+    "translation": "гялалзах",
+    "hanja": "번쩍거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번쩍번쩍",
+    "translation": "гялалзсан",
+    "hanja": "번쩍번쩍",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번쩍번쩍하다",
+    "translation": "Гялс гялс хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번쩍이다",
+    "translation": "Гялалзах, гялс гялс хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번쩍하다",
+    "translation": "гялалзах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번창",
+    "translation": "хөгжин цэцэглэх",
+    "hanja": "繁昌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번창하다",
+    "translation": "цэцэглэн хөгжих",
+    "hanja": "繁昌하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번철",
+    "translation": "хавтгай төмөр таваг",
+    "hanja": "燔鐵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "번체자",
+    "translation": "уламжлалт хятад үсэг (Хэл)",
+    "hanja": "繁體字",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "번트",
+    "translation": "бант (бейзболын цохилт)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번팅",
+    "translation": "тугны чимэглэл",
+    "hanja": "Bunting",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "번하다",
+    "translation": "тодорхой, илэрхий",
+    "hanja": "뻔하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "번호",
+    "translation": "дугаар",
+    "hanja": "番號",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "번호순",
+    "translation": "Дугаарын дарааллаар",
+    "hanja": "番號順",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "번호판",
+    "translation": "Дугаарын хавтан",
+    "hanja": "番號板",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "번호표",
+    "translation": "дугаарын тасалбар",
+    "hanja": "番號票",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "번화가",
+    "translation": "завгүй гудамж",
+    "hanja": "繁華街",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "번화하다",
+    "translation": "хөл хөдөлгөөн ихтэй байх, цэцэглэсэн байх",
+    "hanja": "繁華하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  }
+]

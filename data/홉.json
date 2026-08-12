@@ -1,0 +1,44 @@
+[
+  {
+    "word": "홉",
+    "translation": "хоп",
+    "hanja": "hop",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홉다",
+    "translation": "хөхөх",
+    "hanja": "홉다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홉뜨다",
+    "translation": "үсрэх",
+    "hanja": null,
+    "pos": "VV",
+    "cefr": "B1"
+  },
+  {
+    "word": "홉스",
+    "translation": "Хоббс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "홉슨",
+    "translation": "хобсон",
+    "hanja": null,
+    "pos": "NNP",
+    "cefr": "C2"
+  },
+  {
+    "word": "홉킨스",
+    "translation": "Хопкинс",
+    "hanja": "Hopkins",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

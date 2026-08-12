@@ -1,0 +1,1556 @@
+[
+  {
+    "word": "배",
+    "translation": "гэдэс, онгоц, лийр",
+    "hanja": "배",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "배가",
+    "translation": "Хоёр дахин нэмэгдэх",
+    "hanja": "倍加",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배가되다",
+    "translation": "нэмэгдэх, үржих",
+    "hanja": "倍加되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배가하다",
+    "translation": "хоёр дахин нэмэгдүүлэх",
+    "hanja": "倍加하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배격",
+    "translation": "татгалзах",
+    "hanja": "排擊",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "배격하다",
+    "translation": "няцаах",
+    "hanja": "排擊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배경",
+    "translation": "дэвсгэр",
+    "hanja": "背景",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배경막",
+    "translation": "тайзны арын хөшиг",
+    "hanja": "背景幕",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배경하다",
+    "translation": "арын дэвсгэр болох, үндэслэх",
+    "hanja": "背景하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배고프다",
+    "translation": "Өлссөн",
+    "hanja": "null",
+    "pos": "adj",
+    "cefr": "A1"
+  },
+  {
+    "word": "배고픔",
+    "translation": "Өлсгөлөн",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "배곯다",
+    "translation": "Өлсөх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배관",
+    "translation": "хоолой, шугам хоолой",
+    "hanja": "配管",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배교",
+    "translation": "шашнаас урвах",
+    "hanja": "背敎",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배교자",
+    "translation": "урвагч",
+    "hanja": "背敎者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배구",
+    "translation": "волейбол",
+    "hanja": "排球",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "배구하다",
+    "translation": "воллейбол тоглох",
+    "hanja": "排球하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배급",
+    "translation": "хуваарилалт",
+    "hanja": "配給",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배급되다",
+    "translation": "хуваарилагдах",
+    "hanja": "配給되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배급량",
+    "translation": "хуваарилалт",
+    "hanja": "配給量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배급소",
+    "translation": "хуваарилах цэг",
+    "hanja": "配給所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배급제",
+    "translation": "Хуваарилалт",
+    "hanja": "配給制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배급하다",
+    "translation": "Түгээх, хуваарилах",
+    "hanja": "配給하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배기가스",
+    "translation": "яндангийн утаа",
+    "hanja": "排氣gas",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배기다",
+    "translation": "тэсвэрлэх, тэсэх",
+    "hanja": "배기다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배기량",
+    "translation": "эзэлхүүн",
+    "hanja": "排氣量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배기통",
+    "translation": "утааны яндан",
+    "hanja": "排氣筒",
+    "pos": "нэр үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "배기하다",
+    "translation": "ялгаруулах; гаргах",
+    "hanja": "排氣하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배까",
+    "translation": "шарваагаар",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배꼽",
+    "translation": "хүйс",
+    "hanja": "배꼽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배꼽티",
+    "translation": "богино цамц",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "배꽃",
+    "translation": "линсний цэцэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배끼다",
+    "translation": "хуулах, хуулбарлах",
+    "hanja": "배끼다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배나무",
+    "translation": "линсний мод",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배낭",
+    "translation": "Үүргэвч",
+    "hanja": "背囊",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "배낭여행",
+    "translation": "рюкзактай аялал",
+    "hanja": "背囊旅行",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배냇머리",
+    "translation": "хүүхдийн төрөлхийн үс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배냇저고리",
+    "translation": "нярай хүүхдийн цамц",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배너",
+    "translation": "баннер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배뇨",
+    "translation": "шээх",
+    "hanja": "排尿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배다",
+    "translation": "Биелүүлэх, жирэмсэн болох",
+    "hanja": "배다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배다르다",
+    "translation": "өөр эхтэй (ах дүү)",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배다리",
+    "translation": "завь гүүр",
+    "hanja": "船다리",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "배달",
+    "translation": "хүргэлт",
+    "hanja": "配達",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배달되다",
+    "translation": "хүргэгдэх",
+    "hanja": "配達되다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "배달부",
+    "translation": "Хүргэгч",
+    "hanja": "配達夫",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배달원",
+    "translation": "хүргэлтийн ажилтан",
+    "hanja": "配達員",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배달하다",
+    "translation": "хүргэх",
+    "hanja": "配達하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배당",
+    "translation": "Хуваарилалт, ногдол хувь",
+    "hanja": "配當",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배당금",
+    "translation": "хуваарилалтын мөнгө",
+    "hanja": "配當金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배당되다",
+    "translation": "Хуваарилагдах, ногдогдох",
+    "hanja": "配當되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배당률",
+    "translation": "ноогдол ашгийн хувь",
+    "hanja": "配當率",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "배당하다",
+    "translation": "хуваарилах",
+    "hanja": "配當하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "배도",
+    "translation": "урвах",
+    "hanja": "背道",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배동",
+    "translation": "Хамтран хөдлөх",
+    "hanja": "陪同",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "배드랜드",
+    "translation": "элэгдэлд орсон газар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배드민턴",
+    "translation": "бадминтон",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "배따라기",
+    "translation": "завины дуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배란",
+    "translation": "өндгөн эс боловсрох",
+    "hanja": "排卵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배란되다",
+    "translation": "өндгөн эс боловсрох/ялгарах",
+    "hanja": "排卵되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배런",
+    "translation": "барон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배럴",
+    "translation": "баррель",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배럿",
+    "translation": "барретт (сумны нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "배려",
+    "translation": "асрах",
+    "hanja": "配慮",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "배려하다",
+    "translation": "Анхаарал хандуулах, хандах",
+    "hanja": "配慮하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배로",
+    "translation": "усан онгоцоор",
+    "hanja": "倍로",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배리",
+    "translation": "ялгаа",
+    "hanja": "bury",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "배리다",
+    "translation": "Муудсан, муухай үнэртэй",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배리어",
+    "translation": "хаалт",
+    "hanja": "배리어",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배멀미",
+    "translation": "далайн өвчин",
+    "hanja": "船멀미",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배민",
+    "translation": "Бэмин (солонгосын хоол хүргэлтийн апп)",
+    "hanja": "배민",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배반",
+    "translation": "урвалт",
+    "hanja": "背叛",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "배반당하다",
+    "translation": "урвуулагдах",
+    "hanja": "背反當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배반자",
+    "translation": "Урвагч",
+    "hanja": "背叛者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배반하다",
+    "translation": "урвах, шарваж мэхлэх",
+    "hanja": "背反",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "배배",
+    "translation": "Мушгих, ороох, эрчилсэн",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배번",
+    "translation": "цуваа дугаар",
+    "hanja": "背番",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "배변",
+    "translation": "өтгөн гадагшлуулах",
+    "hanja": "排便",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배변하다",
+    "translation": "өтгөн гадагшлуулах",
+    "hanja": "排便하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배봉산",
+    "translation": "Баэбонсан (уулын нэр)",
+    "hanja": "拜峰山",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배부",
+    "translation": "түгээлт",
+    "hanja": "配付",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "배부되다",
+    "translation": "хүргэгдэх",
+    "hanja": "配布되다",
+    "pos": "동",
+    "cefr": "B2"
+  },
+  {
+    "word": "배부르다",
+    "translation": "цатгалан байх",
+    "hanja": "배부르다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "배부하다",
+    "translation": "тараах",
+    "hanja": "配付하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배분",
+    "translation": "хуваарилалт",
+    "hanja": "配分",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "배분되다",
+    "translation": "хуваарилагдах",
+    "hanja": "配分되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배분하다",
+    "translation": "хуваарилах",
+    "hanja": "配分하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배불뚝이",
+    "translation": "том гэдэстэй хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배불리",
+    "translation": "Цадах",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배산임수",
+    "translation": "уулын ар талд, усны урд талд",
+    "hanja": "背山臨水",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배상",
+    "translation": "нөхөн төлбөр",
+    "hanja": "賠償",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배상금",
+    "translation": "нөхөн төлбөр",
+    "hanja": "賠償金",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "배상하다",
+    "translation": "нөхөн төлбөр хийх",
+    "hanja": "賠償하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "배색",
+    "translation": "Өнгөний зохицол",
+    "hanja": "配色",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "배색되다",
+    "translation": "өнгө зохицох",
+    "hanja": "配色되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배석",
+    "translation": "хамт суух, зэрэгцэн суух",
+    "hanja": "陪席",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배석하다",
+    "translation": "оролцох",
+    "hanja": "陪席하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배선",
+    "translation": "Утас тавих",
+    "hanja": "配線",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "배설",
+    "translation": "ялгадас",
+    "hanja": "排泄",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "배설되다",
+    "translation": "ялгарах",
+    "hanja": "排泄되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배설물",
+    "translation": "Ялгадас",
+    "hanja": "排泄物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배설하다",
+    "translation": "Ялгаруулах, бие засах",
+    "hanja": "排泄하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배속",
+    "translation": "хуваарилах, томилох",
+    "hanja": "配屬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배속되다",
+    "translation": "хуваарилагдах",
+    "hanja": "配屬되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "배속하다",
+    "translation": "хуваарилах",
+    "hanja": "配屬하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배송",
+    "translation": "хүргэлт",
+    "hanja": "配送",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "배송되다",
+    "translation": "Хүргэгдэх",
+    "hanja": "配送",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배송하다",
+    "translation": "хүргэх",
+    "hanja": "配送하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배수",
+    "translation": "Ус зайлуулах, үржвэр",
+    "hanja": "排水, 倍數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배수구",
+    "translation": "Ус зайлуулах хоолой",
+    "hanja": "排水口",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배수로",
+    "translation": "ус зайлуулах суваг",
+    "hanja": "排水路",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "배수진",
+    "translation": "бүх хүчээ дайчлах, амь хамаагүй тулалдах",
+    "hanja": "背水陣",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배숙",
+    "translation": "линшүүний соус",
+    "hanja": "배熟",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "배스",
+    "translation": "bass (загас), ванн",
+    "hanja": "bass/bath",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배스로브",
+    "translation": "унтлагын хувцас",
+    "hanja": "배스로브",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배시",
+    "translation": "байш",
+    "hanja": "Bashi",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배시시",
+    "translation": "инээмсэглэх нь",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배식",
+    "translation": "хоол хуваарилах",
+    "hanja": "配食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배식구",
+    "translation": "хоол түгээх цонх",
+    "hanja": "配食口",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배식되다",
+    "translation": "Хуваарилагдах, тараагдах (хоол)",
+    "hanja": "配食되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "배식하다",
+    "translation": "хоол хуваарилах",
+    "hanja": "配食하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배신",
+    "translation": "урвалт",
+    "hanja": "背信",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배신감",
+    "translation": "урвалт",
+    "hanja": "背信感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배신당하다",
+    "translation": "урватсан",
+    "hanja": "背信當하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배신자",
+    "translation": "Урвагч",
+    "hanja": "背信者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배신하다",
+    "translation": "урвах",
+    "hanja": "背信하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "배심원",
+    "translation": "тангарагийн шүүгч",
+    "hanja": "陪審員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배씨",
+    "translation": "Бэ овогт",
+    "hanja": "裵氏",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배아",
+    "translation": "Үр хөврөл, эмбрио",
+    "hanja": "胚芽",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "배안",
+    "translation": "хөлөг онгоцны дотор",
+    "hanja": "船안",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배알",
+    "translation": "уулзах, бараалхах",
+    "hanja": "拜謁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배알하다",
+    "translation": "албан ёсоор бараалхах",
+    "hanja": "拜謁하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배앓이",
+    "translation": "гэдэс өвдөх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배액",
+    "translation": "нөхөн олговор",
+    "hanja": "賠額",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "배양",
+    "translation": "өсгөн үржүүлэх",
+    "hanja": "培養",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "배양되다",
+    "translation": "өсгөн хүмүүжүүлэх",
+    "hanja": "培養되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배양하다",
+    "translation": "Өсгөн үржүүлэх",
+    "hanja": "培養하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배어나다",
+    "translation": "урсган гарах, нэвтлэх",
+    "hanja": "배어나다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배어들다",
+    "translation": "шингэх, нэвтрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배역",
+    "translation": "дүр",
+    "hanja": "配役",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배역하다",
+    "translation": "дүр хуваарилах",
+    "hanja": "配役하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배열",
+    "translation": "байршуулалт",
+    "hanja": "配列",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "배열되다",
+    "translation": "жагсаагдах",
+    "hanja": "配列되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배열하다",
+    "translation": "байрлуулах, эрэмбэлэх",
+    "hanja": "配列하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "배영",
+    "translation": "ар нуруугаар сэлэх",
+    "hanja": "背泳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배우",
+    "translation": "жүжигчин",
+    "hanja": "俳優",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배우다",
+    "translation": "сурах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "배우리",
+    "translation": "Ургамал услах",
+    "hanja": "배우리",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "배우자",
+    "translation": "хос, гэр бүлийн хүн",
+    "hanja": "配偶者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배움터",
+    "translation": "Сургалтын газар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배웅",
+    "translation": "үдэх, үдэлт",
+    "hanja": "排送",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배웅하다",
+    "translation": "үдэх",
+    "hanja": "拜送하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배위",
+    "translation": "Координация",
+    "hanja": "配位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배율",
+    "translation": "Өсгөх коэффициент",
+    "hanja": "倍率",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "배은",
+    "translation": "Ачийг умартах, үл хүндэтгэх",
+    "hanja": "背恩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배은망덕",
+    "translation": "буян эс мэдэх",
+    "hanja": "背恩忘德",
+    "pos": "명",
+    "cefr": "C2"
+  },
+  {
+    "word": "배은망덕하다",
+    "translation": "буян мартамхай",
+    "hanja": "背恩忘德하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배음",
+    "translation": "дээд гармоник",
+    "hanja": "倍音",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "배이",
+    "translation": "Булан",
+    "hanja": "bay",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "배이다",
+    "translation": "шингэх, нэвтрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배임",
+    "translation": "итгэмжлэлээ урвах",
+    "hanja": "背任",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배저",
+    "translation": "доор",
+    "hanja": "底",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배전",
+    "translation": "цахилгаан түгээх, хоёр дахин нэмэгдүүлэх",
+    "hanja": "配電",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배점",
+    "translation": "оноо хуваарилах",
+    "hanja": "配點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배정",
+    "translation": "хуваарилалт",
+    "hanja": "配定(배정)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배정되다",
+    "translation": "Хуваарилагдах",
+    "hanja": "配定되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "배정하다",
+    "translation": "Хуваарилах, томилох",
+    "hanja": "配定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배제",
+    "translation": "Хасах",
+    "hanja": "排除",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배제되다",
+    "translation": "Хасагдах",
+    "hanja": "排除되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배제하다",
+    "translation": "хасах, оруулахгүй байх",
+    "hanja": "排除하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배지",
+    "translation": "тэмдэг",
+    "hanja": "badge",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배짱",
+    "translation": "зориг",
+    "hanja": "배짱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배찌",
+    "translation": "тэмдэг",
+    "hanja": "badge",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배차",
+    "translation": "машин хуваарилах",
+    "hanja": "配車",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "배차되다",
+    "translation": "Хуваарилагдах",
+    "hanja": "配車되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배차하다",
+    "translation": "тээврийн хэрэгсэл хуваарилах, машиныг хуваарилах",
+    "hanja": "配車하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배척",
+    "translation": "үгүйсгэх, ялгаварлах",
+    "hanja": "排斥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배척되다",
+    "translation": "хасагдах, үгүйсгэгдэх",
+    "hanja": "排斥되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배척하다",
+    "translation": "хөөж гаргах, ялгаварлан гадуурхах",
+    "hanja": "排斥하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배추",
+    "translation": "байцаа",
+    "hanja": "배추",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배추국",
+    "translation": "байцааны шөл",
+    "hanja": "배추국",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배추김치",
+    "translation": "байцааны кимчи",
+    "hanja": "白菜김치",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "배추흰나비",
+    "translation": "цагаан эрвээхэй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "배출",
+    "translation": "Ялгаруулалт",
+    "hanja": "排出",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "배출구",
+    "translation": "гарах орох зам",
+    "hanja": "排出□",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배출되다",
+    "translation": "ялгарах",
+    "hanja": "排出되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "배출하다",
+    "translation": "ялгаруулах",
+    "hanja": "排出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배춧값",
+    "translation": "байцааны үнэ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배춧국",
+    "translation": "байцааны шөл",
+    "hanja": "배춧국",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배춧잎",
+    "translation": "Байцааны навч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배치",
+    "translation": "байрлуулах",
+    "hanja": "配置",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배치도",
+    "translation": "байршлын зураг, ерөнхий төлөвлөгөө",
+    "hanja": "配置圖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배치되다",
+    "translation": "Байршуулах",
+    "hanja": "配置되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배치하다",
+    "translation": "байрлуулах",
+    "hanja": "配置하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배타",
+    "translation": "ялгаварлан гадуурхах",
+    "hanja": "排他",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배타성",
+    "translation": "хасах шинж чанар",
+    "hanja": "排他性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "배타적",
+    "translation": "онцгой",
+    "hanja": "排他的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배탈",
+    "translation": "Ходоод өвдөх",
+    "hanja": "腹痛",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배탈다",
+    "translation": "хасах, салгах",
+    "hanja": "배탈다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배터",
+    "translation": "배터 (야구 등에서 타자)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배터리",
+    "translation": "зай",
+    "hanja": "battery",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "배턴",
+    "translation": "туг",
+    "hanja": "baton",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배통",
+    "translation": "хэвлий",
+    "hanja": "배筒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배트",
+    "translation": "Бэйсболын цохиур",
+    "hanja": "bat",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배틀",
+    "translation": "Тулаан",
+    "hanja": "battle",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배틀다",
+    "translation": "дайрч хачих, муудах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배틀하다",
+    "translation": "тулалдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배팅",
+    "translation": "мөрий тавих",
+    "hanja": "betting",
+    "pos": "name",
+    "cefr": "B1"
+  },
+  {
+    "word": "배팅하다",
+    "translation": "бооцоо тавих, мөрийцөх",
+    "hanja": "null",
+    "pos": "동사 (Verb)",
+    "cefr": "B1"
+  },
+  {
+    "word": "배편",
+    "translation": "усан онгоцоор",
+    "hanja": "船便",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배포",
+    "translation": "түгээх",
+    "hanja": "配布",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배포되다",
+    "translation": "тараагдах, хуваарилагдах",
+    "hanja": "配布되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배포하다",
+    "translation": "Түгээх, тараах",
+    "hanja": "配布하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배표",
+    "translation": "онгоцны тасалбар",
+    "hanja": "船票",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "배필",
+    "translation": "хос",
+    "hanja": "配匹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배합",
+    "translation": "холих, нийлүүлэх",
+    "hanja": "配合",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배합되다",
+    "translation": "холимогдох",
+    "hanja": "配合되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배합하다",
+    "translation": "холих",
+    "hanja": "配合하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배호",
+    "translation": "хүндэтгэл",
+    "hanja": "拜呼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "배회",
+    "translation": "Тэнүүчлэл",
+    "hanja": "徘徊",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "배회하다",
+    "translation": "Хэсүүчлэх",
+    "hanja": "徘徊하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배후",
+    "translation": "Ар тал",
+    "hanja": "背後",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

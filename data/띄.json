@@ -1,0 +1,44 @@
+[
+  {
+    "word": "띄",
+    "translation": "тууз, зурвас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "띄다",
+    "translation": "харагдах, анзаарагдах",
+    "hanja": "띄다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "띄어쓰기",
+    "translation": "зай авах",
+    "hanja": "띄어쓰기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "띄엄띄엄",
+    "translation": "завсарлагатай",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "띄엄띄엄하다",
+    "translation": "Завсар завсар, тасалдсан, хоорондын зайтай",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "띄우다",
+    "translation": "хөвүүлэх, илгээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

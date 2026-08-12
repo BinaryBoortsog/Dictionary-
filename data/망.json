@@ -1,0 +1,576 @@
+[
+  {
+    "word": "망",
+    "translation": "тор",
+    "hanja": "網",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "망가",
+    "translation": "манга",
+    "hanja": "漫畵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "망가뜨리다",
+    "translation": "эвдэх",
+    "hanja": "망가뜨리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "망가지다",
+    "translation": "эвдрэх",
+    "hanja": "망가지다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "망가트리다",
+    "translation": "эвдэх, сүйтгэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "망각",
+    "translation": "мартах",
+    "hanja": "忘却",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "망각하다",
+    "translation": "ухаангүй байх",
+    "hanja": "忘却하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망간",
+    "translation": "манган",
+    "hanja": "mangane",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망건",
+    "translation": "манггон (хуучин Солонгосын үсний торгон тор)",
+    "hanja": "網巾",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "망고",
+    "translation": "манго",
+    "hanja": "없음",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "망고스틴",
+    "translation": "мангостан",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "망구",
+    "translation": "өмнөх үеийн зүйл",
+    "hanja": "罔久",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "망국",
+    "translation": "улс уналт, сүйрэл",
+    "hanja": "亡國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망그러지다",
+    "translation": "бутрах",
+    "hanja": "망그러지다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망극",
+    "translation": "Хязгааргүй, дээд зэргийн",
+    "hanja": "罔極",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "망극하다",
+    "translation": "хязгааргүй, хэт их",
+    "hanja": "罔極하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "망나니",
+    "translation": "залхуу, муухай ааштай хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망나니짓",
+    "translation": "Муухай ааш, тэнэг үйлдэл",
+    "hanja": "罔那尼짓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망내",
+    "translation": "отгон, бага",
+    "hanja": "末內",
+    "pos": "м.н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "망년회",
+    "translation": "Шинэ жилийн баяр",
+    "hanja": "忘年會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망대",
+    "translation": "харуул, цамхаг",
+    "hanja": "望臺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망돌",
+    "translation": "нунтаглах машин, гурилын тээрэм",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망동",
+    "translation": "Мунхаг үйлдэл",
+    "hanja": "妄動",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "망둑어",
+    "translation": "хавч загас",
+    "hanja": "망둑어",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "망둥이",
+    "translation": "загас (Gobio)",
+    "hanja": "망둥이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "망라되다",
+    "translation": "бүхнийг багтаах, бүхнийг хамрах",
+    "hanja": "網羅되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망라하다",
+    "translation": "Бүгдийг хамрах",
+    "hanja": "網羅하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망량",
+    "translation": "сүнс, чөтгөр",
+    "hanja": "魍魎",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "망령",
+    "translation": "сүнс",
+    "hanja": "亡靈",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "망령되다",
+    "translation": "солиотой, ухаан муутай",
+    "hanja": "罔靈되다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "망령되이",
+    "translation": "ухаангүйгээр",
+    "hanja": "妄靈되이",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망루",
+    "translation": "ажиглалтын цамхаг",
+    "hanja": "望樓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망막",
+    "translation": "торлог бүрхэвч",
+    "hanja": "網膜",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "망망대해",
+    "translation": "уудам том далай",
+    "hanja": "茫茫大海",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망망하다",
+    "translation": "уудам, хязгааргүй",
+    "hanja": "茫茫하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망명",
+    "translation": "Орогнох",
+    "hanja": "亡命",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망명자",
+    "translation": "дүрвэгч",
+    "hanja": "亡命者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망명하다",
+    "translation": "орогнох",
+    "hanja": "亡命하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "망발",
+    "translation": "Улс төрийн буруу үйлдэл (мангал)",
+    "hanja": "妄發",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망보",
+    "translation": "хянаж байх",
+    "hanja": "望報",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망보다",
+    "translation": "манах",
+    "hanja": "望보다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "망부석",
+    "translation": "нөхрөө хүлээн чулуу болон хувирсан эмэгтэй",
+    "hanja": "望夫石",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "망사",
+    "translation": "торгомсог, тор",
+    "hanja": "망사(網紗)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망상",
+    "translation": "хуурмаг төсөөлөл, хий юм",
+    "hanja": "妄想",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "망상어",
+    "translation": "Олноор нисдэг загас",
+    "hanja": "網狀魚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망상하다",
+    "translation": "төсөөлөх, хий юм үзэх",
+    "hanja": "妄想하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망설",
+    "translation": "эргэлзээ, шийдэмгий бус байдал",
+    "hanja": "罔說",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "망설이다",
+    "translation": "эргэлзэх, хойшлуулах",
+    "hanja": "망설이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "망설임",
+    "translation": "эрэлхийлэх",
+    "hanja": "躊躇",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "망신",
+    "translation": "Ичгүүр, нэр төр унах",
+    "hanja": "亡身",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "망신당하다",
+    "translation": "ичгүүрт орох",
+    "hanja": "M恥辱당하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "망신살",
+    "translation": "ичих зовних явдал",
+    "hanja": "亡身殺",
+    "pos": "명",
+    "cefr": "C2"
+  },
+  {
+    "word": "망신스럽다",
+    "translation": "ичгүүртэй, нүүр хугарах",
+    "hanja": "亡身스럽다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "망신시키다",
+    "translation": "ичгүүр төрүүлэх, нэр төрийг нь гутаах",
+    "hanja": "亡身시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망아지",
+    "translation": "Унага",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "망언",
+    "translation": "Худал яриа",
+    "hanja": "妄言",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망언하다",
+    "translation": "утга учиргүй ярих, хоосон ярих",
+    "hanja": "妄言하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망연자실",
+    "translation": "гайхаж орхих, сандрах",
+    "hanja": "茫然自失",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망연자실하다",
+    "translation": "Гайхаж алдах",
+    "hanja": "茫然自失",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "망연하다",
+    "translation": "алмайрах",
+    "hanja": "茫然하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "망연히",
+    "translation": "гайхшран",
+    "hanja": "망연히(茫然히)",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망우",
+    "translation": "Уйдлыг мартах",
+    "hanja": "忘憂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망우리",
+    "translation": "Мангүри (газар зүйн нэр)",
+    "hanja": "忘憂里",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "망울",
+    "translation": "Бөөрөнхий, бөмбөлөг, цэцгийн нахиа",
+    "hanja": "망울",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "망원",
+    "translation": "дуран",
+    "hanja": "望遠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망원경",
+    "translation": "Дуран",
+    "hanja": "망원경 (望遠鏡)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망자",
+    "translation": "нас барагч",
+    "hanja": "亡者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망작",
+    "translation": "амжилтгүй бүтээл",
+    "hanja": "亡作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망정",
+    "translation": "Бурхан минь, аз болоход (сайн зүйл болсон үед хэрэглэнэ)",
+    "hanja": "幸",
+    "pos": "의존명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망조",
+    "translation": "мөхлийн шинж",
+    "hanja": "亡兆",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "망종",
+    "translation": "хадлангийн улирал (хятадын хуанли)",
+    "hanja": "芒種",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "망측스럽다",
+    "translation": "ичгүүртэй, зохисгүй",
+    "hanja": "罔測스럽다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "망측하다",
+    "translation": "ичгүүртэй, зохисгүй",
+    "hanja": "罔測하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망치",
+    "translation": "алх",
+    "hanja": "망치",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "망치다",
+    "translation": "сүйрүүлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "망치질",
+    "translation": "алхаар цохих",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "망치질하다",
+    "translation": "Алх цохих",
+    "hanja": "망치질하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "망태",
+    "translation": "утсан тор",
+    "hanja": "網太",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "망토",
+    "translation": "нөмрөг",
+    "hanja": "망토",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "망통",
+    "translation": "хүчгүй",
+    "hanja": "亡通",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "망하다",
+    "translation": "дампуурах, сүйрэх",
+    "hanja": "亡하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "망향",
+    "translation": "гэрийнхнийгээ санагалзах",
+    "hanja": "望鄕",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

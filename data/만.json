@@ -1,0 +1,779 @@
+[
+  {
+    "word": "만",
+    "translation": "зөвхөн, л",
+    "hanja": "만",
+    "pos": "조사",
+    "cefr": "A2"
+  },
+  {
+    "word": "만감",
+    "translation": "олон санаа, мэдрэмж",
+    "hanja": "萬感",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "만개하다",
+    "translation": "дүүрэн дэлгэрэх",
+    "hanja": "滿開하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만고",
+    "translation": "мөнхөд, үргэлжид",
+    "hanja": "萬古",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만고불변",
+    "translation": "үүрдийн хувирашгүй",
+    "hanja": "萬古不變",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "만곡",
+    "translation": "муруйлт",
+    "hanja": "彎曲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만국기",
+    "translation": "бүх орны далбаа",
+    "hanja": "萬國旗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만기",
+    "translation": "хугацаа дуусах",
+    "hanja": "滿期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만기일",
+    "translation": "хугацаа дуусах өдөр",
+    "hanja": "滿期日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만끽",
+    "translation": "бүрэн эдлэх, баярлах",
+    "hanja": "滿喫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만끽하다",
+    "translation": "бялхах, дүүрэн мэдрэх",
+    "hanja": "滿喫하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만나",
+    "translation": "манна",
+    "hanja": "만나",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만나다",
+    "translation": "Уулзах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "만남",
+    "translation": "уулзалт",
+    "hanja": "만남",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "만년설",
+    "translation": "мөнхийн цас",
+    "hanja": "萬年雪",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "만년필",
+    "translation": "Үзэг",
+    "hanja": "萬年筆",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "만능",
+    "translation": "бүх зүйлд авьяастай",
+    "hanja": "萬能",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만다린",
+    "translation": "мандарин, мандарины хятад хэл",
+    "hanja": "만다린",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만달레이",
+    "translation": "Мандалай (хот)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "만담",
+    "translation": "хошин яриа",
+    "hanja": "漫談",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만담하다",
+    "translation": "хошин шог ярих",
+    "hanja": "漫談하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만덕",
+    "translation": "Мандок",
+    "hanja": "萬德",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "만두국",
+    "translation": "банштай шөл",
+    "hanja": "만頭局",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "만두소",
+    "translation": "буузны амтлагч, баншны амтлагч",
+    "hanja": "饅頭素",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "만두피",
+    "translation": "Баншны гурил",
+    "hanja": "만두皮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만둣국",
+    "translation": "банштай шөл",
+    "hanja": "만둣국",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "만둣집",
+    "translation": "баншны газар",
+    "hanja": "饅頭집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "만드레",
+    "translation": "задгай, чөлөөтэй",
+    "hanja": "만드레",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만드르다",
+    "translation": "хийх, бүтээх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "만득",
+    "translation": "Мандык",
+    "hanja": "萬得",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "만들다",
+    "translation": "хийх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "만듦새",
+    "translation": "хийц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만땅",
+    "translation": "бүрэн дүүрэн",
+    "hanja": "滿땅",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만료",
+    "translation": "хугацаа дуусах",
+    "hanja": "滿了",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만료되다",
+    "translation": "хугацаа дуусах",
+    "hanja": "滿了되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만료일",
+    "translation": "хугацаа дуусах огноо",
+    "hanja": "滿了日",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "만루",
+    "translation": "бэйсболын бөмбөгний талбай дүүрэн",
+    "hanja": "滿壘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만류하다",
+    "translation": "Хүсэлтийг татгалзах",
+    "hanja": "挽留하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "만리경",
+    "translation": "дуран",
+    "hanja": "萬里鏡",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만만찮다",
+    "translation": "Амар биш",
+    "hanja": "萬萬찮다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만만하다",
+    "translation": "Хялбар, амархан",
+    "hanja": "만만하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만만히",
+    "translation": "хялбархан, дутуу үнэлж",
+    "hanja": "만만히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만면",
+    "translation": "бүхэл нүүр, царай дүүрэн",
+    "hanja": "滿面",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만면하다",
+    "translation": "дүүрэн байх, бүхэлдээ байх",
+    "hanja": "滿面하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만명",
+    "translation": "арван мянган хүн",
+    "hanja": "萬名",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "만무하다",
+    "translation": "боломжгүй, магадгүй",
+    "hanja": "萬無하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만물박사",
+    "translation": "олон зүйлийн мэдлэгтэй хүн",
+    "hanja": "萬物博士",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만물상",
+    "translation": "олон төрлийн барааны дэлгүүр, бүх зүйлийн дэлгүүр",
+    "hanja": "萬物商",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만민",
+    "translation": "бүх хүн, бүх ард түмэн",
+    "hanja": "萬民",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만발하다",
+    "translation": "дүүрэн цэцэглэх",
+    "hanja": "滿發하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "만병통치",
+    "translation": "бүх өвчний эм",
+    "hanja": "萬病通治",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만병통치약",
+    "translation": "бүх өвчний эм",
+    "hanja": "萬病通治藥",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "만사형통",
+    "translation": "бүх зүйл сайхан сайхан болох",
+    "hanja": "萬事亨通",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "만생",
+    "translation": "хожуу төрсөн",
+    "hanja": "晩生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만석꾼",
+    "translation": "Их хөрөнгөтэй хүн",
+    "hanja": "萬石꾼",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "만성병",
+    "translation": "архаг өвчин",
+    "hanja": "慢性病",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "만성적",
+    "translation": "Архаг, ужиг",
+    "hanja": "慢性적",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만성화되다",
+    "translation": "архагших",
+    "hanja": "慢性化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만세",
+    "translation": "мөнх наслах",
+    "hanja": "萬歲",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만수무강",
+    "translation": "урт удаан наслах",
+    "hanja": "萬壽無疆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만수무강하다",
+    "translation": "урт удаан наслах",
+    "hanja": "萬壽無疆하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "만수위",
+    "translation": "дүүрэн усны түвшин",
+    "hanja": "滿水位",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "만숙",
+    "translation": "бүрэн боловсрох",
+    "hanja": "晩熟",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "만시지탄",
+    "translation": "만시지탄",
+    "hanja": "晩時之歎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만신",
+    "translation": "бөө",
+    "hanja": "卍神",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "만신창이",
+    "translation": "бүх бие нь гэмтсэн, маш их бэртэлтэй",
+    "hanja": "滿身瘡痍",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "만아",
+    "translation": "маань (нэгжийн нэр)",
+    "hanja": "萬兒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만악",
+    "translation": "Бүх муу муухай",
+    "hanja": "萬惡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만약",
+    "translation": "хэрвээ",
+    "hanja": "萬若",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만연",
+    "translation": "тархалт",
+    "hanja": "蔓延",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만연되다",
+    "translation": "Тархах, дэлгэрэх",
+    "hanja": "蔓延되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만연하다",
+    "translation": "тархах",
+    "hanja": "만연하다(蔓延하다)",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "만왕",
+    "translation": "Хаан бүхэн",
+    "hanja": "萬王",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "만요슈",
+    "translation": "Манъёошүү",
+    "hanja": "萬葉集",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "만용",
+    "translation": "бардам зориг",
+    "hanja": "蠻勇",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "만우절",
+    "translation": "Дөрөвдүгээр сарын 1-ний баяр",
+    "hanja": "萬愚節",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만원하다",
+    "translation": "дүүрэн",
+    "hanja": "滿員하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만유",
+    "translation": "бүх зүйл",
+    "hanja": "萬有",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "만유인력",
+    "translation": "бүх нийтийн таталцлын хүч",
+    "hanja": "萬有引力",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "만인지상",
+    "translation": "хүн бүрээс дээгүүр",
+    "hanja": "萬人之上",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "만장일치",
+    "translation": "Бүх нийтээр санал нэгдэх",
+    "hanja": "滿場一致",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "만족감",
+    "translation": "сэтгэл ханамж",
+    "hanja": "滿足感",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "만족도",
+    "translation": "сэтгэл ханамж",
+    "hanja": "滿足度",
+    "pos": "NOUN",
+    "cefr": "B1"
+  },
+  {
+    "word": "만족되다",
+    "translation": "Сэтгэл хангалуун байх",
+    "hanja": "滿足되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "만족스럽다",
+    "translation": "сэтгэл хангалуун",
+    "hanja": "滿足스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만족스레",
+    "translation": "сэтгэл хангалуун",
+    "hanja": "滿足스레",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만족시키다",
+    "translation": "сэтгэл хангалуун байлгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만족하다",
+    "translation": "Сэтгэл хангалуун байх",
+    "hanja": "滿足하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "만지다",
+    "translation": "Хүрэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "만지작거리다",
+    "translation": "илэх, оролдох",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "만지작대다",
+    "translation": "байнга оролдох, тэмтрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만지작만지작",
+    "translation": "Илж таалж, байнга хүрэх",
+    "hanja": "만지작만지작",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만지작만지작하다",
+    "translation": "үргэлж барих, оролдох",
+    "hanja": "만지작만지작하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만찢남",
+    "translation": "Мангаснаас гарч ирсэн мэт залуу",
+    "hanja": null,
+    "pos": "신조어",
+    "cefr": "B2"
+  },
+  {
+    "word": "만찢녀",
+    "translation": "комик номоос гарч ирсэн эмэгтэй",
+    "hanja": "漫찢녀",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "만찬",
+    "translation": "оройн зоог",
+    "hanja": "晩餐",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만찬회",
+    "translation": "оройн зоог",
+    "hanja": "晩餐會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만취",
+    "translation": "согтох",
+    "hanja": "滿醉",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "만취되다",
+    "translation": "согтох",
+    "hanja": "滿醉되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "만취하다",
+    "translation": "согтуурах",
+    "hanja": "滿醉하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만큼",
+    "translation": "Түүний хэмжээнд, шиг",
+    "hanja": null,
+    "pos": "Particle",
+    "cefr": "B2"
+  },
+  {
+    "word": "만트라",
+    "translation": "мантра",
+    "hanja": "mantra",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "만하다",
+    "translation": "хүрэлцэх, зохих",
+    "hanja": null,
+    "pos": "보조형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만행",
+    "translation": "харгислал",
+    "hanja": " manhaeng",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "만혼",
+    "translation": "хожуу гэрлэлт",
+    "hanja": "晩婚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "만화",
+    "translation": "хүүхэлдэйн кино",
+    "hanja": "漫畫",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "만화가",
+    "translation": "хүүхэлдэйн киноны зураач",
+    "hanja": "漫畫家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만화경",
+    "translation": "калейдоскоп",
+    "hanja": "萬華鏡",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만화방",
+    "translation": "манганы дэлгүүр",
+    "hanja": "漫畫房",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "만화책",
+    "translation": "комик ном, манга ном",
+    "hanja": "漫畫冊",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "만회하다",
+    "translation": "сэргээн босгох, нөхөх",
+    "hanja": "挽回하다",
+    "pos": "동사",
+    "cefr": "C1"
+  }
+]

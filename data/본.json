@@ -1,0 +1,667 @@
+[
+  {
+    "word": "본",
+    "translation": "үндсэн",
+    "hanja": "本",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "본가",
+    "translation": "үндсэн гэр",
+    "hanja": "本家",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "본거지",
+    "translation": "гол бааз",
+    "hanja": "本據地",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "본건",
+    "translation": "Энэ хэрэг, энэхүү асуудал",
+    "hanja": "本件",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "본격",
+    "translation": "жинхэнэ, бүрэн хэмжээний",
+    "hanja": "本格",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "본격적",
+    "translation": "жинхэнэ",
+    "hanja": "本格的",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본격화",
+    "translation": "Идэвхжих, жинхэнэ утгаараа эхлэх",
+    "hanja": "本格化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본격화되다",
+    "translation": "эрчимжих",
+    "hanja": "本格化되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "본격화하다",
+    "translation": "идэвхжүүлэх",
+    "hanja": "本格化하다",
+    "pos": "үйл үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "본고장",
+    "translation": "төрөлх нутаг, эх орон",
+    "hanja": "本고장",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "본과",
+    "translation": "Үндсэн хичээл, үндсэн курс",
+    "hanja": "本科",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "본관",
+    "translation": "үндсэн барилга",
+    "hanja": "本館",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "본교",
+    "translation": "энэ сургууль",
+    "hanja": "本校",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본국",
+    "translation": "Эх орон",
+    "hanja": "本國",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "본궁",
+    "translation": "үндсэн ордон",
+    "hanja": "本宮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본궤도",
+    "translation": "хэвийн байдал",
+    "hanja": "本軌道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본기",
+    "translation": "Уг түүх",
+    "hanja": "本紀",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "본길",
+    "translation": "본길 (원래의 길)",
+    "hanja": "本길",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "본네트",
+    "translation": "машины бүрхүүл (капот)",
+    "hanja": "본네트",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "본능",
+    "translation": "зөн совин",
+    "hanja": "本能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본능적",
+    "translation": "өнчин",
+    "hanja": "本能的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본당",
+    "translation": "үндсэн танхим",
+    "hanja": "本堂",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "본도",
+    "translation": "хүнхэр",
+    "hanja": "本道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본동",
+    "translation": "гол барилга",
+    "hanja": "本棟",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "본드",
+    "translation": "Цавуу",
+    "hanja": "본드",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "본디",
+    "translation": "Анхдагч",
+    "hanja": "본디",
+    "pos": "тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "본딩",
+    "translation": "наалт",
+    "hanja": "본딩",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본때",
+    "translation": "жишээр харуулах",
+    "hanja": "본때",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "본뜨다",
+    "translation": "дэлгэх, хэвлэх, хуулах",
+    "hanja": "본뜨다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본뜻",
+    "translation": "үндсэн утга",
+    "hanja": "本뜻",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본래",
+    "translation": "анхнаасаа",
+    "hanja": "本來",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "본령",
+    "translation": "үндсэн зорилго",
+    "hanja": "本領",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "본론",
+    "translation": "үндсэн агуулга",
+    "hanja": "本論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본루",
+    "translation": "үндсэн бааз",
+    "hanja": "本壘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "본류",
+    "translation": "гол урсгал",
+    "hanja": "本流",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본말",
+    "translation": "үндсэн ба төгсгөл",
+    "hanja": "本末",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본명",
+    "translation": "жинхэнэ нэр",
+    "hanja": "本名",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "본모습",
+    "translation": "жинхэнэ дүр төрх",
+    "hanja": "本모습",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본문",
+    "translation": "үндсэн эх",
+    "hanja": "本文",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "본바탕",
+    "translation": "Уг чанар",
+    "hanja": "本바탕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본받다",
+    "translation": "үлгэр жишээ авах",
+    "hanja": "本받다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "본방",
+    "translation": "Үндсэн нэвтрүүлэг",
+    "hanja": "本放",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본보",
+    "translation": "Загвар",
+    "hanja": "本本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본부",
+    "translation": "Төв байр",
+    "hanja": "本部",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "본부석",
+    "translation": "удирдлагын суудал",
+    "hanja": "本部席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본부인",
+    "translation": "Эхнэр, үндсэн эхнэр",
+    "hanja": "本夫人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본분",
+    "translation": "үүрэг",
+    "hanja": "本分",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본사",
+    "translation": "төв байр, толгой оффис",
+    "hanja": "本社",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "본산",
+    "translation": "гол сүм",
+    "hanja": "本山",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본상",
+    "translation": "Үндсэн шагнал",
+    "hanja": "本賞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본새",
+    "translation": "Хэлбэр, харагдах байдал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본색",
+    "translation": "Жинхэнэ өнгө, жинхэнэ дүр төрх",
+    "hanja": "本色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본서",
+    "translation": "энэ ном",
+    "hanja": "本書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본선",
+    "translation": "эцсийн шат",
+    "hanja": "本選",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "본성",
+    "translation": "угийн чанар",
+    "hanja": "本性",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "본소",
+    "translation": "үндсэн газар, уугуул газар",
+    "hanja": "本所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본시",
+    "translation": "Урьд нь, анхнаасаа",
+    "hanja": "本始",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본식",
+    "translation": "гол ёслол",
+    "hanja": "本式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본심",
+    "translation": "Жинхэнэ сэтгэл",
+    "hanja": "本心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본안",
+    "translation": "Гол асуудал",
+    "hanja": "本案",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본업",
+    "translation": "гол ажил",
+    "hanja": "本業",
+    "pos": "м.н",
+    "cefr": "B1"
+  },
+  {
+    "word": "본연",
+    "translation": "уугуул, жинхэнэ байдал",
+    "hanja": "本然",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "본영",
+    "translation": "үндсэн бааз",
+    "hanja": "本營",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본원",
+    "translation": "гол эмнэлэг, төв газар",
+    "hanja": "本院",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "본위",
+    "translation": "үндсэн",
+    "hanja": "本位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본의",
+    "translation": "жинхэнэ утга, зорилго",
+    "hanja": "本意",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본인",
+    "translation": "өөрийн бие",
+    "hanja": "本人",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "본작",
+    "translation": "энэ бүтээл",
+    "hanja": "本",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본장",
+    "translation": "үндсэн бүлэг",
+    "hanja": "本章",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본적",
+    "translation": "төрсөн газар",
+    "hanja": "本籍",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "본적지",
+    "translation": "төрсөн газар",
+    "hanja": "本籍地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본전",
+    "translation": "Анхны хөрөнгө, үндсэн мөнгө",
+    "hanja": "本錢",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "본전치기",
+    "translation": "Зардалаа нөхөх, алдагдалгүй байх",
+    "hanja": "本錢치기",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본점",
+    "translation": "төв салбар",
+    "hanja": "本店",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "본정",
+    "translation": "үндсэн зөв",
+    "hanja": "本町",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본좌",
+    "translation": "энэ суудал, өөрийгөө өргөмжилөх нэр",
+    "hanja": "本座",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "본주",
+    "translation": "үндсэн муж",
+    "hanja": "本州",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "본지",
+    "translation": "энэ сонин",
+    "hanja": "本地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본진",
+    "translation": "Үндсэн байршил",
+    "hanja": "本陣",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "본질",
+    "translation": "мөн чанар, үндсэн шинж",
+    "hanja": "本質",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본질적",
+    "translation": "үндсэн",
+    "hanja": "本質的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본채",
+    "translation": "гол байшин",
+    "hanja": "本宅",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "본처",
+    "translation": "үндсэн эхнэр",
+    "hanja": "本妻",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "본청",
+    "translation": "гол алба",
+    "hanja": "本廳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본체",
+    "translation": "үндсэн бие",
+    "hanja": "本體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본체만체",
+    "translation": "Үл тоомсорлох",
+    "hanja": "本體漫體",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "본체만체하다",
+    "translation": "үл тоомсорлох",
+    "hanja": "本體瞞體하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본촌",
+    "translation": "үндсэн тосгон",
+    "hanja": "本村",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본토",
+    "translation": "Эх газар",
+    "hanja": "本土",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "본판",
+    "translation": "эх хувь",
+    "hanja": "本版",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "본편",
+    "translation": "Үндсэн анги, гол хэсэг",
+    "hanja": "本篇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본품",
+    "translation": "үндсэн бүтээгдэхүүн",
+    "hanja": "本品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "본향",
+    "translation": "эх нутаг",
+    "hanja": "本鄕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "본회",
+    "translation": "энэ хурал, энэ чуулган",
+    "hanja": "本會",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "본회의",
+    "translation": "Бүгд хурал",
+    "hanja": "本會議",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

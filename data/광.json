@@ -1,0 +1,954 @@
+[
+  {
+    "word": "광",
+    "translation": "агуулах, талбай",
+    "hanja": "廣",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "광각",
+    "translation": "өргөн өнцөг",
+    "hanja": "廣角",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광개토왕",
+    "translation": "Куангето хаан",
+    "hanja": "廣開土王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광견",
+    "translation": "Галзуу нохой",
+    "hanja": "狂犬",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "광견병",
+    "translation": "галзуу өвчин",
+    "hanja": "狂犬病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광경",
+    "translation": "үзэгдэл",
+    "hanja": "光景",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "광고",
+    "translation": "зар сурталчилгаа",
+    "hanja": "廣告",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광고란",
+    "translation": "зар сурталчилгааны булан",
+    "hanja": "廣告欄",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광고료",
+    "translation": "сурталчилгааны төлбөр",
+    "hanja": "廣告料",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "광고문",
+    "translation": "зар сурталчилгааны бичиг",
+    "hanja": "廣告文",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "광고비",
+    "translation": "сурталчилгааны зардал",
+    "hanja": "廣告費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광고인",
+    "translation": "сурталчлагч",
+    "hanja": "廣告人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광고주",
+    "translation": "Зар сурталчилгааны захиалагч",
+    "hanja": "廣告主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광고판",
+    "translation": "сурталчилгааны самбар",
+    "hanja": "廣告板",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광고하다",
+    "translation": "зар сурталчилгаа хийх",
+    "hanja": "廣告하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "광공업",
+    "translation": "Уул уурхай, аж үйлдвэр",
+    "hanja": "鑛工業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광광",
+    "translation": "Чанга дуугарах (уйлах, орилох)",
+    "hanja": "",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "광교",
+    "translation": "Квангё (газарзүйн нэр)",
+    "hanja": "光敎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광구",
+    "translation": "уурхайн талбай",
+    "hanja": "鑛區",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "광군제",
+    "translation": "ганц биечүүдийн баяр (хятадын хямдралтай өдөр)",
+    "hanja": "光棍節",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광기",
+    "translation": "Солиорол",
+    "hanja": "狂氣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광나다",
+    "translation": "Гэрэлтэх",
+    "hanja": "光나다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광내다",
+    "translation": "гялалзуулах",
+    "hanja": "光내다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광녀",
+    "translation": "солиотой эмэгтэй",
+    "hanja": "狂女",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광년",
+    "translation": "гэрлийн жил",
+    "hanja": "光年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광대",
+    "translation": "алиалагч",
+    "hanja": "廣大",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "광대놀음",
+    "translation": "жүжигчний тоглолт",
+    "hanja": "廣大놀음",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광대무변하다",
+    "translation": "өргөн уудам, хязгааргүй",
+    "hanja": "廣大無邊하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광대뼈",
+    "translation": "Шанааны яс",
+    "hanja": "顴骨",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광대하다",
+    "translation": "асар том",
+    "hanja": "廣大하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광덕",
+    "translation": "өргөн буян",
+    "hanja": "廣德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광도",
+    "translation": "гэрлийн эрчим",
+    "hanja": "光度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광동",
+    "translation": "Гуандун (мужийн нэр)",
+    "hanja": "廣東",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광둥",
+    "translation": "Гуандун",
+    "hanja": "廣東",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "광란",
+    "translation": "галзуурах",
+    "hanja": "狂亂",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "광란하다",
+    "translation": "галзуурах",
+    "hanja": "狂亂하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광량",
+    "translation": "гэрлийн хэмжээ",
+    "hanja": "光量",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광력",
+    "translation": "гэрлийн хүч",
+    "hanja": "光力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광릉",
+    "translation": "Куаннын",
+    "hanja": "光陵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광막하다",
+    "translation": "уудмыг, өргөн уудам",
+    "hanja": "廣漠하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광맥",
+    "translation": "эрдэсийн судал",
+    "hanja": "鑛脈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광명",
+    "translation": "Гэрэл гэгээ",
+    "hanja": "光明",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "광명성",
+    "translation": "гэгээнтэн од",
+    "hanja": "光明星",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "광명하다",
+    "translation": "гэрэл гэгээтэй",
+    "hanja": "光明하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광모",
+    "translation": "өнөөдөр (хуучирсан)",
+    "hanja": "廣謨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광목",
+    "translation": "даавуун материал",
+    "hanja": "廣木",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광무",
+    "translation": "1897 оноос 1907 он хүртэлх он тоолол",
+    "hanja": "光武",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광물",
+    "translation": "ашигт малтмал",
+    "hanja": "鑛物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광물성",
+    "translation": "эрдэс",
+    "hanja": "鑛物性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광물질",
+    "translation": "Ашигт малтмал",
+    "hanja": "鑛物質",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광미",
+    "translation": "гэрлийн сүүл",
+    "hanja": "光尾",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광배",
+    "translation": "гэрлийн цацраг, halo",
+    "hanja": "光背",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광범위",
+    "translation": "өргөн хүрээний",
+    "hanja": "廣範圍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광범위하다",
+    "translation": "өргөн хүрээтэй",
+    "hanja": "廣範圍하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "광범하다",
+    "translation": "өргөн хүрээний",
+    "hanja": "廣汎하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광복",
+    "translation": "тусгаар тогтнол, эрх чөлөө",
+    "hanja": "光復",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광복군",
+    "translation": "Чөлөөлөх арми",
+    "hanja": "光復軍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광복되다",
+    "translation": "чөлөөлөгдөх",
+    "hanja": "光復되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광복절",
+    "translation": "тусгаар тогтнолын өдөр",
+    "hanja": "光復節",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광부",
+    "translation": "уурхайчин",
+    "hanja": "鑛夫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광분",
+    "translation": "галзуурах; уурлах",
+    "hanja": "狂奔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광분하다",
+    "translation": "галзуурах",
+    "hanja": "狂奔하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "광산",
+    "translation": "уурхай",
+    "hanja": "鑛山",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광산업",
+    "translation": "уул уурхайн аж үйлдвэр",
+    "hanja": "鑛産業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광산촌",
+    "translation": "уурхайн тосгон",
+    "hanja": "鑛山村",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광석",
+    "translation": "хүдэр",
+    "hanja": "鑛石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광선",
+    "translation": "Гэрлийн туяа",
+    "hanja": "光線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광섬유",
+    "translation": "шилэн кабель",
+    "hanja": "光纖維",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광성보",
+    "translation": "Квансонбо",
+    "hanja": "廣城堡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광소",
+    "translation": "хөнгөн инээмсэглэх",
+    "hanja": "狂笑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광속",
+    "translation": "гэрлийн хурд",
+    "hanja": "光速",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광쇠",
+    "translation": "төмөр шүд",
+    "hanja": "광쇠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광수",
+    "translation": "гэрлийн хурд",
+    "hanja": "光速",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광수용체",
+    "translation": "фоторецептор",
+    "hanja": "光受容器",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광시",
+    "translation": "хагас шүлэг",
+    "hanja": "광시",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광식",
+    "translation": "өргөн хэлбэр",
+    "hanja": "廣式",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "광신",
+    "translation": "Мунхаг сүсэг бишрэл",
+    "hanja": "狂信",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광신도",
+    "translation": "шашин шүтлэг",
+    "hanja": "광신도(狂信徒)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광신자",
+    "translation": "фанатик",
+    "hanja": "狂信者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광신적",
+    "translation": "фанатик",
+    "hanja": "狂信的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "광야",
+    "translation": "элэн талбай",
+    "hanja": "曠野",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광양",
+    "translation": "Гванъян (газар зүйн нэр)",
+    "hanja": "光陽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광양하다",
+    "translation": "гэрэлтүүлэх, туяаруулах",
+    "hanja": "光揚하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "광어",
+    "translation": "халзан загас",
+    "hanja": "廣魚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광업",
+    "translation": "уул уурхай",
+    "hanja": "鑛業",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광역",
+    "translation": "өргөн хүрээ",
+    "hanja": "廣域",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광역시",
+    "translation": "их хот",
+    "hanja": "廣域市",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광열",
+    "translation": "гэрэл ба дулаан",
+    "hanja": "光熱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광열비",
+    "translation": "гэрэл, дулааны зардал",
+    "hanja": "光熱費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광영",
+    "translation": "алдар суу",
+    "hanja": "光榮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광우",
+    "translation": "галзуу үхэр",
+    "hanja": "狂牛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광원",
+    "translation": "гэрлийн эх үүсвэр",
+    "hanja": "光源",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광음",
+    "translation": "гэрэл, дуу чимээ",
+    "hanja": "光陰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광인",
+    "translation": "галзуу хүн",
+    "hanja": "狂人",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "광자",
+    "translation": "фотон",
+    "hanja": "光子",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "광장",
+    "translation": "талбай",
+    "hanja": "廣場",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "광재",
+    "translation": "шлак",
+    "hanja": "鑛滓",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "광저우",
+    "translation": "Гуанжоу (Хятадын хот)",
+    "hanja": "廣州",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "광적",
+    "translation": "галзуу, хэтрүүлсэн",
+    "hanja": "狂的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "광점",
+    "translation": "гэрлийн цэг",
+    "hanja": "光點",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광조",
+    "translation": "түймэр, хэт их урам зоригтой",
+    "hanja": "狂躁",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "광종",
+    "translation": "Кванжун (солонгосын хааны нэр)",
+    "hanja": "光宗",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광주",
+    "translation": "Куанжу (хот)",
+    "hanja": "光州",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "광주리",
+    "translation": "сагс",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "광주시장",
+    "translation": "Кванжу хотын дарга",
+    "hanja": "光州市場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광주시청",
+    "translation": "гванжу хотын захиргаа",
+    "hanja": "光州市廳",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "광증",
+    "translation": "галзуурал, солиорол",
+    "hanja": "狂症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광진",
+    "translation": "Куанжин (газарзүйн нэр)",
+    "hanja": "廣津",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "광질",
+    "translation": "эрдэс",
+    "hanja": "鑛質",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광차",
+    "translation": "гондоол",
+    "hanja": "鑛車",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광채",
+    "translation": "Гялалзах, гэрэлтэл",
+    "hanja": "光彩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광천",
+    "translation": "рашаан",
+    "hanja": "鑛泉",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "광천수",
+    "translation": "рашаан ус",
+    "hanja": "鑛泉水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광축",
+    "translation": "гэрлийн тэнхлэг",
+    "hanja": "光軸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광치",
+    "translation": "гэрлийг цацруулах",
+    "hanja": "廣致",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광케이블",
+    "translation": "шилэн кабель",
+    "hanja": "光cable",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광탈",
+    "translation": "хурдан унах, хурдан хасагдах",
+    "hanja": "光脫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광탈하다",
+    "translation": "хурдан хасагдах",
+    "hanja": "光脫하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "광태",
+    "translation": "галзуу авир",
+    "hanja": "狂態",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "광택",
+    "translation": "гялалзах",
+    "hanja": "光澤",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "광택제",
+    "translation": "гялгар будгийн түүхий эд",
+    "hanja": "光澤劑",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "광파",
+    "translation": "гэрлийн долгион",
+    "hanja": "光波",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "광포하다",
+    "translation": "хэрцгий байх",
+    "hanja": "狂暴하다",
+    "pos": "형용사",
+    "cefr": "null"
+  },
+  {
+    "word": "광폭",
+    "translation": "өргөн, тэлэлт",
+    "hanja": "廣幅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광폭하다",
+    "translation": "харгис, догшин",
+    "hanja": "狂暴하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광풍",
+    "translation": "галзуу салхи",
+    "hanja": "狂風",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광학",
+    "translation": "광 оптик",
+    "hanja": "光學",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "광합성",
+    "translation": "фотосинтез",
+    "hanja": "光合成",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "광해",
+    "translation": "хохирол, сүйрэл",
+    "hanja": "光害",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "광호",
+    "translation": "Кван Хо",
+    "hanja": "광호",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광화",
+    "translation": "гэрэлтүүлэх",
+    "hanja": "光化",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "광화문",
+    "translation": "Гуанхуамун (нэр)",
+    "hanja": "光化門",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광활하다",
+    "translation": "Өргөн уудам",
+    "hanja": "廣闊하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광훈",
+    "translation": "гэгээрүүлэх сургаал",
+    "hanja": "廣訓",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "광휘",
+    "translation": "гэрэл гэгээ",
+    "hanja": "光輝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광희",
+    "translation": "их баяр хөөр",
+    "hanja": "狂喜",
+    "pos": "н.",
+    "cefr": "C1"
+  }
+]

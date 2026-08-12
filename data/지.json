@@ -1,0 +1,2963 @@
+[
+  {
+    "word": "지",
+    "translation": "гэж",
+    "hanja": "지",
+    "pos": "adposition",
+    "cefr": "A2"
+  },
+  {
+    "word": "지가",
+    "translation": "газрын үнэ",
+    "hanja": "地價",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지가이",
+    "translation": "өөрийнхөө байшин",
+    "hanja": "自家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지각",
+    "translation": "Оройтох, ухаарах",
+    "hanja": "知覺",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지각되다",
+    "translation": "хоцрох",
+    "hanja": "知覺되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지각생",
+    "translation": "Оройтсон сурагч",
+    "hanja": "遲刻生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지각하다",
+    "translation": "хоцрох",
+    "hanja": "遲刻하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지간",
+    "translation": "Хоорондох зай",
+    "hanja": "之間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지갑",
+    "translation": "түрийвч",
+    "hanja": "紙甲",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "지검",
+    "translation": "Прокурорын хэлтэс",
+    "hanja": "支檢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지게미",
+    "translation": "самар",
+    "hanja": "지게미",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지게차",
+    "translation": "өгөөч машин",
+    "hanja": "지게차",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지겹다",
+    "translation": "уйтгартай",
+    "hanja": "지겹다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지경",
+    "translation": "нөхцөл байдал",
+    "hanja": "地境",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지계",
+    "translation": "газрын хил",
+    "hanja": "地界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지고지순하다",
+    "translation": "маш ариун",
+    "hanja": "至高至純하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지고하다",
+    "translation": "Дээд, агуу",
+    "hanja": "至高하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지공",
+    "translation": "нийтийн газар",
+    "hanja": "地共",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지관",
+    "translation": "газрын байрлал судлаач",
+    "hanja": "地官",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지구",
+    "translation": "дэлхий",
+    "hanja": "地球",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지구대원",
+    "translation": "цагдаагийн хэсгийн ажилтан",
+    "hanja": "地區隊員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지구대장",
+    "translation": "тойргийн дарга",
+    "hanja": "地區隊長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지구라트",
+    "translation": "Зиггурат",
+    "hanja": "지구라트",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지구력",
+    "translation": "Тэвчээр, тэсвэр хатуужил",
+    "hanja": "持久力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지구본",
+    "translation": "дэлхийн бөмбөрцөг",
+    "hanja": "地球本",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "지구의",
+    "translation": "дэлхийн бөмбөрцөг",
+    "hanja": "地球儀",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지구촌",
+    "translation": "Дэлхийн тосгон",
+    "hanja": "地球村",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지국",
+    "translation": "салбар газар, салбар дэлгүүр",
+    "hanja": "支局",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지그",
+    "translation": "жиг",
+    "hanja": "지그",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지그다",
+    "translation": "Зиг (бүжиг)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지그시",
+    "translation": "Бага зэрэг",
+    "hanja": "지그시",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지그재그",
+    "translation": "зигзаг",
+    "hanja": "지그재그",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지극",
+    "translation": "Хэт их, туйлын",
+    "hanja": "至極",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지극하다",
+    "translation": "маш их байх",
+    "hanja": "至極하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지극히",
+    "translation": "Маш, туйлын",
+    "hanja": "至極—",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "지근",
+    "translation": "ойрхон, хаяанд",
+    "hanja": "咫近",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지근거리",
+    "translation": "ойр зай",
+    "hanja": "咫近距離",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지근지근",
+    "translation": "залхуутайгаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지글거리다",
+    "translation": "шажигнах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지글다",
+    "translation": "хуурах, шарлах",
+    "hanja": "지글다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지글지글",
+    "translation": "шаржигнуулах",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "지글지글하다",
+    "translation": "шаржигнуулах, хуурах (дуу)",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "지금",
+    "translation": "одоо",
+    "hanja": "只今",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "지금껏",
+    "translation": "одоо хүртэл",
+    "hanja": "지금껏",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "지금대다",
+    "translation": "оролдох, саналдах",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지급",
+    "translation": "төлбөр",
+    "hanja": "支給",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지급기",
+    "translation": "Төлбөр төлөх төхөөрөмж",
+    "hanja": "支給機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지급되다",
+    "translation": "төлөгдөх",
+    "hanja": "支給되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지급하다",
+    "translation": "олгох, төлөх",
+    "hanja": "支給하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지긋이",
+    "translation": "тайвнаар, аажуухан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지긋지긋",
+    "translation": "залхуутай, түүртэй",
+    "hanja": "지긋지긋",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지긋지긋하다",
+    "translation": "зэвүүцмээр",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "지긋하다",
+    "translation": "дунд насны",
+    "hanja": "",
+    "pos": "тэмдэг нэр",
+    "cefr": "B1"
+  },
+  {
+    "word": "지기다",
+    "translation": "ялах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지기스문트",
+    "translation": "Сигизмунд",
+    "hanja": "지기스문트",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지껄이다",
+    "translation": "ча чалах",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지끄다",
+    "translation": "чихэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지끈거리다",
+    "translation": "хатгах",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지끈지끈",
+    "translation": "Ширүүн өвдөх (толгой)",
+    "hanja": "지끈지끈",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지끈지끈하다",
+    "translation": "чимээ гаргах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지나가다",
+    "translation": "Өнгөрөх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "지나다",
+    "translation": "өнгөрөх",
+    "hanja": "지나다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지나다니다",
+    "translation": "давж гарах, явах",
+    "hanja": "지나다니다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지나치다",
+    "translation": "хэтрэх, өнгөрөх",
+    "hanja": " 지나치다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지난날",
+    "translation": "өнгөрсөн өдрүүд",
+    "hanja": "지난날",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지난달",
+    "translation": "Өнгөрсөн сар",
+    "hanja": "지난달",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "지난번",
+    "translation": "өнгөрсөн удаа",
+    "hanja": " 지난番",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지난주",
+    "translation": "өнгөрсөн долоо хоног",
+    "hanja": "지난週",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "지난하다",
+    "translation": "хүнд хэцүү",
+    "hanja": "至難하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지난해",
+    "translation": "өнгөрсөн жил",
+    "hanja": "지난해",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "지남철",
+    "translation": "Эмээл",
+    "hanja": "指南鐵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지내다",
+    "translation": "амьдрах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지네",
+    "translation": "хөлөг онгоц",
+    "hanja": "지네",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지노",
+    "translation": "Жино (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지눌",
+    "translation": "Жинул (солонгосын лам)",
+    "hanja": "知訥",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "지느러미",
+    "translation": "Сэлүүр",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지능",
+    "translation": "Оюун ухаан",
+    "hanja": "知能",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지능적",
+    "translation": "ухаантай, сэргэлэн",
+    "hanja": "知能的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지능화",
+    "translation": "ухаалаг болгох",
+    "hanja": "知能化",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지능화되다",
+    "translation": "ухаалаг болгох",
+    "hanja": "知能化되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지니",
+    "translation": "Жини",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지니다",
+    "translation": "Эзэмших",
+    "hanja": "지니다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "지다",
+    "translation": "үндэслэх",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "지단",
+    "translation": "хуурамч өндөгний шар",
+    "hanja": "지단",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지당하다",
+    "translation": "зөв, туйлын зөв",
+    "hanja": "至當하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지대",
+    "translation": "газар нутаг, бүс",
+    "hanja": "地帶",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지대하다",
+    "translation": "маш их",
+    "hanja": "至大-",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지덕체",
+    "translation": "мэдлэг, ёс суртахуун, бие бялдар",
+    "hanja": "智德體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지도",
+    "translation": "газрын зураг",
+    "hanja": "地圖",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "지도관",
+    "translation": "зааварлагч, зөвлөх",
+    "hanja": "指導官",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지도급",
+    "translation": "удирдлагын түвшин",
+    "hanja": "指導級",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지도력",
+    "translation": "манлайлах чадвар",
+    "hanja": "指導力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지도부",
+    "translation": "Удирдлага",
+    "hanja": "指導部",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지도서",
+    "translation": "гарын авлага",
+    "hanja": "指導書",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지도원",
+    "translation": "зааварлагч, удирдагч",
+    "hanja": "指導員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지도자",
+    "translation": "удирдагч",
+    "hanja": "指導者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지도책",
+    "translation": "Газрын зургийн атлас",
+    "hanja": "地圖冊",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지도층",
+    "translation": "удирдлагын давхарга",
+    "hanja": "指導層",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지도하다",
+    "translation": "Удирдах",
+    "hanja": "指導하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지독",
+    "translation": "муухай, хортой",
+    "hanja": "至毒",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지독하다",
+    "translation": "Давшгүй",
+    "hanja": "至毒하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지독히",
+    "translation": "Маш их, туйлын, аймшигтай",
+    "hanja": "至毒히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지동설",
+    "translation": "дэлхий нарыг тойрно гэдэг онол",
+    "hanja": "地動說",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지드",
+    "translation": "Жид (хүний нэр)",
+    "hanja": "지드",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지디피",
+    "translation": "ДНБ",
+    "hanja": "GDP",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지라",
+    "translation": "хэлбэр, төрх",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지라시",
+    "translation": "тараах хуудас",
+    "hanja": "ちらし",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지랄",
+    "translation": "солиотой",
+    "hanja": "null",
+    "pos": "interjection",
+    "cefr": "C1"
+  },
+  {
+    "word": "지랄병",
+    "translation": "эпилепси, унадаг өвчин",
+    "hanja": "지랄病",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지랄하다",
+    "translation": "бухимдах, утгагүй аашлах",
+    "hanja": "지랄하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지략",
+    "translation": "Ухаан, сэргэлэн байдал",
+    "hanja": "智略",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지렁",
+    "translation": "газрын байрлал",
+    "hanja": "地렁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지렁이",
+    "translation": "борооны жаран хөлөт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지레",
+    "translation": "хөшүүрэг, тэр дороо",
+    "hanja": "지레",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지레짐작",
+    "translation": "урьтаж таамаглах",
+    "hanja": "地－斟酌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지레짐작하다",
+    "translation": "урьдчилан таамаглах",
+    "hanja": "지레짐작하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지렛대",
+    "translation": "Хөшүүрэг",
+    "hanja": "지렛대",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지력",
+    "translation": "оюун ухаан",
+    "hanja": "知力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지령",
+    "translation": "заавар",
+    "hanja": "指令",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지로",
+    "translation": "жиро",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지론",
+    "translation": "өөрийн үзэл бодол",
+    "hanja": "持論",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지뢰",
+    "translation": "мина",
+    "hanja": "地雷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지뢰밭",
+    "translation": "миний талбар",
+    "hanja": "地雷밭",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지룡",
+    "translation": "хөрсний өт",
+    "hanja": "地龍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지루박",
+    "translation": "Жилубак (бүжгийн төрөл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지루하다",
+    "translation": "Уйтгартай",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "지류",
+    "translation": "салбар гол, цутгал",
+    "hanja": "支流",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지르가",
+    "translation": "жирга",
+    "hanja": "지르가",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "지르다",
+    "translation": "хашгирах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지르르",
+    "translation": "чичирхийлэх",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지르박",
+    "translation": "жирбак (бүжгийн төрөл)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지르코늄",
+    "translation": "циркони",
+    "hanja": "지르코늄",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지르콘",
+    "translation": "циркон",
+    "hanja": "NaN",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지름",
+    "translation": "диаметр; хөндлөн огтлол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지름길",
+    "translation": "шууд зам",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지리",
+    "translation": "газар зүй",
+    "hanja": "地理",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지리다",
+    "translation": "шээсээ гоожуулах, алдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지리멸렬",
+    "translation": "замбараагүй",
+    "hanja": "支離滅裂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지리멸렬하다",
+    "translation": "орооцолдох, замбараагүй болох",
+    "hanja": "支離滅裂하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지리산",
+    "translation": "Жирисан (уул)",
+    "hanja": "智異山",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지리적",
+    "translation": "газарзүйн",
+    "hanja": "地理的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지리학",
+    "translation": "газар судлал",
+    "hanja": "지리학(地理學)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지린내",
+    "translation": "шээсний үнэр",
+    "hanja": "지린내",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지망",
+    "translation": "Говь, дуугар",
+    "hanja": "志望",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지망생",
+    "translation": "Горилогч",
+    "hanja": "志望生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지망하다",
+    "translation": "мөрөөдөх, хүсэх",
+    "hanja": "志望하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지맥",
+    "translation": "Газрын венийн судлууд",
+    "hanja": "支脈",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지멋대로",
+    "translation": "дураараа",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지메",
+    "translation": "хөрсөн давхарга",
+    "hanja": "지메",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지멘",
+    "translation": "Шимен",
+    "hanja": "지멘",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지멘스",
+    "translation": "Сименс",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "지면",
+    "translation": "Газрын гадаргуу",
+    "hanja": "地面",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지명",
+    "translation": "газрын нэр",
+    "hanja": "地名",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지명도",
+    "translation": "Нэр хүнд, алдар цуу",
+    "hanja": "知名度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지명되다",
+    "translation": "нэр дэвшсэн",
+    "hanja": "指名되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지명하다",
+    "translation": "Нэрлэх",
+    "hanja": "指名하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지모",
+    "translation": "ухаалаг, арга заль",
+    "hanja": "智謀",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지목",
+    "translation": "Заах, сонгох",
+    "hanja": "指目",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지목되다",
+    "translation": "Тодорхойлогдох",
+    "hanja": "指目되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지목하다",
+    "translation": "Заах",
+    "hanja": "指目하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지문",
+    "translation": "хурууны хээ",
+    "hanja": "指紋",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지물",
+    "translation": "газрын худалдаа",
+    "hanja": "地物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지물포",
+    "translation": "бичгийн хэрэгслийн дэлгүүр",
+    "hanja": "紙物鋪",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지미",
+    "translation": "Жимми (нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "지밀",
+    "translation": "ойр дотно",
+    "hanja": "至密",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지바",
+    "translation": "Чиба (нэр)",
+    "hanja": "千葉",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지반",
+    "translation": "хөрсний суурь",
+    "hanja": "地盤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지방",
+    "translation": "орон нутаг",
+    "hanja": "地方",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지방산",
+    "translation": "өөхний хүчил",
+    "hanja": "脂肪酸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지방세",
+    "translation": "орон нутгийн татвар",
+    "hanja": "地方稅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지방질",
+    "translation": "өөх тос",
+    "hanja": "脂肪質",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지방형",
+    "translation": "орон нутгийн төрөл",
+    "hanja": "地方型",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지배",
+    "translation": "Захирах",
+    "hanja": "支配",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지배당하다",
+    "translation": "ноёрхох",
+    "hanja": "支配當하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지배되다",
+    "translation": "ноёрхох",
+    "hanja": "支配되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지배력",
+    "translation": "ноёрхол",
+    "hanja": "支配力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지배인",
+    "translation": "менежер, эрхлэгч",
+    "hanja": "支配人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지배자",
+    "translation": "ноёрхогч",
+    "hanja": "支配者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지배적",
+    "translation": "ноёрхогч",
+    "hanja": "支配的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지배층",
+    "translation": "Удирдагч давхарга, эрх баригч анги",
+    "hanja": "支配層",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지배하다",
+    "translation": "захирах",
+    "hanja": "支配하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지번",
+    "translation": "хаяг (газрын дугаар)",
+    "hanja": "地番",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지벌",
+    "translation": "Овгийн нэр хүнд",
+    "hanja": "地閥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지법",
+    "translation": "ганц хурууны арга",
+    "hanja": "指法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지병",
+    "translation": "хууч өвчин",
+    "hanja": "持病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지복",
+    "translation": "үнэхээр аз жаргалтай",
+    "hanja": "至福",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "지복합성",
+    "translation": "липидийн нийлэгжилт",
+    "hanja": "脂複合性",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지부",
+    "translation": "Салбар",
+    "hanja": "支部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지부장",
+    "translation": "Салбарын дарга",
+    "hanja": "支部⾧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지부티",
+    "translation": "жибути",
+    "hanja": null,
+    "pos": "NNP",
+    "cefr": "C1"
+  },
+  {
+    "word": "지분",
+    "translation": "хувьцаа, эзэмшил",
+    "hanja": "持分",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지분거리다",
+    "translation": "хутгах",
+    "hanja": "지분거리다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지불",
+    "translation": "төлбөр, төлөх",
+    "hanja": "支拂",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지불되다",
+    "translation": "төлөгдөх",
+    "hanja": "支拂되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지불하다",
+    "translation": "төлөх",
+    "hanja": "支拂하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지붕",
+    "translation": "Дээвэр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지브",
+    "translation": "давхар",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지브롤터",
+    "translation": "Гибралтар",
+    "hanja": "Gibraltar",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지비",
+    "translation": "түүний",
+    "hanja": "之비",
+    "pos": "нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "지빠귀",
+    "translation": "шаазгай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지사",
+    "translation": "Хэлтэс",
+    "hanja": "支社",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지사장",
+    "translation": "салбарын менежер",
+    "hanja": "支社長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지사제",
+    "translation": "гэдэс гүйлгэхээс сэргийлэх эм",
+    "hanja": "止瀉劑",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "지상",
+    "translation": "дэлхий",
+    "hanja": "地上",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지상군",
+    "translation": "хуурай замын цэрэг",
+    "hanja": "地上軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지상전",
+    "translation": "хуурай замын байлдаан",
+    "hanja": "地上戰",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지상주의",
+    "translation": "хүсэл тэмүүлэл",
+    "hanja": "至上主義",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지새다",
+    "translation": "Мандах",
+    "hanja": "지새다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지새우다",
+    "translation": "шөнөжингөө өнгөрөөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지성인",
+    "translation": "сэхээтэн",
+    "hanja": "知性人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지성적",
+    "translation": "оюунлаг",
+    "hanja": "知性的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지세",
+    "translation": "газрын байдал, газар зүйн байршил",
+    "hanja": "地勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지소",
+    "translation": "салбар, тасаг",
+    "hanja": "支所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지소미아",
+    "translation": "ЖИСИМIA",
+    "hanja": "GSOMIA",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지속",
+    "translation": "Үргэлжлэх / Хандлага",
+    "hanja": "지속 (持續)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지속되다",
+    "translation": "үргэлжлэх",
+    "hanja": "持續되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지속성",
+    "translation": "тогтвортой байдал",
+    "hanja": "持續性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지속시키다",
+    "translation": "үргэлжлүүлэх",
+    "hanja": "持續시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지속적",
+    "translation": "үргэлжилсэн",
+    "hanja": "持續的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "지속하다",
+    "translation": "үргэлжлүүлэх, үргэлжлэх",
+    "hanja": "持續하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지송",
+    "translation": "Үргэлжлүүлэн явуулах",
+    "hanja": "持送",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "지송하다",
+    "translation": "тайвнаар",
+    "hanja": "遅送-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지수화하다",
+    "translation": "индексжүүлэх",
+    "hanja": "指數化하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지숙",
+    "translation": "мэргэн ухаантай",
+    "hanja": "智淑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지시",
+    "translation": "заавар",
+    "hanja": "指示",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지시되다",
+    "translation": "зааварлагдах",
+    "hanja": "指示되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지시문",
+    "translation": "заавар",
+    "hanja": "指示文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지시봉",
+    "translation": "заагч мод",
+    "hanja": "指示棒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지시하다",
+    "translation": "зааварлах",
+    "hanja": "指示하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지식",
+    "translation": "мэдлэг",
+    "hanja": "知識",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지식인",
+    "translation": "сэхээтэн",
+    "hanja": "知識人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지식층",
+    "translation": "сэхээтэн давхарга",
+    "hanja": "知識層",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지신",
+    "translation": "Газрын эзэн сүнс",
+    "hanja": "地神",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지신밟기",
+    "translation": "газрын бурхан шүтэх ёслол",
+    "hanja": "地神밟기",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지씨",
+    "translation": "жийсий",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "지아",
+    "translation": "Авга эгч, нагац эгч",
+    "hanja": "姨媽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지아비",
+    "translation": "Нөхөр (хуучны үг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지아이",
+    "translation": "GI (Зэвсэгт хүчний албан хаагч)",
+    "hanja": "지아이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지압",
+    "translation": "даралттай бариа",
+    "hanja": "指壓",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지압하다",
+    "translation": "дарах, шахах (физикээр)",
+    "hanja": "指壓하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지애",
+    "translation": "эх орондоо хайртай сэтгэл",
+    "hanja": "地愛",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "지양",
+    "translation": "үгүйсгэл, няцаалт",
+    "hanja": "止揚",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "지양되다",
+    "translation": "хүчингүй болох",
+    "hanja": "止揚되다",
+    "pos": "VV",
+    "cefr": "C2"
+  },
+  {
+    "word": "지양하다",
+    "translation": "зайлсхийх, хойш тавих",
+    "hanja": "止揚하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지어",
+    "translation": "үүсгэх",
+    "hanja": "지어",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지어내다",
+    "translation": "Зохиох",
+    "hanja": "지어내다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "지어먹다",
+    "translation": "хийж идэх",
+    "hanja": "지어먹다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지어미",
+    "translation": "эхнэр",
+    "hanja": "妻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지엄하다",
+    "translation": "хатуу",
+    "hanja": "至嚴하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지에",
+    "translation": "гэсэн хэдий ч",
+    "hanja": null,
+    "pos": "어미",
+    "cefr": "B2"
+  },
+  {
+    "word": "지에스",
+    "translation": "жи-эс (GS групп)",
+    "hanja": "GS (GS Group)",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지역",
+    "translation": "бүс нутаг",
+    "hanja": "地域",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지역감정",
+    "translation": "бүс нутгийн сэтгэл хөдлөл",
+    "hanja": "地域感情",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지역구",
+    "translation": "тойрог",
+    "hanja": "地域區",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지연되다",
+    "translation": "хоцрох",
+    "hanja": "遲延되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "지연하다",
+    "translation": "хойшлуулах",
+    "hanja": "遲延하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지열",
+    "translation": "газрын гүний дулаан",
+    "hanja": "地熱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지엽적",
+    "translation": "тухайн газар нутгийн",
+    "hanja": "枝葉的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지오노",
+    "translation": "жионо (гидрологийн нэр томъёо)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지오데식",
+    "translation": "геодезийн",
+    "hanja": "geodesic",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지오메트리",
+    "translation": "геометр",
+    "hanja": "geometry",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지옥",
+    "translation": "тамин",
+    "hanja": "地獄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지옥고",
+    "translation": "Там шиг зовлон, аймшигтай хүндрэл",
+    "hanja": "地獄苦",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "지우개",
+    "translation": "Баллуур",
+    "hanja": "지우개",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "지원",
+    "translation": "Дэмжлэг, дэмжих",
+    "hanja": "支援",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지원군",
+    "translation": "туслах цэрэг",
+    "hanja": "支援軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지원금",
+    "translation": "тусламжийн мөнгө",
+    "hanja": "支援金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지원되다",
+    "translation": "дэмжигдэх",
+    "hanja": "支援되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지원서",
+    "translation": "өргөдлийн маягт, хүсэлт",
+    "hanja": "志願書",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지원자",
+    "translation": "өргөдөл гаргагч",
+    "hanja": "志願者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지원하다",
+    "translation": "дэмжих, туслах, дэмжлэг үзүүлэх",
+    "hanja": "支援하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "지위",
+    "translation": "статус",
+    "hanja": "地位",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지위하다",
+    "translation": "удирдаж залах",
+    "hanja": "指揮하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지은이",
+    "translation": "зохиогч",
+    "hanja": "지은이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지읒",
+    "translation": "жи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "지이",
+    "translation": "үдийн цайны цаг",
+    "hanja": "之頤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지익",
+    "translation": "шууд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지자",
+    "translation": "мэргэн хүн",
+    "hanja": "智者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지자체",
+    "translation": "орон нутгийн засаг захиргаа",
+    "hanja": "地自體",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지장",
+    "translation": "саад, хүндрэл",
+    "hanja": "支障",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지재권",
+    "translation": "оюуны өмчийн эрх",
+    "hanja": "知財權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지저",
+    "translation": "шожигнох",
+    "hanja": "吱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지저귀다",
+    "translation": "жиргэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "지저분하다",
+    "translation": "бохир, эмх замбараагүй",
+    "hanja": "없음",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "지적",
+    "translation": "оюуны",
+    "hanja": "知的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "지적되다",
+    "translation": "онцлогдох",
+    "hanja": "指摘되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지적질하다",
+    "translation": "заавар өгөх",
+    "hanja": "指摘질하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지적하다",
+    "translation": "заах, шүүмжлэх",
+    "hanja": "指摘하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지전",
+    "translation": "цаасан мөнгө",
+    "hanja": "紙錢",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지점",
+    "translation": "салбар",
+    "hanja": "支店",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지점장",
+    "translation": "салбарын менежер",
+    "hanja": "支店長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지점토",
+    "translation": "шавар",
+    "hanja": "지점토",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지정",
+    "translation": "томилох, зааж өгөх",
+    "hanja": "指定",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지정곡",
+    "translation": "Тогтоосон дуу",
+    "hanja": "指定曲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지정되다",
+    "translation": "томилогдох",
+    "hanja": "指定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지정석",
+    "translation": "заасан суудал, захиалсан суудал",
+    "hanja": "指定席",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지정하다",
+    "translation": "тодорхойлох, зааж өгөх",
+    "hanja": "指定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지제",
+    "translation": "гар хийцийн, өөрөө хийсэн",
+    "hanja": "自製",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지젤",
+    "translation": "Жизель",
+    "hanja": "Giselle",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지조",
+    "translation": "зарчим, үнэнч байдал",
+    "hanja": "志操",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지존",
+    "translation": "хамгийн дээд, эрхэм дээд",
+    "hanja": "至尊",
+    "pos": "name",
+    "cefr": "C2"
+  },
+  {
+    "word": "지존하다",
+    "translation": "дээд зэргийн, хүндэтгэх",
+    "hanja": "至尊하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지주",
+    "translation": "газрын эзэн",
+    "hanja": "地主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지중",
+    "translation": "Газрын дундах",
+    "hanja": "地中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지중해",
+    "translation": "Газар дундын тэнгис",
+    "hanja": "地中海",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지증왕",
+    "translation": "Жэжын ван",
+    "hanja": "智證王",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지지",
+    "translation": "Дэмжлэг",
+    "hanja": "支持",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지지난",
+    "translation": "өмнөхөөс өмнөх",
+    "hanja": "지지난",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "지지다",
+    "translation": "Түлэн хийх, шарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지지대",
+    "translation": "Тулгуур; Дэмжлэг",
+    "hanja": "支持臺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지지되다",
+    "translation": "Дэмжигдэх",
+    "hanja": "支持되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지지리",
+    "translation": "маш их, хэтэрхий",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지지배배",
+    "translation": "цацаг шувууны жиргээ",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지지부진",
+    "translation": "удаашрах, зогсонги байдал",
+    "hanja": "遲遲不進",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지지부진하다",
+    "translation": "удаашрах",
+    "hanja": "遲遲不進하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지지율",
+    "translation": "дэмжлэгийн хувь",
+    "hanja": "支持率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지지자",
+    "translation": "дэмжигч",
+    "hanja": "支持者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지지지지",
+    "translation": "шаржигнах",
+    "hanja": "지지지지",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지지직거리다",
+    "translation": "шажигнах, дуугарах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지지표",
+    "translation": "дэмжлэгийн үзүүлэлт",
+    "hanja": "支持票",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지지하다",
+    "translation": "дэмжих",
+    "hanja": "支持하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지직",
+    "translation": "Гулгих дуу, чимээ",
+    "hanja": "지직",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지직거리다",
+    "translation": "шажигнах, дуугарах",
+    "hanja": "지직거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지진",
+    "translation": "газар хөдлөлт",
+    "hanja": "地震",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지진아",
+    "translation": "оюуны хөгжил удаан хүүхэд",
+    "hanja": "遲進兒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지진파",
+    "translation": "Газар хөдлөлтийн давлагаа",
+    "hanja": "地震波",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지질",
+    "translation": "геологи",
+    "hanja": "地質",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지질하다",
+    "translation": "геологийн",
+    "hanja": "地質-",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지질학",
+    "translation": "Геологи",
+    "hanja": "地質學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지짜다",
+    "translation": "шахах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지참",
+    "translation": "авчирах, дагалдуулах",
+    "hanja": "持參",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지참금",
+    "translation": "бэр буулгах үнэ, दहेज",
+    "hanja": "持參金",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "지참하다",
+    "translation": "авчирах, авч ирэх",
+    "hanja": "持參하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지창",
+    "translation": "цаасан цонх",
+    "hanja": "紙窓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지척",
+    "translation": "ойрхон",
+    "hanja": "咫尺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지천",
+    "translation": "газар дээрх",
+    "hanja": "至賤",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "지천명",
+    "translation": "тавин настай",
+    "hanja": "知天命",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지철",
+    "translation": "цаасан төмөр",
+    "hanja": "紙鐵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지청",
+    "translation": "салбар шүүх, шүүхийн танхим",
+    "hanja": "支廳",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지청구",
+    "translation": "Буруутгах үг",
+    "hanja": "叱責",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지체",
+    "translation": "Хоцрох, саатах",
+    "hanja": "遲滯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지체되다",
+    "translation": "Саатах",
+    "hanja": "遲滯되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지체하다",
+    "translation": "хойшлуулах",
+    "hanja": "遲滯하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지초",
+    "translation": "улаан мөөгөнцөр",
+    "hanja": "芝草",
+    "pos": "n",
+    "cefr": "C2"
+  },
+  {
+    "word": "지축",
+    "translation": "газрын тэнхлэг",
+    "hanja": "地軸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지출",
+    "translation": "зарлага, зардал",
+    "hanja": "支出",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지출되다",
+    "translation": "Зарцуулагдах",
+    "hanja": "支出되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지출하다",
+    "translation": "Зарцуулах, гаргах",
+    "hanja": "支出하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지층",
+    "translation": "газрын давхарга",
+    "hanja": "地層",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지치다",
+    "translation": "цуцрах, ядарсан",
+    "hanja": "지치다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지침",
+    "translation": "удирдамж, заавар",
+    "hanja": "指針",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지침서",
+    "translation": "지침서",
+    "hanja": "指針書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지칭",
+    "translation": "нэрлэх, тодорхойлох",
+    "hanja": "指稱",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지칭되다",
+    "translation": "нэрлэгдэх",
+    "hanja": "指稱되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "지칭하다",
+    "translation": "нэрлэх",
+    "hanja": "指稱─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지크프리트",
+    "translation": "Зигфрид",
+    "hanja": null,
+    "pos": "proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "지키다",
+    "translation": "Хамгаалах, сахих",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "지키미",
+    "translation": "хамгаалагч (жижгэрүүлсэн)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "지탄",
+    "translation": "шүүмжлэл, зарга",
+    "hanja": "指彈",
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "지탄하다",
+    "translation": "шүүмжлэх",
+    "hanja": "指彈하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지탱",
+    "translation": "дэмжих, тулгуурлах",
+    "hanja": "支撐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지탱되다",
+    "translation": "түшиг болох, дэмжигдэх",
+    "hanja": "支撐되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지탱하다",
+    "translation": "тулах",
+    "hanja": "支撐하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지터",
+    "translation": "지터 (데이터 전송 불안정)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지토",
+    "translation": "Ширэг, шороо",
+    "hanja": "地土",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지티",
+    "translation": "ЖИТИ",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지파",
+    "translation": "салбар, омог",
+    "hanja": "支派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지파이",
+    "translation": "жипай (хийх арга)",
+    "hanja": "지파이",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "지팡",
+    "translation": "Хятад",
+    "hanja": "支邦",
+    "pos": "명사",
+    "cefr": "N/A"
+  },
+  {
+    "word": "지팡이",
+    "translation": "таяг",
+    "hanja": "지팡이",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지퍼",
+    "translation": "цахилгаан товч",
+    "hanja": "Zipper",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지편하다",
+    "translation": "газар хуваах",
+    "hanja": "地便하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "지평",
+    "translation": "тэнгэрийн хаяа, хэтийн төлөв",
+    "hanja": "地平",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지평선",
+    "translation": "Тэнгэрийн хаяа, хэтийн төлөв",
+    "hanja": "地平線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지폐",
+    "translation": "цаасан мөнгө",
+    "hanja": "紙幣",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지포",
+    "translation": "зиппо",
+    "hanja": "지포",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지표",
+    "translation": "Үзүүлэлт, индекс",
+    "hanja": "指標",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지표면",
+    "translation": "газрын гадаргуу",
+    "hanja": "地表面",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지프",
+    "translation": "жип",
+    "hanja": "지프",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "지피",
+    "translation": "Жуй Пин",
+    "hanja": "志丕",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지피다",
+    "translation": "галлах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "지피에스",
+    "translation": "GPS, байршил тогтоох систем",
+    "hanja": "GPS",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지피지기",
+    "translation": "өөрийгөө таних, бусдыг таних",
+    "hanja": "知彼知己",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지필",
+    "translation": "цаас, бийр",
+    "hanja": "紙筆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지필묵",
+    "translation": "Цаас, бийр, бэх",
+    "hanja": "紙筆墨",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지하",
+    "translation": "газар доор",
+    "hanja": "地下",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "지하다",
+    "translation": "дор байрлах",
+    "hanja": " 지하하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지하도",
+    "translation": "гүүрэн доогуурх зам, хонгил",
+    "hanja": "地下道",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "지하드",
+    "translation": "жихад",
+    "hanja": "지하드",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지하상가",
+    "translation": "Газар доорх дэлгүүр",
+    "hanja": "地下商街",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지하수",
+    "translation": "газрын доорхи ус",
+    "hanja": "地下水",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지하실",
+    "translation": "подвал",
+    "hanja": "地下室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지하여장군",
+    "translation": "газрын доорх эмэгтэй цэргийн жанжин",
+    "hanja": "地下女將軍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "지하자원",
+    "translation": "газрын баялаг",
+    "hanja": "地下資源",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "지하전",
+    "translation": "далд зах зээл",
+    "hanja": "地下廛",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지하철",
+    "translation": "метро",
+    "hanja": "地下鐵",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "지하철역",
+    "translation": "газар доорх галт тэрэгний буудал",
+    "hanja": "地下鐵驛",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "지하화하다",
+    "translation": "Газар доорх болгох",
+    "hanja": "地下化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지학",
+    "translation": "газарзүй судлал",
+    "hanja": "地學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지행",
+    "translation": "үйлдэл, хэрэгжилт",
+    "hanja": "施行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지향",
+    "translation": "чиглэл",
+    "hanja": "志向",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지향점",
+    "translation": "чиглэл",
+    "hanja": "指向點",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지향하다",
+    "translation": "чиглүүлэх",
+    "hanja": "志向하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "지혈",
+    "translation": "Цус тогтоох",
+    "hanja": "止血",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지혈대",
+    "translation": "цус тогтоогч",
+    "hanja": "止血帶",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지혈제",
+    "translation": "цус тогтоох эм",
+    "hanja": "止血劑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지혈하다",
+    "translation": "цус тогтоох",
+    "hanja": "止血하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지협",
+    "translation": "худалдааны түнш",
+    "hanja": "地峽",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지혜",
+    "translation": "мэргэн ухаан",
+    "hanja": "智慧",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지혜롭다",
+    "translation": "ухаантай",
+    "hanja": "智慧롭다",
+    "pos": "ADJ",
+    "cefr": "B2"
+  },
+  {
+    "word": "지호",
+    "translation": "нүх",
+    "hanja": "地戶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지화",
+    "translation": "цаасан цэцэг",
+    "hanja": "紙花",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "지화자",
+    "translation": "уухай, баяр баясгалантай дуу",
+    "hanja": "地和者",
+    "pos": "감탄사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지회",
+    "translation": "салбар, 지회",
+    "hanja": "支會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지효",
+    "translation": "Жихё",
+    "hanja": "智孝",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "지후",
+    "translation": "Дараа",
+    "hanja": "之後",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지휘",
+    "translation": "Удирдах, командлах",
+    "hanja": "指揮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지휘관",
+    "translation": "захирагч",
+    "hanja": "指揮官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지휘권",
+    "translation": "удирдах эрх, командлах эрх",
+    "hanja": "指揮權",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "지휘봉",
+    "translation": "Удирдлагын таяг",
+    "hanja": "指揮棒",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "지휘자",
+    "translation": "удирдаач",
+    "hanja": "指揮者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "지휘하다",
+    "translation": "удирдах, жолоодох",
+    "hanja": "指揮하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "지히",
+    "translation": "Чихи (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

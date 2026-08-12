@@ -1,0 +1,478 @@
+[
+  {
+    "word": "막",
+    "translation": "саяхан",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "막가다",
+    "translation": "хараал хэлэх, хэнэггүй явах",
+    "hanja": "막가다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막가파",
+    "translation": "саваагүй бүлэглэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막간",
+    "translation": "завсарлага",
+    "hanja": "幕間",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막강",
+    "translation": "маш хүчирхэг, асар хүчтэй",
+    "hanja": "莫强",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막강하다",
+    "translation": "Хүчирхэг",
+    "hanja": "莫強하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "막걸리",
+    "translation": "макколи",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "막걸릿집",
+    "translation": "Макколи уудаг газар",
+    "hanja": "막걸릿집",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "막고굴",
+    "translation": "Могао агуй",
+    "hanja": "莫高窟",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "막공",
+    "translation": "Сүүлийн тоглолт",
+    "hanja": "幕工",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막국수",
+    "translation": "Маггугсу",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "막내",
+    "translation": "отгон",
+    "hanja": "막내",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "막내딸",
+    "translation": "отгон охин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "막내아들",
+    "translation": "막 막 хүү",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "막냇동생",
+    "translation": "Бага дүү",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "막냇손자",
+    "translation": "хамгийн бага ач хүү",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막냉이",
+    "translation": "отгон хүүхэд",
+    "hanja": "막냉이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "막노동",
+    "translation": "хүнд хөдөлмөр",
+    "hanja": "막노동",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "막노동하다",
+    "translation": "хүнд хөдөлмөр хийх",
+    "hanja": "막노동하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "막다",
+    "translation": "хаах",
+    "hanja": "막다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "막다르다",
+    "translation": "мухардмал байдалд орох",
+    "hanja": "막다르다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막대",
+    "translation": "Тоншуул, саваа мод",
+    "hanja": "막대",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "막대기",
+    "translation": "саваа",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "막대하다",
+    "translation": "их, асар том",
+    "hanja": "莫大하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막대형",
+    "translation": "Саваа хэлбэртэй",
+    "hanja": "막대形",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막동이",
+    "translation": "бага дүү",
+    "hanja": "막동이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "막돼먹다",
+    "translation": "муу муухай",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막두다",
+    "translation": "хараа хяналтгүй орхих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막둥이",
+    "translation": "отгон хүүхэд",
+    "hanja": "막둥이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막론하다",
+    "translation": "үгүйсгэхгүйгээр",
+    "hanja": "莫論하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "막리지",
+    "translation": "Магхилжи",
+    "hanja": "莫離支",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "막막하다",
+    "translation": "бүдэг бадаг",
+    "hanja": "漠漠하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "막말",
+    "translation": "дэмий яриа, хазгай үг",
+    "hanja": "막말",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막말하다",
+    "translation": "хэрцгий үг хэлэх",
+    "hanja": "莫말하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막무가내",
+    "translation": "зөрүүд",
+    "hanja": "莫無可奈",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막바로",
+    "translation": "шууд, тэр дороо",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "막바지",
+    "translation": "төгсгөл, сүүлчийн шат",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "막부",
+    "translation": "магнай (Японы цэргийн засаглал)",
+    "hanja": "幕府",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "막사",
+    "translation": "хуаран",
+    "hanja": "幕舍",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "막살다",
+    "translation": "хайнга амьдрах",
+    "hanja": "막살다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "막상",
+    "translation": "жинхэнэ дээрээ",
+    "hanja": "막상",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "막상막하",
+    "translation": "тулхтай",
+    "hanja": "莫上莫下",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막선",
+    "translation": "сүүлчийн шугам",
+    "hanja": "末線",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막시",
+    "translation": "Макси (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "막시밀리안",
+    "translation": "Максимилиан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막심",
+    "translation": "Максим",
+    "hanja": "莫甚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막심하다",
+    "translation": "маш их, асар их",
+    "hanja": "莫甚하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막쓰다",
+    "translation": "хайхарамжгүй ашиглах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "막아서다",
+    "translation": "хаан зогсох, сэргийлэх",
+    "hanja": "막아서다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막역지우",
+    "translation": "сайн найз, үнэнч нөхөр",
+    "hanja": "莫逆之友",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "막역하다",
+    "translation": "энгийн, дотно харилцаатай",
+    "hanja": "莫逆하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "막연하다",
+    "translation": "тодорхойгүй",
+    "hanja": "漠然하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막연히",
+    "translation": "Тодорхойгүй, бүдэг бадаг",
+    "hanja": "漠然히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막일",
+    "translation": "хүнд ажил",
+    "hanja": " 막일",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막장",
+    "translation": "сүүлчийн, төгсгөл",
+    "hanja": "막장",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막주",
+    "translation": "үлдсэн дарс",
+    "hanja": "막酒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "막중하다",
+    "translation": "маш чухал",
+    "hanja": "莫重하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "막집",
+    "translation": "Түр орон сууц, овоохой",
+    "hanja": "幕집",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막차",
+    "translation": "сүүлчийн тэрэг",
+    "hanja": "末車",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "막창",
+    "translation": "махан хиам",
+    "hanja": "막창",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "막촬",
+    "translation": "сүүлийн зураг авалт",
+    "hanja": "幕撮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "막판",
+    "translation": "Эцсийн мөч",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "막하막하",
+    "translation": "тулгарсан, тулгарч буй",
+    "hanja": "莫下莫下",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막후",
+    "translation": "хөшигний ард",
+    "hanja": "幕後",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "막히다",
+    "translation": "Хаагдах, бөглөрөх",
+    "hanja": "막히다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "막힘",
+    "translation": "бөглөрөх, хаагдах",
+    "hanja": "막힘",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "막힘없다",
+    "translation": "саадгүй, чөлөөтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "막힘없이",
+    "translation": "саадгүй",
+    "hanja": "막힘없이",
+    "pos": "부사",
+    "cefr": "B1"
+  }
+]

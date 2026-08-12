@@ -1,0 +1,310 @@
+[
+  {
+    "word": "존",
+    "translation": "бүс",
+    "hanja": "zone",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "존경",
+    "translation": "хүндэтгэл",
+    "hanja": "尊敬",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "존경스럽다",
+    "translation": "Хүндэтгэлтэй",
+    "hanja": "尊敬스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "존경심",
+    "translation": "хүндэтгэл",
+    "hanja": "尊敬心",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "존경하다",
+    "translation": "хүндлэх",
+    "hanja": "尊敬하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "존귀",
+    "translation": "эрхэмсэг, дээд",
+    "hanja": "尊貴",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "존귀하다",
+    "translation": "эрхэмсэг, үнэтэй",
+    "hanja": "尊貴하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "존내다",
+    "translation": "зэмлэх",
+    "hanja": "존내다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "존대하다",
+    "translation": "хүндэтгэх",
+    "hanja": "尊待하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "존댓말",
+    "translation": "хүндэтгэлийн үг",
+    "hanja": "존댓말(尊待말)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "존립",
+    "translation": "оршин тогтнох",
+    "hanja": "存立",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "존립하다",
+    "translation": "оршин тогтнох",
+    "hanja": "存立하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "존망",
+    "translation": "оршин тогтнох эсэх, хувь заяа",
+    "hanja": "存亡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "존명",
+    "translation": "хүндэтгэсэн нэр",
+    "hanja": "尊名",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "존비",
+    "translation": "эрхэмсэг ба дорд",
+    "hanja": "尊卑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "존속",
+    "translation": "үргэлжлэх, оршин тогтнох",
+    "hanja": "存續",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "존속되다",
+    "translation": "оршин тогтнох",
+    "hanja": "存續되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "존속시키다",
+    "translation": "үргэлжлүүлэх",
+    "hanja": "存續시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "존속하다",
+    "translation": "үргэлжлэн орших",
+    "hanja": "存續하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "존스",
+    "translation": "Жонс",
+    "hanja": "Jones",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "존슨",
+    "translation": "Жонсон",
+    "hanja": "존슨",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "존시",
+    "translation": "Жон Сина",
+    "hanja": "존시",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "존심",
+    "translation": "Өөрийгөө хүндлэх сэтгэл",
+    "hanja": "尊心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "존안",
+    "translation": "оршихуй",
+    "hanja": "尊顔",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "존엄",
+    "translation": "нэр төр, сүр жавхлан",
+    "hanja": "尊嚴",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "존엄성",
+    "translation": "Нэр хүнд",
+    "hanja": "尊嚴性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "존엄하다",
+    "translation": "нэр хүндтэй, эрхэмсэг",
+    "hanja": "尊嚴하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "존영",
+    "translation": "хүндэтгэлийн хөрөг зураг",
+    "hanja": "尊影",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "존자",
+    "translation": "хүндэтгэлтэй хүн",
+    "hanja": "尊者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "존재",
+    "translation": "оршихуй",
+    "hanja": "存在",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "존재감",
+    "translation": "Оршихуйн мэдрэмж",
+    "hanja": "存在感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "존재성",
+    "translation": "Оршихуй",
+    "hanja": "存在性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "존재하다",
+    "translation": "орших",
+    "hanja": "存在하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "존조",
+    "translation": "Халамжлах, анхаарах",
+    "hanja": "存照",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "존중",
+    "translation": "хүндэтгэл",
+    "hanja": "尊重",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "존중되다",
+    "translation": "хүндлэгдэх",
+    "hanja": "尊重되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "존중하다",
+    "translation": "Хүндлэх",
+    "hanja": "尊重하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "존중히",
+    "translation": "хүндэтгэлтэйгээр",
+    "hanja": "尊重히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "존치",
+    "translation": "хадгалах",
+    "hanja": "存置",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "존치하다",
+    "translation": "байлгах, хадгалах",
+    "hanja": "存置하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "존칭",
+    "translation": "Хүндэтгэлийн үг",
+    "hanja": "尊稱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "존폐",
+    "translation": "орших эсэх, оршин тогтнох эсэх",
+    "hanja": "存廢",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "존함",
+    "translation": "Эрхэм нэр",
+    "hanja": "尊銜",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "존호",
+    "translation": "хүндэтгэлийн нэр",
+    "hanja": "尊號",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

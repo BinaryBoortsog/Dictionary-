@@ -1,0 +1,429 @@
+[
+  {
+    "word": "빈",
+    "translation": "хоосон",
+    "hanja": "빈",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "빈곤",
+    "translation": "ядуурал",
+    "hanja": "貧困",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈곤층",
+    "translation": "ядуу давхарга",
+    "hanja": "貧困層",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈곤하다",
+    "translation": "ядуу, хоосон",
+    "hanja": "貧困하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈국",
+    "translation": "빈국 (가난한 나라)",
+    "hanja": "貧國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈궁",
+    "translation": "ядуурал",
+    "hanja": "貧窮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈궁하다",
+    "translation": "ядуу байх",
+    "hanja": "貧窮하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈껍데기",
+    "translation": "хоосон бүрхүүл",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "빈농",
+    "translation": "Ядуу тариачин",
+    "hanja": "貧農",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈대",
+    "translation": "орны шоргоолж",
+    "hanja": "빈대",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈대떡",
+    "translation": "бинэдэтток (буурцагны хайрсан хуушуур)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "빈도",
+    "translation": "давтамж",
+    "hanja": "頻度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈둥거리다",
+    "translation": "залхуурах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈둥대다",
+    "translation": "залхуурах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빈둥빈둥",
+    "translation": "залхуурах, хойш суух",
+    "hanja": "빈둥빈둥",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빈디",
+    "translation": "бинди (Энэтхэг эмэгтэйчүүдийн магнайдаа наадаг гоёл)",
+    "hanja": "빈디",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈랑",
+    "translation": "бетэл",
+    "hanja": "檳榔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈말",
+    "translation": "хоосон үг, худал яриа",
+    "hanja": "빈말",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈말하다",
+    "translation": "Хоосон ярих",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈맥",
+    "translation": "зүрх дэлсэх",
+    "hanja": "頻脈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈민",
+    "translation": "ядуу хүн",
+    "hanja": "貧民",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈민가",
+    "translation": "ядуусын хороолол",
+    "hanja": "貧民街",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "빈민층",
+    "translation": "ядуу давхарга",
+    "hanja": "貧民層",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈발하다",
+    "translation": "олон удаа тохиолдох, давтагдах",
+    "hanja": "頻發하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈방",
+    "translation": "Хоосон өрөө",
+    "hanja": "빈房",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "빈백",
+    "translation": "бөөрөнхий буйдан",
+    "hanja": "bean bag",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "빈번",
+    "translation": "олон удаа, байнга",
+    "hanja": "頻繁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈번하다",
+    "translation": "давтамжтай",
+    "hanja": "頻繁하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈번히",
+    "translation": "Олон удаа, байнга",
+    "hanja": "頻繁히",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈병",
+    "translation": "хоосон сав, хоосон шил",
+    "hanja": "빈甁",
+    "pos": "명사 (Noun)",
+    "cefr": "A1"
+  },
+  {
+    "word": "빈부",
+    "translation": "ядуу, баян",
+    "hanja": "貧富",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈사",
+    "translation": "үхэлд ойр",
+    "hanja": "瀕死",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈상",
+    "translation": "золгүй төрх",
+    "hanja": "貧相",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈소",
+    "translation": "оршуулгын газар",
+    "hanja": "殯所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈속",
+    "translation": "хоосон ходоод",
+    "hanja": "빈속",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "빈손",
+    "translation": "хоосон гар",
+    "hanja": "빈손",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "빈아",
+    "translation": "хоосон орон зай",
+    "hanja": "賓芽",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "빈약하다",
+    "translation": "хомс, ядуу",
+    "hanja": "貧弱하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈익빈",
+    "translation": "ядуус улам ядуурч, баячууд улам баяжих",
+    "hanja": "貧益貧",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈자",
+    "translation": "ядуу хүн",
+    "hanja": "貧者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "빈자리",
+    "translation": "Хоосон суудал",
+    "hanja": "빈자리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "빈전",
+    "translation": "хоосон сүм",
+    "hanja": "賓殿",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "빈정",
+    "translation": "Тохуурхал, егөөдөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈정거리다",
+    "translation": "шоолно",
+    "hanja": "빈정거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈정대다",
+    "translation": "Даажигнах, егөөдөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈집",
+    "translation": "Хоосон байшин",
+    "hanja": "빈집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "빈차",
+    "translation": "хоосон машин",
+    "hanja": "빈車",
+    "pos": "NNG",
+    "cefr": "A2"
+  },
+  {
+    "word": "빈청",
+    "translation": "Хоосон танхим",
+    "hanja": "賓廳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈촌",
+    "translation": "Ядуусын хороолол",
+    "hanja": "貧村",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빈축",
+    "translation": "үзэн ядалт, буруушаал",
+    "hanja": "顰蹙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "빈출",
+    "translation": "ихэнхдээ гарч ирэх",
+    "hanja": "頻出",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "빈칸",
+    "translation": "хоосон зай",
+    "hanja": "빈칸",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "빈털터리",
+    "translation": "хоосон хоносон, ядуу",
+    "hanja": "빈털터리",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈통",
+    "translation": "Хоосон сав",
+    "hanja": "빈통",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "빈틈",
+    "translation": "завсар, хоосон зай",
+    "hanja": "빈틈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빈틈없다",
+    "translation": "Гэмтэлгүй, цоорхойгүй",
+    "hanja": "빈틈없다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈틈없이",
+    "translation": "маш нарийн",
+    "hanja": "빈틈없이",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈티지",
+    "translation": "винтаж",
+    "hanja": "Vintage",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈티지하다",
+    "translation": "винтаж загвартай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "빈하다",
+    "translation": "хоосон байх",
+    "hanja": "貧하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "빈혈",
+    "translation": "цус багадалт",
+    "hanja": "貧血",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

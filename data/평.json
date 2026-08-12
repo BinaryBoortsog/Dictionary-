@@ -1,0 +1,772 @@
+[
+  {
+    "word": "평",
+    "translation": "талбай",
+    "hanja": "坪",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "평가",
+    "translation": "үнэлгээ",
+    "hanja": "評價",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "평가단",
+    "translation": "үнэлгээний баг",
+    "hanja": "評價團",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평가되다",
+    "translation": "Үнэлэгдэх",
+    "hanja": "評價되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평가전",
+    "translation": "нөхөрсөг тоглолт",
+    "hanja": "評價戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평가하다",
+    "translation": "Үнэлэх, дүгнэх",
+    "hanja": "評價하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평강",
+    "translation": "амар амгалан",
+    "hanja": "平康",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평결",
+    "translation": "шийдвэр, дүгнэлт (шүүхийн)",
+    "hanja": "評決",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "평결하다",
+    "translation": "шийдвэрлэх",
+    "hanja": "評決─",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평교사",
+    "translation": "ердийн багш",
+    "hanja": "平敎師",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평균",
+    "translation": "Дундаж",
+    "hanja": "平均",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평균값",
+    "translation": "дундаж утга",
+    "hanja": "平均값",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "평균대",
+    "translation": "тэнцвэрийн тулгуур",
+    "hanja": "平均臺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평균적",
+    "translation": "дундаж",
+    "hanja": "平均的",
+    "pos": "т.ү.",
+    "cefr": "B1"
+  },
+  {
+    "word": "평균치",
+    "translation": "дундаж утга",
+    "hanja": "平均値",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평균하다",
+    "translation": "Дундажлах",
+    "hanja": "平均하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평남",
+    "translation": "Пённам (аймаг)",
+    "hanja": "平南",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평년",
+    "translation": "дундаж жил",
+    "hanja": "平年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평단",
+    "translation": "шүүмжлэгчид",
+    "hanja": "評團",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "평대",
+    "translation": "Хадны тавцан",
+    "hanja": "平臺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평등",
+    "translation": "тэгш байдал",
+    "hanja": "平等",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평등권",
+    "translation": "Тэгш эрх",
+    "hanja": "平等權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평등사상",
+    "translation": "тэгш эрхийн үзэл санаа",
+    "hanja": "平等思想",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "평등하다",
+    "translation": "тэгш эрхтэй",
+    "hanja": "平等하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "평량",
+    "translation": "жигнэх, жинлэх",
+    "hanja": "平量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평론",
+    "translation": "Шүүмж, шүүмжлэл",
+    "hanja": "評論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평론가",
+    "translation": "шүүмжлэгч",
+    "hanja": "評論家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평론하다",
+    "translation": "шүүмжлэх",
+    "hanja": "評論하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평면",
+    "translation": "Хавтгай гадаргуу",
+    "hanja": "平面",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평면도",
+    "translation": "Халхлагын зураг",
+    "hanja": "평면도",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평면적",
+    "translation": "Хавтгай",
+    "hanja": "平面的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평민",
+    "translation": "энгийн иргэн",
+    "hanja": "平民(평민)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평발",
+    "translation": "хавтгай тавхай",
+    "hanja": "平발",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평방",
+    "translation": "дөрвөлжин",
+    "hanja": "平方",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평방미터",
+    "translation": "квадрат метр",
+    "hanja": "平方─",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평범하다",
+    "translation": "энгийн, жирийн",
+    "hanja": "平凡하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평범히",
+    "translation": "энгийнээр",
+    "hanja": "平凡히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평복",
+    "translation": "энгийн хувцас",
+    "hanja": "平服",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "평북",
+    "translation": "Пёнъян хойд",
+    "hanja": "平北",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "평사",
+    "translation": "хэвийн албан тушаалтан",
+    "hanja": "平事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평사원",
+    "translation": "жирийн ажилтан",
+    "hanja": "平社員",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "평산",
+    "translation": "Энгийн уул",
+    "hanja": "平山",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평상",
+    "translation": "энгийн үе",
+    "hanja": "평상(平常)",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "평상복",
+    "translation": "энгийн хувцас",
+    "hanja": "平常服",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "평상시",
+    "translation": "Энгийн үе",
+    "hanja": "平常時",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평상심",
+    "translation": "тайван байдал",
+    "hanja": "平常心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평생",
+    "translation": "насан туршдаа",
+    "hanja": "平生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평생직장",
+    "translation": "насан туршийн ажил",
+    "hanja": "平生職場",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "평생토록",
+    "translation": "насан туршдаа",
+    "hanja": "平生토록",
+    "pos": "adv",
+    "cefr": "B1"
+  },
+  {
+    "word": "평서문",
+    "translation": "хүүрнэх өгүүлбэр",
+    "hanja": "平敍文",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평석",
+    "translation": "шүүмж",
+    "hanja": "評釋",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "평성",
+    "translation": "тэгш байдал",
+    "hanja": "平聲",
+    "pos": "NNG",
+    "cefr": "C1"
+  },
+  {
+    "word": "평소",
+    "translation": "ердийн үед, энгийн үед",
+    "hanja": "平素",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평수",
+    "translation": "талбай",
+    "hanja": "坪數",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "평시",
+    "translation": "энхийн цаг",
+    "hanja": "平時",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평식",
+    "translation": "хоолны төрөл",
+    "hanja": "平食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평신도",
+    "translation": "Католик сүсэгтэн",
+    "hanja": "平信徒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평안",
+    "translation": "амар амгалан",
+    "hanja": "平安",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평안남도",
+    "translation": "Пёнъаннамдо",
+    "hanja": "平安南道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "평안도",
+    "translation": "Пёнъан муж",
+    "hanja": "平安道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "평안북도",
+    "translation": "Пёнсанбүкду (БНАСАУ-ын аймаг)",
+    "hanja": "平安北道",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "평안하다",
+    "translation": "Тайван",
+    "hanja": "平安하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평안히",
+    "translation": "энх тайван",
+    "hanja": "平安히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평야",
+    "translation": "тал хээр",
+    "hanja": "平野",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평양",
+    "translation": "Пхеньян",
+    "hanja": "平壤",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "평어",
+    "translation": "Энгийн үг",
+    "hanja": "平語",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "평영",
+    "translation": "мэлхий сэлэлт",
+    "hanja": "平泳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평온",
+    "translation": "Амар тайван",
+    "hanja": "平穩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평온하다",
+    "translation": "тайван",
+    "hanja": "平穩하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평온히",
+    "translation": "амар тайван",
+    "hanja": "平穩히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평용",
+    "translation": "ердийн хэрэглээ",
+    "hanja": "平用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "평원",
+    "translation": "тал",
+    "hanja": "平原",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "평의",
+    "translation": "хэлэлцүүлэг, зөвлөгөөн",
+    "hanja": "評議",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "평의회",
+    "translation": "зөвлөл",
+    "hanja": "評議會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평이하다",
+    "translation": "энгийн",
+    "hanja": "平易하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "평일",
+    "translation": "Ажлын өдөр",
+    "hanja": "平日",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "평작",
+    "translation": "дундаж бүтээл",
+    "hanja": "平作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평전",
+    "translation": "намтар, түүхэн намтар",
+    "hanja": "評傳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "평절",
+    "translation": "энгийн бөмбөр",
+    "hanja": "平節",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "평점",
+    "translation": "үнэлгээ",
+    "hanja": "評點",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "평정",
+    "translation": "тайван байдал",
+    "hanja": "平定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평정되다",
+    "translation": "тайвширах, тогтворжих",
+    "hanja": "平定되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평정심",
+    "translation": "тайван байдал, сэтгэлийн амар амгалан",
+    "hanja": "平定心",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "평정하다",
+    "translation": "Тайлбарлах",
+    "hanja": "評定하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "평준화",
+    "translation": "стандартчилах",
+    "hanja": "平準化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평준화되다",
+    "translation": "Тэгшитгэх, жигдлэх",
+    "hanja": "平準化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "평지",
+    "translation": "Тал газар",
+    "hanja": "平地",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "평지풍파",
+    "translation": "тайван газарт салхи дэгдээх мэт",
+    "hanja": "平地風波",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "평창",
+    "translation": "Пёнчан (газрын нэр)",
+    "hanja": "平昌",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "평촌",
+    "translation": "Пёнчон (хотын нэр)",
+    "hanja": "坪村",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "평타",
+    "translation": "дундаж цохилт",
+    "hanja": "平打",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "평탄하다",
+    "translation": "Тэгш, хавтгай",
+    "hanja": "平坦하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평택",
+    "translation": "Пёнтек (хот)",
+    "hanja": "平澤",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "평판",
+    "translation": "нэр хүнд, үнэлгээ",
+    "hanja": "評判",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평편하다",
+    "translation": "хавтгай, тэгш",
+    "hanja": "平便하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "평평하다",
+    "translation": "Хавтгай байх",
+    "hanja": "平平하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "평하다",
+    "translation": "үнэлэх",
+    "hanja": "評하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평행",
+    "translation": "параллель",
+    "hanja": "平行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평행봉",
+    "translation": "параллель мод",
+    "hanja": "平行棒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평행선",
+    "translation": "параллель шугам",
+    "hanja": "平行線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평행하다",
+    "translation": "зэрэгцээ",
+    "hanja": "平行하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평형",
+    "translation": "тэнцвэртэй байдал",
+    "hanja": "平衡",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "평화",
+    "translation": "энх тайван",
+    "hanja": "平和",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "평화로이",
+    "translation": "амар амгалан",
+    "hanja": "平和로이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평화롭다",
+    "translation": "Амар тайван",
+    "hanja": "平和롭다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평화상",
+    "translation": "Энх тайвны шагнал",
+    "hanja": "平和賞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "평화스럽다",
+    "translation": "энх тайван байдалтай",
+    "hanja": "平和스럽다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "평화적",
+    "translation": "тайван",
+    "hanja": "平和的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평화주의",
+    "translation": "энх тайвны үзэл",
+    "hanja": "平和主義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평화하다",
+    "translation": "тайван байх",
+    "hanja": "平和하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  }
+]

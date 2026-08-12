@@ -1,0 +1,44 @@
+[
+  {
+    "word": "솟",
+    "translation": "босго",
+    "hanja": "솟",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "솟구치다",
+    "translation": "Дээшээ огцом гарах",
+    "hanja": "솟구치다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "솟다",
+    "translation": "мандан гарах, оргилон гарах",
+    "hanja": "솟다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "솟아나다",
+    "translation": "Оргилох, дээшээ гарах",
+    "hanja": "솟아나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "솟아오르다",
+    "translation": "оргилох, үсрэн гарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "솟을대문",
+    "translation": "өндөр гол хаалга",
+    "hanja": "솟을大門",
+    "pos": "Noun",
+    "cefr": "C1"
+  }
+]

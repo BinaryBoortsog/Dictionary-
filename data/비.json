@@ -1,0 +1,2984 @@
+[
+  {
+    "word": "비",
+    "translation": "бороо",
+    "hanja": "雨",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비가다",
+    "translation": "хурим",
+    "hanja": "비가다",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비각",
+    "translation": "хөшөөний байшин",
+    "hanja": "碑閣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비강",
+    "translation": "хамарны хөндий",
+    "hanja": "鼻腔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비거",
+    "translation": "нисдэг тэрэг",
+    "hanja": "飛車",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비건",
+    "translation": "веган",
+    "hanja": "비건",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비겁자",
+    "translation": "аймхай хүн",
+    "hanja": "卑怯者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비겁하다",
+    "translation": "аймхай",
+    "hanja": "겁-怯",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비견",
+    "translation": "зэрэгцүүлшгүй",
+    "hanja": "比肩",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비견되다",
+    "translation": "харьцуулагдах",
+    "hanja": "比肩되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비견하다",
+    "translation": "зэрэгцэх, харьцуулах",
+    "hanja": "比肩하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "비결",
+    "translation": "нууц арга",
+    "hanja": "秘訣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비경",
+    "translation": "нууцлаг үзэсгэлэнт газар",
+    "hanja": "秘境",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비계",
+    "translation": "өөх",
+    "hanja": "肥肉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비곗덩어리",
+    "translation": "Өөхлөг хэсэг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비곗살",
+    "translation": "өрөм, өөх",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비고",
+    "translation": "тэмдэглэл, тайлбар",
+    "hanja": "備考",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비골",
+    "translation": "шаант чөмөг",
+    "hanja": "腓骨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비공개",
+    "translation": "Нууц",
+    "hanja": "非公開",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비공개되다",
+    "translation": "нийтэд дэлгэгдэхгүй байх",
+    "hanja": "非公開되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비공개하다",
+    "translation": "олон нийтэд нээлтгүй байх",
+    "hanja": "非公開하다",
+    "pos": "동",
+    "cefr": "B2"
+  },
+  {
+    "word": "비과세",
+    "translation": "Татваргүй",
+    "hanja": "非課稅",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비과학적",
+    "translation": "과학ын бус",
+    "hanja": "非科學的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비관",
+    "translation": "гутранги үзэл",
+    "hanja": "悲觀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비관적",
+    "translation": "гутранги үзэлтэй",
+    "hanja": "悲觀的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비관주의자",
+    "translation": "пессимист",
+    "hanja": "悲觀主義者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비관하다",
+    "translation": "гуних",
+    "hanja": "悲觀―",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비교",
+    "translation": "Харьцуулалт",
+    "hanja": "比較",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비교당하다",
+    "translation": "харьцуулагдах",
+    "hanja": "比較當하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비교되다",
+    "translation": "харьцуулагдах",
+    "hanja": "比較되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비교적",
+    "translation": "харьцангуй",
+    "hanja": "比較的",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비교하다",
+    "translation": "харьцуулах",
+    "hanja": "比較하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "비구",
+    "translation": "Эмэгтэй лам",
+    "hanja": "比丘",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비구름",
+    "translation": "борооны үүл",
+    "hanja": "비구름",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비국",
+    "translation": "Эмгэнэлт явдал, гунигт үйл явдал",
+    "hanja": "悲劇",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비굴",
+    "translation": "аймхай",
+    "hanja": "卑屈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비굴하다",
+    "translation": "гуйлгачин, өрөвдөлтэй",
+    "hanja": "卑屈하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비궁",
+    "translation": "Нууц ордон",
+    "hanja": "祕宮",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "비극",
+    "translation": "эмгэнэлт явдал",
+    "hanja": "悲劇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비극적",
+    "translation": "эмгэнэлтэй",
+    "hanja": "悲劇的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비근하다",
+    "translation": "Ойрхон",
+    "hanja": "卑近하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "비글",
+    "translation": "Бигль",
+    "hanja": "비글",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비급",
+    "translation": "нууц ном",
+    "hanja": "秘笈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비기다",
+    "translation": "ялахгүй, тэнцэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비꼬다",
+    "translation": "шоочлох, егөөдөх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "비꼬이다",
+    "translation": "мушгирах, гажуудах",
+    "hanja": "비꼬이다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비끼다",
+    "translation": "Хажуугаар өнгөрөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비나",
+    "translation": "Вина",
+    "hanja": "비나",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비나리",
+    "translation": "баяр хүргэх дуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비난",
+    "translation": "шүүмжлэл",
+    "hanja": "非難",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비난하다",
+    "translation": "буруушаах",
+    "hanja": "非難하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "비냉",
+    "translation": "Хүйтэн гоймонгийн салат (Халуун ногоотой хэрчсэн гоймонтой, шөлгүй, хүйтэн)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비너",
+    "translation": "винер",
+    "hanja": "비너",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비너스",
+    "translation": "Венера",
+    "hanja": "비너스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비녀",
+    "translation": "үсний хавчаар",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비노",
+    "translation": "дарс",
+    "hanja": "非奴",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비뇨",
+    "translation": "шээсний",
+    "hanja": "泌尿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비누",
+    "translation": "саван",
+    "hanja": "비누",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "비누칠하다",
+    "translation": "Саван түрхэх",
+    "hanja": "비누칠하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비눗물",
+    "translation": "савангийн ус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비눗방울",
+    "translation": "савангийн хөөс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비뉴",
+    "translation": "Бинью",
+    "hanja": "비뉴",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비늘",
+    "translation": "хальс",
+    "hanja": "비늘",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비니",
+    "translation": "малгай",
+    "hanja": null,
+    "pos": "нэр үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "비니거",
+    "translation": "цуу",
+    "hanja": "비니거",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비닐",
+    "translation": "гялгар уут",
+    "hanja": "비닐",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "비닐봉지",
+    "translation": "гялгар уут",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비다",
+    "translation": "хоосон байх",
+    "hanja": "비다",
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "비단",
+    "translation": "Торго",
+    "hanja": "緋緞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비담",
+    "translation": "Бидам (хувийн нэр)",
+    "hanja": "毗曇",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비대위",
+    "translation": "онцгой байдлын хороо",
+    "hanja": "非對委",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비대칭",
+    "translation": "тэгш бус байдал",
+    "hanja": "비대칭(非對稱)",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비대하다",
+    "translation": "хэт том байх",
+    "hanja": "肥大하다",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "비데",
+    "translation": "биде",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비도덕적",
+    "translation": "ёс суртахуунгүй",
+    "hanja": "非道德的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "비돌다",
+    "translation": "эргэлдэх, тойрох",
+    "hanja": "비돌다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비동",
+    "translation": "үхэр",
+    "hanja": "鼻洞",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "비동기",
+    "translation": "асинхрон",
+    "hanja": "非同期",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비두",
+    "translation": "утгуудын толгой",
+    "hanja": "鼻竇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비둘기",
+    "translation": "тагтаа",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비드",
+    "translation": "сувс",
+    "hanja": "비드",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비듬",
+    "translation": "хаг",
+    "hanja": "",
+    "pos": "name",
+    "cefr": "B1"
+  },
+  {
+    "word": "비등비등",
+    "translation": "тэнцүү, ижилхэн",
+    "hanja": "比等比等",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비등비등하다",
+    "translation": "хүч тэнцүү байх",
+    "hanja": "比等比等하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비등하다",
+    "translation": "буцлах, тэгш байх, адилхан байх",
+    "hanja": "沸騰하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "비디",
+    "translation": "Видео",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비디오",
+    "translation": "видео",
+    "hanja": "비디오",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비딩",
+    "translation": "санал тавих, үнэ хаях",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "비딱하다",
+    "translation": "хазгай",
+    "hanja": "비딱하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비딸",
+    "translation": "Хүчитгэсэн ган бөмбөг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비뚜름하다",
+    "translation": "мурий, хазгай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비뚤다",
+    "translation": "муруй, хазайсан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비뚤비뚤하다",
+    "translation": "Тахир муруй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비련",
+    "translation": "эмгэнэлт хайр",
+    "hanja": "悲戀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비렴",
+    "translation": "халуун орны шувуу",
+    "hanja": "裨濂",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비례",
+    "translation": "пропорц, харьцаа",
+    "hanja": "比例",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비례하다",
+    "translation": "хувь тэнцүү байх",
+    "hanja": "比例하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비로드",
+    "translation": "хилэн",
+    "hanja": "天鵞絨",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비로소",
+    "translation": "сая, дөнгөж",
+    "hanja": "비로소",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비록",
+    "translation": "хэдийгээр",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "비롯되다",
+    "translation": "үүсэх",
+    "hanja": " 비롯되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비롯하다",
+    "translation": "эхлэх, эхлэх цэг",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비료",
+    "translation": "бордоо",
+    "hanja": "肥料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비룡",
+    "translation": "Нисдэг луу",
+    "hanja": "飛龍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비루",
+    "translation": "муухай",
+    "hanja": "鄙陋",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "비루먹다",
+    "translation": "үл тоомсорлох",
+    "hanja": "誹陋먹다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비루하다",
+    "translation": "ёс бус",
+    "hanja": "卑陋하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "비류",
+    "translation": "нүүдэл",
+    "hanja": "飛流",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비르",
+    "translation": "Пийлүүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비리",
+    "translation": "авлига, муу үйлдэл",
+    "hanja": "非理",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비리다",
+    "translation": "Загасны үнэр гарах",
+    "hanja": "null",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "비리비리",
+    "translation": "Бие сул, эцэнхий",
+    "hanja": "",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "비리비리하다",
+    "translation": "Маш сул дорой, хүчгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비리야니",
+    "translation": "Бириани хоол",
+    "hanja": "biryani",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비린내",
+    "translation": "загасны үнэр",
+    "hanja": "null",
+    "pos": "м.н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "비릿하다",
+    "translation": "загасны үнэр үнэртэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비막",
+    "translation": "хальс, мөнгө",
+    "hanja": "鼻膜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비만",
+    "translation": "таргалалт",
+    "hanja": "肥滿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비만하다",
+    "translation": "тарган",
+    "hanja": "肥滿하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비말",
+    "translation": "цацраг, дусал",
+    "hanja": "飛沫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비망록",
+    "translation": "тэмдэглэлийн дэвтэр",
+    "hanja": "備忘錄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비머",
+    "translation": "Бимер (хүний нэр)",
+    "hanja": "Bimmer",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비명",
+    "translation": "хашгирах",
+    "hanja": "悲鳴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비명횡사",
+    "translation": "хүчирхийллийн үхэл",
+    "hanja": "非命橫死",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비명횡사하다",
+    "translation": "гэнэт үхэх, гамшгаар үрэгдэх",
+    "hanja": "非命橫死하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비모",
+    "translation": "самуун чанар",
+    "hanja": "非冒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비목",
+    "translation": "дууны нэр",
+    "hanja": "碑木",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비몽사몽",
+    "translation": "Хагас унтаа",
+    "hanja": "非夢似夢",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "비무장",
+    "translation": "Зэвсэггүй бүс",
+    "hanja": "非武裝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비문",
+    "translation": "хөшөөний бичээс",
+    "hanja": "碑文",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비밀",
+    "translation": "нууц",
+    "hanja": "秘密",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비밀리",
+    "translation": "нууцаар",
+    "hanja": "秘密裏",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비밀문서",
+    "translation": "нууц бичиг баримт",
+    "hanja": "秘密文書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비밀번호",
+    "translation": "нууц үг",
+    "hanja": "秘密番號",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "비밀스럽다",
+    "translation": "нууцлаг",
+    "hanja": "秘密스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비밀스레",
+    "translation": "нууцхан, далд",
+    "hanja": "秘密스레",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비밀이",
+    "translation": "Нууц",
+    "hanja": "秘密-",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "비밀투성이",
+    "translation": "нууц дүүрэн",
+    "hanja": "秘密투성이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비밀하다",
+    "translation": "нууцлах",
+    "hanja": "秘密하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비밀히",
+    "translation": "нууцаар",
+    "hanja": "秘密히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비바람",
+    "translation": "Хүчтэй салхитай бороо",
+    "hanja": "비바람",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비바리움",
+    "translation": "Вивариум",
+    "hanja": "비바리움",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비바체",
+    "translation": "виваче",
+    "hanja": "비바체",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비박",
+    "translation": "кемпинг (агуй, майхан гэх мэтгүй)",
+    "hanja": "非泊",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비발디",
+    "translation": "Вивальди",
+    "hanja": "Q",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비밥",
+    "translation": "бибап",
+    "hanja": "비밥",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비방",
+    "translation": "гүтгэлэг, муу хэлэх",
+    "hanja": "誹謗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비방하다",
+    "translation": "гүтгэх",
+    "hanja": "誹謗하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "비버",
+    "translation": "Минж",
+    "hanja": "beaver",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비번",
+    "translation": "нууц үг",
+    "hanja": "祕番",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비범하다",
+    "translation": "ер бусын, онцгой",
+    "hanja": "非凡하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비법",
+    "translation": "нууц арга",
+    "hanja": "秘法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비병",
+    "translation": "нууц өвчин",
+    "hanja": "秘病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비보",
+    "translation": "Муу мэдээ",
+    "hanja": "悲報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비봉",
+    "translation": "нисдэг орой",
+    "hanja": "飛鳳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비브",
+    "translation": "биб",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비브라토",
+    "translation": "вибрато",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비브리오",
+    "translation": "вибрио",
+    "hanja": "Vibrio",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비비",
+    "translation": "BB (тос)",
+    "hanja": "BB",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비비다",
+    "translation": "Үрэх, холих",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "비비비",
+    "translation": "ВВВ (тетрафторид)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비비안",
+    "translation": "Вивиан (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비비적거리다",
+    "translation": "Үрэх",
+    "hanja": "비비적거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비비적대다",
+    "translation": "Үрэх, үрж зогсох",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비비추",
+    "translation": "бибичу (ургамал)",
+    "hanja": "비비추",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비빔",
+    "translation": "холих, хутгах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비빔밥",
+    "translation": "бибимбаб",
+    "hanja": "비빔밥",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비사",
+    "translation": "нууц түүх",
+    "hanja": "秘史",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비산",
+    "translation": "тархах",
+    "hanja": "飛散",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비산하다",
+    "translation": "тархах",
+    "hanja": "飛散하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비상",
+    "translation": "Яаралтай байдал",
+    "hanja": "非常",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비상구",
+    "translation": "гарц",
+    "hanja": "非常口",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비상근무",
+    "translation": "онцгой ажил",
+    "hanja": "非常勤務",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비상금",
+    "translation": "Хуримтлал",
+    "hanja": "非常金",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비상벨",
+    "translation": "Онцгой байдлын хонх",
+    "hanja": "非常벨",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "비상시",
+    "translation": "Онцгой байдал",
+    "hanja": "非常時",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비상용",
+    "translation": "онцгой байдлын үед зориулсан",
+    "hanja": "非常用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비상조치",
+    "translation": "онцгой арга хэмжээ",
+    "hanja": "非常措置",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비상하다",
+    "translation": "гайхамшигтай, ер бусын",
+    "hanja": "非常하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비색",
+    "translation": "Маргад ногоон өнгө",
+    "hanja": "翡色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비서",
+    "translation": "Нарийн бичиг",
+    "hanja": "秘書",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비서실",
+    "translation": "нарийн бичгийн дарга",
+    "hanja": "祕書室",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비석",
+    "translation": "бунхан",
+    "hanja": "碑石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비선",
+    "translation": "сонгодоогүй",
+    "hanja": "非選",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비성",
+    "translation": "хамрын дуу",
+    "hanja": "鼻聲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비소",
+    "translation": "Хүнцэл",
+    "hanja": "비소",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비소설",
+    "translation": "уран зохиолын бус",
+    "hanja": "非小說",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비속",
+    "translation": "хүүхэд, үе залгамжлагч",
+    "hanja": "卑屬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비속어",
+    "translation": "бүдүүлэг үг",
+    "hanja": "卑俗語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비숍",
+    "translation": "бишоп (шахматын нэгэн цоохор)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비수",
+    "translation": "хутга",
+    "hanja": "匕首",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비수기",
+    "translation": "аялал жуулчлалын огцом бууралттай үе",
+    "hanja": "非需期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비술",
+    "translation": "нууц ур чадвар",
+    "hanja": "秘術",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비숫하다",
+    "translation": "ойролцоо",
+    "hanja": null,
+    "pos": "Adj",
+    "cefr": "B1"
+  },
+  {
+    "word": "비슈누",
+    "translation": "Вишну",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비슈케크",
+    "translation": "Бишкек",
+    "hanja": "Bishkek",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비스",
+    "translation": "дутуу, дутагдалтай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비스다",
+    "translation": "бисада (Энэтхэгийн хоол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비스듬하다",
+    "translation": "Налуу, хэвийсэн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비스듬히",
+    "translation": "Хиймэл, ташуу",
+    "hanja": "비스듬히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비스름하다",
+    "translation": "Төстэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비스마르크",
+    "translation": "Бисмарк",
+    "hanja": "비스마르크",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비스무리하다",
+    "translation": "төстэй, адилхан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비스켓",
+    "translation": "бисквит",
+    "hanja": "비스켓",
+    "pos": "명са",
+    "cefr": "A1"
+  },
+  {
+    "word": "비스코티",
+    "translation": "бискотти",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비스크",
+    "translation": "бисквит",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비스킷",
+    "translation": "жигнэмэг",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비스타",
+    "translation": "виста (компьютерийн үйлдлийн систем)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비스트",
+    "translation": "Араатан",
+    "hanja": "비스트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비스틀리",
+    "translation": "араатан мэт",
+    "hanja": "NaN",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "비스포크",
+    "translation": "захиалгаар хийсэн",
+    "hanja": "bespoke",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비슷비슷",
+    "translation": "төстэй төстэй",
+    "hanja": "비슷비슷",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "비슷비슷하다",
+    "translation": "Адилхан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비슷이",
+    "translation": "ойролцоогоор",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비슷하다",
+    "translation": "Төстэй",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "비시",
+    "translation": "Биши (хотын нэр)",
+    "hanja": "비시",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "비실거리다",
+    "translation": "сул дорой байх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비실비실",
+    "translation": "сул, бие муу",
+    "hanja": "null",
+    "pos": "부사 (Adverb)",
+    "cefr": "A2"
+  },
+  {
+    "word": "비실비실하다",
+    "translation": "сулбайх, сульдах",
+    "hanja": "Q",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비실하다",
+    "translation": "сул дорой байх",
+    "hanja": "비실하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비싸다",
+    "translation": "үнэтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비쎄다",
+    "translation": "маш хүчтэй, ширүүн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비씨",
+    "translation": "BC (Би Си карт)",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비아냥거리다",
+    "translation": "шоолох",
+    "hanja": "비아냥거리다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "비아냥대다",
+    "translation": "хорсон хэлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비아이",
+    "translation": "Б.И.",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비앙",
+    "translation": "Биан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비애",
+    "translation": "гуниг",
+    "hanja": "悲哀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비야",
+    "translation": "Вилья",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비약",
+    "translation": "Үсрэлт",
+    "hanja": "飛躍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비약적",
+    "translation": "үр дүнтэй",
+    "hanja": "飛躍的",
+    "pos": "관형사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비약하다",
+    "translation": "өндөр үсрэлт хийх",
+    "hanja": "飛躍-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비양심적",
+    "translation": "ёс суртахуунгүй",
+    "hanja": "非良心的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "비어",
+    "translation": "Хоосон үг, утгагүй яриа",
+    "hanja": "誹語",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비어드",
+    "translation": "Сахал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비에",
+    "translation": "бороонд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비에스",
+    "translation": "БС",
+    "hanja": "비에스",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비에이",
+    "translation": "БиЭй (газарзүйн нэр)",
+    "hanja": "비에이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비엔나",
+    "translation": "вена",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비엔날레",
+    "translation": "биеннале, хоёр жил тутамд болдог урлагийн үзэсгэлэн",
+    "hanja": "biennale",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비엔티안",
+    "translation": "Вьентьян",
+    "hanja": "Vientiane",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비엘",
+    "translation": "Биел",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비엠",
+    "translation": "БМВ (машины брэнд)",
+    "hanja": "비엠",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비연",
+    "translation": "Гэнэтийн учрал",
+    "hanja": "飛燕",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비열",
+    "translation": "зай хоорондын харьцаа",
+    "hanja": "比列",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비열하다",
+    "translation": "муухай, заваан",
+    "hanja": "卑劣하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비염",
+    "translation": "хамрын үрэвсэл",
+    "hanja": "鼻炎",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비오",
+    "translation": "Био (нэр)",
+    "hanja": "Bio",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비오티",
+    "translation": "Бот (хөгжмийн төрөл)",
+    "hanja": "B.O.T",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비오틴",
+    "translation": "Биотин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비옥",
+    "translation": "үржил шимтэй",
+    "hanja": "肥沃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비옥하다",
+    "translation": "үржил шимтэй",
+    "hanja": "肥沃하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비올라",
+    "translation": "виола",
+    "hanja": "viola",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비올레타",
+    "translation": "Виолетта",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비옷",
+    "translation": "борооны цув",
+    "hanja": "비옷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비와",
+    "translation": "Бива нуур",
+    "hanja": "琵琶",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비용",
+    "translation": "зардал, төлбөр",
+    "hanja": "費用",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비우",
+    "translation": "өвөл болсон ч бороо орох",
+    "hanja": "鼻雨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비운",
+    "translation": "үйлийн үнэгүй",
+    "hanja": "悲運",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비웃다",
+    "translation": "шоолох",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "비웃음",
+    "translation": "Дооглох, шоолох",
+    "hanja": "비웃음",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비원",
+    "translation": "нууц цэцэрлэг",
+    "hanja": "秘苑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비위",
+    "translation": "ходоод, дургүй",
+    "hanja": "脾胃",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비위생적",
+    "translation": "ариун цэврийн бус, эрүүл ахуйгүй",
+    "hanja": "非衛生的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비유",
+    "translation": "Зүйрлэл",
+    "hanja": "比喩",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비유되다",
+    "translation": "Зүйрлэн хэлэгдэх",
+    "hanja": "比喩되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비유적",
+    "translation": "Зүйрлэл",
+    "hanja": "比喩的",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비유하다",
+    "translation": "зүйрлэх",
+    "hanja": "比喩하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비윤리적",
+    "translation": "Ёс зүйгүй",
+    "hanja": "非倫理的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비율",
+    "translation": "харьцаа, хувь",
+    "hanja": "比率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비은행권",
+    "translation": "банк бус байгууллага",
+    "hanja": "非銀行圈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비읍",
+    "translation": "Монгол бичгийн Б үсэг",
+    "hanja": "ㅂ",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비인간성",
+    "translation": "Хүнлэг бус байдал",
+    "hanja": "非人間性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비인간화하다",
+    "translation": "Хүн биший болгох, хүн чанаргүй болгох",
+    "hanja": "非人間化-",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비일비재",
+    "translation": "байнга, дагнан",
+    "hanja": "非一非再",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비일비재하다",
+    "translation": "байнга тохиолдох",
+    "hanja": "非一非再하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비자",
+    "translation": "Виз",
+    "hanja": "visa",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비자금",
+    "translation": "Нууц сан",
+    "hanja": "秘資金",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비잔티움",
+    "translation": "Византи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비잔틴",
+    "translation": "Византийн",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "비장",
+    "translation": "Далд уй гашуу",
+    "hanja": "悲壯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비장미",
+    "translation": "эмгэнэлт гоо зүй",
+    "hanja": "悲壯美",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비장하다",
+    "translation": "Гунигтай, эмгэнэлтэй",
+    "hanja": "悲壯하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비저",
+    "translation": "визитер",
+    "hanja": "비저",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비적",
+    "translation": "дээрэмчин",
+    "hanja": "匪賊",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "비전",
+    "translation": "Алсын хараа",
+    "hanja": "Vision",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비전문가",
+    "translation": "мэргэжлийн бус хүн",
+    "hanja": "非專門家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비접촉식",
+    "translation": "холбоо барихгүй, хүрэлцэхгүй",
+    "hanja": "非接觸式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비정",
+    "translation": "зүрх муутай, хатуу сэтгэлтэй",
+    "hanja": "非情",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비정규직",
+    "translation": "Байнгын бус ажил",
+    "hanja": "非正規職",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비정상",
+    "translation": "хэвийн бус",
+    "hanja": "非正常",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비정상적",
+    "translation": "Хэвийн бус",
+    "hanja": "非正常的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비정하다",
+    "translation": "хүйтэн цэстэй",
+    "hanja": "非情하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비제",
+    "translation": "Бица",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비제이",
+    "translation": "VJ (video jockey)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비젼",
+    "translation": "алсын хараа, төсөөлөл",
+    "hanja": "vision",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비조",
+    "translation": "уг гарвал, өвөг дээдэс",
+    "hanja": "비조(鼻祖)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비좁다",
+    "translation": "Давчуу, багтахаа болих",
+    "hanja": "비좁다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비주",
+    "translation": "дагалдах зүйл",
+    "hanja": "備註",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비주류",
+    "translation": "үндсэн бус",
+    "hanja": "非主流",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비주얼",
+    "translation": "визуал",
+    "hanja": "비주얼",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비죽",
+    "translation": "уруулаа жимийх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비죽거리다",
+    "translation": "уруулаа цорвойлгох, гомдоллох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비죽비죽",
+    "translation": "цоройж цухуйх",
+    "hanja": "null",
+    "pos": "дагавар үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "비준",
+    "translation": "соёрхон батлах",
+    "hanja": "批准",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비준되다",
+    "translation": "Баталгаажих",
+    "hanja": "批准되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비준하다",
+    "translation": "соёрхон батлах, хүчин төгөлдөр болгох",
+    "hanja": "批准하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비중",
+    "translation": "харьцангуй жин, эзлэх хувь",
+    "hanja": "比重",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비쥬얼",
+    "translation": "хадагдах, харагдах байдал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비즈",
+    "translation": "сувс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비즈니스",
+    "translation": "бизнес",
+    "hanja": "business",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비즈니스맨",
+    "translation": "бизнесмен",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비즈쿨",
+    "translation": "бизнес сургууль",
+    "hanja": "비즈cool",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비지니스",
+    "translation": "бизнес",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비지다",
+    "translation": "шахагдах, нягтарших",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비지땀",
+    "translation": "хүнд хөлс, шаргуу хөдөлмөр",
+    "hanja": "비지땀",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비지떡",
+    "translation": "будаатай хатсан торт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비지엠",
+    "translation": "арын хөгжим",
+    "hanja": "BGM",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비지터",
+    "translation": "зочин",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "비질",
+    "translation": "шүүрдэх",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비질하다",
+    "translation": "шүүрдэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "비집다",
+    "translation": "шахах, түлхэх",
+    "hanja": "비집다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비쩍",
+    "translation": "Туранхай, арьс яс болсон",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비쭉",
+    "translation": "зурвас",
+    "hanja": "비쭉",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비쭉거리다",
+    "translation": "мушилзах, инээмсэглэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비차",
+    "translation": "нисдэг машин",
+    "hanja": "飛車",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비참",
+    "translation": "гамшиг",
+    "hanja": "悲慘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비참하다",
+    "translation": "Өрөвдөлтэй, золгүй",
+    "hanja": "悲慘하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "비참히",
+    "translation": "аймшигтай",
+    "hanja": "悲慘히",
+    "pos": "ADV",
+    "cefr": "C1"
+  },
+  {
+    "word": "비창",
+    "translation": "эмгэнэлт дуу",
+    "hanja": "悲唱",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비채",
+    "translation": "өрхийн өр",
+    "hanja": "負債",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비책",
+    "translation": "нууц төлөвлөгөө",
+    "hanja": "秘策",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비척거리다",
+    "translation": "тэнцвэргүй алхах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비척비척",
+    "translation": "хөл дээрээ тогтож ядах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비천",
+    "translation": "дорд",
+    "hanja": "鄙賤",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비천하다",
+    "translation": "ядуу дорой байх, бузарлах",
+    "hanja": "卑賤하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비추",
+    "translation": "зөвлөгөө",
+    "hanja": "祕訣",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비추다",
+    "translation": "гэрэл тусгах",
+    "hanja": "비추다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비추천하다",
+    "translation": "зөвлөхгүй",
+    "hanja": "非推薦하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비추하다",
+    "translation": "санал болгох, зөвлөх (비추천하다-гийн товчилсон)",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비축",
+    "translation": "нөөцлөх, хуримтлуулах",
+    "hanja": "備蓄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비축되다",
+    "translation": "нөөцөлж, хуримтлуулсан байх",
+    "hanja": "備蓄되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "비축하다",
+    "translation": "нөөцлөх",
+    "hanja": "備蓄하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비취",
+    "translation": "хаш чулуу",
+    "hanja": "翡翠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비취색",
+    "translation": "нефрит өнгө",
+    "hanja": "翡翠色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비츠",
+    "translation": "бит",
+    "hanja": "비츠",
+    "pos": "명са",
+    "cefr": "B2"
+  },
+  {
+    "word": "비치다",
+    "translation": "тусах",
+    "hanja": "비치다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비치되다",
+    "translation": "Байршуулах",
+    "hanja": "備置되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "비치하다",
+    "translation": "бэлэн байлгах, байрлуулах",
+    "hanja": "備置하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비칠거리다",
+    "translation": "далд орох",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "비커",
+    "translation": "химийн сав",
+    "hanja": "비커",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비케다",
+    "translation": "зайлах",
+    "hanja": "비케다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "비케이",
+    "translation": "BK (хүнсний нэмэлт, бохь)",
+    "hanja": "비케이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비켜나다",
+    "translation": "зайлах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "비켜서다",
+    "translation": "зайлах, хажуулах",
+    "hanja": "비켜서다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비키",
+    "translation": "Бики (хүний нэр)",
+    "hanja": "비키",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "비키니",
+    "translation": "Бикини",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비키다",
+    "translation": "холд",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비타민",
+    "translation": "витамин",
+    "hanja": "vitamin",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비타민제",
+    "translation": "Витамины бэлдмэл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비탄",
+    "translation": "гашуудах, харамсах",
+    "hanja": "悲嘆",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비탈",
+    "translation": "Налуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비탈길",
+    "translation": "налуу зам",
+    "hanja": "비탈길",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비터",
+    "translation": "Хүчиллэг, гашуун",
+    "hanja": "비터",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "비테",
+    "translation": "бидэ",
+    "hanja": "비테",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비토",
+    "translation": "хориг тавих, татгалзах",
+    "hanja": "否決",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비통",
+    "translation": "Гүн тайтгарал",
+    "hanja": "悲痛",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "비통하다",
+    "translation": "Гэмшмээр, харамсмаар",
+    "hanja": "悲痛하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비투비",
+    "translation": "Б2Б (Бизнесээс бизнес)",
+    "hanja": "B2B",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비트",
+    "translation": "бит",
+    "hanja": "비트",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비트겐슈타인",
+    "translation": "Витгенштейн",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "비트루비우스",
+    "translation": "Витрувий",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비틀",
+    "translation": "битлз",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비틀거리다",
+    "translation": "Тээнэгэлзэх, бэлбэгнэх",
+    "hanja": "비틀거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비틀다",
+    "translation": "мушгих",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "비틀대다",
+    "translation": "түй ч гэнээ",
+    "hanja": "비틀대다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비틀리다",
+    "translation": "мушгирах",
+    "hanja": "비틀리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비틀비틀",
+    "translation": "Ганхалзах, тэнцвэргүй алхах",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비틀비틀하다",
+    "translation": "гацаад байх",
+    "hanja": "비틀비틀하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "비틀스",
+    "translation": "Битлз (хөгжмийн хамтлаг)",
+    "hanja": "비틀스",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비틀즈",
+    "translation": "Битлз",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "비티",
+    "translation": "BT (технологийн нэр)",
+    "hanja": "BT",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비티에스",
+    "translation": "БТС",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "비파",
+    "translation": "бива (хөгжмийн зэмсэг)",
+    "hanja": "琵琶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비판",
+    "translation": "шүүмжлэл",
+    "hanja": "批判",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비판력",
+    "translation": "шүүмжлэх чадвар",
+    "hanja": "批判力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비판적",
+    "translation": "шүүмжлэлтэй",
+    "hanja": "批判的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "비판하다",
+    "translation": "шүүмжлэх",
+    "hanja": "批判하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비평",
+    "translation": "шүүмжлэл, үнэлгээ",
+    "hanja": "批評",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비평가",
+    "translation": "шүүмжлэгч",
+    "hanja": "批評家",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비평하다",
+    "translation": "шүүмжлэх",
+    "hanja": "批評하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비표",
+    "translation": "тэмдэг, зүүлт",
+    "hanja": "臂摽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비품",
+    "translation": "хэрэгсэл, тоног төхөөрөмж",
+    "hanja": "備品",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비프스테이크",
+    "translation": "үхрийн стейк",
+    "hanja": "비프스테이크",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비프스튜",
+    "translation": "үхрийн махны шөл",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "비피",
+    "translation": "BP (шахах даралт)",
+    "hanja": "비피",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비하",
+    "translation": "доромжлох",
+    "hanja": "卑下",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비하다",
+    "translation": "Харьцуулах",
+    "hanja": "比하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "비하인드",
+    "translation": "Арын",
+    "hanja": "비하인드",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "비하하다",
+    "translation": "гутаах, багаар үнэлэх",
+    "hanja": "卑下하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비합리",
+    "translation": "бодлогийн бус",
+    "hanja": "非合理",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비합리성",
+    "translation": "Үндэслэлгүй байдал",
+    "hanja": "非合理性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비합리적",
+    "translation": "үл үндэслэлтэй",
+    "hanja": "비합리적(非合理的)",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비핵",
+    "translation": "цөмийн бус",
+    "hanja": "非核",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비핵화하다",
+    "translation": "цөмийн зэвсгээс ангид байх",
+    "hanja": "非核化하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "비행",
+    "translation": "нислэг",
+    "hanja": "飛行",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비행기",
+    "translation": "онгоц",
+    "hanja": "飛行機",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "비행깃값",
+    "translation": "онгоцны билетний үнэ",
+    "hanja": "飛行機값",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "비행선",
+    "translation": "нисэх онгоц",
+    "hanja": "飛行船",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비행장",
+    "translation": "Нисэх онгоцны буудал",
+    "hanja": "飛行場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "비행하다",
+    "translation": "нисэх",
+    "hanja": "飛行하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비현실적",
+    "translation": "бодит бус",
+    "hanja": "非現實的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "비협조",
+    "translation": "хамтран ажиллахгүй байх",
+    "hanja": "非協調",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비형",
+    "translation": "B хэлбэр",
+    "hanja": "B型",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비호",
+    "translation": "Хамгаалах",
+    "hanja": "庇護",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "비호하다",
+    "translation": "хамгаалах",
+    "hanja": "庇護하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비혼",
+    "translation": "гэрлээгүй байх",
+    "hanja": "非婚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비화",
+    "translation": "нууц түүх",
+    "hanja": "秘話",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비화되다",
+    "translation": "нууц байдлаар яригдах",
+    "hanja": "秘話되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "비화하다",
+    "translation": "Ил болох, нууц задрах",
+    "hanja": "飛火하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "비회",
+    "translation": "нийгэмлэгт үл хамаарах",
+    "hanja": "非會員",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "비회원",
+    "translation": "гишүүн бус",
+    "hanja": "非會員",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "비효율",
+    "translation": "үр ашиггүй байдал",
+    "hanja": "非效率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "비효율적",
+    "translation": "үр ашиггүй",
+    "hanja": "非效率的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "비흡연자",
+    "translation": "тамхи татдаггүй хүн",
+    "hanja": "非吸煙者",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "비희",
+    "translation": "инээдтэй дүр",
+    "hanja": "誹戲",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

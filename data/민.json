@@ -1,0 +1,667 @@
+[
+  {
+    "word": "민",
+    "translation": "ард түмэн",
+    "hanja": "民",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민가",
+    "translation": "энгийн айл",
+    "hanja": "民家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민간",
+    "translation": "энгийн иргэн",
+    "hanja": "民間",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민간단체",
+    "translation": "Төрийн бус байгууллага",
+    "hanja": "民間團體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민간요법",
+    "translation": "ардын эмчилгээ",
+    "hanja": "民間療法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민간용",
+    "translation": "иргэний зориулалттай",
+    "hanja": "民間用",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민간인",
+    "translation": "иргэн",
+    "hanja": "民間人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민감",
+    "translation": "Мэдрэмтгий, хурц мэдрэмжтэй",
+    "hanja": "敏感",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민감성",
+    "translation": "хэт мэдрэмтгий",
+    "hanja": "敏感性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "민감하다",
+    "translation": "Мэдрэмтгий",
+    "hanja": "敏感하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민겸호",
+    "translation": "Мин Гём Хо (хүний нэр)",
+    "hanja": "閔謙鎬",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "민관",
+    "translation": "иргэд болон засгийн газар",
+    "hanja": "民官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민관군",
+    "translation": "иргэн, төрийн албан хаагч, цэрэг",
+    "hanja": "民官軍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "민구",
+    "translation": "Мингү (хүний нэр)",
+    "hanja": "밍구",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "민국",
+    "translation": "БНСУ",
+    "hanja": "民國",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "민권",
+    "translation": "иргэний эрх",
+    "hanja": "民權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민노총",
+    "translation": "Бүх ард түмний хөдөлмөрчдийн холбоо (Солонгос)",
+    "hanja": "民勞總",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "민다나오섬",
+    "translation": "Минданао арал",
+    "hanja": "민다나오섬",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "민단",
+    "translation": "иргэний бүлэг",
+    "hanja": "民團",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민담",
+    "translation": "ардын үлгэр",
+    "hanja": "民譚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민둥민둥하다",
+    "translation": "халцгай",
+    "hanja": "민둥민둥하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민둥산",
+    "translation": "нүцгэн уул",
+    "hanja": "민둥山",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민들레",
+    "translation": "Багваахай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민락동",
+    "translation": "Минлакдон (газарзүйн нэр)",
+    "hanja": "民樂洞",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민란",
+    "translation": "Ардын бослого",
+    "hanja": "民亂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민망",
+    "translation": "ичгүүртэй, эвгүй байдал",
+    "hanja": "憫惘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민망스럽다",
+    "translation": "ичмээр, эвгүй",
+    "hanja": "憫惘스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민망하다",
+    "translation": "ичгүүртэй, тавгүй",
+    "hanja": "旼望하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민무늬",
+    "translation": "энгийн, хээгүй",
+    "hanja": "민무늬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민물",
+    "translation": "Цэнгэг ус",
+    "hanja": "민물",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민물고기",
+    "translation": "цөөрмийн загас",
+    "hanja": "민물고기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민물낚시",
+    "translation": "цөөрмийн загасчлал",
+    "hanja": "민물낚시",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민박",
+    "translation": "гэр буудал, зочид байр",
+    "hanja": "民泊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민박하다",
+    "translation": "айлын гэрт хонох",
+    "hanja": "民泊하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민방위",
+    "translation": "иргэний хамгаалалт",
+    "hanja": "民防衛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민법",
+    "translation": "Иргэний хууль",
+    "hanja": "民法",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "민변",
+    "translation": "ард түмний эрхийн төлөөх хуульчдын холбоо",
+    "hanja": "民辯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "민병",
+    "translation": "ардын цэрэг",
+    "hanja": "民兵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민사",
+    "translation": "иргэний хэрэг",
+    "hanja": "民事",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "민상",
+    "translation": "ард түмэн",
+    "hanja": "民尙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "민생",
+    "translation": "Ардын амьдрал",
+    "hanja": "民生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민생고",
+    "translation": "ард түмний амьжиргааны хүндрэл",
+    "hanja": "民生苦",
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "민세",
+    "translation": "ард түмний татвар",
+    "hanja": "民稅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민소매",
+    "translation": "ханцуйгүй",
+    "hanja": "민소매",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민속",
+    "translation": "угсаатны зүй, ардын",
+    "hanja": "民俗",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "민속놀이",
+    "translation": "Үндэсний тоглоом",
+    "hanja": "民俗놀이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민속자료",
+    "translation": "ардын материал",
+    "hanja": "民俗資料",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "민속촌",
+    "translation": "ардын музей",
+    "hanja": "民俗村",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민속춤",
+    "translation": "ардын бүжиг",
+    "hanja": "民俗춤",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "민속학",
+    "translation": "угсаатны зүй",
+    "hanja": "民俗學",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "민수",
+    "translation": "иргэний",
+    "hanja": "民需",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민숙",
+    "translation": "гэр буудал, хувийн байр",
+    "hanja": "民俗",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "민스",
+    "translation": "татсан мах",
+    "hanja": "mince",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민스크",
+    "translation": "Минск",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "민심",
+    "translation": "хүн амын сэтгэл санаа",
+    "hanja": "民心",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "민어",
+    "translation": "гөрөөс",
+    "hanja": "民魚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민영익",
+    "translation": "Мин Ён-ик (хүний нэр)",
+    "hanja": "閔泳翊",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "민영화",
+    "translation": "хувьчлал",
+    "hanja": "民營化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민영화되다",
+    "translation": "Хувьчлагдах",
+    "hanja": "民營化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민영화하다",
+    "translation": "хувьчлах",
+    "hanja": "民營化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민완",
+    "translation": "чадварлаг, ур чадвартай",
+    "hanja": "敏腕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민요",
+    "translation": "ардын дуу",
+    "hanja": "民謠",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "민용",
+    "translation": "иргэний хэрэглээ",
+    "hanja": "民用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민원",
+    "translation": "иргэний өргөдөл",
+    "hanja": "民願",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민원실",
+    "translation": "иргэдийн өргөдөл хүлээн авах тасаг",
+    "hanja": "民願室",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민원인",
+    "translation": "гомдол гаргагч, иргэн",
+    "hanja": "民願人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민의",
+    "translation": "ард түмний хүсэл",
+    "hanja": "民意",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "민이",
+    "translation": "Миний",
+    "hanja": "민이",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "민자",
+    "translation": "Харц ард, эвгүй хүн (өөрөө юу ч хийдэггүй хүн)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민전",
+    "translation": "хувийн тариалангийн талбай",
+    "hanja": "民田",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민족",
+    "translation": "үндэстэн",
+    "hanja": "民族",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민족사",
+    "translation": "үндэстний түүх",
+    "hanja": "民族史",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민족성",
+    "translation": "үндэстний шинж чанар",
+    "hanja": "民族性",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "민족의식",
+    "translation": "Үндэсний ухамсар",
+    "hanja": "民族意識",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민족적",
+    "translation": "үндэстний",
+    "hanja": "民族的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "민족정신",
+    "translation": "үндэсний сүнс",
+    "hanja": "民族精神",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민족주의",
+    "translation": "Үндсэрхэг үзэл",
+    "hanja": "民族主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민주",
+    "translation": "ардчилал",
+    "hanja": "民主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민주적",
+    "translation": "Ардчилсан",
+    "hanja": "民主的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민주주의",
+    "translation": "ардчилал",
+    "hanja": "民主主義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민주화",
+    "translation": "Ардчилал",
+    "hanja": "民主化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민주화되다",
+    "translation": "ардчилсан болгох",
+    "hanja": "民主化되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "민중",
+    "translation": "ард түмэн",
+    "hanja": "民衆",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "민중가요",
+    "translation": "ардын дуу",
+    "hanja": "民衆歌謠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민증",
+    "translation": "иргэний үнэмлэх",
+    "hanja": "民證",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "민지",
+    "translation": "Минжи",
+    "hanja": "",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "민첩성",
+    "translation": "шаламгай, хурдан шаламгай байдал",
+    "hanja": "敏捷性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민첩하다",
+    "translation": "Шуурхай",
+    "hanja": "敏捷하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "민초",
+    "translation": "жирийн иргэн",
+    "hanja": "民草",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "민통선",
+    "translation": "иргэний хяналтын шугам",
+    "hanja": "民統線",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "민트",
+    "translation": "Ганга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "민폐",
+    "translation": "түвэг",
+    "hanja": "民弊",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "민호",
+    "translation": "Минхо (хүний нэр)",
+    "hanja": "民浩",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "민화",
+    "translation": "ардын зураг",
+    "hanja": "民畵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "민회",
+    "translation": "ардын хурал; иргэдийн хурал",
+    "hanja": "民會",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

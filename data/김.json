@@ -1,0 +1,478 @@
+[
+  {
+    "word": "김",
+    "translation": "уур",
+    "hanja": "김",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김개남",
+    "translation": "Ким Гэнам (хүний нэр)",
+    "hanja": "金介南",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김광섭",
+    "translation": "Ким Гван-соп",
+    "hanja": "金珖燮",
+    "pos": "인명",
+    "cefr": "B2"
+  },
+  {
+    "word": "김굉필",
+    "translation": "Ким Гёнпил (түүхэн хүн)",
+    "hanja": "金宏弼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김군",
+    "translation": "Ким Гүн (залуугийн нэр)",
+    "hanja": "金君",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "김규진",
+    "translation": "Ким Гю Жин",
+    "hanja": "金圭鎭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김기다",
+    "translation": "уурандах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "김나지움",
+    "translation": "гимнази",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "김냉",
+    "translation": "кимчи хөргөгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "김녕",
+    "translation": "Кимён",
+    "hanja": "김녕",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "김대건",
+    "translation": "Ким Дэгон (хүний нэр)",
+    "hanja": "金大建",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "김도희",
+    "translation": "Ким Ду Хый (хүний нэр)",
+    "hanja": "金道希",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김매다",
+    "translation": "хогийн ургамал зулгаах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "김발",
+    "translation": "будааны хуйлбар дэвсгэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김밥",
+    "translation": "кимбап",
+    "hanja": "김밥",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "김병국",
+    "translation": "Ким Бён-гук (Солонгос хүний нэр)",
+    "hanja": "金炳國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김병덕",
+    "translation": "Ким Бёндок",
+    "hanja": "金炳德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김병호",
+    "translation": "Ким Бён-хо",
+    "hanja": "金炳浩",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김부",
+    "translation": "Ноён Ким",
+    "hanja": "金夫",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "김빠지다",
+    "translation": "Урам хугарах",
+    "hanja": "김빠지다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "김상만",
+    "translation": "Ким Сан-ман",
+    "hanja": "金相萬",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김새다",
+    "translation": "уур гарах",
+    "hanja": "김새다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "김석진",
+    "translation": "Ким Сокжин",
+    "hanja": "金碩珍",
+    "pos": "нэр үг",
+    "cefr": "A1"
+  },
+  {
+    "word": "김성",
+    "translation": "кимсэг",
+    "hanja": "金姓",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "김수흥",
+    "translation": "Ким Сү-хөн",
+    "hanja": "金壽興",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "김씨",
+    "translation": "Ким овогт",
+    "hanja": "金氏",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김영란법",
+    "translation": "Ким Ён Ран хууль",
+    "hanja": "金英蘭法",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김영석",
+    "translation": "Ким Ёнсок (Нэр)",
+    "hanja": "金榮奭",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김옥균",
+    "translation": "Ким Ок-гюн (хувьсгалч)",
+    "hanja": "金玉均",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김용환",
+    "translation": "Ким Ён-хван (хүний нэр)",
+    "hanja": "金用煥",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김우진",
+    "translation": "Ким У-жин (хүний нэр)",
+    "hanja": "金祐鎭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김일성경기장",
+    "translation": "Ким Ир Сений цэнгэлдэх хүрээлэн",
+    "hanja": "金日成競技場",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "김일성광장",
+    "translation": "Ким Ир Сены талбай",
+    "hanja": "金日成廣場",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "김자점",
+    "translation": "Ким Жа Жом (хүний нэр)",
+    "hanja": "金自點",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김장",
+    "translation": "кимчи хийх",
+    "hanja": "김장",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김장독",
+    "translation": "Кимчи хадгалах сав",
+    "hanja": "김장독",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "김장철",
+    "translation": "кимчи хийх улирал",
+    "hanja": "김장철",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김장하다",
+    "translation": "кимчи хийх",
+    "hanja": "김장하다(金裝하다)",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김제",
+    "translation": "Кимже (нутгийн нэр)",
+    "hanja": "金堤",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김좌근",
+    "translation": "Ким Жвагын (хүний нэр)",
+    "hanja": "金左根",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "김좌진",
+    "translation": "Ким Цзва-жин",
+    "hanja": "金佐鎭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김준근",
+    "translation": "Ким Жүн-гүн (Солонгосын зураач)",
+    "hanja": "金俊根",
+    "pos": "Proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "김준민",
+    "translation": "Ким Жун-мин",
+    "hanja": "金俊民",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김지섭",
+    "translation": "Ким Жисоб (хүний нэр)",
+    "hanja": "金祉燮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김창숙",
+    "translation": "Ким Чан-сук",
+    "hanja": "金昌淑",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김채",
+    "translation": "Уурын хүнсний ногоо (хуучин үг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김천",
+    "translation": "Кимчон (хот)",
+    "hanja": "金泉",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김치",
+    "translation": "кимчи",
+    "hanja": "김치",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "김치국",
+    "translation": "кимчи шөл",
+    "hanja": "김치국",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김치국물",
+    "translation": "Кимчиний шөл",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "김치냉장고",
+    "translation": "кимчи хөргөгч",
+    "hanja": "김치冷藏庫",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "김치볶음",
+    "translation": "кимчи хуурга",
+    "hanja": "김치볶음",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김치볶음밥",
+    "translation": "Кимчитай хуурсан будаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김치소",
+    "translation": "Кимчиний доторлогоо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김치전",
+    "translation": "кимчиний хуушуур",
+    "hanja": "김치煎",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김치찌개",
+    "translation": "кимчи шөл",
+    "hanja": "김치찌개",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김칫국",
+    "translation": "кимчи шөл (метафороор хэт эрт баярлах)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "김칫국물",
+    "translation": "кимчиний шөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "김칫독",
+    "translation": "Кимчиний сав",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "김칫소",
+    "translation": "кимчиний доторх материал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "김태현",
+    "translation": "Ким Тэ Хён (хүний нэр)",
+    "hanja": "金泰顯",
+    "pos": "Proper Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "김포",
+    "translation": "Кимпо",
+    "hanja": "金浦",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김프",
+    "translation": "чимэг",
+    "hanja": "gimp",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김해",
+    "translation": "Кимхэ (хот)",
+    "hanja": "金海",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김현승",
+    "translation": "Ким Хён Сын (хүний нэр)",
+    "hanja": "金顯承",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김형래",
+    "translation": "Ким Хён-рэ",
+    "hanja": "金亨來",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김홍집",
+    "translation": "Ким Хон-жип (улс төрч)",
+    "hanja": "金弘集",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김화",
+    "translation": "Ким화",
+    "hanja": "金化",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

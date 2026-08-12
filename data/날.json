@@ -1,0 +1,366 @@
+[
+  {
+    "word": "날",
+    "translation": "Өдөр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "날강도",
+    "translation": "дээрэмчин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날개",
+    "translation": "далавч",
+    "hanja": "날개",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "날개깃",
+    "translation": "Далавчны өд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "날개돋이",
+    "translation": "Далавч ургах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "날개옷",
+    "translation": "далавчтай хувцас",
+    "hanja": "날개옷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날갯소리",
+    "translation": "далавчны чимээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "날갯죽지",
+    "translation": "дал",
+    "hanja": "날갯죽지",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "날갯짓",
+    "translation": "далавчаа дэвсэх",
+    "hanja": "날갯짓",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "날갯짓하다",
+    "translation": "Далавчаа дэвсэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "날계란",
+    "translation": "Түүхий өндөг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "날고기",
+    "translation": "түүхий мах",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "날다",
+    "translation": "Нисэх",
+    "hanja": "날다",
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "날달걀",
+    "translation": "түүхий өндөг",
+    "hanja": "날달걀",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "날뛰다",
+    "translation": "Харайх, дэгдэх",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "날라다니다",
+    "translation": "нисэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "날라댕기다",
+    "translation": "нисч үлгэртэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날라리",
+    "translation": "хөнгөмсөг хүн",
+    "hanja": "날라리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날래날래",
+    "translation": "хурдан хурдан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "날래다",
+    "translation": "хурдан",
+    "hanja": "날래다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날렵하다",
+    "translation": "шаламгай, түргэн шуурхай",
+    "hanja": "없음",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "날르다",
+    "translation": "хүргэх, зөөх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "날름거리다",
+    "translation": "долоох, гялс гялс хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "날름날름",
+    "translation": "хэлээ гаргах (амьтан), хурдан хурдан",
+    "hanja": "날름날름",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날름대다",
+    "translation": "ялгарч гарах, цухуйх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "날리다",
+    "translation": "нисгэх",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "날림",
+    "translation": "хөнгөмсөг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날벼락",
+    "translation": "гэнэтийн гай",
+    "hanja": "날벼락",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날새",
+    "translation": "үүр цайх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "날수",
+    "translation": "хоногийн тоо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "날숨",
+    "translation": "амьсгал гаргах",
+    "hanja": "날숨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "날쌔다",
+    "translation": "шуурхай, хурдан шаламгай",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날쌘돌이",
+    "translation": "хурдан хөдөлгөөнтэй хүн",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "날씨",
+    "translation": "цаг агаар",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "날씬하다",
+    "translation": "нарийн",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "날아다니다",
+    "translation": "нисэх",
+    "hanja": "날아다니다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "날아댕기다",
+    "translation": "нисч явах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "날아들다",
+    "translation": "хүрэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날아오르다",
+    "translation": "Дээшээ нисэх",
+    "hanja": "날아오르다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "날염",
+    "translation": "Хэвлэх",
+    "hanja": "捺染",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "날인",
+    "translation": "Тамга дарах",
+    "hanja": "捺印",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날인하다",
+    "translation": "тамга дарах",
+    "hanja": "捺印하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날조",
+    "translation": "зохиомол зүйл",
+    "hanja": "捏造",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "날조되다",
+    "translation": "хуурамчаар үйлдэх",
+    "hanja": "捏造되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "날조하다",
+    "translation": "зохион байгуулах",
+    "hanja": "捏造하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "날짐승",
+    "translation": "зэрлэг амьтан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "날짜",
+    "translation": "огноо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "날치",
+    "translation": "нисдэг загас",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날치기하다",
+    "translation": "хэт хурдан хийх, хууль батлах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날카롭다",
+    "translation": "хурц",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "날티",
+    "translation": "барби, нарийн торго",
+    "hanja": "날티",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "날파리",
+    "translation": "жижиг ялаа",
+    "hanja": "날파리",
+    "pos": "명사",
+    "cefr": "A2"
+  }
+]

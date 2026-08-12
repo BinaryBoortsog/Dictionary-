@@ -1,0 +1,7660 @@
+[
+  {
+    "word": "회사",
+    "translation": "компани",
+    "hanja": "會社",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "커피",
+    "translation": "кофе",
+    "hanja": "Coffee",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "영화",
+    "translation": "Кино",
+    "hanja": "映畫",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "카메라",
+    "translation": "камер",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "카드",
+    "translation": "карт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김치",
+    "translation": "кимчи",
+    "hanja": "김치",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "컴퓨터",
+    "translation": "компьютер",
+    "hanja": "컴퓨터",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "카페",
+    "translation": "кафе",
+    "hanja": "카페",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "크림",
+    "translation": "крим, цөцгийн тос",
+    "hanja": "cream",
+    "pos": "외래어",
+    "cefr": "A2"
+  },
+  {
+    "word": "광주",
+    "translation": "Куанжу (хот)",
+    "hanja": "光州",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "콘서트",
+    "translation": "концерт",
+    "hanja": "콘서트",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클럽",
+    "translation": "Клуб",
+    "hanja": "클럽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "경북",
+    "translation": "Кёнбүк",
+    "hanja": "慶北",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "경남",
+    "translation": "Кённам (Өмнөд Кёнсан аймаг)",
+    "hanja": "慶南",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "코드",
+    "translation": "Код",
+    "hanja": "코드",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "캠프",
+    "translation": "кэмп",
+    "hanja": "캠프",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "김밥",
+    "translation": "кимбап",
+    "hanja": "김밥",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "컨셉",
+    "translation": "концепт",
+    "hanja": "컨셉",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "캠핑",
+    "translation": "кемпинг",
+    "hanja": "캠핑",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "캐나다",
+    "translation": "Канад",
+    "hanja": "캐나다",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "쿠키",
+    "translation": "күүки",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "케이블",
+    "translation": "кабель",
+    "hanja": "케이블",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "코로나",
+    "translation": "корона",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "컨실러",
+    "translation": "консилер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콘셉트",
+    "translation": "концепт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "뮤직비디오",
+    "translation": "клип",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콘솔",
+    "translation": "консол",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜라",
+    "translation": "кола",
+    "hanja": "cola",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "동아리",
+    "translation": "клуб",
+    "hanja": "同아리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "게다",
+    "translation": "Кета (Модон шаахай)",
+    "hanja": "下駄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "캠페인",
+    "translation": "Кампанит ажил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "농도",
+    "translation": "концентраци",
+    "hanja": "濃度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강릉",
+    "translation": "Каннин (хот)",
+    "hanja": "江陵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카카오",
+    "translation": "какао",
+    "hanja": "cacao",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "카레",
+    "translation": "карри",
+    "hanja": "카레",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "노래방",
+    "translation": "караоке",
+    "hanja": "노래방",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "경기도",
+    "translation": "Кёнги аймаг",
+    "hanja": "京畿道",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쿠팡",
+    "translation": "Купанг",
+    "hanja": "Coupang",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "맥락",
+    "translation": "контекст",
+    "hanja": "脈絡",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고구려",
+    "translation": "Когурё",
+    "hanja": "高句麗",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "사이버",
+    "translation": "Кибер",
+    "hanja": "cyber",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "쿠폰",
+    "translation": "купон",
+    "hanja": "쿠폰",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "뮤비",
+    "translation": "клип",
+    "hanja": "MV",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김치찌개",
+    "translation": "кимчи шөл",
+    "hanja": "김치찌개",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "국밥",
+    "translation": "кукпаб (шөлтэй будаа)",
+    "hanja": "국밥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "영화관",
+    "translation": "кино театр",
+    "hanja": "映畫館",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "클리오",
+    "translation": "Клио (нэр)",
+    "hanja": "Clio",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "깻잎",
+    "translation": "кунжутын навч",
+    "hanja": "깻잎",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "킬로미터",
+    "translation": "Километр",
+    "hanja": "kilometer",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사이버펑크",
+    "translation": "Киберпанк",
+    "hanja": "사이버펑크",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콜라겐",
+    "translation": "Коллаген",
+    "hanja": "콜라겐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "캐럿",
+    "translation": "карат",
+    "hanja": "캐럿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "정장",
+    "translation": "костюм",
+    "hanja": "正裝",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "탭",
+    "translation": "крант, хуруувч",
+    "hanja": "탭",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "칼리",
+    "translation": "Кали (нээр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "코코넛",
+    "translation": "Кокос",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "경복궁",
+    "translation": "Кёнбок ордон",
+    "hanja": "景福宮",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "캡슐",
+    "translation": "капсул",
+    "hanja": "캡슐",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "크리스",
+    "translation": "Крис",
+    "hanja": "크리스",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "양복",
+    "translation": "Костюм",
+    "hanja": "洋服",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김형래",
+    "translation": "Ким Хён-рэ",
+    "hanja": "金亨來",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "공자",
+    "translation": "Күнз",
+    "hanja": "孔子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코딩",
+    "translation": "Код бичих",
+    "hanja": "Coding",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "만화책",
+    "translation": "комик ном, манга ном",
+    "hanja": "漫畫冊",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "캐시",
+    "translation": "кэш",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "컨테이너",
+    "translation": "контейнер",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "캄보디아",
+    "translation": "Камбож",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "카셀",
+    "translation": "Кассел",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가야",
+    "translation": "Каяа (солонгосын эртний улс)",
+    "hanja": "伽耶/加耶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칵테일",
+    "translation": "коктейл",
+    "hanja": "cocktail",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김포",
+    "translation": "Кимпо",
+    "hanja": "金浦",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "크로스",
+    "translation": "кросс",
+    "hanja": "cross",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "생크림",
+    "translation": "крем",
+    "hanja": "生cream",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "슈트",
+    "translation": "костюм",
+    "hanja": "Suit",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "영화제",
+    "translation": "кино наадам",
+    "hanja": "映畫祭",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "카지노",
+    "translation": "казино",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가디건",
+    "translation": "кардиган",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김장",
+    "translation": "кимчи хийх",
+    "hanja": "김장",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수돗물",
+    "translation": "крантны ус",
+    "hanja": "水道물",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "캠퍼스",
+    "translation": "кампус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "코코",
+    "translation": "Коко",
+    "hanja": "코코",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "깍두기",
+    "translation": "Кимчиний нэг төрөл",
+    "hanja": "깍두기",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "케첩",
+    "translation": "кетчуп",
+    "hanja": "ketchup",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "커피숍",
+    "translation": "кофе шоп",
+    "hanja": "coffee shop",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "회사원",
+    "translation": "компанийн ажилтан",
+    "hanja": "會社員",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "크레인",
+    "translation": "кран",
+    "hanja": "크레인",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임상",
+    "translation": "клиник",
+    "hanja": "臨床",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "보수적",
+    "translation": "консерватив",
+    "hanja": "保守的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "공산당",
+    "translation": "коммунист нам",
+    "hanja": "共産黨",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "코코아",
+    "translation": "какао",
+    "hanja": "코코아",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "쌈장",
+    "translation": "кимчи соус",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "감방",
+    "translation": "камер (хорих)",
+    "hanja": "監房",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "자본주의",
+    "translation": "капитализм",
+    "hanja": "資本主義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통조림",
+    "translation": "консерв",
+    "hanja": "通조림",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "컬링",
+    "translation": "керлинг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "콜롬비아",
+    "translation": "Колумб",
+    "hanja": "콜롬비아",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "카타르",
+    "translation": "Катар",
+    "hanja": "카타르",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "김씨",
+    "translation": "Ким овогт",
+    "hanja": "金氏",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "케이",
+    "translation": "К",
+    "hanja": "K",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "칼슘",
+    "translation": "Кальци",
+    "hanja": "칼슘",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "군단",
+    "translation": "корпус",
+    "hanja": "軍團",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "좌표",
+    "translation": "Координат",
+    "hanja": "坐標",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "크리스티",
+    "translation": "Кристи (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "캠핑하다",
+    "translation": "кемпинг хийх",
+    "hanja": null,
+    "pos": "үйл",
+    "cefr": "A2"
+  },
+  {
+    "word": "코알라",
+    "translation": "Коала",
+    "hanja": "koala",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "콤보",
+    "translation": "комбо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카르텔",
+    "translation": "Картел",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "원두",
+    "translation": "кофены үр",
+    "hanja": "原豆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쿠바",
+    "translation": "Куба",
+    "hanja": "쿠바",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "컵케이크",
+    "translation": "капкейк",
+    "hanja": "cupcake",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "케플러",
+    "translation": "Кеплер",
+    "hanja": "Kepler",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "교토",
+    "translation": "Киото",
+    "hanja": "京都",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "키위",
+    "translation": "Киви",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "킬로그램",
+    "translation": "килограмм",
+    "hanja": "킬로그램",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "김태현",
+    "translation": "Ким Тэ Хён (хүний нэр)",
+    "hanja": "金泰顯",
+    "pos": "Proper Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "코스프레",
+    "translation": "Косплей (хувцасны дүрд хувирах)",
+    "hanja": "Cosplay",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "동백",
+    "translation": "Камелиа цэцэг",
+    "hanja": "冬柏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "선인장",
+    "translation": "Кактус",
+    "hanja": "仙人掌",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "사옥",
+    "translation": "компанийн байр",
+    "hanja": "社屋",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공산주의",
+    "translation": "коммунизм",
+    "hanja": "共産主義",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "쿡",
+    "translation": "кук (нэр)",
+    "hanja": "Cook",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "콜린",
+    "translation": "колин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "캥거루",
+    "translation": "кэнгуру",
+    "hanja": "kangaroo",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "카니발",
+    "translation": "карнавал",
+    "hanja": "carnival",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "김해",
+    "translation": "Кимхэ (хот)",
+    "hanja": "金海",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "상영",
+    "translation": "Кино гаргах",
+    "hanja": "上映",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "추기경",
+    "translation": "Кардинал",
+    "hanja": "樞機卿",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "유교",
+    "translation": "күнзийн шашин",
+    "hanja": "儒敎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가톨릭",
+    "translation": "Католик шашин",
+    "hanja": "Catholic",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콤플렉스",
+    "translation": "комплекс",
+    "hanja": "콤플렉스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "영화배우",
+    "translation": "кино жүжигчин",
+    "hanja": "映畫俳優",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "보쌈",
+    "translation": "Кимчи боодолтой гахайн мах",
+    "hanja": "보쌈",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김치볶음밥",
+    "translation": "Кимчитай хуурсан будаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카자흐스탄",
+    "translation": "Казахстан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "크레딧",
+    "translation": "Кредит, зээл",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "천주교",
+    "translation": "католик шашин",
+    "hanja": "天主教",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카페인",
+    "translation": "кофеин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "코스모스",
+    "translation": "космос цэцэг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "캐러멜",
+    "translation": "карамель",
+    "hanja": "caramel",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "켈리",
+    "translation": "Келли (нэр)",
+    "hanja": "켈리",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "커리",
+    "translation": "карри",
+    "hanja": "커리",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "코스닥",
+    "translation": "КОСДЭК (Солонгосын хөрөнгийн зах зээл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "케일리",
+    "translation": "Кэйли",
+    "hanja": "케일리",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "크런치",
+    "translation": "Кранч (дасгал)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카라멜",
+    "translation": "карамель",
+    "hanja": "caramel",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "콜럼버스",
+    "translation": "Колумб",
+    "hanja": "Columbus",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "가나안",
+    "translation": "Канаан",
+    "hanja": "Canaan",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카우보이",
+    "translation": "ковбой",
+    "hanja": "카우보이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "빨갱이",
+    "translation": "коммунист (доромж)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카이스트",
+    "translation": "КАИСТ (Солонгосын шинжлэх ухаан, технологийн дээд сургууль)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "김치전",
+    "translation": "кимчиний хуушуур",
+    "hanja": "김치煎",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카스",
+    "translation": "касс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수트",
+    "translation": "костюм",
+    "hanja": "suit",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강북",
+    "translation": "Канбук (мөрний хойд тал)",
+    "hanja": "江北",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카르멘",
+    "translation": "Кармен",
+    "hanja": "카르멘",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "카리",
+    "translation": "Кари (хүний нэр)",
+    "hanja": "카리",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "콜리",
+    "translation": "Колли",
+    "hanja": "콜리",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "영화감독",
+    "translation": "кино найруулагч",
+    "hanja": "映畫監督",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "케네디",
+    "translation": "Кеннеди",
+    "hanja": "케네디",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "코로나바이러스",
+    "translation": "коронавирус",
+    "hanja": "코로나바이러스",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "서클",
+    "translation": "клуб, дугуйлан",
+    "hanja": "circle",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "깨알",
+    "translation": "кунжутын үр, жижигхэн зүйл",
+    "hanja": "깨알",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가야금",
+    "translation": "каягым (баягууд)",
+    "hanja": "伽倻琴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큐레이터",
+    "translation": "куратор",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카토",
+    "translation": "Като (нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "더덕",
+    "translation": "код-дон самнасан үндэс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "혼수상태",
+    "translation": "комын байдал",
+    "hanja": "昏睡狀態",
+    "pos": "мüns",
+    "cefr": "C1"
+  },
+  {
+    "word": "쿠퍼",
+    "translation": "Коппер",
+    "hanja": "쿠퍼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "규슈",
+    "translation": "Кюүшү (Японы арал)",
+    "hanja": "九州",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "칸나",
+    "translation": "канна цэцэг",
+    "hanja": "칸나",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클라크",
+    "translation": "Кларк",
+    "hanja": "클라크",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "케이시",
+    "translation": "Кейси",
+    "hanja": "케이시",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "코나",
+    "translation": "Кона",
+    "hanja": "코나",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "키이우",
+    "translation": "Киев",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "캐스",
+    "translation": "Кэсс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "콕스",
+    "translation": "Кокс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "야자",
+    "translation": "кокос",
+    "hanja": "椰子",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "회삿돈",
+    "translation": "компаний мөнгө",
+    "hanja": "會社돈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "거란",
+    "translation": "Кидан",
+    "hanja": "契丹",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무비",
+    "translation": "Кино (movie)",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "교코",
+    "translation": "Кёоко (нэр)",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "크루아상",
+    "translation": "Круассан",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카네이션",
+    "translation": "карнатион",
+    "hanja": "carnation",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "금강산",
+    "translation": "Кумгансан уул",
+    "hanja": "金剛山",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "카르마",
+    "translation": "карма",
+    "hanja": "—",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제논",
+    "translation": "ксенон (химийн элемент)",
+    "hanja": "Xenon",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카메라맨",
+    "translation": "камерчин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카터",
+    "translation": "Картер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "경상북도",
+    "translation": "Кёнсанбукдо (аймаг)",
+    "hanja": "慶尙北道",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "캠퍼",
+    "translation": "кемпингчин",
+    "hanja": " kaempeo",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "보어",
+    "translation": "комплемент",
+    "hanja": "보어(補語)",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "코펜하겐",
+    "translation": "Копенгаген",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "클라라",
+    "translation": "Клара",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "키치",
+    "translation": "Кич",
+    "hanja": "Kitsch",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경상도",
+    "translation": "Кёнсан-до мужийн",
+    "hanja": "慶尙道",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경숙",
+    "translation": "Кёнсук (нэр)",
+    "hanja": "慶淑",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김천",
+    "translation": "Кимчон (хот)",
+    "hanja": "金泉",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계피",
+    "translation": "киммис",
+    "hanja": "桂皮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쿼드",
+    "translation": "квад",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "영화계",
+    "translation": "Кино урлаг, кино салбар",
+    "hanja": "映畵界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금강",
+    "translation": "Кумган (уул); очир эрдэнэ",
+    "hanja": "金剛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고베",
+    "translation": "Кобе",
+    "hanja": "고베",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "영화사",
+    "translation": "кино компани",
+    "hanja": "映畫社",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "케밥",
+    "translation": "кебаб",
+    "hanja": "케밥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카이로",
+    "translation": "Каир",
+    "hanja": "Cairo",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "세라믹",
+    "translation": "керамик",
+    "hanja": "세라믹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "데릭",
+    "translation": "кран",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카누",
+    "translation": "каноэ (завь)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "깨소금",
+    "translation": "кунжутын давс",
+    "hanja": "깨소금",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "캘리포니아주",
+    "translation": "Калифорни муж (АНУ)",
+    "hanja": "California州",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "사진기",
+    "translation": "камер",
+    "hanja": "寫眞機",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "콩고",
+    "translation": "Конго (улс)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "케인",
+    "translation": "Кэйн",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클리셰",
+    "translation": "клише",
+    "hanja": "클리셰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고로케",
+    "translation": "Крокет",
+    "hanja": "Croquette",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "곤약",
+    "translation": "Коняак",
+    "hanja": "蒟蒻",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클레오파트라",
+    "translation": "Клеопатра",
+    "hanja": "Cleopatra",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "고바야시",
+    "translation": "Кобаяши",
+    "hanja": "小林",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김칫국",
+    "translation": "кимчи шөл (метафороор хэт эрт баярлах)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "켄",
+    "translation": "Кен (нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "코레",
+    "translation": "Коре (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카스테라",
+    "translation": "кастелла",
+    "hanja": "castella",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카세트",
+    "translation": "кассет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "구체화하다",
+    "translation": "конкретчлох",
+    "hanja": "具體化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가토",
+    "translation": "Като (Японы нэр)",
+    "hanja": "加藤",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "강훈",
+    "translation": "Кан Хун (хүний нэр)",
+    "hanja": "강훈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "키바",
+    "translation": "Кива (интернэт нэр)",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "카스텔라",
+    "translation": "Кастелла (бялуугийн нэр)",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "킬로",
+    "translation": "килограмм",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "껄껄",
+    "translation": "Көлкөл (хөгжилтэй инээх дуу)",
+    "hanja": "None",
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "기모노",
+    "translation": "кимно",
+    "hanja": "기모노",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칸트",
+    "translation": "Кант",
+    "hanja": "",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "사령탑",
+    "translation": "командын төв",
+    "hanja": "司令塔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콩쥐",
+    "translation": "Күнгжү",
+    "hanja": "豆丑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "강두",
+    "translation": "Кан Ду",
+    "hanja": "姜鬥",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카르",
+    "translation": "кар",
+    "hanja": "카르",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "간사이",
+    "translation": "Кансай (Японы бүс нутаг)",
+    "hanja": "關西",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "케찹",
+    "translation": "кетчуп",
+    "hanja": "케찹",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "촉매",
+    "translation": "катализатор",
+    "hanja": "觸媒",
+    "pos": "сущ",
+    "cefr": "C1"
+  },
+  {
+    "word": "캐시미어",
+    "translation": "Кашмер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "스턴트",
+    "translation": "каскадёр",
+    "hanja": "stunt",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카라반",
+    "translation": "караван, цуваа",
+    "hanja": "카라반",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콜로세움",
+    "translation": "Колизей",
+    "hanja": "콜로세움",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강정",
+    "translation": "Канджон (амттан)",
+    "hanja": "薑饊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타짜",
+    "translation": "картны шилдэг тоглогч",
+    "hanja": "타짜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "등유",
+    "translation": "керосин",
+    "hanja": "등유(燈油)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김장하다",
+    "translation": "кимчи хийх",
+    "hanja": "김장하다(金裝하다)",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "코발트",
+    "translation": "кобальт",
+    "hanja": "코발트",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "카리브해",
+    "translation": "Карибын тэнгис",
+    "hanja": "카리브海",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고조선",
+    "translation": "Кочосон",
+    "hanja": "古朝鮮",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "재상",
+    "translation": "канцлер",
+    "hanja": "宰相",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "켈프",
+    "translation": "Келп (далайн ургамал)",
+    "hanja": "kelp",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코덱스",
+    "translation": "Кодекс",
+    "hanja": "codex",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크리",
+    "translation": "Кри",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "규호",
+    "translation": "Кюүхо (нэр)",
+    "hanja": "규호",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "코노",
+    "translation": "караоке өрөө (тогтмол хэрэглэгддэг товчлол)",
+    "hanja": "코노",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "캡사이신",
+    "translation": "Капсаицин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "키미",
+    "translation": "Кимми",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "경상남도",
+    "translation": "Кёнсаннамду муж",
+    "hanja": "慶尙南道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강강술래",
+    "translation": "кангансуллэ",
+    "hanja": "강강술래",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경아",
+    "translation": "Кён-а (хүний нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콘",
+    "translation": "Конус",
+    "hanja": "콘",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전산망",
+    "translation": "компьютерийн сүлжээ",
+    "hanja": "電算網",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김치냉장고",
+    "translation": "кимчи хөргөгч",
+    "hanja": "김치冷藏庫",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "코카인",
+    "translation": "кокаин",
+    "hanja": "코카인",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "켄타우로스",
+    "translation": "кентавр",
+    "hanja": "켄타우로스",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "카푸치노",
+    "translation": "капучино",
+    "hanja": "카푸치노",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "가노",
+    "translation": "Канно (япон/хүн нэр)",
+    "hanja": "加納",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "칼륨",
+    "translation": "калий",
+    "hanja": "칼륨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콘덴서",
+    "translation": "конденсатор",
+    "hanja": "콘덴서",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코마",
+    "translation": "Кома",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "컨베이어",
+    "translation": "Конвейер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "커스터드",
+    "translation": "Кастэрд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가라테",
+    "translation": "Каратэ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꽹과리",
+    "translation": "квэнгвари (хөгжмийн зэмсэг)",
+    "hanja": "꽹과리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코크",
+    "translation": "кокс",
+    "hanja": "Coke",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "쿠웨이트",
+    "translation": "Кувейт",
+    "hanja": "Kuwait",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "고창",
+    "translation": "Кочан (지명); өндөр дуу хоолой",
+    "hanja": "高敞",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "캐머런",
+    "translation": "Камерон",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쿠알라룸푸르",
+    "translation": "Куала-Лумпур",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "디카페인",
+    "translation": "Кафеингүйжүүлсэн",
+    "hanja": "디카페인",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "컨소시엄",
+    "translation": "консорциум",
+    "hanja": "consortium",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "코요테",
+    "translation": "койот",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강씨",
+    "translation": "Канг овогт",
+    "hanja": "姜氏",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "컴팩트하다",
+    "translation": "компакт",
+    "hanja": "컴팩트하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "쿠쿠",
+    "translation": "куку",
+    "hanja": "쿠쿠",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클로드",
+    "translation": "Клод",
+    "hanja": "클로드",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클론",
+    "translation": "клонинг",
+    "hanja": "clone",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "큐피드",
+    "translation": "куппид",
+    "hanja": "Cupid",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가쓰오부시",
+    "translation": "кацуобуши (загас)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "크로노스",
+    "translation": "Кронос",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "켐프",
+    "translation": "Кемп",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "코덱",
+    "translation": "кодек",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크리티컬",
+    "translation": "критикал",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "캐리커처",
+    "translation": "карикатур",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칼라일",
+    "translation": "Карлайл",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "까르보나라",
+    "translation": "карбонара",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "코믹스",
+    "translation": "комикс",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "카탈로그",
+    "translation": "каталог",
+    "hanja": "catalogue",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카트리지",
+    "translation": "картриж",
+    "hanja": "cartridge",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "카논",
+    "translation": "канон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가와사키",
+    "translation": "Кавасаки",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카불",
+    "translation": "Кабул",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "킬리만자로",
+    "translation": "Килиманжаро",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜린스",
+    "translation": "Коллинс (нэр)",
+    "hanja": "Collins",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "캐디",
+    "translation": "кедди",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "세라마이드",
+    "translation": "керамид",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "translation": "каак",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1",
+    "word": "카약"
+  },
+  {
+    "word": "카투사",
+    "translation": "Катуса (Солонгос-Америк армийн хамтарсан хэсэг)",
+    "hanja": "카투사",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콰다",
+    "translation": "Квада",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "캠벨",
+    "translation": "Кэмпбелл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "코미",
+    "translation": "Коми",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클레르",
+    "translation": "Клер",
+    "hanja": "Claire",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카노",
+    "translation": "Кано (нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "크로켓",
+    "translation": "крокет",
+    "hanja": "크로켓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쿠르스크",
+    "translation": "Курск",
+    "hanja": "쿠르스크",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "코스타리카",
+    "translation": "Коста Рика",
+    "hanja": "코스타리카",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "쿵푸",
+    "translation": "кунг-фу",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "컴프레서",
+    "translation": "компрессор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "코딩하다",
+    "translation": "кодлох",
+    "hanja": "coding하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카타르시스",
+    "translation": "катарсис",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원뿔",
+    "translation": "конус",
+    "hanja": "圓뿔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜트",
+    "translation": "кольт",
+    "hanja": "Colt",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "컴플렉스",
+    "translation": "комплекс",
+    "hanja": "complex",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "켈러",
+    "translation": "Келлер",
+    "hanja": "Keller",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카뮈",
+    "translation": "Камю",
+    "hanja": "Camus",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "궁예",
+    "translation": "Кун Е (Солонгосын хаан)",
+    "hanja": "弓裔",
+    "pos": "Proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "협주곡",
+    "translation": "концерт",
+    "hanja": "協奏曲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "키로",
+    "translation": "кило",
+    "hanja": "키로",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "코듀로이",
+    "translation": "кордурой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "코비",
+    "translation": "Коби",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "경산",
+    "translation": "Кёнсан (хот)",
+    "hanja": "慶山",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "코르",
+    "translation": "коридор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "키아다",
+    "translation": "Киада",
+    "hanja": "키아다",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "케타민",
+    "translation": "кетамин",
+    "hanja": "ketamine",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "영사관",
+    "translation": "консулын газар",
+    "hanja": "領事館",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코이카",
+    "translation": "Койка (Солонгосын олон улсын хамтын ажиллагааны агентлаг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코린토스",
+    "translation": "Коринф",
+    "hanja": "코린토스",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "킨텍스",
+    "translation": "КИНТЕКС (үзэсгэлэнгийн төв)",
+    "hanja": "킨텍스",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "공산군",
+    "translation": "коммунист арми",
+    "hanja": "共産軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김영란법",
+    "translation": "Ким Ён Ран хууль",
+    "hanja": "金英蘭法",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "케리",
+    "translation": "Керри",
+    "hanja": "Kerry",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "끄",
+    "translation": "Кы (дуу чимээг дуурайх үг)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쿠스코",
+    "translation": "Куско",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콤비네이션",
+    "translation": "Комбинаци",
+    "hanja": "콤비네이션",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카트만두",
+    "translation": "Катманду",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "키예프",
+    "translation": "Киев",
+    "hanja": "NULL",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "카루",
+    "translation": "Кару",
+    "hanja": "―",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "꼬끼오",
+    "translation": "кукареку",
+    "hanja": "―",
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "크리스티나",
+    "translation": "Кристина",
+    "hanja": "Christina",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "기무라",
+    "translation": "Кимура (Японы нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "큐빗",
+    "translation": "Кюбит (физикийн нэгж)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카드뮴",
+    "translation": "Кадми",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코르티솔",
+    "translation": "Кортизол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "케임브리지",
+    "translation": "Кембридж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "킨디",
+    "translation": "Кинди",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자일리톨",
+    "translation": "ксилитол",
+    "hanja": "자일리톨",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "코소보",
+    "translation": "Косово",
+    "hanja": "Kosovo",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카이저",
+    "translation": "кайзер (эзэн хаан)",
+    "hanja": "Kaiser",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "플라스크",
+    "translation": "Колбо",
+    "hanja": "flask",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜롬보",
+    "translation": "Коломбо",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "클리블랜드",
+    "translation": "Кливленд",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "식민지",
+    "translation": "колони",
+    "hanja": "植民地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "케일",
+    "translation": "кейл (ногоо)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "코호트",
+    "translation": "когорт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고린도",
+    "translation": "Коринт",
+    "hanja": "고린도",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "키르기스스탄",
+    "translation": "Киргизстан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "크레이프",
+    "translation": "Креп",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카탈루냐",
+    "translation": "Каталан",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가마쿠라",
+    "translation": "Камакура",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "크로와상",
+    "translation": "Круассан",
+    "hanja": "croissant",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쿵후",
+    "translation": "Кунг-фу",
+    "hanja": "功夫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "캉",
+    "translation": "кан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김장철",
+    "translation": "кимчи хийх улирал",
+    "hanja": "김장철",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "강남",
+    "translation": "Каннам",
+    "hanja": "江南",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "크레이그",
+    "translation": "Крэйг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "콤부차",
+    "translation": "Комбуча",
+    "hanja": "콤부차",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "코페르니쿠스",
+    "translation": "Коперник",
+    "hanja": "코페르니쿠스",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "로스팅",
+    "translation": "кофе шарах",
+    "hanja": "로스팅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공산",
+    "translation": "коммунизм, коммунист",
+    "hanja": "共産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강태",
+    "translation": "Канта (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "퀘벡",
+    "translation": "Квебек",
+    "hanja": "魁北",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카메룬",
+    "translation": "Камерун",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "까페",
+    "translation": "Кафе",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김제",
+    "translation": "Кимже (нутгийн нэр)",
+    "hanja": "金堤",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "커피포트",
+    "translation": "кофены данх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가라오케",
+    "translation": "караоке",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "암호화",
+    "translation": "кодлох, нууцлах",
+    "hanja": "暗號化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코바",
+    "translation": "Коба (нэр)",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김군",
+    "translation": "Ким Гүн (залуугийн нэр)",
+    "hanja": "金君",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카슨",
+    "translation": "Карсон",
+    "hanja": "Carson",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "키츠",
+    "translation": "китс",
+    "hanja": "Keats",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "삿갓",
+    "translation": "конус хэлбэрийн малгай",
+    "hanja": "삿갓",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "기철",
+    "translation": "Кичõл",
+    "hanja": "기철",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼리스토",
+    "translation": "Каллисто",
+    "hanja": "칼리스토",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카프카",
+    "translation": "Кафка",
+    "hanja": "카프카",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코모도",
+    "translation": "Комодо",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기창",
+    "translation": "Кичан",
+    "hanja": "기창",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강감찬",
+    "translation": "Кан Кам-чхан",
+    "hanja": "姜邯贊",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "코카",
+    "translation": "Кока",
+    "hanja": "코카",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코르셋",
+    "translation": "корсет",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퀴리",
+    "translation": "Кюри",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "클라인",
+    "translation": "Клайн",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "가타기리",
+    "translation": "Катагири (Япон нэр)",
+    "hanja": null,
+    "pos": "고유명사 (Proper Noun)",
+    "cefr": "A2"
+  },
+  {
+    "word": "컴퍼스",
+    "translation": "компас",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "킬로와트시",
+    "translation": "киловатт-цаг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콘택트렌즈",
+    "translation": "контакт линз",
+    "hanja": "contact lens",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카레라이스",
+    "translation": "Карритай будаа",
+    "hanja": "Curry Rice",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "컬럼비아",
+    "translation": "Колумбиа",
+    "hanja": "Columbia",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "코란",
+    "translation": "Коран",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카세트테이프",
+    "translation": "кассетний бичлэг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카페테리아",
+    "translation": "кафетери",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콘래드",
+    "translation": "Конрад",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "킥복싱",
+    "translation": "кикбокс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "코트디부아르",
+    "translation": "Кот-д'Ивуар",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "강나미",
+    "translation": "Кан На-ми (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "클레",
+    "translation": "Клее (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콩코드",
+    "translation": "Конкорд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "키코",
+    "translation": "Кико (нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "쿠르드족",
+    "translation": "Курд үндэстэн",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "크리스토프",
+    "translation": "Кристоф (нэр)",
+    "hanja": "Christophe",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "캔자스시티",
+    "translation": "Канзас хот (хот)",
+    "hanja": "Kansas City",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "클라리넷",
+    "translation": "кларнет (хөгжмийн зэмсэг)",
+    "hanja": "clarinet",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가고시마",
+    "translation": "Кагошима",
+    "hanja": "Kagoshima",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "카메오",
+    "translation": "камео",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "코울슬로",
+    "translation": "коулслоу",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "반공",
+    "translation": "Коммунизмын эсрэг",
+    "hanja": "反共",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "코브라",
+    "translation": "Кобра",
+    "hanja": "코브라",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "인코딩",
+    "translation": "Кодчилол",
+    "hanja": "인코딩",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "기훈",
+    "translation": "Ки Хун",
+    "hanja": "기훈",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "크럼블",
+    "translation": "Крамбл (амттан)",
+    "hanja": "크럼블",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "카사노바",
+    "translation": "Касанова",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "코냑",
+    "translation": "коньяк",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "김성",
+    "translation": "кимсэг",
+    "hanja": "金姓",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "크레디트",
+    "translation": "кредит",
+    "hanja": "―",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "크로스컨트리",
+    "translation": "кросс-кантри",
+    "hanja": "―",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "커피콩",
+    "translation": "кофены шош",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "케이프커내버럴",
+    "translation": "Кэйп Канаверал",
+    "hanja": "Cape Canaveral",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크롤",
+    "translation": "кролл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "관동",
+    "translation": "Кантон",
+    "hanja": "關東",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코픽스",
+    "translation": "КОПИКС (банкны зээлийн хувь)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "켄턴",
+    "translation": "Кентон (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쿤",
+    "translation": "Кун (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "캠",
+    "translation": "камер",
+    "hanja": "cam",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고씨",
+    "translation": "Ко овогт",
+    "hanja": "高氏",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "꼬냑",
+    "translation": "коньяк",
+    "hanja": "코냑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "크로스오버",
+    "translation": "кроссовер",
+    "hanja": "crossover",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "실로폰",
+    "translation": "ксилофон",
+    "hanja": "실로폰",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경희궁",
+    "translation": "Кёнхи тайтгай",
+    "hanja": "慶熙宮",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "카톨릭",
+    "translation": "католик",
+    "hanja": "Catholic",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카루스",
+    "translation": "Карус",
+    "hanja": "카루스",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "키토",
+    "translation": "Кито",
+    "hanja": "키토",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "캬라멜",
+    "translation": "карамель",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "카사바",
+    "translation": "Кассавая",
+    "hanja": "카사바",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "캘거리",
+    "translation": "Калгари",
+    "hanja": "캘거리",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "키덜트",
+    "translation": "кидалт",
+    "hanja": null,
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "히로",
+    "translation": "Катана",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카나리아",
+    "translation": "канари",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "콘도",
+    "translation": "кондо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "키라",
+    "translation": "Кира",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카파도키아",
+    "translation": "Каппадокия",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "간자키",
+    "translation": "Канзаки",
+    "hanja": "かんざき",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "규장각",
+    "translation": "Кюжангаг (Жосон улсын хааны номын сан)",
+    "hanja": "奎章閣",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "코티",
+    "translation": "Коти (нэр)",
+    "hanja": "코티",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "코시",
+    "translation": "Коши",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "클림트",
+    "translation": "Климт",
+    "hanja": "null",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "쿼크",
+    "translation": "кварк",
+    "hanja": "쿼크",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김우진",
+    "translation": "Ким У-жин (хүний нэр)",
+    "hanja": "金祐鎭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "콜라주",
+    "translation": "коллаж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "마분지",
+    "translation": "Картон цаас",
+    "hanja": "馬糞紙",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "콘스탄티노플",
+    "translation": "Константинополь",
+    "hanja": "콘스탄티노플",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클라쓰",
+    "translation": "класс, түвшин",
+    "hanja": "클라쓰",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콘도르",
+    "translation": "кондор (махчин шувуу)",
+    "hanja": "コンドル",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카인",
+    "translation": "Каин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "크리켓",
+    "translation": "Крикет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광종",
+    "translation": "Кванжун (солонгосын хааны нэр)",
+    "hanja": "光宗",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "교동",
+    "translation": "Кёдон (газар нэр)",
+    "hanja": "校洞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "김칫국물",
+    "translation": "кимчиний шөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카바레",
+    "translation": "кабаре",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광교",
+    "translation": "Квангё (газарзүйн нэр)",
+    "hanja": "光敎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "암호화되다",
+    "translation": "кодлогдох",
+    "hanja": "暗號化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카스트",
+    "translation": "каст",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "김옥균",
+    "translation": "Ким Ок-гюн (хувьсгалч)",
+    "hanja": "金玉均",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "곤도",
+    "translation": "Кондо (Японы овог)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "켈로그",
+    "translation": "Келлогг",
+    "hanja": "Kellogg",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "케이퍼",
+    "translation": "каперс",
+    "hanja": "caper",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "김석진",
+    "translation": "Ким Сокжин",
+    "hanja": "金碩珍",
+    "pos": "нэр үг",
+    "cefr": "A1"
+  },
+  {
+    "word": "비박",
+    "translation": "кемпинг (агуй, майхан гэх мэтгүй)",
+    "hanja": "非泊",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "큐시트",
+    "translation": "кюү шийт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "코스모폴리탄",
+    "translation": "космополитан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "케찰코아틀",
+    "translation": "Кетцалькоатль",
+    "hanja": "케찰코아틀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "커피믹스",
+    "translation": "кофе микс",
+    "hanja": "coffee mix",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "커미션",
+    "translation": "комисс, хураамж",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퀴노아",
+    "translation": "Квиноа",
+    "hanja": "quinoa",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "키르케고르",
+    "translation": "Кьеркегор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전산",
+    "translation": "компьютер, мэдээлэл зүй",
+    "hanja": "電算",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "콩레이",
+    "translation": "Күнгрэй (хуй салхины нэр)",
+    "hanja": "콩레이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카프",
+    "translation": "Каф",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "클랙슨",
+    "translation": "клаксон",
+    "hanja": "klaxon",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "구마모토",
+    "translation": "Кумамото",
+    "hanja": "熊本",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "쾰른",
+    "translation": "Кёлн",
+    "hanja": "Cologne",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "커닝햄",
+    "translation": "Каннингем",
+    "hanja": "Cunningham",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "카시",
+    "translation": "Каши",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "카잔",
+    "translation": "Казань",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클로스",
+    "translation": "Класс (зэрэглэл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "케트",
+    "translation": "кет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고레",
+    "translation": "коре",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "킬로와트",
+    "translation": "киловатт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "성냥팔이",
+    "translation": "кибритчин (кибрит зардаг хүн)",
+    "hanja": "성냥팔이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사이버스페이스",
+    "translation": "кибер орон зай",
+    "hanja": "사이버스페이스",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "단란주점",
+    "translation": "караоке бар",
+    "hanja": "團欒酒點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "규동",
+    "translation": "Кюүдон (Япон хоол)",
+    "hanja": "牛丼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "체임버",
+    "translation": "Камер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "기중기",
+    "translation": "кран",
+    "hanja": "起重機",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "캐스터네츠",
+    "translation": "кастаньет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "코넬대",
+    "translation": "Корнеллийн Их Сургууль",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "키루스",
+    "translation": "Кир (хүний нэр)",
+    "hanja": "키루스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "촉매제",
+    "translation": "катализатор",
+    "hanja": "觸媒劑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검도",
+    "translation": "кэндо (сэлмийн урлаг)",
+    "hanja": "劍道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "구웅",
+    "translation": "Куун (нэр)",
+    "hanja": "龜雄",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쿼터백",
+    "translation": "квотербек (америк хөлбөмбөгийн байрлал)",
+    "hanja": "quarterback",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "캐피털",
+    "translation": "капитал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "크랭크",
+    "translation": "кранк",
+    "hanja": "crank",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "케이프타운",
+    "translation": "Кэйптаун",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카사블랑카",
+    "translation": "Касабланка",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가톨릭교회",
+    "translation": "Католик сүм",
+    "hanja": "가톨릭敎會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평신도",
+    "translation": "Католик сүсэгтэн",
+    "hanja": "平信徒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "캉캉",
+    "translation": "Канкан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "캠코더",
+    "translation": "кемкордер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "크루저",
+    "translation": "крейсер (онгоц)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "거봉",
+    "translation": "Кёбо (үзэм)",
+    "hanja": "巨峰",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "커티스",
+    "translation": "Куртис",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "코스프레하다",
+    "translation": "косплей хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카파",
+    "translation": "Каппа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "간토",
+    "translation": "Канто",
+    "hanja": "關東",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코네티컷",
+    "translation": "Коннектикут",
+    "hanja": "코네티컷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가부키",
+    "translation": "Кабуки",
+    "hanja": "歌舞伎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집락",
+    "translation": "колони",
+    "hanja": "集落",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낑깡",
+    "translation": "кумкват",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콘클라베",
+    "translation": "конклав",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "클럽스",
+    "translation": "клубс (үдшийн цэнгээний газар)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고깔",
+    "translation": "конус хэлбэрийн малгай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜라비",
+    "translation": "кохлраби",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "카타콤",
+    "translation": "катакомб",
+    "hanja": "catacomb",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카바",
+    "translation": "кава",
+    "hanja": "cava",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "프레이밍",
+    "translation": "кадр, хүрээ",
+    "hanja": "framing",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "만화경",
+    "translation": "калейдоскоп",
+    "hanja": "萬華鏡",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "광주시장",
+    "translation": "Кванжу хотын дарга",
+    "hanja": "光州市場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "킴벌리",
+    "translation": "Кимберли (нэр)",
+    "hanja": "킴벌리",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "쿠스쿠스",
+    "translation": "кускус (хоол)",
+    "hanja": "쿠스쿠스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "키읔",
+    "translation": "к үсэг",
+    "hanja": "키읔",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "콜레트",
+    "translation": "Колетт",
+    "hanja": "콜레트",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "콤팩트하다",
+    "translation": "компакт, авсаархан",
+    "hanja": "null",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "크라이슬러",
+    "translation": "Крайслер (автомашины брэнд)",
+    "hanja": "크라이슬러",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "콤팩트",
+    "translation": "компакт, авсаархан",
+    "hanja": "콤팩트",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "구에",
+    "translation": "күи (Францын газарзүйн нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가버나움",
+    "translation": "Капернаум (Библийн хот)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "편백",
+    "translation": "кипарис мод",
+    "hanja": "扁柏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코이",
+    "translation": "кои загас",
+    "hanja": "코이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "김좌진",
+    "translation": "Ким Цзва-жин",
+    "hanja": "金佐鎭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "켈빈",
+    "translation": "Келвин",
+    "hanja": "켈빈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김상만",
+    "translation": "Ким Сан-ман",
+    "hanja": "金相萬",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "케톤",
+    "translation": "Кетон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "암호문",
+    "translation": "Кодлогдсон бичиг",
+    "hanja": "暗號文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "크리스퍼",
+    "translation": "КРИСПР",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카발라",
+    "translation": "Каббала",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "쿠마리",
+    "translation": "Кумари бурхан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "크라우드펀딩",
+    "translation": "краудфандинг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크리슈나",
+    "translation": "Кришна",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "권씨",
+    "translation": "Квон овгийн хүн",
+    "hanja": "權氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흰동가리",
+    "translation": "клоун загас",
+    "hanja": "흰동가리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "크로머",
+    "translation": "Кромер (газарзүйн нэр)",
+    "hanja": "크로머",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김대건",
+    "translation": "Ким Дэгон (хүний нэр)",
+    "hanja": "金大建",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "카툭튀",
+    "translation": "Камерны цухуйлт",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "커스틴",
+    "translation": "Кирстен (нэр)",
+    "hanja": "커스틴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카악",
+    "translation": "каак (ханиалгах чимээ)",
+    "hanja": "카악",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클리어링",
+    "translation": "клиринг, цэвэрлэх",
+    "hanja": "Clearing",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "캘리포니아산",
+    "translation": "Калифорни мужаас гаралтай",
+    "hanja": "California産",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "코모도왕도마뱀",
+    "translation": "Комодогийн луу",
+    "hanja": null,
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "겸재",
+    "translation": "Кёмжэ (урлагийн нэр)",
+    "hanja": "謙齋",
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜카타",
+    "translation": "Калькутта",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "케르베로스",
+    "translation": "Керберус",
+    "hanja": "케르베로스",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금호",
+    "translation": "Кымхо",
+    "hanja": "錦湖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "키프로스",
+    "translation": "Кипр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카산드라",
+    "translation": "Кассандра",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "교촌",
+    "translation": "Кёчон",
+    "hanja": "橋村",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "크레시",
+    "translation": "Креси (нэр)",
+    "hanja": "Crèsi",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카르타고",
+    "translation": "Карфаген (хот)",
+    "hanja": "카르타고",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "김치볶음",
+    "translation": "кимчи хуурга",
+    "hanja": "김치볶음",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "대류",
+    "translation": "конвекци",
+    "hanja": "對流",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크렘린",
+    "translation": "Кремль",
+    "hanja": "크렘린",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "카디건",
+    "translation": "Кардиган",
+    "hanja": "카디건",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "칸딘스키",
+    "translation": "Кандинский",
+    "hanja": "Kandinsky",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "케인스",
+    "translation": "Кейнс",
+    "hanja": "Keynes",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "압축기",
+    "translation": "Компрессор",
+    "hanja": "壓縮機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "멸공",
+    "translation": "коммунизмыг устгах",
+    "hanja": "滅共",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "코비드",
+    "translation": "Ковид",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "카라비너",
+    "translation": "карабинер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카타리나",
+    "translation": "Катарина",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "겐조",
+    "translation": "Кензо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "카라카스",
+    "translation": "Каракас",
+    "hanja": "Caracas",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "장맛",
+    "translation": "коосны амт",
+    "hanja": "醬맛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼데라",
+    "translation": "кальдера",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "근초고왕",
+    "translation": "Кынчхого ван (Солонгосын хаан)",
+    "hanja": "近肖古王",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카펠라",
+    "translation": "Капелла",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콩도르세",
+    "translation": "Кондорсе",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콘서트하다",
+    "translation": "концерт хийх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "킹스턴",
+    "translation": "Кингстон (газар нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카나페",
+    "translation": "канапе",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코라",
+    "translation": "кора",
+    "hanja": "코라",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "키노",
+    "translation": "кино",
+    "hanja": "키노",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "케이콘",
+    "translation": "Кейкон (KCON)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코코넛밀크",
+    "translation": "Кокосын сүү",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "캡스턴",
+    "translation": "Капстан, татлага",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "케라틴",
+    "translation": "кератин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "켄터키주",
+    "translation": "Кентакки муж",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "사이프러스",
+    "translation": "Кипр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "크릴",
+    "translation": "крүлл (далайн амьтан)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카디",
+    "translation": "кади",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "광릉",
+    "translation": "Куаннын",
+    "hanja": "光陵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코르도바",
+    "translation": "Кордова",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "컴",
+    "translation": "компьютер",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "크레아틴",
+    "translation": "креатин",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "칸타빌레",
+    "translation": "кантабиле (хөгж)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "카프레제",
+    "translation": "капрезе (хоолны нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "싸이퍼",
+    "translation": "кодыг тайлах, нууц бичиг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "크로나",
+    "translation": "корона",
+    "hanja": "크로나",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "기타큐슈",
+    "translation": "КитаКюүшюү",
+    "hanja": "北九州",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "크리머",
+    "translation": "Кример (нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "클리브",
+    "translation": "Клив (нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "크루통",
+    "translation": "крутон (хатаасан талх)",
+    "hanja": "크루통",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콰트",
+    "translation": "кватт (хэмжигдэхүүн)",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쿠페",
+    "translation": "купе (автомашины төрөл)",
+    "hanja": "쿠페",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카피라이터",
+    "translation": "копирайтер",
+    "hanja": "카피라이터",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카시오페이아",
+    "translation": "кассиопея",
+    "hanja": "Cassiopeia",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카바나",
+    "translation": "кабана",
+    "hanja": "cabana",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보수파",
+    "translation": "консерватив тал",
+    "hanja": "保守派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카셈",
+    "translation": "Касем",
+    "hanja": "Kasem",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "키카",
+    "translation": "кика",
+    "hanja": "Kika",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "킬로칼로리",
+    "translation": "килокалори",
+    "hanja": "kilocalorie",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "큐리",
+    "translation": "кюри",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜로라도주",
+    "translation": "Колорадо муж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "캠코",
+    "translation": "камкордер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김좌근",
+    "translation": "Ким Жвагын (хүний нэр)",
+    "hanja": "金左根",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "필모그래피",
+    "translation": "кино бүтээлийн жагсаалт",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "코커스",
+    "translation": "кокус (намын уулзалт)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "김일성광장",
+    "translation": "Ким Ир Сены талбай",
+    "hanja": "金日成廣場",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜먼",
+    "translation": "колман",
+    "hanja": "콜먼",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "커넥톰",
+    "translation": "коннектом",
+    "hanja": "커넥톰",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "카우걸",
+    "translation": "каубой эмэгтэй",
+    "hanja": "카우걸",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "퀘이사",
+    "translation": "квазар",
+    "hanja": "퀘이사",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "캘리코",
+    "translation": "калико",
+    "hanja": "calico",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "캄브리아기",
+    "translation": "Кембрийн үе",
+    "hanja": "Cambrian紀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가와고에",
+    "translation": "Кавагоэ",
+    "hanja": "川越",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전산화",
+    "translation": "компьютержүүлэлт",
+    "hanja": "電算化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "금강송",
+    "translation": "Кумган нарс",
+    "hanja": "金剛松",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카르노",
+    "translation": "Карно",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "영화화하다",
+    "translation": "кино болгох",
+    "hanja": "映畫化하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "코르넬리아",
+    "translation": "Корнелия",
+    "hanja": "코르넬리아",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "코프",
+    "translation": "коффи",
+    "hanja": "Cope",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "칼레",
+    "translation": "Кале (хот)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "가배",
+    "translation": "кофе",
+    "hanja": "加琲",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "키네시스",
+    "translation": "Кинесис (биологийн хөдөлгөөн)",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "컨트리클럽",
+    "translation": "Коунтри клуб",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "코르티나담페초",
+    "translation": "Кортина д'Ампеццо",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "카마르고",
+    "translation": "Камарго",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "코흐",
+    "translation": "Кох",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "캔버라",
+    "translation": "Канберра (Австралийн нийслэл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "디코딩",
+    "translation": "код тайлах",
+    "hanja": "디코딩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콘트라베이스",
+    "translation": "контрабасс",
+    "hanja": "콘트라베이스",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가나가와현",
+    "translation": "Канагава муж",
+    "hanja": "神奈川県",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "카술레",
+    "translation": "касулет",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "응축하다",
+    "translation": "Конденсатлах, хураах",
+    "hanja": "凝縮하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콘월",
+    "translation": "Корнуолл (Их Британийн нутаг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계향",
+    "translation": "Кехян (Хүний нэр)",
+    "hanja": "桂香",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "가타카나",
+    "translation": "катакана (Япон үсэг)",
+    "hanja": "片仮名",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카테터",
+    "translation": "катетер",
+    "hanja": "Catheter",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "캐서롤",
+    "translation": "кассероль",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카로틴",
+    "translation": "каротин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카론",
+    "translation": "Карон (мит. дүр)",
+    "hanja": "카론",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "콜로서스",
+    "translation": "Колосс, асар том хөшөө",
+    "hanja": "콜로서스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "캔트",
+    "translation": "Кант (нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "캔터베리",
+    "translation": "Кентербери",
+    "hanja": null,
+    "pos": "proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "카자흐",
+    "translation": "Казах",
+    "hanja": "카자흐",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "카르본",
+    "translation": "Карбон (мөчлөг)",
+    "hanja": "카르본",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "영화화되다",
+    "translation": "кино болгох",
+    "hanja": "映畫化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칼마르",
+    "translation": "Кальмар (хот)",
+    "hanja": "---",
+    "pos": "지명",
+    "cefr": "C1"
+  },
+  {
+    "word": "큐피트",
+    "translation": "Купид",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카버",
+    "translation": "Карвер (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김자점",
+    "translation": "Ким Жа Жом (хүний нэр)",
+    "hanja": "金自點",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "큐레이팅",
+    "translation": "кураторлах",
+    "hanja": "큐레이팅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "케이타",
+    "translation": "Кейта",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공산화",
+    "translation": "коммунист байгууламж, коммунизм",
+    "hanja": "共産化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콤바인",
+    "translation": "комбайн, нэгтгэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "캐슈",
+    "translation": "кешью",
+    "hanja": "cashew",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "코르토",
+    "translation": "кото",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "리사이틀",
+    "translation": "концерт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "컴프레셔",
+    "translation": "компрессор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쿤밍",
+    "translation": "Күньмин",
+    "hanja": "昆明",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가메",
+    "translation": "каме /шавар сав/",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김홍집",
+    "translation": "Ким Хон-жип (улс төрч)",
+    "hanja": "金弘集",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김치국",
+    "translation": "кимчи шөл",
+    "hanja": "김치국",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "기쿠치",
+    "translation": "Кикүчи (Овог)",
+    "hanja": "菊池",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "길주",
+    "translation": "Кильжу",
+    "hanja": "吉州",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "클램차우더",
+    "translation": "клам чоудер",
+    "hanja": "클램차우더",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "카라치",
+    "translation": "Карачи",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "짐치",
+    "translation": "кимчи (хуучин үг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "가나자와",
+    "translation": "Каназава хот (Японы хот)",
+    "hanja": "金沢",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "코티솔",
+    "translation": "кортизол",
+    "hanja": "Cortisol",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "광진",
+    "translation": "Куанжин (газарзүйн нэр)",
+    "hanja": "廣津",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카스트로",
+    "translation": "Кастро",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카르노타우루스",
+    "translation": "карнотавр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카페오레",
+    "translation": "Кафе латте",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "콩포트",
+    "translation": "компот",
+    "hanja": "콩포트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공산권",
+    "translation": "коммунист блок",
+    "hanja": "共産圈",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "코펠",
+    "translation": "кофе чанагч",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "클레멘타인",
+    "translation": "Клементин (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "크샤트리아",
+    "translation": "Кшатрия (Энэтхэгийн каст)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카르파초",
+    "translation": "карпаччо (нимгэн зүссэн түүхий мах)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "커틀릿",
+    "translation": "котлет",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카라얀",
+    "translation": "Кароян (нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "켄트지",
+    "translation": "кент цаас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "사이버틱하다",
+    "translation": "кибер хэв маягтай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "원뿔형",
+    "translation": "конус хэлбэртэй",
+    "hanja": "圓뿔形",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "캄",
+    "translation": "Кам (нэр)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "카포",
+    "translation": "капо (хөгжмийн хэрэгсэл)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "크립톤",
+    "translation": "криптон (химийн элемент)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "코르테스",
+    "translation": "Кортес (이름, газар)",
+    "hanja": "Cortes",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광성보",
+    "translation": "Квансонбо",
+    "hanja": "廣城堡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "캭",
+    "translation": "кхак",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코베인",
+    "translation": "Кобэйн",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "캔터",
+    "translation": "Кантер",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크로케",
+    "translation": "крокет",
+    "hanja": "크로케",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코다",
+    "translation": "кода",
+    "hanja": "코다",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "개마고원",
+    "translation": "Кэмагийн өндөрлөг",
+    "hanja": "蓋馬高原",
+    "pos": "м.н.",
+    "cefr": "C2"
+  },
+  {
+    "word": "카탈로니아",
+    "translation": "Каталан",
+    "hanja": "Catalonia",
+    "pos": "н.н.",
+    "cefr": "C2"
+  },
+  {
+    "word": "통수권",
+    "translation": "коммандлах эрх мэдэл",
+    "hanja": "統帥權",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "킨샤사",
+    "translation": "Киншаса",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카리브족",
+    "translation": "Карибын үндэстэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카베르네",
+    "translation": "кабернет",
+    "hanja": "카베르네",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "세제곱",
+    "translation": "куб зэрэг",
+    "hanja": " 세제곱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카바이드",
+    "translation": "карбид",
+    "hanja": "카바이드",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "광개토왕",
+    "translation": "Куангето хаан",
+    "hanja": "廣開土王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카디프",
+    "translation": "Кардифф (хот)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "키리바시",
+    "translation": "Кот-д'Ивуар",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카르카손",
+    "translation": "Каркассон (хот)",
+    "hanja": "카르카손",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김화",
+    "translation": "Ким화",
+    "hanja": "金化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김용환",
+    "translation": "Ким Ён-хван (хүний нэр)",
+    "hanja": "金用煥",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고시엔",
+    "translation": "Кошиэн (Японы бейсболын цэнгэлдэх хүрээлэн)",
+    "hanja": "甲子園",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카스티야",
+    "translation": "Кастил",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강서구청",
+    "translation": "Кансо дүүргийн алба",
+    "hanja": "江西區廳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "원두커피",
+    "translation": "кофены үр",
+    "hanja": "原豆커피",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "컴포지션",
+    "translation": "композици",
+    "hanja": "컴포지션",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카발리에",
+    "translation": "кавалер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "김영석",
+    "translation": "Ким Ёнсок (Нэр)",
+    "hanja": "金榮奭",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "곤파스",
+    "translation": "компас",
+    "hanja": "곤파스",
+    "pos": "NOUN",
+    "cefr": "A2"
+  },
+  {
+    "word": "까망베르",
+    "translation": "камамбер (бяслаг)",
+    "hanja": "까망베르",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카카오닙스",
+    "translation": "какао нибс",
+    "hanja": "카카오닙스",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시브",
+    "translation": "Кот (зээр), жижиг хутга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "기택",
+    "translation": "Ки-Тэк",
+    "hanja": "基澤",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "칸다하르",
+    "translation": "Кандагар",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "콩가",
+    "translation": "Конга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "카반",
+    "translation": "Кабан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "가라이",
+    "translation": "Карай (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카렌족",
+    "translation": "Карен үндэстэн",
+    "hanja": null,
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "금귤",
+    "translation": "кумкват",
+    "hanja": "金橘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카망베르",
+    "translation": "камамбер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쿰",
+    "translation": "кум (лалын шашны ариун хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "크메르",
+    "translation": "кхмер",
+    "hanja": "Khmer",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크라이스트처치",
+    "translation": "Крайстчерч",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "크렘브륄레",
+    "translation": "крем брюле",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "카트라이트",
+    "translation": "Картрайт",
+    "hanja": "Cartwright",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카민",
+    "translation": "каллиграфийн бичээч",
+    "hanja": "carmine",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카이펑",
+    "translation": "Кайфэн (Хятадын хот)",
+    "hanja": "카이펑",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "콩테",
+    "translation": "конте (зургийн хэрэгсэл)",
+    "hanja": "콩테",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "카타니아",
+    "translation": "Катаниа",
+    "hanja": "카타니아",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "골판",
+    "translation": "картон",
+    "hanja": "골판",
+    "pos": "명са",
+    "cefr": "B1"
+  },
+  {
+    "word": "코크스",
+    "translation": "кокс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칸토",
+    "translation": "канто",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "주저되다",
+    "translation": "конгр-д саад болох",
+    "hanja": "躊躇되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "김도희",
+    "translation": "Ким Ду Хый (хүний нэр)",
+    "hanja": "金道希",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "캐소드",
+    "translation": "катод",
+    "hanja": "캐소드",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "달개비",
+    "translation": "комеллина (Commelina)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "크루스",
+    "translation": "Круз",
+    "hanja": "크루스",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "캐터필러",
+    "translation": "Катерпиллар",
+    "hanja": "캐터필러",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "가데스",
+    "translation": "Кадеш",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "동백기름",
+    "translation": "камелиа тос",
+    "hanja": "冬柏기름",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "카보베르데",
+    "translation": "Кабо-Верде",
+    "hanja": "카보베르데",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "크라쿠프",
+    "translation": "Краков",
+    "hanja": "크라쿠프",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "퀴뇨",
+    "translation": "киньон",
+    "hanja": "퀴뇨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "캐스케이드",
+    "translation": "каскад",
+    "hanja": "캐스케이드",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크리스핀",
+    "translation": "Криспин",
+    "hanja": "크리스핀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "케르키라",
+    "translation": "Корфу (Керкира)",
+    "hanja": "Kerkyra",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭종",
+    "translation": "киста",
+    "hanja": "囊腫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사이버네틱스",
+    "translation": "кибернетик",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공산화되다",
+    "translation": "коммунист болох (улс орон)",
+    "hanja": "共産化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "켈로이드",
+    "translation": "келлоид",
+    "hanja": "켈로이드",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고레스",
+    "translation": "Кирус",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "크리스타",
+    "translation": "криста",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "사규",
+    "translation": "компанийн дүрэм журам",
+    "hanja": "社規",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학군단",
+    "translation": "курсантын корпус",
+    "hanja": "學軍團",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크레타섬",
+    "translation": "Крит арал",
+    "hanja": "Crete 섬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "키안티",
+    "translation": "Кьянти",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": null
+  },
+  {
+    "word": "카루소",
+    "translation": "Карузо",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": null
+  },
+  {
+    "word": "클라이브",
+    "translation": "Клайв",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "평방미터",
+    "translation": "квадрат метр",
+    "hanja": "平方─",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼스",
+    "translation": "Карлс",
+    "hanja": "Carls",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "케피",
+    "translation": "кепи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콜더",
+    "translation": "колдэр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크룩스",
+    "translation": "Крукс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "제곱하다",
+    "translation": "квадратлах",
+    "hanja": "제곱하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쿠리",
+    "translation": "Кури",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카공",
+    "translation": "кафед хичээл хийх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카디오이드",
+    "translation": "кардиоид",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "코카서스",
+    "translation": "Кавказ",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코터",
+    "translation": "котер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "각간",
+    "translation": "Кагкан (эрэгтэй хүний ​​нэр)",
+    "hanja": "角干",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "촬영기",
+    "translation": "камер",
+    "hanja": "撮影機",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "코티졸",
+    "translation": "кортизол",
+    "hanja": "코티졸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칸디다",
+    "translation": "Кандида (мөөгөнцөр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "카로",
+    "translation": "Карро",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카스피해",
+    "translation": "Каспийн тэнгис",
+    "hanja": "Каспи해",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쿨라",
+    "translation": "Кула",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카르스",
+    "translation": "Карст",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쿠당탕",
+    "translation": "Кудангтанг дуу (юм унах)",
+    "hanja": "N/A",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카제인",
+    "translation": "казеин",
+    "hanja": "casein",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카르발라",
+    "translation": "Карбала",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "킬로톤",
+    "translation": "Килотон",
+    "hanja": "킬로톤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "칸타타",
+    "translation": "Кантата",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "혼코노",
+    "translation": "караоке",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "케냐",
+    "translation": "Кени",
+    "hanja": "케냐",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "광호",
+    "translation": "Кван Хо",
+    "hanja": "광호",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "기두",
+    "translation": "Киду",
+    "hanja": "기두",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "문묘",
+    "translation": "Күнзийн сүм",
+    "hanja": "文廟",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김녕",
+    "translation": "Кимён",
+    "hanja": "김녕",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "들게",
+    "translation": "кунжут",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "두부두루치기",
+    "translation": "кимчи, гахайн мах, тофугаар хийсэн хоол",
+    "hanja": "두부두루치기",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "코엔",
+    "translation": "Коэн (нэр)",
+    "hanja": "N/A",
+    "pos": "Proper Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "사훈",
+    "translation": "компанийн уриа; компанийн хамгийн үнэт зүйл",
+    "hanja": "社訓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "커밋",
+    "translation": "Кермит",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "인코딩하다",
+    "translation": "кодлох",
+    "hanja": "인코딩하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콘트라",
+    "translation": "контра",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고국원왕",
+    "translation": "Когуквон ван",
+    "hanja": "故國原王",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "코린트",
+    "translation": "Коринт (Газарзүй/Түүх)",
+    "hanja": "N/A",
+    "pos": "Proper Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "카다몬",
+    "translation": "кардамон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "캐리올",
+    "translation": "карри",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카구",
+    "translation": "Кагу",
+    "hanja": "Kagu",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "크론",
+    "translation": "Крон",
+    "hanja": "크론",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카쿠",
+    "translation": "Каку",
+    "hanja": "카쿠",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "캐피",
+    "translation": "каппи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "쿠베르탱",
+    "translation": "Кубертен",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콜슬로",
+    "translation": "коулслоу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "배위",
+    "translation": "Координация",
+    "hanja": "配位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카르니틴",
+    "translation": "карнитин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "키리코",
+    "translation": "кирико (урлагийн хэлбэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "거세되다",
+    "translation": "кастраци хийх",
+    "hanja": "去勢되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "기요미즈데라",
+    "translation": "Киёмизу-дэра",
+    "hanja": "清水寺",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "컴싸",
+    "translation": "компьютерийн үзэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "캘커타",
+    "translation": "Калькутта",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "칼라스",
+    "translation": "Каллас",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "콘텍스트",
+    "translation": "контекст",
+    "hanja": "context",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "김병덕",
+    "translation": "Ким Бёндок",
+    "hanja": "金炳德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "큐피",
+    "translation": "Кьюпи",
+    "hanja": "Kewpie",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강강수월래",
+    "translation": "Кангансуволле (Солонгосын ардын дуу, бүжиг)",
+    "hanja": "强羌水越來",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "카로티노이드",
+    "translation": "каротиноид",
+    "hanja": "--",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "코페",
+    "translation": "кофе",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "카베",
+    "translation": "кафе",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "키웨스트",
+    "translation": "Кий Уэст",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "쿠바드",
+    "translation": "кувад",
+    "hanja": "couvade",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "캥",
+    "translation": "канатын охин (дуудлага)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "키갈리",
+    "translation": "Кигали",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김칫소",
+    "translation": "кимчиний доторх материал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "컵케익",
+    "translation": "капкейк",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "커닝엄",
+    "translation": "Каннингем",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "코파카바나",
+    "translation": "Копакабана",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "강서",
+    "translation": "кансо (газар зүйн нэр)",
+    "hanja": "江西",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콩소메",
+    "translation": "консоме",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크리스토",
+    "translation": "Кристо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카이우스",
+    "translation": "Кайус",
+    "hanja": null,
+    "pos": "Нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "곽씨",
+    "translation": "Квак овгийнхон",
+    "hanja": "郭氏",
+    "pos": "Нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "클로케",
+    "translation": "Клоке",
+    "hanja": null,
+    "pos": "Нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "칼텍",
+    "translation": "Кальтек",
+    "hanja": null,
+    "pos": "Нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "캄차카반도",
+    "translation": "Камчаткын хойг",
+    "hanja": "캄차카半島",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "클레이스테네스",
+    "translation": "Клейстенес",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "키스트",
+    "translation": "КИСТ",
+    "hanja": "키스트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼립소",
+    "translation": "Калипсо",
+    "hanja": "칼립소",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "캄팔라",
+    "translation": "Кампала (Угандын нийслэл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "코뮌",
+    "translation": "Коммун",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카덴차",
+    "translation": "Каденца",
+    "hanja": "카덴차",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "캐티",
+    "translation": "кэтти",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "키체",
+    "translation": "киче",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고코",
+    "translation": "Коко (хүний нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "강스",
+    "translation": "Канс",
+    "hanja": "강스",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "킬바사",
+    "translation": "Килбаса (хиамны төрөл)",
+    "hanja": "킬바사",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "영화광",
+    "translation": "Кино сонирхогч",
+    "hanja": "映畫狂",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "제곱센티미터",
+    "translation": "квадрат сантиметр",
+    "hanja": "제곱 centimetre",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "킬트",
+    "translation": "кильт",
+    "hanja": "kilt",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클립아트",
+    "translation": "клипарт",
+    "hanja": "clip art",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "케아다",
+    "translation": "Кеа ах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "콘트라스트",
+    "translation": "контраст, эсрэг тэсрэг байдал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "십자드라이버",
+    "translation": "крест хэлбэртэй халив",
+    "hanja": "十字screwdriver",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "캐터펄트",
+    "translation": "катапулт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "교카",
+    "translation": "кёока",
+    "hanja": "教化",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "가야바",
+    "translation": "Каяаба",
+    "hanja": "가야바",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카프로산",
+    "translation": "Капроны хүчил",
+    "hanja": "카프로산",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전산화되다",
+    "translation": "Компьютержүүлэх",
+    "hanja": "電算化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코포",
+    "translation": "Кофо",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "키플링",
+    "translation": "Киплинг",
+    "hanja": "키플링",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칼조네",
+    "translation": "калцоне",
+    "hanja": "칼조네",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "쿠민",
+    "translation": "кумин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코사",
+    "translation": "коса",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사이버불링",
+    "translation": "кибер дарамт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카르티에",
+    "translation": "Картье",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김병호",
+    "translation": "Ким Бён-хо",
+    "hanja": "金炳浩",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "케이스타",
+    "translation": "Кэй-Стар",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "큐레이션하다",
+    "translation": "Куратор хийх",
+    "hanja": "큐레이션하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "캐번디시",
+    "translation": "Кавендиш",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클레먼스",
+    "translation": "Клеменс",
+    "hanja": "클레먼스",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "크로이소스",
+    "translation": "Крёс",
+    "hanja": "크로이소스",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "크립",
+    "translation": "Крип",
+    "hanja": "크립",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가겐",
+    "translation": "Каген",
+    "hanja": "가겐",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "캔틸레버",
+    "translation": "Кантилевер",
+    "hanja": "캔틸레버",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김병국",
+    "translation": "Ким Бён-гук (Солонгос хүний нэр)",
+    "hanja": "金炳國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경윤",
+    "translation": "Кён-юн (хүний нэр эсвэл компаний нэр)",
+    "hanja": "慶潤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크노소스",
+    "translation": "Кносс",
+    "hanja": "크노소스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "캇",
+    "translation": "кат",
+    "hanja": "캇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김준근",
+    "translation": "Ким Жүн-гүн (Солонгосын зураач)",
+    "hanja": "金俊根",
+    "pos": "Proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "김치국물",
+    "translation": "Кимчиний шөл",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "카마이클",
+    "translation": "Кармайкл (нэр)",
+    "hanja": null,
+    "pos": "Proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "콤파스",
+    "translation": "компас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "칼뱅",
+    "translation": "Кальвин",
+    "hanja": "칼뱅",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "코르티졸",
+    "translation": "Кортизол",
+    "hanja": "---",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "클라우디우스",
+    "translation": "Клаудиус (хүний нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칼리굴라",
+    "translation": "Калигула",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "김칫독",
+    "translation": "Кимчиний сав",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜트레인",
+    "translation": "Колтрейн (Trane - нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카브랄",
+    "translation": "Кабрал (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "크라수스",
+    "translation": "Красс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "코도반",
+    "translation": "Кордован (арьсны төрөл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "코빗",
+    "translation": "Кобит (мэдээллийн технологийн хүрээ)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클러스터링",
+    "translation": "Кластерлах",
+    "hanja": "클러스터링",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가베",
+    "translation": "кофе",
+    "hanja": "가베",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "김현승",
+    "translation": "Ким Хён Сын (хүний нэр)",
+    "hanja": "金顯承",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "보수성",
+    "translation": "Консерватив байдал, байнга байдал",
+    "hanja": "保守性",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "강희안",
+    "translation": "Кан Хи-ан (хүний нэр)",
+    "hanja": "姜希顔",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "카무플라주",
+    "translation": "Камуфляж",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "케이오",
+    "translation": "КО (нокаут)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "코렌스",
+    "translation": "Коренс (хүний нэр/газарзүйн нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "키몬",
+    "translation": "Кимон (нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "자본가",
+    "translation": "капиталист",
+    "hanja": "資本家",
+    "pos": "명са",
+    "cefr": "B1"
+  },
+  {
+    "word": "코번트리",
+    "translation": "Ковентри (хот)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "쿠르베",
+    "translation": "Курбе (хүний нэр, газарзүйн нэр)",
+    "hanja": "Courbet",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공맹",
+    "translation": "Күнз, Мэнз",
+    "hanja": "孔孟",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "쿠란",
+    "translation": "Коран",
+    "hanja": "쿠란",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카스텔",
+    "translation": "кастел",
+    "hanja": "카스텔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수구파",
+    "translation": "консерватив тал",
+    "hanja": "守舊派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "코민테른",
+    "translation": "Коминтерн",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "커핑",
+    "translation": "кофе амтлах (cupping)",
+    "hanja": "커핑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카치",
+    "translation": "Катчи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "구락부",
+    "translation": "Клуб",
+    "hanja": "俱樂部",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "키프",
+    "translation": "кефир",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "식민지화하다",
+    "translation": "колоничлох",
+    "hanja": "植民地化하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "콜드웰",
+    "translation": "Колдвелл (нэр)",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "코커",
+    "translation": "кокер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "강문",
+    "translation": "Кан-мүн",
+    "hanja": "江門",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "코임브라",
+    "translation": "Коимбра",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "캐싱",
+    "translation": "кэшлэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카이만",
+    "translation": "кайман",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "키나발루산",
+    "translation": "Кинaбалу уул",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "곤고다",
+    "translation": "Конгодо (ургамлын нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "캐러웨이",
+    "translation": "каравей (халуун ногоо)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "코메디언",
+    "translation": "Комик жүжигчин, инээдмийн жүжигчин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "키레",
+    "translation": "Кирэ (газарзүйн нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "코퍼스",
+    "translation": "корпус",
+    "hanja": "코퍼스",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "캄파넬라",
+    "translation": "Кампанелла (хөгжмийн зохиол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "카주",
+    "translation": "Казуу",
+    "hanja": "카주",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "크로네",
+    "translation": "крон (мөнгөн тэмдэгт)",
+    "hanja": "krone",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강계",
+    "translation": "Канге",
+    "hanja": "江界",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제록스",
+    "translation": "ксерокс",
+    "hanja": "xerox",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "쿼트",
+    "translation": "кварт",
+    "hanja": "quart",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "퀘스트라",
+    "translation": "квестра",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "석유난로",
+    "translation": "керосины зуух",
+    "hanja": "石油暖爐",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고블",
+    "translation": "Коболд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "코르덴",
+    "translation": "кордон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "켓",
+    "translation": "кет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "코리올리",
+    "translation": "Кориолис",
+    "hanja": "Coriolis",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "금병",
+    "translation": "Кымбён (хүний нэр)",
+    "hanja": "金炳",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클리어런스",
+    "translation": "клиренс, чөлөөлөх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "크로사",
+    "translation": "Кросса",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "감포",
+    "translation": "Кампо",
+    "hanja": "甘浦",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "원추",
+    "translation": "конус",
+    "hanja": "圓錐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "김냉",
+    "translation": "кимчи хөргөгч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "크로마뇽인",
+    "translation": "Кроманьон хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "캘리포니아롤",
+    "translation": "Калифорнийн ролл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카리용",
+    "translation": "карилон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "가자이",
+    "translation": "Казай (хүний нэр)",
+    "hanja": "加子異",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "클라우지우스",
+    "translation": "Клаузиус",
+    "hanja": "클라우지우스",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "칸델라",
+    "translation": "кандела",
+    "hanja": "칸델라",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "크라우스",
+    "translation": "Краус (нэр)",
+    "hanja": "크라우스",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "보수화되다",
+    "translation": "консерватив болох",
+    "hanja": "保守化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코넥스",
+    "translation": "Конекс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "큐비즘",
+    "translation": "кубизм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "클라리온",
+    "translation": "кларион",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칼루가",
+    "translation": "Калуга",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "카브리올레",
+    "translation": "кабриолет",
+    "hanja": "cabriolet",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "카를로비바리",
+    "translation": "Карловы Вари",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "킬로바이트",
+    "translation": "килобайт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "크로크무슈",
+    "translation": "крок-мсье",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜로니얼",
+    "translation": "колоничлолын",
+    "hanja": "colonial",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "케라토사우루스",
+    "translation": "Кератозавр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "칼비노",
+    "translation": "Калвино (Нэр)",
+    "hanja": "칼비노",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "용공",
+    "translation": "Коммунист, коммунизм",
+    "hanja": "容共",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "칼모틴",
+    "translation": "Калмотин (химийн нэгдэл)",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "매표원",
+    "translation": "кассчин",
+    "hanja": "賣票員",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "코사인",
+    "translation": "косинус",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "크라프트",
+    "translation": "крафт цаас",
+    "hanja": "크라프트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "코사크",
+    "translation": "казак",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "케레타로",
+    "translation": "Керетаро",
+    "hanja": "케레타로",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김장독",
+    "translation": "Кимчи хадгалах сав",
+    "hanja": "김장독",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "강덕",
+    "translation": "Кандок (Хүний нэр эсвэл газар усны нэр байж болно)",
+    "hanja": "康德",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "카잔차키스",
+    "translation": "Казандзакис",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "한본어",
+    "translation": "Камбон хэл",
+    "hanja": "한본어",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "김치소",
+    "translation": "Кимчиний доторлогоо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "킥볼",
+    "translation": "Кикбол",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콜러",
+    "translation": "Кёллер",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "피마자",
+    "translation": "кастор",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "카르스트",
+    "translation": "Карст",
+    "hanja": "Karst",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김지섭",
+    "translation": "Ким Жисоб (хүний нэр)",
+    "hanja": "金祉燮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김개남",
+    "translation": "Ким Гэнам (хүний нэр)",
+    "hanja": "金介南",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "귀뚤귀뚤",
+    "translation": "крикетний дуу (чихэнд)",
+    "hanja": "귀뚤귀뚤",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "콘월리스",
+    "translation": "Корнуоллис",
+    "hanja": "Cornwallis",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고마쓰",
+    "translation": "Комацү",
+    "hanja": "小松",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "키비",
+    "translation": "Киви",
+    "hanja": "키비",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "결로",
+    "translation": "конденсац",
+    "hanja": "結露",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "키부츠",
+    "translation": "кибуц",
+    "hanja": "키부츠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "자일로스",
+    "translation": "ксилоз",
+    "hanja": "자일로스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "쿠머",
+    "translation": "Кумер (хүний нэр)",
+    "hanja": "쿠머",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "크리스테",
+    "translation": "Крист",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "출납부",
+    "translation": "Кассын бүртгэл, орлого зарлагын дэвтэр",
+    "hanja": "出納簿",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크라스노야르스크",
+    "translation": "красноярск (Оросын хот)",
+    "hanja": "크라스노야르스크",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클리프행어",
+    "translation": "клиффхэнгер",
+    "hanja": "클리프행어",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "가톨릭교도",
+    "translation": "католик шашинтан",
+    "hanja": "가톨릭敎徒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "강족",
+    "translation": "кянчууд (үндэстэн)",
+    "hanja": "羌族",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "콜라드",
+    "translation": "коллад (ургамал)",
+    "hanja": "Collard",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "카드사별",
+    "translation": "карт компанийн",
+    "hanja": "카드사別",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쿨레",
+    "translation": "кулэй (хөгжмийн зэмсэг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고너",
+    "translation": "көөр (хонь)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "콜로니아",
+    "translation": "колониа (хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "크로커스",
+    "translation": "крокус (цэцэг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "캔자스주",
+    "translation": "Канзас муж",
+    "hanja": "캔자스주",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "만찢녀",
+    "translation": "комик номоос гарч ирсэн эмэгтэй",
+    "hanja": "漫찢녀",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "김일성경기장",
+    "translation": "Ким Ир Сений цэнгэлдэх хүрээлэн",
+    "hanja": "金日成競技場",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "김규진",
+    "translation": "Ким Гю Жин",
+    "hanja": "金圭鎭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다래",
+    "translation": "киви жимс",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "칼리오페",
+    "translation": "Каллиопа (урлагийн бурхан)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고라이",
+    "translation": "Корай (Японы угсаатан)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "코든",
+    "translation": "кодон (генетик)",
+    "hanja": "codon",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "크레셴도",
+    "translation": "Крещендо (хөгжмийн нэр томъёо)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "김수흥",
+    "translation": "Ким Сү-хөн",
+    "hanja": "金壽興",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "꼴레",
+    "translation": "Колле",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코랄리",
+    "translation": "Корали",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코토누",
+    "translation": "Котону",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "칼리닌그라드",
+    "translation": "Калининград",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": null
+  },
+  {
+    "word": "식민화하다",
+    "translation": "колоничлох",
+    "hanja": "植民化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "갱시기",
+    "translation": "Кэнгсиги (тусгай шөл)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "컴퓨터하다",
+    "translation": "Компьютер ашиглах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "김굉필",
+    "translation": "Ким Гёнпил (түүхэн хүн)",
+    "hanja": "金宏弼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클로닝",
+    "translation": "Клончлох",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "곽지",
+    "translation": "Квагжи (газарзүйн нэр)",
+    "hanja": "郭支",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "쿨리",
+    "translation": "кули",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "김준민",
+    "translation": "Ким Жун-мин",
+    "hanja": "金俊民",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "켈트인",
+    "translation": "Кельт хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "영등위",
+    "translation": "кино зэрэглэлийн хороо",
+    "hanja": "映等委",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "각질화되다",
+    "translation": "кератинжих",
+    "hanja": "角質化되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "갑산",
+    "translation": "Капсан",
+    "hanja": "甲山",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "콤소몰스크나아무레",
+    "translation": "Комсомольск-на-Амуре",
+    "hanja": "콤소몰스크나아무레",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "금강군",
+    "translation": "Кымган-гун (газарзүйн нэр)",
+    "hanja": "金剛郡",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "코루나",
+    "translation": "корона (валют)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "퀘르세틴",
+    "translation": "кверцетин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클리토리스",
+    "translation": "клитор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "케",
+    "translation": "Ке (хуучирсан)",
+    "hanja": "케",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "쿠프",
+    "translation": "Куп (валют)",
+    "hanja": "쿠프",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "카르타헤나",
+    "translation": "Картахена",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "김창숙",
+    "translation": "Ким Чан-сук",
+    "hanja": "金昌淑",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "협주",
+    "translation": "концерт (хөгжмийн)",
+    "hanja": "協奏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "코르넬리우스",
+    "translation": "Корнелиус (нэр)",
+    "hanja": "코르넬리우스",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "커밍스",
+    "translation": "Каммингс (нэр)",
+    "hanja": "커밍스",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "컴벌랜드",
+    "translation": "Күмберленд",
+    "hanja": "컴벌랜드",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "김광섭",
+    "translation": "Ким Гван-соп",
+    "hanja": "金珖燮",
+    "pos": "인명",
+    "cefr": "B2"
+  },
+  {
+    "word": "캐미솔",
+    "translation": "камизол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "키루나",
+    "translation": "Кируна (Шведийн хот)",
+    "hanja": "Kiruna",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "크노",
+    "translation": "Кно (Шведийн газар)",
+    "hanja": "Kno",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "케토시스",
+    "translation": "кетоз",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "건대",
+    "translation": "Күнгүг их сургууль",
+    "hanja": "建大",
+    "pos": "명사",
+    "cefr": "A2"
+  }
+]

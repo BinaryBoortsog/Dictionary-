@@ -1,0 +1,534 @@
+[
+  {
+    "word": "퇴",
+    "translation": "Хөгц",
+    "hanja": "苔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴각",
+    "translation": "ухрах",
+    "hanja": "退却",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴각하다",
+    "translation": "ухрах",
+    "hanja": "退却하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴거",
+    "translation": "Нүүлгэн шилжүүлэх, гаргах",
+    "hanja": "退去",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴거하다",
+    "translation": "Нүүх, гарах",
+    "hanja": "退去하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴계",
+    "translation": "Тэгюэ (солонгосын гүн ухаантан)",
+    "hanja": "退溪",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴계원",
+    "translation": "Твегэвон",
+    "hanja": "退溪院",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "퇴고하다",
+    "translation": "өгүүллийг засах",
+    "hanja": "推敲하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴교",
+    "translation": "сургуулиас гарах",
+    "hanja": "退校",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴교하다",
+    "translation": "сургуулиас гарах",
+    "hanja": "退校하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴궐",
+    "translation": "ордноос гарах",
+    "hanja": "退闕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴궐하다",
+    "translation": "Ордноос гарах",
+    "hanja": "退闕하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "퇴근",
+    "translation": "ажлаа тарах",
+    "hanja": "退勤",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "퇴근길",
+    "translation": "ажлаас буцах зам",
+    "hanja": "退勤길",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴근하다",
+    "translation": "ажлаа тарах",
+    "hanja": "退勤하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "퇴락하다",
+    "translation": "уналтад орох",
+    "hanja": "頹落하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "퇴로",
+    "translation": "Ухрах зам",
+    "hanja": "退路",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴마",
+    "translation": "чөтгөрүүдийг хөөн зайлуулах",
+    "hanja": "退魔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴마하다",
+    "translation": "чөтгөрийг хөөх",
+    "hanja": "退魔하다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "퇴물",
+    "translation": "Хуучирсан зүйл/хүн, хоцрогдсон",
+    "hanja": "退物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴보",
+    "translation": "Ухранги байдал",
+    "hanja": "退步",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴보하다",
+    "translation": "ухрах, доройтох",
+    "hanja": "退步하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴비",
+    "translation": "хүдсэн бордоо",
+    "hanja": "堆肥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴비화하다",
+    "translation": "ялзмаг болгох",
+    "hanja": "堆肥化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴사",
+    "translation": "ажлаас гарах",
+    "hanja": "退社",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴사하다",
+    "translation": "ажлаас гарах",
+    "hanja": "退社하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴색",
+    "translation": "Өнгөө алдах, бүдгэрэх",
+    "hanja": "褪色",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴색되다",
+    "translation": "өнгө нь гарах",
+    "hanja": "退色되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴색하다",
+    "translation": "өнгө нь гарах",
+    "hanja": "退色하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴소",
+    "translation": "байгууллагаас гарах",
+    "hanja": "退所",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴소하다",
+    "translation": "төгсөх",
+    "hanja": "退所하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴실",
+    "translation": "Өрөөнөөс гарах",
+    "hanja": "退室",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴실하다",
+    "translation": "өрөөнөөс гарах",
+    "hanja": "退室하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴역",
+    "translation": "тэтгэвэрт гарах (цэргийн)",
+    "hanja": "退役",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴역하다",
+    "translation": "цэргээс халагдах",
+    "hanja": "退役─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴원",
+    "translation": "эмнэлгээс гарах",
+    "hanja": "退院",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴원하다",
+    "translation": "эмнэлгээс гарах",
+    "hanja": "退院하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴위",
+    "translation": "хаан ширээнээс татгалзах",
+    "hanja": "退位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴위하다",
+    "translation": "Хаан ширээнээс буух",
+    "hanja": "退位하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴임",
+    "translation": "албан тушаалаас буух",
+    "hanja": "退任",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴임하다",
+    "translation": "тэтгэвэрт гарах",
+    "hanja": "退任하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴장",
+    "translation": "гарах",
+    "hanja": "退場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴장하다",
+    "translation": "Гарч явах, талбайгаас гарах",
+    "hanja": "退場하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴적",
+    "translation": "хуримтлагдах",
+    "hanja": "堆積",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴적되다",
+    "translation": "тунах",
+    "hanja": "堆積되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴적물",
+    "translation": "хурдас",
+    "hanja": "堆積物",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "퇴적암",
+    "translation": "тунамал чулуулаг",
+    "hanja": "堆積巖",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴적층",
+    "translation": "тунадас давхарга",
+    "hanja": "堆積層",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴정",
+    "translation": "шүүх танхимаас гарах",
+    "hanja": "退廷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴정하다",
+    "translation": "шүүх хурлаас гарах",
+    "hanja": "退廷하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴직",
+    "translation": "тэтгэвэрт гарах",
+    "hanja": "退職",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴직금",
+    "translation": "тэтгэмж",
+    "hanja": "退職金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴직하다",
+    "translation": "тэтгэвэрт гарах",
+    "hanja": "退職하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴진",
+    "translation": "огцрох",
+    "hanja": "退陣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴진하다",
+    "translation": "огцрох, татгалзах",
+    "hanja": "退陣하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴짜",
+    "translation": "татгалзах",
+    "hanja": "退짜",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴청",
+    "translation": "шүүхээс гарах",
+    "hanja": "退廳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "퇴청하다",
+    "translation": "албанаасаа гарах",
+    "hanja": "退廳하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴촌",
+    "translation": "тосгоноос гарах",
+    "hanja": "退村",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "퇴출",
+    "translation": "Ухралт",
+    "hanja": "退出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴출되다",
+    "translation": "хасагдах, хөөгдөх",
+    "hanja": "退出되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴출하다",
+    "translation": "хөөж гаргах",
+    "hanja": "退出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴치",
+    "translation": "Устгах, зайлуулах",
+    "hanja": "退治",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴치되다",
+    "translation": "устгагдах, арилгагдах",
+    "hanja": "退治되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴치하다",
+    "translation": "Устгах",
+    "hanja": "退治하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴폐",
+    "translation": "буурах, мөхөх",
+    "hanja": "頹廢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "퇴폐적",
+    "translation": "доройтсон, элэгдсэн",
+    "hanja": "頹廢的",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "퇴폐하다",
+    "translation": "доройтох",
+    "hanja": "頹廢하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴학",
+    "translation": "сургуулиас хасах",
+    "hanja": "退學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴학시키다",
+    "translation": "сургуулиас хөөх",
+    "hanja": "退學시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "퇴학하다",
+    "translation": "сургуулиас хасах",
+    "hanja": "退學하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "퇴행",
+    "translation": "ухрах, хойшоо явах",
+    "hanja": "退行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴행하다",
+    "translation": "ухрах",
+    "hanja": "退行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴화",
+    "translation": "урвуу хөгжил, доройтол",
+    "hanja": "退化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴화되다",
+    "translation": "Ухрах, доройтох",
+    "hanja": "退化되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "퇴화하다",
+    "translation": "муудаж доройтох",
+    "hanja": "퇴화하다(退化하다)",
+    "pos": "동사",
+    "cefr": "C1"
+  }
+]

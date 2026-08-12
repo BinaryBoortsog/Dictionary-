@@ -1,0 +1,317 @@
+[
+  {
+    "word": "술",
+    "translation": "архи",
+    "hanja": "술",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "술간",
+    "translation": "тоонд",
+    "hanja": "述簡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "술객",
+    "translation": "зөгнөгч",
+    "hanja": "術客",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "술고래",
+    "translation": "архичин",
+    "hanja": "술고래",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "술기운",
+    "translation": "согтууруулах ундааны нөлөө",
+    "hanja": "술氣運",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "술김",
+    "translation": "архины нөлөө",
+    "hanja": "술기운",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "술꾼",
+    "translation": "архичин, архины хорхойтон",
+    "hanja": "술꾼",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "술다",
+    "translation": "Арчих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "술독",
+    "translation": "архины хор",
+    "hanja": "술毒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "술떡",
+    "translation": "архины бялуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "술라웨시섬",
+    "translation": "Сулавеси арал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "술래",
+    "translation": "зурсан хүн",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "술래잡기",
+    "translation": "нуугдаж тоглох",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "술래잡기하다",
+    "translation": "нуугдаж тоглох",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "술렁거리다",
+    "translation": "Шуугилдах, бөөнөөр хөдлөх",
+    "hanja": "술렁거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "술렁대다",
+    "translation": "шуугих",
+    "hanja": "술렁대다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "술렁술렁",
+    "translation": "чүнчгэнэх, шуугих",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "술렁술렁하다",
+    "translation": "Далбисалзах, сэрчигнэх",
+    "hanja": "술렁술렁하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "술렁이다",
+    "translation": "шуумгих, шуугилдах",
+    "hanja": null,
+    "pos": "ү.ү",
+    "cefr": "C1"
+  },
+  {
+    "word": "술레",
+    "translation": "Суле",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "술방",
+    "translation": "архины өрөө",
+    "hanja": "술房",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "술버릇",
+    "translation": "архины зуршил",
+    "hanja": "술버릇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "술법",
+    "translation": "илбэ, шид",
+    "hanja": "術法",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "술병",
+    "translation": "Архины халамцуу байдал",
+    "hanja": "술病",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "술부",
+    "translation": "өгүүлэгдэхүүн",
+    "hanja": "述部",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "술사",
+    "translation": "илбэчин",
+    "hanja": "術士",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "술상",
+    "translation": "архины ширээ",
+    "hanja": "술상",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "술수",
+    "translation": "арга заль",
+    "hanja": "術數",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "술시",
+    "translation": "үдшийн цаг (19:00-21:00)",
+    "hanja": "戌時",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "술어",
+    "translation": "өгүүлэгдэхүүн, өгүүлбэрийн тусгал",
+    "hanja": "述語",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "술자리",
+    "translation": "Архины үдэшлэг",
+    "hanja": "술자리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "술잔",
+    "translation": "хундага",
+    "hanja": "술盞",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "술장사",
+    "translation": "архины наймаачин",
+    "hanja": "술장사",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "술주정",
+    "translation": "согтуу худал ярих",
+    "hanja": "술주정",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "술주정뱅이",
+    "translation": "архичин",
+    "hanja": "술과 주정뱅이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "술주정하다",
+    "translation": "согтуу худал хэлэх",
+    "hanja": "술주정하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "술지게미",
+    "translation": "архины шаар",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "술집",
+    "translation": "бар",
+    "hanja": "술집",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "술책",
+    "translation": "зали, арга заль",
+    "hanja": "術策",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "술타령",
+    "translation": "архины тухай дуу, архины тухай яриа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "술탄",
+    "translation": "султан",
+    "hanja": "sultan",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "술통",
+    "translation": "архины торх",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "술판",
+    "translation": "архины цугларалт",
+    "hanja": "술판",
+    "pos": "name",
+    "cefr": "B2"
+  },
+  {
+    "word": "술하다",
+    "translation": "өгүүлэх",
+    "hanja": "述하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "술회하다",
+    "translation": "дурсах, эргэцүүлэх",
+    "hanja": "述懷하다",
+    "pos": "동사",
+    "cefr": "C1"
+  }
+]

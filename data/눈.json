@@ -1,0 +1,590 @@
+[
+  {
+    "word": "눈",
+    "translation": "нүд",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "눈가",
+    "translation": "нүдний эргэн тойрон",
+    "hanja": "눈가",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈가루",
+    "translation": "Цасны ширхэг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈가리개",
+    "translation": "нүдний боолт, хаалт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈가림",
+    "translation": "нүд хуурах, гүтгэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈감다",
+    "translation": "нүдээ аних",
+    "hanja": null,
+    "pos": "үйл",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈곱",
+    "translation": "нимгэн хальс",
+    "hanja": "눈곱",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈곱만하다",
+    "translation": "Маш бага, өчүүхэн",
+    "hanja": "눈곱만하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈구름",
+    "translation": "Цасан үүл",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈구멍",
+    "translation": "нүдний нүх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈금",
+    "translation": "зураас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈길",
+    "translation": "Харц, анхаарал",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈깔",
+    "translation": "нүд (гутаасан)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈깔사탕",
+    "translation": "нүдтэй чихэр",
+    "hanja": "눈깔사탕",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈꺼풀",
+    "translation": "Зовхи",
+    "hanja": "눈꺼풀",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈꼬리",
+    "translation": "Нүдний сүүл",
+    "hanja": "눈꼬리",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "눈꼴",
+    "translation": "нүдний харагдах байдал",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "눈꼽",
+    "translation": "нуух",
+    "hanja": "눈꼽",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈꽃",
+    "translation": "цасны цэцэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈높이",
+    "translation": "нүдний түвшин",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈대중",
+    "translation": "Барагцаагаар хэмжих, нүдний хэмжээс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈덩이",
+    "translation": "цасан бөмбөг",
+    "hanja": "눈덩이",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈독",
+    "translation": "шуналтай харах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈동자",
+    "translation": "хүүхэн хараа",
+    "hanja": "눈동자",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈두덩",
+    "translation": "нүдний зовхи",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈두덩이",
+    "translation": "зовхи",
+    "hanja": "눈두덩이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈뜨다",
+    "translation": "нүдээ нээх, ухаарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈뜬장님",
+    "translation": "Нүдтэй сохор хүн, үл харагч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈망울",
+    "translation": "нүдний харц",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈매",
+    "translation": "Нүдний хэлбэр, хараа",
+    "hanja": "눈매",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈멀다",
+    "translation": "сохор болох, хараагүй болох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈물",
+    "translation": "нулимс",
+    "hanja": "눈물",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈물겹다",
+    "translation": "нулимс цийлэгнэх",
+    "hanja": "---",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈물바다",
+    "translation": "Уйлангасах",
+    "hanja": "눈물바다",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈물샘",
+    "translation": "нулимсны булчирхай",
+    "hanja": "눈물샘",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈물자국",
+    "translation": "нулимсны толбо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈물지다",
+    "translation": "нулимс дуслуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈물짓다",
+    "translation": "нулимс дуслуулах",
+    "hanja": "눈물짓다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈발",
+    "translation": "цасны ширхэг",
+    "hanja": "눈발",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈밭",
+    "translation": "цастай талбай",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈병",
+    "translation": "нүдний өвчин",
+    "hanja": "눈病",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈보라",
+    "translation": "Цасан шуурга",
+    "hanja": "눈보라",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈부시다",
+    "translation": "нүд гялбам, гайхалтай",
+    "hanja": "눈부시다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈비",
+    "translation": "цас бороо",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈빛",
+    "translation": "Нүдний харц",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈사람",
+    "translation": "цасан хүн",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "눈사태",
+    "translation": "цасан нуранги",
+    "hanja": null,
+    "pos": "м.н",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈살",
+    "translation": "хөмсөгний завсар",
+    "hanja": "눈살",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈속임",
+    "translation": "нүд хуурах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈속임하다",
+    "translation": "хуурах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈송이",
+    "translation": "Цасан ширхэг",
+    "hanja": "눈송이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "눈시리다",
+    "translation": "нүд гялбах, нүд сохрох шахсан",
+    "hanja": "눈시리다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "눈시울",
+    "translation": "нүдний зовхи",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈싸움",
+    "translation": "Цасны тулаан",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈싸움하다",
+    "translation": "цасан бөмбөгөөр тоглох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈썰매",
+    "translation": "Цасан чарга",
+    "hanja": "눈썰매",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈썰매장",
+    "translation": "цасны чарганы газар",
+    "hanja": "눈썰매場",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈썰미",
+    "translation": "хурц нүд",
+    "hanja": "눈썰미",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈썹",
+    "translation": "хөмсөг",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈아",
+    "translation": "Нүд ээ",
+    "hanja": "눈아",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "눈알",
+    "translation": "Нүдний алим",
+    "hanja": "눈알",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "눈앞",
+    "translation": "нүдний өмнө",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈언저리",
+    "translation": "нүдний эргэн тойрон",
+    "hanja": "눈언저리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈엣가시",
+    "translation": "нүдэндээ өргөс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈여기다",
+    "translation": "Анхааран харах",
+    "hanja": "눈여기다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈요깃거리",
+    "translation": "нүдний чихэр",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈웃음",
+    "translation": "нүдний инээмсэглэл",
+    "hanja": "눈웃음",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈웃음치다",
+    "translation": "нүд ирмэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈인사",
+    "translation": "нүдээр мэндлэх",
+    "hanja": "눈인사",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈인사하다",
+    "translation": "нүдээр мэндлэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈자위",
+    "translation": "нүдний зовхи",
+    "hanja": "눈자위",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈짐작",
+    "translation": "нүдээр таамаглах",
+    "hanja": "目斟酌",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈짓",
+    "translation": "нүд ирмэх",
+    "hanja": "눈짓",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈짓하다",
+    "translation": "нүд ирмэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈초리",
+    "translation": "харц",
+    "hanja": "눈초리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈총",
+    "translation": "Муухай харах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈치",
+    "translation": "бариц, сэжим; мэдрэмж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "눈치껏",
+    "translation": "ухаалгаар",
+    "hanja": "N/A",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈치밥",
+    "translation": "нүдний будаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈치보다",
+    "translation": "хүний нүдийг харах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈치채다",
+    "translation": "Ойлгох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈치코치",
+    "translation": "нөхцөл байдлыг мэдрэх чадвар",
+    "hanja": "눈치코치",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "눈칫밥",
+    "translation": "хоолны тавагны хэмжээгээр үнэлэгдэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "눈팅",
+    "translation": "чимээгүй унших",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  }
+]

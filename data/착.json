@@ -1,0 +1,373 @@
+[
+  {
+    "word": "착",
+    "translation": "байдал",
+    "hanja": "着",
+    "pos": "접미사",
+    "cefr": "C1"
+  },
+  {
+    "word": "착각",
+    "translation": "төөргөл",
+    "hanja": "錯覺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착각되다",
+    "translation": "андуурагдах",
+    "hanja": "錯覺되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "착각하다",
+    "translation": "хууртгах",
+    "hanja": "錯覺하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "착공",
+    "translation": "барилгын ажил эхлэх",
+    "hanja": "着工",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "착공되다",
+    "translation": "Барилгын ажил эхлэх",
+    "hanja": "着工-",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "착공하다",
+    "translation": "барилгын ажлыг эхлүүлэх",
+    "hanja": "着工하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "착란",
+    "translation": "Төөрөгдөл",
+    "hanja": "錯亂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "착륙",
+    "translation": "газардлага",
+    "hanja": "着陸",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "착륙하다",
+    "translation": "буух (онгоц)",
+    "hanja": "着陸-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "착복",
+    "translation": "хууль бусаар өмчлөх, идэх",
+    "hanja": "着服",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "착복하다",
+    "translation": "ашиглах",
+    "hanja": "着服하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "착불",
+    "translation": "хүлээн авагч төлөх",
+    "hanja": "着拂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착상",
+    "translation": "санаа олох",
+    "hanja": "着想",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "착상되다",
+    "translation": "Үр тогтох",
+    "hanja": "着床되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "착상하다",
+    "translation": "Төсөөлөх",
+    "hanja": "着想하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착색",
+    "translation": "өнгө оруулах",
+    "hanja": "着色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착색되다",
+    "translation": "Өнгөтэй болох",
+    "hanja": "着色되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착석",
+    "translation": "Суух",
+    "hanja": "着席",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "착석하다",
+    "translation": "суух",
+    "hanja": "着席하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "착수",
+    "translation": "эхлүүлэх",
+    "hanja": "着手",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착수금",
+    "translation": "урьдчилгаа төлбөр",
+    "hanja": "着手金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착수되다",
+    "translation": "эхлэх",
+    "hanja": "着手되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "착수하다",
+    "translation": "эхлэх, эхлэл тавих",
+    "hanja": "着手하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착시",
+    "translation": "Харааны хуурмаг байдал",
+    "hanja": "錯視",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착신",
+    "translation": "ирэх дуудлага",
+    "hanja": "着信",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "착실하다",
+    "translation": "Үнэнч, няхуур, найдвартай",
+    "hanja": "着實하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착실히",
+    "translation": "чин сэтгэлээсээ, үнэнчээр",
+    "hanja": "着實히",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "착안",
+    "translation": "санаа авах",
+    "hanja": "着眼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착안하다",
+    "translation": "Санаа олох",
+    "hanja": "着眼하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "착오",
+    "translation": "Алдаа, эндүүрэл",
+    "hanja": "錯誤",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착용",
+    "translation": "өмсөх",
+    "hanja": "着用",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "착용감",
+    "translation": "өмсөх мэдрэмж",
+    "hanja": "着用感",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "착용되다",
+    "translation": "Өмсөгдөх",
+    "hanja": "着用되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "착용하다",
+    "translation": "өмсөх",
+    "hanja": "着用─",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "착유",
+    "translation": "Сүү саах",
+    "hanja": "搾乳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착의",
+    "translation": "хувцас өмсөх",
+    "hanja": "着衣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "착잡하다",
+    "translation": "Төвөгтэй, ээдрээтэй",
+    "hanja": "錯雜하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "착장",
+    "translation": "хувцаслалт",
+    "hanja": "着裝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착장하다",
+    "translation": "хувцас өмсөх, гоёх",
+    "hanja": "著裝하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "착점",
+    "translation": "оноо",
+    "hanja": "着点",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착즙",
+    "translation": "Шүүс шахах",
+    "hanja": "搾汁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "착즙하다",
+    "translation": "шүүс шахах",
+    "hanja": "搾汁하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "착지",
+    "translation": "газардлага, буух",
+    "hanja": "着地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착지하다",
+    "translation": "буух, газардАх",
+    "hanja": "着地하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착착",
+    "translation": "шуурхай",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착착하다",
+    "translation": "зууралдах",
+    "hanja": "착착하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착취",
+    "translation": "мөлжлөг",
+    "hanja": "搾取",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "착취당하다",
+    "translation": "мөлжүүлэх",
+    "hanja": "착취당하다(搾取當하다)",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "착취하다",
+    "translation": "Мөлжих, ашиглах",
+    "hanja": "搾取하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "착하다",
+    "translation": "сайн сэтгэлтэй",
+    "hanja": "착하다",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "착한",
+    "translation": "сайн",
+    "hanja": "착한",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "착화",
+    "translation": "Гал авалцах, шатах",
+    "hanja": "着火",
+    "pos": "noun",
+    "cefr": "C1"
+  }
+]

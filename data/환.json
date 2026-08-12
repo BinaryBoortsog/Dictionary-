@@ -1,0 +1,702 @@
+[
+  {
+    "word": "환",
+    "translation": "бөмбөлөг",
+    "hanja": "丸",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "환각",
+    "translation": "Хий үзэгдэл",
+    "hanja": "幻覺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환각제",
+    "translation": "галлюциноген",
+    "hanja": "幻覺劑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환갑",
+    "translation": "жаран насны ой",
+    "hanja": "還甲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환갑잔치",
+    "translation": "Жар насны ой тэмдэглэх",
+    "hanja": "還甲잔치",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "환경",
+    "translation": "орчин",
+    "hanja": "環境",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "환경미화원",
+    "translation": "цэвэрлэгч, ариун цэврийн ажилтан",
+    "hanja": "環境美化員",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "환곡",
+    "translation": "тарианы зээл",
+    "hanja": "還穀",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "환골",
+    "translation": "Ясыг өөрчлөх",
+    "hanja": "換骨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "환골탈태하다",
+    "translation": "Эрс хувирах",
+    "hanja": "換骨奪胎하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "환공",
+    "translation": "бөгжөн нүх",
+    "hanja": "環孔",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환관",
+    "translation": "түшмэл",
+    "hanja": "宦官",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환국",
+    "translation": "эргэж ирэх (улс руу)",
+    "hanja": "還國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환궁",
+    "translation": "Ордонд эргэн ирэх",
+    "hanja": "還宮",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "환궁하다",
+    "translation": "ордонд буцаж ирэх",
+    "hanja": "還宮하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "환급",
+    "translation": "буцаан олгох",
+    "hanja": " hwanggeup",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "환급되다",
+    "translation": "Буцаан олгогдох, буцаагдах",
+    "hanja": "還給되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "환급하다",
+    "translation": "буцаан олгох",
+    "hanja": "還給하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환기",
+    "translation": "агааржуулалт",
+    "hanja": "換氣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환기되다",
+    "translation": "сэргээгдэх",
+    "hanja": "喚起되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환기통",
+    "translation": "агааржуулалтын хоолой",
+    "hanja": "換氣筒",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "환기하다",
+    "translation": "сэрээх",
+    "hanja": "喚起하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환난",
+    "translation": "зовлон зүдгүүр",
+    "hanja": "患難",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환노위",
+    "translation": "Хүрээлэн буй орчин, хөдөлмөр, эрүүл мэндийн хороо",
+    "hanja": "環勞委",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "환담하다",
+    "translation": "хөгжилтэй ярилцах",
+    "hanja": "歡談하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환대",
+    "translation": "зочломтгой зан",
+    "hanja": "歡待",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "환대하다",
+    "translation": "найрсаг угтах, тав тухтай байлгах",
+    "hanja": "歡待하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환도",
+    "translation": "буцах, эргэж ирэх",
+    "hanja": "還都",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "환락",
+    "translation": "Баяр цэнгэл",
+    "hanja": "歡樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환락가",
+    "translation": "зугаа цэнгэлийн гудамж",
+    "hanja": "歡樂街",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환란",
+    "translation": "үймээн самуун, гай зовлон",
+    "hanja": "患亂",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "환매",
+    "translation": "Буцаан худалдан авах",
+    "hanja": "還買",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환멸",
+    "translation": "урвайх",
+    "hanja": "幻滅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환복",
+    "translation": "хувцас солих",
+    "hanja": "換服",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "환복하다",
+    "translation": "хувцсаа солих",
+    "hanja": "換服하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "환부",
+    "translation": "Эмгэгтэй хэсэг",
+    "hanja": "患部",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "환불",
+    "translation": "мөнгө буцаан олгох",
+    "hanja": "還拂",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "환불하다",
+    "translation": "буцаан олгох",
+    "hanja": "還拂하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "환산",
+    "translation": "хөрвүүлэх",
+    "hanja": "換算",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환산되다",
+    "translation": "хувиргагдах, тооцоологдох",
+    "hanja": "換算되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환산하다",
+    "translation": "хувиргах",
+    "hanja": "換算하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환상",
+    "translation": "уран зөгнөл",
+    "hanja": "幻想",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "환상곡",
+    "translation": "фантази",
+    "hanja": "幻想曲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환상적",
+    "translation": "гайхалтай",
+    "hanja": "幻想的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "환생",
+    "translation": "хойд дүр төрх, амилах",
+    "hanja": "還生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환생하다",
+    "translation": "дахин төрөх",
+    "hanja": "還生하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환성",
+    "translation": "хайрсан дуу чимээ",
+    "hanja": "歡聲",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "환송",
+    "translation": "үдэх",
+    "hanja": "歡送",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "환송하다",
+    "translation": "үүдэн гаргах, үдэн гаргах",
+    "hanja": "歡送하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환송회",
+    "translation": "үдэлтийн үдэшлэг",
+    "hanja": "歡送會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "환수",
+    "translation": "буцаан авах",
+    "hanja": "還收",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환수되다",
+    "translation": "буцаан авагдах",
+    "hanja": "還收되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환수하다",
+    "translation": "буцааж авах",
+    "hanja": "還收하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환술",
+    "translation": "Илбэ, хувиргалт",
+    "hanja": "幻術",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "환승",
+    "translation": "дамжих, шилжих",
+    "hanja": "換乘",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "환승하다",
+    "translation": "дамжин суух",
+    "hanja": "換乘하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "환시",
+    "translation": "хийсвэр дүрслэл",
+    "hanja": "幻視",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "환심",
+    "translation": "сайн сэтгэл",
+    "hanja": "歡心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환아",
+    "translation": "хүчтэй хүүхэд",
+    "hanja": "患兒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환약",
+    "translation": "эм, бөмбөлөг эм",
+    "hanja": "丸藥",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "환영",
+    "translation": "Тавтай морилно уу",
+    "hanja": "歡迎",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "환영사",
+    "translation": "баяр хүргэх үг",
+    "hanja": "歡迎辭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환영하다",
+    "translation": "Угтан авах, талархан хүлээж авах",
+    "hanja": "歡迎하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "환영회",
+    "translation": "Угтах үдэшлэг",
+    "hanja": "歡迎會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "환우",
+    "translation": "өвчтэй хүн, өвчтөн",
+    "hanja": "患友",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환웅",
+    "translation": "Хуну",
+    "hanja": "桓雄",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "환원",
+    "translation": "анхны байдалд нь оруулах",
+    "hanja": "還元",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "환원되다",
+    "translation": "анхны байдалд эргэн орох",
+    "hanja": "還元되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "환원주의",
+    "translation": "редукционизм",
+    "hanja": "還元主義",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "환원하다",
+    "translation": "буцаах, хуучин хэлбэрт оруулах",
+    "hanja": "還元하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환율",
+    "translation": "Валютын ханш",
+    "hanja": "換率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환인",
+    "translation": "тэнгэрийн хаан (солонгосын домог)",
+    "hanja": "桓因",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환자",
+    "translation": "өвчтөн",
+    "hanja": "患者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "환자복",
+    "translation": "өвчтөний хувцас",
+    "hanja": "患者服",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "환장",
+    "translation": "ухаан алдах",
+    "hanja": "換腸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환장하다",
+    "translation": "галзуурах",
+    "hanja": "換腸하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "환쟁이",
+    "translation": "зураач (гутаах утгатай)",
+    "hanja": "畫쟁이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환적",
+    "translation": "Дамжуулан ачих",
+    "hanja": "換積",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환전",
+    "translation": "Валют солих",
+    "hanja": "換錢",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "환전소",
+    "translation": "валют солих газар",
+    "hanja": "換錢所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "환전하다",
+    "translation": "мөнгө солих",
+    "hanja": "換錢하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "환절기",
+    "translation": "улирлын шилжилтийн үе",
+    "hanja": "換節期",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "환제",
+    "translation": "Эзэн хаан",
+    "hanja": "桓帝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환천희지",
+    "translation": "баяр хөөр",
+    "hanja": "歡天喜地",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "환청",
+    "translation": "Хуурмаг сонсгол",
+    "hanja": "幻聽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환초",
+    "translation": "шүрэн арал",
+    "hanja": "環礁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "환타지",
+    "translation": "уран зөгнөл",
+    "hanja": "fantasy",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "환풍",
+    "translation": "агааржуулалт",
+    "hanja": "換風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "환풍기",
+    "translation": "агааржуулагч",
+    "hanja": "換風機",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "환하다",
+    "translation": "гэрэлтэй, тод",
+    "hanja": "煥하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "환형",
+    "translation": "цагираг хэлбэртэй",
+    "hanja": "環形",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환호",
+    "translation": "баяр хөөр",
+    "hanja": "歡呼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "환호성",
+    "translation": "уухай, баяр хөөр",
+    "hanja": "歡呼聲",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "환호하다",
+    "translation": "уухайлах, баярлах",
+    "hanja": "歡呼하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "환혼",
+    "translation": "сүнсийг буцаах",
+    "hanja": "還魂",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "환혼하다",
+    "translation": "сүнсийг эргүүлэн авчрах",
+    "hanja": "還魂하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환화",
+    "translation": "Цэцгийн гэрэл",
+    "hanja": "幻花",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "환후",
+    "translation": "өвчин байдал",
+    "hanja": "患候",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "환희하다",
+    "translation": "баясах",
+    "hanja": "歡喜하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "환히",
+    "translation": "тод, гэрэлтэй",
+    "hanja": "훤히",
+    "pos": "부사",
+    "cefr": "B1"
+  }
+]

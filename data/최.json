@@ -1,0 +1,618 @@
+[
+  {
+    "word": "최",
+    "translation": "хамгийн",
+    "hanja": "最",
+    "pos": "Prefix",
+    "cefr": "B1"
+  },
+  {
+    "word": "최강",
+    "translation": "хамгийн хүчтэй",
+    "hanja": "最強",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "최고",
+    "translation": "хамгийн сайн",
+    "hanja": "最高",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "최고가",
+    "translation": "хамгийн өндөр үнэ",
+    "hanja": "最高價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최고급",
+    "translation": "хамгийн дээд зэргийн",
+    "hanja": "最高級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최고령",
+    "translation": "хамгийн өндөр настай",
+    "hanja": "最高齡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최고봉",
+    "translation": "Оргил, дээд цэг",
+    "hanja": "最高峰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최고액",
+    "translation": "хамгийн дээд хэмжээ",
+    "hanja": "最高額",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최고위",
+    "translation": "хамгийн дээд зэргийн",
+    "hanja": "最高位",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최고인민회의",
+    "translation": "БНАСУ-ын Ардын Дээд Хурал",
+    "hanja": "最高人民會議",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "최고점",
+    "translation": "Хамгийн өндөр цэг",
+    "hanja": "最高點",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "최고조",
+    "translation": "оргил үе, дээд цэг",
+    "hanja": "最高潮",
+    "pos": "м",
+    "cefr": "C1"
+  },
+  {
+    "word": "최곤",
+    "translation": "хамгийн сүүлд",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최근",
+    "translation": "сүүлийн үе",
+    "hanja": "最近",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "최남단",
+    "translation": "хамгийн өмнөд үзүүр",
+    "hanja": "最南端",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최다",
+    "translation": "хамгийн олон",
+    "hanja": "最多",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최다하다",
+    "translation": "хамгийн их байх",
+    "hanja": "最多하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최대",
+    "translation": "хамгийн их",
+    "hanja": "最大",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "최대치",
+    "translation": "Хамгийн их хэмжээ",
+    "hanja": "最大値",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최대한",
+    "translation": "хамгийн их",
+    "hanja": "最大限",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "최대화",
+    "translation": "Хамгийн их болгох",
+    "hanja": "最大化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최대화하다",
+    "translation": "ихэсгэх",
+    "hanja": "最大化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최댓값",
+    "translation": "хамгийн их утга",
+    "hanja": "最大값",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "최루",
+    "translation": "Нулимс асгаруулах",
+    "hanja": "催淚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최루탄",
+    "translation": "нулимс асгаруулагч хий",
+    "hanja": "催淚彈",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "최면",
+    "translation": "гипноз",
+    "hanja": "催眠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최면술",
+    "translation": "гипноз",
+    "hanja": "催眠術",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최미",
+    "translation": "Цойми (нэр)",
+    "hanja": "崔美",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "최북단",
+    "translation": "хамгийн хойд цэг",
+    "hanja": "最北端",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "최빈국",
+    "translation": "хамгийн ядуу орон",
+    "hanja": "最貧國",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "최산",
+    "translation": "хамгийн залуу",
+    "hanja": "最酸",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "최상",
+    "translation": "Хамгийн сайн",
+    "hanja": "最上",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최상급",
+    "translation": "хамгийн сайн зэрэг",
+    "hanja": "最上級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최상위",
+    "translation": "хамгийн дээд зэргийн",
+    "hanja": "最上位",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최상층",
+    "translation": "хамгийн дээд давхар",
+    "hanja": "最上層",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "최상품",
+    "translation": "Шилдэг бүтээгдэхүүн",
+    "hanja": "最上品",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "최선",
+    "translation": "хамгийн сайн",
+    "hanja": "最善",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "최선책",
+    "translation": "хамгийн сайн арга",
+    "hanja": "最善策",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "최성",
+    "translation": "оргил үе, ид үе",
+    "hanja": "最盛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최소",
+    "translation": "Хамгийн бага, дор хаяж",
+    "hanja": "最初",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "최소한",
+    "translation": "хамгийн багадаа",
+    "hanja": "最小限",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "최소한도",
+    "translation": "хамгийн бага хэмжээ",
+    "hanja": "最小限度",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "최소화",
+    "translation": "хамгийн бага байлгах",
+    "hanja": "最小化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최소화하다",
+    "translation": "багасгах",
+    "hanja": "최소화하다(最小化하다)",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최솟값",
+    "translation": "хамгийн бага утга",
+    "hanja": "最小값",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최승",
+    "translation": "хамгийн сайн ялалт",
+    "hanja": "最勝",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "최신",
+    "translation": "хамгийн сүүлийн үеийн",
+    "hanja": "最新",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "최신식",
+    "translation": "Хамгийн сүүлийн үеийн загвар",
+    "hanja": "最新式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최신작",
+    "translation": "хамгийн сүүлийн бүтээл",
+    "hanja": "最新作",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "최신형",
+    "translation": "хамгийн сүүлийн үеийн загвар",
+    "hanja": "最新型",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "최씨",
+    "translation": "Чой овогт",
+    "hanja": "崔氏",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "최악",
+    "translation": "хамгийн муу",
+    "hanja": "最惡",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "최애",
+    "translation": "хамгийн дуртай",
+    "hanja": "最愛",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "최애하다",
+    "translation": "Хамгийн их хайрлах",
+    "hanja": "最愛하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최연소",
+    "translation": "хамгийн залуу",
+    "hanja": "最年少",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최우선",
+    "translation": "хамгийн чухал",
+    "hanja": "最優先",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최우선시하다",
+    "translation": "Хамгийн түрүүнд тавих",
+    "hanja": "最優先視하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "최우선하다",
+    "translation": "хамгийн чухалчлах",
+    "hanja": "最 우선하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최우수",
+    "translation": "шилдэг, хамгийн сайн",
+    "hanja": "最優秀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최은희",
+    "translation": "Чой Ын Хи (хүний нэр)",
+    "hanja": "崔銀姬",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "최자",
+    "translation": "рэппер Чойза",
+    "hanja": "崔子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "최장",
+    "translation": "Хамгийн урт",
+    "hanja": "最長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최재희",
+    "translation": "Цой Жэ-хи (хүний нэр)",
+    "hanja": "崔在熙",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최저",
+    "translation": "хамгийн бага, доод тал",
+    "hanja": "最低",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "최저가",
+    "translation": "хамгийн хямд үнэ",
+    "hanja": "最低價",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "최적",
+    "translation": "хамгийн тохиромжтой, оновчтой",
+    "hanja": "最適",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최적임자",
+    "translation": "хамгийн тохиромжтой хүн",
+    "hanja": "最適任者",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "최적화되다",
+    "translation": "оновчтой болох",
+    "hanja": "最適化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최적화하다",
+    "translation": "оновчтой болгох",
+    "hanja": "最適化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최전방",
+    "translation": "Фронтын хамгийн урд тал",
+    "hanja": "最前方",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최전선",
+    "translation": "хамгийн фронт",
+    "hanja": "最前線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최종",
+    "translation": "эцсийн, сүүлчийн",
+    "hanja": "最終",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최종심",
+    "translation": "эцсийн шат",
+    "hanja": "最終審",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "최종적",
+    "translation": "эцсийн",
+    "hanja": "最終的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "최중",
+    "translation": "хамгийн чухал",
+    "hanja": "最重",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "최중량급",
+    "translation": "хамгийн хүнд жин",
+    "hanja": "最重量級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최지몽",
+    "translation": "Чой Жи-мунг (хүний нэр)",
+    "hanja": "崔知夢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "최첨단",
+    "translation": "хамгийн сүүлийн үеийн",
+    "hanja": "最尖端",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "최초",
+    "translation": "анхны",
+    "hanja": "最初",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "최충헌",
+    "translation": "Чоэ Чунхон",
+    "hanja": "崔忠獻",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "최하",
+    "translation": "Хамгийн доод",
+    "hanja": "最下",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "최하급",
+    "translation": "хамгийн доод зэргийн",
+    "hanja": "最下級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최하위",
+    "translation": "хамгийн доод түвшин",
+    "hanja": "最下位",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "최하위권",
+    "translation": "хамгийн доод түвшин",
+    "hanja": "最下位圈",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "최하층",
+    "translation": "Хамгийн доод давхарга",
+    "hanja": "最下層",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "최현배",
+    "translation": "Цой Хёнбэ (нэр)",
+    "hanja": "崔鉉培",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "최후",
+    "translation": "сүүлчийн, төгсгөл",
+    "hanja": "最後",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "최후통첩",
+    "translation": "эцсийн шаардлага",
+    "hanja": "最後通牒",
+    "pos": "noun",
+    "cefr": "C1"
+  }
+]

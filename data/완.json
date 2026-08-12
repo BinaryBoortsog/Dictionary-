@@ -1,0 +1,737 @@
+[
+  {
+    "word": "완",
+    "translation": "бүрэн",
+    "hanja": "完",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "완간",
+    "translation": "бүрэн хэвлэгдсэн",
+    "hanja": "完刊",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "완강",
+    "translation": "туйлын хатуу",
+    "hanja": "頑強",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완강하다",
+    "translation": "хатуу, гүргэр",
+    "hanja": "頑強하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완강히",
+    "translation": "ятгашгүй",
+    "hanja": "頑強히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완결",
+    "translation": "Дуусгах",
+    "hanja": "完結",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완결되다",
+    "translation": "бүрэн дуусах",
+    "hanja": "完結되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완결성",
+    "translation": "бүрэн гүйцэт байдал, төгс байдал",
+    "hanja": "完結性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완결하다",
+    "translation": "дуусах",
+    "hanja": "完結하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "완경",
+    "translation": "Цэвэрших",
+    "hanja": "完經",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완고",
+    "translation": "өрөвдөнгүй бус",
+    "hanja": "頑固",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완고하다",
+    "translation": "Зөрүүд, хатуу",
+    "hanja": "頑固하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "완곡하다",
+    "translation": "шударга бус",
+    "hanja": "婉曲하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완공",
+    "translation": "Дуусгах",
+    "hanja": "完工",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "완공되다",
+    "translation": "барилгын ажил дуусах",
+    "hanja": "完工—",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "완공하다",
+    "translation": "бүрэн барих, барьж дуусгах",
+    "hanja": "完工하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "완구",
+    "translation": "тоглоом",
+    "hanja": "玩具",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "완구점",
+    "translation": "тоглоомын дэлгүүр",
+    "hanja": "玩具店",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "완급",
+    "translation": "удаан хурдан",
+    "hanja": "緩急",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완납",
+    "translation": "бүрэн төлөх",
+    "hanja": "完納",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완납하다",
+    "translation": "бүрэн төлөх",
+    "hanja": "完納하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완당",
+    "translation": "вантан",
+    "hanja": "餛飩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "완도",
+    "translation": "Вандо",
+    "hanja": "莞島",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "완독",
+    "translation": "бүрэн унших",
+    "hanja": "完讀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완독하다",
+    "translation": "완독하다, 다 읽다",
+    "hanja": "完讀하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완두",
+    "translation": "вандуй",
+    "hanja": "豌豆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "완두콩",
+    "translation": "Вандуй",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "완등",
+    "translation": "бүрэн авирах (уул руу)",
+    "hanja": "完登",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "완등하다",
+    "translation": "оргилд гарах",
+    "hanja": "完登하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "완력",
+    "translation": "гар хүч",
+    "hanja": "腕力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완료",
+    "translation": "гүйцэтгэл",
+    "hanja": "完了",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "완료되다",
+    "translation": "Дуусах",
+    "hanja": "完了되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "완료하다",
+    "translation": "бүрэн гүйцэтгэх",
+    "hanja": "完了하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "완만하다",
+    "translation": "зөөлөн",
+    "hanja": "緩慢하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "완만히",
+    "translation": "зөөлөн, жигд",
+    "hanja": "緩萬히",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "완모",
+    "translation": "бүрэн дуусах, төгсгөх",
+    "hanja": "完募",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "완벽",
+    "translation": "төгс төгөлдөр",
+    "hanja": "完璧",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "완벽주의자",
+    "translation": "төгс төгөлдөржүүлэгч",
+    "hanja": "完璧主義者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완벽하다",
+    "translation": "төгс төгөлдөр",
+    "hanja": "完璧하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "완벽히",
+    "translation": "Төгс",
+    "hanja": "完璧히",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "완봉",
+    "translation": "бүрэн битүүмжлэх",
+    "hanja": "完封",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완봉승",
+    "translation": "бүрэн хамгаалалттай ялалт",
+    "hanja": "完封勝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완비",
+    "translation": "Бүрэн тоноглох, бүрэн 갖추да",
+    "hanja": "完備",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완비되다",
+    "translation": "Бүрэн тоноглогдсон байх",
+    "hanja": "完備되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "완비하다",
+    "translation": "бүрэн тоноглох",
+    "hanja": "完備하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완선",
+    "translation": "бүрэн сонголт",
+    "hanja": "完選",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완성",
+    "translation": "бүрэн дуусах",
+    "hanja": "完成",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "완성도",
+    "translation": "гүйцэтгэл",
+    "hanja": "完成度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완성되다",
+    "translation": "бүрэн дуусах",
+    "hanja": "完成되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "완성품",
+    "translation": "бэлэн бүтээгдэхүүн",
+    "hanja": "完成品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완성하다",
+    "translation": "гүйцэтгэх",
+    "hanja": "完成하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "완소",
+    "translation": "бүрэн үнэлэгдсэн",
+    "hanja": "完所",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완속",
+    "translation": "удаан хурд",
+    "hanja": "緩速",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완수",
+    "translation": "бүрэн гүйцэтгэх",
+    "hanja": "完遂",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "완수되다",
+    "translation": "Бүрэн гүйцэтгэгдэх, биелэгдэх",
+    "hanja": "完遂되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완수하다",
+    "translation": "гүйцэтгэх",
+    "hanja": "完遂하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완숙",
+    "translation": "Бүрэн боловсорсон",
+    "hanja": "完熟",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완숙하다",
+    "translation": "бүрэн боловсрох; төгс болох",
+    "hanja": "完熟하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완승",
+    "translation": "бүрэн ялалт",
+    "hanja": "完勝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완승하다",
+    "translation": "бүрэн ялах",
+    "hanja": "完勝하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완악하다",
+    "translation": "зөрүүд, унтуу",
+    "hanja": "頑惡하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "완역",
+    "translation": "бүрэн орчуулга",
+    "hanja": "完譯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완연하다",
+    "translation": "тодорхой, илт",
+    "hanja": "宛然하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "완연히",
+    "translation": "тодорхой, илт",
+    "hanja": "宛然히",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "완이",
+    "translation": "Бүрэн гүйцэд",
+    "hanja": "完이",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "완자",
+    "translation": "махны бөмбөлөг",
+    "hanja": "丸子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완장",
+    "translation": "ханцуйвч, боолт",
+    "hanja": "腕章",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완전",
+    "translation": "бүрэн, төгс",
+    "hanja": "完全",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "완전무결하다",
+    "translation": "Төгс төгөлдөр",
+    "hanja": "完全無缺하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완전하다",
+    "translation": "бүрэн гүйцэд",
+    "hanja": "完全하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완전히",
+    "translation": "бүрэн",
+    "hanja": "完全히",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "완정",
+    "translation": "бүрэн гүйцэд",
+    "hanja": "完定",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "완제",
+    "translation": "үйлдвэрлэлийг дуусгах",
+    "hanja": "完製",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "완제품",
+    "translation": "бэлэн бүтээгдэхүүн",
+    "hanja": "完製品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완주",
+    "translation": "дуусгах",
+    "hanja": "完走",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "완주하다",
+    "translation": "гүйцэтгэх, дуусгах",
+    "hanja": "完走하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완준",
+    "translation": "бүрэн дүүрэн",
+    "hanja": "完竣",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "완진",
+    "translation": "бүрэн өвчин",
+    "hanja": "完疹",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "완창",
+    "translation": "бүтэн дуулах",
+    "hanja": "完唱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완철",
+    "translation": "бариул",
+    "hanja": "腕鐵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "완충",
+    "translation": "Хамгаалагч",
+    "hanja": "緩衝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완충되다",
+    "translation": "зөөлрөх, саармагжих",
+    "hanja": "緩衝되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완충하다",
+    "translation": "буферийг үүсгэх, зөөллөх",
+    "hanja": "緩衝하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완치",
+    "translation": "бүрэн эдгэрэлт",
+    "hanja": "完治",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완치되다",
+    "translation": "Эдгэрэх",
+    "hanja": "完治",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완치하다",
+    "translation": "бүрэн эдгэрэх",
+    "hanja": "完治하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "완쾌",
+    "translation": "бүрэн эдгэрэх",
+    "hanja": "完快",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "완쾌되다",
+    "translation": "Бүрэн эдгэрэх",
+    "hanja": "完快되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완쾌하다",
+    "translation": "Бүрэн эдгэрэх",
+    "hanja": "完快하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완탕",
+    "translation": "вандан",
+    "hanja": "완탕(雲呑)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완투",
+    "translation": "бүтэн тоглолт",
+    "hanja": "完投",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완파",
+    "translation": "бүрэн эвдэх",
+    "hanja": "完破",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완파되다",
+    "translation": "бүрэн устгах",
+    "hanja": "完破되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완파하다",
+    "translation": "Бүрэн бут цохих, сүйрүүлэх",
+    "hanja": "完破하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완판",
+    "translation": "бүрэн зарагдсан",
+    "hanja": "完販",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "완판되다",
+    "translation": "бүрэн зарагдах",
+    "hanja": "完販되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "완판하다",
+    "translation": "бүгд зарагдах",
+    "hanja": "完販하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완패",
+    "translation": "Бүрэн ялагдал",
+    "hanja": "完敗",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "완패하다",
+    "translation": "бүрэн ялагдах",
+    "hanja": "完敗하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완행",
+    "translation": "удаан явдалтай галт тэрэг",
+    "hanja": "緩行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완행열차",
+    "translation": "удаан галт тэрэг",
+    "hanja": "緩行列車",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "완호",
+    "translation": "бүрэн хамгаалалт",
+    "hanja": "完護",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "완화",
+    "translation": "зөөлрүүлэх",
+    "hanja": "緩和",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "완화되다",
+    "translation": "тайвшрах",
+    "hanja": "緩和되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "완화하다",
+    "translation": "хөнгөвчлөх",
+    "hanja": "緩和하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

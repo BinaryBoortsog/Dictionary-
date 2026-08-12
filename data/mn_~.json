@@ -1,0 +1,58 @@
+[
+  {
+    "word": "동안",
+    "translation": "~ийн турш, хугацаанд",
+    "hanja": " 동안",
+    "pos": "의존명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "듯싶다",
+    "translation": "~мэт санагдах",
+    "hanja": null,
+    "pos": "보조형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "시피",
+    "translation": "~шиг, ~мэт",
+    "hanja": "시피",
+    "pos": "의존명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "까지",
+    "translation": "~хүртэл",
+    "hanja": "null",
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "하고",
+    "translation": "~тай хамт, болон",
+    "hanja": null,
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "말고",
+    "translation": "~гүй",
+    "hanja": "말고",
+    "pos": "조사",
+    "cefr": "A2"
+  },
+  {
+    "word": "이다",
+    "translation": "~юм",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "직하다",
+    "translation": "~шиг байх, ~мэт байх",
+    "hanja": "직하다",
+    "pos": "조동사",
+    "cefr": "B2"
+  }
+]

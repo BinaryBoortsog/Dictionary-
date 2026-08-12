@@ -1,0 +1,100 @@
+[
+  {
+    "word": "흠",
+    "translation": "согог",
+    "hanja": "欠",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "흠결",
+    "translation": "дутэгдэл, алдаа",
+    "hanja": "欠缺",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "흠모",
+    "translation": "хүндэтгэн бишрэх",
+    "hanja": "欽慕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흠모하다",
+    "translation": "бишрэх, таашаах",
+    "hanja": "欽慕하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "흠뻑",
+    "translation": "бүрэн",
+    "hanja": "null",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "흠씬",
+    "translation": "хүчтэй",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "흠잡다",
+    "translation": "буруушаах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "흠집",
+    "translation": "зураас, сорви",
+    "hanja": "흠집",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흠집투성이",
+    "translation": "зураас дүүрэн",
+    "hanja": "흠집투성이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "흠칫",
+    "translation": "Гэнэт цочих",
+    "hanja": "흠칫",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흠칫거리다",
+    "translation": "цочих",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "흠칫하다",
+    "translation": "цочих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "흠칫흠칫",
+    "translation": "Гэнэт гэнэт",
+    "hanja": "흠칫흠칫",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "흠흠",
+    "translation": "хмм (сэтгэл дундуур байх)",
+    "hanja": "흠흠",
+    "pos": "감탄사",
+    "cefr": "A1"
+  }
+]

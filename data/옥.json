@@ -1,0 +1,485 @@
+[
+  {
+    "word": "옥",
+    "translation": "хаш",
+    "hanja": "玉",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "옥경",
+    "translation": "Окгён (이름)",
+    "hanja": "玉慶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥계",
+    "translation": "цавхайн тоолуур, зааг",
+    "hanja": "玉界",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥내",
+    "translation": "Дотор, байшингийн дотор",
+    "hanja": "屋內",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "옥녀",
+    "translation": "Царайлаг охин",
+    "hanja": "玉女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥다",
+    "translation": "барих, хаших",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥돔",
+    "translation": "Цагаан загас",
+    "hanja": "玉돔",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥동",
+    "translation": "хүүхдийн нэр",
+    "hanja": "玉童",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥동자",
+    "translation": "эрхэм хүү",
+    "hanja": "玉童子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥련",
+    "translation": "Окрён",
+    "hanja": "玉蓮",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥루",
+    "translation": "эрдэнэсийн байшин",
+    "hanja": "玉樓",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥바라지",
+    "translation": "хоригдлыг асрах",
+    "hanja": "獄─",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥바라지하다",
+    "translation": "шоронгийн хүнийг асрах",
+    "hanja": "獄바라지하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥분",
+    "translation": "гоёл чимэглэлийн үнэт чулуун сав",
+    "hanja": "玉粉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥사",
+    "translation": "шоронд үхэх",
+    "hanja": "獄死",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥사하다",
+    "translation": "шоронд үхэх",
+    "hanja": "獄死하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥산",
+    "translation": "Оксан (газар нэр)",
+    "hanja": "玉山",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥살산",
+    "translation": "оксалын хүчил",
+    "hanja": " oxalic酸",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥살이",
+    "translation": "шоронгийн амьдрал",
+    "hanja": "獄살이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "옥살이하다",
+    "translation": "шоронд суух",
+    "hanja": "獄살이하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "옥상",
+    "translation": "дээвэр",
+    "hanja": "屋上",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "옥새",
+    "translation": "Хааны тамга",
+    "hanja": "玉璽",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥색",
+    "translation": "цайвар ногоон, оюу ногоон",
+    "hanja": "玉色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "옥석",
+    "translation": "жад, чулуу",
+    "hanja": "玉石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥쇄",
+    "translation": "эх орондоо үнэнчээр үхэх",
+    "hanja": "玉碎",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥수",
+    "translation": "Эрдэнэ шиш",
+    "hanja": "옥수",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "옥수수",
+    "translation": "эзэгтэй",
+    "hanja": "玉蜀黍",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "옥수숫가루",
+    "translation": "эзгийн гурил",
+    "hanja": "옥수숫가루",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "옥수숫대",
+    "translation": "эпилепси",
+    "hanja": "옥수숫대",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "옥순",
+    "translation": "хулсны шинэ нахиа",
+    "hanja": "玉筍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥스팜",
+    "translation": "Оксфам",
+    "hanja": "옥스팜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥스퍼드",
+    "translation": "Оксфорд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "옥시",
+    "translation": "Окси (компани)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "옥시코돈",
+    "translation": "оксикодон",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥시토신",
+    "translation": "окситоцин",
+    "hanja": "wò-xī-tú-sēn",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥신각신",
+    "translation": "Маргах, хэрэлдэх",
+    "hanja": "옥신각신",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "옥신각신하다",
+    "translation": "маргалдах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "옥엽",
+    "translation": "хүүхэд, үе залгамжлагч (яруу найргийн)",
+    "hanja": "玉葉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥외",
+    "translation": "гадаа",
+    "hanja": "屋外",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "옥이",
+    "translation": "сувд, эрдэнэ",
+    "hanja": "玉이",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "옥자",
+    "translation": "Окжа (киноны нэр)",
+    "hanja": "玉子",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "옥저",
+    "translation": "Окжо",
+    "hanja": "沃沮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥정",
+    "translation": "хуучин худаг",
+    "hanja": "玉井",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥졸",
+    "translation": "шоронгийн харгалзагч",
+    "hanja": "獄卒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥좌",
+    "translation": "хаан ширээ",
+    "hanja": "玉座",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "옥죄다",
+    "translation": "Боомилох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥죄이다",
+    "translation": "чангалах",
+    "hanja": "옥죄이다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥주",
+    "translation": "сувдан бөмбөлөг",
+    "hanja": "玉珠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥중",
+    "translation": "шорон дотор",
+    "hanja": "獄中",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥진",
+    "translation": "сувдан хөлс",
+    "hanja": "玉津",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥천",
+    "translation": "Укчон (газар нэр)",
+    "hanja": "沃川",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥체",
+    "translation": "хаан бие",
+    "hanja": "玉體",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥타곤",
+    "translation": "октагон, найман өнцөгт",
+    "hanja": "octagon",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "옥타브",
+    "translation": "Октав",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "옥타비아",
+    "translation": "Октавиа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥타비아누스",
+    "translation": "Октавиан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥탄",
+    "translation": "октан",
+    "hanja": "옥탄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥탑",
+    "translation": "дээвэр дээрх байшин",
+    "hanja": "屋塔",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "옥토",
+    "translation": "үржил шимтэй газар",
+    "hanja": "沃土",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥토끼",
+    "translation": "саран туулай",
+    "hanja": "玉兎",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "옥토버페스트",
+    "translation": "октоберфест",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥패",
+    "translation": "хаш энгэрийн тэмдэг",
+    "hanja": "玉패",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥편",
+    "translation": "Хятад үсгийн толь бичиг",
+    "hanja": "玉篇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥포",
+    "translation": "Окпо (газрын нэр)",
+    "hanja": "玉浦",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥합",
+    "translation": "жад чулуун хайрцаг",
+    "hanja": "玉盒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "옥형",
+    "translation": "Нэптун",
+    "hanja": "玉衡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥화",
+    "translation": "цахилгаан цэцэг",
+    "hanja": "玉花",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥황",
+    "translation": "тэнгэрийн хаан",
+    "hanja": "玉皇",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "옥황상제",
+    "translation": "Тэнгэрийн Эзэн",
+    "hanja": "玉皇上帝",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

@@ -1,0 +1,891 @@
+[
+  {
+    "word": "투",
+    "translation": "хоёр",
+    "hanja": null,
+    "pos": "Determiner",
+    "cefr": "A1"
+  },
+  {
+    "word": "투게더",
+    "translation": "хамтдаа",
+    "hanja": "together",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "투견",
+    "translation": "нохойн зодоон",
+    "hanja": "鬪犬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투고하다",
+    "translation": "нийтлэх",
+    "hanja": "投稿하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투과",
+    "translation": "нэвтрүүлэх",
+    "hanja": "透過",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투과되다",
+    "translation": "нэвтрэх, дамжигдах",
+    "hanja": "透過되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투과하다",
+    "translation": "нэвтлэх",
+    "hanja": "透過--",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "투광",
+    "translation": "Гэрэл нэвтрэх",
+    "hanja": "透光",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "투구",
+    "translation": "малгай, дуулга",
+    "hanja": "投球",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투구하다",
+    "translation": "Цохих, шидэх",
+    "hanja": "投球하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "투기꾼",
+    "translation": "хөрөнгийн эх үүсвэр, бооцоот тоглоомын худалдаачин",
+    "hanja": "投機꾼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투기성",
+    "translation": "даам",
+    "hanja": "投機性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투기하다",
+    "translation": "таамаглах",
+    "hanja": "投機하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투닥거리다",
+    "translation": "муудалцах, маргалдах",
+    "hanja": "투닥거리다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "투닥투닥",
+    "translation": "тудагдах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투닥투닥하다",
+    "translation": "Маргалдах, ам муруйх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투덕거리다",
+    "translation": "хутгана, эргэлдүүлнэ",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투덜거리다",
+    "translation": "гомдох, амандаа бувтнах",
+    "hanja": "투덜거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투덜대다",
+    "translation": "гомдоллох, дургүйцэх, шулганах",
+    "hanja": "투덜대다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투덜이",
+    "translation": "гомдоллох хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투덜투덜",
+    "translation": "гомдоллох, дургүйцэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "투덜투덜하다",
+    "translation": "Гомдоллох",
+    "hanja": "투덜투덜하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투두",
+    "translation": "хийх зүйлсийн жагсаалт",
+    "hanja": "투두",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투두둑",
+    "translation": "тачигнах чимээ",
+    "hanja": "투두둑",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투둑투둑",
+    "translation": "дусал дуслаар",
+    "hanja": "null",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "투레",
+    "translation": "Турецкий",
+    "hanja": "투레",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "투력",
+    "translation": "хүчээ хаях, хүчээ нийлүүлэх",
+    "hanja": "投力",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "투룸",
+    "translation": "хоёр өрөө",
+    "hanja": "투룸",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "투르",
+    "translation": "тур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "투르쿠",
+    "translation": "Турку (хот)",
+    "hanja": "투르쿠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투르크메니스탄",
+    "translation": "Туркменистан",
+    "hanja": "Turkmenistan",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "투리",
+    "translation": "Тури (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투망",
+    "translation": "тор",
+    "hanja": "投網",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투매",
+    "translation": "маш хямд үнээр зарах",
+    "hanja": "投賣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투명",
+    "translation": "ил тод",
+    "hanja": "透明",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투명대",
+    "translation": "ил тод бүс",
+    "hanja": "透明帶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투명하다",
+    "translation": "тунгалаг",
+    "hanja": "透明하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투모",
+    "translation": "Буух, буцах",
+    "hanja": "投錨",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "투바",
+    "translation": "Тува",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투박하다",
+    "translation": "бүдүүлэг, баргил",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투발루",
+    "translation": "Тувалу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투병",
+    "translation": "Өвчний эсрэг тэмцэх",
+    "hanja": "鬪病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투병하다",
+    "translation": "өвчний эсрэг тэмцэх",
+    "hanja": "鬪病하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "투사",
+    "translation": "тулаанч",
+    "hanja": "鬪士",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "투사되다",
+    "translation": "төсөөлөх",
+    "hanja": "投射되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투사하다",
+    "translation": "Цацах",
+    "hanja": "投射하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투생",
+    "translation": "Тусен",
+    "hanja": "투생",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투서",
+    "translation": "Өргөдөл",
+    "hanja": "投書",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "투서하다",
+    "translation": "захидал илгээх (заналхийлэх)",
+    "hanja": "投書하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투석",
+    "translation": "чулуу шидэх",
+    "hanja": "投石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투석하다",
+    "translation": "чулуу шидэх",
+    "hanja": "投石하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투소",
+    "translation": "нэвт норгох",
+    "hanja": "透疎",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "투수",
+    "translation": "шилдэг тоглогч",
+    "hanja": "投手",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "투숙",
+    "translation": "буудалдах",
+    "hanja": "投宿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투숙객",
+    "translation": "зочин",
+    "hanja": "投宿客",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투숙하다",
+    "translation": "буудалдах, орох",
+    "hanja": "投宿하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투슈",
+    "translation": "тууш",
+    "hanja": "투슈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투스텝",
+    "translation": "хоёр алхамт бүжиг",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "투시",
+    "translation": "Нэвт харах",
+    "hanja": "透視",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "투시하다",
+    "translation": "нэвт харах",
+    "hanja": "透視하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투신",
+    "translation": "биэ хаях",
+    "hanja": "投身",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투신자살하다",
+    "translation": "үсэрч амиа хорлох",
+    "hanja": "投身自殺하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "투신하다",
+    "translation": "бизнесээ орхих, амь насаа хорлох",
+    "hanja": "投身하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "투실투실하다",
+    "translation": "бөртөнхөй (Тодорхойлох)",
+    "hanja": "N/A",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "투아",
+    "translation": "Тун А (хүний нэр)",
+    "hanja": "投兒",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "투아타라",
+    "translation": "туатара",
+    "hanja": "투아타라",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "투약",
+    "translation": "Эм өгөх",
+    "hanja": "投藥",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "투약되다",
+    "translation": "эм хэрэглэх",
+    "hanja": "投藥되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투약하다",
+    "translation": "эм уух",
+    "hanja": "投藥하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "투어",
+    "translation": "аялал",
+    "hanja": "tour",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "투여",
+    "translation": "Хэрэглэх, өгөх (эм)",
+    "hanja": "投與",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투여하다",
+    "translation": "хийх; өгөх",
+    "hanja": "投與하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투영",
+    "translation": "проекц",
+    "hanja": "投影",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투영되다",
+    "translation": "Тусах, гарах, дүрслэгдэх",
+    "hanja": "投影-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투영하다",
+    "translation": "Туяаруулах",
+    "hanja": "投影하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투옥",
+    "translation": "шоронд хорих",
+    "hanja": "投獄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투옥되다",
+    "translation": "шоронд хоригдох",
+    "hanja": "投獄되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투옥하다",
+    "translation": "шоронд хорих",
+    "hanja": "投獄하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투우",
+    "translation": "бухын тулаан",
+    "hanja": "鬪牛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투우리",
+    "translation": "хонгил",
+    "hanja": "투우리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투우사",
+    "translation": "бух баригч",
+    "hanja": "鬪牛士",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투입",
+    "translation": "оруулах, хөрөнгө оруулах",
+    "hanja": "投入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투입구",
+    "translation": "Орох нүх",
+    "hanja": "投入口",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투입되다",
+    "translation": "орох",
+    "hanja": "投入되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "투입하다",
+    "translation": "оруулах",
+    "hanja": "投入하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투자",
+    "translation": "хөрөнгө оруулалт",
+    "hanja": "投資",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "투자가",
+    "translation": "хөрөнгө оруулагч",
+    "hanja": "投資家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투자되다",
+    "translation": "Хөрөнгө оруулагдах",
+    "hanja": "投資되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "투자액",
+    "translation": "хөрөнгө оруулалтын дүн",
+    "hanja": "投資額",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투자자",
+    "translation": "хөрөнгө оруулагч",
+    "hanja": "投資者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "투자하다",
+    "translation": "хөрөнгө оруулах",
+    "hanja": "投資하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투쟁",
+    "translation": "тэмцэл, зөрчил",
+    "hanja": "鬪爭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투쟁하다",
+    "translation": "тэмцэх",
+    "hanja": "鬥爭하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투전",
+    "translation": "хөзрөөр тоглох",
+    "hanja": "鬪錢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투정",
+    "translation": "гомдоллох",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "투정하다",
+    "translation": "гомдоллох",
+    "hanja": "冗酊하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투창",
+    "translation": "жад шидэх",
+    "hanja": "投槍",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "투척",
+    "translation": "шидэх, хаях",
+    "hanja": "投擲",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "투척하다",
+    "translation": "Шидэх, чулуудах",
+    "hanja": "投擲하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투철하다",
+    "translation": "тунгалаг, тод",
+    "hanja": "透徹하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "투쿠다",
+    "translation": "тукуда",
+    "hanja": "투쿠다",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "투키디데스",
+    "translation": "Тукидид",
+    "hanja": "투키디데스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "투타",
+    "translation": "бөмбөг шидэх ба цохих",
+    "hanja": "投打",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "투탕카멘",
+    "translation": "Тутанхамун",
+    "hanja": "Tutankhamen",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투토",
+    "translation": "туто",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "투투",
+    "translation": "туту (балетын хувцас)",
+    "hanja": "투투",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "투티",
+    "translation": "тути",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투표",
+    "translation": "санал авах",
+    "hanja": "投票",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "투표권",
+    "translation": "санал өгөх эрх",
+    "hanja": "投票權",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "투표소",
+    "translation": "саналын хуудас",
+    "hanja": "投票所",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "투표용지",
+    "translation": "саналын хуудас",
+    "hanja": "投票用紙",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투표율",
+    "translation": "Саналын хувь",
+    "hanja": "投票率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투표일",
+    "translation": "санал хураах өдөр",
+    "hanja": "投票日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투표자",
+    "translation": "саналын хуудас",
+    "hanja": "投票者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투표장",
+    "translation": "Саналын хуудаг тавих газар",
+    "hanja": "投票場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투표하다",
+    "translation": "Саналын хуудас өгөх",
+    "hanja": "投票하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투플",
+    "translation": "усан онгоцны төрөл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투피",
+    "translation": "товч, нууц",
+    "hanja": "妬避",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "투피스",
+    "translation": "хоёр хэсэгтэй",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "투하",
+    "translation": "хаях, унагагах",
+    "hanja": "投下",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투하되다",
+    "translation": "хаягдах",
+    "hanja": "投下되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "투하하다",
+    "translation": "хаях, унагагах",
+    "hanja": "投下하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투항",
+    "translation": "бууж өгөх",
+    "hanja": "投降",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투항하다",
+    "translation": "бууж өгөх",
+    "hanja": "投降하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투호",
+    "translation": "тухо (солонгосын уламжлалт тоглоом)",
+    "hanja": "投壺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "투혼",
+    "translation": "тулааны сүнс",
+    "hanja": "鬪魂",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "투화하다",
+    "translation": "илрүүлэх",
+    "hanja": "透華하다",
+    "pos": "동사",
+    "cefr": "C2"
+  }
+]

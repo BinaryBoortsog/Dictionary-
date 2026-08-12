@@ -1,0 +1,576 @@
+[
+  {
+    "word": "클",
+    "translation": "Том, агуу",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "클라라",
+    "translation": "Клара",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클라리넷",
+    "translation": "кларнет (хөгжмийн зэмсэг)",
+    "hanja": "clarinet",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클라리온",
+    "translation": "кларион",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "클라미디아",
+    "translation": "хламид",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "클라스",
+    "translation": "ангилал",
+    "hanja": "class",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "클라쓰",
+    "translation": "класс, түвшин",
+    "hanja": "클라쓰",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클라우드",
+    "translation": "Үүл",
+    "hanja": "cloud",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클라우디우스",
+    "translation": "Клаудиус (хүний нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "클라우지우스",
+    "translation": "Клаузиус",
+    "hanja": "클라우지우스",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "클라이막스",
+    "translation": "оргил үе",
+    "hanja": "클라이막스",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "클라이맥스",
+    "translation": "оргил үе, туйл",
+    "hanja": "클라이맥스",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "클라이밍",
+    "translation": "Авирах",
+    "hanja": "클라이밍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클라이브",
+    "translation": "Клайв",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클라이언트",
+    "translation": "Үйлчлүүлэгч, клиент",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클라인",
+    "translation": "Клайн",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "클라크",
+    "translation": "Кларк",
+    "hanja": "클라크",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클락",
+    "translation": "Цаг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "클래스",
+    "translation": "анги",
+    "hanja": "class",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클래스메이트",
+    "translation": "ангийн найз",
+    "hanja": "클래스메이트",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "클래식",
+    "translation": "сонгодог",
+    "hanja": "클래식",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클래식하다",
+    "translation": "сонгодог",
+    "hanja": "클래식하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클래퍼",
+    "translation": "ташигч, цочигч (хайрцаг)",
+    "hanja": "클래퍼",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "클랙슨",
+    "translation": "клаксон",
+    "hanja": "klaxon",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "클랜",
+    "translation": "Овог",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클램차우더",
+    "translation": "клам чоудер",
+    "hanja": "클램차우더",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "클램프",
+    "translation": "хавчаар",
+    "hanja": "clamp",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "클러스터",
+    "translation": "бөөгнөрөл, кластер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클러스터링",
+    "translation": "Кластерлах",
+    "hanja": "클러스터링",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클럭",
+    "translation": "цаг",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "클럽",
+    "translation": "Клуб",
+    "hanja": "클럽",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클럽스",
+    "translation": "клубс (үдшийн цэнгээний газар)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클레",
+    "translation": "Клее (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클레르",
+    "translation": "Клер",
+    "hanja": "Claire",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클레먼스",
+    "translation": "Клеменс",
+    "hanja": "클레먼스",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "클레멘타인",
+    "translation": "Клементин (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클레오파트라",
+    "translation": "Клеопатра",
+    "hanja": "Cleopatra",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "클레이",
+    "translation": "шавар",
+    "hanja": "클레이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클레이스테네스",
+    "translation": "Клейстенес",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클레임",
+    "translation": "Нэхэмжлэл, гомдол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클렌징",
+    "translation": "цэвэрлэгээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클로그",
+    "translation": "модон гутал, бөглөрөх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클로닝",
+    "translation": "Клончлох",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "클로드",
+    "translation": "Клод",
+    "hanja": "클로드",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클로렐라",
+    "translation": "хлорелла",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "클로로퀸",
+    "translation": "хлорохин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클로로포름",
+    "translation": "хлороформ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클로버",
+    "translation": "Хошоонгор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클로스",
+    "translation": "Класс (зэрэглэл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클로저",
+    "translation": "хаагч",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클로즈업",
+    "translation": "ойроос авах зураг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클로즈업되다",
+    "translation": "ойртуулан харах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클로즈업하다",
+    "translation": "ойртуулан авах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클로징",
+    "translation": "хаалт, төгсгөл",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "클로케",
+    "translation": "Клоке",
+    "hanja": null,
+    "pos": "Нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "클로킹",
+    "translation": "нуун далдлах, харах боломжгүй болгох",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클론",
+    "translation": "клонинг",
+    "hanja": "clone",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클루",
+    "translation": "сэжүүр",
+    "hanja": "클루",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클리너",
+    "translation": "цэвэрлэгч",
+    "hanja": null,
+    "pos": "м.н",
+    "cefr": "A2"
+  },
+  {
+    "word": "클리닉",
+    "translation": "эмнэлэг, клиник",
+    "hanja": "—",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "클리닝",
+    "translation": "Цэвэрлэгээ",
+    "hanja": "클리닝",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클리브",
+    "translation": "Клив (нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "클리블랜드",
+    "translation": "Кливленд",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "클리셰",
+    "translation": "клише",
+    "hanja": "클리셰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "클리어",
+    "translation": "Цэвэрлэх",
+    "hanja": "clear",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "클리어런스",
+    "translation": "клиренс, чөлөөлөх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클리어링",
+    "translation": "клиринг, цэвэрлэх",
+    "hanja": "Clearing",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "클리오",
+    "translation": "Клио (нэр)",
+    "hanja": "Clio",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클리커",
+    "translation": "товшигч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클리토리스",
+    "translation": "клитор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클리퍼",
+    "translation": "хөлөг онгоц (хурдан дарвуулт)",
+    "hanja": "clipper",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "클리프행어",
+    "translation": "клиффхэнгер",
+    "hanja": "클리프행어",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클리핑",
+    "translation": "хайчлах (клип хийх)",
+    "hanja": "clipping",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "클릭",
+    "translation": "дарна уу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클릭하다",
+    "translation": "дарах",
+    "hanja": "클릭하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "클린",
+    "translation": "цэвэр",
+    "hanja": "클린",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "클린업",
+    "translation": "цэвэрлэгээ",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클린하다",
+    "translation": "цэвэрлэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "클림트",
+    "translation": "Климт",
+    "hanja": "null",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "클립",
+    "translation": "Хавчаар",
+    "hanja": "클립",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "클립보드",
+    "translation": "хавтас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "클립아트",
+    "translation": "клипарт",
+    "hanja": "clip art",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

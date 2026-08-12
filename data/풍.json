@@ -1,0 +1,604 @@
+[
+  {
+    "word": "풍",
+    "translation": "Хэв маяг",
+    "hanja": "風",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍개",
+    "translation": "салхины хүрэм",
+    "hanja": "風개",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍격",
+    "translation": "ёс суртахуун, зан чанар",
+    "hanja": "風格",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍경",
+    "translation": "үзэмж",
+    "hanja": "風景",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풍경화",
+    "translation": "үзэгдлийн зураг",
+    "hanja": "風景畫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풍광",
+    "translation": "Газрын зураг",
+    "hanja": "風光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍기",
+    "translation": "ёс суртахуун",
+    "hanja": "風紀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍기다",
+    "translation": "үнэрлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍납동",
+    "translation": "Пуннап-донг",
+    "hanja": "風納洞",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "풍년",
+    "translation": "Арвин ургацтай жил",
+    "hanja": "豐年",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풍덩",
+    "translation": "пүл хийх",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풍덩풍덩",
+    "translation": "цув чувун",
+    "hanja": "풍덩풍덩",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풍덩하다",
+    "translation": "сプラッシュ",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍뎅이",
+    "translation": "Цох хорхой",
+    "hanja": "風登이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풍도",
+    "translation": "Уур амьсгал, байдал",
+    "hanja": "風度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍동",
+    "translation": "салхины хонгил",
+    "hanja": "風洞",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "풍등",
+    "translation": "цэцгийн дэнлүү",
+    "hanja": "風燈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍란",
+    "translation": "салхины цахирмаа",
+    "hanja": "風蘭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍랑",
+    "translation": "далайн шуурга, хүчтэй давалгаа",
+    "hanja": "風浪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍력",
+    "translation": "салхины хүч",
+    "hanja": "風力",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풍로",
+    "translation": "нүүрсний зуух, хөрөө",
+    "hanja": "風爐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍류",
+    "translation": "урлаг, соёл",
+    "hanja": "風流",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍만하다",
+    "translation": "бялхсан",
+    "hanja": "豊滿하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍모",
+    "translation": "гадаад төрх",
+    "hanja": "風貌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍문",
+    "translation": "цуу яриа",
+    "hanja": "風聞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍물",
+    "translation": "ардын урлаг, соёл, үзэсгэлэн",
+    "hanja": "風物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍물놀이",
+    "translation": "үндэсний хөгжмийн тоглолт",
+    "hanja": "風物놀이",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍미",
+    "translation": "амт",
+    "hanja": "風味",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍미하다",
+    "translation": "амтлах",
+    "hanja": "風味하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍백",
+    "translation": "салхины бурхан",
+    "hanja": "風伯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "풍부",
+    "translation": "элбэг дэлбэг",
+    "hanja": "豐富",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풍부하다",
+    "translation": "элбэг дэлбэг",
+    "hanja": "豊富하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍비박산",
+    "translation": "Үнсэн товрог",
+    "hanja": "風飛雹散",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍사",
+    "translation": "салхины элс, элсэн шуурга",
+    "hanja": "風沙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍산",
+    "translation": "Пунсан (газар нэр)",
+    "hanja": "豊山",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍상",
+    "translation": "Салхи шуурга, цаг агаарын хүнд нөхцөл",
+    "hanja": "風霜",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "풍선",
+    "translation": "бөмбөлөг",
+    "hanja": "風船",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "풍설",
+    "translation": "цуу яриа, таамаглал",
+    "hanja": "風說",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍성",
+    "translation": "элбэг дэлбэг, баян",
+    "hanja": "豊盛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍성풍성하다",
+    "translation": "элбэг дэлбэг байх; дүүрэн байх",
+    "hanja": "豐盛豐盛하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍성하다",
+    "translation": "элбэг дэлбэг, баян",
+    "hanja": "豊盛-",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍성히",
+    "translation": "арвин ихээр",
+    "hanja": "豊盛히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍속",
+    "translation": "зан заншил",
+    "hanja": "風俗",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍속계",
+    "translation": "салхины хурд хэмжигч",
+    "hanja": "風速計",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍속도",
+    "translation": "ардын зураг",
+    "hanja": "風俗圖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍속화",
+    "translation": "ардын зураг",
+    "hanja": "風俗畫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍수",
+    "translation": "газар усны үзэл",
+    "hanja": "風水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍수지리",
+    "translation": "фэн шуй",
+    "hanja": "風水地理",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍수지리설",
+    "translation": "фэн шуй (газарзүйн онол)",
+    "hanja": "風水地理說",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "풍습",
+    "translation": "ёс заншил",
+    "hanja": "風習",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍신",
+    "translation": "салхины бурхан",
+    "hanja": "風神",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "풍아",
+    "translation": "уран яруу байдал",
+    "hanja": "風雅",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "풍악",
+    "translation": "хөгжим /салхины/",
+    "hanja": "風樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍압",
+    "translation": "салхины даралт",
+    "hanja": "風壓",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍양",
+    "translation": "урам зориг",
+    "hanja": "風楊",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "풍어",
+    "translation": "элбэг загас барих",
+    "hanja": "豊漁",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍연",
+    "translation": "салхины үзэгдэл",
+    "hanja": "風煙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍요",
+    "translation": "элбэг дэлбэг",
+    "hanja": "豊饒",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍요롭다",
+    "translation": "баялаг",
+    "hanja": "null",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍요하다",
+    "translation": "элбэг дэлбэг байх",
+    "hanja": "豐饒하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍운",
+    "translation": "салхи ба үүл; хэцүү цаг үе",
+    "hanja": "風雲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍운아",
+    "translation": "адал явдалд дуртай",
+    "hanja": "風雲兒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "풍월",
+    "translation": "яруу найраг",
+    "hanja": "風月",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍이",
+    "translation": "Салхины (аягүй байдал)",
+    "hanja": "風이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍자",
+    "translation": "хошигнол, ёжлол",
+    "hanja": "諷刺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍자적",
+    "translation": "Егөөтэй",
+    "hanja": "諷刺的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍자하다",
+    "translation": "ёжлох",
+    "hanja": "諷刺하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍작",
+    "translation": "арвин ургац",
+    "hanja": "豐作",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍장",
+    "translation": "салхинд хийсгэх",
+    "hanja": "風葬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "풍전등화",
+    "translation": "хэцүү байдалд байгаа",
+    "hanja": "風前燈火",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "풍정",
+    "translation": "Салхины сэтгэл татам байдал",
+    "hanja": "風情",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍조",
+    "translation": "Дэлгэрсэн байдал, хандлага",
+    "hanja": "風潮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍족하다",
+    "translation": "элбэг дэлбэг, хангалуун",
+    "hanja": "豐足하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍차",
+    "translation": "салхин тээрэм",
+    "hanja": "風車",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "풍채",
+    "translation": "дүрс төрх, бие бялдар",
+    "hanja": "風采",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍천",
+    "translation": "салхиар дамжих",
+    "hanja": "風遷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍취",
+    "translation": "уур амьсгал",
+    "hanja": "風趣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍토",
+    "translation": "цаг уур, заншил",
+    "hanja": "風土",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍토병",
+    "translation": "нутгийн өвчин",
+    "hanja": "風土病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍파",
+    "translation": "Салхи шуурга",
+    "hanja": "風波",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍풍",
+    "translation": "салхины хүчтэй үлээх чимээ",
+    "hanja": "風風",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍향",
+    "translation": "салхины чиглэл",
+    "hanja": "風向",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "풍향계",
+    "translation": "салхины чиглэл заагч",
+    "hanja": "風向計",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍화",
+    "translation": "салхиар элэгдэх",
+    "hanja": "風化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "풍화되다",
+    "translation": "элэгдэх",
+    "hanja": "風化되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "풍흉",
+    "translation": "сайн ургац, муу ургац",
+    "hanja": "豐凶",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

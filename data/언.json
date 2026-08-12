@@ -1,0 +1,499 @@
+[
+  {
+    "word": "언",
+    "translation": "Үг, хэл",
+    "hanja": "言",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "언감생심",
+    "translation": "хэзээ ч боломжгүй",
+    "hanja": "焉敢生心",
+    "pos": "Adverb",
+    "cefr": "C2"
+  },
+  {
+    "word": "언관",
+    "translation": "үгсийн эзэн",
+    "hanja": "言官",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "언급",
+    "translation": "дурдах, дурьдах",
+    "hanja": "言及",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언급되다",
+    "translation": "Дурьдагдах",
+    "hanja": "言及되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "언급하다",
+    "translation": "Дурьдах",
+    "hanja": "言及하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언나",
+    "translation": "ил гарах",
+    "hanja": "언나",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언냐",
+    "translation": "эгчээ (ахмад эмэгтэйд хандах)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "언넝",
+    "translation": "хурдан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "언년",
+    "translation": "тэр эмэгтэй (зүйрлэл)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "언능",
+    "translation": "хурдан, аврах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언니",
+    "translation": "эгч (эмэгтэй хүнээс)', эгч ээ",
+    "hanja": "언니",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "언더",
+    "translation": "Доор, доод",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "언더그라운드",
+    "translation": "газар доорх",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "언더독",
+    "translation": "доод тал",
+    "hanja": "언더독",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언더레이",
+    "translation": "Доор тавих",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "N/A"
+  },
+  {
+    "word": "언더스터디",
+    "translation": "орлон тоглогч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언더우드",
+    "translation": "Андервуд",
+    "hanja": "언더우드",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "언더웨어",
+    "translation": "дотуур хувцас",
+    "hanja": "underwear",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "언덕",
+    "translation": "толгод, гүвээ",
+    "hanja": "언덕",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "언덕길",
+    "translation": "даваргуу уруу зам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "언덕마루",
+    "translation": "толгой орой",
+    "hanja": "언덕마루",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "언덕배기",
+    "translation": "толгод",
+    "hanja": "언덕배기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "언덕지다",
+    "translation": "толгодтой байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언데드",
+    "translation": "үнхэдэд (үхээгүй)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언도",
+    "translation": "ял",
+    "hanja": "言渡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언도받다",
+    "translation": "ял сонсох",
+    "hanja": "言渡받다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언동",
+    "translation": "үг үйлдэл",
+    "hanja": "言動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언두",
+    "translation": "ярьж эхлэх",
+    "hanja": "言頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언뜻",
+    "translation": "гялс",
+    "hanja": "null",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "언뜻언뜻",
+    "translation": "хурдхан, үе үе",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "언락",
+    "translation": "Түгжээ тайлах",
+    "hanja": "unlock",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "언로",
+    "translation": "хэлний зам",
+    "hanja": "言路",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "언론",
+    "translation": "хэвлэл мэдээлэл",
+    "hanja": "言論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언론계",
+    "translation": "хэвлэл мэдээллийн салбар",
+    "hanja": "言論界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언론사",
+    "translation": "хэвлэл мэдээллийн байгууллага",
+    "hanja": "言論社",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언론인",
+    "translation": "сэтгүүлч",
+    "hanja": "言論人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언명",
+    "translation": "мэдэгдэл",
+    "hanja": "言明",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언문",
+    "translation": "бичгийн хэл",
+    "hanja": "諺文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언밸런스하다",
+    "translation": "тэнцвэргүй байх",
+    "hanja": "unbalance하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언변",
+    "translation": "илтгэх ур чадвар",
+    "hanja": "言辯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언사",
+    "translation": "үг хэллэг",
+    "hanja": "言辭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언성",
+    "translation": "дууны өнгө",
+    "hanja": "言聲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언약",
+    "translation": "амлалт, гэрээ",
+    "hanja": "言約",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언약하다",
+    "translation": "ам өгөх, тангараглах",
+    "hanja": "言約하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "언양",
+    "translation": "Уняан (хот)",
+    "hanja": "彥陽",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "언어",
+    "translation": "хэл",
+    "hanja": "言語",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "언어생활",
+    "translation": "хэлний амьдрал",
+    "hanja": "言語生活",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언어적",
+    "translation": "хэлний",
+    "hanja": "言語的",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "언어학",
+    "translation": "хэл шинжлэл",
+    "hanja": "言語學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언어학자",
+    "translation": "хэл шинжлэлч",
+    "hanja": "言語學者",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "언쟁",
+    "translation": "маргаан, хэрүүл",
+    "hanja": "言爭",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "언쟁하다",
+    "translation": "маргалдах",
+    "hanja": "言爭하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언저리",
+    "translation": "орчим",
+    "hanja": "언저리",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "언정",
+    "translation": "хэзээ ч, хэдийгээр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언제",
+    "translation": "хэзээ",
+    "hanja": "언제",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "언제나",
+    "translation": "Үргэлж",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "언젠가",
+    "translation": "Хэзээ нэгэн цагт",
+    "hanja": "언젠가",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "언주",
+    "translation": "үг, хэлсэн үг",
+    "hanja": "言珠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언질",
+    "translation": "дуу хоолой",
+    "hanja": "言質",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언짢다",
+    "translation": "таагүй, сэтгэл дундуур",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언짢아하다",
+    "translation": "таагүй хандах",
+    "hanja": "언짢아하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "언체이",
+    "translation": "унадаг дугуй",
+    "hanja": "언체이",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "언타이틀",
+    "translation": "гарчиггүй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언택트",
+    "translation": "холбоо барихгүй (биечлэн)",
+    "hanja": "언택트",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "언팔",
+    "translation": "дагахгүй байх",
+    "hanja": "언팔",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "언팩",
+    "translation": "задлах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언플",
+    "translation": "хэвлэлийн дуулиан",
+    "hanja": "언플",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "언플러그드",
+    "translation": "залгуургагүй",
+    "hanja": "언플러그드",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "언행",
+    "translation": "Үг, үйлдлүүд",
+    "hanja": "言行",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "언행일치",
+    "translation": "үйлдэл үг хоёр нэг байх, хэлсэн үг, хийсэн үйлдэл хоёр нэг байх",
+    "hanja": "言行一致",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

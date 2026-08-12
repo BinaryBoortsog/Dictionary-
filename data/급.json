@@ -1,0 +1,702 @@
+[
+  {
+    "word": "급",
+    "translation": "шаргуу",
+    "hanja": "急",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "급가속",
+    "translation": "хурдтай хурдасгах",
+    "hanja": "急加速",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급가속하다",
+    "translation": "хурд нэмэх (гэнэт)",
+    "hanja": "急加速하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급감",
+    "translation": "гэнэт буурах",
+    "hanja": "急減",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "급감하다",
+    "translation": "Эрс буурах",
+    "hanja": "急減하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "급강하",
+    "translation": "Хурц уналт, эгц доошлох",
+    "hanja": "急降下",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급강하하다",
+    "translation": "Гэнэт унах",
+    "hanja": "急降下하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급거",
+    "translation": "яаралтайгаар",
+    "hanja": "急遽",
+    "pos": "adv",
+    "cefr": "C1"
+  },
+  {
+    "word": "급격",
+    "translation": "хурц, огцом",
+    "hanja": "急激",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급격하다",
+    "translation": "Гэнэтийн",
+    "hanja": "急激하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "급격히",
+    "translation": "Огцом",
+    "hanja": "急激히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급경사",
+    "translation": "эгц налуу",
+    "hanja": "急傾斜",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "급구",
+    "translation": "яаралтай ажил хайх",
+    "hanja": "急求",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급급하다",
+    "translation": "Яарах, сандрах",
+    "hanja": "汲汲하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급기야",
+    "translation": "Эцэстээ",
+    "hanja": "急其也",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "급냉",
+    "translation": "Хурдан хөлдөөх",
+    "hanja": "急冷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급등",
+    "translation": "Гэнэтийн өсөлт",
+    "hanja": "急騰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급등세",
+    "translation": "эрчимтэй өсөлт",
+    "hanja": "急騰勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급등하다",
+    "translation": "хурдацтай өсөх",
+    "hanja": "急騰하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급락",
+    "translation": "гэнэтийн уналт",
+    "hanja": "急落",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급락세",
+    "translation": "гэнэт унах, огцом унах чиг хандлага",
+    "hanja": "急落勢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "급락하다",
+    "translation": "огцом унах",
+    "hanja": "急落하다",
+    "pos": "үйл үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "급랭",
+    "translation": "хурдан хөлдөөх",
+    "hanja": "急冷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급랭하다",
+    "translation": "хурдан хөлдөөх",
+    "hanja": "急冷하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급료",
+    "translation": "цалин",
+    "hanja": "給料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급류",
+    "translation": "Түргэн урсгал",
+    "hanja": "急流",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급매",
+    "translation": "яаралтай худалдах",
+    "hanja": "急賣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급박하다",
+    "translation": "яаралтай, хүнд",
+    "hanja": "急迫하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급반등하다",
+    "translation": "Гэнэт өсөх; хурдан сэргэх",
+    "hanja": "急反騰하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급반전되다",
+    "translation": "эрс өөрчлөгдөх, огцом эргэх",
+    "hanja": "急反轉되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급발진하다",
+    "translation": "хурдан хөдлөх",
+    "hanja": "急發進하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급변",
+    "translation": "гэнэтийн өөрчлөлт",
+    "hanja": "急變",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급변하다",
+    "translation": "гэнэт өөрчлөгдөх, огцом хувирах",
+    "hanja": "急變하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급보",
+    "translation": "яаралтай мэдээ",
+    "hanja": "急報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급부",
+    "translation": "давуу тал, үр ашиг",
+    "hanja": "給付",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "급부상",
+    "translation": "гэнэт гарч ирэх, огцом өсөх",
+    "hanja": "急浮上",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급부상하다",
+    "translation": "гэнэт гарч ирэх, огцом өсөх",
+    "hanja": "急浮上-",
+    "pos": "동사 (Verb)",
+    "cefr": "C1"
+  },
+  {
+    "word": "급브레이크",
+    "translation": "хурдан тоормос",
+    "hanja": "急brake",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "급사",
+    "translation": "гэнэтийн үхэл, туслах",
+    "hanja": "急死",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "급사하다",
+    "translation": "Гэнэт нас барах",
+    "hanja": "急死하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "급살",
+    "translation": "гэнэтийн үхэл, ослын үхэл",
+    "hanja": "急殺",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "급상승",
+    "translation": "хурдан өсөлт",
+    "hanja": "急上昇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급상승하다",
+    "translation": "гэнэт өсөх",
+    "hanja": "急上昇하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급선무",
+    "translation": "яаралтай ажил",
+    "hanja": "急先務",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급선회",
+    "translation": "гэнэт эргэх",
+    "hanja": "急旋回",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급선회하다",
+    "translation": "Эрс эргэх",
+    "hanja": "急旋回하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급성",
+    "translation": "цочмог",
+    "hanja": "急性",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급성장",
+    "translation": "хурдацтай өсөлт",
+    "hanja": "急成長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급성장하다",
+    "translation": "хурдан өсөх",
+    "hanja": "急成長하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급소",
+    "translation": "амин цэг",
+    "hanja": "急所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급속",
+    "translation": "хурдтай",
+    "hanja": "急速",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급속도",
+    "translation": "хурдан хурдацтай",
+    "hanja": "急速度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급속하다",
+    "translation": "хурдан",
+    "hanja": "急速하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급속히",
+    "translation": "Маш хурдан",
+    "hanja": "急速히",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "급수",
+    "translation": "Түвшин, зэрэг",
+    "hanja": "級數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급수차",
+    "translation": "Ус тээврийн машин",
+    "hanja": "給水車",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급습",
+    "translation": "Гэнэтийн дайралт",
+    "hanja": "急襲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급습하다",
+    "translation": "гэнэт дайрах, дайралт хийх",
+    "hanja": "急襲-하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "급식",
+    "translation": "хоолны хангамж",
+    "hanja": "給食",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급식비",
+    "translation": "хоолны төлбөр",
+    "hanja": "給食費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급식하다",
+    "translation": "хооллох",
+    "hanja": "給食하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급여",
+    "translation": "цалин",
+    "hanja": "給與",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "급여액",
+    "translation": "цалингийн хэмжээ",
+    "hanja": "給與額",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급여하다",
+    "translation": "цалин олгох",
+    "hanja": "給與하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급용",
+    "translation": "яаралтай хэрэглээ",
+    "hanja": "急用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급우",
+    "translation": "ангийн найз",
+    "hanja": "級友",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "급원",
+    "translation": "Эх үүсвэр, үндэс",
+    "hanja": "給源",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급유",
+    "translation": "шатахуун цэнэглэлт",
+    "hanja": "給油",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급작스럽다",
+    "translation": "гэнэтийн, огцом",
+    "hanja": "急作스럽다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "급작스레",
+    "translation": "гүвэр гэнэт",
+    "hanja": "急作스레",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급장",
+    "translation": "тушаал",
+    "hanja": "級長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급전",
+    "translation": "яаралтай мөнгө",
+    "hanja": "急錢",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "급정거",
+    "translation": "Гэнэт зогсох",
+    "hanja": "急停車",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급정거하다",
+    "translation": "хурдан зогсох",
+    "hanja": "急停車하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "급정지하다",
+    "translation": "Гэнэт зогсох",
+    "hanja": "急停止하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급제",
+    "translation": "шалгалтад тэнцэх",
+    "hanja": "及第",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급제동",
+    "translation": "гэнэтийн тоормос",
+    "hanja": "急制動",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "급제동하다",
+    "translation": "гэнэт тоормослох",
+    "hanja": "急制動하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급제하다",
+    "translation": "шалгалт тэнцэх",
+    "hanja": "及第하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급조",
+    "translation": "яаралтай хийх",
+    "hanja": "急造",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급조되다",
+    "translation": "Яаравчлан хийгдсэн, яаран бүтээгдсэн",
+    "hanja": "急造되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급조하다",
+    "translation": "Яаравчлан хийх, яаран барих",
+    "hanja": "急造하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "급증",
+    "translation": "Гэнэт өсөх",
+    "hanja": "急增",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "급증하다",
+    "translation": "огцом өсөх",
+    "hanja": "急增하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급지",
+    "translation": "хурдан газар",
+    "hanja": "急地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급진적",
+    "translation": "эрс, огцом",
+    "hanja": "急進的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급진전",
+    "translation": "хурдтай урагшлах",
+    "hanja": "急進展",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급진전되다",
+    "translation": "Хурдацтай хөгжих",
+    "hanja": "急進展되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급체",
+    "translation": "хоол боловсруулах үйл ажиллагаа алдагдах",
+    "hanja": "急滯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급체하다",
+    "translation": "Хоолны хордлого авах",
+    "hanja": "急滯하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "급파",
+    "translation": "Яаралтай илгээх, шуурхай илгээх",
+    "hanja": "急派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급파되다",
+    "translation": "яаралтай илгээгдэх",
+    "hanja": "急派되다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "급파하다",
+    "translation": "Яаралтай илгээх",
+    "hanja": "急派하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급하다",
+    "translation": "яаралтай",
+    "hanja": "急하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "급행",
+    "translation": "илүү хурдан",
+    "hanja": "急行",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "급행열차",
+    "translation": "буухиа галт тэрэг",
+    "hanja": "急行列車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "급회전",
+    "translation": "гэнэт эргэх",
+    "hanja": "急回轉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "급회전하다",
+    "translation": "гэнэт эргэх",
+    "hanja": "急回轉하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급훈",
+    "translation": "ангийн уриа",
+    "hanja": "級訓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "급히",
+    "translation": "яаралтай",
+    "hanja": "急히",
+    "pos": "부사",
+    "cefr": "B1"
+  }
+]

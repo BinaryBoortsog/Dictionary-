@@ -1,0 +1,72 @@
+[
+  {
+    "word": "라",
+    "translation": "-аарай, -гтун",
+    "hanja": "라",
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "의",
+    "translation": "-ын, -ийн",
+    "hanja": "의",
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "로",
+    "translation": "-аар",
+    "hanja": "-로",
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "나름",
+    "translation": "-аас хамаарч",
+    "hanja": null,
+    "pos": "의존명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "랑",
+    "translation": "-тай",
+    "hanja": null,
+    "pos": "Postposition",
+    "cefr": "A1"
+  },
+  {
+    "word": "답다",
+    "translation": "- шиг, - мэт",
+    "hanja": "답다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "부터",
+    "translation": "-аас эхлэн",
+    "hanja": null,
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "성싶다",
+    "translation": "- 것 шиг байна, - юм шиг байна",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "에",
+    "translation": "-д, -т (байршил заах)",
+    "hanja": null,
+    "pos": "조사",
+    "cefr": "A1"
+  },
+  {
+    "word": "군요",
+    "translation": "-гэдэг юм байна",
+    "hanja": null,
+    "pos": "어미",
+    "cefr": "A2"
+  }
+]

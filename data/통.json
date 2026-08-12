@@ -1,0 +1,1206 @@
+[
+  {
+    "word": "통",
+    "translation": "сав",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "통가",
+    "translation": "Тонга (улс)",
+    "hanja": "통가",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통각",
+    "translation": "өвдөлтийн мэдрэмж",
+    "hanja": "痛覺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통감",
+    "translation": "гүнээ мэдрэх",
+    "hanja": "痛感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통감하다",
+    "translation": "маш их мэдрэх",
+    "hanja": "痛感하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통계",
+    "translation": "статистик",
+    "hanja": "統計",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "통계적",
+    "translation": "статистикийн",
+    "hanja": "統計的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "통계표",
+    "translation": "статистикийн хүснэгт",
+    "hanja": "統計表",
+    "pos": "NNG",
+    "cefr": "B2"
+  },
+  {
+    "word": "통계하다",
+    "translation": "Статистик гаргах, тоо бүртгэл хөтлөх",
+    "hanja": "統計-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통계학",
+    "translation": "статистик",
+    "hanja": "統計學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통고",
+    "translation": "мэдэгдэл",
+    "hanja": "通告",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "통고하다",
+    "translation": "мэдэгдэх, зарлах",
+    "hanja": "通告하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통곡",
+    "translation": "чанга уйлах",
+    "hanja": "痛哭",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "통곡하다",
+    "translation": "чангаар уйлах",
+    "hanja": "痛哭-",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "통과",
+    "translation": "нэвтрэх",
+    "hanja": "通過",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "통과되다",
+    "translation": "Дамжин өнгөрөх",
+    "hanja": "通過되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "통과시키다",
+    "translation": "Дамжуулах, нэвтрүүлэх",
+    "hanja": "通過—",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "통과하다",
+    "translation": "нэвтрэх",
+    "hanja": "通過하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "통관",
+    "translation": "гаалаар нэвтрүүлэх",
+    "hanja": "通關",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통관하다",
+    "translation": "гааль нэвтрүүлэх",
+    "hanja": "通關하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통괄하다",
+    "translation": "Ерөнхийд нь хариуцах, удирдах",
+    "hanja": "統括하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통교",
+    "translation": "Харилцаа тогтоох, харилцах",
+    "hanja": "通交",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "통굽",
+    "translation": "өндөр өсгийт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통권",
+    "translation": "Тэр чигээрээ дугаар",
+    "hanja": "通卷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통규",
+    "translation": "нимгэн хөшиг",
+    "hanja": "通閨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통근",
+    "translation": "ажилдаа явах",
+    "hanja": "通勤",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "통근하다",
+    "translation": "ажилдаа явах",
+    "hanja": "通勤하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통금",
+    "translation": "Хөл хорио",
+    "hanja": "通禁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통기",
+    "translation": "агааржуулалт",
+    "hanja": "通氣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통기성",
+    "translation": "Агаар нэвтрүүлэх чадвар",
+    "hanja": "通氣性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통나무",
+    "translation": "бүхэл мод, дүнз",
+    "hanja": "통나무",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통나무배",
+    "translation": "Модон завь",
+    "hanja": "통나무배",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통나무집",
+    "translation": "бөөрөнхий модны байшин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "통념",
+    "translation": "нийтлэг ойлголт, түгээмэл үзэл бодол",
+    "hanja": "通念",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통달",
+    "translation": "чадварлаг",
+    "hanja": "通達",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통달하다",
+    "translation": "мэргэших, бүрэн эзэмших",
+    "hanja": "通達하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통닭",
+    "translation": "Бүхэл тахиа",
+    "hanja": "통닭",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "통대",
+    "translation": "бүхэл, бүрэн",
+    "hanja": "通大",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "통독",
+    "translation": "унших",
+    "hanja": "通讀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통렬하다",
+    "translation": "Маш ширүүн, хурц",
+    "hanja": "痛烈하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통렬히",
+    "translation": "хурцаар, ширүүнээр",
+    "hanja": "痛烈히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통령",
+    "translation": "Ерөнхийлөгч",
+    "hanja": "統領",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통로",
+    "translation": "зам, хонгил",
+    "hanja": "通路",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "통리",
+    "translation": "хил хяналтын зөвлөх",
+    "hanja": "統理",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통마늘",
+    "translation": "бүхэл сармис",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "통명",
+    "translation": "нэрээ алдаршуулах",
+    "hanja": "通名",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통문",
+    "translation": "зарлал, мэдэгдэл",
+    "hanja": "通文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통바지",
+    "translation": "өргөн өмд",
+    "hanja": "통바지",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통변",
+    "translation": "орчуулах, хэлэх",
+    "hanja": "通變",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통보",
+    "translation": "Мэдэгдэл / Зарлал",
+    "hanja": "통보 (通報)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통보되다",
+    "translation": "мэдэгдэх",
+    "hanja": "通報되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "통보하다",
+    "translation": "мэдэгдэх",
+    "hanja": "通報하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "통사",
+    "translation": "түүх",
+    "hanja": "通史",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통사정",
+    "translation": "туйлын шаардлага",
+    "hanja": "慟事正",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통사정하다",
+    "translation": "Гуйх, ятгах",
+    "hanja": "通事情하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "통상",
+    "translation": "ердийн, худалдаа",
+    "hanja": "通常",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통상적",
+    "translation": "Ердийн, хэвийн",
+    "hanja": "通常的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "통선",
+    "translation": "Урт завь",
+    "hanja": "通船",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통설",
+    "translation": "нийтлэг ойлголт, ерөнхий үзэл",
+    "hanja": "通說",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "통섭",
+    "translation": "интеграци, нэгтгэл",
+    "hanja": "統攝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "통성",
+    "translation": "бүрэн нэр",
+    "hanja": "通姓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통성명",
+    "translation": "өөрийгөө танилцуулах",
+    "hanja": "通性名",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통성명하다",
+    "translation": "бие биетэйгээ танилцах",
+    "hanja": "通性名하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통속",
+    "translation": "нийтлэг",
+    "hanja": "通俗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통속적",
+    "translation": "нийтлэг, түгээмэл",
+    "hanja": "通俗的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통솔",
+    "translation": "удирдах",
+    "hanja": "統率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통솔력",
+    "translation": "Удирдах чадвар",
+    "hanja": "統率力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통솔하다",
+    "translation": "удирдах",
+    "hanja": "統率하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통수",
+    "translation": "урвах",
+    "hanja": "通水",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "통수권",
+    "translation": "коммандлах эрх мэдэл",
+    "hanja": "統帥權",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "통수하다",
+    "translation": "бүрэн удирдаж чадах",
+    "hanja": "統帥하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "통시",
+    "translation": "нийтийн жорлон",
+    "hanja": "通時",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통신",
+    "translation": "харилцаа холбоо",
+    "hanja": "通信",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통신망",
+    "translation": "Харилцаа холбооны сүлжээ",
+    "hanja": "通信網",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통신반",
+    "translation": "харилцаа холбооны хэсэг",
+    "hanja": "通信班",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "통신병",
+    "translation": "холбоочин цэрэг",
+    "hanja": "通信兵",
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "통신비",
+    "translation": "харилцаа холбооны зардал",
+    "hanja": " tongsinbi",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "통신업계",
+    "translation": "Харилцаа холбооны салбар",
+    "hanja": "通信業界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통신원",
+    "translation": "Сурвалжлагч",
+    "hanja": "通信員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통신하다",
+    "translation": "харилцах, мэдээлэх",
+    "hanja": "通信하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "통실통실하다",
+    "translation": "бөөрөнхий, мяраалаг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통아",
+    "translation": "тун (нэр)",
+    "hanja": "痛牙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통역",
+    "translation": "орчуулга",
+    "hanja": "通譯",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "통역관",
+    "translation": "Орчуулагч",
+    "hanja": "通譯官",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통역사",
+    "translation": "орчуулагч",
+    "hanja": "通譯士",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통역하다",
+    "translation": "Орчуулах",
+    "hanja": "通譯하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "통영",
+    "translation": "Тонён хот",
+    "hanja": "統營",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "통용",
+    "translation": "нийтлэг хэрэглээ",
+    "hanja": "通用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통용되다",
+    "translation": "нийтээр хэрэглэгдэх",
+    "hanja": "通用되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통용하다",
+    "translation": "нийтээр хэрэглэх",
+    "hanja": "通用하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통원",
+    "translation": "амбулатори",
+    "hanja": "通院",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통원하다",
+    "translation": "эмнэлэгт явах",
+    "hanja": "通院하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "통유리",
+    "translation": "бүхэл шил",
+    "hanja": "통琉璃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통일",
+    "translation": "Нэгдэл, нэгдэх",
+    "hanja": "統一",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통일감",
+    "translation": "нэгдмэл байдал",
+    "hanja": "統一感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통일되다",
+    "translation": "нэгдэх, нэгдмэл болох",
+    "hanja": "統一되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통일성",
+    "translation": "нэгдмэл байдал",
+    "hanja": "統一性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통일안",
+    "translation": "нэгдсэн санал",
+    "hanja": "統一案",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통일하다",
+    "translation": "нэгтгэх",
+    "hanja": "統一하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통자",
+    "translation": "нэгдмэл хэсэг",
+    "hanja": "通子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통장",
+    "translation": "хадгаламжийн дэвтэр",
+    "hanja": "通帳",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "통전",
+    "translation": "цэргийн дайчилгаа",
+    "hanja": "通電",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "통절하다",
+    "translation": "гүний, эрчимтэй",
+    "hanja": "痛切-",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "통정",
+    "translation": "нууц амраг",
+    "hanja": "通情",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통제",
+    "translation": "хяналт",
+    "hanja": "統制",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통제권",
+    "translation": "хяналтын эрх",
+    "hanja": "統制權",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "통제되다",
+    "translation": "Хянах",
+    "hanja": "統制되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "통제력",
+    "translation": "Хяналтын чадвар",
+    "hanja": "統制力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "통제하다",
+    "translation": "хянах, удирдлага дор байлгах",
+    "hanja": "統制하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통조림",
+    "translation": "консерв",
+    "hanja": "通조림",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "통주",
+    "translation": "Тунжоу (газрын нэр)",
+    "hanja": "通州",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "통증",
+    "translation": "өвдөлт",
+    "hanja": "痛症",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "통지",
+    "translation": "мэдэгдэл, мэдэгдэх",
+    "hanja": "通知",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통지되다",
+    "translation": "мэдэгдэх, зарлагдах",
+    "hanja": "通知되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통지서",
+    "translation": "мэдэгдэл",
+    "hanja": "通知書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통지표",
+    "translation": "мэдэгдлийн хуудас",
+    "hanja": "通知表",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통지하다",
+    "translation": "мэдэгдэх, зарлах",
+    "hanja": "通知하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통진",
+    "translation": "тунжин /газар нэр/",
+    "hanja": "通津",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통찜",
+    "translation": "бүхлээр нь жигнэх",
+    "hanja": "通찜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통찰",
+    "translation": "Гүн нэвтрэн харах",
+    "hanja": "洞察",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "통찰력",
+    "translation": "нэгэн зэрэг танин мэдэх чадвар, гүн ухаарал",
+    "hanja": "洞察力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통찰하다",
+    "translation": "гүн гүнзгий ойлгох",
+    "hanja": "洞察하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "통채",
+    "translation": "бүхлээр нь, тэр чигт нь",
+    "hanja": "桶채",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통천",
+    "translation": "тэнгэрт хүрэх",
+    "hanja": "通天",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통첩",
+    "translation": "ультиматум",
+    "hanja": "通牒",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "통촉하다",
+    "translation": "сайтар бодох",
+    "hanja": "洞燭하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통치권",
+    "translation": "засаглах эрх, тусгаар тогтнол",
+    "hanja": "統治權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통치되다",
+    "translation": "засаглагдах, удирдах",
+    "hanja": "統治되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통치자",
+    "translation": "захирагч",
+    "hanja": "統治者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통치하다",
+    "translation": "Засаглах",
+    "hanja": "統治하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통칭",
+    "translation": "нийтлэг нэр, ерөнхий нэр",
+    "hanja": "通稱",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통칭되다",
+    "translation": "Ерөнхийдөө нэрлэгдэх",
+    "hanja": "通稱되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통칭하다",
+    "translation": "ерөнхийдөө нэрлэх, нийтээр нэрлэх",
+    "hanja": "通稱하다",
+    "pos": "v",
+    "cefr": "C1"
+  },
+  {
+    "word": "통쾌",
+    "translation": "маш их баясгалантай",
+    "hanja": "痛快",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통탄",
+    "translation": "харамсах, гашуудах",
+    "hanja": "痛歎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통탄스럽다",
+    "translation": "Харамсалтай, гаслантай",
+    "hanja": "痛嘆스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통탄하다",
+    "translation": "Гашуудаж харамсах",
+    "hanja": "痛歎하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "통통",
+    "translation": "Бөөрөнхий, мяраалаг",
+    "hanja": "통통",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통통거리다",
+    "translation": "тас, тас хийх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통통배",
+    "translation": "мотортой завь",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "통통이",
+    "translation": "Бөөрөнхий, мяраалаг хүн/амьтан",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "통통하다",
+    "translation": "татаастай",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "통틀다",
+    "translation": "Бүгдийг хамруулах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "통편집되다",
+    "translation": "бүрэн засварлагдах",
+    "hanja": "通編集되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통편집하다",
+    "translation": "бүхэлд нь засварлах",
+    "hanja": "通編輯하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통폐합",
+    "translation": "нэгтгэх",
+    "hanja": "統廢合",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "통폐합되다",
+    "translation": "Нэгдэх, нийлэх",
+    "hanja": "統廢合되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통폐합하다",
+    "translation": "нэгтгэх",
+    "hanja": "統廢合하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통풍",
+    "translation": "салхижуулалт",
+    "hanja": "通風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통풍구",
+    "translation": "салхижуулагч нүх",
+    "hanja": "通風口",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통하다",
+    "translation": "холбогдох, нэвтрэх",
+    "hanja": "通하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "통학",
+    "translation": "сургуульд явах",
+    "hanja": "通學",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "통학생",
+    "translation": "оршин суугч сурагч",
+    "hanja": "通學生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통학하다",
+    "translation": "Сургуульдаа явах",
+    "hanja": "通學하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "통한",
+    "translation": "маш их харамсал, гүнээ харамсах",
+    "hanja": "痛恨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "통할하다",
+    "translation": "нэгтгэх",
+    "hanja": "統轄하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통합",
+    "translation": "нэгтгэх",
+    "hanja": "統合",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "통합되다",
+    "translation": "Нэгдэх",
+    "hanja": "統合되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통합성",
+    "translation": "нэгдмэл байдал",
+    "hanja": "統合性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통합시키다",
+    "translation": "нэгтгэх",
+    "hanja": "統合시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통합적",
+    "translation": "нэгдсэн, цогц",
+    "hanja": "統合的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "통합하다",
+    "translation": "нэгтгэх",
+    "hanja": "統合─",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통행",
+    "translation": "Төлбөр",
+    "hanja": "通行",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통행금지",
+    "translation": "нийтийн хөл хорио",
+    "hanja": "通行禁止",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통행료",
+    "translation": "Замын хураамж",
+    "hanja": "通行料",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "통행하다",
+    "translation": "нэвтрүүлэх",
+    "hanja": "通行하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "통화",
+    "translation": "мөнгө, яриа",
+    "hanja": "通話",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "통화되다",
+    "translation": "Телефон яриа тогтоох",
+    "hanja": "通話되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "통화량",
+    "translation": "Мөнгөний нийлүүлэлт",
+    "hanja": "通貨量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통화료",
+    "translation": "ярианы төлбөр",
+    "hanja": "通話料",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "통화하다",
+    "translation": "ярих",
+    "hanja": "通話하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "통회하다",
+    "translation": "гэмших",
+    "hanja": "痛悔하다",
+    "pos": "동사",
+    "cefr": "C1"
+  }
+]

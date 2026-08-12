@@ -1,0 +1,478 @@
+[
+  {
+    "word": "접",
+    "translation": "хуудас, хавтас",
+    "hanja": "摺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "접객",
+    "translation": "зочин хүлээн авах",
+    "hanja": "接客",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "접객하다",
+    "translation": "үйлчлэх",
+    "hanja": "接客하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접견",
+    "translation": "хүлээн авах",
+    "hanja": "接見",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접견실",
+    "translation": "хүлээн авах өрөө",
+    "hanja": "接見室",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접견하다",
+    "translation": "хүлээн авах",
+    "hanja": "接見하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "접경",
+    "translation": "хил",
+    "hanja": "接境",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접근",
+    "translation": "хандалт",
+    "hanja": "接近",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "접근성",
+    "translation": "хүртээмжтэй байдал",
+    "hanja": "接近性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접근하다",
+    "translation": "ойртох, хандах",
+    "hanja": "接近하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접다",
+    "translation": "хураах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "접대",
+    "translation": "үйлчлэх",
+    "hanja": "接待",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "접대비",
+    "translation": "зочлох зардал",
+    "hanja": "接待費",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "접대하다",
+    "translation": "хүлээн авах",
+    "hanja": "接待하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "접두",
+    "translation": "үгийн эх, угтвар",
+    "hanja": "接頭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접두사",
+    "translation": "угтвар",
+    "hanja": "接頭辭",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "접때",
+    "translation": "өнгөрсөн удаад, түрүүнд",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "접목",
+    "translation": "шилжүүлэн суулгах",
+    "hanja": "接木",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접목되다",
+    "translation": "нэгдэх, нийлэх",
+    "hanja": "接木되다",
+    "pos": "үйл үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "접목시키다",
+    "translation": "залгах, шилжүүлэн суулгах (ургамал), нэгтгэх (санаа)",
+    "hanja": "接木시키다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "접목하다",
+    "translation": "Уяж залгах, шилжүүлэн суулгах",
+    "hanja": "接木하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "접몽",
+    "translation": "зүүдлэх, зүүд",
+    "hanja": "接夢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "접미사",
+    "translation": "дагавар",
+    "hanja": "接尾辭",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "접붙이다",
+    "translation": "Ургамал залгах",
+    "hanja": "接붙이다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접사",
+    "translation": "дагавар, угтвар, нөхцөл",
+    "hanja": "接辭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "접선",
+    "translation": "холбоо барих",
+    "hanja": "接線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접선하다",
+    "translation": "холбоо барих, уулзах",
+    "hanja": "接線하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접속",
+    "translation": "Холбогдох, хандах (интернет)",
+    "hanja": " 접속",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "접속되다",
+    "translation": "холбогдох",
+    "hanja": "接續되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "접속사",
+    "translation": "холбоос үг",
+    "hanja": "接續詞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접속하다",
+    "translation": "холбогдох",
+    "hanja": "接續하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "접수",
+    "translation": "хүлээн авах",
+    "hanja": "接受",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "접수대",
+    "translation": "хүлээн авах ширээ",
+    "hanja": "接受臺",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "접수되다",
+    "translation": "хүлээн авах",
+    "hanja": "接受되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "접수창구",
+    "translation": "бүртгэлийн цонх",
+    "hanja": "接受窓口",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "접수처",
+    "translation": "хүлээн авах газар",
+    "hanja": "接受處",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "접수하다",
+    "translation": "Хүлээн авах",
+    "hanja": "接受하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "접시",
+    "translation": "таваг",
+    "hanja": "접시",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "접시꽃",
+    "translation": "алтан товч цэцэг",
+    "hanja": "접시꽃",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "접신",
+    "translation": "сүнстэй харилцах, сүнсийг дуудах",
+    "hanja": "接神",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "접신하다",
+    "translation": "сүнстэй харилцах",
+    "hanja": "接神하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "접안",
+    "translation": "завийн зогсоол, буудлах",
+    "hanja": "接岸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "접안하다",
+    "translation": "Зогсох, зогсоол хийх (хөлөг онгоц)",
+    "hanja": "接岸하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "접어들다",
+    "translation": "Орох, эхлэх",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "접영",
+    "translation": "эрвээхэй сэлэлт",
+    "hanja": "蝶泳",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "접장",
+    "translation": "ахлагч, дарга",
+    "hanja": "接長",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "접전",
+    "translation": "Шидтэй тулаан, ширүүн өрсөлдөөн",
+    "hanja": "接戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "접점",
+    "translation": "холбоо барих цэг",
+    "hanja": "接點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접종",
+    "translation": "вакцинжуулалт",
+    "hanja": "接種",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접종되다",
+    "translation": "вакцинжуулах",
+    "hanja": "接種되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "접종하다",
+    "translation": "вакцин хийх",
+    "hanja": "接種하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "접주",
+    "translation": "зочныг хүлээн авах",
+    "hanja": "接主",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "접지되다",
+    "translation": "газардуулсан",
+    "hanja": "接地-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "접지하다",
+    "translation": "газардлага хийх",
+    "hanja": "接地하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "접질리다",
+    "translation": "Мушгих, сунгах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접착",
+    "translation": "наалдах",
+    "hanja": "接着",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "접착되다",
+    "translation": "наалдах",
+    "hanja": "接着되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접착력",
+    "translation": "наалдамхай чанар",
+    "hanja": "接着力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "접착제",
+    "translation": "цавуу",
+    "hanja": "接着劑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "접착하다",
+    "translation": "наах",
+    "hanja": "接着하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접촉",
+    "translation": "харилцаа холбоо",
+    "hanja": "接觸",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "접촉되다",
+    "translation": "хүрэх",
+    "hanja": "接觸되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "접촉면",
+    "translation": "холбоо барих гадаргуу",
+    "hanja": "接觸面",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "접촉하다",
+    "translation": "Хоёр талын харилцаа",
+    "hanja": "接觸하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "접하다",
+    "translation": "мэдээлэх, таарах",
+    "hanja": "接하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접합",
+    "translation": "нийлүүлэх",
+    "hanja": "接合",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접합하다",
+    "translation": "залгах",
+    "hanja": "接合하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "접히다",
+    "translation": "Эвхэгдэх / Хумигдах",
+    "hanja": "접히다",
+    "pos": "동사",
+    "cefr": "B1"
+  }
+]

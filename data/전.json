@@ -1,0 +1,2886 @@
+[
+  {
+    "word": "전",
+    "translation": "өмнө",
+    "hanja": "前",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "전가",
+    "translation": "бусдад тохох, шилжүүлэх",
+    "hanja": "轉嫁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전가복",
+    "translation": "бүх гэр бүлийн аз жаргал",
+    "hanja": "全家福",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전가하다",
+    "translation": "Шилжүүлэх",
+    "hanja": "転嫁하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "전각",
+    "translation": "Бүрэн өнцөг",
+    "hanja": "全角",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전갈",
+    "translation": "мессеж, мэндчилгээ",
+    "hanja": "傳喝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전강",
+    "translation": "Бүрэн лекц",
+    "hanja": "全講",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전개",
+    "translation": "Дэлгэн тавих, 전개하다",
+    "hanja": "展開",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전개도",
+    "translation": "задгай зураг, дэлгэмэл зураг",
+    "hanja": "展開圖",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전개되다",
+    "translation": "өргөжих, хөгжих",
+    "hanja": "展開되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전개하다",
+    "translation": "дэлгэх",
+    "hanja": "展開하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "전갱이",
+    "translation": "махчин загасны төрөл",
+    "hanja": "전갱이",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전거근",
+    "translation": "Урд шүдээрх булчин",
+    "hanja": "前鋸筋",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전격",
+    "translation": "гэнэтийн, огцом",
+    "hanja": "電擊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전격적",
+    "translation": "гэнэтийн",
+    "hanja": "電擊的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전결",
+    "translation": "эцсийн шийдвэр, бүрэн эрх",
+    "hanja": "專決",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전경",
+    "translation": "Бүхэл бүтэн үзэгдэл, панорама",
+    "hanja": "全景",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전경련",
+    "translation": "БНСУ-ын Аж үйлдвэрийн нэгдсэн холбоо",
+    "hanja": "全經聯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전고",
+    "translation": "Урьдчилсан дуудлага, өмнөх жишээ",
+    "hanja": "前考",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전곡",
+    "translation": "Бүх дуу",
+    "hanja": "全曲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전골",
+    "translation": "жонгол",
+    "hanja": "煎골",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전공",
+    "translation": "мэргэжил",
+    "hanja": "專攻",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전공과목",
+    "translation": "мэргэжлийн хичээл",
+    "hanja": "專攻科目",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전공의",
+    "translation": "Оршин суугч эмч",
+    "hanja": "專攻醫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전공하다",
+    "translation": "голлон сурах, онцлон сурах",
+    "hanja": "專攻하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전과",
+    "translation": "эрүүгийн бүртгэл",
+    "hanja": "前科",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전과자",
+    "translation": "урьд нь ял шийтгүүлсэн хүн",
+    "hanja": "前科者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전과하다",
+    "translation": "мэргэжлээ солих",
+    "hanja": "轉科하다",
+    "pos": "동사",
+    "cefr": null
+  },
+  {
+    "word": "전관",
+    "translation": "бүх эрх мэдэл",
+    "hanja": "專管",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "전광",
+    "translation": "цахилгаан гэрэл",
+    "hanja": "電光",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전광석화",
+    "translation": "гэрлийн хурдтайгаар",
+    "hanja": "전광석화(電光石火)",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전광판",
+    "translation": "цахилгаан самбар",
+    "hanja": "電光板",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전교",
+    "translation": "сургуулийн хэмжээнд",
+    "hanja": "全校",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전교생",
+    "translation": "сургуулийн бүх сурагч",
+    "hanja": "全校生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전구",
+    "translation": "бөмбөлөг",
+    "hanja": "電球",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "전국",
+    "translation": "улс орон даяар",
+    "hanja": "全國",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전국구",
+    "translation": "үндэсний хэмжээний",
+    "hanja": "全國區",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전국적",
+    "translation": "улс орон даяар",
+    "hanja": "全國的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "전군",
+    "translation": "Бүх цэрэг",
+    "hanja": "全軍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전권",
+    "translation": "бүрэн эрх",
+    "hanja": "全權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전극",
+    "translation": "электрод",
+    "hanja": "電極",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전근",
+    "translation": "шилжин ажиллах",
+    "hanja": "轉勤",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전근하다",
+    "translation": "шилжин ажиллах",
+    "hanja": "轉勤하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전기",
+    "translation": "цахилгаан",
+    "hanja": "電氣",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전기료",
+    "translation": "цахилгааны төлбөр",
+    "hanja": "電気料",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전기면도기",
+    "translation": "Цахилгаан сахлын машин",
+    "hanja": "電氣면도기",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전기밥솥",
+    "translation": "цахилгаан будаа агшаагч",
+    "hanja": "電氣밥솥",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전기세",
+    "translation": "цахилгааны үнэ",
+    "hanja": "電氣稅",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "전기장판",
+    "translation": "Цахилгаан халаагуур",
+    "hanja": "電氣長板",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전깃불",
+    "translation": "цахилгаан гэрэл",
+    "hanja": "電氣불",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전깃줄",
+    "translation": "цахилгаан утас",
+    "hanja": "電氣줄",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "전까지",
+    "translation": "өмнө нь, хүртэл",
+    "hanja": "前까지",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전나",
+    "translation": "бүх бие",
+    "hanja": "全裸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전나무",
+    "translation": "царсан мод",
+    "hanja": "樅나무",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전날",
+    "translation": "өмнөх өдөр",
+    "hanja": "前날",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "전남",
+    "translation": "Өмнөд Чолла",
+    "hanja": "全南",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "전년",
+    "translation": "өмнөх жил",
+    "hanja": "前年",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전년도",
+    "translation": "өмнөх жил",
+    "hanja": "前年度",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전념",
+    "translation": "бүх анхаарлаа хандуулах",
+    "hanja": "專念",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전념하다",
+    "translation": "бүх анхаарлаа хандуулах",
+    "hanja": "專念하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전농",
+    "translation": "бүрэн дүлий",
+    "hanja": "全聾",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전능",
+    "translation": "бүхнийг чадагч",
+    "hanja": "全能",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전능하다",
+    "translation": "бүхнийг чадагч",
+    "hanja": "全能하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전단",
+    "translation": "гарын авлага, танилцуулга",
+    "hanja": "傳單",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전달",
+    "translation": "хүргэх",
+    "hanja": "傳達",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전달되다",
+    "translation": "хүргэгдэх, дамжигдах",
+    "hanja": "傳達되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "전달자",
+    "translation": "дамжуулагч",
+    "hanja": "傳達者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전달하다",
+    "translation": "дамжуулах",
+    "hanja": "傳達하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전담",
+    "translation": "үүрэг хариуцлага",
+    "hanja": "專擔",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전담하다",
+    "translation": "дагнаж хариуцах",
+    "hanja": "專擔하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전답",
+    "translation": "талбай",
+    "hanja": "田畓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전당",
+    "translation": "ордон, сүм",
+    "hanja": "殿堂",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전당포",
+    "translation": "ломбард",
+    "hanja": "典當鋪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전대미문",
+    "translation": "урьд хожид байгаагүй",
+    "hanja": "前代未聞",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전대협",
+    "translation": "Бүх оюутны холбоо",
+    "hanja": "全大協",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전도",
+    "translation": "худалдаа, номлол",
+    "hanja": "傳道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전도되다",
+    "translation": "хөрвүүлэх, эргүүлэх",
+    "hanja": "顚倒되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전도사",
+    "translation": "номлогч",
+    "hanja": "傳道師",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전도유망하다",
+    "translation": "ирээдүйтэй",
+    "hanja": "前途有望하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "전도자",
+    "translation": "дэлгэрүүлэгч, номлогч",
+    "hanja": "傳道者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전도하다",
+    "translation": "Номлох",
+    "hanja": "傳導하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전동",
+    "translation": "Цахилгаан",
+    "hanja": "電動",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전동기",
+    "translation": "цахилгаан хөдөлгүүр",
+    "hanja": "電動機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전동차",
+    "translation": "Цахилгаан галт тэрэг/машин",
+    "hanja": "電動車",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전두",
+    "translation": "өмнөд",
+    "hanja": "前頭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전두하다",
+    "translation": "удирдах",
+    "hanja": "專頭하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전등",
+    "translation": "Цахилгаан гэрэл",
+    "hanja": "電燈",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "전등불",
+    "translation": "гэрлийн чийдэн, цахилгаан гэрэл",
+    "hanja": "電燈불",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전라",
+    "translation": "нүцгэн",
+    "hanja": "全裸",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "전라남도",
+    "translation": "Чолланамду муж",
+    "hanja": "全羅南道",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전라도",
+    "translation": "Жолламуж",
+    "hanja": "全羅道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전라북도",
+    "translation": "Умард Жолла муж",
+    "hanja": "全羅北道",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전락",
+    "translation": "доройтол, уналт",
+    "hanja": "轉落",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전락시키다",
+    "translation": "доош унагах, доройтуулах",
+    "hanja": "轉落시키다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전락하다",
+    "translation": "доройтох, унах",
+    "hanja": "轉落하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전란",
+    "translation": "дайн байлдаан",
+    "hanja": "戰亂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전람회",
+    "translation": "үзэсгэлэн",
+    "hanja": "展覽會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전랑",
+    "translation": "Дайчин чоно (хятадын дипломат хандлага)",
+    "hanja": "戰狼",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "전래",
+    "translation": "уламжлалт",
+    "hanja": "傳來",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전래되다",
+    "translation": "Удамших, дамжуулагдах",
+    "hanja": "傳來되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "전략",
+    "translation": "стратеги",
+    "hanja": "戰略",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전략가",
+    "translation": "стратегч",
+    "hanja": "戰略家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전략적",
+    "translation": "стратегийн",
+    "hanja": "戰略的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전량",
+    "translation": "нийт хэмжээ",
+    "hanja": "全量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전력",
+    "translation": "Цахилгаан эрчим хүч",
+    "hanja": "電力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전력난",
+    "translation": "эрчим хүчний хомсдол",
+    "hanja": "電力難",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전력투구하다",
+    "translation": "Бүх хүчээ дайчлах",
+    "hanja": "全力投球하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전력하다",
+    "translation": "бүх хүчээ дайчлах",
+    "hanja": "專力하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "전력화되다",
+    "translation": "бүрэн хүчин чадалтай болох",
+    "hanja": "戰力化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전력화하다",
+    "translation": "цэрэгжүүлэх",
+    "hanja": "戰力化하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "전령",
+    "translation": "мэдээ зөөгч, элч",
+    "hanja": "傳令",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전령하다",
+    "translation": "мэдэгдэх",
+    "hanja": "傳令하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전례",
+    "translation": "өмнөх тохиолдол",
+    "hanja": "前例",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "전류",
+    "translation": "Цахилгаан гүйдэл",
+    "hanja": "電流",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전리",
+    "translation": "цахилгаан задрал",
+    "hanja": "電離",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전리품",
+    "translation": "олз",
+    "hanja": "戰利品",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전립",
+    "translation": "өмнө нь зогсох",
+    "hanja": "前立",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전립선",
+    "translation": "түрүү булчирхай",
+    "hanja": "前立腺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전마",
+    "translation": "завины сэлүүрийн тулгуур",
+    "hanja": "船碼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전막",
+    "translation": "бүрхүүл",
+    "hanja": "前幕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전만하다",
+    "translation": "өмнөх шиг байх",
+    "hanja": "前만하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전말",
+    "translation": "Бүрэн түүх, бүх үйл явц",
+    "hanja": "顚末",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전망",
+    "translation": "Хэтийн төлөв",
+    "hanja": "展望",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전망대",
+    "translation": "ажиглалтын тавцан",
+    "hanja": "展望臺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전망되다",
+    "translation": "урдчилан харагдах, урьдчилан таамаглагдах",
+    "hanja": "展望되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전망하다",
+    "translation": "Таамаглах, харах",
+    "hanja": "展望하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전매",
+    "translation": "дангаар борлуулах",
+    "hanja": "專賣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전맹",
+    "translation": "Бүрэн сохор",
+    "hanja": "全盲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전면",
+    "translation": "урд тал",
+    "hanja": "前面",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전면적",
+    "translation": "бүрэн хэмжээний",
+    "hanja": "全面的",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "전면전",
+    "translation": "Бүрэн хэмжээний дайн",
+    "hanja": "全面戰",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전멸",
+    "translation": "бүрэн устгал",
+    "hanja": "全滅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전멸되다",
+    "translation": "бүрмөсөн устгах",
+    "hanja": "全滅되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전멸시키다",
+    "translation": "бүрмөсөн устгах",
+    "hanja": "全滅시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전멸하다",
+    "translation": "бүрэн устгах",
+    "hanja": "全滅하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전모",
+    "translation": "бүрэн хэмжээ, бүх зүйл",
+    "hanja": "全貌",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전목",
+    "translation": "Угжрах мод",
+    "hanja": "纏木",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전무",
+    "translation": "Тэргүүн",
+    "hanja": "專務",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "전무하다",
+    "translation": "байхгүй",
+    "hanja": "全無--",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전무후무",
+    "translation": "урьд хожид байгаагүй",
+    "hanja": "前無後無",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전무후무하다",
+    "translation": "урьд өмнө хэзээ ч 있어гүй",
+    "hanja": "前無後無하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "전문",
+    "translation": "Мэргэжил",
+    "hanja": "專業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전문가",
+    "translation": "мэргэжилтэн",
+    "hanja": "專門家",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "전문대",
+    "translation": "мэргэжлийн коллеж",
+    "hanja": "專門大",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전문성",
+    "translation": "Мэргэшлийн ур чадвар",
+    "hanja": "專門性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전문의",
+    "translation": "Мэргэшсэн эмч",
+    "hanja": "專門醫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전문적",
+    "translation": "Мэргэжлийн",
+    "hanja": "專業的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전문점",
+    "translation": "тусгай дэлгүүр",
+    "hanja": "専門店",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전문지",
+    "translation": "Мэргэжлийн сэтгүүл",
+    "hanja": "專門誌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전문직",
+    "translation": "Мэргэжлийн ажил",
+    "hanja": "專門職",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전문하다",
+    "translation": "мэргэших",
+    "hanja": "專門하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전문화",
+    "translation": "мэргэшүүлэх",
+    "hanja": "專門化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전문화되다",
+    "translation": "мэргэших",
+    "hanja": "專門化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전미",
+    "translation": "Америк даяар",
+    "hanja": "全美",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전반",
+    "translation": "Ерөнхий",
+    "hanja": "全般",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전반기",
+    "translation": "эхний хагас жил",
+    "hanja": "前半期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전반부",
+    "translation": "эхний хэсэг, эхэн үе",
+    "hanja": "前半部",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전반적",
+    "translation": "ерөнхий",
+    "hanja": "全般的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전반전",
+    "translation": "нэгдүгээр үе",
+    "hanja": "前半戰",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전방",
+    "translation": "Урд тал",
+    "hanja": "前方",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전번",
+    "translation": "өмнөх удаа, өмнөх дугаар",
+    "hanja": "前番",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전범",
+    "translation": "Дайны гэмт хэрэгтэн",
+    "hanja": "戰犯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전법",
+    "translation": "тулааны арга тактик",
+    "hanja": "戰法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전병",
+    "translation": "нимгэн боов",
+    "hanja": "煎餠",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전보",
+    "translation": "цахилгаан мэдээ",
+    "hanja": "電報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전보되다",
+    "translation": "телеграм илгээх",
+    "hanja": "電報되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전복",
+    "translation": "сүйрэл, унагах",
+    "hanja": "轉覆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전복되다",
+    "translation": "онхолдох",
+    "hanja": "顚覆되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전복시키다",
+    "translation": "хөмрөх, унагах, түлхэн унагах",
+    "hanja": "顚覆시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전복하다",
+    "translation": "хөмрөх, эргүүлэх",
+    "hanja": "轉覆하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전봇대",
+    "translation": "цахилгаан шон",
+    "hanja": "電報臺",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전부",
+    "translation": "Бүгд",
+    "hanja": "全部",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "전북",
+    "translation": "Чонбүк муж",
+    "hanja": "全北",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전북특별자치도",
+    "translation": "Жонбүгийн Тусгай Өөртөө Засах Аймаг",
+    "hanja": "全北特別自治道",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전분",
+    "translation": "цардуул",
+    "hanja": "澱粉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전비",
+    "translation": "Дайны зардал",
+    "hanja": "戰費",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "전사",
+    "translation": "дайнч, мөнөөх дайчин",
+    "hanja": "戰士",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전사자",
+    "translation": "амь үрэгдсэн цэрэг",
+    "hanja": "戰死者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전사하다",
+    "translation": "тулалдаанд амь үрэгдэх",
+    "hanja": "戰死하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전삭",
+    "translation": "бүх нарийн ширийн зүйл",
+    "hanja": "全朔",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전산",
+    "translation": "компьютер, мэдээлэл зүй",
+    "hanja": "電算",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전산망",
+    "translation": "компьютерийн сүлжээ",
+    "hanja": "電算網",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전산화",
+    "translation": "компьютержүүлэлт",
+    "hanja": "電算化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전산화되다",
+    "translation": "Компьютержүүлэх",
+    "hanja": "電算化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전상",
+    "translation": "дайн байлдааны шарх",
+    "hanja": "戰傷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전생",
+    "translation": "Өмнөх амьдрал",
+    "hanja": "前生",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전생하다",
+    "translation": "дахин төрөх, өөрөөр төлөвших",
+    "hanja": "轉生하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전서",
+    "translation": "бүрэн бүтээл",
+    "hanja": "全書",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전석",
+    "translation": "бүх суудал",
+    "hanja": "全席",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전선",
+    "translation": "утас, кабель, фронт",
+    "hanja": "電線",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전설",
+    "translation": "домог",
+    "hanja": "傳說",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전설적",
+    "translation": "домогт",
+    "hanja": "傳說的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "전성",
+    "translation": "Цэцэглэлт",
+    "hanja": "全盛",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "전성기",
+    "translation": "алтан үе",
+    "hanja": "全盛期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전성시대",
+    "translation": "оргил үе, мандалтын үе",
+    "hanja": "全盛時代",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전세",
+    "translation": "түр түрээс",
+    "hanja": "傳貰",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전세가",
+    "translation": "өрхийн талбайн түрээс",
+    "hanja": "傳貰價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전세금",
+    "translation": "түрээсийн барьцаа",
+    "hanja": "傳貰金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전세살이",
+    "translation": "бүрэн түрээсийн амьдрал",
+    "hanja": "傳貰살이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전세입자",
+    "translation": "өмнөх түрээслэгч",
+    "hanja": "前貰入者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전셋값",
+    "translation": "түрээсийн үнэ",
+    "hanja": "傳貰값",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전셋집",
+    "translation": "бүх мөнгө өгч түрээслэх байшин",
+    "hanja": "傳貰집",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전소",
+    "translation": "бүрэн шатах",
+    "hanja": "全燒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전소되다",
+    "translation": "бүхэлдээ шатах",
+    "hanja": "全燒되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전소하다",
+    "translation": "бүрэн шатах",
+    "hanja": "全燒하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전속",
+    "translation": "үүрд мөнх, дагнасан",
+    "hanja": "專屬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전속력",
+    "translation": "Бүх хүчээр, бүх хурдаар",
+    "hanja": "全速力",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전송",
+    "translation": "дамжуулалт",
+    "hanja": "電送",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전송되다",
+    "translation": "дамжуулагдах, илгээгдэх",
+    "hanja": "電送되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전송하다",
+    "translation": "илгээх",
+    "hanja": "電送하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "전수",
+    "translation": "бүхэлд нь шилжүүлэх",
+    "hanja": "傳授",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전수되다",
+    "translation": "Өвлөгдөн ирэх",
+    "hanja": "傳授되다",
+    "pos": "동사",
+    "cefr": "null"
+  },
+  {
+    "word": "전수받다",
+    "translation": "өгөгдөх, дамжуулах",
+    "hanja": "傳授받다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전수하다",
+    "translation": "дамжуулах, заах",
+    "hanja": "傳授",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전술",
+    "translation": "тактик",
+    "hanja": "戰術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전술가",
+    "translation": "стратегич",
+    "hanja": "戰術家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전술적",
+    "translation": "тактикийн",
+    "hanja": "戰術的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전승",
+    "translation": "Уламжлал",
+    "hanja": "傳承",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전승되다",
+    "translation": "Үе дамжин өвлөгдөх",
+    "hanja": "傳承되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전승하다",
+    "translation": "уламжлах, өвлүүлэх",
+    "hanja": "傳承하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전시",
+    "translation": "үзэсгэлэн",
+    "hanja": "展示",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전시관",
+    "translation": "үзэсгэлэнгийн танхим",
+    "hanja": "展示館",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전시되다",
+    "translation": "үзэсгэлэнд тавигдах",
+    "hanja": "展示되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "전시물",
+    "translation": "үзэсгэлэнгийн үзмэр",
+    "hanja": "展示物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전시실",
+    "translation": "үзэсгэлэнгийн танхим",
+    "hanja": "展示室",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전시장",
+    "translation": "үзэсгэлэнгийн танхим",
+    "hanja": "展示場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전시품",
+    "translation": "үзвэр",
+    "hanja": "展示品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전시하다",
+    "translation": "үзэсгэлэн гаргах",
+    "hanja": "展示하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "전시회",
+    "translation": "үзэсгэлэн",
+    "hanja": "展示會",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전식",
+    "translation": "түймэр, гал түймэр",
+    "hanja": "轉式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전신",
+    "translation": "бүх бие",
+    "hanja": "全身",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전신주",
+    "translation": "Цахилгааны шон",
+    "hanja": "電信柱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전실",
+    "translation": "Гэрлэхээс өмнөх өрөө",
+    "hanja": "前室",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전심",
+    "translation": "бүрэн зүрхээрээ",
+    "hanja": "全心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전심전력",
+    "translation": "бүх хүчээрээ",
+    "hanja": "全心全力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전씨",
+    "translation": "Жон овогт",
+    "hanja": "全氏",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "전압",
+    "translation": "Хүчдэл",
+    "hanja": "電壓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전액",
+    "translation": "бүх мөнгө",
+    "hanja": "全額",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전야",
+    "translation": "өнөөдрийн өмнөх шөнө",
+    "hanja": "前夜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전야제",
+    "translation": "урьдчилсан баяр",
+    "hanja": "前夜祭",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전어",
+    "translation": "май нэг төрлийн загас",
+    "hanja": "錢魚",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전언",
+    "translation": "мэдэгдэл, дам үг",
+    "hanja": "傳言",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전업",
+    "translation": "бүрэн цагийн ажил, үндсэн ажил",
+    "hanja": "專業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전업주부",
+    "translation": "гэрийн эзэгтэй",
+    "hanja": "專業主婦",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전업하다",
+    "translation": "мэргэжлээ солих",
+    "hanja": "轉業하다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "전에",
+    "translation": "өмнө, өмнө нь",
+    "hanja": "前에",
+    "pos": "Adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "전역",
+    "translation": "бүх нутаг",
+    "hanja": "全域",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전역식",
+    "translation": "Тэтгэвэрт гарах ёслол",
+    "hanja": "轉役式",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전역하다",
+    "translation": "цэргийн албанаас халагдах",
+    "hanja": "轉役—",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "전연",
+    "translation": "бүрмөсөн, огт",
+    "hanja": "全然",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전열",
+    "translation": "дулаан дамжуулалт, халаалт",
+    "hanja": "電熱",
+    "pos": "명са",
+    "cefr": "B2"
+  },
+  {
+    "word": "전열기",
+    "translation": "цахилгаан халаагуур",
+    "hanja": "電熱器",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전열하다",
+    "translation": "бэлэн байх",
+    "hanja": "戰列하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전염",
+    "translation": "Халдвар",
+    "hanja": "傳染",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전염되다",
+    "translation": "халдвар авах",
+    "hanja": "傳染되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "전염병",
+    "translation": "халдварт өвчин",
+    "hanja": "傳染病",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전염성",
+    "translation": "Халдварлах чанар",
+    "hanja": "傳染性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전영",
+    "translation": "бүх кино, бүтэн дэлгэц",
+    "hanja": "全映",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전완",
+    "translation": "бугуй",
+    "hanja": "前腕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전용",
+    "translation": "тусгай",
+    "hanja": "專用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전용되다",
+    "translation": "зориулагдах, ашиглагдах",
+    "hanja": "轉用되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전용하다",
+    "translation": "Зориулах",
+    "hanja": "轉用하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전우",
+    "translation": "Дайчин нөхөр",
+    "hanja": "戰友",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전우애",
+    "translation": "нөхөрлөл",
+    "hanja": "戰友愛",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "전운",
+    "translation": "дайн болох дохио, аюулын үүл",
+    "hanja": "戰雲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전원",
+    "translation": "бүх хүн",
+    "hanja": "全員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전원생활",
+    "translation": "хөдөөгийн амьдрал",
+    "hanja": "田園生活",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전원주택",
+    "translation": "зуслангийн байшин",
+    "hanja": "田園住宅",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전원하다",
+    "translation": "хөдөө тосгон руу нүүх",
+    "hanja": "轉園하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전월",
+    "translation": "өмнөх сар",
+    "hanja": "前月",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전위",
+    "translation": "урд тал, фронт",
+    "hanja": "前衛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전위적",
+    "translation": "авангард, манлайлагч",
+    "hanja": "前衛的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전유물",
+    "translation": "хувийн өмч",
+    "hanja": "專有物",
+    "pos": "name",
+    "cefr": "C1"
+  },
+  {
+    "word": "전유하다",
+    "translation": "Өмчлөх",
+    "hanja": "專有하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "전율",
+    "translation": "Догдлох",
+    "hanja": "戰慄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전율하다",
+    "translation": "Чичрэх",
+    "hanja": "戰慄하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전음",
+    "translation": "дамжуулан дууддаг авиа",
+    "hanja": "轉音",
+    "pos": "명",
+    "cefr": "C2"
+  },
+  {
+    "word": "전의",
+    "translation": "өмнөх утга; өмнөх санал",
+    "hanja": "前議",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전이",
+    "translation": "Шилжүүлэлт, дамжуулалт",
+    "hanja": "轉移",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전이되다",
+    "translation": "шилжих",
+    "hanja": "轉移되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전이하다",
+    "translation": "Шилжих",
+    "hanja": "轉移하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전인",
+    "translation": "өмнөх хүн",
+    "hanja": "前人",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전일",
+    "translation": "бүх өдөр, өмнөх өдөр",
+    "hanja": "全日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전임",
+    "translation": "бүрэн эрхийн",
+    "hanja": "專任",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전임자",
+    "translation": "өмнөх албан тушаалтан",
+    "hanja": "前任者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전입",
+    "translation": "шилжин ирэх",
+    "hanja": "轉入",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전입하다",
+    "translation": "Шилжин суух",
+    "hanja": "轉入하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전자",
+    "translation": "электрон",
+    "hanja": "電子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전자계산기",
+    "translation": "тооны машин",
+    "hanja": "電子計算機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전자레인지",
+    "translation": "Богино долгионы зуух",
+    "hanja": "電子레인지",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "전자사전",
+    "translation": "цахим толь бичиг",
+    "hanja": "電子辭典",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전자시계",
+    "translation": "Цахим цаг",
+    "hanja": "電子時計",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전자오락",
+    "translation": "видео тоглоом",
+    "hanja": "電子娛樂",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전자오락실",
+    "translation": "цахим тоглоомын өрөө",
+    "hanja": "電子娯楽室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전작",
+    "translation": "өмнөх бүтээл",
+    "hanja": "前作",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전장",
+    "translation": "Дайны талбар",
+    "hanja": "戰場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전장터",
+    "translation": "дайны талбар",
+    "hanja": "戰場터",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전재",
+    "translation": "дахин хэвлэх",
+    "hanja": "轉載",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전쟁",
+    "translation": "дайн",
+    "hanja": "戰爭",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전쟁터",
+    "translation": "дайны талбар",
+    "hanja": "戰爭터",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전쟁하다",
+    "translation": "Дайтах",
+    "hanja": "戰爭하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전적",
+    "translation": "Үнэмлэхүй",
+    "hanja": "全的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "전적지",
+    "translation": "тулааны талбар",
+    "hanja": "戰蹟地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전전",
+    "translation": "өмнө, өмнө нь",
+    "hanja": "前前",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전전긍긍하다",
+    "translation": "Маш их санаа зовох, айдсаас болж чичрэх",
+    "hanja": "戰戰兢兢하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전전하다",
+    "translation": "Газар газраар нүүх",
+    "hanja": "轉轉하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전정",
+    "translation": "мөчир тайрах, огтлох",
+    "hanja": "剪定",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전제",
+    "translation": "Урьдчилсан нөхцөл",
+    "hanja": "前提",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전제되다",
+    "translation": "урьдчилан тавих",
+    "hanja": "전제되다(前提되다)",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전제주의",
+    "translation": "тоталитар дэглэм",
+    "hanja": "專制主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전제하다",
+    "translation": "урьдчилан тавих, үзэх",
+    "hanja": "前提하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전조",
+    "translation": "Өнж",
+    "hanja": "前兆",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전조등",
+    "translation": "урт гэрэл, урд гэрэл",
+    "hanja": "前照燈",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전족",
+    "translation": "хөл боох (уламжлал)",
+    "hanja": "纏足",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전종",
+    "translation": "Зориулах, бүрэн дагах",
+    "hanja": "專從",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전주",
+    "translation": "удиртгал хөгжим",
+    "hanja": "前奏",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전주곡",
+    "translation": "удиртгал",
+    "hanja": "前奏曲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전중",
+    "translation": "Дайны үед, дайны дунд",
+    "hanja": "戰中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전지",
+    "translation": "Бүх мэдлэг, батерей",
+    "hanja": "全知 / 電池",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "전지전능",
+    "translation": "Бүхнийг мэдэгч, бүхнийг чадагч",
+    "hanja": "全知全能",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전지전능하다",
+    "translation": "бүхнийг мэдэх, бүхнийг чадах",
+    "hanja": "全知全能하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "전지훈련",
+    "translation": "бэлтгэлийн бааз",
+    "hanja": "轉地訓練",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전직",
+    "translation": "хуучин ажил",
+    "hanja": "前職",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전직하다",
+    "translation": "Ажлаа солих",
+    "hanja": "轉職하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "전진",
+    "translation": "урагшлах",
+    "hanja": "前進",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전진시키다",
+    "translation": "Урагшлуулах",
+    "hanja": "前進시키다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "전진하다",
+    "translation": "Урагшлах, ахих",
+    "hanja": "前進하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전집",
+    "translation": "Бүрэн цуглуулга, бүрэн зохиол",
+    "hanja": "全集",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전차",
+    "translation": "Төмөр зам, танк",
+    "hanja": "電車",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전찻길",
+    "translation": "трамвайны зам",
+    "hanja": "電車길",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전창",
+    "translation": "Бүрэн цонх",
+    "hanja": "前窓",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전채",
+    "translation": "амттан",
+    "hanja": "前菜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전처",
+    "translation": "өмнөх эхнэр",
+    "hanja": "前妻",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전천",
+    "translation": "бүх цаг агаар",
+    "hanja": "全天",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전천후",
+    "translation": "бүх цаг агаарын",
+    "hanja": "전천후(全天候)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전철",
+    "translation": "цахилгаан галт тэрэг",
+    "hanja": "電鐵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전철역",
+    "translation": "метроны буудал",
+    "hanja": "電鐵驛",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "전체",
+    "translation": "бүхэлдээ",
+    "hanja": "全體",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전체적",
+    "translation": "нийт, ерөнхий",
+    "hanja": "全體的",
+    "pos": "adj",
+    "cefr": "B1"
+  },
+  {
+    "word": "전체주의",
+    "translation": "тоталитаризм",
+    "hanja": "全體主義",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "전초",
+    "translation": "Урьдчилсан байрлал/суурь",
+    "hanja": "前哨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전초전",
+    "translation": "Өмнөх тулаан",
+    "hanja": "前哨戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전축",
+    "translation": "фонограф",
+    "hanja": "電蓄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전출",
+    "translation": "шилжүүлэх, гаргах",
+    "hanja": "轉出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전출되다",
+    "translation": "шилжих",
+    "hanja": "轉出되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전출하다",
+    "translation": "Шилжүүлэн томилох",
+    "hanja": "轉出하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "전측",
+    "translation": "өмнөх тал",
+    "hanja": "前側",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전타",
+    "translation": "Бүрэн цохилт",
+    "hanja": "全打",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전통",
+    "translation": "уламжлал",
+    "hanja": "傳統",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "전통문",
+    "translation": "уламжлалт бичиг",
+    "hanja": "傳統文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전통문화",
+    "translation": "Уламжлалт соёл",
+    "hanja": "傳統文化",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전통미",
+    "translation": "уламжлалт гоо сайхан",
+    "hanja": "傳統美",
+    "pos": "NNG",
+    "cefr": "B2"
+  },
+  {
+    "word": "전통적",
+    "translation": "уламжлалт",
+    "hanja": "傳統的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전통찻집",
+    "translation": "Уламжлалт цайны газар",
+    "hanja": "傳統찻집",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "전투",
+    "translation": "тулаан, байлдаан",
+    "hanja": "戰鬪",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전투기",
+    "translation": "Байлдааны онгоц",
+    "hanja": "戰鬪機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전투력",
+    "translation": "Байлдааны чадвар",
+    "hanja": "戰鬪力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전투복",
+    "translation": "тулааны дүрэмт хувцас",
+    "hanja": "戰鬪服",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전투적",
+    "translation": "Байлдааны, дайчин",
+    "hanja": "戰鬪的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전투하다",
+    "translation": "Байлдаан хийх",
+    "hanja": "戰鬪하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "전파",
+    "translation": "цахилгаан долгион",
+    "hanja": "電波",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전파되다",
+    "translation": "тархах",
+    "hanja": "傳播되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "전파하다",
+    "translation": "түгээх, цацах",
+    "hanja": "傳播하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전판",
+    "translation": "бүрэн хэвлэлт",
+    "hanja": "全版",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전패",
+    "translation": "Бүрэн ялагдал",
+    "hanja": "全敗",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전편",
+    "translation": "өмнөх анги",
+    "hanja": "前篇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전폐하다",
+    "translation": "бүрмөсөн хаях",
+    "hanja": "全廢하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전포",
+    "translation": "цоож",
+    "hanja": "前鋪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전폭",
+    "translation": "бүрэн дэмжлэг",
+    "hanja": "全幅",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전폭적",
+    "translation": "Бүрэн, бүхэлдээ",
+    "hanja": "全幅的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전표",
+    "translation": "ваучер",
+    "hanja": "傳票",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전풍",
+    "translation": "салхин өвчин",
+    "hanja": "癲風",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전하",
+    "translation": "танай эрхэм дээдэс (хаанд хэлэх)",
+    "hanja": "殿下",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전하다",
+    "translation": "хүргэх",
+    "hanja": "傳하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "전학",
+    "translation": "сургууль шилжих",
+    "hanja": "轉學",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전학생",
+    "translation": "шилжин ирсэн сурагч",
+    "hanja": "轉學生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전학하다",
+    "translation": "шилжин суралцах",
+    "hanja": "轉學하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전함",
+    "translation": "Байлдааны хөлөг онгоц",
+    "hanja": "戰艦",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전해",
+    "translation": "жил ирэх тусам",
+    "hanja": "電解",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전해질",
+    "translation": "электролит",
+    "hanja": "電解質",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전행",
+    "translation": "өмнөх үйлдэл",
+    "hanja": "前行",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전향",
+    "translation": "үзэл бодлоо өөрчлөх",
+    "hanja": "轉向",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전향하다",
+    "translation": "урвах",
+    "hanja": "轉向하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전혀",
+    "translation": "огт, ерөөсөө",
+    "hanja": "全혀",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전형",
+    "translation": "жишиг загвар, ердийн төрөл",
+    "hanja": "典型",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전형적",
+    "translation": "ердийн, жишиг",
+    "hanja": "典型的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "전형필",
+    "translation": "Чон Хён-пил",
+    "hanja": "全鎣弼",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전호",
+    "translation": "утасны дугаар (Харилцаа)",
+    "hanja": "電號",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "전화",
+    "translation": "утас",
+    "hanja": "電話",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "전화기",
+    "translation": "утас, телефон",
+    "hanja": "電話機",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "전화번호",
+    "translation": "Утасны дугаар",
+    "hanja": "電話番號",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "전화번호부",
+    "translation": "утасны лавлах",
+    "hanja": "電話番號簿",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전화벨",
+    "translation": "Утасны хонх",
+    "hanja": "電話bell",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "전화선",
+    "translation": "утасны шугам",
+    "hanja": "電話線",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "전화위복",
+    "translation": "Гай зовлонг аз жаргал болгох",
+    "hanja": "轉禍爲福",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "전화질하다",
+    "translation": "утсаар ярих",
+    "hanja": "電話質",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전화통",
+    "translation": "утасны гар утас",
+    "hanja": "電話筒",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "전화하다",
+    "translation": "Утсаар ярих",
+    "hanja": "電話하다",
+    "pos": "verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "전환",
+    "translation": "шилжих, өөрчлөгдөх",
+    "hanja": "轉換",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전환기",
+    "translation": "шилжилтийн үе, шилжилтийн үе",
+    "hanja": "轉換期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전환되다",
+    "translation": "өөрчлөгдөх, шилжих",
+    "hanja": "轉換되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전환시키다",
+    "translation": "өөрчлөх",
+    "hanja": "轉換시키다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "전환점",
+    "translation": "Эргэлтийн цэг",
+    "hanja": "轉換點",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "전환하다",
+    "translation": "шилжүүлэх",
+    "hanja": "轉換하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "전황",
+    "translation": "байлдааны байдал",
+    "hanja": "戰況",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전회",
+    "translation": "Өмнөх удаа",
+    "hanja": "前回",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전횡",
+    "translation": "хэтрүүлэн ашиглах",
+    "hanja": "專橫",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "전후",
+    "translation": "өмнө ба хойно",
+    "hanja": "前後",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "전후좌우",
+    "translation": "урд хойд баруун зүүн",
+    "hanja": "前後左右",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "전후하다",
+    "translation": "өмнө ба дараа",
+    "hanja": "前後하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전희",
+    "translation": "өмнөх тоглолт",
+    "hanja": "前戲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "전히",
+    "translation": "хуучин шиг",
+    "hanja": "全히",
+    "pos": "Adverb",
+    "cefr": "C1"
+  }
+]

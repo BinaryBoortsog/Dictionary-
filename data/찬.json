@@ -1,0 +1,338 @@
+[
+  {
+    "word": "찬",
+    "translation": "хүйтэн",
+    "hanja": "찬",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "찬가",
+    "translation": "магтан дуулах",
+    "hanja": "讚歌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬거리",
+    "translation": "Хоолны хачир хийх материал",
+    "hanja": "饌거리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "찬구",
+    "translation": "дагуу",
+    "hanja": "鑽具",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "찬기",
+    "translation": "хүйтэн агаар",
+    "hanja": "寒氣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "찬동",
+    "translation": "Зөвшөөрөх, дэмжих",
+    "hanja": "贊同",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "찬동하다",
+    "translation": "зөвшөөрөх, дэмжих",
+    "hanja": "贊同하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬란하다",
+    "translation": "гялалзсан",
+    "hanja": "燦爛하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "찬란히",
+    "translation": "гялалзсан",
+    "hanja": "燦爛히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬모",
+    "translation": "тогооч эмэгтэй",
+    "hanja": "饌母",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "찬물",
+    "translation": "Хүйтэн ус",
+    "hanja": "찬물",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "찬미",
+    "translation": "магтаал",
+    "hanja": "讚美",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬미하다",
+    "translation": "бишрэх, магтан дуулах",
+    "hanja": "讚美하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬바람",
+    "translation": "Хүйтэн салхи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "찬반",
+    "translation": "зөв, буруу",
+    "hanja": "贊反",
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬반양론",
+    "translation": "эсрэг, тэсрэг тал",
+    "hanja": "贊反兩論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "찬밥",
+    "translation": "хүйтэн будаа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬방",
+    "translation": "хүйтэн тасалгаа",
+    "hanja": "찬방",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "찬비",
+    "translation": "хүйтэн бороо",
+    "hanja": "찬비",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "찬사",
+    "translation": "Магтаал",
+    "hanja": "讚辭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬석",
+    "translation": "нэмэлт суудал",
+    "hanja": "贊席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬성",
+    "translation": "зөвшөөрөх",
+    "hanja": "贊成",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "찬성표",
+    "translation": "Саналын хуудас, дэмжих санал",
+    "hanja": "贊成票",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "찬성하다",
+    "translation": "зөвшөөрөх",
+    "hanja": "贊成하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "찬송",
+    "translation": "Магтаал",
+    "hanja": "讚頌",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "찬송가",
+    "translation": "сүргийн дуу",
+    "hanja": "讚頌歌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "찬송하다",
+    "translation": "магтан дуулах, сүсэглэн магтах",
+    "hanja": "讚頌하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "찬수",
+    "translation": "хүйтэн ус",
+    "hanja": "찬水",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "찬스",
+    "translation": "Боломж, завшаан",
+    "hanja": "Chance",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "찬양",
+    "translation": "магтаал, алдаршуулал",
+    "hanja": "讚揚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬양하다",
+    "translation": "Магтах",
+    "hanja": "讚揚하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬연하다",
+    "translation": "Гайхамшигтай гялалзах",
+    "hanja": "燦然하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "찬이",
+    "translation": "Хоолны хачир",
+    "hanja": "饌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "찬자",
+    "translation": "магтагч",
+    "hanja": "撰者",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "찬장",
+    "translation": "тавиур, шкаф",
+    "hanja": "饌欌",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "찬조",
+    "translation": "ивээн тэтгэгч",
+    "hanja": "贊助",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬조금",
+    "translation": "хандив",
+    "hanja": "贊助金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬주",
+    "translation": "магтаал, алдаршуулах",
+    "hanja": "贊主",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "찬차",
+    "translation": "Чанча (нэр)",
+    "hanja": "찬차",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "찬찬하다",
+    "translation": "нарийн, нягт нямбай",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬찬히",
+    "translation": "удаан, болгоомжтой",
+    "hanja": "찬찬히",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "찬탄",
+    "translation": "бишрэл",
+    "hanja": "讚嘆",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬탄하다",
+    "translation": "биширч гайхах",
+    "hanja": "讚歎하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "찬탈",
+    "translation": "булаан авах",
+    "hanja": "簒奪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "찬탈하다",
+    "translation": "хүчээр булаан авах, хасгах",
+    "hanja": "簒奪하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "찬투",
+    "translation": "чань ту (хятад нутгийн нэр)",
+    "hanja": "null",
+    "pos": "고유명사 (Proper Noun)",
+    "cefr": "C2"
+  },
+  {
+    "word": "찬트",
+    "translation": "залбирал, дуулал",
+    "hanja": "Q",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "찬합",
+    "translation": "Хоолны хайрцаг, түмпэн",
+    "hanja": "饌盒",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

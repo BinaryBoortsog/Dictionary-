@@ -1,0 +1,436 @@
+[
+  {
+    "word": "삐",
+    "translation": "Дуучны дуу (алдаа, дутагдал)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐거덕",
+    "translation": "Хяхтнасан чимээ, шаржигнуур (дуурайх үг)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "삐거덕거리다",
+    "translation": "дуугарах, чахран дуугарах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐거덕대다",
+    "translation": "шажигнах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐걱",
+    "translation": "Доргилт",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐걱거리다",
+    "translation": "Шингэн дуугарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐걱대다",
+    "translation": "шажигнах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐걱삐걱",
+    "translation": "шуугиантай чимээ гаргах",
+    "hanja": "삐걱삐걱",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐걱삐걱하다",
+    "translation": "хавирах, дуугарах",
+    "hanja": "NaN",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐그덕",
+    "translation": "шажигнах дуу",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "삐그덕거리다",
+    "translation": "Хяхтнаж дуугарах",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐그덕대다",
+    "translation": "хачирхийх (чимээ)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐그덕삐그덕",
+    "translation": "Үрэгдэх дуу",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐까번쩍하다",
+    "translation": "гялгар, гялалзсан",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "삐까뻔쩍",
+    "translation": "гялалзсан, маш хөөрхөн (дуурайх)",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐꺽",
+    "translation": "Хиймэл дуу",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐끗",
+    "translation": "хальтаргаа, муухай хөл тавих",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐끗삐끗하다",
+    "translation": "мурийх",
+    "hanja": "삐끗삐끗하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐끗하다",
+    "translation": "мурийлгах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐끼",
+    "translation": "зуучлагч, хөтөч",
+    "hanja": "삐끼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삐다",
+    "translation": "мултрах",
+    "hanja": "삐다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐대다",
+    "translation": "үлдэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐딱",
+    "translation": "хазгай, тэгш бус",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐딱하다",
+    "translation": "хазгай",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "삐뚜름하다",
+    "translation": "тахир, муруй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐뚤다",
+    "translation": "тахир, муруй",
+    "hanja": "삐뚤다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐뚤빼뚤",
+    "translation": "мурий, муруй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "삐뚤빼뚤",
+    "translation": "муруй, тахир",
+    "hanja": "삐뚤빼뚤",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐뚤빼뚤하다",
+    "translation": "Муруй, тахир",
+    "hanja": "삐뚤빼뚤하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐뚤삐뚤하다",
+    "translation": "муруй тахир",
+    "hanja": "삐뚤삐뚤하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "삐라",
+    "translation": "Ухуулах хуудас",
+    "hanja": "삐라",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐리",
+    "translation": "бяцхан загас; бяцхан хүүхэд",
+    "hanja": "삐리",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐리리",
+    "translation": "чимээ, дуу",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "삐비",
+    "translation": "пиби (Ургамал)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "삐비빅",
+    "translation": "дуулах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "삐빅",
+    "translation": "бип дуу",
+    "hanja": "삐빅",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "삐뽀삐뽀",
+    "translation": "пипо пипо (дууриамал үг)",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "삐삐",
+    "translation": "пейжер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐악",
+    "translation": "Жиргэх чимээ (дэгдээхэйний)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "삐악삐악",
+    "translation": "жийргэнэж",
+    "hanja": "삐악삐악",
+    "pos": "adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐약",
+    "translation": "жиргэх",
+    "hanja": "삐약",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐약삐약",
+    "translation": "Жиргэх чимээ (дэгээ)",
+    "hanja": "삐약삐약",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐에로",
+    "translation": "алиалагч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "삐용",
+    "translation": "бингон (дуу чимээ)",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "삐용삐용",
+    "translation": "пи-ён пи-ён (дуу авиа)",
+    "hanja": "삐용삐용",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐익",
+    "translation": "пийп",
+    "hanja": "null",
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "삐져나오다",
+    "translation": "цухуйх",
+    "hanja": "삐져나오다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐죽",
+    "translation": "хурц үзүүр",
+    "hanja": "삐죽",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐죽거리다",
+    "translation": "уруулаа доошлуулах, гоморхох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐죽대다",
+    "translation": "уруулаа унжуулах, гомдох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐죽삐죽",
+    "translation": "сампин сампин",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "삐죽삐죽하다",
+    "translation": "товойж гарах",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐죽하다",
+    "translation": "овойх, цухуйх",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐지다",
+    "translation": "гомдох",
+    "hanja": "삐지다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐질삐질",
+    "translation": "хөлс гарах чимээ, бие сулрайх",
+    "hanja": null,
+    "pos": "т.д.ү.",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐쩍",
+    "translation": "их туранхай",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐쭉",
+    "translation": "цухуйх, гайхах байдалтай",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐쭉거리다",
+    "translation": "уруулаа унжуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐쭉삐쭉",
+    "translation": "хурц, цухуйсан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "삐쭉삐쭉하다",
+    "translation": "цухуйх, гарах",
+    "hanja": "삐쭉삐쭉하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐쭉하다",
+    "translation": "цухуйх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "삐치다",
+    "translation": "гомдох",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B1"
+  }
+]

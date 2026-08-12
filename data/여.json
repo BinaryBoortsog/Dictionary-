@@ -1,0 +1,1584 @@
+[
+  {
+    "word": "여가",
+    "translation": "чөлөөт цаг",
+    "hanja": "餘暇",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "여가위",
+    "translation": "тав тухтай",
+    "hanja": "余暇委",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여각",
+    "translation": "аяллын байшин",
+    "hanja": "旅閣",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "여간내기",
+    "translation": "жирийн нэг",
+    "hanja": "如干내기",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여간하다",
+    "translation": "Ердийн, хэвийн (үгүйсгэлтэй хамт хэрэглэхэд их онцгой)",
+    "hanja": "如干하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여개",
+    "translation": "хэдэн арван",
+    "hanja": "餘개",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여객",
+    "translation": "зорчигч",
+    "hanja": "旅客",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여객기",
+    "translation": "Зорчигч тээврийн онгоц",
+    "hanja": "旅客機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여객선",
+    "translation": "Зорчигч тээврийн хөлөг онгоц",
+    "hanja": "旅客船",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "여거",
+    "translation": "эмэгтэй",
+    "hanja": "女居",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "여건",
+    "translation": "нөхцөл байдал",
+    "hanja": "與件",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "여걸",
+    "translation": "Эмэгтэй баатар",
+    "hanja": "女傑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여경",
+    "translation": "эмэгтэй цагдаа",
+    "hanja": "女警",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여고",
+    "translation": "여고",
+    "hanja": "女高",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여고생",
+    "translation": "Эмэгтэй ахлах сургуулийн сурагч",
+    "hanja": "女高生",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여곡",
+    "translation": "эмэгтэй хүн",
+    "hanja": "女谷",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "여공",
+    "translation": "эмэгтэй ажилчин",
+    "hanja": "女工",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "여과",
+    "translation": "шүүх",
+    "hanja": "濾過",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여과하다",
+    "translation": "шүүх, 여과 хийх",
+    "hanja": "濾過하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여관",
+    "translation": "буудал",
+    "hanja": "旅館",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여관방",
+    "translation": "Зочид буудлын өрөө",
+    "hanja": "旅館房",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "여관비",
+    "translation": "буудлын төлбөр",
+    "hanja": "旅館費",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여교사",
+    "translation": "эмэгтэй багш",
+    "hanja": "女敎師",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여군",
+    "translation": "эмэгтэй цэрэг",
+    "hanja": "女軍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여권",
+    "translation": "паспорт",
+    "hanja": "旅券",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여귀",
+    "translation": "эмэгтэй чөтгөр",
+    "hanja": "女鬼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여급",
+    "translation": "эмэгтэй үйлчлэгч",
+    "hanja": "女給",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여기",
+    "translation": "Энд",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여기다",
+    "translation": "тооцох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여기자",
+    "translation": "эмэгтэй сэтгүүлч",
+    "hanja": "女記者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "여기저기",
+    "translation": "тийшээ эндээ",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "여년",
+    "translation": "жил",
+    "hanja": "餘年",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "여념",
+    "translation": "өөр зүйлд сатаарах",
+    "hanja": "餘念",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "여느",
+    "translation": "бүх",
+    "hanja": "null",
+    "pos": "determiner",
+    "cefr": "B2"
+  },
+  {
+    "word": "여다",
+    "translation": "нээх (хаалга, цонх г.м.)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여단",
+    "translation": "Бригад (цэргийн анги)",
+    "hanja": "旅團",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여닫다",
+    "translation": "нээх, хаах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여닫이",
+    "translation": "онгойлгож хаадаг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여닫히다",
+    "translation": "нээгдэх, хаагдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여담",
+    "translation": "хажуугаар хэлэх үг, нэмэлт яриа",
+    "hanja": "餘談",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여당",
+    "translation": "Эрх баригч нам",
+    "hanja": "與黨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여대생",
+    "translation": "Оюутан охин",
+    "hanja": "女大生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여덟",
+    "translation": "найм",
+    "hanja": "여덟",
+    "pos": "수사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여독",
+    "translation": "аяллын ядаргаа",
+    "hanja": "旅毒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여돌",
+    "translation": "эмэгтэй шүтээн",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "여동생",
+    "translation": "эмэгтэй дүү",
+    "hanja": "女동생",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여드레",
+    "translation": "найман өдөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여드름",
+    "translation": "батга",
+    "hanja": "여드름",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여드름투성이",
+    "translation": "багануур дүүрэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여든",
+    "translation": "наян",
+    "hanja": "여든",
+    "pos": "수사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여래",
+    "translation": "татхагата",
+    "hanja": "여래(如來)",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "여러",
+    "translation": "олон",
+    "hanja": null,
+    "pos": "관형사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여러모로",
+    "translation": "Олон талаар, хаа сайгүй",
+    "hanja": "",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "여러분",
+    "translation": "тагнай",
+    "hanja": "여러분",
+    "pos": "pronoun",
+    "cefr": "A1"
+  },
+  {
+    "word": "여러해살이",
+    "translation": "олон наст ургамал",
+    "hanja": "여러해살이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여럽다",
+    "translation": "Бараг, шахам",
+    "hanja": "",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "여럿",
+    "translation": "олон",
+    "hanja": "null",
+    "pos": "대명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여력",
+    "translation": "нөөц хүч",
+    "hanja": "餘力",
+    "pos": "м.н",
+    "cefr": "B2"
+  },
+  {
+    "word": "여로",
+    "translation": "Аялал",
+    "hanja": "旅路",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여론",
+    "translation": "нийтийн санал",
+    "hanja": "輿論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여류",
+    "translation": "эмэгтэй зохиолч",
+    "hanja": "女流",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "여름",
+    "translation": "зун",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여름날",
+    "translation": "зуны өдөр",
+    "hanja": "여름날",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "여름내",
+    "translation": "Зуны турш",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여름맞이",
+    "translation": "зуны унд",
+    "hanja": "여름맞이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여름옷",
+    "translation": "зуны хувцас",
+    "hanja": "여름옷",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여름철",
+    "translation": "зуны улирал",
+    "hanja": "여름철",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여름휴가",
+    "translation": "зуны амралт",
+    "hanja": "여름休暇",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "여리",
+    "translation": "зөөлөн",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "여리다",
+    "translation": "эмзэг, нарийхан",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여리여리하다",
+    "translation": "Нарийхан, хэврэг",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여릿하다",
+    "translation": "Сул дорой, эмзэг",
+    "hanja": "",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "여마리",
+    "translation": "хэдэн амьтан",
+    "hanja": "여마리",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "여망",
+    "translation": "Хүсэл",
+    "hanja": "輿望",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여맹",
+    "translation": "эмэгтэйчүүдийн холбоо",
+    "hanja": "女盟",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여명",
+    "translation": "үүр",
+    "hanja": "黎明",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "여몽",
+    "translation": "Емён",
+    "hanja": "呂蒙",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "여물",
+    "translation": "тэжээл",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여물다",
+    "translation": "боловсрох, гүйцэх",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "여미",
+    "translation": "Захирах, өмсөх, цуглуулах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "여미다",
+    "translation": "оёх",
+    "hanja": "여미다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "여민락",
+    "translation": "Еоминрак (солонгос хөгжим)",
+    "hanja": "與民樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여배우",
+    "translation": "эмэгтэй жүжигчин",
+    "hanja": "女俳優",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여백",
+    "translation": "хоосон зай",
+    "hanja": "餘白",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여벌",
+    "translation": "нэмэлт, илүү",
+    "hanja": "餘別",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여보",
+    "translation": "ээжээ, ааваа (ханьдаа хандах)",
+    "hanja": "餘 보",
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여보쇼",
+    "translation": "хөөе, хараач",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여보슈",
+    "translation": "хөөе, хараач",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여복",
+    "translation": "Эмэгтэй хүний аз",
+    "hanja": "女福",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여봐란듯이",
+    "translation": "харагдаж байх ёстой",
+    "hanja": "null",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "여부",
+    "translation": "эсэх",
+    "hanja": "與否",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여북하다",
+    "translation": "хүнд хэцүү / ядарсан",
+    "hanja": "여북하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여분",
+    "translation": "нөөц, илүү",
+    "hanja": "餘分",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여비",
+    "translation": "аяллын зардал",
+    "hanja": "旅費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여비서",
+    "translation": "эмэгтэй нарийн бичиг",
+    "hanja": "女秘書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여사",
+    "translation": "Хатагтай",
+    "hanja": "女士",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여사원",
+    "translation": "эмэгтэй ажилтан",
+    "hanja": "女社員",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "여사장",
+    "translation": "Эмэгтэй захирал",
+    "hanja": "女社長",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여사친",
+    "translation": "эмэгтэй найз",
+    "hanja": "女사친",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여상",
+    "translation": "эмэгтэйчүүдийн арилжааны ахлах сургууль",
+    "hanja": "女商",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여색",
+    "translation": "эмэгтэй хүний өнгө",
+    "hanja": "女色",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여생",
+    "translation": "үлдэгдэл амьдрал",
+    "hanja": "餘生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여석",
+    "translation": "нэмэлт суудал, нэмэлт зай",
+    "hanja": "餘席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여선생",
+    "translation": "эмэгтэй багш",
+    "hanja": "女先生",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여섯",
+    "translation": "зургаа",
+    "hanja": "六",
+    "pos": "수사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여성",
+    "translation": "эмэгтэй",
+    "hanja": "女性",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "여성계",
+    "translation": "эмэгтэйчүүдийн хүрээлэл",
+    "hanja": "女性界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여성미",
+    "translation": "эмэгтэйлэг байдал, гоо үзэсгэлэн",
+    "hanja": "女性美",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여성복",
+    "translation": "эмэгтэй хувцас",
+    "hanja": "女性服",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여성스럽다",
+    "translation": "Эмэгтэйлэг",
+    "hanja": "女性스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여성적",
+    "translation": "эмэгтэйлэг",
+    "hanja": "女性的",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여성지",
+    "translation": "эмэгтэйчүүдийн сэтгүүл",
+    "hanja": "女性誌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여성학",
+    "translation": "Эмэгтэйчүүдийн судлал",
+    "hanja": "女性學",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "여세",
+    "translation": "ашиглах боломж",
+    "hanja": "餘勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여소",
+    "translation": "эмэгтэйчүүдийн тасаг",
+    "hanja": "女所",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "여수",
+    "translation": "Ёсү (хот)",
+    "hanja": "麗水",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여숙",
+    "translation": "зочид буудал",
+    "hanja": "旅宿",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여승",
+    "translation": "гэцэлмаа",
+    "hanja": "女僧",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여승무원",
+    "translation": "нислэг үйлчлэгч (эмэгтэй)",
+    "hanja": "女乘務員",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "여시",
+    "translation": "үнэг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "여식",
+    "translation": "охин",
+    "hanja": "女息",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "여신",
+    "translation": "дагина",
+    "hanja": "女神",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "여신상",
+    "translation": "Эмэгтэй бурхны хөшөө",
+    "hanja": "女神像",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여실하다",
+    "translation": "үнэн бодит, тодорхой",
+    "hanja": "如實─",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여실히",
+    "translation": "үнэхээр",
+    "hanja": "如實히",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "여심",
+    "translation": "эмэгтэй хүний сэтгэл",
+    "hanja": "女心",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "여아",
+    "translation": "охин",
+    "hanja": "女兒",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여압",
+    "translation": "Даралт нэмэгдүүлэх",
+    "hanja": "餘壓",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "여야",
+    "translation": "Эрх баригч, сөрөг хүчин",
+    "hanja": "與野",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여야정",
+    "translation": "эрх баригч, сөрөг хүчин ба засгийн газар",
+    "hanja": "与野政",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "여여",
+    "translation": "үүрд мөнх, төгс төгөлдөр",
+    "hanja": "如如",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "여여하다",
+    "translation": "그대로이다, 변화가 없다",
+    "hanja": "如如하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "여열",
+    "translation": "үлдсэн дулаан",
+    "hanja": "餘熱",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "여염",
+    "translation": "энгийн айл өрх, ард түмэн",
+    "hanja": "閭閻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여염집",
+    "translation": "энгийн айл өрх",
+    "hanja": "閭閻-",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "여왕",
+    "translation": "Хатан хаан",
+    "hanja": "女王",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "여왕개미",
+    "translation": "хатан шоргоолж",
+    "hanja": "女王개미",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여왕벌",
+    "translation": "Хатан зөгий",
+    "hanja": "女王벌",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "여우",
+    "translation": "үнэг",
+    "hanja": "여우",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여우비",
+    "translation": "бороотой нар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여운",
+    "translation": "үлдэгдэл",
+    "hanja": "餘韻",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "여웅",
+    "translation": "эмэгтэй баатар",
+    "hanja": "女雄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여위다",
+    "translation": "турах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여유",
+    "translation": "илүү цаг",
+    "hanja": "餘裕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여유롭다",
+    "translation": "тайван",
+    "hanja": "餘裕롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여유분",
+    "translation": "илүү хэсэг, нэмэлт хэмжээ",
+    "hanja": "餘裕分",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여윳돈",
+    "translation": "илүү мөнгө, нөөц мөнгө",
+    "hanja": "餘裕돈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여윽시",
+    "translation": "мөн л, яг л",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여의",
+    "translation": "Хүслээр, санаснаар",
+    "hanja": "如意",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여의다",
+    "translation": "алдах, гээх",
+    "hanja": "與-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여의도",
+    "translation": "Ёидо",
+    "hanja": "汝矣島",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여의사",
+    "translation": "эмэгтэй эмч",
+    "hanja": "女醫師",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여의주",
+    "translation": "Хүслийг биелүүлэгч сувд",
+    "hanja": "如意珠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "여의하다",
+    "translation": "хүссэнээр болох, амжилттай болох",
+    "hanja": "如意하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여이",
+    "translation": "여이 (여자아이)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여인",
+    "translation": "эмэгтэй",
+    "hanja": "女人",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "여인네",
+    "translation": "Эмэгтэй",
+    "hanja": "女人네",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여인상",
+    "translation": "эмэгтэй хүний хөрөг",
+    "hanja": "女人像",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "여인숙",
+    "translation": "буудал",
+    "hanja": "旅館",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여일",
+    "translation": "Үлдсэн нэг өдөр",
+    "hanja": "餘一",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "여자",
+    "translation": "эмэгтэй",
+    "hanja": "女子",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "여자관계",
+    "translation": "эмэгтэйчүүдтэй харилцаа",
+    "hanja": "女子關係",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여자아이",
+    "translation": "охин хүүхэд",
+    "hanja": "女子아이",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "여자여자하다",
+    "translation": "эмэгтэйлэг байх",
+    "hanja": "女子女子하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여장",
+    "translation": "эмэгтэй хувцас",
+    "hanja": "女裝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여장부",
+    "translation": "эмэгтэй баатар",
+    "hanja": "女丈夫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여장하다",
+    "translation": "эрэгтэй хүн эмэгтэй хувцас өмсөх",
+    "hanja": "女裝하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여적",
+    "translation": "үлдсэн",
+    "hanja": "여적(餘積)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여적지",
+    "translation": "Одоо хүртэл",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여전",
+    "translation": "хуучин хэвээр",
+    "hanja": "如前",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여전하다",
+    "translation": "хэвээр",
+    "hanja": "如前하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여전히",
+    "translation": "хэвээр",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "여점",
+    "translation": "үлдэгдэл оноо",
+    "hanja": "餘點",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여정",
+    "translation": "аялал",
+    "hanja": "旅程",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "여제",
+    "translation": "Хатан хаан",
+    "hanja": "女帝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여종",
+    "translation": "эмэгтэй боол",
+    "hanja": "女從",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여죄",
+    "translation": "нэмэлт гэмт хэрэг",
+    "hanja": "餘罪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여주",
+    "translation": "Эмэгтэй гол дүр",
+    "hanja": "女主人公",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "여주인",
+    "translation": "эзэгтэй",
+    "hanja": "女主",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여주인공",
+    "translation": "Эмэгтэй гол дүр",
+    "hanja": "女主人公",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여중",
+    "translation": "Эмэгтэйчүүдийн дунд сургууль",
+    "hanja": "女中",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "여중생",
+    "translation": "эмэгтэй дунд сургуулийн сурагч",
+    "hanja": "女中生",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "여지껏",
+    "translation": "одоог хүртэл",
+    "hanja": "여지껏",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여지없다",
+    "translation": "Ямар ч зай завсаргүй, гарцаагүй",
+    "hanja": "餘地없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여지없이",
+    "translation": "бүрэн, огт эргэлзээгүйгээр",
+    "hanja": "餘地없이",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여직",
+    "translation": "одоогоор",
+    "hanja": "如職",
+    "pos": "adv",
+    "cefr": "C1"
+  },
+  {
+    "word": "여쭙다",
+    "translation": "асуух",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여차",
+    "translation": "Хэрвээ тийм бол, энэ мэт",
+    "hanja": "如次",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여차여차하다",
+    "translation": "ийм тийм юм болох, ингэж тэгэх",
+    "hanja": "如次如次하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여차저차",
+    "translation": "Ингэж тэгж",
+    "hanja": "여차저차",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여차저차하다",
+    "translation": "Ийм тийм болчихлоо",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여차하다",
+    "translation": "юу ч болж магадгүй",
+    "hanja": "餘他하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "여척",
+    "translation": "нэмэлт өргөтгөл",
+    "hanja": "餘脊",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "여천",
+    "translation": "Ёочон (газар зүйн нэр)",
+    "hanja": "麗泉",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "여체",
+    "translation": "эмэгтэй хүний бие",
+    "hanja": "女體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여초",
+    "translation": "эмэгтэйчүүдийн тоо давамгайлах",
+    "hanja": "女超",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "여치",
+    "translation": "Царцаа (шавьж)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여친",
+    "translation": "найз охин (товчлол)",
+    "hanja": "女親",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여타",
+    "translation": "бусад",
+    "hanja": "餘他",
+    "pos": "Pronoun",
+    "cefr": "B2"
+  },
+  {
+    "word": "여탕",
+    "translation": "Эмэгтэйчүүдийн банн",
+    "hanja": "女湯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여태",
+    "translation": "одоог хүртэл",
+    "hanja": "如態",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여태껏",
+    "translation": "одоо хүртэл",
+    "hanja": "여태껏",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "여파",
+    "translation": "Үр дагавар",
+    "hanja": "餘波",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여편네",
+    "translation": "эхнэр (доромжилсон)",
+    "hanja": "女便-",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "여포",
+    "translation": "Лиү Бү",
+    "hanja": "呂布",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "여풍",
+    "translation": "эмэгтэйчүүдийн хүчтэй нөлөө, эмэгтэй салхи",
+    "hanja": "女風",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "여하",
+    "translation": "хэрхэн",
+    "hanja": "如何",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여하튼",
+    "translation": "ямар ч гэсэн",
+    "hanja": "如何튼",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "여학교",
+    "translation": "эмэгтэйчүүдийн сургууль",
+    "hanja": "女學校",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "여학생",
+    "translation": "эмэгтэй сурагч",
+    "hanja": "女學生",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여한",
+    "translation": "харамсал",
+    "hanja": "餘恨",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "여행",
+    "translation": "аялал",
+    "hanja": "旅行",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "여행가",
+    "translation": "Аялагч",
+    "hanja": "旅行家",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여행객",
+    "translation": "жуулчин, аялагч",
+    "hanja": "旅行客",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여행담",
+    "translation": "аяллын түүх",
+    "hanja": "旅行談",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "여행사",
+    "translation": "Аялал жуулчлалын агентлаг",
+    "hanja": "旅行社",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여행용",
+    "translation": "аялалын",
+    "hanja": "旅行用",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여행자",
+    "translation": "аялагч",
+    "hanja": "旅行者",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여행지",
+    "translation": "аяллын газар",
+    "hanja": "旅行地",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "여행하다",
+    "translation": "аялах",
+    "hanja": "旅行하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여혐",
+    "translation": "эмэгтэйчүүдийг үзэн ядах",
+    "hanja": "女嫌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여호",
+    "translation": "үнэг",
+    "hanja": "女狐",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여호수아",
+    "translation": "Иошуа (хүний нэр)",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "여호와",
+    "translation": "Иехова",
+    "hanja": "Jehovah",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여회",
+    "translation": "үлдсэн сэтгэгдэл",
+    "hanja": "餘懷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "여흥",
+    "translation": "зугаа цэнгэл, уран бүтээл",
+    "hanja": "餘興",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

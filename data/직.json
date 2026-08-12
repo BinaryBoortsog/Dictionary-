@@ -1,0 +1,751 @@
+[
+  {
+    "word": "직",
+    "translation": "шууд",
+    "hanja": "直",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직각",
+    "translation": "Тэгш өнцөгт",
+    "hanja": "直角",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직감",
+    "translation": "зөн совин",
+    "hanja": "直感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직감적",
+    "translation": "зөн совингийн",
+    "hanja": "直感的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "직감하다",
+    "translation": "зөн совингоор мэдрэх",
+    "hanja": "直感하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직강",
+    "translation": "шууд лекц",
+    "hanja": "直講",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직거래",
+    "translation": "шууд худалдаа",
+    "hanja": "直去來",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "직거래하다",
+    "translation": "шууд худалдаа хийх",
+    "hanja": "直去來하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "직격",
+    "translation": "шууд цохилт",
+    "hanja": "直擊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직격탄",
+    "translation": "шууд буудах",
+    "hanja": "直擊彈",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "직격하다",
+    "translation": "Шууд онох",
+    "hanja": "直擊하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "직결",
+    "translation": "шууд холбогдох",
+    "hanja": "直結",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직결되다",
+    "translation": "Шууд холбогдох",
+    "hanja": "直結되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직결하다",
+    "translation": "шууд холбогдох",
+    "hanja": "直結하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직경",
+    "translation": "диаметр",
+    "hanja": "直徑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직계",
+    "translation": "шууд удам",
+    "hanja": "直系",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직공",
+    "translation": "ажилчин, гар урчууд",
+    "hanja": "職工",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직관",
+    "translation": "зөн совин, шууд ойлголт",
+    "hanja": "直觀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직관력",
+    "translation": "зөн совингийн чадвар",
+    "hanja": "直觀力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직관적",
+    "translation": "Зөн совингийн",
+    "hanja": "直觀的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직관하다",
+    "translation": "зөнгөөрөө ойлгох",
+    "hanja": "直觀하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직군",
+    "translation": "Мэргэжлийн бүлэг",
+    "hanja": "職群",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직권",
+    "translation": "албан тушаалын эрх мэдэл",
+    "hanja": "職權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직급",
+    "translation": "Албан тушаал",
+    "hanja": "職級",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직녀",
+    "translation": "Нэхэгч охин (од)",
+    "hanja": "織女",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "직능",
+    "translation": "Үүрэг, чиг үүрэг",
+    "hanja": "職能",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직다",
+    "translation": "Тохирох",
+    "hanja": "직다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직딩",
+    "translation": "ажилчин залуу/залуус",
+    "hanja": "職-ing",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직력",
+    "translation": "шууд хүч",
+    "hanja": "職力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직렬",
+    "translation": "цуваа (холболт)",
+    "hanja": "直列",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직류",
+    "translation": "шууд гүйдэл",
+    "hanja": "直流",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직립",
+    "translation": "босоо зогсох",
+    "hanja": "直立",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직립하다",
+    "translation": "Тэгш зогсох",
+    "hanja": "直立하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직매장",
+    "translation": "шууд худалдаа",
+    "hanja": "直賣場",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "직면",
+    "translation": "нүүр тулах",
+    "hanja": "直面",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직면하다",
+    "translation": "тулгарах, нүүр тулах",
+    "hanja": "直面하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직모",
+    "translation": "шулуун үс",
+    "hanja": "直毛",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "직무",
+    "translation": "үүрэг",
+    "hanja": "職務",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직물",
+    "translation": "нэхмэл",
+    "hanja": "織物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직박구리",
+    "translation": "Хөх чоно (шувуу)",
+    "hanja": "直박구리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직방",
+    "translation": "шууд",
+    "hanja": "直방",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "직벽",
+    "translation": "Босоо хана",
+    "hanja": "直壁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직보하다",
+    "translation": "шууд тайлагнах",
+    "hanja": "直報하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직분",
+    "translation": "үүрэг",
+    "hanja": "職分",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직빵",
+    "translation": "шууд, шууд үр дүнтэй",
+    "hanja": "直-",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직사",
+    "translation": "шууд буудах",
+    "hanja": "直射",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "직사각형",
+    "translation": "Тэгш өнцөгт",
+    "hanja": "直사각형",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "직사광선",
+    "translation": "нарны шууд тусгал",
+    "hanja": "直射光線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직선",
+    "translation": "Шулуун шугам",
+    "hanja": "直線",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "직선거리",
+    "translation": "шулуун шугамны зай",
+    "hanja": "直線距離",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직선적",
+    "translation": "шулуун, илэн далангүй",
+    "hanja": "直線的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "직선제",
+    "translation": "Шууд сонгууль",
+    "hanja": "直選制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직설적",
+    "translation": "шууд",
+    "hanja": "直說的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직성",
+    "translation": "од, заяа",
+    "hanja": "直星",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직속",
+    "translation": "Шууд харьяа",
+    "hanja": "直屬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직송",
+    "translation": "Шууд хүргэлт",
+    "hanja": "直送",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직수",
+    "translation": "шууд ус",
+    "hanja": "直水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직수입",
+    "translation": "шууд импорт",
+    "hanja": "直輸入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직수입하다",
+    "translation": "шууд импортлох",
+    "hanja": "直輸入하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직시",
+    "translation": "шууд харах",
+    "hanja": "直視",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "직시하다",
+    "translation": "Шууд харах",
+    "hanja": "直視하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "직언",
+    "translation": "шударга үг",
+    "hanja": "直言",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직언하다",
+    "translation": "шууд хэлэх",
+    "hanja": "直言하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직업",
+    "translation": "мэргэжил, ажил",
+    "hanja": "職業",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "직업관",
+    "translation": "Мэргэжлийн үзэл",
+    "hanja": "職業觀",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "직업병",
+    "translation": "Мэргэжлийн өвчин",
+    "hanja": "職業病",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "직업소개소",
+    "translation": "ажлын байрны зуучлалын газар",
+    "hanja": "職業紹介所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직업인",
+    "translation": "мэргэжлийн хүн",
+    "hanja": "職業人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직업적",
+    "translation": "мэргэжлийн",
+    "hanja": "職業的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직역",
+    "translation": "шууд орчуулга",
+    "hanja": "直譯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직역하다",
+    "translation": "шууд орчуулах",
+    "hanja": "直譯하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직영",
+    "translation": "шууд удирдах",
+    "hanja": "直營",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직영하다",
+    "translation": "шууд ажиллуулах",
+    "hanja": "直營하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "직원",
+    "translation": "ажилтан",
+    "hanja": "職員",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "직위",
+    "translation": "албан тушаал",
+    "hanja": "職位",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직육면체",
+    "translation": "шулуун тэгш өнцөгт параллелпипед",
+    "hanja": "直六面體",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "직이다",
+    "translation": "ална, 죽이다-гийн аман хэллэг",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직인",
+    "translation": "тамга, тэмдэг",
+    "hanja": "職印",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직장",
+    "translation": "ажлын байр",
+    "hanja": "職場",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "직장인",
+    "translation": "Ажилтан",
+    "hanja": "職場人",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "직전",
+    "translation": "яг өмнө",
+    "hanja": "直前",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "직접",
+    "translation": "өөрийн биеэр",
+    "hanja": "直接",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직접세",
+    "translation": "шууд татвар",
+    "hanja": "直接稅",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "직접적",
+    "translation": "шууд",
+    "hanja": "直接的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "직제",
+    "translation": "байгууллагын бүтэц",
+    "hanja": "職制",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "직조",
+    "translation": "нэхмэл",
+    "hanja": "織造",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직조하다",
+    "translation": "Нэхэх",
+    "hanja": "織造하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직종",
+    "translation": "мэргэжил, ажил мэргэжлийн төрөл",
+    "hanja": "職種",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직주",
+    "translation": "Орон сууц болон ажил",
+    "hanja": "職住",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직지심체요절",
+    "translation": "Жикжишимчэёжол",
+    "hanja": "直指心體要節",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "직직",
+    "translation": "шуугиантай чимээ",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "직진",
+    "translation": "Шулуун явах",
+    "hanja": "直進",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "직진하다",
+    "translation": "Шууд явах",
+    "hanja": "直進하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "직책",
+    "translation": "албан тушаал, үүрэг",
+    "hanja": "職責",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직첩",
+    "translation": "Бичиг баримт",
+    "hanja": "職牒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "직통",
+    "translation": "Шууд",
+    "hanja": "直通",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직파",
+    "translation": "шууд тариалах",
+    "hanja": "直播",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "직판장",
+    "translation": "шууд худалдааны цэг",
+    "hanja": "直販場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직필",
+    "translation": "шууд бичих, үнэнээр бичих",
+    "hanja": "直筆",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "직하다",
+    "translation": "~шиг байх, ~мэт байх",
+    "hanja": "직하다",
+    "pos": "조동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직함",
+    "translation": "Албан тушаал, цол",
+    "hanja": "職銜",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직항",
+    "translation": "шууд нислэг",
+    "hanja": "直航",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직행",
+    "translation": "шууд явах",
+    "hanja": "直行",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "직행버스",
+    "translation": "шууд автобус",
+    "hanja": "直行버스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "직행하다",
+    "translation": "шууд явах",
+    "hanja": "直行하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "직화",
+    "translation": "Шууд гал",
+    "hanja": "直火",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "직후",
+    "translation": "Яг дараа нь",
+    "hanja": "直後",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

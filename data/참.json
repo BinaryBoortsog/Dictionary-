@@ -1,0 +1,653 @@
+[
+  {
+    "word": "참",
+    "translation": "Үнэхээр",
+    "hanja": "참",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "참가",
+    "translation": "оролцоо",
+    "hanja": "參加",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "참가국",
+    "translation": "оролцогч улс",
+    "hanja": "參加國",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "참가시키다",
+    "translation": "Оролцуулах",
+    "hanja": "參加시키다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "참가자",
+    "translation": "оролцогч",
+    "hanja": "參加者",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "참가하다",
+    "translation": "оролцох",
+    "hanja": "參加하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "참견",
+    "translation": "оролцох",
+    "hanja": "參見",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참견하다",
+    "translation": "оролцох, хошуу дүрэх",
+    "hanja": "參見-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참고",
+    "translation": "лавлах",
+    "hanja": "參考",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "참고되다",
+    "translation": "лавлах",
+    "hanja": "參考되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참고삼다",
+    "translation": "бэлэн жишээ болгох; лавлах",
+    "hanja": "參考삼다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "참고인",
+    "translation": "гэрч, мэдүүлэг өгөх хүн",
+    "hanja": "參考人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참고하다",
+    "translation": "Лавлах, иш татах",
+    "hanja": "參考하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "참관",
+    "translation": "оролцох",
+    "hanja": "參觀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "참관인",
+    "translation": "ажиглагч",
+    "hanja": "參觀人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참관하다",
+    "translation": "ажиглах",
+    "hanja": "參觀하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참극",
+    "translation": "эмгэнэлт явдал",
+    "hanja": "慘劇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참기름",
+    "translation": "гүнжидийн тос",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "참깨",
+    "translation": "гүнжидийн үр",
+    "hanja": "참깨",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "참나무",
+    "translation": "Царс мод",
+    "hanja": "참나무",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "참나물",
+    "translation": "Хүнсний ургамал (Chamnul)",
+    "hanja": "참나물",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "참내",
+    "translation": "өөх, ёстой",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참다",
+    "translation": "тэсвэрлэх",
+    "hanja": "참다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "참다못하다",
+    "translation": "тэсч чадахгүй байх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "참담하다",
+    "translation": "аймшигтай, өрөвдөлтэй",
+    "hanja": "慘憺하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "참답다",
+    "translation": "үнэнч, жинхэнэ, үнэн зөв",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참되다",
+    "translation": "үнэн, шударга",
+    "hanja": "참되다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참뜻",
+    "translation": "жинхэнэ утга",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "참람하다",
+    "translation": "аливаа хэмжээнээс хэтрэх",
+    "hanja": "僭濫하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참리",
+    "translation": "үнэн",
+    "hanja": "참리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참말",
+    "translation": "Үнэн үг",
+    "hanja": "慘말",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "참맛",
+    "translation": "жинхэнэ амт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참모",
+    "translation": "штабын гишүүн",
+    "hanja": "參謀",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "참모습",
+    "translation": "жинхэнэ дүр төрх",
+    "hanja": "참모습",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "참방",
+    "translation": "урсгал (мөрөн)",
+    "hanja": "참방",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "참방참방",
+    "translation": "шажиг шажиг (ус туулах чимээ)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참배",
+    "translation": "мөргөн очих",
+    "hanja": "參拜",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "참배하다",
+    "translation": "мөргөх, хүндэтгэл үзүүлэх",
+    "hanja": "參拜하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참변",
+    "translation": "аймшигт үйл явдал, хядлага",
+    "hanja": "慘變",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참봉",
+    "translation": "цамбуу",
+    "hanja": "參奉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "참빗",
+    "translation": "нарийн сам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "참사",
+    "translation": "гашуун явдал, эмгэнэлт явдал",
+    "hanja": "慘事",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참사랑",
+    "translation": "жинхэнэ хайр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "참살하다",
+    "translation": "хэрцгийгээр алах",
+    "hanja": "慘殺—",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "참상",
+    "translation": "аймшигт дүр зураг",
+    "hanja": "慘狀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참새",
+    "translation": "бор шувуу",
+    "hanja": "참새",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "참석",
+    "translation": "оролцох",
+    "hanja": "參席",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "참석시키다",
+    "translation": "оролцуулах, хамруулах",
+    "hanja": "參席시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참석자",
+    "translation": "оролцогч",
+    "hanja": "參席者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "참석하다",
+    "translation": "оролцох",
+    "hanja": "參席하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "참선",
+    "translation": "бясалгал хийх",
+    "hanja": "參禪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참선하다",
+    "translation": "Бясалгал хийх",
+    "hanja": "參禪하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참성단",
+    "translation": "Чамсондан",
+    "hanja": "塹星壇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참소",
+    "translation": "гүтгэлэг",
+    "hanja": "讒訴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참소하다",
+    "translation": "Гүтгэх",
+    "hanja": "讒訴하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참수",
+    "translation": "толгойгүй болгох, цавчих",
+    "hanja": "斬首",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참수되다",
+    "translation": "толгойг нь тасдах",
+    "hanja": "斬首되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참수하다",
+    "translation": "толгойг нь тасдах",
+    "hanja": "斬首하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참신성",
+    "translation": "шинэлэг байдал",
+    "hanja": "斬新性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참신하다",
+    "translation": "Шинэлэг",
+    "hanja": "斬新하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참어",
+    "translation": "Тэвчих, тэсвэрлэх",
+    "hanja": null,
+    "pos": "Verb (root)",
+    "cefr": "B1"
+  },
+  {
+    "word": "참여",
+    "translation": "оролцоо",
+    "hanja": "參與",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "참여시키다",
+    "translation": "оролцуулах",
+    "hanja": "參與시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "참여하다",
+    "translation": "оролцох, хувь нэмэр оруулах",
+    "hanja": "參與하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참외",
+    "translation": "амтат тарвас",
+    "hanja": "참외",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "참을성",
+    "translation": "тэсвэр тэвчээр",
+    "hanja": "參乙性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참의",
+    "translation": "зөвлөх",
+    "hanja": "參議",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참작",
+    "translation": "бодолцох",
+    "hanja": "參酌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참작되다",
+    "translation": "тооцогдох, харгалзагдах",
+    "hanja": "參酌되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참작하다",
+    "translation": "тооцох",
+    "hanja": "參酌하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참전",
+    "translation": "Дайнд оролцох",
+    "hanja": "參戰",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "참전국",
+    "translation": "дайн оролцогч улс",
+    "hanja": "參戰國",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "참전하다",
+    "translation": "Дайнд оролцох",
+    "hanja": "參戰하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참정권",
+    "translation": "сонгуулийн эрх",
+    "hanja": "參政權",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "참조",
+    "translation": "лавлах",
+    "hanja": "參照",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참주",
+    "translation": "дарангуйлагч",
+    "hanja": "僭主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참참",
+    "translation": "яг таг, яг цагтаа",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "참참참",
+    "translation": "үнэхээр үнэн",
+    "hanja": "참참참",
+    "pos": "interjection",
+    "cefr": "A2"
+  },
+  {
+    "word": "참척",
+    "translation": "аймшигтай гай",
+    "hanja": "慘慽",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "참치",
+    "translation": "Туна загас",
+    "hanja": "참치",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "참칭하다",
+    "translation": "хуурамчаар цоллох",
+    "hanja": "僭稱하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "참판",
+    "translation": "Чамын дарга",
+    "hanja": "參判",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "참패",
+    "translation": "бүрэн ялагдал, сүйрэл",
+    "hanja": "慘敗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "참패하다",
+    "translation": "хүнд ялагдах",
+    "hanja": "慘敗하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참하다",
+    "translation": "даруу",
+    "hanja": "참하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "참형",
+    "translation": "Цаазаар авах (толгойн албан ёсны таслалт)",
+    "hanja": "斬刑",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "참호",
+    "translation": "Шуудуу",
+    "hanja": "塹壕",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "참혹",
+    "translation": "аймшигтай, харгис",
+    "hanja": "慘酷",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "참혹하다",
+    "translation": "аймшигтай",
+    "hanja": "慘酷하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "참화",
+    "translation": "сүйрэл",
+    "hanja": "慘禍",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "참회",
+    "translation": "наманчлал",
+    "hanja": "懺悔",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "참회록",
+    "translation": "гэмшлийн өдрийн тэмдэглэл",
+    "hanja": "懺悔錄",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "참회하다",
+    "translation": "гэмших",
+    "hanja": "懺悔하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

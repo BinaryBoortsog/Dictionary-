@@ -1,0 +1,408 @@
+[
+  {
+    "word": "울",
+    "translation": "ноос",
+    "hanja": "wool",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "울고불고",
+    "translation": "Уйлаж орилоод",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "울고불고하다",
+    "translation": "уйлах, гашуудах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "울그다",
+    "translation": "мурийлгах, татах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "울긋불긋",
+    "translation": "олон өнгийн, өнгө алаг",
+    "hanja": "울긋불긋",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "울긋불긋하다",
+    "translation": "олон өнгийн",
+    "hanja": "",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "울다",
+    "translation": "уйлах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "울돌목",
+    "translation": "Ульдольмок (солонгосын газар зүйн нэр)",
+    "hanja": "울돌목",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "울란",
+    "translation": "Улаан (зарим үед Улан-Баатар гэж ойлгогдоно)",
+    "hanja": "울란",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "울란바토르",
+    "translation": "Улаанбаатар",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "울렁거리다",
+    "translation": "дотор муухайрах",
+    "hanja": null,
+    "pos": "үйл үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "울렁대다",
+    "translation": "дотор муухайрах, бөөлжис цутгах",
+    "hanja": "N/A",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "울렁울렁",
+    "translation": "дотор муухайрах",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "울렁울렁하다",
+    "translation": "ойр ойрхон дотор муухайрах",
+    "hanja": "울렁울렁하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "울렁이다",
+    "translation": "бөөлжис цутгах, дотор эвгүйрэх",
+    "hanja": "울렁이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "울렁증",
+    "translation": "дотор муухайрах",
+    "hanja": "울렁증",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "울루루",
+    "translation": "Улуру",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "울룩불룩",
+    "translation": "бөөн бөөн, товгор",
+    "hanja": "울룩불룩",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "울룩불룩하다",
+    "translation": "товойж, хонхойх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "울르다",
+    "translation": "Хүрээлэх",
+    "hanja": "울르다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "울릉",
+    "translation": "Уллын (газарзүйн нэр)",
+    "hanja": "鬱陵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "울릉도",
+    "translation": "Уллын арал",
+    "hanja": "鬱陵島",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "울리",
+    "translation": "цуурайтах, хангинах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "울리다",
+    "translation": "дуугаргах, уйлуулах",
+    "hanja": "울리다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "울림",
+    "translation": "Цагаан эхо",
+    "hanja": "울림",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "울먹거리다",
+    "translation": "Уйлах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "울먹울먹하다",
+    "translation": "уйлах гэж байх",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "울먹이다",
+    "translation": "уйлах шахах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "울먹하다",
+    "translation": "уйлах гэж байх",
+    "hanja": "울먹하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "울며불며",
+    "translation": "уйлан дуулан",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "울보",
+    "translation": "Уйланхай",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "울부짖다",
+    "translation": "улиглах, хашхирах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "울분",
+    "translation": "Уур хилэн",
+    "hanja": "鬱憤",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "울산",
+    "translation": "Улсан",
+    "hanja": "蔚山",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "울상",
+    "translation": "Уйлах гэж буй царай",
+    "hanja": "울상",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "울스턴크래프트",
+    "translation": "Уолстонкрафт (Хүний нэр)",
+    "hanja": "울스턴크래프트",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "울음",
+    "translation": "Уйлах",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "울음바다",
+    "translation": "уйлах тэнгис",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "울음보",
+    "translation": "Уйланхай",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "울음소리",
+    "translation": "уйлах дуу",
+    "hanja": "울음소리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "울적",
+    "translation": "Гунигтай, сэтгэлээр унасан",
+    "hanja": "鬱積",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "울적하다",
+    "translation": "гунигтай",
+    "hanja": "鬱積하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "울주",
+    "translation": "Улжу",
+    "hanja": "蔚州",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "울증",
+    "translation": "сэтгэл гутрал",
+    "hanja": "鬱症",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "울진",
+    "translation": "Улжин",
+    "hanja": "蔚珍",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "울창하다",
+    "translation": "Шигүү, өтгөн",
+    "hanja": "鬱蒼하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "울컥",
+    "translation": "гэнэт уурлах, нулимс цийлэгнэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "울컥울컥",
+    "translation": "бөнжгөнөн, бөөн бөөнөөр",
+    "hanja": "울컥울컥",
+    "pos": "부",
+    "cefr": "B2"
+  },
+  {
+    "word": "울컥울컥하다",
+    "translation": "Огиулах, бачимдах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "울타리",
+    "translation": "хашаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "울퉁불퉁",
+    "translation": "бөөн бөөн",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "울퉁불퉁하다",
+    "translation": "овойх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "울트라",
+    "translation": "хэт",
+    "hanja": "ultra",
+    "pos": "접두사",
+    "cefr": "B1"
+  },
+  {
+    "word": "울프",
+    "translation": "чоно",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "울혈",
+    "translation": "цус хурах",
+    "hanja": "鬱血",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "울화",
+    "translation": "уур хилэн, гомдол",
+    "hanja": "鬱火",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "울화병",
+    "translation": "уурлах өвчин, депресс",
+    "hanja": "鬱火病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "울화통",
+    "translation": "Бухимдал",
+    "hanja": "鬱火통",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

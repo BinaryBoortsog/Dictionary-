@@ -1,0 +1,1150 @@
+[
+  {
+    "word": "물",
+    "translation": "ус",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "물가",
+    "translation": "Үнийн түвшин",
+    "hanja": "物價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물갈이",
+    "translation": "усны солилгоо, цэвэрлэгээ",
+    "hanja": "물갈이",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "물갈이하다",
+    "translation": "ус солих",
+    "hanja": "물갈이하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "물갈퀴",
+    "translation": "сэлүүр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물감",
+    "translation": "Будаг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물개",
+    "translation": "Далайн хав",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물거품",
+    "translation": "усанд гарсан хөөс",
+    "hanja": "물거품",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물거품되다",
+    "translation": "усны хөөс болох",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "물건",
+    "translation": "эд зүйл",
+    "hanja": "物件",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "물결",
+    "translation": "долгион",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "물결무늬",
+    "translation": "долгион хээ, усны хээ",
+    "hanja": "물결무늬",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물결치다",
+    "translation": "долгиолох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물고기",
+    "translation": "загас",
+    "hanja": "물고기",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "물고문",
+    "translation": "усан тамлал",
+    "hanja": "물拷問",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물곰",
+    "translation": "далайн баавгай, устай баавгай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물공",
+    "translation": "усан бөмбөг",
+    "hanja": "물공",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물괴",
+    "translation": "Усны мангас",
+    "hanja": "物괴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물구나무",
+    "translation": "толгойгоороо зогсох",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "물구슬",
+    "translation": "усан бөмбөлөг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물기둥",
+    "translation": "усан багана",
+    "hanja": "물기둥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물길",
+    "translation": "усан зам",
+    "hanja": "물길",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물김치",
+    "translation": "Усан кимчи",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물까마귀",
+    "translation": "усан хэрээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물꼬",
+    "translation": "урсгал",
+    "hanja": "물꼬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물꽂이",
+    "translation": "Усанд тарьсан эш",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "물꾸럭",
+    "translation": "гал тогооны ус зайлуулах суваг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "물끄러미",
+    "translation": "ширтэн, гөлрөн",
+    "hanja": "물끄러미",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물난리",
+    "translation": "үр дүн",
+    "hanja": "물난리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물납",
+    "translation": "эд зүйлээр төлөх",
+    "hanja": "物納",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "물냉",
+    "translation": "хүйтэн усны хөлдөөсөн гоймон",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "물놀이",
+    "translation": "усанд сэлэх",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물놀이하다",
+    "translation": "Усанд тоглох",
+    "hanja": "물놀이하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물다",
+    "translation": "Хазах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물독",
+    "translation": "усны сав",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "물동량",
+    "translation": "ачаа эргэлт, барааны урсгал",
+    "hanja": "物動量",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물동이",
+    "translation": "усны сав",
+    "hanja": "물동이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물들다",
+    "translation": "будагдах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물들이다",
+    "translation": "будах, өнгө оруулах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물때",
+    "translation": "долгионы үе",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물떼새",
+    "translation": "усны бударгана (шувуу)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물량",
+    "translation": "Бараа материал, хэмжээ",
+    "hanja": "物量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물러나다",
+    "translation": "ухрах",
+    "hanja": "물러나다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "물러서다",
+    "translation": "ухрах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물러앉다",
+    "translation": "ухрах, байрнаасаа ухрах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물렁거리다",
+    "translation": "зөөлөн, уян",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물렁물렁",
+    "translation": "зөөлөн",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "물렁물렁하다",
+    "translation": "зөөлөн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물렁뼈",
+    "translation": "мөгөөрсөн эд",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물렁이",
+    "translation": "зөөлөн, хөнгөн хийцтэй хүн",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "물렁하다",
+    "translation": "зөөлөн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물레",
+    "translation": "Ээрүүл",
+    "hanja": "물레",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물레방아",
+    "translation": "усаар эргэх тээрэм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물레방앗간",
+    "translation": "усны тээрэм",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "물려받다",
+    "translation": "Өвлөн авах",
+    "hanja": "물려받다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물론",
+    "translation": "мэдээж",
+    "hanja": "勿論",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물류",
+    "translation": "логистик",
+    "hanja": "物流",
+    "pos": "м.н",
+    "cefr": "B2"
+  },
+  {
+    "word": "물르다",
+    "translation": "Буцах, ухрах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "물리",
+    "translation": "физик",
+    "hanja": "物理",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물리다",
+    "translation": "хазуулах, хазах",
+    "hanja": "물리다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물리력",
+    "translation": "хүч хэрэглэх",
+    "hanja": "物理力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물리적",
+    "translation": "физикийн",
+    "hanja": "物理的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물리치다",
+    "translation": "ялах",
+    "hanja": "물리치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물리학",
+    "translation": "физик",
+    "hanja": "物理學",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물리학자",
+    "translation": "физикч",
+    "hanja": "物理學者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물막이판",
+    "translation": "ус халхавч самбар",
+    "hanja": "물막이판",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물만두",
+    "translation": "усан банш",
+    "hanja": "물饅頭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물망",
+    "translation": "алдрын цуурай, дурсгал",
+    "hanja": "物望",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "물매",
+    "translation": "Налуу, хэвгий",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물맷돌",
+    "translation": "чавхны чулуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물먹다",
+    "translation": "Ус уух",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "물먹이다",
+    "translation": "ундлах, хорлох",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물메기탕",
+    "translation": "Мульдегитан (загасны шөл)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물목",
+    "translation": "гол",
+    "hanja": "물목",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물미역",
+    "translation": "Усны замг",
+    "hanja": "물미역",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물밀다",
+    "translation": "Ус түрж ирэх",
+    "hanja": "물密다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물밑",
+    "translation": "усны доорх",
+    "hanja": "물밑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물바가지",
+    "translation": "Усны хувин",
+    "hanja": "물바가지",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물바다",
+    "translation": "үерийн ус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물받이",
+    "translation": "ус хураагуур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물방앗간",
+    "translation": "усан тээрэм",
+    "hanja": "물방앗間",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물방울",
+    "translation": "Усны дусал",
+    "hanja": "물방울",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물배",
+    "translation": "усны ходоод (ус ууснаас болж цадав)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "물병",
+    "translation": "усны сав",
+    "hanja": "물병",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "물보라",
+    "translation": "Усны бууралт",
+    "hanja": "물보라",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물부리",
+    "translation": "Усан үзэм",
+    "hanja": "물부리",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "물불",
+    "translation": "ус гал",
+    "hanja": "물불",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물비누",
+    "translation": "шингэн саван",
+    "hanja": "물비누",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물비린내",
+    "translation": "загасны үнэр",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "물빛",
+    "translation": "усны өнгө",
+    "hanja": "물빛",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물뿌리개",
+    "translation": "Усалгаа",
+    "hanja": "물뿌리개",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "물사마귀",
+    "translation": "усны үү",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물산",
+    "translation": "бүтээгдэхүүн, бараа",
+    "hanja": "物産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물살",
+    "translation": "усны урсгал",
+    "hanja": "물살",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물색",
+    "translation": "хайх",
+    "hanja": "物色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물색없다",
+    "translation": "учир утгагүй, зохисгүй",
+    "hanja": "物色없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물색없이",
+    "translation": "ухаангүй",
+    "hanja": null,
+    "pos": "Adv",
+    "cefr": "B2"
+  },
+  {
+    "word": "물색하다",
+    "translation": "хайх, олох",
+    "hanja": "物色하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물성",
+    "translation": "материаллаг шинж чанар",
+    "hanja": "物性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물세탁",
+    "translation": "Усаар угаах",
+    "hanja": "물洗滌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물세탁하다",
+    "translation": "усаар угаах",
+    "hanja": "물洗濯하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물소",
+    "translation": "усны үхэр",
+    "hanja": "물牛",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물소리",
+    "translation": "усны чимээ",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물소하다",
+    "translation": "ус үерлэх",
+    "hanja": "勿笑하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "물속",
+    "translation": "Усны дотор",
+    "hanja": "물속",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물수제비",
+    "translation": "чулуу шидэх",
+    "hanja": "물수제비",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물시계",
+    "translation": "усны цаг",
+    "hanja": "물時計",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물심양면",
+    "translation": "Материаллаг болон сэтгэл санааны хоёр талаар",
+    "hanja": "物心兩面",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물싸다",
+    "translation": "угаах, ороох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물싸움",
+    "translation": "усан тэмцэл, усан байлдаан",
+    "hanja": "물싸움",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물아",
+    "translation": "би ба бус",
+    "hanja": "物我",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "물아일체",
+    "translation": "байгаль хүн хоёр нэг",
+    "hanja": "物我一體",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "물안개",
+    "translation": "усан манан",
+    "hanja": "물안개",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "물안경",
+    "translation": "усны шил",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물약",
+    "translation": "шингэн эм",
+    "hanja": "물藥",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "물어내다",
+    "translation": "төлөх, нөхөх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물어뜯기다",
+    "translation": "хазуулах",
+    "hanja": "물어뜯기다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "물어뜯다",
+    "translation": "хазаж урж тасдах",
+    "hanja": "물어뜯다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "물어물어",
+    "translation": "Асууж асууж, олж мэдэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물욕",
+    "translation": "эдийн засгийн шунал",
+    "hanja": "物慾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물웅덩이",
+    "translation": "усны тогтоол",
+    "hanja": "물웅덩이",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "물음",
+    "translation": "асуулт",
+    "hanja": "물음",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "물음표",
+    "translation": "асуултын тэмдэг",
+    "hanja": "물음표",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "물의",
+    "translation": "хэрүүл маргаан",
+    "hanja": "物議",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "물이",
+    "translation": "усны",
+    "hanja": "물이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "물이다",
+    "translation": "усны",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "물자",
+    "translation": "материал, хэрэглэгдэхүүн",
+    "hanja": "物資",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물장구",
+    "translation": "ус цацах",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "물장구치다",
+    "translation": "усан дотор хөлөө цавчих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물장난",
+    "translation": "Усанд тоглох",
+    "hanja": "물장난",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물장사",
+    "translation": "ундны бизнес",
+    "hanja": "물장사",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물적",
+    "translation": "материаллаг",
+    "hanja": "物的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물정",
+    "translation": "нөхцөл байдал",
+    "hanja": "物情",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "물주",
+    "translation": "голлон хөрөнгө оруулсан хүн",
+    "hanja": "物主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물주머니",
+    "translation": "усны уут",
+    "hanja": "물주머니",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물줄기",
+    "translation": "Урсгал",
+    "hanja": "물줄기",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "물증",
+    "translation": "материаллаг баримт",
+    "hanja": "物證",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "물질",
+    "translation": "Бодис",
+    "hanja": "物質",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "물질문명",
+    "translation": "материаллаг соёл",
+    "hanja": "物質文明",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물질적",
+    "translation": "Материаллаг",
+    "hanja": "物質的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물질주의",
+    "translation": "материализм (Философи)",
+    "hanja": "物質主義",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "물질하다",
+    "translation": "Усанд шумбах (загасны)",
+    "hanja": "物質하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "물집",
+    "translation": "Цэврүү",
+    "hanja": "물집",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "물청소하다",
+    "translation": "устай цэвэрлэх",
+    "hanja": "물清掃하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "물체",
+    "translation": "Биет",
+    "hanja": "物體",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물총",
+    "translation": "усан буу",
+    "hanja": "물銃",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "물치",
+    "translation": "усан гахай",
+    "hanja": "물치",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물컵",
+    "translation": "усны аяга",
+    "hanja": "물cup",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "물컹거리다",
+    "translation": "зөөлөн байх",
+    "hanja": "물컹거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물컹물컹",
+    "translation": "зөөлөн, уян",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물컹물컹하다",
+    "translation": "зөөлөн, уян хатан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물컹하다",
+    "translation": "Зөөлөн",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "물크림",
+    "translation": "усны тос",
+    "hanja": "null",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "물타기하다",
+    "translation": "уусгах, сулруулах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물탄",
+    "translation": "устай хольсон",
+    "hanja": "물탄",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "물탱크",
+    "translation": "Усны сав",
+    "hanja": "물tank",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물통",
+    "translation": "усны сав",
+    "hanja": "물桶",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물티슈",
+    "translation": "Нойтон салфетка",
+    "hanja": "물티슈",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물파리",
+    "translation": "усан ялаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물파스",
+    "translation": "шингэн пасса (шавьжны хазуулалтын эсрэг)",
+    "hanja": "물파스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "물풀",
+    "translation": "усанд ургадаг ургамал",
+    "hanja": null,
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "물품",
+    "translation": "бараа бүтээгдэхүүн",
+    "hanja": "物品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "물피",
+    "translation": "хор хөнөөл",
+    "hanja": "物弊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "물휴지",
+    "translation": "нойтон салфетка",
+    "hanja": "물휴지",
+    "pos": "명사",
+    "cefr": "A1"
+  }
+]

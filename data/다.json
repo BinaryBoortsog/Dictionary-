@@ -1,0 +1,2186 @@
+[
+  {
+    "word": "다",
+    "translation": "бүгд",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A1"
+  },
+  {
+    "word": "다가",
+    "translation": "Үүнээс гадна",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다가닥",
+    "translation": "таг-таг (дуу)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다가들다",
+    "translation": "ойртох; дөтлөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다가붙다",
+    "translation": "ойртох, хажууд очих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다가서다",
+    "translation": "ойртох, дөхөх",
+    "hanja": "다가서다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다가앉다",
+    "translation": "ойртож суух",
+    "hanja": "다가앉다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다각",
+    "translation": "олон өнцөгт",
+    "hanja": "多角",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다각도",
+    "translation": "олон өнцгөөс",
+    "hanja": "多角度",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "다각적",
+    "translation": "олон талын",
+    "hanja": "多角的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다각형",
+    "translation": "олон өнцөгт",
+    "hanja": "多角形",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "다각화",
+    "translation": "олон талт байдал, төрөлжилт",
+    "hanja": "多角化",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "다각화하다",
+    "translation": "олон талтай болгох",
+    "hanja": "多角化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다갈색",
+    "translation": "бор шаргал",
+    "hanja": "茶褐色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다감하다",
+    "translation": "Сэтгэл хөдлөм, уян",
+    "hanja": "多感-",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다거",
+    "translation": "олон амьдарсан",
+    "hanja": "多居",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다게",
+    "translation": "бүх зүйл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다게스탄",
+    "translation": "Дагестан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다과",
+    "translation": "цайны зууш",
+    "hanja": "茶菓",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "다관",
+    "translation": "олон сувгийн",
+    "hanja": "多官",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다구",
+    "translation": "цайны аяга",
+    "hanja": "茶具",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다구리",
+    "translation": "хэсгээр зодох",
+    "hanja": "다구리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다국어",
+    "translation": "олон хэл",
+    "hanja": "多國語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다국적",
+    "translation": "олон улсын",
+    "hanja": "多國籍",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다굴",
+    "translation": "Олноороо довтлох",
+    "hanja": "다굴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다그다",
+    "translation": "шаардах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다그치다",
+    "translation": "шалгах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다극",
+    "translation": "олон туйлтай",
+    "hanja": "多極",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다극화",
+    "translation": "Олон туйлт болох",
+    "hanja": "多極化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다급",
+    "translation": "яаралтай, тулгамдсан",
+    "hanja": "多急",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "다급하다",
+    "translation": "яаралтай, тулгамдсан",
+    "hanja": "多急하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다급히",
+    "translation": "яаралтай",
+    "hanja": "多急히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다꾸",
+    "translation": "ширээ чимэглэл",
+    "hanja": "다꾸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다끄다",
+    "translation": "бүх зүйлийг унтраах",
+    "hanja": "다 끄다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "다나까",
+    "translation": "Танака",
+    "hanja": "田中",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다나스",
+    "translation": "данас",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다낭",
+    "translation": "Дананг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다년",
+    "translation": "олон жил",
+    "hanja": "多年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다년간",
+    "translation": "олон жил",
+    "hanja": "多年間",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "다년생",
+    "translation": "олон наст",
+    "hanja": "多年生",
+    "pos": "名词",
+    "cefr": "B2"
+  },
+  {
+    "word": "다뉴브강",
+    "translation": "Дунай мөрөн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다뉴세문경",
+    "translation": "олон зураастай хүрэл толь",
+    "hanja": "多뉴細紋鏡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다니",
+    "translation": "даний (нэр)",
+    "hanja": "다니",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다니다",
+    "translation": "явж ирэх, сургуульд явах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다니엘",
+    "translation": "Даниэл (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다다",
+    "translation": "хүрэх, орох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다다닥",
+    "translation": "чангинах",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다다르다",
+    "translation": "хүрэх",
+    "hanja": "다다르다",
+    "pos": "VERB",
+    "cefr": "B2"
+  },
+  {
+    "word": "다다미",
+    "translation": "татами",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다다미방",
+    "translation": "татами өрөө",
+    "hanja": "疊―房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다다이즘",
+    "translation": "дадаизм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다다익선",
+    "translation": "их байх тусам сайн",
+    "hanja": "多多益善",
+    "pos": "사자성어",
+    "cefr": "C2"
+  },
+  {
+    "word": "다닥다닥",
+    "translation": "нягт",
+    "hanja": "다닥다닥",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다단계",
+    "translation": "олон шатлалт",
+    "hanja": "多段階",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다닫다",
+    "translation": "оцойх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다대",
+    "translation": "Олон толгой, олон талын",
+    "hanja": "多大",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다대일",
+    "translation": "олон-нэг",
+    "hanja": "多對一",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다대포",
+    "translation": "дадэпо",
+    "hanja": "多大浦",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다데기",
+    "translation": "халуун ногоотой амтлагч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다도",
+    "translation": "цайны ёслол",
+    "hanja": "茶道",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다도해",
+    "translation": "Олон аралтай тэнгис",
+    "hanja": "多島海",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "다독",
+    "translation": "олон унших, их унших",
+    "hanja": "多讀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다독거리다",
+    "translation": "Тайтгаруулах, аргадах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다독다독",
+    "translation": "Зөөлөн тогших",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다독이다",
+    "translation": "тайвшруулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다독하다",
+    "translation": "олон унших, маш их унших",
+    "hanja": "多讀하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다되다",
+    "translation": "Дуусах, болох, бүхэлдээ",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다듬다",
+    "translation": "засах, янзлах",
+    "hanja": "다듬다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "다듬이",
+    "translation": "нүдүүр",
+    "hanja": "다듬이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다라",
+    "translation": "Дара (Бурханы нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다라이",
+    "translation": "хувин (япон үгнээс гаралтай)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다락",
+    "translation": "дээврийн өрөө",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다락방",
+    "translation": "дээврийн өрөө",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다람",
+    "translation": "Дарам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다람쥐",
+    "translation": "хэрэм",
+    "hanja": "다람쥐",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다랑쉬오름",
+    "translation": "Дарангши Орым (газарзүйн нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "다랑어",
+    "translation": "тунна загас",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "다래",
+    "translation": "киви жимс",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다래끼",
+    "translation": "арвай (нүдний өвчин)",
+    "hanja": "다래끼",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다랭이",
+    "translation": "тариалангийн талбай",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다량",
+    "translation": "Их хэмжээ, олон тоо",
+    "hanja": "多量",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다례",
+    "translation": "Цайны ёслол",
+    "hanja": "茶禮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다롄",
+    "translation": "Далянь",
+    "hanja": "大連",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다로",
+    "translation": "дарo (нэр төрөл)",
+    "hanja": "--",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "다루",
+    "translation": "Дару",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다루다",
+    "translation": "харьцах",
+    "hanja": "다루다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다르다",
+    "translation": "өөр, ялгаатай",
+    "hanja": "다르다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다르에스살람",
+    "translation": "Дар-эс-Салам",
+    "hanja": "다르에스살람",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다르파",
+    "translation": "ДАРПА",
+    "hanja": "다르파",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다른",
+    "translation": "Өөр, бусад",
+    "hanja": "다른",
+    "pos": "관형사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다름",
+    "translation": "ялгаатай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다름없다",
+    "translation": "ялгаагүй",
+    "hanja": "None",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "다름없이",
+    "translation": "ялгаагүй",
+    "hanja": "다름없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다리",
+    "translation": "хөл, гүүр",
+    "hanja": "다리",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다리다",
+    "translation": "индүүдэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다리미",
+    "translation": "инженерийн түүх",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다리미질",
+    "translation": "инженедэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다리미판",
+    "translation": "инженерийн самбар",
+    "hanja": "다리미板",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다리뼈",
+    "translation": "хөлний яс",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "다리오",
+    "translation": "Дарий",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다리품",
+    "translation": "хүчин чармайлт",
+    "hanja": "다리품",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다린",
+    "translation": "Дарин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "다림",
+    "translation": "инженерийн зураг",
+    "hanja": "다림",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다림질",
+    "translation": "Индүүдэх",
+    "hanja": "다림질",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다림질하다",
+    "translation": "инээлгэх",
+    "hanja": "다림질하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다마",
+    "translation": "бөмбөг, эрдэнэ шиш",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "다마스쿠스",
+    "translation": "Дамаск",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다말",
+    "translation": "Тамар (хүний нэр)",
+    "hanja": "다말",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다망하다",
+    "translation": "завгүй байх, ажил ихтэй байх",
+    "hanja": "多忙하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "다메섹",
+    "translation": "Дамаск",
+    "hanja": null,
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "다면",
+    "translation": "олон талт",
+    "hanja": "多面",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다면적",
+    "translation": "олон талын",
+    "hanja": "多面的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다면체",
+    "translation": "олон талт биет",
+    "hanja": "多面體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다모",
+    "translation": "тахиа (эмэгтэй ажилтан)",
+    "hanja": "茶母",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다목적",
+    "translation": "олон зорилготой",
+    "hanja": "多目的",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다문",
+    "translation": "олон асуулт",
+    "hanja": "多問",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다문화",
+    "translation": "олон соёлт",
+    "hanja": "多文化",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다물다",
+    "translation": "хаах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다물리다",
+    "translation": "хаах",
+    "hanja": "다물리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다미앵",
+    "translation": "Дамиен",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다민족",
+    "translation": "олон үндэстэн",
+    "hanja": "多民族",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다반사",
+    "translation": "ердийн зүйл, энгийн явдал",
+    "hanja": "茶飯事",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "다발",
+    "translation": "баглаа, боодол",
+    "hanja": "다발",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다발성",
+    "translation": "Олон давтамжтай, олон тооны",
+    "hanja": "多發性",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "다방",
+    "translation": "цайны газар",
+    "hanja": "茶房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다방구",
+    "translation": "тоглоом (баг зугтах)",
+    "hanja": "多方球",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다방면",
+    "translation": "олон талын",
+    "hanja": "多方面",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다변화",
+    "translation": "олон талт байдал",
+    "hanja": "다변화(多邊化)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다변화되다",
+    "translation": "олон талтай болох, олон янз болох",
+    "hanja": "多變化되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "다변화하다",
+    "translation": "Олон талтай болгох",
+    "hanja": "多邊化하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "다보",
+    "translation": "хувцасны шүүгээ",
+    "hanja": "多寶",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "다보스",
+    "translation": "Давос",
+    "hanja": "―",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다보탑",
+    "translation": "Даботаб (сүмийн нэр)",
+    "hanja": "多寶塔",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다복하다",
+    "translation": "маш их аз жаргалтай",
+    "hanja": "多福하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다부",
+    "translation": "эртний цагт",
+    "hanja": "多富",
+    "pos": "옛말",
+    "cefr": "C2"
+  },
+  {
+    "word": "다부지다",
+    "translation": "бат бөх, чанга",
+    "hanja": "다부지다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "다분하다",
+    "translation": "ихэнх, их",
+    "hanja": "多扮-",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "다분히",
+    "translation": "ихэнхдээ",
+    "hanja": "多分히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다브다",
+    "translation": "зузаан",
+    "hanja": "다브다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "다블뤼",
+    "translation": "Даблью",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다비",
+    "translation": "Даби",
+    "hanja": "荼毘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다비드",
+    "translation": "Давид",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다비하다",
+    "translation": "Чадалж оршуулах",
+    "hanja": "荼毘하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다빈치",
+    "translation": "Леонардо да Винчи",
+    "hanja": "다빈치",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "다사",
+    "translation": "олон ажилтай",
+    "hanja": "多事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다사다난",
+    "translation": "олон үйл явдалтай",
+    "hanja": "多事多難",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다사다난하다",
+    "translation": "олон үйл явдалтай, хүнд хэцүү",
+    "hanja": "多事多難하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다산",
+    "translation": "хүүхэд олон төрөх, үржил шимтэй",
+    "hanja": "多産",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다상",
+    "translation": "олон дүр төрх",
+    "hanja": "多像",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "다선",
+    "translation": "олон удаа сонгогдсон",
+    "hanja": "多選",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다섯",
+    "translation": "тав",
+    "hanja": "다섯",
+    "pos": "수사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다세포",
+    "translation": "олон эст",
+    "hanja": "多細胞",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "다소",
+    "translation": "бага зэрэг",
+    "hanja": "多少",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다소간",
+    "translation": "Бага зэрэг, тодорхой хэмжээгээр",
+    "hanja": "多小間",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다소곳이",
+    "translation": "даруухан",
+    "hanja": "---",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다소곳하다",
+    "translation": "даруухан, дөлгөөн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다수",
+    "translation": "олонхи",
+    "hanja": "多數",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "다수결",
+    "translation": "олонхын санал",
+    "hanja": "多數決",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "다수당",
+    "translation": "олонхийн нам",
+    "hanja": "多數黨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다수파",
+    "translation": "олонхийн нам",
+    "hanja": "多數派",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "다스",
+    "translation": "Арван хоёр (Даз)",
+    "hanja": "다스",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다스리다",
+    "translation": "захирах, удирдах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다슬다",
+    "translation": "тоолох",
+    "hanja": "다슬다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다습하다",
+    "translation": "чийглэг",
+    "hanja": "多濕하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "다승",
+    "translation": "олон удаагийн ялалт",
+    "hanja": "多勝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다시",
+    "translation": "дахин",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "다시금",
+    "translation": "Дахин, дахиад",
+    "hanja": "다시금",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다시다",
+    "translation": "амт оруулах",
+    "hanja": "다시다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "다시마",
+    "translation": "далайн байцаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다시없다",
+    "translation": "давтагдашгүй, хосгүй",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "다식",
+    "translation": "Цайны дагалдах амттан",
+    "hanja": "茶食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다신교",
+    "translation": "олон бурхант шашин",
+    "hanja": "多神敎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다실",
+    "translation": "цайны өрөө",
+    "hanja": "茶室",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다싱",
+    "translation": "Дашин",
+    "hanja": "大興",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다써",
+    "translation": "бүгдийг ашиглах",
+    "hanja": "다써",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다씨",
+    "translation": "Да овогтой",
+    "hanja": "多氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다야",
+    "translation": "алмаз",
+    "hanja": "多夜",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다양",
+    "translation": "олон талын",
+    "hanja": "多樣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다양성",
+    "translation": "Олон янз байдал",
+    "hanja": "多樣性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다양하다",
+    "translation": "Олон янзын",
+    "hanja": "多樣하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "다양화",
+    "translation": "олон талт байдал",
+    "hanja": "多樣化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다양화되다",
+    "translation": "Олон янз болох",
+    "hanja": "多樣化되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다양화하다",
+    "translation": "олон талтай болгох, төрөлжүүлэх",
+    "hanja": "多樣化하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "다언",
+    "translation": "олон үг",
+    "hanja": "多言",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다역",
+    "translation": "олон үүрэгтэй",
+    "hanja": "多役",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "다용도",
+    "translation": "олон зориулалттай",
+    "hanja": "多用途",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다용도실",
+    "translation": "олон зориулалттай өрөө",
+    "hanja": "多用途室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다우",
+    "translation": "Дау (хүний нэр)",
+    "hanja": "다우",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다우너",
+    "translation": "Тайвшруулагч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다우저",
+    "translation": "усны эрэгч",
+    "hanja": "dowser",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다우징",
+    "translation": "усанд живүүлэх",
+    "hanja": "다우징",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다운",
+    "translation": "татаж авах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다운그레이드",
+    "translation": "доошлуулах, зэрэглэл бууруулах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다운되다",
+    "translation": "унтрах, доошлох",
+    "hanja": "다운되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다운로더",
+    "translation": "татагч",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다운로드",
+    "translation": "татаж авах",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "다운로드하다",
+    "translation": "Татах",
+    "hanja": "Download하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "다운사이징",
+    "translation": "хэмжээг багасгах",
+    "hanja": "다운사이징",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "다운타운",
+    "translation": "хотын төв",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "다운하다",
+    "translation": "Татах",
+    "hanja": "download하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다원화",
+    "translation": "олон талтай болгох",
+    "hanja": "多元化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다원화되다",
+    "translation": "Олон талтай болох, олон янз байдалтай болох",
+    "hanja": "多元化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다윈",
+    "translation": "Дарвин",
+    "hanja": "Darwin",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "다윗",
+    "translation": "Давид",
+    "hanja": "다윗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다육",
+    "translation": "олон махлаг",
+    "hanja": "多肉",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다으다",
+    "translation": "Хүрэх",
+    "hanja": "닿으다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다음",
+    "translation": "дараагийн",
+    "hanja": "다음",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "다음가다",
+    "translation": "дараа орох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다음날",
+    "translation": "дараагийн өдөр",
+    "hanja": "다음날",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "다음다음",
+    "translation": "дараагийн дараагийн",
+    "hanja": "다음다음",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다이",
+    "translation": "Үхэх (үг)",
+    "hanja": "다이",
+    "pos": "Verb (English loan)",
+    "cefr": "A1"
+  },
+  {
+    "word": "다이나믹스",
+    "translation": "динамик",
+    "hanja": "다이나믹스",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "다이나믹하다",
+    "translation": "динамик, эрч хүчтэй",
+    "hanja": "dynamic하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다이내믹",
+    "translation": "динамик",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다이내믹스",
+    "translation": "динамик",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "다이내믹하다",
+    "translation": "динамик, эрч хүчтэй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다이너마이트",
+    "translation": "динамит",
+    "hanja": "dynamite",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다이다",
+    "translation": "Тулах, хүрэх",
+    "hanja": "다이다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다이달로스",
+    "translation": "Дайдалус",
+    "hanja": "다이달로스",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "다이도",
+    "translation": "дайдо (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "다이렉트",
+    "translation": "шууд",
+    "hanja": "다이렉트",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다이몬",
+    "translation": "Даймон (домогт амьтан)",
+    "hanja": "daemon",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "다이묘",
+    "translation": "Даймё",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다이버",
+    "translation": "Шумбагч",
+    "hanja": "diver",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다이빙",
+    "translation": "Шумбах",
+    "hanja": "다이빙",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "다이빙대",
+    "translation": "шумбах тавцан",
+    "hanja": "다이빙臺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다이빙하다",
+    "translation": "шумбах",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "다이쇼",
+    "translation": "Тайшо (Японы үе)",
+    "hanja": "大正",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다이스",
+    "translation": "Шоо (dice)",
+    "hanja": "Dice",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다이시",
+    "translation": "Даиши",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다이아",
+    "translation": "Алмаз",
+    "hanja": "다이아",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "다이아나",
+    "translation": "Диана",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다이아몬드",
+    "translation": "алмаз",
+    "hanja": "diamond",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "다이애나",
+    "translation": "Дайана",
+    "hanja": "다이애나",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "다이어그램",
+    "translation": "диаграм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다이어리",
+    "translation": "Өдрийн тэмдэглэл",
+    "hanja": "diary",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다이어트",
+    "translation": "Хоолны дэглэм",
+    "hanja": "다이어트",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다이어트하다",
+    "translation": "хоолны дэглэм барих",
+    "hanja": "diet하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다이어프램",
+    "translation": "диафрагм",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다이얼",
+    "translation": "залгах, дугаарын самбар",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다이얼로그",
+    "translation": "яриа, харилцан яриа",
+    "hanja": "다이얼로그",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다이오드",
+    "translation": "Диод",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "다이옥신",
+    "translation": "диоксин",
+    "hanja": "null",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "다이제스트",
+    "translation": "боловсруулах",
+    "hanja": "digest",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다이크",
+    "translation": "далан",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "다이키",
+    "translation": "Дайки (японы нэр)",
+    "hanja": "다이키",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다이하다",
+    "translation": "амь насаа алдах",
+    "hanja": "다이하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다일",
+    "translation": "Дейл (хүний нэр)",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "다임러",
+    "translation": "Даймлер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다자",
+    "translation": "олон талын",
+    "hanja": "多者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다작",
+    "translation": "олон бүтээл туурвих",
+    "hanja": "多作",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다작하다",
+    "translation": "олон бүтээл хийх",
+    "hanja": "多作하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다잡다",
+    "translation": "сайн барих",
+    "hanja": "다잡다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다재",
+    "translation": "олон авьяас",
+    "hanja": "多才",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다재다능",
+    "translation": "олон талын авьяастай",
+    "hanja": "多才多能",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다재다능하다",
+    "translation": "олон чадвартай",
+    "hanja": "多才多能하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다저",
+    "translation": "Дажер (бейсболын баг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다정",
+    "translation": "энхрий, эелдэг",
+    "hanja": "多情",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "다정다감",
+    "translation": "Эелдэг, сайн сэтгэлтэй",
+    "hanja": "多情多感",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다정다감하다",
+    "translation": "зөөлөн сэтгэлтэй, уриалгахан",
+    "hanja": "多情多感하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다정스럽다",
+    "translation": "энхрий",
+    "hanja": "多情스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다정스레",
+    "translation": "энхрийлэн",
+    "hanja": "多情스레",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다정하다",
+    "translation": "Эелдэг, найрсаг",
+    "hanja": "多情하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다정히",
+    "translation": "энхрийлэн, дотно",
+    "hanja": "다정히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다조",
+    "translation": "хүүхдийн тоо ихсэх",
+    "hanja": "多組",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다종",
+    "translation": "олон төрөл",
+    "hanja": "多種",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다종다양하다",
+    "translation": "олон төрөл зүйл",
+    "hanja": "多種多様하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다주다",
+    "translation": "бүгдийг нь өгөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다죽",
+    "translation": "бүгд үхэх",
+    "hanja": "多죽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다중",
+    "translation": "олон тооны, олон нийт",
+    "hanja": "多衆",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다지다",
+    "translation": "Батжуулах / Бөхлөх / Нялхас гаргах",
+    "hanja": "다지다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다짐",
+    "translation": "амлалт, батламж",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "다짐하다",
+    "translation": "амлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다짜고짜",
+    "translation": "шууд, урьдчилж мэдэгдэлгүйгээр",
+    "hanja": "다짜고짜",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다찌",
+    "translation": "самбар, тавиур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "다채롭다",
+    "translation": "олон өнгөтэй",
+    "hanja": "다채롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다층",
+    "translation": "олон давхаргат",
+    "hanja": "多層",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다치다",
+    "translation": "гэмтэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다카",
+    "translation": "Така (нэр)",
+    "hanja": null,
+    "pos": "proper noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "다카르",
+    "translation": "Дакар (хот)",
+    "hanja": "다카르",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다카마쓰",
+    "translation": "Такамацу (хот)",
+    "hanja": "高松",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "다카쿠라",
+    "translation": "Такакура",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다케",
+    "translation": "Даке (нэр)",
+    "hanja": "다케",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다코야키",
+    "translation": "такояки",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "다쿠",
+    "translation": "Даку",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "다쿠아즈",
+    "translation": "дакуаз",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다큐",
+    "translation": "Баримтат кино",
+    "hanja": "다큐",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "다큐멘터리",
+    "translation": "Баримтат кино",
+    "hanja": "documentary",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다크닝",
+    "translation": "Харанхуйлах",
+    "hanja": "다크닝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다크브라운",
+    "translation": "хар хүрэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "다크서클",
+    "translation": "нүдний доорх хар хүрээ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다크써클",
+    "translation": "нүдний доорх хар хүрээ",
+    "hanja": "dark circle",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다크초콜릿",
+    "translation": "хар шоколад",
+    "hanja": "다크초콜릿",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다크호스",
+    "translation": "Хар морь, гэнэтийн ялагч",
+    "hanja": "dark horse",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다타다",
+    "translation": "Шатах",
+    "hanja": "N/A",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "다테",
+    "translation": "Дате (хүний нэр)",
+    "hanja": "다테",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "다투다",
+    "translation": "хэрэлдэх",
+    "hanja": "다투다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다툼",
+    "translation": "маргаан, зөрчил",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다툼하다",
+    "translation": "маргалдах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다트",
+    "translation": "Дартс",
+    "hanja": "Dart",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "다프네",
+    "translation": "Дафни",
+    "hanja": "다프네",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다하다",
+    "translation": "гүйцээх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "다한증",
+    "translation": "хөлс их ялгарах эмгэг",
+    "hanja": "多汗症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다행",
+    "translation": "аз",
+    "hanja": "多幸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "다행스럽다",
+    "translation": "азтай, бахтай",
+    "hanja": "多幸스럽다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다행하다",
+    "translation": "азтай байх",
+    "hanja": "多幸하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다행히",
+    "translation": "аз болоход",
+    "hanja": "多幸히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다혈질",
+    "translation": "хурц зан, цочмог, уур хилэнтэй",
+    "hanja": "多血質",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다호메이",
+    "translation": "Дагомей (улс)",
+    "hanja": "다호메이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "다홍",
+    "translation": "Улаан хүрэн",
+    "hanja": "丹紅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다홍색",
+    "translation": "тод улаан өнгө",
+    "hanja": "다홍색",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "다홍치마",
+    "translation": "Улаан өнгийн юбка",
+    "hanja": "다홍치마",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

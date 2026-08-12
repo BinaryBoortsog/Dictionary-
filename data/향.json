@@ -1,0 +1,373 @@
+[
+  {
+    "word": "향",
+    "translation": "үнэр",
+    "hanja": "香",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "향가",
+    "translation": "хянга (Солонгосын уран зохиолын нэг төрөл)",
+    "hanja": "鄕歌",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "향고",
+    "translation": "хуучин сургууль, сайн үнэртэй",
+    "hanja": "向古",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "향교",
+    "translation": "Хуучны сургууль, орон нутгийн сургууль (Конфуцийг шүтэн биширдэг)",
+    "hanja": "鄕校",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향긋",
+    "translation": "үнэртэй",
+    "hanja": "香긋",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향긋하다",
+    "translation": "Анхилуун үнэртэй",
+    "hanja": "香긋하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "향기",
+    "translation": "үнэр",
+    "hanja": "香氣",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "향기롭다",
+    "translation": "үнэртэй",
+    "hanja": "香氣롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향낭",
+    "translation": "үнэртэй уут",
+    "hanja": "香囊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향내",
+    "translation": "үнэр",
+    "hanja": "香내",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "향냄새",
+    "translation": "үнэртэй усны үнэр",
+    "hanja": "香냄새",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "향년",
+    "translation": "нас барсан жил",
+    "hanja": "享年",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "향단",
+    "translation": "хяндан (нэр)",
+    "hanja": "香丹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "향도",
+    "translation": "удирдамж, зам заах",
+    "hanja": "嚮導",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향락",
+    "translation": "Таашаал",
+    "hanja": "享樂",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "향로",
+    "translation": "хүж шатаагч",
+    "hanja": "香爐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향료",
+    "translation": "Үнэр",
+    "hanja": "香料",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "향리",
+    "translation": "уугуул нутаг, төрөлх хот/сум",
+    "hanja": "鄕里",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "향미",
+    "translation": "үр тариа, амт, үнэр",
+    "hanja": "香味",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "향방",
+    "translation": "Чиглэл",
+    "hanja": "向方",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향배",
+    "translation": "чиглэл",
+    "hanja": "向背",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "향병",
+    "translation": "орон нутгийн цэрэг",
+    "hanja": "鄕兵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "향불",
+    "translation": "Хүрэн утаа, хүжний утаа",
+    "hanja": "香불",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향상",
+    "translation": "сайжруулах",
+    "hanja": "向上",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "향상되다",
+    "translation": "сайжрах, өсөх",
+    "hanja": "向上되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향상하다",
+    "translation": "сайжруулах",
+    "hanja": "向上—",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향수",
+    "translation": "үнэртэй ус",
+    "hanja": "香水",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "향수병",
+    "translation": "гэртээ тэмүүлэх өвчин, үнэртэй усны шил",
+    "hanja": "鄕愁病",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "향숙",
+    "translation": "Үндэс суурь, суурь боловсрол",
+    "hanja": "向塾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "향신료",
+    "translation": "амтлагч",
+    "hanja": "香辛料",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "향악",
+    "translation": "уламжлалт хөгжим",
+    "hanja": "鄕樂",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "향안",
+    "translation": "хүжний ширээ",
+    "hanja": "香案",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향약",
+    "translation": "Орон нутгийн хууль",
+    "hanja": "鄕約",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "향약집성방",
+    "translation": "Хян-яаг-жибсеонг-банг (хуучин анагаах ухааны ном)",
+    "hanja": "鄕藥集成方",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "향어",
+    "translation": "хундгай загас",
+    "hanja": "香魚",
+    "pos": "n",
+    "cefr": "B1"
+  },
+  {
+    "word": "향연",
+    "translation": "найр",
+    "hanja": "饗宴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향유",
+    "translation": "эдэлж хэрэглэх",
+    "hanja": "享有",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "향유하다",
+    "translation": "эзэмших",
+    "hanja": "享有하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "향응",
+    "translation": "үдэшлэг",
+    "hanja": "饗應",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "향전",
+    "translation": "нутаг орны дайн",
+    "hanja": "鄕戰",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "향정",
+    "translation": "Сэтгэцэд нөлөөлөх",
+    "hanja": "向精",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "향정신성",
+    "translation": "Сэтгэцэд нөлөөлөх",
+    "hanja": "向精神性",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "향조",
+    "translation": "үнэртэн, үнэр",
+    "hanja": "香祖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "향주",
+    "translation": "хүжтэй дарс",
+    "hanja": "香酒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "향청",
+    "translation": "орон нутгийн байшин",
+    "hanja": "鄕廳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "향초",
+    "translation": "үнэртэй лаа",
+    "hanja": "香草",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "향촌",
+    "translation": "хөдөө орон нутаг",
+    "hanja": "鄕村",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "향취",
+    "translation": "үнэр, хоншоор",
+    "hanja": "香臭",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "향토",
+    "translation": "Эх нутаг",
+    "hanja": "鄕土",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "향판",
+    "translation": "үнэртэй банз",
+    "hanja": "香版",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "향품",
+    "translation": "үнэртэй бүтээгдэхүүн",
+    "hanja": "香品",
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "향하다",
+    "translation": "чиглэх",
+    "hanja": "向-",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "향후",
+    "translation": "ирээдүйд",
+    "hanja": "向後",
+    "pos": "Noun",
+    "cefr": "B2"
+  }
+]

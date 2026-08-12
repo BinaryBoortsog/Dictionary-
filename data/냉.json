@@ -1,0 +1,380 @@
+[
+  {
+    "word": "냉",
+    "translation": "Хүйтэн",
+    "hanja": "冷",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "냉각",
+    "translation": "Хөргөлт",
+    "hanja": "冷却",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉각기",
+    "translation": "хөргөгч",
+    "hanja": "冷却器",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉각되다",
+    "translation": "хөргөх, хөргөгдөх",
+    "hanja": "冷却되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉각수",
+    "translation": "хөргөх ус",
+    "hanja": "冷却水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉각하다",
+    "translation": "хөргөх, тайвшруулах",
+    "hanja": "冷却하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉감",
+    "translation": "хүйтэн мэдрэмж",
+    "hanja": "冷感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉국",
+    "translation": "Хүйтэн шөл, хүйтэн уусмал",
+    "hanja": "冷국",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "냉기",
+    "translation": "хүйтэн агаар",
+    "hanja": "冷氣",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉난방",
+    "translation": "халаалт, сэрүүцүүлэгч",
+    "hanja": "冷暖房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉담하다",
+    "translation": "хүйтэн хөндий",
+    "hanja": "冷淡하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉대",
+    "translation": "хүйтэн хандах, үл тоомсорлох",
+    "hanja": "冷待",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉대하다",
+    "translation": "хүйтнээр угтах",
+    "hanja": "冷待하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉동",
+    "translation": "Хөлдөөх",
+    "hanja": "冷凍",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉동고",
+    "translation": "хөлдөөгч",
+    "hanja": "冷凍庫",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "냉동되다",
+    "translation": "хөлдөөгдөх",
+    "hanja": "冷凍되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉동식품",
+    "translation": "хөлдөөсөн хүнс",
+    "hanja": "冷凍食品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉동실",
+    "translation": "хөлдөөгч",
+    "hanja": "冷凍室",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "냉동하다",
+    "translation": "хөлдөөх",
+    "hanja": "冷凍하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "냉랭하다",
+    "translation": "хүйтэн",
+    "hanja": "冷랭하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "냉매",
+    "translation": "хөргөх бодис",
+    "hanja": "冷媒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "냉면",
+    "translation": "хүйтэн гоймон",
+    "hanja": "冷麵",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "냉방",
+    "translation": "хөргөх",
+    "hanja": "冷房",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "냉방기",
+    "translation": "хөргөгч",
+    "hanja": "冷房機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉방병",
+    "translation": "хөргөлтийн өвчин",
+    "hanja": "冷房病",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "냉소",
+    "translation": "эшлэх, мөнхөд",
+    "hanja": "冷笑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "냉소적",
+    "translation": "егөөдсөн",
+    "hanja": "冷笑的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "냉소주의",
+    "translation": "доромжлол",
+    "hanja": "冷笑主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "냉소하다",
+    "translation": "хорсон инээх, егөөдөх",
+    "hanja": "冷笑하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "냉수",
+    "translation": "хүйтэн ус",
+    "hanja": "冷水",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "냉엄하다",
+    "translation": "хүйтэн цэвдэг",
+    "hanja": "冷嚴하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "냉온",
+    "translation": "хүйтэн ба халуун",
+    "hanja": "冷溫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉이",
+    "translation": "чангаанз",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "냉이국",
+    "translation": "хүнсний ногооны шөл",
+    "hanja": "냉이국",
+    "pos": "NNG",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉장",
+    "translation": "Хөргөлт",
+    "hanja": "冷蔵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉장고",
+    "translation": "хөргөгч",
+    "hanja": "冷藏庫",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "냉장실",
+    "translation": "хөргөгчний тасалгаа",
+    "hanja": "冷蔵室",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉장하다",
+    "translation": "Хөргөх",
+    "hanja": "冷藏하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "냉정",
+    "translation": "тайван, хүйтэн тайван",
+    "hanja": "冷靜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉정하다",
+    "translation": "хүйтэн тайван, сэрүүн",
+    "hanja": "冷靜하다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉정히",
+    "translation": "тайвнаар, хүйтнээр",
+    "hanja": "冷靜히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉증",
+    "translation": "Хүйтний өвчин",
+    "hanja": "冷症",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉찜질",
+    "translation": "хүйтэн жин тавих",
+    "hanja": "冷찜질",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉채",
+    "translation": "хүйтэн зууш",
+    "hanja": "冷菜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉천",
+    "translation": "хүйтэн усны булаг",
+    "hanja": "冷泉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉철하다",
+    "translation": "тайван",
+    "hanja": "冷徹하다",
+    "pos": "тэмдэг нэр",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉침",
+    "translation": "хүйтэн усанд дэвтээх",
+    "hanja": "冷浸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉커피",
+    "translation": "мөстэй кофе",
+    "hanja": "冷커피",
+    "pos": "м.н.",
+    "cefr": "A1"
+  },
+  {
+    "word": "냉큼",
+    "translation": "Түргэн, хурдан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉탕",
+    "translation": "Хүйтэн усны ванн",
+    "hanja": "冷湯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉풍",
+    "translation": "сэрүүн салхи",
+    "hanja": "冷風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "냉해",
+    "translation": "хүйтний хор хөнөөл",
+    "hanja": "冷害",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉혈",
+    "translation": "хүйтэн цус",
+    "hanja": "冷血",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "냉혹하다",
+    "translation": "хүйтэн зүрхтэй, хэрцгий",
+    "hanja": "冷酷하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  }
+]

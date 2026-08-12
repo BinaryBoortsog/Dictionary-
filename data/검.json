@@ -1,0 +1,716 @@
+[
+  {
+    "word": "검",
+    "translation": "илд, сэлэм",
+    "hanja": "劍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검객",
+    "translation": "илдээр тулалдагч",
+    "hanja": "劍客",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검거",
+    "translation": "баривчлах",
+    "hanja": "檢擧",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "검거되다",
+    "translation": "Баригдах",
+    "hanja": "檢擧되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검거하다",
+    "translation": "барьсан",
+    "hanja": "檢擧하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "검경",
+    "translation": "прокурор, цагдаа",
+    "hanja": "檢警",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검광",
+    "translation": "илдний гэрэл",
+    "hanja": "劍光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검날",
+    "translation": "илдний ир",
+    "hanja": "劍날",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검다",
+    "translation": "хар",
+    "hanja": "null",
+    "pos": "adj",
+    "cefr": "A1"
+  },
+  {
+    "word": "검단",
+    "translation": "шалгах, хянах",
+    "hanja": "檢斷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검댕",
+    "translation": "нүүрсний тортог",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "검도",
+    "translation": "кэндо (сэлмийн урлаг)",
+    "hanja": "劍道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검둥개",
+    "translation": "хар нохой",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "검둥이",
+    "translation": "хар арьстан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검무",
+    "translation": "Илдэн бүжиг",
+    "hanja": "劍舞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검문",
+    "translation": "шалгалт",
+    "hanja": "檢問",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "검문검색",
+    "translation": "шалгах, үзлэг хийх",
+    "hanja": "檢問檢索",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "검문소",
+    "translation": "Шалгах пост",
+    "hanja": "檢問所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검문하다",
+    "translation": "шалгах",
+    "hanja": "檢問하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검방",
+    "translation": "хүүдий, авдар",
+    "hanja": "劍房",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검버섯",
+    "translation": "Насны толбо",
+    "hanja": "검버섯",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "검법",
+    "translation": "ирийн арга, сэлмийн арга",
+    "hanja": "劍法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검보",
+    "translation": "хөгжмийн нот, бүжгийн тэмдэглэгээ",
+    "hanja": "檢譜",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "검불",
+    "translation": "хог хаягдал, сүрэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검붉다",
+    "translation": "хар улаан",
+    "hanja": "검붉다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검비",
+    "translation": "эрдийн",
+    "hanja": "檢備",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "검사",
+    "translation": "шалгах, прокурор",
+    "hanja": "檢査",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검사대",
+    "translation": "шалгах лангуу",
+    "hanja": "檢査臺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검사되다",
+    "translation": "шалгагдах, үзлэгдэх",
+    "hanja": "檢査되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검사받기",
+    "translation": "шалгах",
+    "hanja": "檢査받기",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "검사소",
+    "translation": "хяналтын цэг",
+    "hanja": "檢査所",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "검사장",
+    "translation": "Прокурорын газрын дарга",
+    "hanja": "檢事長",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검사하다",
+    "translation": "шалгах",
+    "hanja": "檢査하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "검상",
+    "translation": "шалгалт",
+    "hanja": "檢詳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검색",
+    "translation": "хайлт",
+    "hanja": "檢索",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "검색어",
+    "translation": "хайх үг",
+    "hanja": "檢索語",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "검색하다",
+    "translation": "Хайх",
+    "hanja": "檢索하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "검선",
+    "translation": "хутганы ир",
+    "hanja": "劍線",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "검성",
+    "translation": "илдээр хийсэн",
+    "hanja": "劍聖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "검소",
+    "translation": "хямгач",
+    "hanja": "儉素",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검소하다",
+    "translation": "хямгач",
+    "hanja": "儉素하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검수",
+    "translation": "хяналт шалгалт, хүлээн авах",
+    "hanja": "檢收",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검수하다",
+    "translation": "шалгах, хянах",
+    "hanja": "檢收하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검술",
+    "translation": "Илдний урлаг",
+    "hanja": "劍術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검스",
+    "translation": "Хар трико",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검시",
+    "translation": "задлан шинжилгээ",
+    "hanja": "檢屍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검시관",
+    "translation": "шүүх эмнэлгийн эмч",
+    "hanja": "검시관(檢視官)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검시하다",
+    "translation": "задлан шинжлэх",
+    "hanja": "檢屍하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "검식",
+    "translation": "хоол шалгах",
+    "hanja": "檢食",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "검신",
+    "translation": "биед хандах",
+    "hanja": "檢身",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검안",
+    "translation": "нүдний үзлэг",
+    "hanja": "檢眼",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "검안하다",
+    "translation": "үхэгсдийн биеийг шалгах",
+    "hanja": "檢案하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검약",
+    "translation": "хэмнэлт",
+    "hanja": "儉約",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검어",
+    "translation": "хар хэл",
+    "hanja": "검어",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "검역",
+    "translation": "хорио цээр",
+    "hanja": "檢疫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검역소",
+    "translation": "Хорио цээрийн газар",
+    "hanja": "檢疫所",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검역하다",
+    "translation": "хорио цээр тогтоох",
+    "hanja": "檢疫하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검열",
+    "translation": "цензур",
+    "hanja": "檢閱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검열관",
+    "translation": "Цензор",
+    "hanja": "檢閱官",
+    "pos": "Нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "검열되다",
+    "translation": "Хяналтад орох",
+    "hanja": "檢閱되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "검열하다",
+    "translation": "шалгах, хянах",
+    "hanja": "檢閱하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검은고양이",
+    "translation": "хар муур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "검은깨",
+    "translation": "хар гүнжүдийн үр",
+    "hanja": "검은깨",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검은돈",
+    "translation": "хар мөнгө (хууль бус)",
+    "hanja": "검은돈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검은머리갈매기",
+    "translation": "хар толгойтой цахлай",
+    "hanja": "검은머리갈매기",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검은머리물떼새",
+    "translation": "хар толгойтой усны шувуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "검은빛",
+    "translation": "хар өнгө",
+    "hanja": "검은빛",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "검은색",
+    "translation": "Хар өнгө",
+    "hanja": "검은색",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "검은자",
+    "translation": "нүдний харц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검은자위",
+    "translation": "Хар цэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검은창",
+    "translation": "хар цонх",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "검은코뿔소",
+    "translation": "хар хирс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검은콩",
+    "translation": "Хар шош",
+    "hanja": "검은콩",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "검인",
+    "translation": "шалгаж тамга дарах",
+    "hanja": "檢印",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검인정",
+    "translation": "батламж, зөвшөөрөл",
+    "hanja": "檢認定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검정",
+    "translation": "хар өнгө",
+    "hanja": "檢定",
+    "pos": "NOUN",
+    "cefr": "B1"
+  },
+  {
+    "word": "검정고시",
+    "translation": "аттестат",
+    "hanja": "檢定考試",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "검정색",
+    "translation": "Хар өнгө",
+    "hanja": "검정色",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "검정콩",
+    "translation": "Хар шош",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "검정하다",
+    "translation": "батлах",
+    "hanja": "檢定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검증",
+    "translation": "шалгах",
+    "hanja": "檢證",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검증되다",
+    "translation": "батлагдах, нотлогдох",
+    "hanja": "檢證되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검증하다",
+    "translation": "шалгах",
+    "hanja": "檢證하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "검진",
+    "translation": "эмнэлгийн үзлэг",
+    "hanja": "檢診",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검진하다",
+    "translation": "үзлэг хийх, оношлох, шалгах (эрүүл мэнд)",
+    "hanja": "檢診하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검찰",
+    "translation": "прокурорын газар",
+    "hanja": "檢察",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검찰권",
+    "translation": "прокурорын эрх мэдэл",
+    "hanja": "檢察權",
+    "pos": "нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "검찰청",
+    "translation": "Прокурорын газар",
+    "hanja": "檢察廳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검체",
+    "translation": "Шинжилгээний дээж",
+    "hanja": "檢體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검출",
+    "translation": "Илрүүлэх, илрэлт",
+    "hanja": "檢出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검출되다",
+    "translation": "Илрүүлэх",
+    "hanja": "檢出道다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검출하다",
+    "translation": "илрүүлэх",
+    "hanja": "檢出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검측",
+    "translation": "шалгах, хэмжих",
+    "hanja": "檢測",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검침하다",
+    "translation": "хэмжээг шалгах",
+    "hanja": "檢針하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검토",
+    "translation": "хянан үзэх, шалгах",
+    "hanja": "檢討",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검토되다",
+    "translation": "Хянагдах",
+    "hanja": "檢討되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "검토하다",
+    "translation": "хянаж үзэх, шалгах",
+    "hanja": "檢討하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "검투",
+    "translation": "Гладиаторын тулаан",
+    "hanja": "劍鬪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "검투사",
+    "translation": "Гладиатор",
+    "hanja": "劍鬪士",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "검표",
+    "translation": "тасалбар шалгах",
+    "hanja": "檢票",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검푸르다",
+    "translation": "хөх бараан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "검험",
+    "translation": "Шалгах, турших, нягтлах",
+    "hanja": "檢驗",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

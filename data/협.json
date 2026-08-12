@@ -1,0 +1,338 @@
+[
+  {
+    "word": "협",
+    "translation": "Хамтран, зөвшилцөн",
+    "hanja": "協",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "협객",
+    "translation": "Зоригтой эрс",
+    "hanja": "俠客",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "협곡",
+    "translation": "хавцал",
+    "hanja": "峽谷",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "협공",
+    "translation": "хамтран довтлох",
+    "hanja": "挾攻",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "협공하다",
+    "translation": "хамтарч довтлох",
+    "hanja": "協攻하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "협동",
+    "translation": "хамтын ажиллагаа",
+    "hanja": "協同",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "협동농장",
+    "translation": "хоршоолсон аж ахуй, хамтрал",
+    "hanja": "協同農場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협동심",
+    "translation": "хамтын ажиллагааны сүнс",
+    "hanja": "協同心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협동적",
+    "translation": "хамтын",
+    "hanja": "協同的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협동조합",
+    "translation": "хоршоо",
+    "hanja": "協同組合",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "хамтран ажиллах",
+    "hanja": "協同하다",
+    "pos": "동사",
+    "cefr": "B2",
+    "word": "협동하다"
+  },
+  {
+    "word": "협력",
+    "translation": "хамтын ажиллагаа",
+    "hanja": "協力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협력체",
+    "translation": "Хамтын ажиллагааны байгууллага",
+    "hanja": "協力體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "협력하다",
+    "translation": "хамтран ажиллах",
+    "hanja": "協力하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "협박",
+    "translation": "Сүрдүүлэг",
+    "hanja": "脅迫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "협박조",
+    "translation": "айлган сүрдүүлэх ая",
+    "hanja": "脅迫調",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "협박하다",
+    "translation": "айлган сүрдүүлэх",
+    "hanja": "脅迫하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "협상",
+    "translation": "хэлэлцээр",
+    "hanja": "協商",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협상하다",
+    "translation": "хэлэлцээр хийх",
+    "hanja": "協商하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협소하다",
+    "translation": "Нарийхан",
+    "hanja": "狹小하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "협심증",
+    "translation": "Зүрхний ишемийн өвчин",
+    "hanja": "狹心症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "협약",
+    "translation": "гэрээ, конвенц",
+    "hanja": "協約",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협약하다",
+    "translation": "гэрээ байгуулах",
+    "hanja": "協約하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협업",
+    "translation": "хамтын ажиллагаа",
+    "hanja": "協業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협업하다",
+    "translation": "хамтран ажиллах",
+    "hanja": "協業하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협연",
+    "translation": "хамтын тоглолт",
+    "hanja": "協演",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "협연하다",
+    "translation": "хамтдаа тоглох, хамтран тоглох",
+    "hanja": "協演하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "협응",
+    "translation": "зохицуулалт",
+    "hanja": "協應",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "협의",
+    "translation": "зөвлөлдөх, хэлэлцэх",
+    "hanja": "協議",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협의되다",
+    "translation": "зөвшилцөгдөх",
+    "hanja": "協議되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협의하다",
+    "translation": "зөвшилцөх, хэлэлцэх",
+    "hanja": "協議하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "협의회",
+    "translation": "зөвлөл",
+    "hanja": "協議會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협잡",
+    "translation": "луйвар",
+    "hanja": "挾雜",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "협잡꾼",
+    "translation": "луйварчин",
+    "hanja": "挾雜꾼",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협정",
+    "translation": "Хэлэлцээр",
+    "hanja": "協定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협조",
+    "translation": "хамтын ажиллагаа",
+    "hanja": "協助",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협조적",
+    "translation": "хамтын ажиллагаатай",
+    "hanja": "協調的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협조하다",
+    "translation": "хамтран ажиллах",
+    "hanja": "協助하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "협주",
+    "translation": "концерт (хөгжмийн)",
+    "hanja": "協奏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협주곡",
+    "translation": "концерт",
+    "hanja": "協奏曲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "협죽도",
+    "translation": "бүйлс",
+    "hanja": "夾竹桃",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "협진",
+    "translation": "зөвлөх",
+    "hanja": "協診",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "협착",
+    "translation": "нарийсах",
+    "hanja": "狹窄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "협찬",
+    "translation": "Ивээн тэтгэх",
+    "hanja": "協賛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협찬하다",
+    "translation": "ивээн тэтгэх",
+    "hanja": "協贊하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "협치",
+    "translation": "хамтран удирдах",
+    "hanja": "協治",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "협탁",
+    "translation": "хажуугийн ширээ",
+    "hanja": "挾卓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "협회",
+    "translation": "холбоо, нийгэмлэг",
+    "hanja": "協會",
+    "pos": "Noun",
+    "cefr": "B2"
+  }
+]

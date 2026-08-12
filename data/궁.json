@@ -1,0 +1,352 @@
+[
+  {
+    "word": "궁",
+    "translation": "ордон",
+    "hanja": "宮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "궁곡",
+    "translation": "гүн жалга",
+    "hanja": "窮谷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "궁굼하다",
+    "translation": "Сонирхолтой байх",
+    "hanja": null,
+    "pos": "형용사 (Adjective)",
+    "cefr": "A1"
+  },
+  {
+    "word": "궁궐",
+    "translation": "Ордны цогцолбор",
+    "hanja": "宮闕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁극",
+    "translation": "Эцсийн",
+    "hanja": "窮極",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "궁극적",
+    "translation": "эцсийн, дээд зэргийн",
+    "hanja": "窮極的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁금",
+    "translation": "гайхах",
+    "hanja": "窮金",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "궁금증",
+    "translation": "сонирхол",
+    "hanja": "궁금症",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "궁금하다",
+    "translation": "Сонирхолтой байх, мэдэхийг хүсэх",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "궁내",
+    "translation": "ордны дотор",
+    "hanja": "宮內",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "궁녀",
+    "translation": "ордны нэргүй зарц эмэгтэй",
+    "hanja": "宮女",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "궁댕이",
+    "translation": "Өгзөг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "궁뎅이",
+    "translation": "Өгзөг",
+    "hanja": "궁뎅이",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "궁도",
+    "translation": "харваа",
+    "hanja": "弓道",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁동",
+    "translation": "гундон (солонгосын газарзүйн нэр)",
+    "hanja": "宮洞",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "궁둥이",
+    "translation": "бөгс",
+    "hanja": "---",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "궁둥짝",
+    "translation": "өгзөг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁디",
+    "translation": "Өгзөг (нутгийн аялгуугаар)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "궁딩이",
+    "translation": "өгзөг (энгийн яриа)",
+    "hanja": "궁딩이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "궁리",
+    "translation": "бодож олох, арга бодох",
+    "hanja": "窮理",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁리하다",
+    "translation": "бодож олох",
+    "hanja": "窮理하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁문",
+    "translation": "ордны хаалга",
+    "hanja": "宮門",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁벽하다",
+    "translation": "алслагдсан, ядуу буурай",
+    "hanja": "窮僻하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "궁병",
+    "translation": "нум сумчин",
+    "hanja": "弓兵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁사",
+    "translation": "харваач",
+    "hanja": "弓師",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "궁상",
+    "translation": "ядуу байдал, өрөвдөлтэй байдал",
+    "hanja": "窮狀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁상떨다",
+    "translation": "ядуу байдалтай байх",
+    "hanja": "窮狀떨다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁상맞다",
+    "translation": "ядуу зүдүү, өрөвдөлтэй харагдах",
+    "hanja": "窮狀맞다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁상스럽다",
+    "translation": "Ядуу, зовлонтой харагдах",
+    "hanja": "窮狀스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁색하다",
+    "translation": "ядуу байх, дутагдалтай байх, шалтаг олох",
+    "hanja": "窮塞하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁성",
+    "translation": "ордон",
+    "hanja": "宮城",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁수",
+    "translation": "нумын харваач",
+    "hanja": "弓手",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "궁술",
+    "translation": "нум сурын урлаг",
+    "hanja": "弓術",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "궁시렁거리다",
+    "translation": "гомдоллох, дургүйцах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁시렁궁시렁",
+    "translation": "Гулдганаж, дургүйцэн ярих",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁여지책",
+    "translation": "Эцсийн арга",
+    "hanja": "窮餘之策",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "궁예",
+    "translation": "Кун Е (Солонгосын хаан)",
+    "hanja": "弓裔",
+    "pos": "Proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "궁인",
+    "translation": "ордны хүн",
+    "hanja": "宮人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "궁전",
+    "translation": "Ордон",
+    "hanja": "宮殿",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "궁정",
+    "translation": "ордны",
+    "hanja": "宮廷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁주",
+    "translation": "ордны эзэн",
+    "hanja": "宮主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁중",
+    "translation": "Ордны",
+    "hanja": "宮中",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁지",
+    "translation": "хүнд байдал, мухардмал байдал",
+    "hanja": "窮地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "궁창",
+    "translation": "тэнгэрийн хаяа",
+    "hanja": "穹蒼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "궁체",
+    "translation": "ордны бичиг (Калиграфийн хэлбэр)",
+    "hanja": "宮體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "궁평",
+    "translation": "төгс тэгш байдал",
+    "hanja": "窮平",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "궁핍",
+    "translation": "ядуурал, дутагдал",
+    "hanja": "窮乏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "궁핍하다",
+    "translation": "ядуу байх, хомсдолтой байх",
+    "hanja": "窮乏하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "궁하다",
+    "translation": "дутах",
+    "hanja": "窮하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "궁합",
+    "translation": "Тохироо",
+    "hanja": "宮合",
+    "pos": "Noun",
+    "cefr": "C1"
+  }
+]

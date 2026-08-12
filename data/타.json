@@ -1,0 +1,1304 @@
+[
+  {
+    "word": "타",
+    "translation": "Бусад, өөр",
+    "hanja": "他",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타각",
+    "translation": "цохилт, хагархай",
+    "hanja": "打刻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타갈로그어",
+    "translation": "тагалог хэл",
+    "hanja": null,
+    "pos": "NNG",
+    "cefr": "C1"
+  },
+  {
+    "word": "타개",
+    "translation": "үүсгэх",
+    "hanja": "打開",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타개책",
+    "translation": "шийдвэрлэх арга хэмжээ",
+    "hanja": "打開策",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타개하다",
+    "translation": "хүндрэлийг даван туулах",
+    "hanja": "打開하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타건",
+    "translation": "дарж бичих",
+    "hanja": "打鍵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타게팅",
+    "translation": "зорилтот",
+    "hanja": "targeting",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타겟",
+    "translation": "бай, онилгоо",
+    "hanja": "target",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타격",
+    "translation": "цохилт",
+    "hanja": "打擊",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "타격하다",
+    "translation": "Цохих, цохилт өгөх",
+    "hanja": "打擊하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타결",
+    "translation": "шийдвэрлэх, тохиролцох",
+    "hanja": "妥結",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타결되다",
+    "translation": "шийдэгдэх",
+    "hanja": "妥結-",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "타결하다",
+    "translation": "шийдвэрлэх; тохиролцох",
+    "hanja": "妥結하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타계",
+    "translation": "нас барах, таалал төгсөх",
+    "hanja": "他界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타계하다",
+    "translation": "нас барах",
+    "hanja": "他界하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타고",
+    "translation": "унасан",
+    "hanja": "타고",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타고나다",
+    "translation": "төрөлхийн",
+    "hanja": "타고나다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타고르",
+    "translation": "Тагор",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타공",
+    "translation": "нүхлэх, цоолох",
+    "hanja": "打孔",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타공하다",
+    "translation": "нүх гаргах",
+    "hanja": "打孔하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타관",
+    "translation": "гадны газар, өөр нутаг",
+    "hanja": "他官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타구",
+    "translation": "цохилт, цохих",
+    "hanja": "打球",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타국",
+    "translation": "гадаад орон",
+    "hanja": "他國",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "타기팅",
+    "translation": "чиглүүлэх",
+    "hanja": "타기팅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타기하다",
+    "translation": "ялах",
+    "hanja": "唾棄하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타깃",
+    "translation": "бай, зорилго",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "타나다",
+    "translation": "танна",
+    "hanja": "타나다",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타나토스",
+    "translation": "Танатос (үхлийн бурхан)",
+    "hanja": "타나토스",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타닌",
+    "translation": "танин",
+    "hanja": "tannin",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "타다",
+    "translation": "унах (унаа), түлэх",
+    "hanja": "타다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "타다닥",
+    "translation": "тас няс",
+    "hanja": null,
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "타닥거리다",
+    "translation": "шажигнах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타닥타닥",
+    "translation": "шажигнах, тачигнах",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타당",
+    "translation": "үндэслэлтэй",
+    "hanja": "妥當",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타당성",
+    "translation": "үндэслэлтэй байдал",
+    "hanja": "妥當性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타당하다",
+    "translation": "үндэслэлтэй",
+    "hanja": "妥當하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "타도",
+    "translation": "Унагах, түлхэн унагах",
+    "hanja": "打倒",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "타도되다",
+    "translation": "унагаах, сөнөөх",
+    "hanja": "打倒되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타도하다",
+    "translation": "Устгах, түлхэн унагах",
+    "hanja": "打倒하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "타동사",
+    "translation": "шилжих үйл үг",
+    "hanja": "他動詞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타들다",
+    "translation": "Шатах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타락",
+    "translation": "сүйрэл",
+    "hanja": " tarak",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "타락시키다",
+    "translation": "Муу замд оруулах",
+    "hanja": "墮落시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타락하다",
+    "translation": "садарлах, уруудах",
+    "hanja": "墮落하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타란텔라",
+    "translation": "тарантелла",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타란툴라",
+    "translation": "тарантул (аалз)",
+    "hanja": "타란툴라",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타란튤라",
+    "translation": "тарантул",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타려",
+    "translation": "бусдыг бодох",
+    "hanja": "他慮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타령",
+    "translation": "дахин дахин ярих, дуулах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타령하다",
+    "translation": "уйлах, гашуудах",
+    "hanja": "打令--",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "타로",
+    "translation": "таро",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타루",
+    "translation": "Тарвас",
+    "hanja": "타루(駝盧)",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "타륜",
+    "translation": "жолооны хүрд (усан онгоцны)",
+    "hanja": "舵輪",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타르",
+    "translation": "Давирхай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타르타로스",
+    "translation": "Тартарус",
+    "hanja": "Tartaros",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타르타르",
+    "translation": "Тартар (хоолны соус)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타르트",
+    "translation": "тарт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타리",
+    "translation": "хог, шаар",
+    "hanja": "他利",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "타마",
+    "translation": "бөмбөг, бөмбөлөг (япон хэлнээс)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타마린드",
+    "translation": "тамаринд",
+    "hanja": "타마린드",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "타망",
+    "translation": "Таманг (үндэстэн)",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "타미플루",
+    "translation": "тамифлю (ханиадын эм)",
+    "hanja": "Tamiflu",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타밀어",
+    "translation": "тамил хэл",
+    "hanja": "타밀語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타바스코",
+    "translation": "Табаско",
+    "hanja": "타바스코",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타박",
+    "translation": "зэмлэл",
+    "hanja": "打撲",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "타박상",
+    "translation": "хөхрөлт",
+    "hanja": "打撲傷",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "타박타박",
+    "translation": "алгуур алхах чимээ",
+    "hanja": "없음",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타박하다",
+    "translation": "зэмлэх",
+    "hanja": "打駁-",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "타법",
+    "translation": "цохилтын арга",
+    "hanja": "打法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타부",
+    "translation": "табу",
+    "hanja": "打譜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타브리즈",
+    "translation": "Табриз хот",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "타블렛",
+    "translation": "таблет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타블로",
+    "translation": "Табло (уран бүтээлч)",
+    "hanja": "타블로",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타블로이드",
+    "translation": "Таблоид",
+    "hanja": null,
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "타비",
+    "translation": "Аялал (Япон үг)",
+    "hanja": "旅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타사",
+    "translation": "бусад компани",
+    "hanja": "他社",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "타산",
+    "translation": "тооцоо хийх, бодох",
+    "hanja": "打算",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타산적",
+    "translation": "тогтмол, бодож тооцсон",
+    "hanja": "打算的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타산지석",
+    "translation": "бусдын алдаанаас сурах",
+    "hanja": "他山之石",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타살",
+    "translation": "Хүний гарт амиа алдах",
+    "hanja": "他殺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타살되다",
+    "translation": "айл хүнд алуулна",
+    "hanja": "他殺되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "타석",
+    "translation": "цохилтын талбай",
+    "hanja": "打席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타선",
+    "translation": "бэйсболын багийн бөмбөг цохигчид",
+    "hanja": "打線",
+    "pos": "н.",
+    "cefr": "null"
+  },
+  {
+    "word": "타설",
+    "translation": "цутгах",
+    "hanja": "打設",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타설하다",
+    "translation": "бетон цутгах",
+    "hanja": "打說하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타성",
+    "translation": "дадал, хэвшил",
+    "hanja": "惰性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타수",
+    "translation": "Үсрэлт, цохилт (спортод)",
+    "hanja": "打數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타순",
+    "translation": "цэгцлэх дараалал, цохилтын ээлж",
+    "hanja": "打順",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타슈켄트",
+    "translation": "Ташкент",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "타스만",
+    "translation": "Тасман (газарзүйн нэр)",
+    "hanja": "Tasman",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타시",
+    "translation": "дахин, ахин",
+    "hanja": "다시",
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "타악",
+    "translation": "цохивор хөгжим",
+    "hanja": "打樂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타악기",
+    "translation": "цохилуур хөгжим",
+    "hanja": "打樂器",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타액",
+    "translation": "шүлс",
+    "hanja": "唾液",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타오르다",
+    "translation": "Дүрэлзэх",
+    "hanja": "타오르다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타올",
+    "translation": "алчуур",
+    "hanja": "towel",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "타우",
+    "translation": "тау (грек үсэг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타우린",
+    "translation": "таурин",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "타운",
+    "translation": "хот, суурин",
+    "hanja": "town",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타운센드",
+    "translation": "Таунсенд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타워",
+    "translation": "цамхаг",
+    "hanja": "Tower",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "타원",
+    "translation": "эллипс",
+    "hanja": "橢圓",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "타원형",
+    "translation": "зууван хэлбэр",
+    "hanja": "楕圓形",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타월",
+    "translation": "алчуур",
+    "hanja": "타월",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타위",
+    "translation": "тави (Таиландын хөгжмийн зэмсэг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타율",
+    "translation": "цохилтын хувь",
+    "hanja": "打率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타율적",
+    "translation": "албадлагын",
+    "hanja": "他律的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타의",
+    "translation": "бусдын санаа",
+    "hanja": "타의(他意)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타이",
+    "translation": "Залгиа",
+    "hanja": "타이",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "타이가",
+    "translation": "тайга",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타이난",
+    "translation": "Тайван",
+    "hanja": "타이난",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타이둥",
+    "translation": "Тайдун",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타이르다",
+    "translation": "зөвлөх",
+    "hanja": "—",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "타이머",
+    "translation": "таймер",
+    "hanja": "timer",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "타이밍",
+    "translation": "цагийн хуваарь",
+    "hanja": "타이밍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타이베이",
+    "translation": "Тайбэй",
+    "hanja": "臺北",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타이스",
+    "translation": "Таис",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타이어",
+    "translation": "дугуй, покрышка",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "타이완",
+    "translation": "Тайвань",
+    "hanja": "타이완",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "타이중",
+    "translation": "Тайчунг (Тайваний хот)",
+    "hanja": "타이중",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타이즈",
+    "translation": "трико, нэмэгдэл өмд",
+    "hanja": "タイツ",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타이츠",
+    "translation": "богино жинс",
+    "hanja": "타이츠",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타이쿤",
+    "translation": "тайкүн",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타이타닉호",
+    "translation": "Титаник хөлөг онгоц",
+    "hanja": "타이타닉號",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타이탄",
+    "translation": "Титан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타이태닉호",
+    "translation": "Титаник хөлөг онгоц",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "타이트",
+    "translation": "чанга, бариу",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타이트하다",
+    "translation": "бариу",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "타이틀",
+    "translation": "гарчиг",
+    "hanja": "타이틀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타이포그래피",
+    "translation": "типографи",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타이폰",
+    "translation": "тайфун",
+    "hanja": "typhoon",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타이프",
+    "translation": "гар бичмэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타이프라이터",
+    "translation": "бичгийн машин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타이핑",
+    "translation": "бичих, компьютерт оруулах",
+    "hanja": "typing",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타이핑하다",
+    "translation": "бичих, шивэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타인",
+    "translation": "бусад хүмүүс",
+    "hanja": "他人",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "타일",
+    "translation": "плита",
+    "hanja": "tile",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타일러",
+    "translation": "плитачин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타임",
+    "translation": "Цаг",
+    "hanja": "Time",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "타임라인",
+    "translation": "Хугацааны хуваарь",
+    "hanja": "타임라인",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "타임머신",
+    "translation": "цаг хугацааны машин",
+    "hanja": "time machine",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타임아웃",
+    "translation": "цагийн завсарлага",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타임캡슐",
+    "translation": "цаг хугацааны капсул",
+    "hanja": "time capsule",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타입",
+    "translation": "төрөл",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "타자",
+    "translation": "цэгцэлж бичих, шивэх",
+    "hanja": "打者",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "타자하다",
+    "translation": "бичих",
+    "hanja": "打字하다",
+    "pos": "VV",
+    "cefr": "A2"
+  },
+  {
+    "word": "타작",
+    "translation": "тариа хийх, тариа будах",
+    "hanja": "打作",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "타작하다",
+    "translation": "Цацах, тариа цацах",
+    "hanja": "打作하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "타잔",
+    "translation": "Тарзан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "타전",
+    "translation": "Телеграф илгээх",
+    "hanja": "打電",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타전하다",
+    "translation": "цахилгаан мэдээ илгээх",
+    "hanja": "打電하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타점",
+    "translation": "цохих цэг",
+    "hanja": "打點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타정",
+    "translation": "Хүйтэн дарж хийх",
+    "hanja": "打錠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타조",
+    "translation": "тэмээ шувуу",
+    "hanja": "駝鳥",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "타종",
+    "translation": "хонх цохих",
+    "hanja": "打鐘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타지마할",
+    "translation": "Таж Махал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타지키스탄",
+    "translation": "Тажикистан",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타진",
+    "translation": "хэлэлцэх, тодруулах",
+    "hanja": "打診",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타진하다",
+    "translation": "судлах, тандах",
+    "hanja": "打診하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타짜",
+    "translation": "картны шилдэг тоглогч",
+    "hanja": "타짜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타칭",
+    "translation": "бусдын нэрлэх",
+    "hanja": "他稱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타코",
+    "translation": "тако",
+    "hanja": "taco",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "타코야끼",
+    "translation": "Такояки",
+    "hanja": "たこ焼き",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "타코야키",
+    "translation": "такояки",
+    "hanja": "たこ焼き",
+    "pos": "м",
+    "cefr": "A2"
+  },
+  {
+    "word": "타쿠다",
+    "translation": "такуда (хуучин тоглоом)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타키온",
+    "translation": "Тахион",
+    "hanja": "타키온",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타타르",
+    "translation": "татар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "타탄",
+    "translation": "Тартан (шотланд даавуу)",
+    "hanja": "타탄",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타투",
+    "translation": "шинэ",
+    "hanja": "tattoo",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타투이스트",
+    "translation": "шившигч",
+    "hanja": "tattooist",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타파",
+    "translation": "Даван туулах",
+    "hanja": "打破",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타파되다",
+    "translation": "устгах",
+    "hanja": "打破되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타파하다",
+    "translation": "устгах",
+    "hanja": "打破하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "타포",
+    "translation": "тарполи, ус нэвтрүүлдэггүй брезент",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타프",
+    "translation": "майхны дэвсгэр",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타피",
+    "translation": "тагтаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "타피오카",
+    "translation": "тапиока",
+    "hanja": "tapioca",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "타행",
+    "translation": "хуучин дадал",
+    "hanja": "惰行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "타향",
+    "translation": "харь нутаг",
+    "hanja": "他鄕",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "타향살이",
+    "translation": "харь газар амьдрах",
+    "hanja": "他鄕살이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타협",
+    "translation": "Тохиролцоо",
+    "hanja": "妥協",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "타협안",
+    "translation": "буулт хийх санал",
+    "hanja": "妥協案",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "타협점",
+    "translation": "буулт хийх цэг",
+    "hanja": "妥協點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타협하다",
+    "translation": "буулт хийх, тохиролцох",
+    "hanja": "妥協하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "타호",
+    "translation": "Тахо нуур",
+    "hanja": "Tahoe",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

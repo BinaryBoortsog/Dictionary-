@@ -1,0 +1,261 @@
+[
+  {
+    "word": "덕",
+    "translation": "буян",
+    "hanja": "덕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "덕구",
+    "translation": "Док-гү (нэр)",
+    "hanja": null,
+    "pos": "Proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "덕다",
+    "translation": "нягтруулах",
+    "hanja": "덕다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "덕담",
+    "translation": "Сайн ерөөл",
+    "hanja": "德談",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "덕담하다",
+    "translation": "ерөөх, сайн үг хэлэх",
+    "hanja": "德談하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "덕망",
+    "translation": "ёс суртахууны нэр хүнд",
+    "hanja": "德望",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "덕목",
+    "translation": "үнэт зүйл",
+    "hanja": "德目",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "덕분",
+    "translation": "ачаар, буянаар",
+    "hanja": "德分",
+    "pos": "의존 명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "덕비",
+    "translation": "буян хишиг, сайн үйлс",
+    "hanja": "德毖",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "덕삼",
+    "translation": "дэгсэм",
+    "hanja": "德三",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "덕선",
+    "translation": "덕선 (солонгосын эмэгтэй хүний нэр)",
+    "hanja": "德善",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "덕성",
+    "translation": "Буян, сайн чанар, ариун ёс",
+    "hanja": "德性",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "덕성군",
+    "translation": "Дөгсонгүн (газар нэр)",
+    "hanja": "德城君",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "덕수",
+    "translation": "Дөксу (нэр)",
+    "hanja": "德壽",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "덕수궁",
+    "translation": "Дэгсүгүүн ордон",
+    "hanja": "德壽宮",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "덕스",
+    "translation": "утас",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "덕스럽다",
+    "translation": "буянтай, сайн санаатай",
+    "hanja": "德스럽다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "덕실",
+    "translation": "Дөгшил",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "덕연",
+    "translation": "урт хугацааны сайн тал",
+    "hanja": "德淵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "덕용",
+    "translation": "хямд үнийн",
+    "hanja": "德用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "덕유산",
+    "translation": "Догюусан уул",
+    "hanja": "德裕山",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "덕이",
+    "translation": "дэөг-ий (нэр)",
+    "hanja": "德伊",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "덕장",
+    "translation": "Агуу хүн",
+    "hanja": "德將",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "덕지덕지",
+    "translation": "зузаан зузаанаар",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "덕진",
+    "translation": "Дугжин",
+    "hanja": "德津",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "덕천",
+    "translation": "Докчон (газарзүйн нэр)",
+    "hanja": "德川",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "덕치",
+    "translation": "эрдмийн засаглал",
+    "hanja": "德治",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "덕킹",
+    "translation": "Дакинг (спорт)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "덕택",
+    "translation": "Ачаар",
+    "hanja": "德澤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "덕통사고",
+    "translation": "Фен болох (гүйлгэнэ)",
+    "hanja": "덕통사고",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "덕트",
+    "translation": "яндан",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "덕평",
+    "translation": "Дөкпён (газрын нэр)",
+    "hanja": "德坪",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "덕행",
+    "translation": "буянт үйлс, агуу үйлс",
+    "hanja": "德行",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "덕혜",
+    "translation": "Дөгхйэ (хүний нэр)",
+    "hanja": "德惠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "덕호",
+    "translation": "Докхо",
+    "hanja": "德湖",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "덕화",
+    "translation": "ёс суртахууны нөлөө",
+    "hanja": "德化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "덕후",
+    "translation": "фанат, шүтэн бишрэгч",
+    "hanja": "德厚",
+    "pos": "noun",
+    "cefr": "B2"
+  }
+]

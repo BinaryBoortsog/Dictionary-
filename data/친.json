@@ -1,0 +1,555 @@
+[
+  {
+    "word": "친",
+    "translation": "хамаатан",
+    "hanja": "親",
+    "pos": "접두사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친고죄",
+    "translation": "Гомдол мэдүүлэх шаардлагатай гэмт хэрэг",
+    "hanja": "親告罪",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "친교",
+    "translation": "нарийн нөхөрлөл",
+    "hanja": "親交",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친구",
+    "translation": "найз",
+    "hanja": "親舊",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "친구하다",
+    "translation": "найз нөхөрлөх",
+    "hanja": "親舊하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "친국",
+    "translation": "хэргээр байцаах",
+    "hanja": "親鞠",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "친국하다",
+    "translation": "гэрчлэх (хаан өөрөө байцаах)",
+    "hanja": "親鞫하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "친권",
+    "translation": "эцэг эхийн эрх",
+    "hanja": "親權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친권자",
+    "translation": "эцэг эхийн эрх эзэмшигч",
+    "hanja": "親權者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친근감",
+    "translation": "дотно мэдрэмж",
+    "hanja": "親近感",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "친근하다",
+    "translation": "найрсаг",
+    "hanja": "親近하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "친동생",
+    "translation": "Төрсөн дүү",
+    "hanja": "親同生",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "친디아",
+    "translation": "Чиндиа (Хятад, Энэтхэг)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "친딸",
+    "translation": "төрсөн охин",
+    "hanja": "親딸",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "친명",
+    "translation": "Мён-д ойр",
+    "hanja": "親明",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친모",
+    "translation": "биологийн эх",
+    "hanja": "親母",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친목",
+    "translation": "нөхөрлөл, дотно харилцаа",
+    "hanja": "親睦",
+    "pos": "м.н",
+    "cefr": "B2"
+  },
+  {
+    "word": "친목회",
+    "translation": "нийгмийн цуглаан",
+    "hanja": "親睦會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "친문",
+    "translation": "Мун Жэ-ин-ыг дэмжигч",
+    "hanja": "親文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친미",
+    "translation": "АНУ-д ээлтэй",
+    "hanja": "親美",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친밀",
+    "translation": "дотно, ойр дотно",
+    "hanja": "親密",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "친밀감",
+    "translation": "дотно сэтгэл",
+    "hanja": "親密感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친밀하다",
+    "translation": "ойр дотно",
+    "hanja": "親密하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친부",
+    "translation": "төрсөн эцэг",
+    "hanja": "親父",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친부모",
+    "translation": "төрсөн эцэг эх",
+    "hanja": "親父母",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친북",
+    "translation": "Хойд Солонгосыг дэмжигч",
+    "hanja": "親北",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친분",
+    "translation": "дотно харилцаа",
+    "hanja": "親分",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "친서",
+    "translation": "Хувийн захидал, гар бичмэл",
+    "hanja": "親書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친선",
+    "translation": "Найрсаг харилцаа",
+    "hanja": "親善",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "친소",
+    "translation": "Энгийн харилцаа",
+    "hanja": "親疎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친손녀",
+    "translation": "жинхэнэ ач охин",
+    "hanja": "親孫女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친손자",
+    "translation": "өгөөмөр ач хүү",
+    "hanja": "親孫子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친수",
+    "translation": "усанд ойр байх, усны хайр",
+    "hanja": "親水",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친숙하다",
+    "translation": "танил",
+    "hanja": "親熟하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "친아들",
+    "translation": "жинхэнэ хүү",
+    "hanja": "親아들",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "친아버지",
+    "translation": "төрсөн аав",
+    "hanja": "親아버지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "친애",
+    "translation": "Эрхэм хүндэт",
+    "hanja": "親愛",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "친애하다",
+    "translation": "Хүндэтгэх, хайрлах",
+    "hanja": "親愛하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친어머니",
+    "translation": "Төрсөн ээж",
+    "hanja": "親어머니",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "친언니",
+    "translation": "төрсөн эгч",
+    "hanja": "親언니",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "친영",
+    "translation": "Английн тал, Английг дэмжигч",
+    "hanja": "親英",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친오빠",
+    "translation": "Төрсөн ах",
+    "hanja": "親오빠",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "친왕",
+    "translation": "хунтайж",
+    "hanja": "親王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친우",
+    "translation": "сайн найз",
+    "hanja": "親友",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "친위",
+    "translation": "эзэн хааны хамгаалагч",
+    "hanja": "親衛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "친위대",
+    "translation": "Харуулын цэрэг",
+    "hanja": "親衛隊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친유",
+    "translation": "тосонд уусдаг",
+    "hanja": "親油",
+    "pos": "м/тү",
+    "cefr": "C1"
+  },
+  {
+    "word": "친일",
+    "translation": "Японтой найрсаг харилцаатай",
+    "hanja": "親日",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친일파",
+    "translation": "Японыг дэмжигч",
+    "hanja": "親日派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친자",
+    "translation": "төрсөн хүүхэд",
+    "hanja": "親子",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "친자식",
+    "translation": "Төрсөн хүүхэд",
+    "hanja": "親子息",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친전",
+    "translation": "бичгээр өгөх",
+    "hanja": "親展",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친절",
+    "translation": "найрсаг",
+    "hanja": "親切",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "친절하다",
+    "translation": "Ээлдэг, найрсаг",
+    "hanja": "親切하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "친절히",
+    "translation": "эелдэгээр",
+    "hanja": "親切히",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "친정",
+    "translation": "эхнэрийн төрхөм",
+    "hanja": "親庭",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "친정아버지",
+    "translation": "эцэг",
+    "hanja": "親庭아버지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "친정어머니",
+    "translation": "нөхрийн ээж",
+    "hanja": "親庭어머니",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친정집",
+    "translation": "охины эцэг эхийн гэр",
+    "hanja": "親庭집",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친조",
+    "translation": "хаандаа бараалхах, эцэг эхээ эргэх",
+    "hanja": "親朝",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "친족",
+    "translation": "хамаатан садан",
+    "hanja": "親族",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "친족상도례",
+    "translation": "хамаатан садангийн хулгайн гэмт хэргийн тухай тусгай дүрэм",
+    "hanja": "親族相盜例",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "친종장군",
+    "translation": "Хааны дотны жанжин",
+    "hanja": "親從將軍",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "친중",
+    "translation": "Хятадыг дэмжигч",
+    "hanja": "親中",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친척",
+    "translation": "хамаатан",
+    "hanja": "親戚",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "친체로",
+    "translation": "чинчеро (Перугийн нэгэн газар)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "친추",
+    "translation": "найзын хүсэлт",
+    "hanja": "親추(加)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "친칠라",
+    "translation": "чинчилла",
+    "hanja": "chinchilla",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "친필",
+    "translation": "өөрөө бичсэн",
+    "hanja": "親筆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "친하다",
+    "translation": "дотно байх",
+    "hanja": "親-",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "친한",
+    "translation": "дотно",
+    "hanja": "親한",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "친할머니",
+    "translation": "ээжийн ээж",
+    "hanja": "親할머니",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "친할아버지",
+    "translation": "эхийн талын өвөө",
+    "hanja": "親할아버지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "친형",
+    "translation": "төрсөн ах",
+    "hanja": "親兄",
+    "pos": "мüns",
+    "cefr": "B1"
+  },
+  {
+    "word": "친형제",
+    "translation": "төрсөн ах дүү",
+    "hanja": "親兄弟",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "친화",
+    "translation": "эелдэг, сайн харилцаа",
+    "hanja": "親和",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "친화력",
+    "translation": "дотно харилцаа",
+    "hanja": "親和力",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "친환경",
+    "translation": "байгальд ээлтэй",
+    "hanja": "親環境",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "친히",
+    "translation": "Өөрийн биеэр",
+    "hanja": "親히",
+    "pos": "Adverb",
+    "cefr": "B2"
+  }
+]

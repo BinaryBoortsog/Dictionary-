@@ -1,0 +1,86 @@
+[
+  {
+    "word": "왈",
+    "translation": "гэж хэлэх",
+    "hanja": "曰",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "왈가닥",
+    "translation": "Гулдмай",
+    "hanja": "왈가닥",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "왈가불가",
+    "translation": "сайн мууг ялгах (тухай)",
+    "hanja": "曰可不可",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왈가왈부",
+    "translation": "таалах, таалахгүй байх",
+    "hanja": "曰可曰否",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왈가왈부하다",
+    "translation": "маргах, зөв бурууг шүүх",
+    "hanja": "曰可曰否하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왈라비",
+    "translation": "Валлаби",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왈라키아",
+    "translation": "Валахиа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왈왈",
+    "translation": "хуцах",
+    "hanja": "왈왈",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "왈짜",
+    "translation": "зан хувирашгүй хүн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왈츠",
+    "translation": "вальс",
+    "hanja": "왈츠",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "왈칵",
+    "translation": "урсгах",
+    "hanja": "왈칵",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왈패",
+    "translation": "хорлон",
+    "hanja": "曰牌",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

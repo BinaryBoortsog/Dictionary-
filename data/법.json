@@ -1,0 +1,478 @@
+[
+  {
+    "word": "법",
+    "translation": "хууль",
+    "hanja": "法",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "법가",
+    "translation": "хууль ёсыг баримтлах",
+    "hanja": "法家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법계",
+    "translation": "хуулийн ертөнц",
+    "hanja": "法界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법관",
+    "translation": "шүүгч",
+    "hanja": "法官",
+    "pos": "мüns",
+    "cefr": "B2"
+  },
+  {
+    "word": "법국",
+    "translation": "Франц (эртний нэр)",
+    "hanja": "法國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법궁",
+    "translation": "гол ордон",
+    "hanja": "法宮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법궤",
+    "translation": "хуулийн авдар",
+    "hanja": "法櫃",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법규",
+    "translation": "хууль дүрэм",
+    "hanja": "法規",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법기",
+    "translation": "хуулийн хэрэгсэл",
+    "hanja": "法器",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "법꾸라지",
+    "translation": "хууль бус",
+    "hanja": "法꾸라지",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "법담",
+    "translation": "шашны яриа",
+    "hanja": "法談",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "법당",
+    "translation": "сүм хийдийн танхим",
+    "hanja": "法堂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법대",
+    "translation": "Хуулийн сургууль",
+    "hanja": "法大",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "법도",
+    "translation": "Дүрэм журам",
+    "hanja": "法度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법랑",
+    "translation": "паалан",
+    "hanja": "琺瑯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "법력",
+    "translation": "хуулийн хүчин чадал",
+    "hanja": "法力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법령",
+    "translation": "Хууль тогтоомж",
+    "hanja": "法令",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법률",
+    "translation": "хууль",
+    "hanja": "法律",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "법률가",
+    "translation": "хуульч",
+    "hanja": "法律家",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "법률안",
+    "translation": "хуулийн төсөл",
+    "hanja": "法律案",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법률적",
+    "translation": "хууль эрх зүйн",
+    "hanja": "法律的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법리",
+    "translation": "хууль зүйн зарчим",
+    "hanja": "法理",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "법망",
+    "translation": "Хуулийн тор",
+    "hanja": "法網",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "법명",
+    "translation": "Буддын шашны нэр",
+    "hanja": "法名",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법무",
+    "translation": "хууль зүйн",
+    "hanja": "法務",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법무부",
+    "translation": "хууль зүйн яам",
+    "hanja": "法務部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법문",
+    "translation": "хуулийн заалт",
+    "hanja": "法文",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "법보",
+    "translation": "буддын сургаал",
+    "hanja": "法寶",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법복",
+    "translation": "хуульчдын хувцас, шүүх хувцас",
+    "hanja": "法服",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법사",
+    "translation": "лам",
+    "hanja": "法師",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "법사위",
+    "translation": "хууль зүйн хороо",
+    "hanja": "法司委",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "법상",
+    "translation": "хууль ёсны, хуулийн дагуу",
+    "hanja": "法相",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법석",
+    "translation": "шуугиан",
+    "hanja": "法席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법술",
+    "translation": "ид шид, арга барил",
+    "hanja": "法術",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법식",
+    "translation": "дүрэм, журам",
+    "hanja": "法式",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법신",
+    "translation": "дхармакая",
+    "hanja": "法身",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "법안",
+    "translation": "хуулийн төсөл",
+    "hanja": "法案",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법어",
+    "translation": "бурханы сургаал",
+    "hanja": "法語",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "법원",
+    "translation": "шүүх",
+    "hanja": "法院",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "법이",
+    "translation": "хууль",
+    "hanja": "法이",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "법익",
+    "translation": "хууль ёсны ашиг сонирхол",
+    "hanja": "法益",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "법인",
+    "translation": "хуулийн этгээд",
+    "hanja": "法人",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "법인세",
+    "translation": "Аж ахуйн нэгжийн орлогын татвар",
+    "hanja": "法人稅",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "법장",
+    "translation": "номын сан",
+    "hanja": "法藏",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "법적",
+    "translation": "хууль ёсны",
+    "hanja": "法的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법전",
+    "translation": "хуулийн эмхэтгэл",
+    "hanja": "法典",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "법정",
+    "translation": "шүүх",
+    "hanja": "法廷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법정형",
+    "translation": "хуулиар тогтоосон ял",
+    "hanja": "法定刑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "법제",
+    "translation": "хууль тогтоомж",
+    "hanja": "法制",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "법제화",
+    "translation": "хуульчлах",
+    "hanja": "法制化",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "법제화되다",
+    "translation": "хуульчлагдах",
+    "hanja": "法制化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법제화하다",
+    "translation": "хуульчлах",
+    "hanja": "法制化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법조",
+    "translation": "хууль ёсны",
+    "hanja": "法曹",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법조계",
+    "translation": "хуулийн салбар",
+    "hanja": "法曹界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법조문",
+    "translation": "хуулийн зүйл, заалт",
+    "hanja": "法條文",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법조인",
+    "translation": "хуульч",
+    "hanja": "法曹人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법주",
+    "translation": "буддын хууль",
+    "hanja": "法主",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "법질서",
+    "translation": "Хууль тогтоомж, хуулийн хэв журам",
+    "hanja": "法秩序",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법체계",
+    "translation": "хууль эрх зүйн тогтолцоо",
+    "hanja": "法體系",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법치주의",
+    "translation": "хуульт ёс",
+    "hanja": "法治主義",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "법칙",
+    "translation": "хууль",
+    "hanja": "法則",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "법카",
+    "translation": "хуулийн карт",
+    "hanja": "법카",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "법통",
+    "translation": "хуулийн залгамжлал",
+    "hanja": "法統",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "법하다",
+    "translation": "хууль ёсны байх, зохимжтой байх",
+    "hanja": "法하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "법학",
+    "translation": "хууль зүй",
+    "hanja": "法學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "법학자",
+    "translation": "хуульч",
+    "hanja": "法學者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "법황",
+    "translation": "пап лам",
+    "hanja": "法皇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "법회",
+    "translation": "бурханы шашны хурал",
+    "hanja": "法會",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

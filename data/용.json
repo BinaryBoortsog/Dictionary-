@@ -1,0 +1,968 @@
+[
+  {
+    "word": "용",
+    "translation": "луу",
+    "hanja": "龍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용감무쌍",
+    "translation": "гайхамшигтай зоригтой",
+    "hanja": "勇敢無雙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용감무쌍하다",
+    "translation": "аймшиггүй зоригтой",
+    "hanja": "勇敢無雙하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "용감성",
+    "translation": "эр зориг",
+    "hanja": "勇敢性",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용감하다",
+    "translation": "зоригтой",
+    "hanja": "勇敢하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용감히",
+    "translation": "эр зоригтойгоор",
+    "hanja": "勇敢히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용강",
+    "translation": "Ёнган (газар зүйн нэр)",
+    "hanja": "龍岡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용건",
+    "translation": "шаардлага",
+    "hanja": "用件",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용계",
+    "translation": "Ёнгэ (газар нэр)",
+    "hanja": "龍溪",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용고",
+    "translation": "Луугийн бөмбөр (уран баримал)",
+    "hanja": "龍鼓",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "용골",
+    "translation": "Хөлгийн ёроолын яс",
+    "hanja": "龍骨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용골대",
+    "translation": "Луугийн яс",
+    "hanja": "龍骨大",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용공",
+    "translation": "Коммунист, коммунизм",
+    "hanja": "容共",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용과",
+    "translation": "луу жимс",
+    "hanja": "龍果",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용광로",
+    "translation": "хайлуулах зуух",
+    "hanja": "溶鑛爐",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용구",
+    "translation": "хэрэгсэл",
+    "hanja": "用具",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용궁",
+    "translation": "луугийн ордон",
+    "hanja": "龍宮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용규",
+    "translation": "Ёнгю",
+    "hanja": "榕圭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용기",
+    "translation": "Зориг",
+    "hanja": "勇氣",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "용남",
+    "translation": "эр хүн, хүү",
+    "hanja": "龍男",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용납",
+    "translation": "зөвшөөрөх",
+    "hanja": "容納",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "용납되다",
+    "translation": "хүлээгдэх",
+    "hanja": "容納되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "용납하다",
+    "translation": "хүлцэн зөвшөөрөх",
+    "hanja": "容納하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용녀",
+    "translation": "Лусын дагина",
+    "hanja": "龍女",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용단",
+    "translation": "зоригтой шийдвэр",
+    "hanja": "勇斷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용달",
+    "translation": "Ачаа тээвэр",
+    "hanja": "用達",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용달차",
+    "translation": "жижиг ачааны машин",
+    "hanja": "用達車",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용담",
+    "translation": "луутай нутаг (уул) / шаргал цэцэг",
+    "hanja": "龍潭",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "용대",
+    "translation": "Төрийн албан тушаалтан",
+    "hanja": "龍大",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용덕",
+    "translation": "лусын эрхэм чанар",
+    "hanja": "龍德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용도",
+    "translation": "зориулалт",
+    "hanja": "用途",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용돈",
+    "translation": "хармааны мөнгө",
+    "hanja": "用돈",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "용동",
+    "translation": "хөдөлгөөн, чичиргээ",
+    "hanja": "湧動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용두",
+    "translation": "Луугийн толгой",
+    "hanja": "龍頭",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "용두사미",
+    "translation": "эхлэл нь сайн байгаад төгсгөл нь муу болох",
+    "hanja": "龍頭蛇尾",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "용띠",
+    "translation": "луу жил",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용량",
+    "translation": "багтаамж",
+    "hanja": "容量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용력",
+    "translation": "хүч чадал",
+    "hanja": "用曆",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "용렬하다",
+    "translation": "чадваргүй",
+    "hanja": "庸劣하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "용례",
+    "translation": "хэрэглээний жишээ",
+    "hanja": "用例",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용마",
+    "translation": "луу морь",
+    "hanja": "龍馬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용매",
+    "translation": "уусгагч",
+    "hanja": "溶媒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용맥",
+    "translation": "Лусын суд",
+    "hanja": "龍脈",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "용맹",
+    "translation": "Эрэмгий, зоригтой",
+    "hanja": "勇猛",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "용맹스럽다",
+    "translation": "эрэлхэг, зоригтой",
+    "hanja": "勇猛스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용맹하다",
+    "translation": "эрэлхэг",
+    "hanja": "勇猛하다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "용명",
+    "translation": "алдар нэр",
+    "hanja": "勇名",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "용모",
+    "translation": "царай зүс",
+    "hanja": "容貌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용무",
+    "translation": "Үүрэг, бизнес",
+    "hanja": "用務",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용묵",
+    "translation": "уусалт",
+    "hanja": "溶墨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용문",
+    "translation": "лууны хаалга",
+    "hanja": "龍門",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용미",
+    "translation": "лууны сүүл",
+    "hanja": "龍尾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용법",
+    "translation": "хэрэглээ",
+    "hanja": "用法",
+    "pos": "нэр үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "용변",
+    "translation": "биелээ",
+    "hanja": "用便",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용병",
+    "translation": "Төмөр цэрэг",
+    "hanja": "傭兵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용복",
+    "translation": "эзэн хааны хувцас",
+    "hanja": "龍服",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용봉",
+    "translation": "луу, гал шувуу",
+    "hanja": "龍鳳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용비어천가",
+    "translation": "Ёнби-очонга (Солонгосын хуучин найруулгын зохиол)",
+    "hanja": "龍飛御天歌",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "용사",
+    "translation": "баатар",
+    "hanja": "勇士",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "용산",
+    "translation": "Ёнсан",
+    "hanja": "龍山",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "용상",
+    "translation": "хаан ширээ",
+    "hanja": "龍床",
+    "pos": "сущ",
+    "cefr": "C1"
+  },
+  {
+    "word": "용서",
+    "translation": "уучлал",
+    "hanja": "容恕",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "용서되다",
+    "translation": "уучлагдах, өршөөгдөх",
+    "hanja": "容恕되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용서하다",
+    "translation": "уучлах",
+    "hanja": "容恕하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "용석",
+    "translation": "луу чулуу",
+    "hanja": "龍石",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용선",
+    "translation": "хайлш",
+    "hanja": "鎔銑",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "용성",
+    "translation": "Хөгжил цэцэглэлт",
+    "hanja": "隆盛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용소",
+    "translation": "луугийн нуур",
+    "hanja": "龍沼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용솟음치다",
+    "translation": "шоргоолж мэт оргилох, гэнэт гарч ирэх",
+    "hanja": "湧솟음치다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용수",
+    "translation": "усны хэрэглээ",
+    "hanja": "用水",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용수철",
+    "translation": "пүрш",
+    "hanja": "湧水鐵",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "용승",
+    "translation": "эртлэн босох",
+    "hanja": "湧昇",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용식",
+    "translation": "уусгалт",
+    "hanja": "溶蝕",
+    "pos": "м.н",
+    "cefr": "C2"
+  },
+  {
+    "word": "용신",
+    "translation": "Лусын савдаг",
+    "hanja": "龍神",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "용쓰다",
+    "translation": "чармайх, хүчин чармайлт гаргах",
+    "hanja": "用쓰다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "용아",
+    "translation": "луун шүд",
+    "hanja": "龍牙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용안",
+    "translation": "лууны нүүр",
+    "hanja": "龍顔",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "용암",
+    "translation": "Галт уулын хайлмал",
+    "hanja": "熔巖",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "용액",
+    "translation": "уусмал",
+    "hanja": "溶液",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용약",
+    "translation": "эм",
+    "hanja": "用藥",
+    "pos": "мөн",
+    "cefr": "B2"
+  },
+  {
+    "word": "용어",
+    "translation": "нэр томъёо",
+    "hanja": "用語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용언",
+    "translation": "Үйл үг, тэмдэг үг",
+    "hanja": "用言",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "용역",
+    "translation": "үйлчилгээ",
+    "hanja": "用役",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용왕",
+    "translation": "лууны хаан",
+    "hanja": "龍王",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "용용",
+    "translation": "луу (хүүхдийн хэлээр)",
+    "hanja": "龍龍",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "용원",
+    "translation": "мөнхийн булаг",
+    "hanja": "湧源",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용의",
+    "translation": "Сэжиг",
+    "hanja": "容疑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용의선상",
+    "translation": "сэжигтэн",
+    "hanja": "容疑線上",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용의자",
+    "translation": "сэжигтэн",
+    "hanja": "容疑者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용의주도하다",
+    "translation": "Нарийн төлөвлөх",
+    "hanja": "用意周到하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용이",
+    "translation": "хялбар",
+    "hanja": "容易",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용이하다",
+    "translation": "хялбар, амархан",
+    "hanja": "容易하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용인",
+    "translation": "хүлцэл, зөвшөөрөл",
+    "hanja": "容認",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용인되다",
+    "translation": "хүлцэх",
+    "hanja": "容認되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "용인하다",
+    "translation": "Зөвшөөрөх, хүлцэх",
+    "hanja": "容忍하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용자",
+    "translation": "зоригтой хүн",
+    "hanja": "勇者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용장",
+    "translation": "зоригтой генерал",
+    "hanja": "勇將",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용재",
+    "translation": "чухал материал, авъяаслаг хүн",
+    "hanja": "用材",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용저",
+    "translation": "луугийн хөл",
+    "hanja": "龍猪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용적",
+    "translation": "эзлэхүүн, багтаамж",
+    "hanja": "容積",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "용적률",
+    "translation": "эзэлхүүний харьцаа",
+    "hanja": "容積률",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "용접",
+    "translation": "гагнах",
+    "hanja": "溶接",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용접공",
+    "translation": "Гагнуурчин",
+    "hanja": "溶接工",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "용접되다",
+    "translation": "гагнах",
+    "hanja": "鎔接되다",
+    "pos": "үйл үг",
+    "cefr": "B1"
+  },
+  {
+    "word": "용접하다",
+    "translation": "гагнах",
+    "hanja": "溶接하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용정",
+    "translation": "Лунжин",
+    "hanja": "龍井",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용제",
+    "translation": "уусгагч",
+    "hanja": "溶劑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용조",
+    "translation": "луу хийх",
+    "hanja": "龍爪",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용족",
+    "translation": "Луугийн удам",
+    "hanja": "龍族",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용종",
+    "translation": "ургацаг",
+    "hanja": "茸腫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용주",
+    "translation": "Луут завь",
+    "hanja": "龍舟",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용지",
+    "translation": "Цаас",
+    "hanja": "用紙",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "용진",
+    "translation": "эр зориг",
+    "hanja": "勇進",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용채",
+    "translation": "хүч чадал",
+    "hanja": "用財",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용처",
+    "translation": "ашиглах газар",
+    "hanja": "用處",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "용체",
+    "translation": "лууны бие",
+    "hanja": "龍體",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "용촉",
+    "translation": "луугийн лаа",
+    "hanja": "龍燭",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "용추",
+    "translation": "луугийн хүрхрээ",
+    "hanja": "龍湫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용출",
+    "translation": "Буцалж гарах",
+    "hanja": "湧出",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "용타",
+    "translation": "чадвартай",
+    "hanja": "用唾",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용태",
+    "translation": "байдал, өвчний байдал",
+    "hanja": "容態",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용퇴",
+    "translation": "албан тушаалаас сайн дураар огцрох",
+    "hanja": "勇退",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용퇴하다",
+    "translation": "нэр төртэйгээр тэтгэвэрт гарах",
+    "hanja": "勇退하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용트림",
+    "translation": "луугийн гэдэс",
+    "hanja": "龍트림",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용평",
+    "translation": "Ёнпён (газрын нэр)",
+    "hanja": "龍平",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용포",
+    "translation": "луут хувцас (эх хааны)",
+    "hanja": "龍袍",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용품",
+    "translation": "хэрэглэл",
+    "hanja": "用品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용필",
+    "translation": "лууны бичээс, гайхалтай бичих",
+    "hanja": "用筆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용하다",
+    "translation": "чадварлаг, гарамгай",
+    "hanja": "用하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "용학",
+    "translation": "үнэхээр их сурах",
+    "hanja": "用學",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "용한",
+    "translation": "ашигтай, үр дүнтэй",
+    "hanja": "用한",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "용해",
+    "translation": "уусгах, хайлуулах",
+    "hanja": "溶解",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "용해되다",
+    "translation": "Уусах",
+    "hanja": "溶解-",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "용형",
+    "translation": "Луу хэлбэртэй",
+    "hanja": "龍形",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용호",
+    "translation": "Луу ба бар",
+    "hanja": "龍虎",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "용화",
+    "translation": "Луут болох; бурхан болох (Буддын шашин); хувиран өөрчлөгдөх",
+    "hanja": "龍化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "용후",
+    "translation": "лууны хойно",
+    "hanja": "龍後",
+    "pos": "нэр үг",
+    "cefr": "C2"
+  },
+  {
+    "word": "용히",
+    "translation": "Амархан, амар хялбар",
+    "hanja": "容易히",
+    "pos": "부사",
+    "cefr": "C1"
+  }
+]

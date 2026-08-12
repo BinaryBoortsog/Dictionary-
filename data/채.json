@@ -1,0 +1,618 @@
+[
+  {
+    "word": "채",
+    "translation": "түлхүүр, байшин",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "채결하다",
+    "translation": "шалгах",
+    "hanja": "採決하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채경",
+    "translation": "Чай Чин",
+    "hanja": "蔡京",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "채광",
+    "translation": "гэрэлтүүлэг, гэрэл авах",
+    "hanja": "採光",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채굴",
+    "translation": "олборлолт, ухах",
+    "hanja": "採掘",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "채굴되다",
+    "translation": "олборлогдох, ухагдах",
+    "hanja": "採掘되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채굴업자",
+    "translation": "олборлогч",
+    "hanja": "採掘業者",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "채굴하다",
+    "translation": "олборлох",
+    "hanja": "採掘하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채권",
+    "translation": "Өрийн бичиг, бонд",
+    "hanja": "債券",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "채권자",
+    "translation": "зээлдүүлэгч, үүргийг гүйцэтгүүлэх эрхтэй этгээд",
+    "hanja": "債權者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채근",
+    "translation": "дарамтлах, шаардах",
+    "hanja": "催根",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채근하다",
+    "translation": "Шаардах, ятгах",
+    "hanja": "促根하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채끝",
+    "translation": "үхрийн нурууны чац",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채널",
+    "translation": "суваг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "채널링",
+    "translation": "суваг хөтлөх, давалгаа үүсгэх",
+    "hanja": "channeling",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채다",
+    "translation": "барих",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "채도",
+    "translation": "өнгийн ханалт",
+    "hanja": "彩度",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "채드",
+    "translation": "Чад",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "채드윅",
+    "translation": "Чедвик (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "채디",
+    "translation": "Чэди (газарзүйн нэр)",
+    "hanja": "채디",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "채록",
+    "translation": "Бичих, тэмдэглэх (дуу, яриа, өгүүлэл гэх мэт)",
+    "hanja": "採錄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채록하다",
+    "translation": "бүртгэх, тэмдэглэх",
+    "hanja": "採錄하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채리",
+    "translation": "Чери",
+    "hanja": "채리",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "채무",
+    "translation": "өр төлбөр",
+    "hanja": "債務",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채무자",
+    "translation": "өртэй хүн, өр барагдуулагч",
+    "hanja": "債務者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채반",
+    "translation": "сагс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채봉",
+    "translation": "нэр (хүний)",
+    "hanja": "彩俸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "채비",
+    "translation": "бэлтгэл",
+    "hanja": "채비",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "채비하다",
+    "translation": "бэлдэх, бэлтгэх",
+    "hanja": "채비하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채색",
+    "translation": "Будах, өнгө оруулах",
+    "hanja": "彩色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채색되다",
+    "translation": "будсан байх",
+    "hanja": "彩色되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "채색하다",
+    "translation": "өнгөөр будах",
+    "hanja": "彩色하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채색화",
+    "translation": "өнгөт зураг",
+    "hanja": "彩色畫",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "채석",
+    "translation": "чулуу олборлох",
+    "hanja": "採石",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "채석장",
+    "translation": "чулууны карьер",
+    "hanja": "採石場",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "채선",
+    "translation": "сонгох",
+    "hanja": "採選",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "채소",
+    "translation": "ногоо",
+    "hanja": "菜蔬",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "채소밭",
+    "translation": "ногооны талбай",
+    "hanja": "菜蔬밭",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "채솟값",
+    "translation": "хүнсний ногооны үнэ",
+    "hanja": "菜所-",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채송아",
+    "translation": "Чэсон-ах",
+    "hanja": "蔡松兒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채송화",
+    "translation": "Шанц",
+    "hanja": "채송화",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채수",
+    "translation": "усанд ургах ногоо",
+    "hanja": "採水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채식",
+    "translation": "цагаан хоол",
+    "hanja": "菜食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채식주의",
+    "translation": "цагаан хоолтон",
+    "hanja": "菜食主義",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "채식하다",
+    "translation": "цагаан хоолтон байх",
+    "hanja": "菜食하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "채썰기",
+    "translation": "урт нарийхан хэрчих",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "채씨",
+    "translation": "Чэ овог",
+    "hanja": "蔡氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채옹",
+    "translation": "Чэ Юн (хүний нэр)",
+    "hanja": "蔡邕",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "채용",
+    "translation": "ажилд авах",
+    "hanja": "採用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채용되다",
+    "translation": "ажилд орох, сонгогдох",
+    "hanja": "採用되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채용하다",
+    "translation": "Ажилд авах",
+    "hanja": "採用하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채우다",
+    "translation": "дүүргэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채유",
+    "translation": "газрын тос олборлох",
+    "hanja": "採油",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채이다",
+    "translation": "хөлөөрөө өшиглүүлэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "채점",
+    "translation": "Оноо тавих",
+    "hanja": "採點",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "채점되다",
+    "translation": "Шалгах, үнэлэх",
+    "hanja": "採點되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채점하다",
+    "translation": "үнэлэх, оноо өгөх",
+    "hanja": "採點하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채종",
+    "translation": "үрийг цуглуулах",
+    "hanja": "採種",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채주",
+    "translation": "өнгөт дарс",
+    "hanja": "彩酒",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "채증",
+    "translation": "нотлох баримт цуглуулах",
+    "hanja": "採證",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채집",
+    "translation": "цуглуулах",
+    "hanja": "採集",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채집되다",
+    "translation": "цуглуулах",
+    "hanja": "採集되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채집하다",
+    "translation": "цуглуулах",
+    "hanja": "採集—",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "채찍",
+    "translation": "Ташуур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채찍질",
+    "translation": "Ташуурдах",
+    "hanja": "채찍질",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채찍질하다",
+    "translation": "ташуурдах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채취",
+    "translation": "цуглуулах, олборлох",
+    "hanja": "採取",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채취되다",
+    "translation": "цуглуулагдах",
+    "hanja": "採取되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "채취하다",
+    "translation": "цуглуулах",
+    "hanja": "採取하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채치다",
+    "translation": "шигших",
+    "hanja": "채치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채칼",
+    "translation": "хүнсний ногоо үрэгч",
+    "hanja": "채칼",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "채택",
+    "translation": "сонгох, батлах",
+    "hanja": "採擇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채택되다",
+    "translation": "сонгдох",
+    "hanja": "採擇되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채택하다",
+    "translation": "Сонгох, батлах, хүлээн авах",
+    "hanja": "採擇하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "채터",
+    "translation": "Чаттер (шууд орчуулга байхгүй)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채터링",
+    "translation": "Чатлах (дуу чимээ)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "채팅",
+    "translation": "Чатлах, ярилцах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "채팅하다",
+    "translation": "чатлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "채프",
+    "translation": "цацраг туяа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "채프먼",
+    "translation": "Чапман",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "채플",
+    "translation": "чапел",
+    "hanja": "Chapel",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채플린",
+    "translation": "Чаплин",
+    "hanja": "채플린",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "채피",
+    "translation": "чафи",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "채혈",
+    "translation": "Цус авах",
+    "hanja": "採血",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "채혈하다",
+    "translation": "цус авах",
+    "hanja": "採血하다",
+    "pos": "v",
+    "cefr": "B2"
+  },
+  {
+    "word": "채홍",
+    "translation": "солонго",
+    "hanja": "彩虹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "채화",
+    "translation": "өнгөт зураг, будагтай цэцэг",
+    "hanja": "彩畫",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "채화되다",
+    "translation": "өнгөөр чимэглэх",
+    "hanja": "彩畫되다",
+    "pos": "동사",
+    "cefr": "C1"
+  }
+]

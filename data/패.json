@@ -1,0 +1,723 @@
+[
+  {
+    "word": "패",
+    "translation": "алдагдал, ялагдал",
+    "hanja": "敗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패가망신",
+    "translation": "гэр бүр сүйрэх",
+    "hanja": "敗家亡身",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패가망신하다",
+    "translation": "гэр бүлээ сүйрүүлэх",
+    "hanja": "敗家亡身하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "패각",
+    "translation": "Хясаа",
+    "hanja": "貝殼",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "패거리",
+    "translation": "бүлэг",
+    "hanja": "패거리",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "패권",
+    "translation": "Гегемон, ноёрхол",
+    "hanja": "覇權",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "패널",
+    "translation": "Хавтан",
+    "hanja": "패널",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패널티",
+    "translation": "торгууль",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패닝",
+    "translation": "панинг",
+    "hanja": "패닝",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패다",
+    "translation": "цохих, нүдэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "패대기치다",
+    "translation": "савж хаях",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패도",
+    "translation": "Түрэмгий зан, харгислал",
+    "hanja": "覇道",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "패독",
+    "translation": "мууллах, гутаах",
+    "hanja": "敗毒",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "패드",
+    "translation": "дэвсгэр",
+    "hanja": "패드",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패들링",
+    "translation": "сэлүүрдэх",
+    "hanja": "패들링",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "패딩",
+    "translation": "паддинг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "패랭이",
+    "translation": "уламжлалт малгай",
+    "hanja": "패랭이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패러글라이더",
+    "translation": "параглайдер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패러글라이딩",
+    "translation": "параглайдинг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패러다임",
+    "translation": "парадигм",
+    "hanja": "paradigm",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패러데이",
+    "translation": "Фарадей",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패러독스",
+    "translation": "парадокс",
+    "hanja": "Paradox",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "패러디",
+    "translation": "Инээдэмжүүлэг",
+    "hanja": "패러디",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패럴림픽",
+    "translation": "паралимпик",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패럿",
+    "translation": "Феррет (амьтан)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패류",
+    "translation": "хясаа",
+    "hanja": "貝類",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "패륜",
+    "translation": "패륜",
+    "hanja": "悖倫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패륜아",
+    "translation": "ёс суртахуунгүй хүүхэд",
+    "hanja": "悖倫兒",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "패리",
+    "translation": "пари (тулалдааны нэр томъёо)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패링",
+    "translation": "хасах, тусгах",
+    "hanja": "패링",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패망",
+    "translation": "ялагдал",
+    "hanja": "敗亡",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "패망하다",
+    "translation": "сүйрэх",
+    "hanja": "敗亡하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패물",
+    "translation": "үнэт эдлэл, чимэг зүүсгэл",
+    "hanja": "佩物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패미",
+    "translation": "Феминист",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패밀리",
+    "translation": "Гэр бүл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "패배",
+    "translation": "Ялагдал",
+    "hanja": "敗北",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패배감",
+    "translation": "ялагдлын мэдрэмж",
+    "hanja": "敗北感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패배시키다",
+    "translation": "ялах, бут цохих",
+    "hanja": "敗北시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패배자",
+    "translation": "ялчигч",
+    "hanja": "敗北者",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "패배주의",
+    "translation": "ялагдагч үзэл",
+    "hanja": "敗北主義",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "패배하다",
+    "translation": "ялагдах",
+    "hanja": "敗北하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "패블릿",
+    "translation": "фаблет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패색",
+    "translation": "хожигдох шинж",
+    "hanja": "敗色",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패서디나",
+    "translation": "Пасадена (Хотын нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "패설",
+    "translation": "хорт үг",
+    "hanja": "悖說",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "패셔니스타",
+    "translation": "Загвар өмсөгч, загварлаг хүн",
+    "hanja": "패셔니스타",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패션",
+    "translation": "Загвар, моод",
+    "hanja": "패션",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "패션계",
+    "translation": "загварын ертөнц",
+    "hanja": "fashion界",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "패션쇼",
+    "translation": "загварын шоу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "패소",
+    "translation": "ял нэхэх",
+    "hanja": "敗訴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패소하다",
+    "translation": "шилбэрэх",
+    "hanja": "敗訴하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패수",
+    "translation": "ялагдсан цэрэг",
+    "hanja": "敗數",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "패스",
+    "translation": "дамжуулалт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패스워드",
+    "translation": "нууц үг",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "패스트",
+    "translation": "хурдан",
+    "hanja": "N/A",
+    "pos": "Adjective (English loan)",
+    "cefr": "N/A"
+  },
+  {
+    "word": "패스트리",
+    "translation": "Тамхины боов",
+    "hanja": "패스트리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패스트푸드",
+    "translation": "түргэн хоол",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "패스파인더",
+    "translation": "Зам заагч",
+    "hanja": "Pathfinder",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패스포트",
+    "translation": "паспорт",
+    "hanja": "패스포트",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "패스하다",
+    "translation": "тэнцэх, дамжуулах",
+    "hanja": "패스하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "패시브",
+    "translation": "идэвхгүй",
+    "hanja": "패시브",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "패싸움",
+    "translation": "Зодолдоон",
+    "hanja": "패싸움",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패싸움하다",
+    "translation": "зодолдох",
+    "hanja": "牌爭─",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패악",
+    "translation": "мунхаг",
+    "hanja": "悖惡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패악스럽다",
+    "translation": "муу санаатай",
+    "hanja": "悖惡스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패역",
+    "translation": "хууран мэхлэх",
+    "hanja": "悖逆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패역하다",
+    "translation": "тэрслэх",
+    "hanja": "悖逆-",
+    "pos": "adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "패완얼",
+    "translation": "хувцас нь царайнаас хамаарна",
+    "hanja": "패完얼",
+    "pos": "신조어",
+    "cefr": "B2"
+  },
+  {
+    "word": "패왕",
+    "translation": "Ялагч, хүчирхэг хаан",
+    "hanja": "覇王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패왕별희",
+    "translation": "Баатар хаан ба Татвар эмэгтэй",
+    "hanja": "覇王別姬",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "패이다",
+    "translation": "цоорхой үүсгэх",
+    "hanja": "패이다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패인",
+    "translation": "шалгтгаан",
+    "hanja": "敗因",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패자",
+    "translation": "ялагдсан хүн",
+    "hanja": "敗者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패잔병",
+    "translation": "ялагдсан цэрэг",
+    "hanja": "敗殘兵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패장",
+    "translation": "ялагдсан жанжин",
+    "hanja": "敗將",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패전",
+    "translation": "ялагдал",
+    "hanja": "敗戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패전국",
+    "translation": "ялагдсан улс",
+    "hanja": "敗戰國",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "패전하다",
+    "translation": "Ялагдах, дайнд ялагдах",
+    "hanja": "敗戰하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "패주하다",
+    "translation": "зугтах, ялагдах",
+    "hanja": "敗走하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패착",
+    "translation": "алдаатай нүүдэл, бүдүүлэг алдаа",
+    "hanja": "敗着",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패총",
+    "translation": "хүнсний үлдэгдэл овоолго",
+    "hanja": "貝塚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패치",
+    "translation": "нөхөөс, засвар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패치스",
+    "translation": "нөхөөс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "패치워크",
+    "translation": "хэсэг оёмол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패커",
+    "translation": "пагер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "패키지",
+    "translation": "багц",
+    "hanja": "package",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "패키징",
+    "translation": "сав баглаа боодол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패킷",
+    "translation": "багц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패킹",
+    "translation": "савлах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패킹하다",
+    "translation": "Баглах, савлах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패터슨",
+    "translation": "Патерсон (хүний нэр)",
+    "hanja": "Patterson",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패턴",
+    "translation": "хэв маяг, загвар",
+    "hanja": "패턴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패퇴",
+    "translation": "ялагдал",
+    "hanja": "敗退",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "패퇴하다",
+    "translation": "ялагдаж ухрах",
+    "hanja": "敗退하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "패트",
+    "translation": "PET (хуванцар)",
+    "hanja": "PET",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패트롤",
+    "translation": "эргүүл, патруль",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "패트리어트",
+    "translation": "Эх оронч",
+    "hanja": "패트리어트",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "패트릭",
+    "translation": "Патрик",
+    "hanja": "Patrick",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "패티",
+    "translation": "патт",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "패팅",
+    "translation": "илэх, таших",
+    "hanja": "patting",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패피",
+    "translation": "хувцаслалтаараа алдартай хүн",
+    "hanja": "패피",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "패하다",
+    "translation": "ялагдах",
+    "hanja": "敗하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "패혈증",
+    "translation": "Цусны хордлого",
+    "hanja": "敗血症",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

@@ -1,0 +1,765 @@
+[
+  {
+    "word": "군",
+    "translation": "цэрэг",
+    "hanja": "軍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "군가",
+    "translation": "цэргийн дуу",
+    "hanja": "軍歌",
+    "pos": "명са",
+    "cefr": "A2"
+  },
+  {
+    "word": "군검",
+    "translation": "цэргийн прокурор",
+    "hanja": "軍檢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군것질",
+    "translation": "хөнгөн зууш",
+    "hanja": "군것질",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "군것질하다",
+    "translation": "зууш идэх",
+    "hanja": "None",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "군견",
+    "translation": "цэргийн нохой",
+    "hanja": "軍犬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군경",
+    "translation": "Цэрэг, цагдаа",
+    "hanja": "軍警",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군계",
+    "translation": "тахиа",
+    "hanja": "群鷄",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "군계일학",
+    "translation": "олон хүнээс ялгарсан нэг хүн",
+    "hanja": "群鷄一鶴",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "군고구마",
+    "translation": "шарсан амтат төмс",
+    "hanja": "군고구마",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "군공",
+    "translation": "цэргийн гавьяа",
+    "hanja": "軍功",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군관",
+    "translation": "офицер",
+    "hanja": "軍官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군구",
+    "translation": "цэргийн тойрог",
+    "hanja": "軍區",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군국주의",
+    "translation": "милитаризм",
+    "hanja": "軍國主義",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "군권",
+    "translation": "Цэргийн эрх мэдэл",
+    "hanja": "軍權",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "군기",
+    "translation": "Сахилга бат",
+    "hanja": "軍紀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군납",
+    "translation": "цэргийн хангамж",
+    "hanja": "軍納",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군내",
+    "translation": "муухай үнэр",
+    "hanja": "軍내",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군단",
+    "translation": "корпус",
+    "hanja": "軍團",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군대",
+    "translation": "цэрэг, арми",
+    "hanja": "軍隊",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "군대식",
+    "translation": "цэргийн маягаар",
+    "hanja": "軍隊式",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "군더더기",
+    "translation": "илүүдэл",
+    "hanja": "군더더기",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군데",
+    "translation": "газар",
+    "hanja": "군데",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "군데군데",
+    "translation": "Хэд хэдэн газар",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "군도",
+    "translation": "архипелаг",
+    "hanja": "群島",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군락",
+    "translation": "бөөгнөрөл",
+    "hanja": "群落",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군량",
+    "translation": "Цэргийн хүнс",
+    "hanja": "軍糧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군량미",
+    "translation": "цэргийн хүнс, цэргийн тариа",
+    "hanja": "군량미(軍糧米)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군령",
+    "translation": "цэргийн тушаал",
+    "hanja": "軍令",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군림",
+    "translation": "ноёрхох",
+    "hanja": "君臨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군림하다",
+    "translation": "ноёрхох",
+    "hanja": "君臨하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "군마",
+    "translation": "байлдааны морь",
+    "hanja": "軍馬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군만두",
+    "translation": "шарсан банш",
+    "hanja": "군만두",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "군말",
+    "translation": "илүү үг",
+    "hanja": "군말",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "군말하다",
+    "translation": "хэрэггүй үг хэлэх",
+    "hanja": "群 말하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "군모",
+    "translation": "цэргийн малгай",
+    "hanja": "軍帽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "군목",
+    "translation": "цэргүүдийн пастор",
+    "hanja": "軍牧",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "군무",
+    "translation": "Бүжгийн хамтлаг",
+    "hanja": "群舞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군무하다",
+    "translation": "бүлгээр бүжиглэх",
+    "hanja": "群舞하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군민",
+    "translation": "Цэрэг, ард түмэн",
+    "hanja": "軍民",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "군밤",
+    "translation": "шарсан самарын жимс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "군번",
+    "translation": "Цэргийн дугаар",
+    "hanja": "軍番",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군벌",
+    "translation": "дайны ноён",
+    "hanja": "軍閥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군법",
+    "translation": "цэргийн хууль",
+    "hanja": "軍法",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "군병",
+    "translation": "цэрэг, цэргийн хүн",
+    "hanja": "軍兵",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "군보",
+    "translation": "цэргийн бүртгэл",
+    "hanja": "軍保",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "군복",
+    "translation": "цэргийн хувцас",
+    "hanja": "軍服",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "군부",
+    "translation": "цэргийн дарга нар",
+    "hanja": "軍部",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군부대",
+    "translation": "Цэргийн анги",
+    "hanja": "軍部隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군비",
+    "translation": "цэргийн зардал",
+    "hanja": "軍備",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군사",
+    "translation": "цэрэг",
+    "hanja": "軍事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군사력",
+    "translation": "цэргийн хүч",
+    "hanja": "軍事力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군사비",
+    "translation": "Цэргийн зардал, батлан хамгаалах зардал",
+    "hanja": "軍事費",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군사적",
+    "translation": "цэргийн",
+    "hanja": "軍事的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군사학",
+    "translation": "Цэргийн ухаан",
+    "hanja": "軍事學",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "군산",
+    "translation": "Гунсан (хот)",
+    "hanja": "群山",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "군살",
+    "translation": "илүүдэл өөх",
+    "hanja": "軍살",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군상",
+    "translation": "олны хөрөг",
+    "hanja": "群像",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "군색하다",
+    "translation": "ядуу, өнгөгүй",
+    "hanja": "窘塞하다",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "군선",
+    "translation": "бүлэг усан онгоц",
+    "hanja": "群船",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군세",
+    "translation": "цэргийн хүч",
+    "hanja": "軍勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군소",
+    "translation": "жижиг, бага",
+    "hanja": "群小",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군소리",
+    "translation": "хоосон яриа",
+    "hanja": "Sino-Korean word by sound of 군(群) and 소리 (소리)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "군속",
+    "translation": "энгийн ажилтан (цэргийн албанд)",
+    "hanja": "軍屬",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군수",
+    "translation": "цэргийн хангамж",
+    "hanja": "軍需",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군수품",
+    "translation": "Цэргийн хангамж",
+    "hanja": "軍需品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군식구",
+    "translation": "хэрэгцээгүй гишүүн",
+    "hanja": "群食口",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군신",
+    "translation": "хаан ба түшмэл",
+    "hanja": "君臣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군아",
+    "translation": "залуу",
+    "hanja": "君아",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "군악",
+    "translation": "цэргийн хөгжим",
+    "hanja": "軍樂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군악대",
+    "translation": "цэргийн үлээвэр найрал хөгжим",
+    "hanja": "軍樂隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군역",
+    "translation": "цэргийн алба",
+    "hanja": "軍役",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군영",
+    "translation": "цэргийн хуаран",
+    "hanja": "軍營",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "군왕",
+    "translation": "хаан, эзэн хаан",
+    "hanja": "君王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군요",
+    "translation": "-гэдэг юм байна",
+    "hanja": null,
+    "pos": "어미",
+    "cefr": "A2"
+  },
+  {
+    "word": "군용",
+    "translation": "цэргийн зориулалттай",
+    "hanja": "軍用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군용기",
+    "translation": "цэргийн нисэх онгоц",
+    "hanja": "軍用機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군웅",
+    "translation": "Дайчин баатрууд, олон баатар",
+    "hanja": "群雄",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군위",
+    "translation": "Гунви (газар зүйн нэр)",
+    "hanja": "軍威",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "군율",
+    "translation": "цэргийн дүрэм",
+    "hanja": "軍律",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군의관",
+    "translation": "цэргийн эмч",
+    "hanja": "軍醫官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군인",
+    "translation": "цэрэг",
+    "hanja": "軍人",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "군자",
+    "translation": "Эрхэм хүн, мэргэн хүн",
+    "hanja": "君子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군자금",
+    "translation": "цэргийн мөнгө",
+    "hanja": "軍資金",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "군장",
+    "translation": "цэргийн хувцас, ачаа",
+    "hanja": "軍裝",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "군적",
+    "translation": "Цэргийн бүртгэл",
+    "hanja": "軍籍",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군정",
+    "translation": "цэргийн засаглал",
+    "hanja": "軍政",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "군제",
+    "translation": "цэргийн систем",
+    "hanja": "軍制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군조",
+    "translation": "Цэргийн шувуу",
+    "hanja": "群鳥",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "군졸",
+    "translation": "цэрэг, цэргийн албан хаагч",
+    "hanja": "軍卒",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "군주",
+    "translation": "Эзэн хаан, хаан",
+    "hanja": "君主",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군주제",
+    "translation": "хаант засаглал",
+    "hanja": "君主制",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군중",
+    "translation": "хуран цугласан олон, ард олон",
+    "hanja": "群衆",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "군중집회",
+    "translation": "олон нийтийн хурал",
+    "hanja": "群衆集會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군진",
+    "translation": "цэргийн цуглаан",
+    "hanja": "軍陣",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "군집",
+    "translation": "олон тоо",
+    "hanja": "群集",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군청",
+    "translation": "засаг захиргааны байшин",
+    "hanja": "郡廳",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "군청색",
+    "translation": "тэнгисийн цэнхэр өнгө",
+    "hanja": "群靑色",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "군체",
+    "translation": "овгийн нэгдэл",
+    "hanja": "群體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군축",
+    "translation": "зэвсэг хураах",
+    "hanja": "軍縮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군침",
+    "translation": "Шүлс",
+    "hanja": "군침",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "군포",
+    "translation": "Гунпо (газрын нэр)",
+    "hanja": "軍浦",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "군필",
+    "translation": "цэргийн алба хаасан",
+    "hanja": "軍畢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "군함",
+    "translation": "байлдааны хөлөг онгоц",
+    "hanja": "軍艦",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "군항",
+    "translation": "цэргийн боомт",
+    "hanja": "軍港",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군현",
+    "translation": "муж, тойрог",
+    "hanja": "郡縣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군호",
+    "translation": "цэргийн дуудлага, нууц үг",
+    "hanja": "軍號",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "군화",
+    "translation": "цэргийн гутал",
+    "hanja": "軍靴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "군홧발",
+    "translation": "цэргийн гуталны өсгий",
+    "hanja": "軍靴발",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

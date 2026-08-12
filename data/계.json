@@ -1,0 +1,940 @@
+[
+  {
+    "word": "계",
+    "translation": "систем, бүлэг",
+    "hanja": "系",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계간지",
+    "translation": "Улирал тутмын сэтгүүл",
+    "hanja": "季刊誌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계곡",
+    "translation": "хөндий",
+    "hanja": "溪谷",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "계교",
+    "translation": "заль мэх",
+    "hanja": "計較",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계금",
+    "translation": "хариу нэхэх, нэхэмжлэх",
+    "hanja": "計襟",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계급",
+    "translation": "Зэрэглэл",
+    "hanja": "階級",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계급장",
+    "translation": "цэргийн цолны тэмдэг",
+    "hanja": "階級章",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계급화되다",
+    "translation": "Зэрэг дараалал тогтоох",
+    "hanja": "階級化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계기",
+    "translation": "үүсгүүр",
+    "hanja": "契機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계기판",
+    "translation": "Хяналтын самбар",
+    "hanja": "計器板",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계남",
+    "translation": "Гэнам (газарзүйн нэр)",
+    "hanja": "桂南",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계다",
+    "translation": "тогтоох, тооцох",
+    "hanja": "計",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계단",
+    "translation": "шат",
+    "hanja": "階段",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "계단식",
+    "translation": "шат маягийн",
+    "hanja": "階段式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계도",
+    "translation": "Юмыг залан удирдах, зөв замд оруулах",
+    "hanja": "啓導",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계도하다",
+    "translation": "чиглүүлэх",
+    "hanja": "啓導하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "계동",
+    "translation": "Гэдун (Хятадын хот)",
+    "hanja": "桂洞",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계라",
+    "translation": "өгөөч (аялгууны хэлбэр)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계란",
+    "translation": "өндөг",
+    "hanja": "鷄卵",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "계란빵",
+    "translation": "өндөгтэй талх",
+    "hanja": "계란빵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계란형",
+    "translation": "зууван хэлбэр, өндгөн хэлбэр",
+    "hanja": "鷄卵形",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계략",
+    "translation": "хуйвалдаан",
+    "hanja": "計略",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계량",
+    "translation": "хэмжих",
+    "hanja": "計量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계량기",
+    "translation": "Хэмжүүр, тоолуур",
+    "hanja": "計量器",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계량스푼",
+    "translation": "Хэмжих халбага",
+    "hanja": "計量스푼",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "계량적",
+    "translation": "тоон",
+    "hanja": "計量的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계량컵",
+    "translation": "хэмжих аяга",
+    "hanja": "計量컵",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계량하다",
+    "translation": "хэмжих",
+    "hanja": "計量하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "계량화하다",
+    "translation": "хэмжигдэхүүн болгох",
+    "hanja": "計量化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계룡",
+    "translation": "Герюн",
+    "hanja": "鷄龍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계류",
+    "translation": "усан зогсоол",
+    "hanja": "繫留",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계류되다",
+    "translation": "хойшлогдох, мухардах",
+    "hanja": "繫留되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계류장",
+    "translation": "онгоцны зогсоол, завийны зогсоол",
+    "hanja": "繫留場",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계륵",
+    "translation": "Ашиггүй ч хаях хараамсалтай зүйл (тахианы хавирга)",
+    "hanja": "鷄肋",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "계림",
+    "translation": "Гүйлин (хотын нэр)",
+    "hanja": "雞林",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "계면쩍다",
+    "translation": "ичигэмээр",
+    "hanja": "계面쩍다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계명",
+    "translation": "зарлиг, хууль",
+    "hanja": "誡命",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계모",
+    "translation": "хойд эх",
+    "hanja": "繼母",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계몽",
+    "translation": "Гэгээрүүлэх",
+    "hanja": "啓蒙",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계몽적",
+    "translation": "Гэгээрүүлэгч, гэгээрлийн",
+    "hanja": "啓蒙的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계몽주의",
+    "translation": "Гэгээрлийн үзэл",
+    "hanja": "啓蒙主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계몽하다",
+    "translation": "гэгээрүүлэх",
+    "hanja": "啓蒙하다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "계발",
+    "translation": "Хөгжүүлэх, эзэмшүүлэх",
+    "hanja": "啓發",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계발하다",
+    "translation": "хөгжүүлэх, сайжруулах",
+    "hanja": "啓發하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계백",
+    "translation": "Гэбэк",
+    "hanja": "階伯",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "계보",
+    "translation": "удам угсаа, гэр бүлийн түүх",
+    "hanja": "系譜",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "계부",
+    "translation": "хойд эцэг",
+    "hanja": "繼父",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계비",
+    "translation": "Хойд хатан",
+    "hanja": "繼妃",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "계사",
+    "translation": "тахианы байшин",
+    "hanja": "鷄舍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계산",
+    "translation": "тооцоо, бодолт",
+    "hanja": "計算",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계산기",
+    "translation": "Тооны машин",
+    "hanja": "計算機",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계산대",
+    "translation": "тооцооны тавиур",
+    "hanja": "計算臺",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계산되다",
+    "translation": "тооцоологдох",
+    "hanja": "計算되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계산법",
+    "translation": "тооцох арга",
+    "hanja": "計算法",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계산서",
+    "translation": "тооцооны хуудас, тооцоо, нэхэмжлэх",
+    "hanja": "計算書",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계산적",
+    "translation": "тооцоотой, хувиа хичээсэн",
+    "hanja": "計算的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "계산하다",
+    "translation": "тооцоолох, бодох",
+    "hanja": "計算",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "계상",
+    "translation": "тооцоолол",
+    "hanja": "計上",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계서",
+    "translation": "бичих (тооцоо)",
+    "hanja": "計書",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계성",
+    "translation": "дуудах",
+    "hanja": "啓聖",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "계세",
+    "translation": "үеийг дамжуулах",
+    "hanja": "繼世",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계속",
+    "translation": "үргэлжлүүлэн",
+    "hanja": "繼續",
+    "pos": "adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "계속되다",
+    "translation": "үргэлжлэх",
+    "hanja": "繼續되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계속성",
+    "translation": "үргэлжлэл",
+    "hanja": "繼續性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계속적",
+    "translation": "үргэлжилсэн",
+    "hanja": "繼續的",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계속하다",
+    "translation": "үргэлжлүүлэх",
+    "hanja": "繼續하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "계수",
+    "translation": "тооны коэффициент",
+    "hanja": "係數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계수나무",
+    "translation": "Жүрж",
+    "hanja": "桂樹나무",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계수하다",
+    "translation": "тоочих",
+    "hanja": "計數하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계승",
+    "translation": "залгамжлал",
+    "hanja": "繼承",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "계승되다",
+    "translation": "залгамжлах",
+    "hanja": "繼承되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계승자",
+    "translation": "залгамжлагч",
+    "hanja": "繼承者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계승하다",
+    "translation": "Залгамжлах, өвлөх",
+    "hanja": "繼承하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계시",
+    "translation": "илчлэл",
+    "hanja": "啓示",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계시다",
+    "translation": "байх (хүндэтгэлийн)",
+    "hanja": "계시다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "계시되다",
+    "translation": "Илчлэгдэх, ил болох, үзэгдэх",
+    "hanja": "啓示-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계시하다",
+    "translation": "илчлэх",
+    "hanja": "啓示하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계씨",
+    "translation": "хүндэт эгч",
+    "hanja": "季氏",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계약",
+    "translation": "гэрээ",
+    "hanja": "契約",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계약금",
+    "translation": "гэрээний мөнгө",
+    "hanja": "契約金",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "계약되다",
+    "translation": "гэрээ хийгдэх",
+    "hanja": "契約되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계약서",
+    "translation": "гэрээ",
+    "hanja": "契約書",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "계약자",
+    "translation": "гэрээт",
+    "hanja": "契約者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계약하다",
+    "translation": "Гэрээ байгуулах",
+    "hanja": "契約하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계양",
+    "translation": "туг мандуулах",
+    "hanja": "揭揚",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계엄",
+    "translation": "цэргийн байдал",
+    "hanja": "戒嚴",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "계엄군",
+    "translation": "Цэргийн хориг цэрэг",
+    "hanja": "戒嚴軍",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "계엄령",
+    "translation": "цэргийн байдал",
+    "hanja": "戒嚴令",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계열",
+    "translation": "цуврал",
+    "hanja": "系列",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계열사",
+    "translation": "Охин компани",
+    "hanja": "系列社",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "계열화",
+    "translation": "Системчлэх, ангилах",
+    "hanja": "系列化",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "계영",
+    "translation": "буухиа",
+    "hanja": "繼泳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계원",
+    "translation": "гишүүн",
+    "hanja": "係員",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "계월",
+    "translation": "сар",
+    "hanja": "季月",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계월향",
+    "translation": "гэвш",
+    "hanja": "桂月香",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "계율",
+    "translation": "зарчим",
+    "hanja": "戒律",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "계이름",
+    "translation": "нотны нэр",
+    "hanja": "階이름",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계장",
+    "translation": "Хэсгийн дарга",
+    "hanja": "係長",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "계절",
+    "translation": "улирал",
+    "hanja": "季節",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "계절성",
+    "translation": "Улирлын шинж чанартай",
+    "hanja": "季節性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계절적",
+    "translation": "Улирлын чанартай",
+    "hanja": "季節的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계절풍",
+    "translation": "улирлын салхи",
+    "hanja": "季節風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계정",
+    "translation": "данс",
+    "hanja": "計定",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "계제",
+    "translation": "боломж, үе шат",
+    "hanja": "階梯",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계조",
+    "translation": "өрөг",
+    "hanja": "階調",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "계좌",
+    "translation": "данс",
+    "hanja": "口座",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "계주",
+    "translation": "бухиа гүйлт",
+    "hanja": "繼走",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계집",
+    "translation": "эмэгтэй хүүхэд (хуучирсан), эмэгтэй",
+    "hanja": "계집",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계집아이",
+    "translation": "Охин, бяцхан охин",
+    "hanja": "계집아이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계집애",
+    "translation": "Охин (ихэвчлэн жоохон)",
+    "hanja": "계집애",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계집종",
+    "translation": "Ор хүүхэн, боол эмэгтэй",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "계책",
+    "translation": "төлөвлөгөө",
+    "hanja": "計策",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "계체",
+    "translation": "жин хэмжих",
+    "hanja": "計體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계측",
+    "translation": "хэмжилт",
+    "hanja": "計測",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계측하다",
+    "translation": "хэмжих",
+    "hanja": "計測하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계층",
+    "translation": "давхарга",
+    "hanja": "階層",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "계층화",
+    "translation": "шатлан захирах ёс",
+    "hanja": "階層化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계통",
+    "translation": "Систем",
+    "hanja": "系統",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계투",
+    "translation": "буухиа шидэлт",
+    "hanja": "繼投",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계파",
+    "translation": "фракц, бүлэг",
+    "hanja": "系派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계피",
+    "translation": "киммис",
+    "hanja": "桂皮",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계핏가루",
+    "translation": "шанцайны нунтаг (Хоол)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "계향",
+    "translation": "Кехян (Хүний нэр)",
+    "hanja": "桂香",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계화",
+    "translation": "Анхилуун османтус",
+    "hanja": "桂花",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "계회",
+    "translation": "төлөвлөгөө / тойм",
+    "hanja": "計會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계획",
+    "translation": "төлөвлөгөө",
+    "hanja": "計劃",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계획되다",
+    "translation": "Төлөвлөгдөх",
+    "hanja": "計劃되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계획서",
+    "translation": "төлөвлөгөө",
+    "hanja": "計劃書",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "계획성",
+    "translation": "төлөвлөгөөтэй байдал",
+    "hanja": "計劃性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "계획안",
+    "translation": "төлөвлөгөөний төсөл, санал",
+    "hanja": "計劃案",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "계획적",
+    "translation": "төлөвлөгөөт",
+    "hanja": "計劃的",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "계획표",
+    "translation": "төлөвлөгөөний хүснэгт",
+    "hanja": "計劃表",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "계획하다",
+    "translation": "төлөвлөх",
+    "hanja": "계획하다(計劃하다)",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "계후",
+    "translation": "хойно",
+    "hanja": "繼後",
+    "pos": "noun",
+    "cefr": "C1"
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "word": "왕",
+    "translation": "Хаан",
+    "hanja": "王",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "왕가",
+    "translation": "Хааны гэр бүл",
+    "hanja": "王家",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕개미",
+    "translation": "том шоргоолж",
+    "hanja": "왕개미",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "왕거니",
+    "translation": "Томоохон хэмжээгээр, өргөн хүрээнд",
+    "hanja": "王거니",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왕건",
+    "translation": "Ван Гон",
+    "hanja": "王建",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕검",
+    "translation": "ван",
+    "hanja": "王儉",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕겨",
+    "translation": "царцдас",
+    "hanja": "王겨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕경",
+    "translation": "нийслэл хот",
+    "hanja": "王京",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕고",
+    "translation": "хамгийн ахмад",
+    "hanja": "王古",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕골",
+    "translation": "ширхэгтэй өвс",
+    "hanja": "王골",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕공",
+    "translation": "хаан, хунтайж",
+    "hanja": "王公",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕관",
+    "translation": "титэм",
+    "hanja": "王冠",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왕구",
+    "translation": "хаан баавгай",
+    "hanja": "王狗",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕국",
+    "translation": "хаант улс",
+    "hanja": "王國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕궁",
+    "translation": "хааны ордон",
+    "hanja": "王宮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왕권",
+    "translation": "хааны эрх мэдэл",
+    "hanja": "王權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕기",
+    "translation": "ванги, хааны сүнс",
+    "hanja": "王氣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕녀",
+    "translation": "гүнж",
+    "hanja": "王女",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕년",
+    "translation": "өнгөрсөн жилүүд",
+    "hanja": "往年",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕눈이",
+    "translation": "том нүдтэй",
+    "hanja": "王눈이",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕대",
+    "translation": "хулс мод",
+    "hanja": "王대",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕대비",
+    "translation": "хааны хатан эх",
+    "hanja": "王大妃",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕도",
+    "translation": "хааны зам",
+    "hanja": "王道",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕따",
+    "translation": "ганцаардуулах",
+    "hanja": "왕따",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕란",
+    "translation": "хааны өндөг",
+    "hanja": "王卵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕래",
+    "translation": "харилцаа, ирж очих",
+    "hanja": "往來",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕래하다",
+    "translation": "ирэх очих",
+    "hanja": "往來하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕령",
+    "translation": "хааны зарлиг, хааны газар",
+    "hanja": "王領",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕릉",
+    "translation": "Хааны булш",
+    "hanja": "王陵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕림",
+    "translation": "хаан ирэх",
+    "hanja": "枉臨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕림하다",
+    "translation": "айлчлах, хүрэлцэн ирэх",
+    "hanja": "枉臨하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕립",
+    "translation": "хааны",
+    "hanja": "王立",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕명",
+    "translation": "Хааны тушаал",
+    "hanja": "王命",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕모",
+    "translation": "Хатан эх; ээжийн ээж",
+    "hanja": "王母",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕방",
+    "translation": "Ван Бан",
+    "hanja": "王幇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕복",
+    "translation": "хоёр тал руу",
+    "hanja": "往復",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "왕복하다",
+    "translation": "ирэх очих, давхилдах",
+    "hanja": "往復하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕부",
+    "translation": "Хааны ордон",
+    "hanja": "王府",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕비",
+    "translation": "хатан хаан",
+    "hanja": "王妃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왕사",
+    "translation": "хааны багш",
+    "hanja": "王師",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕사슴벌레",
+    "translation": "том сохор цох",
+    "hanja": "王사슴벌레",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕상",
+    "translation": "хааны өргөмжлөл",
+    "hanja": "王上",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕생",
+    "translation": "Дахин төрөх (буддын шашин)",
+    "hanja": "往生",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕성",
+    "translation": "Цэцэглэсэн, хүчирхэг",
+    "hanja": "旺盛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕성하다",
+    "translation": "идэвхтэй, хөгжин цэцэглэсэн",
+    "hanja": "旺盛하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕성히",
+    "translation": "хүчтэй",
+    "hanja": "旺盛히",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕세자",
+    "translation": "хунтайж",
+    "hanja": "王世子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕세자빈",
+    "translation": "хунтайжийн гүнж",
+    "hanja": "王世子嬪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕소금",
+    "translation": "том давс",
+    "hanja": "왕소금(王소금)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "왕손",
+    "translation": "хааны удмын хүн",
+    "hanja": "王孫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕시",
+    "translation": "эрт, нэгэн цагт",
+    "hanja": "往時",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕실",
+    "translation": "Хааны гэр бүл",
+    "hanja": "王室",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕십리",
+    "translation": "Вансимни (Солонгосын газарзүйн нэр)",
+    "hanja": "往十里",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕양",
+    "translation": "ван-ян",
+    "hanja": "汪洋",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕오천축국전",
+    "translation": "Оранго Чончукгугжон",
+    "hanja": "往五天竺國傳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕왕",
+    "translation": "заримдаа, хааяа",
+    "hanja": "왕왕",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕왕거리다",
+    "translation": "уухилах, дуугарах",
+    "hanja": "왕왕거리다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왕위",
+    "translation": "Хаан ширээ",
+    "hanja": "王位",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕은점표범나비",
+    "translation": "том мөнгөн цэгт ирвэс эрвээхэй",
+    "hanja": "王銀點豹나비",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕인",
+    "translation": "Ван Ин",
+    "hanja": "王仁",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "왕자",
+    "translation": "Хунтайж",
+    "hanja": "王子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왕재",
+    "translation": "хаан болох авьяас, ирээдүйн хаан",
+    "hanja": "王材",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕전",
+    "translation": "ванжон (нэр)",
+    "hanja": "王翦",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕정",
+    "translation": "Эзэн хааны засаглал",
+    "hanja": "王政",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕제",
+    "translation": "хааны дүү",
+    "hanja": "王弟",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕조",
+    "translation": "династи",
+    "hanja": "王朝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕족",
+    "translation": "хааны гэр бүл",
+    "hanja": "王族",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왕좌",
+    "translation": "хаан ширээ",
+    "hanja": "王座",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕중왕",
+    "translation": "хаадын хаан",
+    "hanja": "王中王",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕지",
+    "translation": "хааны зарлиг",
+    "hanja": "王旨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕진",
+    "translation": "гэрийн дуудлага",
+    "hanja": "往診",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왕징",
+    "translation": "Ванжин",
+    "hanja": "望京",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕창",
+    "translation": "их хэмжээгээр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕창왕창",
+    "translation": "Маш их, бөөнөөрөө",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "왕철",
+    "translation": "вангийн төмөр",
+    "hanja": "王鐵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕초",
+    "translation": "ноён",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕치",
+    "translation": "хааны титэм",
+    "hanja": "王치",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕피천",
+    "translation": "Ванппи гол",
+    "hanja": "往避川",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕호",
+    "translation": "хааны цол, эрхэм цол",
+    "hanja": "王號",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕홀",
+    "translation": "хааны таяг",
+    "hanja": "王笏",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "왕홍",
+    "translation": "Ванхун (Хятадын интернэт алдартнууд)",
+    "hanja": "網紅",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕후",
+    "translation": "Хатан хаан",
+    "hanja": "王后",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "왕후장상",
+    "translation": "Хаад, хатад, жанжид, сайдууд",
+    "hanja": "王侯將相",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "왕희",
+    "translation": "Ван Хи",
+    "hanja": "王羲",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

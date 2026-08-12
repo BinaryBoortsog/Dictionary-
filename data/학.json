@@ -1,0 +1,702 @@
+[
+  {
+    "word": "학",
+    "translation": "тогоруу",
+    "hanja": "鶴",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "학감",
+    "translation": "сургалтын даамал",
+    "hanja": "學監",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학개",
+    "translation": "хаггай",
+    "hanja": "학개",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학계",
+    "translation": "Эрдэм шинжилгээний хүрээлэн",
+    "hanja": "學界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학고",
+    "translation": "сургуулиас гарах тухай мэдэгдэл",
+    "hanja": "學告",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "학과",
+    "translation": "хичээл",
+    "hanja": "學科",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "학관",
+    "translation": "Оюутны байшин",
+    "hanja": "學館",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "학교",
+    "translation": "сургууль",
+    "hanja": "學校",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "학교생활",
+    "translation": "сургуулийн амьдрал",
+    "hanja": "學校生活",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "학교장",
+    "translation": "сургуулийн захирал",
+    "hanja": "學校長",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "학구",
+    "translation": "сурах хүсэл",
+    "hanja": "學究",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학구적",
+    "translation": "сурч боловсрох сонирхолтой",
+    "hanja": "學究的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학구파",
+    "translation": "Судалгаанд дуртай хүн",
+    "hanja": "學究派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학군",
+    "translation": "сургуулийн тойрог",
+    "hanja": "學區",
+    "pos": "name",
+    "cefr": "B2"
+  },
+  {
+    "word": "학군단",
+    "translation": "курсантын корпус",
+    "hanja": "學軍團",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학급",
+    "translation": "анги",
+    "hanja": "學級",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "학기",
+    "translation": "семестр, улирал",
+    "hanja": "學期",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "학내",
+    "translation": "сургуулийн дотор",
+    "hanja": "學內",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학년",
+    "translation": "анги, курс",
+    "hanja": "學年",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "학당",
+    "translation": "сургууль",
+    "hanja": "學堂",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "학대",
+    "translation": "хүчирхийлэл, муугаар хандах",
+    "hanja": "虐待",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학대당하다",
+    "translation": "хүчирхийлэлд өртөх",
+    "hanja": "虐待當하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "학대하다",
+    "translation": "Хүчирхийлэх, хавчин гадуурхах",
+    "hanja": "虐待하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학도",
+    "translation": "сургуулийн сурагч, оюутан",
+    "hanja": "學徒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학동",
+    "translation": "сургуулийн хүүхэд",
+    "hanja": "學童",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "학력",
+    "translation": "боловсролын түвшин",
+    "hanja": "學歷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학령",
+    "translation": "Сурах нас",
+    "hanja": "學齡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학령기",
+    "translation": "сургуулийн нас",
+    "hanja": "學齡期",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학명",
+    "translation": "шинжлэх ухааны нэр",
+    "hanja": "學名",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학문",
+    "translation": "Эрдэм шинжилгээ, сургалт",
+    "hanja": "學問",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학문적",
+    "translation": "эрдэм шинжилгээний",
+    "hanja": "學問的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학문하다",
+    "translation": "сурах, судлах",
+    "hanja": "學問하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학번",
+    "translation": "элсэлтийн жил",
+    "hanja": "學番",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "학벌",
+    "translation": "боловсролын зэрэг",
+    "hanja": "學閥",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "학보사",
+    "translation": "сургуулийн сонин",
+    "hanja": "學報社",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학봉",
+    "translation": "Хакбонг",
+    "hanja": "鶴峯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학부",
+    "translation": "салбар сургууль, тэнхим",
+    "hanja": "學部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학부모",
+    "translation": "эцэг эх",
+    "hanja": "學父母",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "학부형",
+    "translation": "эцэг эх",
+    "hanja": "學父兄",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "학비",
+    "translation": "Сургалтын төлбөр",
+    "hanja": "學費",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "학사",
+    "translation": "бакалавр (зэрэг)",
+    "hanja": "學士",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학산",
+    "translation": "Хаксан",
+    "hanja": "鶴山",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학살",
+    "translation": "хядлага",
+    "hanja": "虐殺",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "학살되다",
+    "translation": "хоморголон устгагдах",
+    "hanja": "虐殺되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학살하다",
+    "translation": "аллага хийх, хөнөөх",
+    "hanja": "虐殺하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학상",
+    "translation": "оюутан",
+    "hanja": "學商",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "학생",
+    "translation": "оюутан",
+    "hanja": "學生",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "학생복",
+    "translation": "Сурагчийн хувцас",
+    "hanja": "學生服",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학생소년궁전",
+    "translation": "Сурагчийн ордон",
+    "hanja": "學生少年宮殿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학생증",
+    "translation": "оюутны үнэмлэх",
+    "hanja": "學生證",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "학생회",
+    "translation": "Оюутны зөвлөл",
+    "hanja": "學生會",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "학설",
+    "translation": "эртний сургаал",
+    "hanja": "學說",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "학세",
+    "translation": "Сургуулийн талбар",
+    "hanja": "학세",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "학소",
+    "translation": "цагаан тогорууны үүр",
+    "hanja": "鶴巢",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "학수",
+    "translation": "дүгнэлт",
+    "hanja": "鶴首",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "학수고대하다",
+    "translation": "тэсэн ядан хүлээх",
+    "hanja": "鶴首苦待하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학술",
+    "translation": "судалгаа",
+    "hanja": "學術",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학술원",
+    "translation": "академи",
+    "hanja": "學術院",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학술적",
+    "translation": "эрдэм шинжилгээний",
+    "hanja": "學術的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학술지",
+    "translation": "эрдэм шинжилгээний сэтгүүл",
+    "hanja": "學術誌",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "학술회의",
+    "translation": "эрдэм шинжилгээний хурал",
+    "hanja": "學術會議",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "학습",
+    "translation": "суралцах",
+    "hanja": "學習",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "학습되다",
+    "translation": "сурагдах",
+    "hanja": "學習되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "학습반",
+    "translation": "Сургалтын бүлэг",
+    "hanja": "學習班",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학습시키다",
+    "translation": "сургах",
+    "hanja": "學習시키다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학습자",
+    "translation": "сурагч",
+    "hanja": " hakseupja",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "학습장",
+    "translation": "хичээлийн дэвтэр, сурах бичиг",
+    "hanja": "學習帳",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "학습지",
+    "translation": "сургалтын материал",
+    "hanja": "學習紙",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학습하다",
+    "translation": "сурах",
+    "hanja": "學習하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학식",
+    "translation": "мэдлэг, эрдэм",
+    "hanja": "學識",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학업",
+    "translation": "суралцах үйл ажиллагаа",
+    "hanja": "學業",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학연",
+    "translation": "сургуулийн холбоо",
+    "hanja": "學緣",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "학예",
+    "translation": "академик урлаг",
+    "hanja": "學藝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "학예회",
+    "translation": "Урлаг, гар урлалын үзэсгэлэн; сургуулийн арга хэмжээ/үзүүлбэр",
+    "hanja": "學藝會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학용품",
+    "translation": "Бичгийн хэрэгсэл",
+    "hanja": "學用品",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "학우",
+    "translation": "ангийн найз",
+    "hanja": "學友",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "학원",
+    "translation": "сургалтын төв",
+    "hanja": "學院",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "학위",
+    "translation": "Зэрэг",
+    "hanja": "學位",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학인",
+    "translation": "학чар, судлаач",
+    "hanja": "學人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학자",
+    "translation": "эрдэмтэн",
+    "hanja": "學者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학자금",
+    "translation": "сургалтын төлбөр",
+    "hanja": "學資金",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "학자적",
+    "translation": "эрдэмтэнлэг",
+    "hanja": "學者籍",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학장",
+    "translation": "декан",
+    "hanja": "學長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학적",
+    "translation": "сургуулийн бүртгэл",
+    "hanja": "學籍",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "학적부",
+    "translation": "бүртгэлийн дэвтэр",
+    "hanja": "學籍簿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학전",
+    "translation": "сургуулийн өмнөх",
+    "hanja": "學前",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학점",
+    "translation": "хичээлийн дүн",
+    "hanja": "學點",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "학정",
+    "translation": "дарлал",
+    "hanja": "虐政",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학제",
+    "translation": "боловсролын систем",
+    "hanja": "學制",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "학종",
+    "translation": "сургуулийн элсэлтийн төрөл (сурагчдыг үнэлэх)",
+    "hanja": "學綜",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학질",
+    "translation": "хумхаа",
+    "hanja": "瘧疾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학창",
+    "translation": "Сургуулийн нас, сургуулийн үе",
+    "hanja": "學窓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학천",
+    "translation": "Эрдэмтний диваажин, суралцах орчин",
+    "hanja": "學泉",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "학칙",
+    "translation": "сургуулийн дүрэм",
+    "hanja": "學則",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "학파",
+    "translation": "сурган хүмүүжүүлэх ухаан",
+    "hanja": "學派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학포",
+    "translation": "сурагчдыг доромжлох",
+    "hanja": "학폭",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "학폭",
+    "translation": "Сургуулийн дээрэлхэлт",
+    "hanja": "學暴 (학교 폭력)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "학풍",
+    "translation": "судлалын урсгал",
+    "hanja": "學風",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "학학",
+    "translation": "хэцүү",
+    "hanja": "헉헉",
+    "pos": "Adv",
+    "cefr": "B1"
+  },
+  {
+    "word": "학회",
+    "translation": "эртний судлал",
+    "hanja": "學會",
+    "pos": "noun",
+    "cefr": "B2"
+  }
+]

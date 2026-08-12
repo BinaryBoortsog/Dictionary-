@@ -1,0 +1,3971 @@
+[
+  {
+    "word": "수",
+    "translation": "тоо",
+    "hanja": "數",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "수가",
+    "translation": "тоо",
+    "hanja": "數家",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수간호사",
+    "translation": "Ахлах сувилагч",
+    "hanja": "首看護師",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수감",
+    "translation": "Хорих",
+    "hanja": "收監",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수감되다",
+    "translation": "хоригдох",
+    "hanja": "收監되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수감자",
+    "translation": "Хоригдол",
+    "hanja": "收監者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수감하다",
+    "translation": "хорих",
+    "hanja": "收監하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수갑",
+    "translation": "гархи",
+    "hanja": "手匣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수강",
+    "translation": "хичээл сургалт авах",
+    "hanja": "受講(수강)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수강료",
+    "translation": "сургалтын төлбөр",
+    "hanja": "受講料",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수강생",
+    "translation": "хичээл сонсогч",
+    "hanja": "受講生",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수강자",
+    "translation": "хичээлд суугч",
+    "hanja": "受講者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수강하다",
+    "translation": "хичээлд суух",
+    "hanja": "受講하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수개",
+    "translation": "хэдэн",
+    "hanja": "數個",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수거",
+    "translation": "цуглуулах",
+    "hanja": "收去",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수거되다",
+    "translation": "цуглуулагдах, хураагдах",
+    "hanja": "收去되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수거하다",
+    "translation": "цуглуулах",
+    "hanja": "收去하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수건",
+    "translation": "алчуур",
+    "hanja": "手巾",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "수건걸이",
+    "translation": "Алтчуурны өлгүүр",
+    "hanja": "手巾걸이",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "수건돌리기",
+    "translation": "алчуур эргүүлэх тоглоом",
+    "hanja": "手巾돌리기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수결",
+    "translation": "гарын үсэг",
+    "hanja": "手決",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수결하다",
+    "translation": "бичих",
+    "hanja": "手決하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수계",
+    "translation": "усны систем, голын систем",
+    "hanja": "水系",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수고",
+    "translation": "хөдөлмөр, хүчин чармайлт",
+    "hanja": "受苦",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "수고롭다",
+    "translation": "хүнд хөдөлмөр",
+    "hanja": "手苦롭다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수고비",
+    "translation": "Ажлын хөлс",
+    "hanja": "酬勞費",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수고스럽다",
+    "translation": "хөдөлмөрч, хэцүү",
+    "hanja": "手苦스럽다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수고하다",
+    "translation": "хөдөлмөрлөх",
+    "hanja": "受苦하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "수공",
+    "translation": "гар урлал",
+    "hanja": "手工",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수공업",
+    "translation": "Гар урлал, гар үйлдвэрлэл",
+    "hanja": "手工業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수공업자",
+    "translation": "гар урчууд",
+    "hanja": "手工業者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수공예",
+    "translation": "гар урлал",
+    "hanja": "手工藝",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수관",
+    "translation": "усны хоолой, ус дамжуулах хоолой",
+    "hanja": "水管",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수광",
+    "translation": "гэрэл хүлээн авах",
+    "hanja": "受光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수괴",
+    "translation": "толгойлогч, бүлэглэлийн удирдагч",
+    "hanja": "首魁",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수교",
+    "translation": "дипломат харилцаа тогтоох",
+    "hanja": "修交",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수교하다",
+    "translation": "дипломат харилцаа тогтоох",
+    "hanja": "修交하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수구",
+    "translation": "Хаалгач",
+    "hanja": "守球",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수구레",
+    "translation": "үхрийн махны судас",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수구파",
+    "translation": "консерватив тал",
+    "hanja": "守舊派",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수국",
+    "translation": "гоёл",
+    "hanja": "水菊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수군거리다",
+    "translation": "шившигнах, хов жив ярих",
+    "hanja": "수군거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수군대다",
+    "translation": "Шуугилдах",
+    "hanja": "수군대다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "수군수군",
+    "translation": "шивэгнэх, хов ярих",
+    "hanja": "수군수군",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수군수군하다",
+    "translation": "Шивнэлдэх, хов жив ярих",
+    "hanja": "수군수군하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수군통제사",
+    "translation": "Тэнгисийн цэргийн командлагч",
+    "hanja": "水軍統制使",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수궁",
+    "translation": "усны ордон",
+    "hanja": "水宮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수궁가",
+    "translation": "усны ордоны дуу",
+    "hanja": "水宮歌",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "수권",
+    "translation": "Эрх олгох",
+    "hanja": "授權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수귀",
+    "translation": "усан чөтгөр",
+    "hanja": "水鬼",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수그러들다",
+    "translation": "буурах",
+    "hanja": "N/A",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수그러지다",
+    "translation": "намдах, буурах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수그리다",
+    "translation": "Бөхөлзөх",
+    "hanja": "수그리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수근",
+    "translation": "Хайш яйш",
+    "hanja": "수근",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수근거리다",
+    "translation": "шивэгнэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수금",
+    "translation": "мөнгө цуглуулах",
+    "hanja": "收金",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수금하다",
+    "translation": "мөнгө цуглуулах, төлбөр авах",
+    "hanja": "收金하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수급",
+    "translation": "нийлүүлэлт ба эрэлт",
+    "hanja": "需給",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수급하다",
+    "translation": "нийлүүлэх, хангах",
+    "hanja": "需給하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수긍",
+    "translation": "зөвшөөрөл",
+    "hanja": "首肯",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수긍하다",
+    "translation": "зөвшөөрөх, хүлээн зөвшөөрөх",
+    "hanja": "首肯하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수꿩",
+    "translation": "эр сойр",
+    "hanja": "수꿩",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수낙",
+    "translation": "зөвшөөрөх",
+    "hanja": "受諾",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "수난",
+    "translation": "зовлон, гай зовлон",
+    "hanja": "受難",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수난사",
+    "translation": "зовлонгийн түүх",
+    "hanja": "受難史",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수남",
+    "translation": "Хүүхдийн нэр (эрэгтэй)",
+    "hanja": "秀男",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "수납",
+    "translation": "хадгалах",
+    "hanja": "受納",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수납하다",
+    "translation": "хадгалах",
+    "hanja": "受納하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수내",
+    "translation": "Сүнэ",
+    "hanja": "藪內",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수냉",
+    "translation": "Усаар хөргөх",
+    "hanja": "水冷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수녀",
+    "translation": "гэгээн эмэгтэй",
+    "hanja": "修女",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수녀원",
+    "translation": "гэгээн асрамжийн газар",
+    "hanja": "修女院",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수년",
+    "translation": "Хэдэн жил",
+    "hanja": "數年",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수놈",
+    "translation": "эр амьтан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수놓다",
+    "translation": "хатгах, урлах",
+    "hanja": "수놓다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수놓이다",
+    "translation": "хатгамлагдах",
+    "hanja": "繡놓이다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수뇌",
+    "translation": "тэргүүн",
+    "hanja": "首腦",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수뇌부",
+    "translation": "удирдлага",
+    "hanja": "首腦部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수능",
+    "translation": "их сургуулийн элсэлтийн шалгалт",
+    "hanja": "修能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수니파",
+    "translation": "суннит",
+    "hanja": "수니파",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수다",
+    "translation": "хувцас урлах",
+    "hanja": "手談",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수다스럽다",
+    "translation": "чалчаа байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수다쟁이",
+    "translation": "Хуучин үг ярьдаг хүн / чалчаа",
+    "hanja": "수다쟁이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수단",
+    "translation": "арга хэрэгсэл",
+    "hanja": "手段",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수달",
+    "translation": "хайрст",
+    "hanja": "獺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수닷타",
+    "translation": "Судатта",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수당",
+    "translation": "нэмэгдэл, тэтгэмж",
+    "hanja": "手當",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수더분하다",
+    "translation": "даруу, номхон",
+    "hanja": "수더분하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수도",
+    "translation": "нийслэл",
+    "hanja": "首都",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "수도관",
+    "translation": "Усны хоолой",
+    "hanja": "水道管",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수도권",
+    "translation": "нийслэлийн бүс",
+    "hanja": "首都圈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수도꼭지",
+    "translation": "усны крант",
+    "hanja": "水道꼭지",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수도사",
+    "translation": "лам",
+    "hanja": "修道士",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수도승",
+    "translation": "лам",
+    "hanja": "修道僧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수도원",
+    "translation": "Хийд",
+    "hanja": "修道院",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수도자",
+    "translation": "лам, хувраг, гэлэнмаа",
+    "hanja": "修道者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수도하다",
+    "translation": "дагах, мөрдөх",
+    "hanja": "修道하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수돗가",
+    "translation": "усны цорго",
+    "hanja": "수돗가",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수돗물",
+    "translation": "крантны ус",
+    "hanja": "水道물",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수동",
+    "translation": "гараар",
+    "hanja": "手動",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수동식",
+    "translation": "гараар ажиллуулдаг",
+    "hanja": "手動式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수동적",
+    "translation": "идэвхгүй, идэвхгүй",
+    "hanja": "受動的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수동태",
+    "translation": "идэвхгүй",
+    "hanja": "受動態",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수동형",
+    "translation": "идэвхгүй хэлбэр",
+    "hanja": "受動形",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수두",
+    "translation": "салхин цэцэг",
+    "hanja": "水痘",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수두룩이",
+    "translation": "маш их",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수두룩하다",
+    "translation": "олон тоотой, тулгардаггүй",
+    "hanja": "數두룩하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "수드라",
+    "translation": "Шудра",
+    "hanja": "Sudra",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수라",
+    "translation": "хоол, хоолны ширээ",
+    "hanja": "水剌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수라바야",
+    "translation": "Сурабая",
+    "hanja": "수라바야",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수라장",
+    "translation": "Замбараагүй байдал",
+    "hanja": "修羅場",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수락",
+    "translation": "хүлээн авах, зөвшөөрөх",
+    "hanja": "受諾",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수락되다",
+    "translation": "хүлээн зөвшөөрөгдөх",
+    "hanja": "受諾되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수락하다",
+    "translation": "хүлээн авах",
+    "hanja": "受諾하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수란",
+    "translation": "усны өндөг, утсан өндөг",
+    "hanja": "水卵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수량",
+    "translation": "too хэмжээ",
+    "hanja": "數量",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수량적",
+    "translation": "тоо хэмжээний",
+    "hanja": "數量적",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수런거리다",
+    "translation": "шивигнэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수렁",
+    "translation": "шавар",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수레",
+    "translation": "тэрэг, арбааг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수레바퀴",
+    "translation": "тэрэгний дугуй",
+    "hanja": "수레바퀴",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수레바퀴",
+    "translation": "тэрэгний дугуй",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수레바퀴자국",
+    "translation": "тэрэгний дугуйны мөр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수려하다",
+    "translation": "үзэсгэлэнтэй",
+    "hanja": "秀麗하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수력",
+    "translation": "Усан цахилгаан",
+    "hanja": "水力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수련",
+    "translation": "дасгал сургууль",
+    "hanja": "修練",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수련원",
+    "translation": "сургалтын төв",
+    "hanja": "수련원(修練院)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수련하다",
+    "translation": "дасгал хийх",
+    "hanja": "수련하다(修鍊하다)",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수련회",
+    "translation": "Сургалт, семинар",
+    "hanja": "修練會",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수렴",
+    "translation": "нэгтгэх",
+    "hanja": "收斂",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수렴되다",
+    "translation": "цуглуулагдах",
+    "hanja": "收斂되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수렴하다",
+    "translation": "цуглуулах, нэгтгэх",
+    "hanja": "收斂-",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "수렵",
+    "translation": "ан",
+    "hanja": "狩獵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수령",
+    "translation": "Хүлээн авах",
+    "hanja": "受領",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수령액",
+    "translation": "хүлээн авсан дүн",
+    "hanja": "受領額",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수령인",
+    "translation": "хүлээн авагч",
+    "hanja": "受領人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수령하다",
+    "translation": "Хүлээн авах",
+    "hanja": "受領",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수로",
+    "translation": "Усан зам, суваг",
+    "hanja": "水路",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수로왕",
+    "translation": "Суро ван",
+    "hanja": "首露王",
+    "pos": "Proper Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수록",
+    "translation": "оруулах",
+    "hanja": "수록(收錄)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수록되다",
+    "translation": "оруулах, багтах",
+    "hanja": "收錄되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수록하다",
+    "translation": "оруулах",
+    "hanja": "收錄하다",
+    "pos": "үйл үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "수론",
+    "translation": "тоон онол",
+    "hanja": "數論",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수롱",
+    "translation": "усны суваг, усны урсгал",
+    "hanja": "水籠",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "수뢰",
+    "translation": "хээл хахууль авах",
+    "hanja": "受賂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수료",
+    "translation": "сургалт төгсөх, курс дүүргэх",
+    "hanja": "修了",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수료생",
+    "translation": "төгсөгч",
+    "hanja": "修了生",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수료식",
+    "translation": "төгсөлтийн ёслол",
+    "hanja": "修了式",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수료자",
+    "translation": "төгсөгч",
+    "hanja": "修了者",
+    "pos": "NNG",
+    "cefr": "B2"
+  },
+  {
+    "word": "수료증",
+    "translation": "сургууль төгссөн гэрчилгээ",
+    "hanja": "修了證",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수료하다",
+    "translation": "төгсөх",
+    "hanja": "修了하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수룡",
+    "translation": "Усан луу",
+    "hanja": "水龍",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수류",
+    "translation": "усан урсгал",
+    "hanja": "水流",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수류탄",
+    "translation": "гар бөмбөг",
+    "hanja": "手榴彈",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수륙",
+    "translation": "ус, хуурай газар",
+    "hanja": "水陸",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수리",
+    "translation": "засвар, тооцоо",
+    "hanja": "修理",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수리공",
+    "translation": "засварчин",
+    "hanja": "修理工",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수리남",
+    "translation": "Суринам",
+    "hanja": "수리남",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수리되다",
+    "translation": "засварлагдах, хүлээн зөвшөөрөгдөх",
+    "hanja": "受理되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수리비",
+    "translation": "Засварын зардал",
+    "hanja": "修理費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수리수리",
+    "translation": "үгүй, хурдан хурдан (шидлэгийн үгэнд)",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수리아",
+    "translation": "Суриа (газар зүйн нэр)",
+    "hanja": "Suria",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수리야",
+    "translation": "сүрьяа",
+    "hanja": "수리야",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수리하다",
+    "translation": "засварлах",
+    "hanja": "修理하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수림",
+    "translation": "ой мод",
+    "hanja": "樹林",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수립",
+    "translation": "байгуулах",
+    "hanja": "樹立",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수립되다",
+    "translation": "байгуулагдах, тогтоогдох",
+    "hanja": "樹立되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수립하다",
+    "translation": "байгуулах, тогтоох",
+    "hanja": "樹立하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수릿날",
+    "translation": "Дан-о (уламжлалт баяр)",
+    "hanja": "수릿날",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수마트라섬",
+    "translation": "Суматра арал",
+    "hanja": "수마트라島",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수막",
+    "translation": "Тархины мембран",
+    "hanja": "髓膜",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수막새",
+    "translation": "ваарны үзүүр",
+    "hanja": "瓦當",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수많다",
+    "translation": "олон тоотой",
+    "hanja": "數많다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "수매",
+    "translation": "худалдан авах, худалдаж авах",
+    "hanja": "收買",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "수매하다",
+    "translation": "худалдан авах",
+    "hanja": "收買하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수맥",
+    "translation": "усны судас, гүний усны судлууд",
+    "hanja": "水脈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수메",
+    "translation": "Суме (боомт)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "수메르",
+    "translation": "Шумер",
+    "hanja": "수메르",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수면",
+    "translation": "унтах",
+    "hanja": "睡眠",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "수면제",
+    "translation": "Унтуулга",
+    "hanja": "睡眠劑",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수면하다",
+    "translation": "унтах",
+    "hanja": "睡眠하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "수명",
+    "translation": "Амьдралын хугацаа",
+    "hanja": "壽命",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수모",
+    "translation": "Доромжлол",
+    "hanja": "受侮",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "수목",
+    "translation": "мод, бут",
+    "hanja": "樹木",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수목원",
+    "translation": "модлог ургамлын хүрээлэн",
+    "hanja": "樹木園",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수몰",
+    "translation": "усан доор живэх",
+    "hanja": "水沒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수몰되다",
+    "translation": "усаар бүрхэгдэх",
+    "hanja": "水沒되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수묵",
+    "translation": "хөрөг зураг, усан будаг",
+    "hanja": "水墨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수묵화",
+    "translation": "бэхэн зураг",
+    "hanja": "水墨畵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수문",
+    "translation": "усан хаалга, суваг",
+    "hanja": "水門",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수문장",
+    "translation": "үүдний манаач",
+    "hanja": "守門將",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수미",
+    "translation": "Суми (хүний нэр)",
+    "hanja": "수미",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "수바",
+    "translation": "Сува",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수박",
+    "translation": "тарвас",
+    "hanja": "수박",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "수반",
+    "translation": "үе шаттайгаар",
+    "hanja": "隨伴",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "수반되다",
+    "translation": "дагалдах",
+    "hanja": "隨伴되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수반하다",
+    "translation": "дагалдах",
+    "hanja": "隨伴하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수발",
+    "translation": "үйлчлэх, анхаарах",
+    "hanja": "수발",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수발들다",
+    "translation": "үйлчлэх, асрах",
+    "hanja": "수발들다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수방",
+    "translation": "шатарт хамгаалалт",
+    "hanja": "守防",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수방사",
+    "translation": "нийслэлийн хамгаалалтын командлал",
+    "hanja": "首都防衛司令部",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "수배",
+    "translation": "эрэн сурвалжлах",
+    "hanja": "手配",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "수배되다",
+    "translation": "Эрэл болсон",
+    "hanja": "手配되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수배자",
+    "translation": "эрэн сурвалжлагдаж буй хүн",
+    "hanja": "手配者",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "수배하다",
+    "translation": "эрэн сурвалжлах",
+    "hanja": "手配하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수백",
+    "translation": "хэдэн зуун",
+    "hanja": "數百",
+    "pos": "관형사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수백만",
+    "translation": "сая сая",
+    "hanja": "數百萬",
+    "pos": "수사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수백수천",
+    "translation": "олон зуун, олон мянган",
+    "hanja": "數百數千",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수벌",
+    "translation": "эр зөгий",
+    "hanja": "雄蜂",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수법",
+    "translation": "арга барил",
+    "hanja": "手法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수변",
+    "translation": "усны эрэг",
+    "hanja": "水邊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수병",
+    "translation": "тэнгисийн цэрэг",
+    "hanja": "水兵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수보",
+    "translation": "гараар нөхөн сэргээх",
+    "hanja": "修補",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수보리",
+    "translation": "Субоди",
+    "hanja": "須菩提",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "수복",
+    "translation": "сэргээн босгох",
+    "hanja": "收復",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수복되다",
+    "translation": "Сэргээн босгогдох, эргэн сэргэх",
+    "hanja": "收復되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "수복하다",
+    "translation": "сэргээх, засах",
+    "hanja": "收復하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수봉",
+    "translation": "гар аргаар битүүмжлэх",
+    "hanja": "手封",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수부",
+    "translation": "гар, хөл",
+    "hanja": "手部",
+    "pos": "NNG",
+    "cefr": "C1"
+  },
+  {
+    "word": "수부지",
+    "translation": "ус, хөрс, даавуу (материал)",
+    "hanja": "水膚地",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "수북하다",
+    "translation": "дүүрэн, овоолсон",
+    "hanja": "수북하다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "수북히",
+    "translation": "овоолсон",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수분",
+    "translation": "чийгшил",
+    "hanja": "水分",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수분하다",
+    "translation": "чийгшүүлэх",
+    "hanja": "水分하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수블라키",
+    "translation": "сувлаки (Грекийн хоол)",
+    "hanja": "NaN",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수비",
+    "translation": "Хамгаалалт",
+    "hanja": "守備",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수비력",
+    "translation": "хамгаалах чадвар",
+    "hanja": "守備力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수비벽",
+    "translation": "хамгаалалтын хана",
+    "hanja": "守備壁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수비수",
+    "translation": "хамгаалагч",
+    "hanja": "守備手",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수비진",
+    "translation": "хамгаалагчид (спортын баг)",
+    "hanja": "수비진(守備陣)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수비하다",
+    "translation": "хамгаалах, манах",
+    "hanja": "守備하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "수사",
+    "translation": "мөрдөн байцаах",
+    "hanja": "搜査",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수사관",
+    "translation": "Мөрдөн байцаагч",
+    "hanja": "搜査官",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수사력",
+    "translation": "мөрдөн байцаах чадвар",
+    "hanja": "搜査力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수사망",
+    "translation": "Мөрдөн байцаалтын сүлжээ",
+    "hanja": "搜査網",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수사법",
+    "translation": "Уран илтгэх арга",
+    "hanja": "修辭法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수사본부",
+    "translation": "Мөрдөн байцаах төв",
+    "hanja": "搜査本部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수사진",
+    "translation": "мөрдөн байцаагчид",
+    "hanja": "搜査陣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수사하다",
+    "translation": "шалгах, мөрдөн байцаах",
+    "hanja": "搜査하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수사학",
+    "translation": "Уран илтгэл, суторикс",
+    "hanja": "修辭學",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수산",
+    "translation": "усан бүтээгдэхүүн; загас агнуур",
+    "hanja": "水産",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수산물",
+    "translation": "далайн бүтээгдэхүүн",
+    "hanja": "水産物",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수산업",
+    "translation": "загас агнуурын аж үйлдвэр",
+    "hanja": "水産業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수삼",
+    "translation": "хүн орхоодой",
+    "hanja": "水蔘",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수상",
+    "translation": "ерөнхий сайд, шагнал",
+    "hanja": "首相",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수상기",
+    "translation": "усан онгоц",
+    "hanja": "水上機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수상스럽다",
+    "translation": "Сэжигтэй",
+    "hanja": "殊常스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "수상자",
+    "translation": "шагналын эзэн",
+    "hanja": "受賞者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수상쩍다",
+    "translation": "Сэжигтэй",
+    "hanja": "수상쩍다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수상하다",
+    "translation": "сэжигтэй",
+    "hanja": "殊常하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "수상히",
+    "translation": "сэжигтэйгээр",
+    "hanja": "殊常히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수색",
+    "translation": "хайлт, эрүүл хайгуул",
+    "hanja": "搜索",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수색대",
+    "translation": "хайгуулын баг",
+    "hanja": "搜索隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수색하다",
+    "translation": "хайх, эрж олох",
+    "hanja": "搜索하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수생",
+    "translation": "усан",
+    "hanja": "水生",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수서",
+    "translation": "номын цуглуулга",
+    "hanja": "手書",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수석",
+    "translation": "Ахлах",
+    "hanja": "首席",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수석대표",
+    "translation": "тэргүүлэх төлөөлөгч",
+    "hanja": "首席代表",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수선",
+    "translation": "засвар, шинэчлэл",
+    "hanja": "修繕",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수선공",
+    "translation": "засварчин",
+    "hanja": "修繕工",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수선스럽다",
+    "translation": "шуумгай, үймүүлсэн",
+    "hanja": "수선스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수선하다",
+    "translation": "засварлах, оёх",
+    "hanja": "修繕하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수선화",
+    "translation": "Нарцисс",
+    "hanja": "수선화",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수성",
+    "translation": "Меркури",
+    "hanja": "水星",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수성하다",
+    "translation": "сайн хадгалах",
+    "hanja": "守成하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "수세",
+    "translation": "усны урсгал, усны хүч",
+    "hanja": "水勢",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수세미",
+    "translation": "аяга таваг угаагч",
+    "hanja": "수세미",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수세식",
+    "translation": "усны жорлон",
+    "hanja": "水洗式",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수세적",
+    "translation": "Хамгаалалтын, пассив",
+    "hanja": "守勢的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "수소",
+    "translation": "Устөрөгч",
+    "hanja": "水素",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수소문",
+    "translation": "Сураг тавих, сураглах",
+    "hanja": "搜所聞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수소문하다",
+    "translation": "хайн сураглах",
+    "hanja": "搜所聞하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수소탄",
+    "translation": "устөрөгчийн бөмбөг",
+    "hanja": "水素彈",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수속",
+    "translation": "журам, үйл явц",
+    "hanja": "手續",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수속하다",
+    "translation": "журамлах, үйл явц явуулах",
+    "hanja": "手續하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수송",
+    "translation": "тээвэрлэлт",
+    "hanja": "輸送",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수송관",
+    "translation": "Тээврийн хоолой",
+    "hanja": "輸送管",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수송기",
+    "translation": "тээврийн онгоц",
+    "hanja": "輸送機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수송되다",
+    "translation": "зөөвөрлөгдөх",
+    "hanja": "輸送되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수송량",
+    "translation": "тээврийн хэмжээ",
+    "hanja": "輸送量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수송차",
+    "translation": "тээврийн машин",
+    "hanja": "輸送車",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수송하다",
+    "translation": "тээвэрлэх",
+    "hanja": "輸送하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수수",
+    "translation": "улаан буудай",
+    "hanja": "黍",
+    "pos": "м.н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "수수깡",
+    "translation": "нарийн иш",
+    "hanja": "수수깡",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수수께끼",
+    "translation": "таавар",
+    "hanja": "수수께끼",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수수료",
+    "translation": "хураамж",
+    "hanja": "수수료(手数料)",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수수방관",
+    "translation": "Хараад суух",
+    "hanja": "袖手旁觀",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수수방관하다",
+    "translation": "Идэвхгүй байх",
+    "hanja": "袖手傍觀하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수수하다",
+    "translation": "энгийн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수순",
+    "translation": "үе шат",
+    "hanja": "手順",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수술",
+    "translation": "Мэс засал",
+    "hanja": "手術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "translation": "мэс заслын ширээ",
+    "hanja": "手術臺",
+    "pos": "명사",
+    "cefr": "B2",
+    "word": "수술대"
+  },
+  {
+    "word": "수술비",
+    "translation": "мэс заслын зардал",
+    "hanja": "手術費",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수술실",
+    "translation": "мэс заслын өрөө",
+    "hanja": "手術室",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수술하다",
+    "translation": "мэс засал хийх",
+    "hanja": "手術하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수습",
+    "translation": "Дадлагажигч, сургалт",
+    "hanja": "收拾",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수습기자",
+    "translation": "дадлагажигч сэтгүүлч",
+    "hanja": "修習記者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수습되다",
+    "translation": "зохицуулагдах, эмх цэгцтэй болох",
+    "hanja": "收拾되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수습사원",
+    "translation": "дадлагажигч ажилтан",
+    "hanja": "修習社員",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수습하다",
+    "translation": "Эмхлэх / Зохицуулах / Сургах",
+    "hanja": "수습하다 (收拾하다)",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수시",
+    "translation": "хэзээ ч хамаагүй",
+    "hanja": "隨時",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "수시다",
+    "translation": "хөндүүрлэх, байнга өвдөх",
+    "hanja": "쑤시다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수식",
+    "translation": "чимэглэл",
+    "hanja": "修飾",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수식어",
+    "translation": "Тодотгол",
+    "hanja": "修飾語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수식하다",
+    "translation": "чимэглэх, тодотгох",
+    "hanja": "修飾하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "수신",
+    "translation": "хүлээн авах",
+    "hanja": "受信",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수신기",
+    "translation": "хүлээн авагч, ресивер",
+    "hanja": "受信機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수신되다",
+    "translation": "хүлээн авах",
+    "hanja": "受信되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수신인",
+    "translation": "хүлээн авагч",
+    "hanja": "受信人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수신자",
+    "translation": "хүлээн авагч",
+    "hanja": "受信者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수신하다",
+    "translation": "хүлээн авах",
+    "hanja": "受信하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수심",
+    "translation": "усны гүн",
+    "hanja": "水深",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수십",
+    "translation": "хэдэн арван",
+    "hanja": "數十",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수십만",
+    "translation": "хэдэн зуун мянга",
+    "hanja": "數十萬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수아",
+    "translation": "Сү-А",
+    "hanja": "秀雅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수아레스",
+    "translation": "Суарес (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수안보",
+    "translation": "Суанбо",
+    "hanja": "水安堡",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "수암",
+    "translation": "усан хад",
+    "hanja": "水巖",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수압",
+    "translation": "Усны даралт",
+    "hanja": "水壓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수애",
+    "translation": "Су Э",
+    "hanja": "秀愛",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "수액",
+    "translation": "шингэн, шүүс",
+    "hanja": "樹液",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수양",
+    "translation": "төгсгөл, хувийн хөгжил",
+    "hanja": "修養",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수양딸",
+    "translation": "үрчилж авсан охин",
+    "hanja": "收養딸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수양버들",
+    "translation": "усан бургас",
+    "hanja": "垂楊버들",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수양아들",
+    "translation": "Үрчилж авсан хүү",
+    "hanja": "收養아들",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수양하다",
+    "translation": "сэтгэлээ засах",
+    "hanja": "修養하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수어",
+    "translation": "Дохионы хэл",
+    "hanja": "手語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수어드",
+    "translation": "севард",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수억",
+    "translation": "хэдэн зуун сая",
+    "hanja": "數億",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수업",
+    "translation": "хичээл",
+    "hanja": "授業",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "수업료",
+    "translation": "сургалтын төлбөр",
+    "hanja": "授業料",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수업하다",
+    "translation": "хичээл заах, сурах",
+    "hanja": "授業하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수없다",
+    "translation": "тоо томшгүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수없이",
+    "translation": "тоолж баршгүй",
+    "hanja": "数없-",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수에즈",
+    "translation": "Суэц",
+    "hanja": "수에즈",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "수여",
+    "translation": "шагнал олгох",
+    "hanja": "授與",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수여되다",
+    "translation": "шагнал хүртэх",
+    "hanja": "授與되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수여자",
+    "translation": "өгөгч, шагнагч",
+    "hanja": "授與者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수여하다",
+    "translation": "гардуулах, олгох",
+    "hanja": "授與하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수역",
+    "translation": "усны бүс",
+    "hanja": "水域",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수열",
+    "translation": "цуваа (математик)",
+    "hanja": "數列",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수염",
+    "translation": "Сахал",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수영",
+    "translation": "усанд сэлэх",
+    "hanja": "水泳",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수영복",
+    "translation": "усны хувцас",
+    "hanja": "水泳服",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수영장",
+    "translation": "усан сан",
+    "hanja": "水泳場",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수영하다",
+    "translation": "сэлэх",
+    "hanja": "水泳하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수예",
+    "translation": "гар урлал, нэхмэл",
+    "hanja": "手藝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수오",
+    "translation": "хуучин гэр",
+    "hanja": "守護",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수오미",
+    "translation": "Суоми (Финландын өөр нэр)",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수오지심",
+    "translation": "ичгүүр, уур",
+    "hanja": "羞惡之心",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "수옥",
+    "translation": "усан шигтгээ",
+    "hanja": "水玉",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "수온",
+    "translation": "усны температур",
+    "hanja": "水溫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수완",
+    "translation": "ур чадвар, арга эв",
+    "hanja": "手腕",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수요",
+    "translation": "Эрэлт, хүсэл",
+    "hanja": "需要",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수요량",
+    "translation": "эрэлтийн хэмжээ",
+    "hanja": "需要量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수요일",
+    "translation": "Лхагва гариг",
+    "hanja": "水曜日",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "수요자",
+    "translation": "хэрэглэгч, эрэлттэй хүн",
+    "hanja": "需要者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수요층",
+    "translation": "эрэлттэй бүлэг",
+    "hanja": "需要層",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수욕",
+    "translation": "Ичгүүр, шившиг",
+    "hanja": "羞辱",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "수용",
+    "translation": "хүлээн авах",
+    "hanja": "收容",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수용되다",
+    "translation": "хүлээн авах",
+    "hanja": "受容되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수용성",
+    "translation": "Уусах чадвар",
+    "hanja": "水溶性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수용소",
+    "translation": "хорих лагерь",
+    "hanja": "收容所",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수용액",
+    "translation": "усан уусмал",
+    "hanja": "水溶液",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수용자",
+    "translation": "хүлээн авагч, хоригдол",
+    "hanja": "收容者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수용적",
+    "translation": "хүлээж авах чадвартай",
+    "hanja": "受容的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수용하다",
+    "translation": "хүлээн авах",
+    "hanja": "受容하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수원",
+    "translation": "Усны эх",
+    "hanja": "水源",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수월",
+    "translation": "хялбар, амархан",
+    "hanja": "手越",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수월하다",
+    "translation": "хялбар",
+    "hanja": "수월하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수위",
+    "translation": "хаалгач",
+    "hanja": "守衛",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수위실",
+    "translation": "Харуулын байр",
+    "hanja": "守衛室",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수위하다",
+    "translation": "харуул хамгаалалт хийх",
+    "hanja": "守衛하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수유",
+    "translation": "хөхүүлэх",
+    "hanja": "授乳",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수유하다",
+    "translation": "хөхүүлэх",
+    "hanja": "授乳하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수육",
+    "translation": "чанасан мах",
+    "hanja": "水肉",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수율",
+    "translation": "үр дүн",
+    "hanja": "收率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수은",
+    "translation": "Мөнгөн ус",
+    "hanja": "水銀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수은등",
+    "translation": "Мөнгөн усны гэрэл",
+    "hanja": "水銀燈",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수은주",
+    "translation": "мөнгөн усны багана",
+    "hanja": "水銀柱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수음",
+    "translation": "гар хангах",
+    "hanja": "手淫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수음하다",
+    "translation": "Гар хангалга хийх",
+    "hanja": "手淫하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수의",
+    "translation": "үхэгсдийн хувцас",
+    "hanja": "壽衣",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수의사",
+    "translation": "мал эмч",
+    "hanja": "獸醫師",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수의학",
+    "translation": "мал эмнэлэг",
+    "hanja": "獸醫學",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수이",
+    "translation": "хялбархан, амархан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수익",
+    "translation": "орлого",
+    "hanja": "收益",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수익금",
+    "translation": "орлого",
+    "hanja": "收益金",
+    "pos": "м.н",
+    "cefr": "B1"
+  },
+  {
+    "word": "수익률",
+    "translation": "ашгийн хувь",
+    "hanja": "收益率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수익성",
+    "translation": "Ашигтай байдал",
+    "hanja": "收益性",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수익자",
+    "translation": "хүртэгч",
+    "hanja": "受益者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수일",
+    "translation": "хэдэн өдөр",
+    "hanja": "數日",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "수임",
+    "translation": "Даалгавар хүлээн авах",
+    "hanja": "受任",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수임하다",
+    "translation": "Үүрэг хүлээх",
+    "hanja": "受任하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "수입",
+    "translation": "орлого, импорт",
+    "hanja": "收入",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수입국",
+    "translation": "импортлогч орон",
+    "hanja": "輸入國",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수입금",
+    "translation": "орлого",
+    "hanja": "收入金",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수입되다",
+    "translation": "Импортлогдох",
+    "hanja": "輸入되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수입상",
+    "translation": "импортлогч",
+    "hanja": "輸入商",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수입액",
+    "translation": "импортын хэмжээ",
+    "hanja": "輸入額",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수입원",
+    "translation": "орлогын эх үүсвэр",
+    "hanja": "收入源",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수입품",
+    "translation": "импортын бараа бүтээгдэхүүн",
+    "hanja": "輸入品",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수입하다",
+    "translation": "импортлох",
+    "hanja": "輸入하다",
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "수자",
+    "translation": "тоон дүн, тоо",
+    "hanja": "數字",
+    "pos": "м.н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "수자원",
+    "translation": "усны нөөц",
+    "hanja": "수자원(水資源)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수작",
+    "translation": "зохиол, хуйвалдаан",
+    "hanja": "酬酌",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수작업",
+    "translation": "гар ажиллагаа",
+    "hanja": "手作業",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수장",
+    "translation": "Дарга, тэргүүн",
+    "hanja": "首長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수장되다",
+    "translation": "усан доор живэх",
+    "hanja": "水葬되다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "수장하다",
+    "translation": "угаах, нунтаглах",
+    "hanja": "水葬하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수재",
+    "translation": "авьяаслаг хүн, суут хүн",
+    "hanja": "秀才",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수재민",
+    "translation": "үерийн хохирогч",
+    "hanja": "水災民",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수저",
+    "translation": "халбага сэрээний хослол, халбага ба савх",
+    "hanja": "수저",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수저통",
+    "translation": "хэрэгслийн сав",
+    "hanja": "수저통",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수적",
+    "translation": "тооны, хэд хэдэн",
+    "hanja": "數的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수전",
+    "translation": "усны крант",
+    "hanja": "水栓",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수전노",
+    "translation": "수전노",
+    "hanja": "守錢奴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수전증",
+    "translation": "гар чичиргээ",
+    "hanja": "手顫症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수절",
+    "translation": "бэлэвсэн эмэгтэй үргэлжлүүлэн амьдрах",
+    "hanja": "守節",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수절하다",
+    "translation": "Бүлбээ барих",
+    "hanja": "守節하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수정",
+    "translation": "засварлах",
+    "hanja": "修正",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수정과",
+    "translation": "сужонгва",
+    "hanja": "水正果",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수정되다",
+    "translation": "засварлагдах",
+    "hanja": "修正되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "수정란",
+    "translation": "үр тогтсон өндөг",
+    "hanja": "受精卵",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수정안",
+    "translation": "нэмэлт өөрчлөлт",
+    "hanja": "修正案",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수정체",
+    "translation": "болор, талст",
+    "hanja": "水晶体",
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "수정하다",
+    "translation": "засах",
+    "hanja": "修正하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수제",
+    "translation": "гар хийцийн",
+    "hanja": "手製",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수제비",
+    "translation": "гоймонтой шөл",
+    "hanja": "수제비",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수제자",
+    "translation": "Шилдэг шавь",
+    "hanja": "首弟子",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수조",
+    "translation": "аквариум",
+    "hanja": "水槽",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수족",
+    "translation": "гар хөл",
+    "hanja": "手足",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수족관",
+    "translation": "аквариум",
+    "hanja": "水族館",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수족구병",
+    "translation": "Гар хөл амны өвчин",
+    "hanja": "手足口病",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수종",
+    "translation": "модны төрөл",
+    "hanja": "樹種",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수주",
+    "translation": "захиалга авах",
+    "hanja": "受注",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수주액",
+    "translation": "Захиалгын дүн, гэрээний дүн",
+    "hanja": "受注額",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수주하다",
+    "translation": "захиалга авах",
+    "hanja": "受注하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수준",
+    "translation": "түвшин",
+    "hanja": "水準",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수준급",
+    "translation": "өндөр түвшний",
+    "hanja": "水準級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수줍다",
+    "translation": "Ичимхий",
+    "hanja": "수줍다",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "수줍어하다",
+    "translation": "ичих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수줍음",
+    "translation": "Ичимхий",
+    "hanja": "수줍음",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수중",
+    "translation": "усны дор",
+    "hanja": "水中",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수증기",
+    "translation": "уур",
+    "hanja": "水蒸氣",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수지맞다",
+    "translation": "ашигтай байх, ашиг олох",
+    "hanja": "收支맞다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수지침",
+    "translation": "гарны зүү тариа",
+    "hanja": "手指鍼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수직",
+    "translation": "Босоо",
+    "hanja": "垂直",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수직하다",
+    "translation": "босоо байх, перпендикуляр байх",
+    "hanja": "垂直하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수질",
+    "translation": "Усны чанар",
+    "hanja": "水質",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수집",
+    "translation": "цуглуулах",
+    "hanja": "蒐集",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수집가",
+    "translation": "цуглуулагч",
+    "hanja": "蒐集家",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수집광",
+    "translation": "цуглуулагч",
+    "hanja": "蒐集狂",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수집다",
+    "translation": "Ичмээр, ичих",
+    "hanja": "수집다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수집되다",
+    "translation": "цуглуулагдах",
+    "hanja": "收集되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수집상",
+    "translation": "цуглуулагч",
+    "hanja": "蒐集商",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수집하다",
+    "translation": "Цуглуулах",
+    "hanja": "蒐集하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "수차",
+    "translation": "усны дугуй",
+    "hanja": "水車",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수차례",
+    "translation": "хэд хэдэн удаа",
+    "hanja": "數次例",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수창",
+    "translation": "шүлэг зохиох",
+    "hanja": "酬唱",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수채",
+    "translation": "усны суваг",
+    "hanja": "水寨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수채화",
+    "translation": "Усан будгийн зураг",
+    "hanja": "水彩畫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수챗구멍",
+    "translation": "ус зайлуулах нүх",
+    "hanja": "수챗구멍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수처",
+    "translation": "эзэгтэй",
+    "hanja": "守妻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수척하다",
+    "translation": "турж эцэх",
+    "hanja": "瘦瘠하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수천",
+    "translation": "мянган, олон мянга",
+    "hanja": "數千",
+    "pos": "수사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수천수만",
+    "translation": "олон мянга",
+    "hanja": "數千數萬",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수철",
+    "translation": "Су Чол",
+    "hanja": "壽哲",
+    "pos": "Proper Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "수첩",
+    "translation": "Тэмдэглэлийн дэвтэр",
+    "hanja": "手帖",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수청",
+    "translation": "үйлчлэх, туслах",
+    "hanja": "守廳",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수초",
+    "translation": "усны ургамал",
+    "hanja": "水草",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수축",
+    "translation": "агших",
+    "hanja": "收縮",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수축되다",
+    "translation": "агших",
+    "hanja": "收縮되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수축시키다",
+    "translation": "агшаах",
+    "hanja": "收縮시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수축하다",
+    "translation": "агших, хумигдах",
+    "hanja": "收縮하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수춘",
+    "translation": "Сучунь (хуучны хотын нэр)",
+    "hanja": "壽春",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수출",
+    "translation": "экспорт",
+    "hanja": "輸出",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수출국",
+    "translation": "экспортлогч улс",
+    "hanja": "輸出國",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수출되다",
+    "translation": "экспортлогдох",
+    "hanja": "輸出되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수출액",
+    "translation": "Экспортын хэмжээ",
+    "hanja": "輸出額",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수출용",
+    "translation": "экспортын зориулалттай",
+    "hanja": "輸出用",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수출입",
+    "translation": "экспорт, импорт",
+    "hanja": "輸出入",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수출품",
+    "translation": "экспортын бараа",
+    "hanja": "輸出品",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수출하다",
+    "translation": "экспортлох",
+    "hanja": "輸出하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수취",
+    "translation": "хүлээн авах",
+    "hanja": "受取",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수취인",
+    "translation": "хүлээн авагч",
+    "hanja": "受取人",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수취하다",
+    "translation": "хүлээн авах",
+    "hanja": "受取하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수치",
+    "translation": "тоо",
+    "hanja": "數値",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "수치감",
+    "translation": "ичгүүрийн мэдрэмж",
+    "hanja": "羞恥感",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수치스럽다",
+    "translation": "ичгүүртэй",
+    "hanja": "羞恥스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수치화되다",
+    "translation": "тооны утгатай болох",
+    "hanja": "數値化되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "수치화하다",
+    "translation": "Тоон утга болгох",
+    "hanja": "數値化",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수칙",
+    "translation": "дүрэм, журам",
+    "hanja": "守則",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수컷",
+    "translation": "эр амьтан",
+    "hanja": "雄컷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수코타이",
+    "translation": "Сукотай",
+    "hanja": "Sukhothai",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수크령",
+    "translation": "шар өвс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수키와",
+    "translation": "эр дээвэр",
+    "hanja": "수키와",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수타",
+    "translation": "гараар хийсэн, гараар цохих",
+    "hanja": "手打",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수탁",
+    "translation": "итгэлцэл, захиалга",
+    "hanja": "受託",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수탈",
+    "translation": "хуу халах",
+    "hanja": "收奪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수탈하다",
+    "translation": "дээрэмдэх",
+    "hanja": "收奪하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "수탉",
+    "translation": "азарга тахиа",
+    "hanja": null,
+    "pos": "мüns",
+    "cefr": "A2"
+  },
+  {
+    "word": "수통",
+    "translation": "усалгаа",
+    "hanja": "水筒",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수퇘지",
+    "translation": "эр гахай",
+    "hanja": "수-, 豚",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수트",
+    "translation": "костюм",
+    "hanja": "suit",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수틀리다",
+    "translation": "таарахгүй байх, санаанаас зөрөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수파",
+    "translation": "давалгаа",
+    "hanja": "水波",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수퍼",
+    "translation": "супер",
+    "hanja": "super",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수퍼마켓",
+    "translation": "Супермаркет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "수퍼맨",
+    "translation": "супермэн",
+    "hanja": "수퍼맨",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수퍼스타",
+    "translation": "супер од",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수평",
+    "translation": "хэвтээ",
+    "hanja": "水平",
+    "pos": "м.н.",
+    "cefr": "B1"
+  },
+  {
+    "word": "수평면",
+    "translation": "хэвтээ хавтгай",
+    "hanja": "水平面",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수평선",
+    "translation": "Тэнгэрийн хаяа",
+    "hanja": "水平線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수평아리",
+    "translation": "эр шаазгай",
+    "hanja": "雄병아리",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수포",
+    "translation": "усны цэврүү",
+    "hanja": "水泡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수표",
+    "translation": "чек",
+    "hanja": "手票",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수풀",
+    "translation": "Бут бургас",
+    "hanja": "수풀",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수프",
+    "translation": "шөл",
+    "hanja": "수프",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "수플레",
+    "translation": "сүфле",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수플렉스",
+    "translation": "суплекс (бөх барилдааны нэгэн мэх)",
+    "hanja": "수플렉스",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수피",
+    "translation": "сүфизм",
+    "hanja": "Sufi",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수필",
+    "translation": "эссе, богино хөрөг",
+    "hanja": "隨筆",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수필가",
+    "translation": "эссеист",
+    "hanja": "隨筆家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수필집",
+    "translation": "эссений түүвэр",
+    "hanja": "隨筆集",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수하다",
+    "translation": "зөөвөрлөх, тээвэрлэх",
+    "hanja": "收하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수하물",
+    "translation": "гар тээш, ачаа тээш",
+    "hanja": "手荷物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수학",
+    "translation": "математик",
+    "hanja": "數學",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수학여행",
+    "translation": "сургуулийн аялал, сургалтын аялал",
+    "hanja": "修學旅行",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "수학자",
+    "translation": "математикч",
+    "hanja": "數學者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수학적",
+    "translation": "математикийн",
+    "hanja": "數學的",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "수학하다",
+    "translation": "Боловсрол эзэмших",
+    "hanja": "修學하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "수한",
+    "translation": "хан",
+    "hanja": "水汗",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "수해",
+    "translation": "Үерийн гамшиг",
+    "hanja": "水害",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수행",
+    "translation": "Биелүүлэх",
+    "hanja": "遂行",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수행되다",
+    "translation": "гүйцэтгэгдэх, биелэгдэх",
+    "hanja": "遂行되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수행원",
+    "translation": "дагалдан явагч, хамгаалагч, бие төлөөлөгч",
+    "hanja": "隨行員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수행자",
+    "translation": "Дагалдан явагч, туйлын зорилгоо биелүүлж буй хүн",
+    "hanja": "修行者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수행하다",
+    "translation": "гүйцэтгэх",
+    "hanja": "遂行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수향",
+    "translation": "Үнэр",
+    "hanja": "水香",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수험",
+    "translation": "шалгалт өгөх",
+    "hanja": "受驗",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수험생",
+    "translation": "шалгуулагч",
+    "hanja": "受驗生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수험표",
+    "translation": "шалгалтын үнэмлэх",
+    "hanja": "受驗票",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수혈",
+    "translation": "Цус сэлбэх",
+    "hanja": "輸血",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수혈되다",
+    "translation": "цус сэлбэх",
+    "hanja": "輸血─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수혈하다",
+    "translation": "цус сэлбэх",
+    "hanja": "輸血하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수협",
+    "translation": "загасчдын хоршоо",
+    "hanja": "水協",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "수형",
+    "translation": "Ялтан",
+    "hanja": "受刑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수형자",
+    "translation": "ял эдэлж буй хүн",
+    "hanja": "受刑者",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "수혜",
+    "translation": "ашиг тус хүртэх",
+    "hanja": "受惠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수혜자",
+    "translation": "хүлээн авагч, ашиг хүртэгч",
+    "hanja": "受惠者",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "수호",
+    "translation": "хамгаалах",
+    "hanja": "守護",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수호신",
+    "translation": "сахиус, хамгаалагч бурхан",
+    "hanja": "守護神",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수호자",
+    "translation": "Хамгаалагч",
+    "hanja": "守護者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수호하다",
+    "translation": "Хамгаалах, манах",
+    "hanja": "守護하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수홍",
+    "translation": "усан улаан",
+    "hanja": "水紅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "수화",
+    "translation": "дохионы хэл",
+    "hanja": "手話",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수화물",
+    "translation": "багаж",
+    "hanja": "手荷物",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수화하다",
+    "translation": "хүлээн авах",
+    "hanja": "受話하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수확",
+    "translation": "хураалт",
+    "hanja": "收穫",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수확기",
+    "translation": "хураалтын үе",
+    "hanja": "收穫期",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "수확되다",
+    "translation": "хураагдах, ургац хураагдах",
+    "hanja": "收穫되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "수확량",
+    "translation": "ургацын хэмжээ",
+    "hanja": "收穫量",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "수확하다",
+    "translation": "хураах",
+    "hanja": "收穫하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "수효",
+    "translation": "тоо",
+    "hanja": "數爻",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "수훈",
+    "translation": "гавьяа, үйлс",
+    "hanja": "殊勳",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "수희",
+    "translation": "Хувийн баяр баясгалан",
+    "hanja": "隨喜",
+    "pos": "명사",
+    "cefr": "C2"
+  }
+]

@@ -1,0 +1,555 @@
+[
+  {
+    "word": "머",
+    "translation": "Үс",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "머가리",
+    "translation": "толгой (мохоо хэллэг)",
+    "hanja": "머가리",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "머구리",
+    "translation": "Усанд шумбагч",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "머그",
+    "translation": "аяга",
+    "hanja": "mug",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "머그다",
+    "translation": "Уух",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "머그잔",
+    "translation": "аяга",
+    "hanja": "mug杯",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "머글",
+    "translation": "Магл (Харри Поттер)",
+    "hanja": "muggle",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "머금다",
+    "translation": "аман дотроо хадгалах, агуулах",
+    "hanja": "-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "머나멀다",
+    "translation": "хэт хол",
+    "hanja": "null",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머니",
+    "translation": "мөнгө",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "머더보드",
+    "translation": "эхийн самбар (компьютер)",
+    "hanja": "머더보드",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "머드",
+    "translation": "шавар",
+    "hanja": "Mud",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머라이언",
+    "translation": "Мерлайон (Сингапурын билэгдэл)",
+    "hanja": "Merlion",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "머랭",
+    "translation": "меранг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "머레",
+    "translation": "Баринтаг, ороолт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "머루",
+    "translation": "Зэрлэг усан үзэм",
+    "hanja": "머루",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머뤼",
+    "translation": "толгой",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "머리",
+    "translation": "толгой, үс",
+    "hanja": "머리",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "머리글자",
+    "translation": "товчилсон үг",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머리기사",
+    "translation": "тэргүүлэх нийтлэл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "머리꼭지",
+    "translation": "толгойны орой",
+    "hanja": "머리꼭지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "머리끄댕이",
+    "translation": "Үсний сүлжих",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "머리끄덩이",
+    "translation": "үс, толгойн үс",
+    "hanja": "머리끄덩이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "머리끝",
+    "translation": "Үсний үзүүр",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "머리띠",
+    "translation": "үсний тууз",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "머리말",
+    "translation": "оршил үг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "머리맡",
+    "translation": "орны хажуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머리발",
+    "translation": "царай муутай ч ухаантай",
+    "hanja": "머리발",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "머리빗",
+    "translation": "сам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "머리숱",
+    "translation": "үсний тоо",
+    "hanja": null,
+    "pos": "мüns",
+    "cefr": "B1"
+  },
+  {
+    "word": "머리쪽",
+    "translation": "толгой тал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "머리채",
+    "translation": "Үс (урт)",
+    "hanja": "머리채",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머리카락",
+    "translation": "үс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "머리칼",
+    "translation": "үс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "머리털",
+    "translation": "үс",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "머리통",
+    "translation": "Толгой",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "머리핀",
+    "translation": "үсний хавчаар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "머리하다",
+    "translation": "үс засах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머릿결",
+    "translation": "үсний тал",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "머릿고기",
+    "translation": "толгойны мах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머릿기름",
+    "translation": "үсний тос",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "머릿니",
+    "translation": "толгойны бөөс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머릿돌",
+    "translation": "тулгуур чулуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "머릿속",
+    "translation": "бодож байгаа зүйл, толгойд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "머릿수",
+    "translation": "тоо толгой",
+    "hanja": "머릿數",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머무다",
+    "translation": "байх",
+    "hanja": "머무다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "머무르다",
+    "translation": "үргэлжлэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머물다",
+    "translation": "Үлдэх, байрлах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "머뭇거리다",
+    "translation": "эргэлзэх, тээнэгэлзэх",
+    "hanja": "머뭇거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "머뭇대다",
+    "translation": "эргэлзэх, тээнэгэлзэх",
+    "hanja": "머뭇대다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머뭇머뭇",
+    "translation": "эгдэнэгдэн, ээрэн тээрэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머뭇머뭇하다",
+    "translation": "эгдүүцэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "머스",
+    "translation": "масс (хэмжээ)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "머스마",
+    "translation": "хөвгүүд (нутгийн аялгуугаар)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "머스캣",
+    "translation": "мускат",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "머스크",
+    "translation": "Муск",
+    "hanja": "머스크",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "머스터드",
+    "translation": "гич",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "머슴",
+    "translation": "Зарц",
+    "hanja": "머슴",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "머슴살이",
+    "translation": "Боолчлол",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "머시",
+    "translation": "мөрөөдөл, хүсэл",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "머시룸",
+    "translation": "мөөгөнцөр",
+    "hanja": "머시룸",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "머시마",
+    "translation": "хүүхэд (зарим аялгуу)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "머시매",
+    "translation": "хүү",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "머쓱하다",
+    "translation": "эвгүй байдалд орох",
+    "hanja": "머쓱하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "머위",
+    "translation": "навчит хогийн ургамал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "머이",
+    "translation": "мөр",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "머저리",
+    "translation": "тэнэг",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "머제스틱",
+    "translation": "сүр жавхлант",
+    "hanja": "Majestic",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "머지않다",
+    "translation": "удаангүй",
+    "hanja": "null",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "머취",
+    "translation": "Маш их, их хэмжээгээр",
+    "hanja": "머취",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "머치다",
+    "translation": "барих, барьж авах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "머큐리",
+    "translation": "Меркури",
+    "hanja": "머큐리",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "머크",
+    "translation": "мөрк",
+    "hanja": "머크",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "머키다",
+    "translation": "булан руу шахах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "머프",
+    "translation": "муфф",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "머플러",
+    "translation": "ороолт",
+    "hanja": "머플러",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "머피",
+    "translation": "Мерфи",
+    "hanja": "머피",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "머핀",
+    "translation": "маффин",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "머하다",
+    "translation": "юу хийх вэ",
+    "hanja": "뭣하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

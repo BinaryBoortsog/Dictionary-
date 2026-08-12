@@ -1,0 +1,114 @@
+[
+  {
+    "word": "쓸",
+    "translation": "Хэрэгтэй",
+    "hanja": "쓸",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쓸개",
+    "translation": "цөс",
+    "hanja": "쓸개",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "쓸다",
+    "translation": "Шүүрдэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쓸데",
+    "translation": "хэрэгцээгүй зүйл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "쓸데없다",
+    "translation": "хэрэггүй, үр ашиггүй",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쓸데없이",
+    "translation": "хэрэггүйгээр",
+    "hanja": "쓸데없이",
+    "pos": "ADV",
+    "cefr": "B1"
+  },
+  {
+    "word": "쓸리다",
+    "translation": "арчигдах",
+    "hanja": "---",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "쓸모",
+    "translation": "хэрэгцээ",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "쓸모없다",
+    "translation": "Хэрэггүй",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "쓸모없이",
+    "translation": "хэрэггүй",
+    "hanja": null,
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "쓸쓸",
+    "translation": "ганцаардмал",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쓸쓸하다",
+    "translation": "ганцаардсан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쓸쓸히",
+    "translation": "ганцаардмал",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "쓸어내리다",
+    "translation": "довшлох, түлхэх",
+    "hanja": "쓸어내리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쓸어버리다",
+    "translation": "Цэвэрлэх, арчих",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "쓸어안다",
+    "translation": "тэврэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "word": "편",
+    "translation": "хэсэг, тал; тал, хажуу",
+    "hanja": "便",
+    "pos": "의존명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "편견",
+    "translation": "хуучинсаг үзэл, нэг талыг баримтлах",
+    "hanja": "偏見",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편곡",
+    "translation": "Хөгжмийн найруулга",
+    "hanja": "編曲",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "편곡되다",
+    "translation": "хөгжмийн найруулга хийгдэх",
+    "hanja": "編曲되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편곡하다",
+    "translation": "хөгжмийн зохиомж хийх",
+    "hanja": "編曲하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편광",
+    "translation": "Туйлширсан гэрэл",
+    "hanja": "偏光",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편달",
+    "translation": "торгомсог",
+    "hanja": "鞭撻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편도",
+    "translation": "нэг талдаа",
+    "hanja": "片道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "편도선",
+    "translation": "Гүйлсэн булчирхай",
+    "hanja": "扁桃腺",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편도선염",
+    "translation": "гөхөөний үрэвсэл",
+    "hanja": "扁桃腺炎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편두통",
+    "translation": "мигрень",
+    "hanja": "偏頭痛",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "편들다",
+    "translation": "талыг барих, өмгөөлөх",
+    "hanja": "便—",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "편람",
+    "translation": "гарын авлага, лавлах ном",
+    "hanja": "便覽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편력",
+    "translation": "байнга өөрчлөгддөг",
+    "hanja": "遍歷",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "편리",
+    "translation": "Тав тухтай, хялбар",
+    "hanja": "便利",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "편리성",
+    "translation": "тав тухтай байдал",
+    "hanja": "便利性",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "편리하다",
+    "translation": "тохиромжтой",
+    "hanja": "便利하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "편린",
+    "translation": "тусгал (эсвэл тоосны хэлтэрхий)",
+    "hanja": "片鱗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편먹다",
+    "translation": "таалагдах",
+    "hanja": "null",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "편명",
+    "translation": "нислэгийн дугаар",
+    "hanja": "便名",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "편모",
+    "translation": "ганц эх",
+    "hanja": "片母",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편백",
+    "translation": "кипарис мод",
+    "hanja": "扁柏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편법",
+    "translation": "шууд бус арга",
+    "hanja": "便法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편서풍",
+    "translation": "баруун салхи",
+    "hanja": "偏西風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "편성",
+    "translation": "зохион байгуулах",
+    "hanja": "編成",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편성되다",
+    "translation": "зохион байгуулагдах",
+    "hanja": "編成되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편성하다",
+    "translation": "Бүрдүүлэх, зохион байгуулах",
+    "hanja": "編成하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "편수",
+    "translation": "боть",
+    "hanja": "篇數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편승",
+    "translation": "Дагаж явах",
+    "hanja": "便乘",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "편승하다",
+    "translation": "урсгалыг дагаж явах",
+    "hanja": "便乘하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편식",
+    "translation": "сонгож идэх (хоол)",
+    "hanja": "偏食",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편식하다",
+    "translation": "хоол шилж идэх",
+    "hanja": "偏食하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "편안",
+    "translation": "тав тухтай",
+    "hanja": "便安",
+    "pos": "adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "편안하다",
+    "translation": "тав тухтай, ая тухтай",
+    "hanja": "便安하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "편안히",
+    "translation": "амар тайван",
+    "hanja": "便安—",
+    "pos": "adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "편애",
+    "translation": "Нэг талыг баримтлах, илүү хайрлах",
+    "hanja": "偏愛",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편애하다",
+    "translation": "нэг талд илүү хайртай байх",
+    "hanja": "偏愛하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "편액",
+    "translation": "хаяг (хаалганы дээд талын)",
+    "hanja": "扁額",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "편역",
+    "translation": "орчуулга",
+    "hanja": "編譯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "편육",
+    "translation": "чанасан махны үсийг",
+    "hanja": "片肉",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "편의",
+    "translation": "тав тух",
+    "hanja": "便宜",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "편의점",
+    "translation": "хүнсний дэлгүүр",
+    "hanja": "便宜店",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "편이",
+    "translation": "таатай байх, илүү дээр",
+    "hanja": "便이",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "편익",
+    "translation": "таатай байдал, ашиг тус",
+    "hanja": "便益",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "편입",
+    "translation": "шилжүүлэг, элсэлт",
+    "hanja": "編入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편입되다",
+    "translation": "Нэгдэх",
+    "hanja": "編入되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편입생",
+    "translation": "шилжин ирсэн оюутан",
+    "hanja": "編入生",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "편입시키다",
+    "translation": "Нэгтгэх",
+    "hanja": "編入",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편입하다",
+    "translation": "шилжүүлэн сурах",
+    "hanja": "編入하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편입학",
+    "translation": "шилжин суралцах",
+    "hanja": "編入學",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "편자",
+    "translation": "тахир",
+    "hanja": "褊窄",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "편작",
+    "translation": "бичиг баримт",
+    "hanja": "편작(編作)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편재",
+    "translation": "хаа сайгүй байх, бүх газар байх",
+    "hanja": "遍在",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "편저",
+    "translation": "редакторласан, эмхэтгэсэн",
+    "hanja": "編著",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편전",
+    "translation": "хоёр талдаа үзүүртэй сум",
+    "hanja": "片箭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "편제",
+    "translation": "зохион байгуулалт",
+    "hanja": "編制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편중",
+    "translation": "хэт нэг талыг баримтлах",
+    "hanja": "偏重",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편중되다",
+    "translation": "нэг талыг барих, тэнцвэргүй байх",
+    "hanja": "偏重되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편지",
+    "translation": "Захиа",
+    "hanja": "便紙",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "편지글",
+    "translation": "захидал, бичгийн хэлбэр",
+    "hanja": "便紙글",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "편지지",
+    "translation": "захидал бичих цаас",
+    "hanja": "便箋紙",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "편지하다",
+    "translation": "захидал бичих",
+    "hanja": "便紙하다",
+    "pos": "Verb",
+    "cefr": "A1"
+  },
+  {
+    "word": "편집",
+    "translation": "редакторлолт",
+    "hanja": "編輯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "편집기",
+    "translation": "редактор",
+    "hanja": "編輯器",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편집되다",
+    "translation": "засварлагдах",
+    "hanja": "編輯되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "편집부",
+    "translation": "редакцийн хэлтэс",
+    "hanja": "編輯部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편집하다",
+    "translation": "засварлах",
+    "hanja": "編輯하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "편차",
+    "translation": "Хяналт, хазайлт",
+    "hanja": "偏差",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편찬",
+    "translation": "эмхэтгэл, цуглуулга",
+    "hanja": "編纂",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "편찬되다",
+    "translation": "туурьвигдах, эмхэтгэгдэх",
+    "hanja": "編纂되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편찬하다",
+    "translation": "эмхэтгэх, хөрвүүлэх",
+    "hanja": "編纂하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편찮다",
+    "translation": "Өвдөх, тавгүй байх",
+    "hanja": "편찮다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "편충",
+    "translation": "шулуун гэдэсний хорхой",
+    "hanja": "鞭蟲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편취",
+    "translation": "хууран мэхлэх",
+    "hanja": "騙取",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편취하다",
+    "translation": "залилан мэхлэх, булаах",
+    "hanja": "騙取하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편파",
+    "translation": "хэсэгчилсэн, талцал",
+    "hanja": "偏頗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편파적",
+    "translation": "талыг барьсан",
+    "hanja": "偏頗的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편편하다",
+    "translation": "хавтгай, тэгш",
+    "hanja": "便便하다/翩翩하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편평",
+    "translation": "хавтгай",
+    "hanja": "扁平",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편평하다",
+    "translation": "хавтгай, тэгш",
+    "hanja": "편평하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "편하다",
+    "translation": "тав тухтай",
+    "hanja": "便하다",
+    "pos": "adj",
+    "cefr": "A2"
+  },
+  {
+    "word": "편향",
+    "translation": "үл үзэгдэх",
+    "hanja": "偏向",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "편향되다",
+    "translation": "хазайх, сугарах",
+    "hanja": "偏向되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편향성",
+    "translation": "хандлага",
+    "hanja": "偏向性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편향적",
+    "translation": "өвөрмөц, нэг талыг барьсан",
+    "hanja": "偏向的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편협하다",
+    "translation": "Хэт явцуу",
+    "hanja": "偏狹하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편히",
+    "translation": "тав тухтай",
+    "hanja": "便히",
+    "pos": "부사",
+    "cefr": "A2"
+  }
+]

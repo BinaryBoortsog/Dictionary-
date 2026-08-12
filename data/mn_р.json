@@ -1,0 +1,2508 @@
+[
+  {
+    "word": "로봇",
+    "translation": "робот",
+    "hanja": "robot",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "식당",
+    "translation": "Ресторан",
+    "hanja": "食堂",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "리",
+    "translation": "ри (нэгж)",
+    "hanja": "里",
+    "pos": "의존명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "소설",
+    "translation": "роман",
+    "hanja": "小說",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "레",
+    "translation": "ре",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "총장",
+    "translation": "Ректор",
+    "hanja": "總長",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "랩",
+    "translation": "Реп",
+    "hanja": "랩",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "라디오",
+    "translation": "радио",
+    "hanja": "라디오",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "편집",
+    "translation": "редакторлолт",
+    "hanja": "編輯",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레스토랑",
+    "translation": "ресторан",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "로마",
+    "translation": "Ром",
+    "hanja": "Roma",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "로즈",
+    "translation": "Роуз",
+    "hanja": "Rose",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "래퍼",
+    "translation": "Рэппер",
+    "hanja": "rapper",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "로키",
+    "translation": "Роки",
+    "hanja": "Rocky",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고무",
+    "translation": "резин, урам зориг өгөх",
+    "hanja": "고무",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "라면",
+    "translation": "Рамен",
+    "hanja": "라면",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "록",
+    "translation": "рок",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "렉스",
+    "translation": "Рекс",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "방송사",
+    "translation": "Радио телевизийн газар",
+    "hanja": "放送社",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "온천",
+    "translation": "Рашаан",
+    "hanja": "溫泉",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "로이터",
+    "translation": "Ройтерс (агентлаг)",
+    "hanja": "없음",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭만적",
+    "translation": "романтик",
+    "hanja": "浪漫的",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "스파",
+    "translation": "Рашаан сувилал",
+    "hanja": "spa",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "로맨틱하다",
+    "translation": "Романтик",
+    "hanja": "romantic—",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "백팩",
+    "translation": "рюкзак",
+    "hanja": "backpack",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "레티놀",
+    "translation": "Ретинол",
+    "hanja": "레티놀",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "레지던트",
+    "translation": "резидент",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "라미",
+    "translation": "рами",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "반사적",
+    "translation": "рефлексээр",
+    "hanja": "反射的",
+    "pos": "т.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "무전기",
+    "translation": "Радио",
+    "hanja": "無線機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "리키",
+    "translation": "Рики (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "로미오",
+    "translation": "Ромео (хүний нэр)",
+    "hanja": "Romeo",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "엑스레이",
+    "translation": "рентген",
+    "hanja": "X-ray",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "리오",
+    "translation": "Рио",
+    "hanja": "Rio",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고무줄",
+    "translation": "Резинэн утас",
+    "hanja": "고무줄",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "중대장",
+    "translation": "рот командлагч",
+    "hanja": "中隊長",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "라멘",
+    "translation": "рамэн",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "람",
+    "translation": "рам",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "루마니아",
+    "translation": "Румын",
+    "hanja": "Romania",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "룬",
+    "translation": "руна",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로저",
+    "translation": "Рожер",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "류찬",
+    "translation": "риу чан",
+    "hanja": "劉燦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레인저",
+    "translation": "рейжер",
+    "hanja": "Ranger",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "로사",
+    "translation": "Роза (нэр)",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "록시",
+    "translation": "Рокси (нэхмэлийн брэнд)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "롤러",
+    "translation": "роллер",
+    "hanja": "롤러",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "럭비",
+    "translation": "регби",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "럼",
+    "translation": "Ром архи",
+    "hanja": "rum",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "룰렛",
+    "translation": "Рулет",
+    "hanja": "roulette",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고무장갑",
+    "translation": "Резинен бээлий",
+    "hanja": "고무掌匣",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레베카",
+    "translation": "ребекка",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "합리화",
+    "translation": "Рационалчлах, үндэслэлтэй болгох",
+    "hanja": "合理化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "라울",
+    "translation": "Раул (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "렌더링",
+    "translation": "рендеринг",
+    "hanja": " rendeoring",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "에디터",
+    "translation": "редактор",
+    "hanja": "에디터(editor)",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "로타",
+    "translation": "рота",
+    "hanja": "로타(rota)",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭만",
+    "translation": "Романтик",
+    "hanja": "浪漫",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "로맨틱",
+    "translation": "Романтик",
+    "hanja": "로맨틱",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "라켓",
+    "translation": "Ракет",
+    "hanja": "Racket",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "리타",
+    "translation": "Рита (нэр)",
+    "hanja": "Rita",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "로빈슨",
+    "translation": "Робинсон",
+    "hanja": "로빈슨",
+    "pos": "мөн",
+    "cefr": "A1"
+  },
+  {
+    "word": "로저스",
+    "translation": "Рожерс",
+    "hanja": "Rogers",
+    "pos": "고유명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "르완다",
+    "translation": "Руанда",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "백패킹",
+    "translation": "рюкзактай аялал",
+    "hanja": "backpacking",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레아",
+    "translation": "Риа (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "릭",
+    "translation": "Рик (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "로코",
+    "translation": "романтик инээдмийн кино",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "레티날",
+    "translation": "ретинал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "라비",
+    "translation": "раби (шашны цол)",
+    "hanja": "rabbi",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "로라",
+    "translation": "роллер",
+    "hanja": "로라",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "레트로",
+    "translation": "ретро",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "라인하르트",
+    "translation": "Райнхард (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "라돈",
+    "translation": "радон",
+    "hanja": "Radon",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "리우데자네이루",
+    "translation": "Рио-де-Жанейро",
+    "hanja": null,
+    "pos": "н.н",
+    "cefr": "A2"
+  },
+  {
+    "word": "라신",
+    "translation": "Расин",
+    "hanja": "라신",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루스벨트",
+    "translation": "Рузвельт",
+    "hanja": "루스벨트",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "로단",
+    "translation": "Родан",
+    "hanja": "羅丹",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "리트리버",
+    "translation": "ретривер (нохойны үүлдэр)",
+    "hanja": "retriever",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "러셀",
+    "translation": "Рассел",
+    "hanja": "러셀",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "린스",
+    "translation": "ринс",
+    "hanja": "rinse",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "리소토",
+    "translation": "ризотто",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "로데오",
+    "translation": "Родео",
+    "hanja": "rodeo",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "르노",
+    "translation": "Рено (машины брэнд)",
+    "hanja": "Renault",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "로보트",
+    "translation": "робот",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "루꼴라",
+    "translation": "Роккет",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "인라인스케이트",
+    "translation": "роллер скэйт",
+    "hanja": "인라인스케이트",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "링링",
+    "translation": "Ринглинг",
+    "hanja": "링링",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로큰롤",
+    "translation": "рок-н-ролл",
+    "hanja": "null",
+    "pos": "н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "루치",
+    "translation": "ручий",
+    "hanja": "루치",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "라파엘",
+    "translation": "Рафаел",
+    "hanja": "라파엘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루타",
+    "translation": "рута",
+    "hanja": "ruta",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소켓",
+    "translation": "розетка",
+    "hanja": "socket",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "랠리",
+    "translation": "ралли",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레이더",
+    "translation": "радар",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루마",
+    "translation": "рума (өвчин)",
+    "hanja": "rheuma",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "로테이션",
+    "translation": "ротаци, эргэлт",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "로즈마리",
+    "translation": "розмарин",
+    "hanja": "로즈마리",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "로버",
+    "translation": "робот машин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "로열티",
+    "translation": "роялти",
+    "hanja": "royalty",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "리믹스",
+    "translation": "ремикс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "라운딩",
+    "translation": "раунд хийх",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "루피아",
+    "translation": "Рупиа",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "로즈메리",
+    "translation": "розмарин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "룰루",
+    "translation": "Рулу",
+    "hanja": "Lulu",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "루소",
+    "translation": "Руссо",
+    "hanja": "Rousseau",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "로밍",
+    "translation": "роуминг",
+    "hanja": "로밍",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "라볶이",
+    "translation": "рабукки (солонгосын хоол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "라구",
+    "translation": "рагу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "라훌라",
+    "translation": "Рахула (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "리노",
+    "translation": "Рино (нэр)",
+    "hanja": null,
+    "pos": "Proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "레이트레이싱",
+    "translation": "Рейтрейсинг (компьютерийн график)",
+    "hanja": "레이트레이싱",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "러비",
+    "translation": "рагби",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "리볼버",
+    "translation": "револьвер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고무보트",
+    "translation": "резин завь",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "랩퍼",
+    "translation": "рэппер",
+    "hanja": "NULL",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "롤러스케이트",
+    "translation": "роллер скэйт",
+    "hanja": "롤러스케이트",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "줄자",
+    "translation": "рулетк",
+    "hanja": "―尺",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "편집부",
+    "translation": "редакцийн хэлтэс",
+    "hanja": "編輯部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "배낭여행",
+    "translation": "рюкзактай аялал",
+    "hanja": "背囊旅行",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레노",
+    "translation": "Рено",
+    "hanja": "레노",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "반지름",
+    "translation": "Радиус",
+    "hanja": "半지름",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "낭만주의",
+    "translation": "Романтизм",
+    "hanja": "浪漫主義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "라우터",
+    "translation": "Раутер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "레퀴엠",
+    "translation": "рекьюм",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "리을",
+    "translation": "Риал (солонгос үсэг ㄹ)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "레게",
+    "translation": "рэгги хөгжим",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "마름모",
+    "translation": "ромб",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "램지",
+    "translation": "Рамзи (нэр)",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "리버브",
+    "translation": "ревербератор",
+    "hanja": "Reverb",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "리야드",
+    "translation": "Рияд",
+    "hanja": "리야드",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "리츠",
+    "translation": "Ритц (зочид буудал)",
+    "hanja": "리츠",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "래프팅",
+    "translation": "Рафтинг",
+    "hanja": "래프팅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "록펠러",
+    "translation": "Рокфеллер",
+    "hanja": "록펠러",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "캐모마일",
+    "translation": "Ромын башир цэцэг",
+    "hanja": "Chamomile",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "리코타",
+    "translation": "рикотта бяслаг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "렘브란트",
+    "translation": "Рембрандт",
+    "hanja": "Rembrandt",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "라반",
+    "translation": "рабан",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "레이먼드",
+    "translation": "Рэймонд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "랜섬웨어",
+    "translation": "рансомвэйр (хортой програм)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "로티",
+    "translation": "роти (талхны нэг төрөл)",
+    "hanja": "roti",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "링깃",
+    "translation": "ринггит (Малайзын мөнгөн тэмдэгт)",
+    "hanja": "ringgit",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "랍비",
+    "translation": "рабби",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "랩소디",
+    "translation": "рапсоди",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로시난테",
+    "translation": "Росинанте",
+    "hanja": null,
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "라디에이터",
+    "translation": "радиатор",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레토르트",
+    "translation": "реторт, богино хугацаанд боловсруулсан (хоол)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "리젠트",
+    "translation": "регент",
+    "hanja": "regent",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로댕",
+    "translation": "Роден (урлаг судлаач)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "르포",
+    "translation": "Рупо (сэтгүүлзүйн төрөл)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "사실주의",
+    "translation": "Реализм",
+    "hanja": "寫實主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고무신",
+    "translation": "резин шаахай",
+    "hanja": "고무신",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "루오",
+    "translation": "Руо (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로케",
+    "translation": "Рокэ (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "르누아르",
+    "translation": "Ренуар",
+    "hanja": "Renoir",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "록키",
+    "translation": "Рокки",
+    "hanja": "Rocky",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "복고풍",
+    "translation": "ретро загвар",
+    "hanja": "復古風",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "라모",
+    "translation": "рамо (нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "렌더",
+    "translation": "рендеринг",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "라베",
+    "translation": "Рабе (хүн нэр)",
+    "hanja": "Rabe",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "류진",
+    "translation": "Риүжин",
+    "hanja": "柳진",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "로마노",
+    "translation": "Романо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "리비에라",
+    "translation": "Ривьера",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "무청",
+    "translation": "Редис навч",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "레몽",
+    "translation": "Ремон (нэр)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "라마단",
+    "translation": "Рамадан",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "레딩",
+    "translation": "реддинг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "리히터",
+    "translation": "рихтер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레이놀즈",
+    "translation": "рэйнолдс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루벤스",
+    "translation": "Рубенс",
+    "hanja": "Q",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "유채",
+    "translation": "рапс, усан будаг",
+    "hanja": "油菜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "릭스",
+    "translation": "рикс (хэмжигдэхүүн)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "람필",
+    "translation": "рампил (хувийн нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "라헬",
+    "translation": "Рахел",
+    "hanja": "라헬",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "라비올리",
+    "translation": "равиоли (гоймонгийн төрөл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "라페",
+    "translation": "рэппэ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고무나무",
+    "translation": "резин мод",
+    "hanja": "고무나무",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "랭",
+    "translation": "ранг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "룸바",
+    "translation": "румба (бүжиг)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "로제타",
+    "translation": "Розетта",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "로시",
+    "translation": "Росси (хүний нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "루드라",
+    "translation": "Рудра (Энэтхэгийн бурхан)",
+    "hanja": "null",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "리얼리즘",
+    "translation": "реализм",
+    "hanja": "реализм",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고무찰흙",
+    "translation": "резин шавар",
+    "hanja": "고무찰흙",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "로스코",
+    "translation": "Ротко (зураач)",
+    "hanja": "로스코",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "묵주",
+    "translation": "Розари",
+    "hanja": "묵珠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로니",
+    "translation": "Ронни",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "로한",
+    "translation": "Рохан (хүний нэр)",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "란포",
+    "translation": "ранпо",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "론다",
+    "translation": "рондо",
+    "hanja": "null",
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "로쿠부",
+    "translation": "рокубу",
+    "hanja": "六部",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "로터",
+    "translation": "ротор",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "라흐마니노프",
+    "translation": "Рахманинов",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "래드",
+    "translation": "рад (цацрагийн нэгж)",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "카놀라유",
+    "translation": "рапсын тос",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "로소",
+    "translation": "росо",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "로테르담",
+    "translation": "Роттердам",
+    "hanja": "Rotterdam",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "루앙",
+    "translation": "Руан",
+    "hanja": "Rouen",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "롤랑",
+    "translation": "Роланд",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "로보캅",
+    "translation": "Робокоп",
+    "hanja": "로보캅",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "로드스터",
+    "translation": "родстер (спорт машин)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "편집기",
+    "translation": "редактор",
+    "hanja": "編輯器",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "라프",
+    "translation": "Раф (нэр)",
+    "hanja": "Laf",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루갈",
+    "translation": "Ругаль",
+    "hanja": "루갈",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공진",
+    "translation": "Резонанс",
+    "hanja": "共振",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "래드클리프",
+    "translation": "Радклифф",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "로힝야족",
+    "translation": "Рохинжачууд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레알",
+    "translation": "реал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "리머",
+    "translation": "риммер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "리치먼드",
+    "translation": "Ричмонд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고무공",
+    "translation": "Резин бөмбөг",
+    "hanja": "고무공",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "로트와일러",
+    "translation": "ротвейлер",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "리카도",
+    "translation": "Рикардо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로스트비프",
+    "translation": "ростбиф",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "레일리",
+    "translation": "Рэйли",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "리액터",
+    "translation": "реактор",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "리베라",
+    "translation": "Ривера (нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "로코코",
+    "translation": "Рококо",
+    "hanja": "rococo",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "라이저",
+    "translation": "райзер",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "랍",
+    "translation": "раб",
+    "hanja": "랍",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고무줄놀이",
+    "translation": "резинэн олсоор тоглох",
+    "hanja": "고무줄놀이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "논설실장",
+    "translation": "редакцийн дарга",
+    "hanja": "論說室長",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루블",
+    "translation": "рубль",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "최자",
+    "translation": "рэппер Чойза",
+    "hanja": "崔子",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "래칫",
+    "translation": "Ратчет",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "대황",
+    "translation": "ревень",
+    "hanja": "大黃",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "라시드",
+    "translation": "Рашид",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로물루스",
+    "translation": "Ромул (Ромын үүсгэн байгуулагч)",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "라듐",
+    "translation": "радиум",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "로자",
+    "translation": "Роза (хүний нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "랜더",
+    "translation": "Рандерс (Данийн хот)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "리유니언",
+    "translation": "реюнион",
+    "hanja": "리유니언",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭만파",
+    "translation": "романтик үзэлтэн",
+    "hanja": "浪漫派",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고무풍선",
+    "translation": "резин бөмбөлөг",
+    "hanja": "고무風船",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "리마스터링",
+    "translation": "ремастер хийх",
+    "hanja": "None",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "합리주의",
+    "translation": "рационализм, учир зүйн үзэл",
+    "hanja": "合理主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로메인",
+    "translation": "ромайн",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "러더퍼드",
+    "translation": "Резерфорд",
+    "hanja": null,
+    "pos": "proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "광천수",
+    "translation": "рашаан ус",
+    "hanja": "鑛泉水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고무호스",
+    "translation": "резин хоолой",
+    "hanja": "고무hose",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "로망스",
+    "translation": "романс",
+    "hanja": "로망스",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "루바브",
+    "translation": "Ревень",
+    "hanja": "루바브",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "윤전기",
+    "translation": "Резин хэвлэлийн машин",
+    "hanja": "輪轉機",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "릴케",
+    "translation": "Рильке",
+    "hanja": "Rilke",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "리보솜",
+    "translation": "рибосом",
+    "hanja": "ribosome",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "루안",
+    "translation": "Руан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "라플레시아",
+    "translation": "Раффлесиа (ургамал)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "리처드슨",
+    "translation": "Ричардсон (хүний нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "리포",
+    "translation": "рипо (сэтгүүл зүй)",
+    "hanja": "리포",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "로카",
+    "translation": "Рока",
+    "hanja": null,
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "롤로",
+    "translation": "роллер",
+    "hanja": "롤로",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "러스크",
+    "translation": "Раск (хэлбэрээр нь жигнэсэн талх)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "롤스",
+    "translation": "роллс",
+    "hanja": "롤스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "진혼곡",
+    "translation": "реквием",
+    "hanja": "鎭魂曲",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "로사리오",
+    "translation": "Розари",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "리조",
+    "translation": "Рижо (Нэр)",
+    "hanja": "李朝",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "나찰",
+    "translation": "Рашаса (буддизм)",
+    "hanja": "羅刹",
+    "pos": "NOUN",
+    "cefr": "C2"
+  },
+  {
+    "word": "랑케",
+    "translation": "Ранке",
+    "hanja": "랑케",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레토릭",
+    "translation": "риторик, уран илтгэл",
+    "hanja": "레토릭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로맨티시스트",
+    "translation": "романтик үзэлтэн",
+    "hanja": "로맨티시스트",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "뢴트겐",
+    "translation": "Рентген",
+    "hanja": "뢴트겐",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "라쿠",
+    "translation": "Раку (Япон керамик)",
+    "hanja": "Raku",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "라탄",
+    "translation": "ротан",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "릭샤",
+    "translation": "рикша",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "현실주의",
+    "translation": "реализм",
+    "hanja": "現實主義",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "루베",
+    "translation": "рубли",
+    "hanja": "루베",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "루바토",
+    "translation": "Рубато (хөгжмийн нэр томъёо)",
+    "hanja": "rubato",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루빈",
+    "translation": "Рубин",
+    "hanja": "루빈",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "라포",
+    "translation": "раппорт",
+    "hanja": "null",
+    "pos": "нэр үг",
+    "cefr": "C1"
+  },
+  {
+    "word": "광천",
+    "translation": "рашаан",
+    "hanja": "鑛泉",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "라쇼몽",
+    "translation": "Рашомон (киноны нэр)",
+    "hanja": "羅生門",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "로디지아",
+    "translation": "Родези",
+    "hanja": "Rhodesia",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로버트슨",
+    "translation": "Робертсон",
+    "hanja": "로버트슨",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "류구",
+    "translation": "Рюкю (газар зүйн нэр)",
+    "hanja": "琉球",
+    "pos": "고유명са",
+    "cefr": "B2"
+  },
+  {
+    "word": "라흐만",
+    "translation": "Рахман",
+    "hanja": "라흐만",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "롤프",
+    "translation": "Рольф (хүний нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "롤오프",
+    "translation": "ролл-офф",
+    "hanja": "roll-off",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "류마티스",
+    "translation": "ревматизм",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고무판",
+    "translation": "резинэн хавтан",
+    "hanja": "고무板",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고무마개",
+    "translation": "резин бөглөө",
+    "hanja": "고무마개",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "락까",
+    "translation": "Ракка (газарзүйн нэр)",
+    "hanja": null,
+    "pos": "Proper Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "란마",
+    "translation": "Ранма",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "역도산",
+    "translation": "Рикидозан",
+    "hanja": "力道山",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "리지",
+    "translation": "Ридж (хүний нэр)",
+    "hanja": "N/A",
+    "pos": "Proper Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "리엘",
+    "translation": "Риэль (нэр)",
+    "hanja": "N/A",
+    "pos": "Proper Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "로메오",
+    "translation": "Ромео",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "로스토크",
+    "translation": "Росток",
+    "hanja": "로스토크",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "나그랑",
+    "translation": "раглан (ханцуй)",
+    "hanja": "나그랑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "편저",
+    "translation": "редакторласан, эмхэтгэсэн",
+    "hanja": "編著",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "라파엘로",
+    "translation": "Рафаэль (зураач)",
+    "hanja": "Raphael",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "논설",
+    "translation": "редакцийн нийтлэл",
+    "hanja": "論說",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "랭보",
+    "translation": "Рембо",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "레이캬비크",
+    "translation": "Рейкьявик",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "롤런드",
+    "translation": "Роланд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "레이다",
+    "translation": "радар",
+    "hanja": "레이다",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "압운",
+    "translation": "рифм",
+    "hanja": "押韻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "라스콜니코프",
+    "translation": "Раскольников (Достоевскийн зохиолын баатар)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "라바트",
+    "translation": "Рабат",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "라토",
+    "translation": "Рато (Сингапурын үндэсний ундаа)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "라가",
+    "translation": "Рага (Энэтхэгийн сонгодог хөгжмийн төрөл)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루빅큐브",
+    "translation": "Рубикийн шоо",
+    "hanja": "루빅큐브",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "연의",
+    "translation": "романы",
+    "hanja": "演義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "나생문",
+    "translation": "Рашомон (нэртэй хаалга)",
+    "hanja": "羅生門",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "랭스",
+    "translation": "Реймс (хот)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "래플스",
+    "translation": "Раффлес",
+    "hanja": "래플스",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "류크",
+    "translation": "рюк (үхлийн тэмдэглэл киноны дүр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "롤링스",
+    "translation": "роллингс (брэнд)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "라자그리하",
+    "translation": "Ражагриха",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "엑스선",
+    "translation": "рентген туяа",
+    "hanja": "X線",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "라니티딘",
+    "translation": "ранитидин",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "리만",
+    "translation": "Рийман",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루도",
+    "translation": "рудо",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "제닉스",
+    "translation": "Реникс",
+    "hanja": "null",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "로맹",
+    "translation": "Ромэн (хүний нэр)",
+    "hanja": "Romain",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고무관",
+    "translation": "резин хоолой, резин гуурс",
+    "hanja": "고무管",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "류수영",
+    "translation": "Рюү Сүү-ён (Солонгосын жүжигчин)",
+    "hanja": "柳秀榮",
+    "pos": "Proper noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "레루",
+    "translation": "Рэлү (төсөөлөлт нэр)",
+    "hanja": "레루",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "리아드",
+    "translation": "Рияд",
+    "hanja": "Riyadh",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "리탈린",
+    "translation": "Риталин",
+    "hanja": "Ritalin",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "라스푸틴",
+    "translation": "Распутин",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "로스차일드",
+    "translation": "Ротшильд",
+    "hanja": "로스차일드",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "래스터",
+    "translation": "растэр",
+    "hanja": "래스터",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로마네스크",
+    "translation": "романс хэв маяг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "리처즈",
+    "translation": "Ричардс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "로모",
+    "translation": "Ромо",
+    "hanja": "로모",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "루비콘강",
+    "translation": "Рубикон гол",
+    "hanja": "루비콘江",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "합리화되다",
+    "translation": "Рационал болгох",
+    "hanja": "合理化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "로킹",
+    "translation": "рокийн хөгжим",
+    "hanja": "로킹",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "소설화하다",
+    "translation": "роман болгох",
+    "hanja": "小說化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "룽",
+    "translation": "рунг (хөгжмийн нэр томъёо)",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "래글런",
+    "translation": "Раглан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "라타",
+    "translation": "ратуша",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "로제트",
+    "translation": "розетт",
+    "hanja": "로제트",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "라단",
+    "translation": "Радан (нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "롯드",
+    "translation": "род",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "유리수",
+    "translation": "рационал тоо",
+    "hanja": "有理數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "라아",
+    "translation": "Раа (хүний нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "리골레토",
+    "translation": "Риголетто (дуурь)",
+    "hanja": "Rigoletto",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "리자이나",
+    "translation": "Регина",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "로도스섬",
+    "translation": "Родос арал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "류코",
+    "translation": "Рюуко (хүний нэр)",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "리예트",
+    "translation": "рилит",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "레이몬트",
+    "translation": "Рэймонд",
+    "hanja": "레이몬트",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "방열기",
+    "translation": "радиатор",
+    "hanja": "放熱器",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "리겔",
+    "translation": "Ригел (одны нэр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "라주",
+    "translation": "Ражу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "라데츠키",
+    "translation": "Радетски",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": null
+  },
+  {
+    "word": "리포밍",
+    "translation": "реформ хийх, өөрчлөх",
+    "hanja": "reforming",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "라마누잔",
+    "translation": "Раманужан (нэр)",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "리아스식",
+    "translation": "риас маягийн",
+    "hanja": "리아스式",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "람부탄",
+    "translation": "Рамбутан",
+    "hanja": "람부탄",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "노벨라이즈",
+    "translation": "Роман болгох, романы хэлбэрт оруулах",
+    "hanja": "노벨라이즈",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "로만세",
+    "translation": "Романс (үлгэр)",
+    "hanja": "로만세",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "라포르",
+    "translation": "Раппорт (харилцаа)",
+    "hanja": "라포르",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "환원주의",
+    "translation": "редукционизм",
+    "hanja": "還元主義",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "레지",
+    "translation": "Регистр",
+    "hanja": "레지",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "라스무센",
+    "translation": "Раasmussen",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "낭만적이다",
+    "translation": "романтик байх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "낭만적이다라고",
+    "translation": "романтик гэж",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  }
+]

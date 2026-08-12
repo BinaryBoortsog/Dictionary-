@@ -1,0 +1,1157 @@
+[
+  {
+    "word": "차",
+    "translation": "тэрэг",
+    "hanja": "車",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "차가다",
+    "translation": "хүйтэн байх, хүйтэн хөндий харьцах",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차감",
+    "translation": "хасах",
+    "hanja": "差減",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차감되다",
+    "translation": "хасагдах",
+    "hanja": "差減되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "차감하다",
+    "translation": "хасах",
+    "hanja": "差減하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차갑다",
+    "translation": "хүйтэн",
+    "hanja": "冷-",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차거",
+    "translation": "тэрэг, машин",
+    "hanja": "車거",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "차겁다",
+    "translation": "хүйтэн",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차경",
+    "translation": "Зээлсэн үзэмж",
+    "hanja": "借景",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차고",
+    "translation": "автобусны зогсоол, гараж",
+    "hanja": "車庫",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차곡",
+    "translation": "Эмх цэгцтэйгээр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차곡차곡",
+    "translation": "эмх цэгцтэй",
+    "hanja": "次谷次谷",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "차곡히",
+    "translation": "эмх цэгцтэйгээр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차골",
+    "translation": "дараагийн яс",
+    "hanja": "次骨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "차관",
+    "translation": "дэд сайд, зээл",
+    "hanja": "次官",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차광",
+    "translation": "нарны гэрлийг хаах",
+    "hanja": "遮光",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "차근차근",
+    "translation": "Аажим аажмаар, дарааллаар",
+    "hanja": "차근차근",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차근차근하다",
+    "translation": "Аажмаар, дарааллаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차근차근히",
+    "translation": "тайван, алхам алхмаар",
+    "hanja": "次根次根히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차근히",
+    "translation": "сүрхий, няхуур, анхааралтай",
+    "hanja": null,
+    "pos": "д.ү.",
+    "cefr": "B1"
+  },
+  {
+    "word": "차꼬",
+    "translation": "хүлээс, гав",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차남",
+    "translation": "хоёрдугаар хүү",
+    "hanja": "次男",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차내",
+    "translation": "машин дотор",
+    "hanja": "車內",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "차녀",
+    "translation": "хоёрдугаар охин",
+    "hanja": "次女",
+    "pos": "명",
+    "cefr": "C1"
+  },
+  {
+    "word": "차다",
+    "translation": "Гүйцээх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "차단",
+    "translation": "хаах",
+    "hanja": "遮斷",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "차단기",
+    "translation": "Таслуур",
+    "hanja": "遮斷器",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차단되다",
+    "translation": "хаагдах",
+    "hanja": "遮斷되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차단하다",
+    "translation": "хаах",
+    "hanja": "遮斷하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "차도",
+    "translation": "зам",
+    "hanja": "車道",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "차도르",
+    "translation": "чадар",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차도하다",
+    "translation": "унахаа түр зогсоох",
+    "hanja": "次到-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차돌",
+    "translation": "Цахиур чулуу",
+    "hanja": "차돌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차돌박이",
+    "translation": "Бүрэн хөх мах (үхрийн махны хэсэг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차드",
+    "translation": "Чад",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "차등",
+    "translation": "ялгаа",
+    "hanja": "差等",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차등하다",
+    "translation": "Ялгавартай байх, зөрүүтэй байх",
+    "hanja": "差等하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차등화하다",
+    "translation": "ялгаварлах, дифференциалчлах",
+    "hanja": "差別化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차디차다",
+    "translation": "маш хүйтэн",
+    "hanja": "차디차다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차라리",
+    "translation": "харин ч, үүнээс дээр",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차량",
+    "translation": "тээврийн хэрэгсэл",
+    "hanja": "車輛",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "차레",
+    "translation": "өөрийгөө шалгах",
+    "hanja": "次例",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "차려입다",
+    "translation": "гоёж өмсөх",
+    "hanja": "차려입다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "차력",
+    "translation": "хүч чадал, уян хатан чадвар",
+    "hanja": "借力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차렷",
+    "translation": "Босоо!",
+    "hanja": null,
+    "pos": "Interjection",
+    "cefr": "A1"
+  },
+  {
+    "word": "차렷하다",
+    "translation": "анхаар! (цэргийн тушаал)",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차령",
+    "translation": "Машины нас",
+    "hanja": "車齡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차례",
+    "translation": "дараалал",
+    "hanja": "次例",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "차례차례",
+    "translation": "Ээлж дараалан",
+    "hanja": "次例次例",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차로",
+    "translation": "машины зам",
+    "hanja": "車路",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차르",
+    "translation": "цар",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "차르르",
+    "translation": "ширхэг ширхгээр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차르르하다",
+    "translation": "чихрарсан",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "차르륵",
+    "translation": "шар хийсэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차리",
+    "translation": "Чарли",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차리다",
+    "translation": "бэлдэх",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "차림",
+    "translation": "Хувцаслалт, дүр төрх",
+    "hanja": "차림",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "차림새",
+    "translation": "хувцаслалт",
+    "hanja": "차림새",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차림표",
+    "translation": "цэс",
+    "hanja": "차림表",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차마",
+    "translation": "зүрхэлж чадахгүй",
+    "hanja": "車馬",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차명",
+    "translation": "бусдын нэрээр",
+    "hanja": "借名",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차문",
+    "translation": "машины хаалга",
+    "hanja": "車門",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차바",
+    "translation": "Чоба (нэр)",
+    "hanja": "차바",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "차박",
+    "translation": "автомашинд хоноглох",
+    "hanja": "車泊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차베스",
+    "translation": "Чавес",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "차벽",
+    "translation": "Машин хана, хамгаалалтын хана",
+    "hanja": "車壁",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "차변",
+    "translation": "дебет",
+    "hanja": "借邊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차별",
+    "translation": "ялгаварлан гадуурхах",
+    "hanja": "差別",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "차별당하다",
+    "translation": "ялгаварлан гадуурхагдах",
+    "hanja": "差別當하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "차별되다",
+    "translation": "ялгаварлагдах",
+    "hanja": "差別되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차별하다",
+    "translation": "ялгаварлах",
+    "hanja": "差別─",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차별화",
+    "translation": "Ялгаварлан онцгойрох",
+    "hanja": "差別化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차별화되다",
+    "translation": "ялгарах, онцгойрох",
+    "hanja": "差別化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차별화하다",
+    "translation": "ялгах, онцгой болгох",
+    "hanja": "差別化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차분",
+    "translation": "тайван",
+    "hanja": "差分",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차분하다",
+    "translation": "тайван",
+    "hanja": "차분하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차분히",
+    "translation": "Тайвнаар, амгалан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차비",
+    "translation": "замын зардал",
+    "hanja": "車費",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차비하다",
+    "translation": "бэлтгэх",
+    "hanja": "車備하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차사",
+    "translation": "элч",
+    "hanja": "差使",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차석",
+    "translation": "хоёрдугаар байр, дэд дарга",
+    "hanja": "次席",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차선",
+    "translation": "зам, эгнээ",
+    "hanja": "車線",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차선책",
+    "translation": "Хоёрдогч сонголт",
+    "hanja": "次善策",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "차세대",
+    "translation": "дараагийн үе",
+    "hanja": "次世代",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차수",
+    "translation": "ээлж, дараалал; цэрэгт татах",
+    "hanja": "次數",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차슈",
+    "translation": "чашу (гахайн махны хоол)",
+    "hanja": "차슈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차시",
+    "translation": "дараагийн удаа",
+    "hanja": "次時",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차식",
+    "translation": "хүүхдийн хоол",
+    "hanja": "差食",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "차씨",
+    "translation": "Цайны үр",
+    "hanja": "茶氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차악",
+    "translation": "Муугийн бага",
+    "hanja": "次惡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차안",
+    "translation": "автобусны дотор",
+    "hanja": "車內",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차압",
+    "translation": "хураан авах",
+    "hanja": "差押",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "차애",
+    "translation": "Хоёр дахь хайр",
+    "hanja": "次愛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차액",
+    "translation": "зөрүү, үлдэгдэл",
+    "hanja": "差額",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차야",
+    "translation": "үгүй бол",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차양",
+    "translation": "Сүүдрэвч",
+    "hanja": "遮陽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차에다",
+    "translation": "машинд",
+    "hanja": "車에다",
+    "pos": "х.т.",
+    "cefr": "A1"
+  },
+  {
+    "word": "차연",
+    "translation": "ялгавартай байдал",
+    "hanja": "差延",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "차오",
+    "translation": "Чао",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차오르다",
+    "translation": "Дүүрэх",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "차오양",
+    "translation": "Чаоян (хотын дүүрэг)",
+    "hanja": "朝陽",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차올리다",
+    "translation": "Дээш өргөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차완무시",
+    "translation": "чаванмуши (япон хоол)",
+    "hanja": "茶碗蒸し",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차용",
+    "translation": "Зээл авах, зээлдэх",
+    "hanja": "借用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차용되다",
+    "translation": "зээлдэгдэх",
+    "hanja": "借用되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차용증",
+    "translation": "Зээлийн баримт",
+    "hanja": "借用證",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차용하다",
+    "translation": "зээлэх, ашиглах",
+    "hanja": "借用하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "차우",
+    "translation": "Чау",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차우셰스쿠",
+    "translation": "Чаушеску",
+    "hanja": "차우셰스쿠",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차우차우",
+    "translation": "чау-чау",
+    "hanja": "차우차우",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차원",
+    "translation": "хэмжээ",
+    "hanja": "次元",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "차이",
+    "translation": "ялгаа",
+    "hanja": "差異",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "차이나타운",
+    "translation": "Хятад хороолол",
+    "hanja": "Chinatown",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차이완",
+    "translation": "Чайвань",
+    "hanja": "차이완",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차이점",
+    "translation": "Ялгаа",
+    "hanja": "差異點",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "차이콥스키",
+    "translation": "Чайковский (хөгжмийн зохиолч)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "차익",
+    "translation": "Ашгийн зөрүү",
+    "hanja": "差益",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차일",
+    "translation": "сүүдрэвч, халхавч",
+    "hanja": "遮日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차일드",
+    "translation": "хүүхэд",
+    "hanja": "No Hanja",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "차일피일",
+    "translation": "хойшлуулах",
+    "hanja": "此日彼日",
+    "pos": "adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "차입",
+    "translation": "зээлдэх, зээл авах",
+    "hanja": "借入",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차입금",
+    "translation": "зээлсэн мөнгө",
+    "hanja": "借入金",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차입하다",
+    "translation": "зээлдэх",
+    "hanja": "借入하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차장",
+    "translation": "орлогч дарга",
+    "hanja": "次長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차적",
+    "translation": "машины дугаар",
+    "hanja": "車籍",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "차전",
+    "translation": "дараагийн үе, дараагийн тоглолт",
+    "hanja": "次戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차전놀이",
+    "translation": "морьт тоглоом",
+    "hanja": "車戰놀이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차점자",
+    "translation": "дараагийн оноо авсан хүн",
+    "hanja": "次點者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차제",
+    "translation": "Энэ удаа",
+    "hanja": "此際",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "차종",
+    "translation": "Машины төрөл",
+    "hanja": "車種",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "차주",
+    "translation": "ирэх долоо хоног",
+    "hanja": "次週",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "차지",
+    "translation": "эзлэх",
+    "hanja": "次地",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "차지키",
+    "translation": "Цацики (хоол)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "차지하다",
+    "translation": "эзлэх",
+    "hanja": " 차지하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차질",
+    "translation": "саад",
+    "hanja": "蹉跌",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "차집",
+    "translation": "цайны газар",
+    "hanja": "茶集",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차징",
+    "translation": "цэнэглэх",
+    "hanja": "차징",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차차",
+    "translation": "аажмаар",
+    "hanja": "次次",
+    "pos": "ADV",
+    "cefr": "B1"
+  },
+  {
+    "word": "차차차",
+    "translation": "чачача (бүжиг)",
+    "hanja": "N/A",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "차차차차",
+    "translation": "чачачача (бүжиг)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차창",
+    "translation": "машины цонх",
+    "hanja": "車窓",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차체",
+    "translation": "Машины их бие",
+    "hanja": "車體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차축",
+    "translation": "Машины тэнхлэг",
+    "hanja": "車軸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차출",
+    "translation": "сонгох",
+    "hanja": "差出",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "차출되다",
+    "translation": "татан оролцуулах, сонгогдох",
+    "hanja": "差出되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차출하다",
+    "translation": "сонгож авах",
+    "hanja": "差出하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차츰",
+    "translation": "Аажим аажмаар",
+    "hanja": "차츰",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차츰차츰",
+    "translation": "аажмаар",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차치하다",
+    "translation": "Хэрэгсэхгүй орхих",
+    "hanja": "且置하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차코",
+    "translation": "жако (шувуу)",
+    "hanja": "chaco",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차크라",
+    "translation": "чакра",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차타",
+    "translation": "Чата (нэр)",
+    "hanja": "차타",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차탄",
+    "translation": "차탄",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "차터",
+    "translation": "Захиалгат нислэг, хөлөг онгоц",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "차트",
+    "translation": "график",
+    "hanja": "chart",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차팅",
+    "translation": "Графикжуулалт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차파티",
+    "translation": "чапати",
+    "hanja": "Chapati",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차페크",
+    "translation": "Чапек",
+    "hanja": "차페크",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "차편",
+    "translation": "машины тал",
+    "hanja": "車便",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차폐",
+    "translation": "халхавч, хамгаалалт",
+    "hanja": "遮蔽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차표",
+    "translation": "Замын тасалбар",
+    "hanja": "車票",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "차피",
+    "translation": "энэ ч тэр ч",
+    "hanja": "此彼",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "차환",
+    "translation": "бонд арилжих, шинээр зээл авах",
+    "hanja": "借換",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "차회",
+    "translation": "дараагийн удаа",
+    "hanja": "次回",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "차후",
+    "translation": "дараа нь",
+    "hanja": "次後",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

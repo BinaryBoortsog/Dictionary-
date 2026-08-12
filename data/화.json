@@ -1,0 +1,1311 @@
+[
+  {
+    "word": "화",
+    "translation": "уур",
+    "hanja": "火",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화가",
+    "translation": "зураач",
+    "hanja": "畫家(화가)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "화각",
+    "translation": "зургийн өнцөг",
+    "hanja": "畫角",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "화강석",
+    "translation": "гранит",
+    "hanja": "花崗石",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화강암",
+    "translation": "гранит",
+    "hanja": "花崗岩",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "화개",
+    "translation": "цэцэглэлт",
+    "hanja": "花開",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화계",
+    "translation": "цэцгийн тавцан",
+    "hanja": "花階",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "화곡",
+    "translation": "Хвагок",
+    "hanja": "禾谷",
+    "pos": "Noun",
+    "cefr": "N/A"
+  },
+  {
+    "word": "화공",
+    "translation": "химийн инженерчлэл",
+    "hanja": " hwagong",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "화관",
+    "translation": "цэцгийн титэм",
+    "hanja": "花冠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화교",
+    "translation": "хятад иргэд",
+    "hanja": "華僑",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화구",
+    "translation": "гал тогоо",
+    "hanja": "火口",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화구통",
+    "translation": "будгийн хэрэгслийн хайрцаг",
+    "hanja": "畫具筒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화근",
+    "translation": "Гай зовлонгийн шалтгаан, үүсвэр",
+    "hanja": "禍根",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화급",
+    "translation": "яаралтай",
+    "hanja": "火急",
+    "pos": "n",
+    "cefr": "C2"
+  },
+  {
+    "word": "화급하다",
+    "translation": "яаралтай",
+    "hanja": "火急─",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화기애애하다",
+    "translation": "эгэл даруу, найрсаг",
+    "hanja": "和氣靄靄하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "화끈",
+    "translation": "халуун, галзуу",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화끈거리다",
+    "translation": "халуурах",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "화끈하다",
+    "translation": "халуу оргих",
+    "hanja": "화끈하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화끈화끈",
+    "translation": "Халуу оргих мэт",
+    "hanja": "火끈火끈",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화끈화끈하다",
+    "translation": "халуу дүүгэх",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화나다",
+    "translation": "уурлах",
+    "hanja": "火나다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "화내다",
+    "translation": "уурлах",
+    "hanja": "火내다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "화다",
+    "translation": "Хурдан, түргэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화단",
+    "translation": "Цэцгийн талбай",
+    "hanja": "花壇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화답",
+    "translation": "хариулах",
+    "hanja": "和答",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화답하다",
+    "translation": "Хариу өгөх",
+    "hanja": "和答하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "화덕",
+    "translation": "Зуух",
+    "hanja": "火德",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "화동",
+    "translation": "цэцэг барьсан хүүхэд",
+    "hanja": "花童",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "화두",
+    "translation": "сэдэв",
+    "hanja": "話頭",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "화들짝",
+    "translation": "айж цочих, гэнэт",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화딱지",
+    "translation": "уур, бухимдал",
+    "hanja": "火딱지",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화락",
+    "translation": "хүлээн зөвшөөрөх, хүлээж авах",
+    "hanja": "和樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화란",
+    "translation": "Нидерланд",
+    "hanja": "和蘭",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화랑",
+    "translation": "урлагийн галерей",
+    "hanja": "畫廊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화려",
+    "translation": "гоёмсог, тансаг",
+    "hanja": "華麗",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화려하다",
+    "translation": "сүрлэг",
+    "hanja": "華麗─",
+    "pos": "Adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "화력",
+    "translation": "галын хүч",
+    "hanja": "火力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화령",
+    "translation": "мэргэн ухаан, оюун санаа",
+    "hanja": "火靈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화롄",
+    "translation": "Хуалиен",
+    "hanja": "花蓮",
+    "pos": "고유명사",
+    "cefr": "null"
+  },
+  {
+    "word": "화로",
+    "translation": "Галын зуух",
+    "hanja": "火爐",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "화롯가",
+    "translation": "гал тогооны хажууд",
+    "hanja": "火爐가",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화롯불",
+    "translation": "зуухны гал",
+    "hanja": "火爐불",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "화룡",
+    "translation": "луу зурж нүдийг нь зурах",
+    "hanja": "畫龍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화룡점정",
+    "translation": "эцсийн тоосго",
+    "hanja": "畫龍點睛",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화류계",
+    "translation": "цэцэглэсэн үе",
+    "hanja": "花柳界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화르르",
+    "translation": "дөл авалцах",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화르륵",
+    "translation": "шар хийх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화면",
+    "translation": "дэлгэц",
+    "hanja": "画面",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "화목",
+    "translation": "таарц, мод",
+    "hanja": "和睦",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화목하다",
+    "translation": "эв эетэй",
+    "hanja": "和睦하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화무십일홍",
+    "translation": "цэцэг арван өдөр улаан байдаггүй (сайхан зүйл удаан үргэлжлэхгүй)",
+    "hanja": "花無十日紅",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화문석",
+    "translation": "цэцэгтэй хивс",
+    "hanja": "花紋席",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "화물",
+    "translation": "ачаа",
+    "hanja": "貨物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화물선",
+    "translation": "ачааны хөлөг онгоц",
+    "hanja": "貨物船",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "화물차",
+    "translation": "ачааны машин",
+    "hanja": "貨物車",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화물칸",
+    "translation": "ачааны тасалгаа",
+    "hanja": "貨物칸",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "화방",
+    "translation": "урлагийн дэлгүүр",
+    "hanja": "畫房",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화백",
+    "translation": "зураач",
+    "hanja": "畫伯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화법",
+    "translation": "ярианы арга, хэл аялга",
+    "hanja": "話法",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화보",
+    "translation": "фото зурагт үзүүлэн",
+    "hanja": "畫報",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화봉",
+    "translation": "цэцэгний оргил",
+    "hanja": "花峰",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화부",
+    "translation": "Гал түлээч",
+    "hanja": "火夫",
+    "pos": "명са",
+    "cefr": "C1"
+  },
+  {
+    "word": "화북",
+    "translation": "Хятадын хойд хэсэг",
+    "hanja": "華北",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화분",
+    "translation": "цэцгийн тавиур",
+    "hanja": "花盆",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "화사",
+    "translation": "тод",
+    "hanja": "華奢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화사하다",
+    "translation": "тод, гэрэлтсэн",
+    "hanja": "華奢하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화산",
+    "translation": "Галт уул",
+    "hanja": "火山",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "화살",
+    "translation": "сум",
+    "hanja": "화살",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화살표",
+    "translation": "Сумны тэмдэг",
+    "hanja": "화살표",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "화상",
+    "translation": "түлэгдэлт",
+    "hanja": "火傷",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화색",
+    "translation": "баяр баясгалантай царай",
+    "hanja": "和色",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화생방",
+    "translation": "Хими, биологи, цацраг идэвхт бодис",
+    "hanja": "化生放",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화석",
+    "translation": "чулуужсан үлдэгдэл",
+    "hanja": "化石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화석화",
+    "translation": "чулуужих",
+    "hanja": "化石化",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "화석화되다",
+    "translation": "чулуужих",
+    "hanja": "化石化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화선",
+    "translation": "зургийн цаас",
+    "hanja": "畫宣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화선지",
+    "translation": "зургийн цаас (уран зургийн)",
+    "hanja": "畫仙紙",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "화성",
+    "translation": "Ангараг гариг",
+    "hanja": "火星",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "화세",
+    "translation": "гал",
+    "hanja": "火勢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화소",
+    "translation": "пиксел",
+    "hanja": "畫素",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화쇄류",
+    "translation": "Галт уулын нуранги",
+    "hanja": "火碎流",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화수분",
+    "translation": "үл дуусах сав",
+    "hanja": "華水盆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화순",
+    "translation": "Хвасун (газар нэр)",
+    "hanja": "和順",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화술",
+    "translation": "ярианы ур чадвар",
+    "hanja": "話術",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화승",
+    "translation": "гал шийдэм",
+    "hanja": "火繩",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화식",
+    "translation": "галаар хоол хийх, халуун хоол",
+    "hanja": "火食",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화신",
+    "translation": "хувилгаан",
+    "hanja": "化身",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화실",
+    "translation": "зургийн студи, уран зургийн өрөө",
+    "hanja": "畫室",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화씨",
+    "translation": "Фаренгейт",
+    "hanja": "華氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화아",
+    "translation": "цэцгийн нахиа",
+    "hanja": "花芽",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화악",
+    "translation": "таагүй байдал",
+    "hanja": "化惡",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화약",
+    "translation": "дари",
+    "hanja": "火藥",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "화약고",
+    "translation": "дарины агуулах, тэсрэх бөмбөгийн агуулах",
+    "hanja": "火藥庫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화양",
+    "translation": "цэцэгний хэв маяг",
+    "hanja": "花樣",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "화연",
+    "translation": "Утаа",
+    "hanja": "火煙",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "화염",
+    "translation": "Дөл",
+    "hanja": "火焰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화염병",
+    "translation": "Шатаах шингэнтэй шил (Молотов коктейль)",
+    "hanja": "火焰甁",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화영",
+    "translation": "цэргийн цэцэг",
+    "hanja": "花影",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "화완포",
+    "translation": "Хваванпо (газарзүйн нэр)",
+    "hanja": "花完浦",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화요일",
+    "translation": "мягмар гараг",
+    "hanja": "火曜日",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "화용",
+    "translation": "цэцгийн хэлбэр",
+    "hanja": "花容",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화운",
+    "translation": "Ачаа тээвэрлэх зардал",
+    "hanja": "貨運",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화원",
+    "translation": "цэцэрлэг",
+    "hanja": "花園",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화월",
+    "translation": "Хуримлах сар",
+    "hanja": "華月",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "화유",
+    "translation": "цэцэгний ус",
+    "hanja": "花油",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화음",
+    "translation": "аккорд",
+    "hanja": "和音",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화의",
+    "translation": "Эвлэрэх, найрамдах",
+    "hanja": "和議",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화이",
+    "translation": "гайхшрал",
+    "hanja": "懷疑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화이또",
+    "translation": "урам зориг өгөх үг",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A2"
+  },
+  {
+    "word": "화이버",
+    "translation": "ширхэг",
+    "hanja": "fiber",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화이부동",
+    "translation": "Эв найртай боловч нэгдэхгүй байх",
+    "hanja": "和而不同",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화이트",
+    "translation": "цагаан",
+    "hanja": "White",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "화이트보드",
+    "translation": "цагаан самбар",
+    "hanja": "화이트보드",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "화이트칼라",
+    "translation": "цагаан захтан",
+    "hanja": "white collar",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "화이트헤드",
+    "translation": "шингэн бөөрөнхий батга",
+    "hanja": "화이트헤드",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "화이트홀",
+    "translation": "Уайтхолл",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화이팅",
+    "translation": "Амжилт!",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "A1"
+  },
+  {
+    "word": "화인",
+    "translation": "хятад хүн",
+    "hanja": "華人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화일",
+    "translation": "файл",
+    "hanja": "파일",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "화자",
+    "translation": "яригч, өгүүлэгч",
+    "hanja": "話者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화장",
+    "translation": "Нүүр будалт",
+    "hanja": "化粧",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화장기",
+    "translation": "нүүр будалтын хэрэгсэл",
+    "hanja": "化粧氣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화장대",
+    "translation": "Гоо сайхны ширээ",
+    "hanja": "化粧臺",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화장되다",
+    "translation": "үрчийх, муухай болох (нүүр будалт хийгдэх)",
+    "hanja": "化粧되다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "화장발",
+    "translation": "будгийн хүч",
+    "hanja": "化粧발",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "화장실",
+    "translation": "ариун цэврийн өрөө",
+    "hanja": "化粧室",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "화장장",
+    "translation": "оршуулгын газар",
+    "hanja": "火葬場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화장지",
+    "translation": "ариун цэврийн цаас",
+    "hanja": "化粧紙",
+    "pos": "м",
+    "cefr": "A2"
+  },
+  {
+    "word": "화장터",
+    "translation": "Чандарлах газар",
+    "hanja": "火葬터",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화장품",
+    "translation": "гоо сайхны бүтээгдэхүүн",
+    "hanja": "化粧品",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "화장하다",
+    "translation": "Будаж засах / Оршуулах ёслол хийх",
+    "hanja": "화장하다 (化粧하다)",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "화재",
+    "translation": "гал түймэр",
+    "hanja": "火災",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "화적",
+    "translation": "хулгайч, дээрэмчин",
+    "hanja": "火賊",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화전",
+    "translation": "хэсэг газар, гал түлэх",
+    "hanja": "火田",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "화점",
+    "translation": "галын цэг",
+    "hanja": "火點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화정",
+    "translation": "цэргийн бэлтгэл",
+    "hanja": "和精",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화제",
+    "translation": "сэдэв, ярианы сэдэв",
+    "hanja": "話題",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화젯거리",
+    "translation": "ярианы сэдэв",
+    "hanja": "話題거리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화조",
+    "translation": "цэцэг шувуу",
+    "hanja": "花鳥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화주",
+    "translation": "дарга (компанийн)",
+    "hanja": "貨主",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화질",
+    "translation": "Зургийн чанар",
+    "hanja": "畫質",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화집",
+    "translation": "зургийн цомог, зургийн ном",
+    "hanja": "畫集",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "화차",
+    "translation": "ачааны машин",
+    "hanja": "貨車",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "화창",
+    "translation": "Цэлмэг, нартай",
+    "hanja": "和暢",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "화창하다",
+    "translation": "Нарлаг",
+    "hanja": "和暢하다",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "화채",
+    "translation": "жимсний коктейль",
+    "hanja": "花菜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화천",
+    "translation": "Хвачон",
+    "hanja": "華川",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "화첩",
+    "translation": "зургийн цомог",
+    "hanja": "畫帖",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "화초",
+    "translation": "Цэцэг, ургамал",
+    "hanja": "花草",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "화촉",
+    "translation": "хуримын лаа",
+    "hanja": "華燭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화친",
+    "translation": "найрсаг харилцаа",
+    "hanja": "和親",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화친하다",
+    "translation": "найрамдах",
+    "hanja": "和親하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화타",
+    "translation": "Хуа То (Хятадын алдарт эмч)",
+    "hanja": "華佗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화톳불",
+    "translation": "гал түлэх газар",
+    "hanja": "火톳불",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화통",
+    "translation": "Гал, галт буу",
+    "hanja": "火筒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화통하다",
+    "translation": "화통하다 (시원시원하다)",
+    "hanja": "和通하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화투",
+    "translation": "Наадгайны хөзөр",
+    "hanja": "花鬪",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "화투짝",
+    "translation": "Хватуны карт",
+    "hanja": "花鬪짝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화판",
+    "translation": "Зураг зурах самбар",
+    "hanja": "畫板",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화페",
+    "translation": "валют",
+    "hanja": "貨幣",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화평",
+    "translation": "Энх тайван",
+    "hanja": "和平",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화평하다",
+    "translation": "Энх тайван байх",
+    "hanja": "和平하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화폐",
+    "translation": "Мөнгөн тэмдэгт",
+    "hanja": "貨幣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화포",
+    "translation": "их буу",
+    "hanja": "火砲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화폭",
+    "translation": "зургийн даавуу",
+    "hanja": "畫幅",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화풀이",
+    "translation": "Уураа гаргах, уураа тайлах",
+    "hanja": "火풀이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화풀이하다",
+    "translation": "уур гаргах",
+    "hanja": "火풀이하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화풍",
+    "translation": "Зургийн хэв маяг",
+    "hanja": "畫風",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "화하다",
+    "translation": "тэмцэх",
+    "hanja": "和하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화학",
+    "translation": "хими",
+    "hanja": "化學",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화학조미료",
+    "translation": "химийн амтлагч",
+    "hanja": "化學調味料",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "화합",
+    "translation": "эв нэгдэл",
+    "hanja": "和合",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "화합되다",
+    "translation": "нийцэх, зохицох",
+    "hanja": "和合되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화합물",
+    "translation": "химийн нэгдэл",
+    "hanja": "化合物",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "화합하다",
+    "translation": "Эвлэрэх",
+    "hanja": "和合하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화해",
+    "translation": "эвлэрэл",
+    "hanja": "和解",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화해시키다",
+    "translation": "эвлэрүүлэх",
+    "hanja": "和解시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화해하다",
+    "translation": "эвлэрэх, зохицох",
+    "hanja": "和解하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "화현",
+    "translation": "илчлэл, илрэл",
+    "hanja": "化現",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "화형",
+    "translation": "галдан шатаах",
+    "hanja": "火刑",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화홍",
+    "translation": "цэцэглэсэн цэцэг",
+    "hanja": "花紅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "화화",
+    "translation": "Хуахуа (нэр)",
+    "hanja": "화화",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "화환",
+    "translation": "Цэцгэн хүрээ",
+    "hanja": "花環",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "화회",
+    "translation": "эвлэрэл",
+    "hanja": "和會",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "화훼",
+    "translation": "цэцгийн тариалалт",
+    "hanja": "花卉",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

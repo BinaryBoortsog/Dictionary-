@@ -1,0 +1,779 @@
+[
+  {
+    "word": "총",
+    "translation": "нийт",
+    "hanja": "總",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "총각",
+    "translation": "ганц бие эр",
+    "hanja": "總角",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총각김치",
+    "translation": "залуу хурган кимчи, цагаан луувангийн кимчи",
+    "hanja": "총각김치",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "총각무",
+    "translation": "цагаан манжин кимчи",
+    "hanja": "총각무",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "총감",
+    "translation": "ерөнхий хяналт",
+    "hanja": "總監",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총감독",
+    "translation": "Ерөнхий найруулагч, ерөнхий захирал",
+    "hanja": "總監督",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총격",
+    "translation": "буудлага",
+    "hanja": "銃擊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총격전",
+    "translation": "Буудалцаан",
+    "hanja": "銃擊戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총결산",
+    "translation": "нийт дүн",
+    "hanja": "總決算",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총경",
+    "translation": "Цагдаагийн хурандаа",
+    "hanja": "總警",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총계",
+    "translation": "нийт дүн",
+    "hanja": "總計",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "총공격",
+    "translation": "ерөнхий дайралт",
+    "hanja": "總攻擊",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "총공격하다",
+    "translation": "бүх хүчээр дайрах",
+    "hanja": "總攻擊하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총관",
+    "translation": "ерөнхий захирал",
+    "hanja": "總管",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "총괄",
+    "translation": "Ерөнхий, нэгтгэн дүгнэх",
+    "hanja": "總括",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총괄적",
+    "translation": "Ерөнхий, цогц",
+    "hanja": "總括的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총괄하다",
+    "translation": "ерөнхийд нь удирах, хариуцах",
+    "hanja": "總括하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총구",
+    "translation": "бууны ам",
+    "hanja": "銃口",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "총구멍",
+    "translation": "бууны ам",
+    "hanja": "銃구멍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "총국",
+    "translation": "ерөнхий газар",
+    "hanja": "總局",
+    "pos": "n",
+    "cefr": "B2"
+  },
+  {
+    "word": "총궐기",
+    "translation": "нийтийн бослого",
+    "hanja": "總蹶起",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총기",
+    "translation": "буу",
+    "hanja": "銃器",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총기하다",
+    "translation": "хүндэтгэх, сэргээх",
+    "hanja": "聰氣하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총대",
+    "translation": "бууны тавиур, бүлгийн ахлагч",
+    "hanja": "銃隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총대장",
+    "translation": "ерөнхий командлагч",
+    "hanja": "總大將",
+    "pos": "NNG",
+    "cefr": "C2"
+  },
+  {
+    "word": "총독",
+    "translation": "ерөнхий захирагч",
+    "hanja": "總督",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "총동원",
+    "translation": "бүх хүчийг дайчлах",
+    "hanja": "總動員",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총동원되다",
+    "translation": "нийтээр дайчлагдах",
+    "hanja": "總動員─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총동원령",
+    "translation": "Бүх нийтийн дайчилгааны тушаал",
+    "hanja": "總動員令",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "총동원하다",
+    "translation": "бүхнийг дайчлах",
+    "hanja": "總動員하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총량",
+    "translation": "Нийт хэмжээ",
+    "hanja": "總量",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "총력",
+    "translation": "Бүх хүч",
+    "hanja": "總力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총력전",
+    "translation": "Бүх хүчний дайн",
+    "hanja": "總力戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총련",
+    "translation": "Ерөнхий холбоо",
+    "hanja": "總聯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "총론",
+    "translation": "Ерөнхий дүн шинжилгээ/танилцуулга",
+    "hanja": "總論",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "총리",
+    "translation": "ерөнхий сайд",
+    "hanja": "總理",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "총망라되다",
+    "translation": "бүх зүйлийг багтаасан",
+    "hanja": "總網羅되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총망라하다",
+    "translation": "бүх зүйлийг багтаах",
+    "hanja": "總網羅하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "총면적",
+    "translation": "нийт талбай",
+    "hanja": "總面積",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "총명",
+    "translation": "Оюун ухаантай, сэргэлэн",
+    "hanja": "聰明",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총명하다",
+    "translation": "ухаантай",
+    "hanja": "聰明하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "총무",
+    "translation": "ерөнхий нарийн бичгийн дарга",
+    "hanja": "總務",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "총무부",
+    "translation": "ерөнхий захиргаа",
+    "hanja": "總務部",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총본산",
+    "translation": "ерөнхий сүм",
+    "hanja": "總本山",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "총부",
+    "translation": "бууны хоолой",
+    "hanja": "銃部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총부리",
+    "translation": "Бууны ам",
+    "hanja": "銃",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "총비서",
+    "translation": "ерөнхий нарийн бичгийн дарга",
+    "hanja": "總秘書",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "총사",
+    "translation": "генерал, элчин",
+    "hanja": "總使",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총사퇴하다",
+    "translation": "Хамтаараа огцрох",
+    "hanja": "總辭退하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총살",
+    "translation": "буудаж алах",
+    "hanja": "銃殺",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총살당하다",
+    "translation": "буудуулж үхэх",
+    "hanja": "總殺當하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "총살되다",
+    "translation": "Буудуулж үхэх",
+    "hanja": "銃殺되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총살하다",
+    "translation": "буудаж алах",
+    "hanja": "銃殺하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총상",
+    "translation": "буудлагын шарх",
+    "hanja": "銃傷",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "총선",
+    "translation": "бүх нийтийн сонгууль",
+    "hanja": "總選",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총선거",
+    "translation": "бүх нийтийн сонгууль",
+    "hanja": "總選擧",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총성",
+    "translation": "буун дуу",
+    "hanja": "銃聲",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "총소득",
+    "translation": "нийт орлого",
+    "hanja": "總所得",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총소리",
+    "translation": "буун дуу",
+    "hanja": "銃소리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "총수",
+    "translation": "нийт тоо, ерөнхий захирал",
+    "hanja": "總數",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "총수익",
+    "translation": "Нийт орлого",
+    "hanja": "總收益",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총수입",
+    "translation": "нийт орлого",
+    "hanja": "總收入",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "총신",
+    "translation": "бууны их бие",
+    "hanja": "銃身",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "총아",
+    "translation": "Хайртай хүүхэд, үе залуучуудын хайр хүндэтгэлийг хүлээсэн хүн",
+    "hanja": "寵兒",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총알",
+    "translation": "сум",
+    "hanja": "銃알",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "총알받이",
+    "translation": "сумны дор орох хүн",
+    "hanja": "銃알받이",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "총애",
+    "translation": "таалал",
+    "hanja": "寵愛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총애하다",
+    "translation": "таалагдах",
+    "hanja": "寵愛하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "총액",
+    "translation": "Нийт дүн, нийлбэр",
+    "hanja": "總額",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총영사",
+    "translation": "ерөнхий консул",
+    "hanja": "總領事",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "총원",
+    "translation": "нийт гишүүд",
+    "hanja": "總員",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "총의",
+    "translation": "нийтлэг зөвшилцөл",
+    "hanja": "總意",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총인구",
+    "translation": "нийт хүн ам",
+    "hanja": "總人口",
+    "pos": "м.н.",
+    "cefr": "A2"
+  },
+  {
+    "word": "총잡이",
+    "translation": "буутчин",
+    "hanja": "銃잡이",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "총장",
+    "translation": "Ректор",
+    "hanja": "總長",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "총재",
+    "translation": "ерөнхийлөгч",
+    "hanja": "總裁",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총점",
+    "translation": "нийт оноо",
+    "hanja": "總點",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "총정리하다",
+    "translation": "бүх зүйлийг цэгцлэх, нэгтгэн дүгнэх",
+    "hanja": "總整理하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "총제",
+    "translation": "ерөнхий",
+    "hanja": "總制",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "총지휘하다",
+    "translation": "бүхнийг удирдах",
+    "hanja": "總指揮하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "총질",
+    "translation": "буудах",
+    "hanja": "銃질",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총질하다",
+    "translation": "буудах",
+    "hanja": "銃질하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총집",
+    "translation": "бүх цуглуулга",
+    "hanja": "叢集",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "총집결하다",
+    "translation": "бүгд цугларах, бүх хүчээр цугларах",
+    "hanja": "總集結하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총집합하다",
+    "translation": "Бүгдийг нэгтгэх",
+    "hanja": "總集合하다",
+    "pos": "`동사`",
+    "cefr": "B2"
+  },
+  {
+    "word": "총참모장",
+    "translation": "ерөнхий штабын дарга",
+    "hanja": "總參謀長",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "총책",
+    "translation": "ерөнхий хариуцагч",
+    "hanja": "總責",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총책임자",
+    "translation": "ерөнхий хариуцагч",
+    "hanja": "總責任者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총천연색",
+    "translation": "бүрэн өнгөт, олон өнгийн",
+    "hanja": "總天然色",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총체",
+    "translation": "нийт",
+    "hanja": "總體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총체적",
+    "translation": "Ерөнхий, цогц",
+    "hanja": "總體的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총총",
+    "translation": "ялгарсан",
+    "hanja": "叢叢",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "총총거리다",
+    "translation": "хурдан алхах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총총걸음",
+    "translation": "хурдан алхаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총총하다",
+    "translation": "олонтой, одтой",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총총히",
+    "translation": "хурдан хурдан, олон тоогоор",
+    "hanja": "匆匆히",
+    "pos": "adv",
+    "cefr": "C1"
+  },
+  {
+    "word": "총출동하다",
+    "translation": "Бүгдээрээ гарах, нийтээрээ дайчлагдах",
+    "hanja": "總出動하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총칭",
+    "translation": "ерөнхий нэр",
+    "hanja": "總稱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총칭하다",
+    "translation": "ерөнхийд нь нэрлэх",
+    "hanja": "總稱하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총칼",
+    "translation": "буу, хутга (цэрэг армийн зэвсэг)",
+    "hanja": "銃칼",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "총탄",
+    "translation": "сум",
+    "hanja": "銃彈",
+    "pos": "сущ",
+    "cefr": "B2"
+  },
+  {
+    "word": "총통",
+    "translation": "ерөнхийлөгч, диктатор",
+    "hanja": "總統",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총파업",
+    "translation": "Ерөнхий ажил хаялт",
+    "hanja": "總罷業",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "총판",
+    "translation": "ерөнхий дистрибьютор",
+    "hanja": "總販",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "총평",
+    "translation": "ерөнхий үнэлгээ",
+    "hanja": "總評",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "총포",
+    "translation": "буу",
+    "hanja": "銃砲",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "총학",
+    "translation": "Оюутны холбоо (нийт)",
+    "hanja": "總學",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "총학생회",
+    "translation": "Оюутны ерөнхий зөвлөл",
+    "hanja": "總學生會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총합",
+    "translation": "Нийт нийлбэр, бүгд",
+    "hanja": "總合",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총화",
+    "translation": "Нийт дүнг гаргах",
+    "hanja": "總和",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "총회",
+    "translation": "ерөнхий чуулган",
+    "hanja": "總會",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

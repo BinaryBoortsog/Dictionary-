@@ -1,0 +1,688 @@
+[
+  {
+    "word": "송",
+    "translation": "Дуу",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "송가",
+    "translation": "магтаал дуу",
+    "hanja": "頌歌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송강",
+    "translation": "Сун Кан (нэр)",
+    "hanja": "宋康",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송경",
+    "translation": "сүлд дуу",
+    "hanja": "頌經",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "송고",
+    "translation": "илгээх, гардуулах",
+    "hanja": "送稿",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송고하다",
+    "translation": "Илгээх",
+    "hanja": "送稿하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송골매",
+    "translation": "шонхор",
+    "hanja": "松乭매",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송골송골",
+    "translation": "бөөн бөөнөөр",
+    "hanja": "송골송골",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송곳",
+    "translation": "Бургас, хурц үзүүр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송곳니",
+    "translation": "Шүдний үзүүр, сүвэгч шүд",
+    "hanja": "송곳니",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송구",
+    "translation": "хүндэтгэл",
+    "hanja": "悚懼",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송구스럽다",
+    "translation": "ичиж зовох, гэмших",
+    "hanja": "송구스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송구영신",
+    "translation": "хуучин оныг үдэж, шинэ оныг угтах",
+    "hanja": "送舊迎新",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "송구하다",
+    "translation": "уучлалт гуйх",
+    "hanja": "悚懼하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송글송글",
+    "translation": "방울방울, 송골송골",
+    "hanja": "송글송글",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송금",
+    "translation": "мөнгө шилжүүлэх",
+    "hanja": "送金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송금되다",
+    "translation": "мөнгө шилжүүлэх",
+    "hanja": "送金되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송금하다",
+    "translation": "мөнгө шилжүүлэх",
+    "hanja": "送金하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송내",
+    "translation": "Соннае (газар)",
+    "hanja": "松內",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "송년",
+    "translation": "Оны төгсгөл",
+    "hanja": "送年",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "송년회",
+    "translation": "Шинэ жилийн баяр",
+    "hanja": "送年會",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송다",
+    "translation": "илгээх, хүргэх (хуучирсан)",
+    "hanja": "送다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송달",
+    "translation": "хүргэлт, илгээлт",
+    "hanja": "送達",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송달되다",
+    "translation": "хүргэгдэх, илгээгдэх",
+    "hanja": "送達되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "송달하다",
+    "translation": "хүргэх, илгээх",
+    "hanja": "送達하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송담",
+    "translation": "Сун Дам",
+    "hanja": "松潭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송도",
+    "translation": "Сондо",
+    "hanja": "松島",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "송로",
+    "translation": "хушны зам",
+    "hanja": "松露",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송림",
+    "translation": "Нарсны төгөл",
+    "hanja": "松林",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송무",
+    "translation": "хууль ёсны тэмцэл, маргаан",
+    "hanja": "訟務",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송미령",
+    "translation": "Сүн Мэйлин",
+    "hanja": "宋美齡",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송변",
+    "translation": "дамжуулах, шилжүүлэх",
+    "hanja": "送變",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송별",
+    "translation": "үдэлт",
+    "hanja": "送別",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송별회",
+    "translation": "үдэлтийн үдэшлэг",
+    "hanja": "送別會",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "송부",
+    "translation": "илгээх",
+    "hanja": "送付",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송부되다",
+    "translation": "илгээгдэх",
+    "hanja": "送付되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송부하다",
+    "translation": "Илгээх",
+    "hanja": "送付하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "송사",
+    "translation": "шүүхийн маргаан",
+    "hanja": "訟事",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송사리",
+    "translation": "жараахай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송사하다",
+    "translation": "шүүхдэх",
+    "hanja": "訟事하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송산",
+    "translation": "Сонсан",
+    "hanja": "松山",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송상",
+    "translation": "Худалдаачид хоорондын тэмцэл",
+    "hanja": "訟商",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "송선",
+    "translation": "усан онгоцны шугам",
+    "hanja": "送船",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송송",
+    "translation": "жижиглэн, сийрэгхэн, сэм сэм",
+    "hanja": "송송",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송수관",
+    "translation": "усны хоолой",
+    "hanja": "送水管",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송수신",
+    "translation": "илгээх, хүлээн авах",
+    "hanja": "送受信",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송수신하다",
+    "translation": "илгээх, хүлээн авах",
+    "hanja": "送受信─",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송시열",
+    "translation": "Сон Ши-ёль (хүний нэр)",
+    "hanja": "宋時烈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "송신",
+    "translation": "дамжуулалт, илгээх",
+    "hanja": "送信",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "송신기",
+    "translation": "дамжуулагч",
+    "hanja": "送信機",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "송신되다",
+    "translation": "илгээгдэх",
+    "hanja": "送信되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송신하다",
+    "translation": "илгээх, цацах",
+    "hanja": "送信하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송씨",
+    "translation": "Сон овогт",
+    "hanja": "宋氏",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "송아",
+    "translation": "тугал",
+    "hanja": "송아",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "송아지",
+    "translation": "тугал",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "송악",
+    "translation": "хуш модны төрөл",
+    "hanja": "松嶽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송알송알",
+    "translation": "жижиг дуслууд",
+    "hanja": "송알송알",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송어",
+    "translation": "форель",
+    "hanja": "松魚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송연하다",
+    "translation": "аймшигтай, сүрдмээр",
+    "hanja": "悚然하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송영",
+    "translation": "үдэх, үдэн гаргах",
+    "hanja": "送迎",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "송우",
+    "translation": "Сону",
+    "hanja": "松芋",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "송원",
+    "translation": "Сүн Вон (хүний нэр)",
+    "hanja": "宋元",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "송월",
+    "translation": "Сонвол",
+    "hanja": "松月",
+    "pos": "명사",
+    "cefr": null
+  },
+  {
+    "word": "송유관",
+    "translation": "газрын тос дамжуулах хоолой",
+    "hanja": "送油管",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송이",
+    "translation": "багц",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "송이버섯",
+    "translation": "нарсны мөөг",
+    "hanja": "松茸",
+    "pos": "name",
+    "cefr": "B1"
+  },
+  {
+    "word": "송이송이",
+    "translation": "багц багцаар",
+    "hanja": "송이송이",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송인",
+    "translation": "ачаа илгээгч",
+    "hanja": "送人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송장",
+    "translation": "цогцос, хүүр",
+    "hanja": "送狀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송전",
+    "translation": "Цахилгаан дамжуулалт",
+    "hanja": "送電",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송전하다",
+    "translation": "цахилгаан дамжуулах",
+    "hanja": "送電하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송정",
+    "translation": "сонин захиа",
+    "hanja": "宋亭",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송주",
+    "translation": "Сонжү (хүний нэр эсвэл газар)",
+    "hanja": "宋株",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "송진",
+    "translation": "давирхай",
+    "hanja": "松津",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송창",
+    "translation": "Цонхны салхи",
+    "hanja": "送窓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송천",
+    "translation": "Сон Чон (газар нэр)",
+    "hanja": "松川",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "송촌",
+    "translation": "Сунчон",
+    "hanja": "松村",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "송추",
+    "translation": "Сүүлт мод",
+    "hanja": "松楸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "송축하다",
+    "translation": "магтан дуулах",
+    "hanja": "頌祝하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송출",
+    "translation": "дамжуулах",
+    "hanja": "送出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송출되다",
+    "translation": "гаргах",
+    "hanja": "送出되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "송출하다",
+    "translation": "илгээх, цацах",
+    "hanja": "送出-",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "송충이",
+    "translation": "нарсны хорхой",
+    "hanja": "松蟲이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송치되다",
+    "translation": "шилжүүлэх",
+    "hanja": "送致되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "송치하다",
+    "translation": "шилжүүлэх, илгээх",
+    "hanja": "送致하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "송탄",
+    "translation": "Сонгтан (Солонгосын газар)",
+    "hanja": "松炭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송파",
+    "translation": "Сонпа (газар зүйн нэр)",
+    "hanja": "松坡",
+    "pos": "м",
+    "cefr": "B1"
+  },
+  {
+    "word": "송판",
+    "translation": "Нарсны банз",
+    "hanja": "松板",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "송편",
+    "translation": "сонпён (солонгос будааны нарийн боов)",
+    "hanja": "松편",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송평",
+    "translation": "Сонпён (будааны бялуу)",
+    "hanja": "松餠",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송풍",
+    "translation": "салхи оруулах",
+    "hanja": "送風",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "송풍기",
+    "translation": "агаар үлээгч, сэнс",
+    "hanja": "送風機",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "송하다",
+    "translation": "урт удаан",
+    "hanja": "頌",
+    "pos": "тэмдэг нэр",
+    "cefr": "C1"
+  },
+  {
+    "word": "송화",
+    "translation": "Нарсны цэцгийн тоос",
+    "hanja": "松花",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "송환",
+    "translation": "буцаан илгээх",
+    "hanja": "送還",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "송환되다",
+    "translation": "буцаагдах",
+    "hanja": "送還-",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "송환하다",
+    "translation": "буцаах, шилжүүлэх",
+    "hanja": "送還하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "송홧가루",
+    "translation": "нарсан цэцгийн тоос",
+    "hanja": "松花가루",
+    "pos": "명사",
+    "cefr": "B2"
+  }
+]

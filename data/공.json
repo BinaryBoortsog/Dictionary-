@@ -1,0 +1,2487 @@
+[
+  {
+    "word": "공",
+    "translation": "бөмбөг",
+    "hanja": "球",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "공가",
+    "translation": "Хоосон байшин, улсын гэр",
+    "hanja": "空家",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공간",
+    "translation": "орон зай",
+    "hanja": "空間",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공간적",
+    "translation": "орон зайн",
+    "hanja": "空間的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공갈",
+    "translation": "сүр хүч, дарамт",
+    "hanja": "恐喝",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공갈치다",
+    "translation": "Сүрдүүлэх, мөшгих",
+    "hanja": "恐喝치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공갈하다",
+    "translation": "сүрдүүлэх, мөрдөх",
+    "hanja": "恐喝하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공감",
+    "translation": "Энэрэх сэтгэл, ойлгох, хамтран мэдрэх",
+    "hanja": "共感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공감대",
+    "translation": "нийтлэг ойлголт",
+    "hanja": "共感대",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공감되다",
+    "translation": "эмзэглэх, ойлгох",
+    "hanja": "共感되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "공감하다",
+    "translation": "хүлээн зөвшөөрөх",
+    "hanja": "共感하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공강",
+    "translation": "чөлөөт цаг, хичээлгүй цаг",
+    "hanja": "空講",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "공개",
+    "translation": "ил болгох",
+    "hanja": "公開",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공개되다",
+    "translation": "нийтэд ил болох",
+    "hanja": "公開되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공개적",
+    "translation": "нийтийн",
+    "hanja": "公開的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공개하다",
+    "translation": "нийтэд дэлгэх",
+    "hanja": "公開하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공격",
+    "translation": "Довтолгоо, халдлага",
+    "hanja": "攻擊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공격성",
+    "translation": "түрэмгийлэл",
+    "hanja": "攻擊性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공격수",
+    "translation": "довтлогч",
+    "hanja": "攻擊手",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공격자",
+    "translation": "далайрагч, довтлогч",
+    "hanja": "攻擊者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공격적",
+    "translation": "Түрэмгий / Дайчин",
+    "hanja": "공격적 (攻擊的)",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공격하다",
+    "translation": "довтлох",
+    "hanja": "攻擊하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공경",
+    "translation": "Хүндэтгэл",
+    "hanja": "恭敬",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공경하다",
+    "translation": "Хүндэтгэх",
+    "hanja": "恭敬하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공고",
+    "translation": "зарлал, мэдэгдэл",
+    "hanja": "公告",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공고되다",
+    "translation": "зарлагдах",
+    "hanja": "公告되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공고문",
+    "translation": "зарлал",
+    "hanja": "公告文",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공고하다",
+    "translation": "нийтлэх",
+    "hanja": "公告하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공고화되다",
+    "translation": "бататгагдах",
+    "hanja": "鞏固化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공고화하다",
+    "translation": "бэхжүүлэх, бататгах",
+    "hanja": "鞏固化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공고히",
+    "translation": "бат бөх",
+    "hanja": "鞏固히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공공",
+    "translation": "Нийтийн",
+    "hanja": "公共",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "공공건물",
+    "translation": "нийтийн барилга",
+    "hanja": "公共建物",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공공복리",
+    "translation": "нийтийн сайн сайхан",
+    "hanja": "公共福利",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공공사업",
+    "translation": "нийтийн ажил",
+    "hanja": "公共事業",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공공성",
+    "translation": "Олон нийтийн шинж чанар",
+    "hanja": "公共性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공공시설",
+    "translation": "нийтийн байгууламж",
+    "hanja": "公共施設",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공공연하다",
+    "translation": "Ил тод байх, нийтэд мэдэгдэхүйц байх",
+    "hanja": "公公然하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공공연히",
+    "translation": "нийтэд ил тод",
+    "hanja": "公公然히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공공요금",
+    "translation": "нийтийн үйлчилгээний төлбөр",
+    "hanja": "公共料金",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "공공장소",
+    "translation": "Олон нийтийн газар",
+    "hanja": "公共場所",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공공질서",
+    "translation": "нийтийн хэв журам",
+    "hanja": "公共秩序",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공공하다",
+    "translation": "олон нийтийн",
+    "hanja": "公共하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공과",
+    "translation": "зардал, ажил үйлс",
+    "hanja": "功過",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공과금",
+    "translation": "нийтийн үйлчилгээний төлбөр",
+    "hanja": "公課金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공관",
+    "translation": "албан тушаал",
+    "hanja": "公館",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공관위",
+    "translation": "нийтийн өргөдлийн хороо",
+    "hanja": "公管委",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "공교롭다",
+    "translation": "тохиолдлын",
+    "hanja": "工巧롭다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공교육",
+    "translation": "нийтийн боловсрол",
+    "hanja": "公敎育",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공교육비",
+    "translation": "Төрийн боловсролын зардал",
+    "hanja": "公敎育費",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공구",
+    "translation": "багаж хэрэгсэл",
+    "hanja": "工具",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공구리",
+    "translation": "бетон",
+    "hanja": "공구리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공구하다",
+    "translation": "хамтран худалдан авах",
+    "hanja": "共購하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공국",
+    "translation": "гүнлиг, эдийн засагт хараат улс",
+    "hanja": "公國",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공군",
+    "translation": "агаарын цэрэг",
+    "hanja": "空軍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공권력",
+    "translation": "төрийн эрх мэдэл",
+    "hanja": "公權力",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공궤하다",
+    "translation": "Хооллох, үйлчлэх",
+    "hanja": "供饌하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공금",
+    "translation": "нийтийн мөнгө",
+    "hanja": "公金",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공급",
+    "translation": "нийлүүлэлт",
+    "hanja": "供給",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공급되다",
+    "translation": "нийлүүлэгдэх, хангуулах",
+    "hanja": "供給되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공급량",
+    "translation": "нийлүүлэлтийн хэмжээ",
+    "hanja": "供給量",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공급원",
+    "translation": "нийлүүлэгч",
+    "hanja": "供給源",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "공급지",
+    "translation": "нийлүүлэлтийн газар",
+    "hanja": "供給地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공급하다",
+    "translation": "нийлүүлэх",
+    "hanja": "供給하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "공기",
+    "translation": "агаар",
+    "hanja": "空氣",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공기놀이",
+    "translation": "сонирхолтой тоглоом",
+    "hanja": "공기놀이",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "공기놀이하다",
+    "translation": "бөмбөгөөр тоглох",
+    "hanja": "공기놀이하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공기업",
+    "translation": "төрийн өмчит аж ахуйн нэгж",
+    "hanja": "公企業",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공기총",
+    "translation": "хий буу",
+    "hanja": "空氣銃",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공기층",
+    "translation": "Агаарын давхарга",
+    "hanja": "空氣層",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공기하다",
+    "translation": "Олон нийтэд зарлах, мэдээлэх",
+    "hanja": "公記하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공깃돌",
+    "translation": "чулуун тоглоом",
+    "hanja": "공깃돌",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공깃밥",
+    "translation": "аягатай будаа",
+    "hanja": "空器飯",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "공납",
+    "translation": "албан татвар",
+    "hanja": "貢納",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공녀",
+    "translation": "хааны татвар эм",
+    "hanja": "貢女",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공놀이",
+    "translation": "Бөмбөгөөр тоглох",
+    "hanja": "공놀이",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "공놀이하다",
+    "translation": "бөмбөг тоглох",
+    "hanja": "공놀이하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공단",
+    "translation": "аж үйлдвэрийн цогцолбор",
+    "hanja": "工團",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공당",
+    "translation": "нийтийн нам, намын",
+    "hanja": "公黨",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공대",
+    "translation": "Инженерчлэлийн коллеж",
+    "hanja": "工大",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공덕",
+    "translation": "буян",
+    "hanja": "功德",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공도",
+    "translation": "хоосон зам",
+    "hanja": "公道",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공돈",
+    "translation": "үнэгүй мөнгө",
+    "hanja": "空돈",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "공동",
+    "translation": "Хамтарсан",
+    "hanja": "共同",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공동묘지",
+    "translation": "нийтийн оршуулгын газар",
+    "hanja": "共同墓地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공동생활",
+    "translation": "хамтын амьдрал",
+    "hanja": "공동생활(共同生活)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공동체",
+    "translation": "нийгэмлэг",
+    "hanja": "共同體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공동화",
+    "translation": "хөндийрөх",
+    "hanja": "空洞化",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "공들다",
+    "translation": "хүч гаргах, хичээх",
+    "hanja": "功들다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "공들이다",
+    "translation": "Хөдөлмөрлөх, хүчин чармайлт гаргах",
+    "hanja": "功들이다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "공란",
+    "translation": "хоосон зай, бөглөх зай",
+    "hanja": "空欄",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공랭",
+    "translation": "агаараар хөргөх",
+    "hanja": "空冷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공략",
+    "translation": "довтлох",
+    "hanja": "攻略",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공략하다",
+    "translation": "давшин орох, довтлох",
+    "hanja": "攻略하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "공력",
+    "translation": "хүч, чадал",
+    "hanja": "功力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공로",
+    "translation": "Гэрээ, зан заншил",
+    "hanja": "功勞",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공로자",
+    "translation": "гавьяатан",
+    "hanja": "功勞者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공론",
+    "translation": "нийтийн хэлэлцүүлэг",
+    "hanja": "公論",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공론화",
+    "translation": "нийтийн талбарт ил гаргах",
+    "hanja": "公論化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공론화되다",
+    "translation": "олон нийтэд нээлттэй болох",
+    "hanja": "公論化되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "공론화하다",
+    "translation": "Олон нийтийн хэлэлцүүлэгт оруулах",
+    "hanja": "公論化하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공룡",
+    "translation": "динозавр",
+    "hanja": "恐龍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공릉",
+    "translation": "Гонрён (солонгосын хааны бунхан)",
+    "hanja": "恭陵",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공리",
+    "translation": "Нийтийн ашиг",
+    "hanja": "公利",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공리주의",
+    "translation": "утилитаризм",
+    "hanja": "功利主義",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공립",
+    "translation": "нийтийн",
+    "hanja": "公立",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공막",
+    "translation": "цагаан бүрхүүл",
+    "hanja": "鞏膜",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공매",
+    "translation": "Худалдан борлуулах",
+    "hanja": "公賣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공맹",
+    "translation": "Күнз, Мэнз",
+    "hanja": "孔孟",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공멸",
+    "translation": "хамтдаа сүйрэх",
+    "hanja": "共滅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공멸하다",
+    "translation": "бүгд сүйрэх",
+    "hanja": "共滅하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공명",
+    "translation": "цуурай",
+    "hanja": "共鳴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공명선거",
+    "translation": "шударга сонгууль",
+    "hanja": "公明選擧",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공명심",
+    "translation": "алдар нэр хүсэх сэтгэл",
+    "hanja": "功名心",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공명정대하다",
+    "translation": "шударга, цэвэр ариун байх",
+    "hanja": "公明正大하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공명하다",
+    "translation": "цуурайтах, цуурай үүсгэх",
+    "hanja": "共鳴하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공모",
+    "translation": "хуйвалдаан",
+    "hanja": "共謀",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공모전",
+    "translation": "уралдаан",
+    "hanja": "公募展",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공모하다",
+    "translation": "хуйвалдах",
+    "hanja": "共謀하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "공무",
+    "translation": "албан хэрэг",
+    "hanja": "公務",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공무원",
+    "translation": "Төрийн албан хаагч",
+    "hanja": "公務員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공문",
+    "translation": "албан бичиг",
+    "hanja": "公文",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공문서",
+    "translation": "албан бичиг",
+    "hanja": "公文書",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공물",
+    "translation": "албан татвар",
+    "hanja": "供物",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공박하다",
+    "translation": "хүчтэй шүүмжлэх, хатуу зэмлэх",
+    "hanja": "攻駁하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공밥",
+    "translation": "үнэгүй хоол",
+    "hanja": "空밥",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공방",
+    "translation": "гар урлалын газар",
+    "hanja": "工房",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공방전",
+    "translation": "баталгаатай баталгаа",
+    "hanja": "攻防戰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공백",
+    "translation": "Хоосон зай",
+    "hanja": "空白",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공백기",
+    "translation": "хоосон үе",
+    "hanja": "空白期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공범",
+    "translation": "Хамтрагч",
+    "hanja": "共犯",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공범자",
+    "translation": "хамсаатан",
+    "hanja": "共犯者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공법",
+    "translation": "нийтийн эрх зүй, шүүхийн шийдвэр",
+    "hanja": "公法",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공병",
+    "translation": "хоосон лонх",
+    "hanja": "空甁",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공보",
+    "translation": "нийтийн мэдээлэл",
+    "hanja": "公報",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공보관",
+    "translation": "хэвлэлийн төлөөлөгч",
+    "hanja": "公報官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공복",
+    "translation": "хоосон ходоод",
+    "hanja": "空腹",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공복감",
+    "translation": "өлсөх мэдрэмж",
+    "hanja": "空腹感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공부",
+    "translation": "хичээл",
+    "hanja": "工夫",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "공부방",
+    "translation": "судалгааны өрөө",
+    "hanja": "工夫房",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공부시키다",
+    "translation": "юм сургах",
+    "hanja": "工夫시키다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공부하다",
+    "translation": "сурах, хичээллэх",
+    "hanja": "工夫하다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "공분",
+    "translation": "Нийтийн түгшүүр",
+    "hanja": "公憤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공분하다",
+    "translation": "нийтээрээ уурлах",
+    "hanja": "公憤하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공붓벌레",
+    "translation": "номд дуртай хүн, номын хорхойтон",
+    "hanja": "공붓벌레",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "공비",
+    "translation": "нийтийн зардал; босогч",
+    "hanja": "公費/共匪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공사",
+    "translation": "барилгын ажил",
+    "hanja": "工事",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공사관",
+    "translation": "элчин сайдын яам",
+    "hanja": "公使館",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공사다망하다",
+    "translation": "маш их ажилтай байх",
+    "hanja": "公私多忙하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공사비",
+    "translation": "Барилгын зардал",
+    "hanja": "工事費",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공사장",
+    "translation": "Барилгын талбай",
+    "hanja": "工事場",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공사판",
+    "translation": "барилгын талбай",
+    "hanja": "工事판",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공사하다",
+    "translation": "барилгын ажил хийх, барих",
+    "hanja": "工事하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공산",
+    "translation": "коммунизм, коммунист",
+    "hanja": "共産",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공산군",
+    "translation": "коммунист арми",
+    "hanja": "共産軍",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공산권",
+    "translation": "коммунист блок",
+    "hanja": "共産圈",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공산당",
+    "translation": "коммунист нам",
+    "hanja": "共産黨",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공산주의",
+    "translation": "коммунизм",
+    "hanja": "共産主義",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공산품",
+    "translation": "аж үйлдвэрийн бүтээгдэхүүн",
+    "hanja": "工産品",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "공산화",
+    "translation": "коммунист байгууламж, коммунизм",
+    "hanja": "共産化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공산화되다",
+    "translation": "коммунист болох (улс орон)",
+    "hanja": "共産化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공상",
+    "translation": "уран зөгнөл",
+    "hanja": "空想",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공상적",
+    "translation": "уран сэтгэмжтэй, хийсвэр, бодолтой",
+    "hanja": "空想的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공상하다",
+    "translation": "мөрөөдөх",
+    "hanja": "空想하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공생",
+    "translation": "бие биедээ тэрсимжих",
+    "hanja": "共生",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공생하다",
+    "translation": "Хамтдаа амьдрах, симбиоз хийх",
+    "hanja": "共生하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "공석",
+    "translation": "сул орон тоо",
+    "hanja": "空席",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공성",
+    "translation": "цайз бүслэх",
+    "hanja": "攻城",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공세",
+    "translation": "давшилт",
+    "hanja": "攻勢",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공소",
+    "translation": "нийтийн газар",
+    "hanja": "公訴",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공소장",
+    "translation": "ял эдлүүлэх тогтоол",
+    "hanja": "公訴狀",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "공소하다",
+    "translation": "Шүүхэд зарга үүсгэх",
+    "hanja": "公訴하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공속",
+    "translation": "үндэсний",
+    "hanja": "公俗",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공손하다",
+    "translation": "Эелдэг",
+    "hanja": "恭遜하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "공손히",
+    "translation": "хүндэтгэлтэйгээр",
+    "hanja": "恭遜-",
+    "pos": "да.",
+    "cefr": "B1"
+  },
+  {
+    "word": "공수",
+    "translation": "агаарын тээвэр",
+    "hanja": "空輸",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공수되다",
+    "translation": "агаарт хүргэх",
+    "hanja": "空輸되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공수래공수거",
+    "translation": "хоосон ирээд хоосон буцах",
+    "hanja": "空手來空手去",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공수병",
+    "translation": "галзуу өвчин",
+    "hanja": "恐水病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공수표",
+    "translation": "хоосон чек",
+    "hanja": "空手票",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공수하다",
+    "translation": "агаараар тээвэрлэх",
+    "hanja": "空輸하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공습경보",
+    "translation": "агаарын довтолгооны сэрэмжлүүлэг",
+    "hanja": "空襲警報",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공습하다",
+    "translation": "агаарын дайралт хийх",
+    "hanja": "空襲하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공시",
+    "translation": "нийтэд зарлах, ил тод болгох",
+    "hanja": "公示",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공시가",
+    "translation": "Засгийн газрын үнэлгээ",
+    "hanja": "公示價",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공시되다",
+    "translation": "нийтэд зарлагдах",
+    "hanja": "公示되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공시하다",
+    "translation": "Нийтэд зарлах",
+    "hanja": "공시하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공식",
+    "translation": "албан ёсны, томьёо",
+    "hanja": "公式",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공식적",
+    "translation": "албан ёсны",
+    "hanja": "公式的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공식화",
+    "translation": "Албан ёсны болгох",
+    "hanja": "公式化",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공식화되다",
+    "translation": "албан ёсны болох",
+    "hanja": "公式化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공식화하다",
+    "translation": "албан ёсны болгох",
+    "hanja": "公式化-",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공신",
+    "translation": "гай гавьяатай хүн",
+    "hanja": "功臣",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공신력",
+    "translation": "итгэлцэл, нэр хүнд",
+    "hanja": "公信力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공실",
+    "translation": "Хоосон өрөө",
+    "hanja": "空室",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "공심",
+    "translation": "Хоосон зүрх",
+    "hanja": "空心",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "공심채",
+    "translation": "усны бууцай",
+    "hanja": "空心菜",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공씨",
+    "translation": "Гун овогт",
+    "hanja": "孔氏",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공아",
+    "translation": "цэцэгт өндөг",
+    "hanja": "空鵝",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공안",
+    "translation": "нийтийн аюулгүй байдал",
+    "hanja": "公安",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공압",
+    "translation": "Агаарын даралт",
+    "hanja": "空壓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공약",
+    "translation": "амлалт",
+    "hanja": "公約",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공약수",
+    "translation": "Хамгийн их ерөнхий хуваагч",
+    "hanja": "公約數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공약하다",
+    "translation": "ам өгөх, амлах",
+    "hanja": "公約하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "공양",
+    "translation": "өргөл, өглөг",
+    "hanja": "供養",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공양미",
+    "translation": "Өргөлийн будаа",
+    "hanja": "供養米",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공양하다",
+    "translation": "өргөх",
+    "hanja": "供養하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공언",
+    "translation": "нийтэд мэдэгдэх",
+    "hanja": "公言",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공언하다",
+    "translation": "нийтэд зарлах, тунхаглах",
+    "hanja": "公言하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공업",
+    "translation": "аж үйлдвэр",
+    "hanja": "工業",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공업국",
+    "translation": "аж үйлдвэрийн орон",
+    "hanja": "工業國",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공업용",
+    "translation": "Аж үйлдвэрийн зориулалттай",
+    "hanja": "工業用",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공업용수",
+    "translation": "аж үйлдвэрийн ус",
+    "hanja": "工業用水",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공업화",
+    "translation": "Аж үйлдвэржүүлэлт",
+    "hanja": "工業化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공여",
+    "translation": "Өгөх, хандивлах",
+    "hanja": "供與",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공여하다",
+    "translation": "өгөх, нийлүүлэх",
+    "hanja": "供與하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공역",
+    "translation": "нийтийн газар",
+    "hanja": "空域",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공연",
+    "translation": "тоглолт, үзүүлбэр",
+    "hanja": "公演",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공연되다",
+    "translation": "тоглогдох",
+    "hanja": "公演되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공연장",
+    "translation": "тоглолтын газар",
+    "hanja": "公演場",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "공연하다",
+    "translation": "тоглолт үзүүлэх",
+    "hanja": "公演하다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "공연히",
+    "translation": "шалтгаангүйгээр",
+    "hanja": "空然히",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공염불",
+    "translation": "үггүй залбирал",
+    "hanja": "空念佛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공영",
+    "translation": "нийтийн өмч",
+    "hanja": "共營",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공예",
+    "translation": "гар урлал",
+    "hanja": "工藝",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공예가",
+    "translation": "гар урчуулан",
+    "hanja": "工藝家",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공예품",
+    "translation": "гар урлал",
+    "hanja": "工藝品",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공용",
+    "translation": "Нийтийн",
+    "hanja": "共用",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공용어",
+    "translation": "албан ёсны хэл",
+    "hanja": "公用語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공원",
+    "translation": "цэцэрлэгт хүрээлэн",
+    "hanja": "公園",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "공원묘지",
+    "translation": "оршуулгын газар, оршуулгын цэцэрлэгт хүрээлэн",
+    "hanja": "公園墓地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공유",
+    "translation": "хуваалцах",
+    "hanja": "共有",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공유되다",
+    "translation": "хуваалцагдах",
+    "hanja": "共有되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공유하다",
+    "translation": "хуваалцах",
+    "hanja": "共有",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "공의",
+    "translation": "Нийтийн",
+    "hanja": "公議",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공의롭다",
+    "translation": "Шудрага",
+    "hanja": "公義롭다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공이",
+    "translation": "ганхах, дүүжлээтэй",
+    "hanja": "공이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공익",
+    "translation": "нийтийн тус",
+    "hanja": "公益",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공익사업",
+    "translation": "нийтийн ашиг тусын үйлчилгээ",
+    "hanja": "公益事業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공익성",
+    "translation": "нийтийн ашиг сонирхол",
+    "hanja": "公益性",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공인",
+    "translation": "иргэний баталгаа",
+    "hanja": "公認",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공인되다",
+    "translation": "албан ёсоор хүлээн зөвшөөрөгдөх",
+    "hanja": "公認되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "공인하다",
+    "translation": "хүлээн зөвшөөрөх",
+    "hanja": "公認하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공일",
+    "translation": "хоосон",
+    "hanja": "空一",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공자",
+    "translation": "Күнз",
+    "hanja": "孔子",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공작",
+    "translation": "тогос",
+    "hanja": "孔雀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공작원",
+    "translation": "тагнуулч, агент",
+    "hanja": "工作員",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공작하다",
+    "translation": "хуйвалдах / үйлдвэрлэх",
+    "hanja": "工作하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공장",
+    "translation": "Үйлдвэр",
+    "hanja": "工場",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "공장장",
+    "translation": "үйлдвэрийн дарга",
+    "hanja": "工場長",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공장주",
+    "translation": "үйлдвэрийн эзэн",
+    "hanja": "工場主",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공장하다",
+    "translation": "мэдэгдэх, тунхаглах",
+    "hanja": "公章하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공저",
+    "translation": "хамтран зохиосон",
+    "hanja": "共著",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공저하다",
+    "translation": "хамтран бичих",
+    "hanja": "共著하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공적",
+    "translation": "нийтийн, олон нийтийн",
+    "hanja": "公的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공전",
+    "translation": "эргэлт",
+    "hanja": "空轉",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공전하다",
+    "translation": "хөдөлгөөнгүй байх, тойрон эргэх (од гараг)",
+    "hanja": "空轉하다, 公轉하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공정",
+    "translation": "шударга",
+    "hanja": "公正",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공정성",
+    "translation": "Шударга ёс",
+    "hanja": "公正性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공정하다",
+    "translation": "шударга",
+    "hanja": "공정하다(公正하다)",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공정히",
+    "translation": "шударгаар",
+    "hanja": "公正히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공제",
+    "translation": "хөнгөлөлт, хасалт",
+    "hanja": "控除",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공제되다",
+    "translation": "хасагдах",
+    "hanja": "控除되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공제하다",
+    "translation": "хасах, суутгах",
+    "hanja": "控除하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공조",
+    "translation": "хамтын ажиллагаа",
+    "hanja": "共助",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공조하다",
+    "translation": "хамтран ажиллах",
+    "hanja": "共助하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공존",
+    "translation": "Хамт орших, зэрэгцэн орших",
+    "hanja": "共存",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공존하다",
+    "translation": "хамт орших",
+    "hanja": "共存하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공주",
+    "translation": "Гүнж",
+    "hanja": "公主",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "공주병",
+    "translation": "гүнжийн өвчин (хэт өөрийгөө дөвийлгөх)",
+    "hanja": "公主病",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공중",
+    "translation": "агаар",
+    "hanja": "空中",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공중도덕",
+    "translation": "нийтийн ёс суртахуун",
+    "hanja": "公衆道德",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공중목욕탕",
+    "translation": "олон нийтийн халуун усны газар",
+    "hanja": "公衆沐浴湯",
+    "pos": "명",
+    "cefr": "A2"
+  },
+  {
+    "word": "공중위생",
+    "translation": "Нийтийн эрүүл ахуй",
+    "hanja": "公衆衛生",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공중전",
+    "translation": "Агаарын тулаан",
+    "hanja": "空中戰",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공중전화",
+    "translation": "нийтийн утас",
+    "hanja": "公衆電話",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공중제비",
+    "translation": "агаарын эргэлт",
+    "hanja": "空中제비",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공중파",
+    "translation": "нийтийн телевиз",
+    "hanja": "公衆波",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공중화장실",
+    "translation": "нийтийн жорлон",
+    "hanja": "公衆化粧室",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "공증",
+    "translation": "нотариатын баталгаа",
+    "hanja": "公證",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공증인",
+    "translation": "Нотариатч",
+    "hanja": "公證人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공증하다",
+    "translation": "нотарилдах",
+    "hanja": "公證하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공지",
+    "translation": "Мэдэгдэл, зарлал",
+    "hanja": "公示",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공지하다",
+    "translation": "мэдэгдэх, зарлах",
+    "hanja": "公知하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공직",
+    "translation": "албан тушаал",
+    "hanja": "公職",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공직자",
+    "translation": "төрийн албан хаагч",
+    "hanja": "公職者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공진",
+    "translation": "Резонанс",
+    "hanja": "共振",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공짜",
+    "translation": "үнэгүй",
+    "hanja": "空짜",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공차",
+    "translation": "тэг зөрөө",
+    "hanja": "公差",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공찬",
+    "translation": "үнэгүй хоол",
+    "hanja": "供饌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공창",
+    "translation": "олон нийтийн цонх",
+    "hanja": "公娼",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "공채",
+    "translation": "нээлттэй сонгон шалгаруулалт",
+    "hanja": "公採",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공책",
+    "translation": "дэвтэр",
+    "hanja": "空冊",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "공처가",
+    "translation": "эхнэрийнхээ үгэнд орох нөхөр",
+    "hanja": "恐妻家",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공천",
+    "translation": "нэр дэвшүүлэх",
+    "hanja": "公薦",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공천되다",
+    "translation": "нэр дэвших",
+    "hanja": "公薦되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "공천하다",
+    "translation": "нэр дэвшүүлэх",
+    "hanja": "公薦하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공청",
+    "translation": "нийтийн сонсгол",
+    "hanja": "公聽",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공청회",
+    "translation": "олон нийтийн хэлэлцүүлэг",
+    "hanja": "公聽會",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공체",
+    "translation": "нийтийн бие",
+    "hanja": "公體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공초",
+    "translation": "тамхи",
+    "hanja": "供草",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공치다",
+    "translation": "Хоосон өнгөрөх, юу ч үгүй болох",
+    "hanja": "空치다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "공치사",
+    "translation": "Өөрийгөө магтах зүйл, саймшрал",
+    "hanja": "功致辭",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공카",
+    "translation": "албан ёсны кафе",
+    "hanja": "公카",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공쿠르",
+    "translation": "Гонкурт (хүний нэр, шагнал)",
+    "hanja": "공쿠르",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "공탁",
+    "translation": "итгэмжлэгдсэн хадгаламж",
+    "hanja": "供託",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "공탁하다",
+    "translation": "мөнгө байршуулах (шүүхэд)",
+    "hanja": "供託하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공태",
+    "translation": "хоосон байдал",
+    "hanja": "空胎",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공터",
+    "translation": "хоосон газар",
+    "hanja": "空터",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "공통",
+    "translation": "Нийтлэг",
+    "hanja": "共通",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "공통되다",
+    "translation": "нийтлэг",
+    "hanja": "共通되다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "공통분모",
+    "translation": "ерөнхий хуваарь",
+    "hanja": "共通分母",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공통성",
+    "translation": "нийтлэг чанар",
+    "hanja": "共通性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공통어",
+    "translation": "нийтлэг хэл, дундын хэл",
+    "hanja": "共通語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공통적",
+    "translation": "нийтлэг",
+    "hanja": "共通的",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공통점",
+    "translation": "нийтлэг",
+    "hanja": "共通點",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공판",
+    "translation": "Нээлттэй хурал",
+    "hanja": "公判",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공판장",
+    "translation": "олон нийтийн зах",
+    "hanja": "共販場",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공평",
+    "translation": "шударга",
+    "hanja": "公平",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공평무사하다",
+    "translation": "шударга, туйлбаргүй",
+    "hanja": "公平無私하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공평하다",
+    "translation": "Шудрага, тэгш",
+    "hanja": "公平하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "공평히",
+    "translation": "шударгаар",
+    "hanja": "公平히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공포",
+    "translation": "айдас",
+    "hanja": "恐怖",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "공포감",
+    "translation": "айдас",
+    "hanja": "恐怖感",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공포되다",
+    "translation": "нийтлэгдэх",
+    "hanja": "公布되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공포스럽다",
+    "translation": "аймшигтай",
+    "hanja": "恐怖스럽다",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "공포심",
+    "translation": "айдас",
+    "hanja": "恐怖心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공포증",
+    "translation": "айдас, фоби",
+    "hanja": "恐怖症",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공포탄",
+    "translation": "хоосон сум",
+    "hanja": "空砲彈",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공포하다",
+    "translation": "зарлах",
+    "hanja": "公布하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "공표",
+    "translation": "нийтэд зарлах",
+    "hanja": "公表",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공표되다",
+    "translation": "нийтэд мэдэгдэх",
+    "hanja": "公表되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공표하다",
+    "translation": "Нийтэд зарлах",
+    "hanja": "公表하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "공하다",
+    "translation": "хоосон",
+    "hanja": "空하다",
+    "pos": "adjective",
+    "cefr": "B1"
+  },
+  {
+    "word": "공학",
+    "translation": "Инженерчлэл",
+    "hanja": "工學",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공학자",
+    "translation": "инженер",
+    "hanja": "工學者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공항",
+    "translation": "Нисэх онгоцны буудал",
+    "hanja": "空港",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "공항버스",
+    "translation": "нисэх буудлын автобус",
+    "hanja": "空港버스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "공해",
+    "translation": "бохирдол",
+    "hanja": "公害",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공허",
+    "translation": "хоосон, утгагүй",
+    "hanja": "空虛",
+    "pos": "м.н",
+    "cefr": "C1"
+  },
+  {
+    "word": "공허감",
+    "translation": "Хоосон мэдрэмж",
+    "hanja": "공허감",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공허하다",
+    "translation": "хоосон, утгагүй",
+    "hanja": "空虛-",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공헌",
+    "translation": "хувь нэмэр",
+    "hanja": "貢獻",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공헌하다",
+    "translation": "Хувь нэмэр оруулах",
+    "hanja": "貢獻하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공형",
+    "translation": "Нийтийн хэлбэр",
+    "hanja": "公型",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공홈",
+    "translation": "албан ёсны нүүр хуудас",
+    "hanja": "公홈",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "공화",
+    "translation": "энх тайван",
+    "hanja": "共和",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공화국",
+    "translation": "бүгд найрамдах улс",
+    "hanja": "共和國",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "공화제",
+    "translation": "бүгд найрамдах улс",
+    "hanja": "共和制",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "공황",
+    "translation": "Хямрал, паник",
+    "hanja": "恐慌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "공회",
+    "translation": "нийтийн хурал",
+    "hanja": "公會",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "공후",
+    "translation": "хуучин төрлийн ятга",
+    "hanja": "箜篌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공훈",
+    "translation": "гавьяа",
+    "hanja": "功勳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "공휴일",
+    "translation": "нийтийн амралтын өдөр",
+    "hanja": "公休日",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "공히",
+    "translation": "нийтээрээ, хамтаараа",
+    "hanja": "共히",
+    "pos": "부사",
+    "cefr": "C1"
+  }
+]

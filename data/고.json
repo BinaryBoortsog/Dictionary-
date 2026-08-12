@@ -1,0 +1,3873 @@
+[
+  {
+    "word": "고",
+    "translation": "өндөр",
+    "hanja": "高",
+    "pos": "prefix",
+    "cefr": "B1"
+  },
+  {
+    "word": "고가",
+    "translation": "өндөр үнэ",
+    "hanja": "高價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고가구",
+    "translation": "Эртний эдлэл",
+    "hanja": "古家具",
+    "pos": "Нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "고가품",
+    "translation": "үнэтэй бараа",
+    "hanja": "高價品",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고각",
+    "translation": "өндөр өнцөг",
+    "hanja": "高角",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고갈",
+    "translation": "хоосрох, шавхагдах",
+    "hanja": "枯竭",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고갈되다",
+    "translation": "шавхагдах, дуусах",
+    "hanja": "枯渴되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고감도",
+    "translation": "өндөр мэдрэмжтэй",
+    "hanja": "高感度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고강",
+    "translation": "чанартай, нягт",
+    "hanja": "高剛",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고강도",
+    "translation": "өндөр хүчдэл",
+    "hanja": "高強度",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고개",
+    "translation": "Толгой (хүндэтгэлийн бус)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고객",
+    "translation": "хэрэглэгч, үйлчлүүлэгч",
+    "hanja": "顧客",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고갯길",
+    "translation": "давааны зам",
+    "hanja": null,
+    "pos": "명사 (Noun)",
+    "cefr": "B1"
+  },
+  {
+    "word": "고갯마루",
+    "translation": "далангийн орой, нурууны орой",
+    "hanja": "고갯마루",
+    "pos": "NOUN",
+    "cefr": "B2"
+  },
+  {
+    "word": "고갯짓",
+    "translation": "толгой дохих",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고갯짓하다",
+    "translation": "толгойгоо хөдөлгөх",
+    "hanja": "고갯짓하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고갱",
+    "translation": "Гоген",
+    "hanja": "古今",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고거",
+    "translation": "Хуучин үеийн",
+    "hanja": "古居",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고검",
+    "translation": "Дээд шүүх",
+    "hanja": "高檢",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "고것",
+    "translation": "тэр зүйл",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고견",
+    "translation": "гүн ухаан",
+    "hanja": "高見",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고결",
+    "translation": "үнэнч",
+    "hanja": "高潔",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고결하다",
+    "translation": "Эрхэмсэг",
+    "hanja": "高潔하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고고",
+    "translation": "Археологи",
+    "hanja": "考古",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고고하다",
+    "translation": "хүндэтгэлтэй, даруухан",
+    "hanja": "高高하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고고학",
+    "translation": "археологи",
+    "hanja": "考古學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고고학자",
+    "translation": "Археологич",
+    "hanja": "考古學者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고고학적",
+    "translation": "археологийн",
+    "hanja": "考古學的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고고히",
+    "translation": "дээшээ",
+    "hanja": "高高히",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고공",
+    "translation": "өндөр тэнгэр",
+    "hanja": "高空",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고과",
+    "translation": "үнэлгээ, гүйцэтгэлийн үнэлгээ",
+    "hanja": "考課",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고관",
+    "translation": "Өндөр албан тушаалтай хүн",
+    "hanja": "高官",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고관대작",
+    "translation": "өндөр албан тушаалтан, их тушаалтан",
+    "hanja": "高官大爵",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "고교",
+    "translation": "ахлах сургууль",
+    "hanja": "高校",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고교생",
+    "translation": "Ахлах сургуулийн сурагч",
+    "hanja": "高校生",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고구",
+    "translation": "хөгшин найз",
+    "hanja": "故舊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고구레다",
+    "translation": "бүдгэрсэн",
+    "hanja": "고구레다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "고구려",
+    "translation": "Когурё",
+    "hanja": "高句麗",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고구마",
+    "translation": "амтат төмс",
+    "hanja": "高句—",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고국",
+    "translation": "Эх орон",
+    "hanja": "故國",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고국원왕",
+    "translation": "Когуквон ван",
+    "hanja": "故國原王",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고군분투",
+    "translation": "ганцаараа тэмцэх",
+    "hanja": "孤軍奮鬪",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고군분투하다",
+    "translation": "ганцаараа тэмцэх",
+    "hanja": "孤軍奮鬪하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고궁",
+    "translation": "хуучин ордон",
+    "hanja": "古宮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고귀하다",
+    "translation": "Энэрэнгүй",
+    "hanja": "高貴하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고글",
+    "translation": "нүдний шил",
+    "hanja": "goggle",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "고금",
+    "translation": "хуучин ба шинэ",
+    "hanja": "古今",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고금리",
+    "translation": "өндөр хүү",
+    "hanja": "高金利",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고급",
+    "translation": "дээд зэргийн",
+    "hanja": "高級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고급반",
+    "translation": "ахисан түвшний анги",
+    "hanja": "高級班",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고급스럽다",
+    "translation": "тансаг",
+    "hanja": "高級스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "고급지다",
+    "translation": "чамин, тансаг",
+    "hanja": "高級-",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고급품",
+    "translation": "чанартай бүтээгдэхүүн",
+    "hanja": "高級品",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고급하다",
+    "translation": "өндөр зэрэглэлийн",
+    "hanja": "高級하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고급화",
+    "translation": "тансаг хэрэглээний түвшинд хүргэх",
+    "hanja": "高級化",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고급화되다",
+    "translation": "тансаг байдалд шилжих",
+    "hanja": "高級化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고급화하다",
+    "translation": "Дээд зэргийн болгох",
+    "hanja": "高級化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고기능",
+    "translation": "өндөр хүчин чадалтай",
+    "hanja": "高機能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고기밥",
+    "translation": "махны хоол",
+    "hanja": "None",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고기압",
+    "translation": "Өндөр даралт (агаарын)",
+    "hanja": "高氣壓",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고기잡이",
+    "translation": "загасчлах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고기잡이배",
+    "translation": "загас агнуурын завь",
+    "hanja": "고기잡이배",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고깃간",
+    "translation": "махны мухлаг",
+    "hanja": "고깃간",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고깃값",
+    "translation": "Махны үнэ",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고깃국",
+    "translation": "махны шөл",
+    "hanja": "",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "고깃덩어리",
+    "translation": "махны талх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고깃덩이",
+    "translation": "махны талх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고깃배",
+    "translation": "зави",
+    "hanja": "Q",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고깃집",
+    "translation": "махны газар, махны ресторан",
+    "hanja": "고깃집",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고깔",
+    "translation": "конус хэлбэрийн малгай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고깝다",
+    "translation": "Гомдолтой, дургүй хүрэм",
+    "hanja": "고깝다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "고깟",
+    "translation": "Тэрхүү төдийхөн",
+    "hanja": null,
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고꾸라지다",
+    "translation": "унаж унах, бөхийн унах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고난",
+    "translation": "зовлон",
+    "hanja": "苦難",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고난도",
+    "translation": "өндөр хүндрэлтэй, их хүндрэлтэй",
+    "hanja": "高難度",
+    "pos": "n",
+    "cefr": "C1"
+  },
+  {
+    "word": "고남",
+    "translation": "хуучин эрэгтэй",
+    "hanja": "古男",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고낭",
+    "translation": "эртний дуучин",
+    "hanja": "古娘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고냥",
+    "translation": "муур",
+    "hanja": "고냥",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고너",
+    "translation": "көөр (хонь)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고년",
+    "translation": "тэр жил",
+    "hanja": "고年",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고노",
+    "translation": "хуучин талх",
+    "hanja": "古奴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고놈",
+    "translation": "тэр залуу",
+    "hanja": null,
+    "pos": "대명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고뇌",
+    "translation": "зовлон",
+    "hanja": "苦惱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고뇌하다",
+    "translation": "зовних",
+    "hanja": "苦惱하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고누",
+    "translation": "гону",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고니",
+    "translation": "Хуну",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고다",
+    "translation": "удаан чанах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고다르",
+    "translation": "Годар (Жан-Люк Годар)",
+    "hanja": "Godard",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고단",
+    "translation": "ядарсан, цуцсан",
+    "hanja": "苦團",
+    "pos": "adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "고단백",
+    "translation": "өндөр уураг",
+    "hanja": "高蛋白",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고단백질",
+    "translation": "өндөр уураг",
+    "hanja": "高蛋白質",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고단수",
+    "translation": "өндөр түвшний",
+    "hanja": "高段數",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고단하다",
+    "translation": "ядарсан, цуцсан",
+    "hanja": "苦難하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고달프다",
+    "translation": "Ядарч туйлдаж байна",
+    "hanja": null,
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "고담",
+    "translation": "эртний яриа",
+    "hanja": "古談",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고대",
+    "translation": "Эртний үе",
+    "hanja": "古代",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고대인",
+    "translation": "эртний хүн",
+    "hanja": "古代人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고대하다",
+    "translation": "Хүлээх, тэсэн ядан хүлээх",
+    "hanja": "苦待하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고더드",
+    "translation": "Гаддард",
+    "hanja": "고더드",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고덕",
+    "translation": "Өндөр ёс суртахуун",
+    "hanja": "高德",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고도",
+    "translation": "Өндөр",
+    "hanja": "高度",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고도리",
+    "translation": "Годори (хөзрийн тоглоом)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고도화",
+    "translation": "өндөр түвшинд хүргэх",
+    "hanja": "高度化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고도화되다",
+    "translation": "хөгжих; шинэчлэгдэх",
+    "hanja": "高度化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고도화하다",
+    "translation": "дэвшилтэт болгох",
+    "hanja": "高度化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고독",
+    "translation": "Ганцаардал",
+    "hanja": "孤獨",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고독감",
+    "translation": "ганцаардал",
+    "hanja": "孤獨感",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고독사하다",
+    "translation": "ганцаараа нас барах",
+    "hanja": "孤獨死하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고독하다",
+    "translation": "Ганцаардах",
+    "hanja": "孤獨하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고동",
+    "translation": "зүрхний цохилт, дун",
+    "hanja": "鼓動",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고동색",
+    "translation": "хар хүрэн өнгө",
+    "hanja": "鼓動色",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고동치다",
+    "translation": "цохилох",
+    "hanja": "鼓動치다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "고되다",
+    "translation": "хэцүү, бэрхшээлтэй",
+    "hanja": "고되다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고두",
+    "translation": "Толгой бөхийх/сөгдөх",
+    "hanja": "叩頭",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "고두밥",
+    "translation": "хатуу будаа",
+    "hanja": "고두밥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고둥",
+    "translation": "хясаа",
+    "hanja": "Q",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고드름",
+    "translation": "мөсөн гоожуур",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고드윈",
+    "translation": "Годвин (хүний нэр)",
+    "hanja": "고드윈",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고든",
+    "translation": "Гордон",
+    "hanja": "Gordon",
+    "pos": "고유명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고등",
+    "translation": "дээд",
+    "hanja": "高等",
+    "pos": "관형사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고등어",
+    "translation": "хулд загас",
+    "hanja": "고등어",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고등중학교",
+    "translation": "ахлах дунд сургууль",
+    "hanja": "高等中學校",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고등하다",
+    "translation": "Дээд зэргийн",
+    "hanja": "高等하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "고등학교",
+    "translation": "ахлах сургууль",
+    "hanja": "高等學校",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고등학생",
+    "translation": "Ахлах сургуулийн сурагч",
+    "hanja": "高等學生",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "고디",
+    "translation": "дунд зэргийн хясаа",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "고딕",
+    "translation": "готик",
+    "hanja": "Gothic",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고딩",
+    "translation": "ахлах ангийн сурагч (ярианы)",
+    "hanja": null,
+    "pos": "мüns",
+    "cefr": "A2"
+  },
+  {
+    "word": "고따위",
+    "translation": "Тэр мэт",
+    "hanja": "고따위",
+    "pos": "관형사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고딴",
+    "translation": "тиймэрхүү, иймэрхүү",
+    "hanja": null,
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고라니",
+    "translation": "согоо",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고라이",
+    "translation": "Корай (Японы угсаатан)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고락",
+    "translation": "зовлон ба жаргал",
+    "hanja": "苦樂",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고랑",
+    "translation": "Ховил, суваг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고래",
+    "translation": "халим",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "고래고래",
+    "translation": "чангаар",
+    "hanja": "N/A",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고래잡이",
+    "translation": "Халим барих",
+    "hanja": "고래잡이",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고랭지",
+    "translation": "өндөрлөг газар",
+    "hanja": "高冷地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고량",
+    "translation": "улаан будаа, сорго",
+    "hanja": "高粱",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고렇다",
+    "translation": "тийм, ийм",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고레",
+    "translation": "коре",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고레스",
+    "translation": "Кирус",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고려",
+    "translation": "анхаарах",
+    "hanja": "考慮",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고려되다",
+    "translation": "тооцогдох, харгалзагдах",
+    "hanja": "고려되다(考慮되다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고려장",
+    "translation": "Солонгосын эртний заншил (хөгшин хүнийг алс хол орхих)",
+    "hanja": "高麗葬",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고려청자",
+    "translation": "Гурёогийн цэнхэр шавар",
+    "hanja": "高麗靑瓷",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고려하다",
+    "translation": "анхаарах",
+    "hanja": "考慮하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고령",
+    "translation": "өндөр нас",
+    "hanja": "高齡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고령자",
+    "translation": "хөгшин",
+    "hanja": "高齡者",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고령화",
+    "translation": "хүн ам хөгшрөх",
+    "hanja": "高齡化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고령화되다",
+    "translation": "хүн ам хөгшрөх",
+    "hanja": "高齡化되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고로",
+    "translation": "улмаар, тиймээс",
+    "hanja": "故로",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고로쇠",
+    "translation": "агч модны шүүс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고로케",
+    "translation": "Крокет",
+    "hanja": "Croquette",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고롱고롱",
+    "translation": "хурхирах чимээ",
+    "hanja": "고롱고롱",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고료",
+    "translation": "зохиолын хөлс",
+    "hanja": "稿料",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고루",
+    "translation": "хуучинсаг",
+    "hanja": "固陋",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고루고루",
+    "translation": "тэгшхэн",
+    "hanja": "고루고루",
+    "pos": "Adverb",
+    "cefr": "A2"
+  },
+  {
+    "word": "고루하다",
+    "translation": "хуучинсаг, хуучин маягийн",
+    "hanja": "固陋하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고르",
+    "translation": "Гул",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고르곤졸라피자",
+    "translation": "горгонзола пицца",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고르다",
+    "translation": "сонгох",
+    "hanja": "고르다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고름",
+    "translation": "идээ, шар ус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고리",
+    "translation": "цагираг, гогцоо",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고리대금업",
+    "translation": "хүүтэй мөнгө зээлэх",
+    "hanja": "高利貸金業",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고리대금업자",
+    "translation": "Мөнгө хүүлэгч",
+    "hanja": "高利貸金業者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고리키",
+    "translation": " Горький",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고리타분하다",
+    "translation": "хуучинсаг",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고린내",
+    "translation": "хурц үнэр",
+    "hanja": "고린내",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고린도",
+    "translation": "Коринт",
+    "hanja": "고린도",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "고릴라",
+    "translation": "Горилла",
+    "hanja": "고릴라",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고립",
+    "translation": "Тусгаарлагдах",
+    "hanja": "孤立",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고립감",
+    "translation": "ганцаардлын мэдрэмж",
+    "hanja": "孤立感",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고립되다",
+    "translation": "Тусгаарлагдах",
+    "hanja": "孤立되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "고립시키다",
+    "translation": "тусгаарлах",
+    "hanja": "孤立시키다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "고립하다",
+    "translation": "туйлын ганцаардах",
+    "hanja": "孤立-",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고릿적",
+    "translation": "эртний цаг",
+    "hanja": "고릿적",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고마쓰",
+    "translation": "Комацү",
+    "hanja": "小松",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고마움",
+    "translation": "талархал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고마워하다",
+    "translation": "талархах",
+    "hanja": "고마워하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고마하다",
+    "translation": "Зогсоох, болиулах",
+    "hanja": "姑媽하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "고만",
+    "translation": "Тэгээд л болсон",
+    "hanja": "고만",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고만고만하다",
+    "translation": "ижил төстэй",
+    "hanja": "고만고만하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고만두다",
+    "translation": "болих",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고만하다",
+    "translation": "болих",
+    "hanja": "姑萬하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고맙다",
+    "translation": "баярлалаа",
+    "hanja": "고맙다",
+    "pos": "형용사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고매",
+    "translation": "өндөр үнэтэй, ариун",
+    "hanja": "高邁",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "고매하다",
+    "translation": "гэгээнтэн, үлэмж, дээд зэргийн",
+    "hanja": "高邁하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고메",
+    "translation": "гурман, хоолны амт мэддэг хүн",
+    "hanja": null,
+    "pos": "м.н.",
+    "cefr": "B2"
+  },
+  {
+    "word": "고명",
+    "translation": "хачир",
+    "hanja": "高明",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고명딸",
+    "translation": "ганц охин",
+    "hanja": "孤明딸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고명하다",
+    "translation": "алдартай",
+    "hanja": "高名--",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "고모",
+    "translation": "эмэгтэй талын авга",
+    "hanja": "姑母",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "고모라",
+    "translation": "Гоморра",
+    "hanja": "Gomorrha",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고모부",
+    "translation": "эгчийн нөхөр",
+    "hanja": "姑母夫",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "고목",
+    "translation": "хуучин мод",
+    "hanja": "枯木",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고목나무",
+    "translation": "хуучин мод",
+    "hanja": "古木나무",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고무",
+    "translation": "резин, урам зориг өгөх",
+    "hanja": "고무",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고무공",
+    "translation": "Резин бөмбөг",
+    "hanja": "고무공",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고무관",
+    "translation": "резин хоолой, резин гуурс",
+    "hanja": "고무管",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고무나무",
+    "translation": "резин мод",
+    "hanja": "고무나무",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고무되다",
+    "translation": "урамших, дэмжигдэх",
+    "hanja": "鼓舞되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고무마개",
+    "translation": "резин бөглөө",
+    "hanja": "고무마개",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고무보트",
+    "translation": "резин завь",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고무신",
+    "translation": "резин шаахай",
+    "hanja": "고무신",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "고무장갑",
+    "translation": "Резинен бээлий",
+    "hanja": "고무掌匣",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고무적",
+    "translation": "урам өгөх, дэмжих",
+    "hanja": "鼓舞的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고무줄",
+    "translation": "Резинэн утас",
+    "hanja": "고무줄",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고무줄놀이",
+    "translation": "резинэн олсоор тоглох",
+    "hanja": "고무줄놀이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고무찰흙",
+    "translation": "резин шавар",
+    "hanja": "고무찰흙",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고무판",
+    "translation": "резинэн хавтан",
+    "hanja": "고무板",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고무풍선",
+    "translation": "резин бөмбөлөг",
+    "hanja": "고무風船",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "고무하다",
+    "translation": "урамшуулах; дэмжих",
+    "hanja": "鼓舞하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고무호스",
+    "translation": "резин хоолой",
+    "hanja": "고무hose",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고문",
+    "translation": "эрүүдэн шүүх",
+    "hanja": "拷問",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고문관",
+    "translation": "зөвлөх офицер; ахлах зөвлөх",
+    "hanja": "顧問官",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고문당하다",
+    "translation": "эрүүдэн шүүлгэх",
+    "hanja": "拷問當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고문서",
+    "translation": "эртний бичиг баримт",
+    "hanja": "古文書",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고문실",
+    "translation": "тамлуур, эрүүдэн шүүх өрөө",
+    "hanja": "拷問室",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고문하다",
+    "translation": "эрүүдэн шүүх",
+    "hanja": "拷問하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고문헌",
+    "translation": "эртний бичгийн дурсгал",
+    "hanja": "古文獻",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고물",
+    "translation": "хуучин эд зүйлс",
+    "hanja": "故物",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고물가",
+    "translation": "өндөр үнэ",
+    "hanja": "高物價",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고물딱지",
+    "translation": "Хуучин эдлэл, хог",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고물상",
+    "translation": "хуучин эдлэлийн дэлгүүр",
+    "hanja": "古物商",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고미",
+    "translation": "бэрхшээл, зовлон",
+    "hanja": "苦味",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고민",
+    "translation": "санаа зовох",
+    "hanja": "苦悶",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고민거리",
+    "translation": "Сэтгэлийн зовлон",
+    "hanja": "苦悶거리",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고민되다",
+    "translation": "Зовох",
+    "hanja": "苦悶되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고민스럽다",
+    "translation": "Сэтгэл зовоосон",
+    "hanja": "苦悶스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고민하다",
+    "translation": "бодох",
+    "hanja": "苦悶─",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "고밀도",
+    "translation": "өндөр нягтралтай",
+    "hanja": "高密度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고밀화되다",
+    "translation": "өндөр нягтралтай болох",
+    "hanja": "高密化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고바야시",
+    "translation": "Кобаяши",
+    "hanja": "小林",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고바우",
+    "translation": "гобау (инээдмийн киноны нэгэн дүр)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고박",
+    "translation": "хөгшин байдал, хуучинсаг байдал",
+    "hanja": "固朴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고발",
+    "translation": "гомдол гаргах",
+    "hanja": "告發",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고발당하다",
+    "translation": "гомдол гаргах, яллагдах",
+    "hanja": "告發當하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고발되다",
+    "translation": "Илчлэгдэх, мэдээлэгдэх",
+    "hanja": "告發되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고발인",
+    "translation": "Хохирогч",
+    "hanja": "告發人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고발자",
+    "translation": "гомдол гаргагч",
+    "hanja": "告發者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고발장",
+    "translation": "гомдлын бичиг",
+    "hanja": "告發狀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고발하다",
+    "translation": "зангасна",
+    "hanja": "告發하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고방",
+    "translation": "хуучин өрөө",
+    "hanja": "古房",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고배",
+    "translation": "гашуун ялагдал",
+    "hanja": "苦杯",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고백",
+    "translation": "гэмшлийн",
+    "hanja": "告白",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고백하다",
+    "translation": "илчлэх, хүлээн зөвшөөрөх",
+    "hanja": "告白하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고법",
+    "translation": "дээд шүүх",
+    "hanja": "高法",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고베",
+    "translation": "Кобе",
+    "hanja": "고베",
+    "pos": "Noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "고변",
+    "translation": "мэдэгдэх, ил гаргах",
+    "hanja": "告變",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고변하다",
+    "translation": "өгүүлэх, мэдээлэх",
+    "hanja": "告變하다",
+    "pos": "verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "고별",
+    "translation": "баяртай гэж хэлэх",
+    "hanja": "告別",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고보",
+    "translation": "мэдээллийн самбар",
+    "hanja": "告知",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고봉",
+    "translation": "Өндөр оргил",
+    "hanja": "高峰",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고부",
+    "translation": "эхнэр нөхөр, хадам эх, бэр хоёр",
+    "hanja": "姑婦",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고부간",
+    "translation": "хадам эх болон бэр хоёрын хоорондын харилцаа",
+    "hanja": "姑婦間",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고분",
+    "translation": "хуучин булш",
+    "hanja": "古墳",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고분고분",
+    "translation": "дуулгавартай, даруухан",
+    "hanja": "고분고분",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "고분고분하다",
+    "translation": "Дуулгавартай, гүргэр",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고블",
+    "translation": "Коболд",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고블린",
+    "translation": "мангас",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고비",
+    "translation": "Хүнд үе, эгзэгтэй мөч",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고비고비",
+    "translation": "үе үе",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고뿔",
+    "translation": "ханиад",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고삐",
+    "translation": "хүч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고사",
+    "translation": "тэмдэглэх, ёслол",
+    "hanja": "告祀",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고사리",
+    "translation": "ойн сальмон",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고사성어",
+    "translation": "эртний үг хэллэг",
+    "hanja": "故事成語",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고사이",
+    "translation": "тэр хооронд",
+    "hanja": "그사이",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고사장",
+    "translation": "шалгалтын газар",
+    "hanja": "考査場",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고사하다",
+    "translation": "Маш хөгшин",
+    "hanja": "枯死하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "고산",
+    "translation": "өндөр уул",
+    "hanja": "高山",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고산병",
+    "translation": "уулын өвчин",
+    "hanja": "高山病",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고산자",
+    "translation": "Өндөр уулын хүн",
+    "hanja": "高山者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고살",
+    "translation": "Эхлэл",
+    "hanja": "高殺",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고상",
+    "translation": "язгууртан, гоёмсог",
+    "hanja": "高尙",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고상하다",
+    "translation": "Язгууртан, дээд зиндааны",
+    "hanja": "高尙하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고새",
+    "translation": "хурдан",
+    "hanja": "고새",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고색창연하다",
+    "translation": "эртний өнгө төрхтэй, хуучирсан",
+    "hanja": "古色蒼然하다",
+    "pos": "형용사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고생",
+    "translation": "зовлон, хүнд хэцүү байдал",
+    "hanja": "苦生",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고생고생",
+    "translation": "маш их зовлон / үргэлж зовлонтой байх",
+    "hanja": "苦生苦生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고생고생하다",
+    "translation": "маш их зовох",
+    "hanja": "苦生苦生하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고생길",
+    "translation": "бэрхшээлтэй амьдрал/зам",
+    "hanja": "苦生길",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고생대",
+    "translation": "Палеозойн эрин",
+    "hanja": "古生代",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "고생물",
+    "translation": "чулуужсан амьтан",
+    "hanja": "古生物",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고생스럽다",
+    "translation": "хэцүү",
+    "hanja": "苦生스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "고생하다",
+    "translation": "Зовох, шаналах",
+    "hanja": "苦生하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고서",
+    "translation": "хуучин ном",
+    "hanja": "古書",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고서적",
+    "translation": "эртний ном; хуучин ном",
+    "hanja": "古書籍",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고서점",
+    "translation": "хуучин номын дэлгүүр",
+    "hanja": "古書店",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고석",
+    "translation": "Хуучин чулуу",
+    "hanja": "古石",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고성",
+    "translation": "чанга дуу",
+    "hanja": "高聲",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고성능",
+    "translation": "өндөр хүчин чадалтай",
+    "hanja": "高性能",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고성방가",
+    "translation": "Чанга дуугаар дуулах (замбараагүй)",
+    "hanja": "高聲放歌",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고세",
+    "translation": "Гуссе",
+    "hanja": "固稅",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고소",
+    "translation": "гомдол, нэхэмжлэл (шүүхэд)",
+    "hanja": "告訴",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고소당하다",
+    "translation": "заргадуулах",
+    "hanja": "告訴當하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "고소되다",
+    "translation": "гомдол гаргах",
+    "hanja": "告訴되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고소득",
+    "translation": "өндөр орлого",
+    "hanja": "高所得",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고소득층",
+    "translation": "өндөр орлоготой давхарга",
+    "hanja": "高所得層",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고소리",
+    "translation": "чимээ гаргах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고소인",
+    "translation": "гомдол гаргагч",
+    "hanja": "告訴人",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고소장",
+    "translation": "Гомдол",
+    "hanja": "告訴狀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고소하다",
+    "translation": "Шүүхэд өгөх, гомдол гаргах",
+    "hanja": "告訴하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고속",
+    "translation": "өндөр хурд",
+    "hanja": "高速",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고속버스",
+    "translation": "хурдны автобус",
+    "hanja": "高速버스",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고속정",
+    "translation": "хурдны завь, хурдны усан онгоц",
+    "hanja": "高速艇",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고속철",
+    "translation": "хурдны галт тэрэг",
+    "hanja": "高速鐵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고솝다",
+    "translation": "амттай, тааламжтай",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고쇼",
+    "translation": "Гоу Шоу",
+    "hanja": null,
+    "pos": "명사 (Noun)",
+    "cefr": "C1"
+  },
+  {
+    "word": "고수",
+    "translation": "Мэргэжилтэн, шилдэг",
+    "hanja": "高手",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고수레",
+    "translation": "талх, самбай, шош зэрэг хоолны дээжийг гадагш хаях ёслол",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고수부지",
+    "translation": "голын эрэг дагуух газар",
+    "hanja": "高水敷地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고수익",
+    "translation": "өндөр ашиг",
+    "hanja": "高收益",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고수하다",
+    "translation": "Мөрдөх",
+    "hanja": "固守하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고스",
+    "translation": "готик (хөгжмийн төрөл)",
+    "hanja": "고스",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고스란이",
+    "translation": "Бүрэн бүтнээр",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고스란히",
+    "translation": "бүрэн бүтэн, яг тэр чигээрээ",
+    "hanja": "고스란히",
+    "pos": "Adverb",
+    "cefr": "C1"
+  },
+  {
+    "word": "고스톱",
+    "translation": "го-стоп",
+    "hanja": "—",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고스트",
+    "translation": "сүнс",
+    "hanja": "ghost",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고스팅",
+    "translation": "призрак",
+    "hanja": "고스팅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고슬고슬",
+    "translation": "Эгэл",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고슬고슬하다",
+    "translation": "ширхэгтэй, үйрмэг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고슴도치",
+    "translation": "зараа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고승",
+    "translation": "өндөр үнэлэлт",
+    "hanja": "高僧",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고시",
+    "translation": "нийтийн шалгалт",
+    "hanja": "考試",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고시되다",
+    "translation": "зарлагдах",
+    "hanja": "告示되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고시생",
+    "translation": "шалгалтад бэлдэж буй оюутан",
+    "hanja": "考試生",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고시엔",
+    "translation": "Кошиэн (Японы бейсболын цэнгэлдэх хүрээлэн)",
+    "hanja": "甲子園",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고시원",
+    "translation": "жижиг өрөөтэй байр",
+    "hanja": "考試院",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고시하다",
+    "translation": "зарлах, нийтлэх",
+    "hanja": "告示하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고신",
+    "translation": "хүнд шалгалт",
+    "hanja": "苦辛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고심",
+    "translation": "бодол",
+    "hanja": "苦心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고심하다",
+    "translation": "Гүн бодлогоширох",
+    "hanja": "苦心하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고씨",
+    "translation": "Ко овогт",
+    "hanja": "高氏",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고아",
+    "translation": "өндөр наслалт",
+    "hanja": "高雅",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고아내다",
+    "translation": "Шүүж гаргах, ялган гаргах",
+    "hanja": "고아내다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고아원",
+    "translation": "Хүүхдийн асрамжийн газар",
+    "hanja": "孤兒院",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고아하다",
+    "translation": "цэлмэг, цэвэрхэн",
+    "hanja": "高雅하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고안",
+    "translation": "зохион бүтээх",
+    "hanja": "考案",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고안되다",
+    "translation": "зохиогдох",
+    "hanja": "考案되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "고안하다",
+    "translation": "зохион бүтээх, санаачлах",
+    "hanja": "考案하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고압",
+    "translation": "өрөг өндөр, дарангуйлал",
+    "hanja": "高壓",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고압선",
+    "translation": "өндөр хүчдэлийн шугам",
+    "hanja": "高壓線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고압적",
+    "translation": "дарангуйлагч",
+    "hanja": "高壓的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고애",
+    "translation": "хатуу хайр",
+    "hanja": "苦愛",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "고액",
+    "translation": "өндөр үнэ",
+    "hanja": "高額",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고액권",
+    "translation": "өндөр үнийн дэвсгэрт",
+    "hanja": "高額券",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고앵이",
+    "translation": "Муур (аялгуу буюу хуучны хэллэг)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고야",
+    "translation": "Гөүяа",
+    "hanja": "高野",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고약",
+    "translation": "хайлдаг / муухай",
+    "hanja": "膏藥",
+    "pos": "명사 / 형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고약하다",
+    "translation": "муухай, эвгүй",
+    "hanja": "固約하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고양",
+    "translation": "Өргөмжлөх, хөгжүүлэх",
+    "hanja": "高揚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고양되다",
+    "translation": "өдөөгдөх, сэргэх",
+    "hanja": "高揚되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고양이",
+    "translation": "Муур",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "고양잇과",
+    "translation": "муурынхан овог",
+    "hanja": "고양잇科",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고양하다",
+    "translation": "өргөмжлөх, дээшлүүлэх",
+    "hanja": "高揚하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고어",
+    "translation": "хуучин үг",
+    "hanja": "古語",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고어텍스",
+    "translation": "горетэкс",
+    "hanja": "고어텍스",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고언",
+    "translation": "зөвлөгөө, ухаалаг үг",
+    "hanja": "苦言",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고에",
+    "translation": "хуучин цагт, эрт цагт",
+    "hanja": "古에",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고역",
+    "translation": "хүнд хөдөлмөр",
+    "hanja": "苦役",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고역스럽다",
+    "translation": "Ажил хүнд, хэцүү",
+    "hanja": "苦役스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고연",
+    "translation": "тэгэлгүй яахав",
+    "hanja": "固然",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고열",
+    "translation": "Өндөр халуун",
+    "hanja": "高熱",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고영",
+    "translation": "Хуучин сүүдэр",
+    "hanja": "孤影",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고온",
+    "translation": "өндөр температур",
+    "hanja": "高溫",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고요",
+    "translation": "чимээгүй байдал",
+    "hanja": "고요",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고요하다",
+    "translation": "чимээгүй, амар тайван",
+    "hanja": "고요-",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고요히",
+    "translation": "чимээгүй, амар тайван",
+    "hanja": "高요히",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고용",
+    "translation": "Ажиллуулах",
+    "hanja": "雇傭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고용되다",
+    "translation": "ажилд орох, хөлслөгдөх",
+    "hanja": "雇用되다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "고용원",
+    "translation": "ажилтан",
+    "hanja": "雇用員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고용인",
+    "translation": "ажилтан, хөлслөгч",
+    "hanja": "雇傭人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고용자",
+    "translation": "Ажил олгогч",
+    "hanja": "雇用者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고용주",
+    "translation": "ажил олгогч",
+    "hanja": "雇用主",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고용하다",
+    "translation": "Ажилд авах",
+    "hanja": "雇用하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고우",
+    "translation": "үзэсгэлэнтэй",
+    "hanja": "高優",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고운",
+    "translation": "хөөрхөн",
+    "hanja": "고운",
+    "pos": "Adjective",
+    "cefr": "A2"
+  },
+  {
+    "word": "고원",
+    "translation": "өндөрлөг, талбар газар",
+    "hanja": "高原",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고위",
+    "translation": "өндөр тушаалтай",
+    "hanja": "高位",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고위급",
+    "translation": "Өндөр албан тушаалтай",
+    "hanja": "高位級",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고위도",
+    "translation": "өндөр өргөрөг",
+    "hanja": "高緯度",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고위직",
+    "translation": "өндөр албан тушаал",
+    "hanja": "高位職",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고위층",
+    "translation": "өндөр албан тушаалтай хүмүүс",
+    "hanja": "高位層",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고유",
+    "translation": "онцгой, өвөрмөц",
+    "hanja": "固有",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고유성",
+    "translation": "өвөрмөц байдал, онцлог",
+    "hanja": "固有性",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고유어",
+    "translation": "уугуул үг",
+    "hanja": "固有語",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고유하다",
+    "translation": "өөрийн, онцгой, өвөрмөц",
+    "hanja": "固有하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고육지책",
+    "translation": "өөрийгөө золиослох тактик",
+    "hanja": "苦肉之策",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고율",
+    "translation": "өндөр хувь хэмжээ",
+    "hanja": "高率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고을",
+    "translation": "Баг, хөдөө орон нутаг, хот",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고음",
+    "translation": "өндөр дуу",
+    "hanja": "高音",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고음질",
+    "translation": "өндөр чанартай дуу",
+    "hanja": "高音質",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고음하다",
+    "translation": "өндөр дуугаар дуулах",
+    "hanja": "高音하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고의",
+    "translation": "санаатай",
+    "hanja": "故意",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고의적",
+    "translation": "санаатай, зориудын",
+    "hanja": "故意的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고이",
+    "translation": "Нам гүмхэн, чандлан",
+    "hanja": "고이",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고이고이",
+    "translation": "Сайтар, нарийн",
+    "hanja": "고이고이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고이다",
+    "translation": "хуримтлагдах",
+    "hanja": "고이다",
+    "pos": "ү",
+    "cefr": "B2"
+  },
+  {
+    "word": "고이하다",
+    "translation": "гайхах",
+    "hanja": "怪異하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고익",
+    "translation": "өндөр ашиг",
+    "hanja": "高益",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고인",
+    "translation": "талийгаач",
+    "hanja": "故人",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고인돌",
+    "translation": "Дольмен",
+    "hanja": "고인돌",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고인물",
+    "translation": "тундмал ус",
+    "hanja": "고인물",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고일",
+    "translation": "хурсан",
+    "hanja": "고일",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "고임금",
+    "translation": "өндөр цалин",
+    "hanja": "高賃金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고입",
+    "translation": "дунд сургуульд орох",
+    "hanja": "高入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고자",
+    "translation": "хүчгүй",
+    "hanja": "鼓子",
+    "pos": "мөн",
+    "cefr": "C1"
+  },
+  {
+    "word": "고자질",
+    "translation": "хов зөөх",
+    "hanja": "고자질",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고자질하다",
+    "translation": "ховлох",
+    "hanja": "고자질하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "고작",
+    "translation": "ердөө л, дөнгөж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고장",
+    "translation": "гэмтэл, эвдрэл",
+    "hanja": "故障",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고쟁이",
+    "translation": "урт дотуур өмд (уламжлалт)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고저",
+    "translation": "өндөр нам",
+    "hanja": "高低",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고적",
+    "translation": "Эртний дурсгал, хуучин тэмдэглэл",
+    "hanja": "古蹟",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고적대",
+    "translation": "үлдсэн баг",
+    "hanja": "鼓笛隊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고적하다",
+    "translation": "Эртний, эртний дурсгалтай",
+    "hanja": "古跡하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "고전",
+    "translation": "сонгодог зохиол",
+    "hanja": "古典",
+    "pos": "м.н",
+    "cefr": "B2"
+  },
+  {
+    "word": "고전적",
+    "translation": "Сонгодог",
+    "hanja": "古典的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고전주의",
+    "translation": "сонгодог үзэл",
+    "hanja": "古典主義",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고전하다",
+    "translation": "тэмцэх, хүндрэх",
+    "hanja": "苦戰하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "고점",
+    "translation": "Оргил үе",
+    "hanja": "高點",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고정",
+    "translation": "тогтмол",
+    "hanja": "固定",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고정되다",
+    "translation": "Тогтмол байх",
+    "hanja": "固定되다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "고정불변",
+    "translation": "тогтвортой, өөрчлөгдөхгүй",
+    "hanja": "固定不變",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고정적",
+    "translation": "тогтмол",
+    "hanja": "固定的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고정하다",
+    "translation": "бэхлэх",
+    "hanja": "固定하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고정화",
+    "translation": "тогтворжуулалт",
+    "hanja": "固定化",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고정화되다",
+    "translation": "тогтож, өөрчлөгдөхгүй болох",
+    "hanja": "固定化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고제",
+    "translation": "эртний систем",
+    "hanja": "古制",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고조",
+    "translation": "өндөрлөг",
+    "hanja": "高潮",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고조되다",
+    "translation": "хүчтэй болгох",
+    "hanja": "高潮되다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "고조모",
+    "translation": "элэнц эмээ",
+    "hanja": "高祖母",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고조부",
+    "translation": "өндөр өвөө",
+    "hanja": "高祖父",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고조선",
+    "translation": "Кочосон",
+    "hanja": "古朝鮮",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고조할머니",
+    "translation": "элэнц эмээ",
+    "hanja": "高祖할머니",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고조할아버지",
+    "translation": "Элэнц өвөө",
+    "hanja": "高祖할아버지",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고졸",
+    "translation": "Ахлах сургууль төгссөн",
+    "hanja": "高卒",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고종",
+    "translation": "Хаан Гожонг",
+    "hanja": "高宗",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고주망태",
+    "translation": "согтуу, мансууруулах бодис",
+    "hanja": "Q",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고주파",
+    "translation": "өндөр давтамж",
+    "hanja": "高周波",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "고준",
+    "translation": "өндөрлөг, өндөр, үлгэр жишээ",
+    "hanja": "高峻",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고즈넉하다",
+    "translation": "нам гүм, амар амгалан",
+    "hanja": null,
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "고증",
+    "translation": "эртний нотолгоо",
+    "hanja": "考證",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고증하다",
+    "translation": "баримтаар нотлох",
+    "hanja": "考證하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고지",
+    "translation": "Мэдэгдэл, зарлал",
+    "hanja": "告知",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고지대",
+    "translation": "өндөрлөг газар",
+    "hanja": "高地帶",
+    "pos": "명са",
+    "cefr": "B1"
+  },
+  {
+    "word": "고지되다",
+    "translation": "Мэдэгдэх, зарлагдах, 공지되다",
+    "hanja": "告知되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고지서",
+    "translation": "мэдэгдэл, нэхэмжлэх",
+    "hanja": "告知書",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고지식",
+    "translation": "шударга",
+    "hanja": "固知識",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고지식하다",
+    "translation": "шударга, цэх",
+    "hanja": "固執하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고지하다",
+    "translation": "мэдэгдэх, зарлах",
+    "hanja": "告知하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고진",
+    "translation": "бэрхшээл",
+    "hanja": "苦盡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고진감래",
+    "translation": "зовиурыг давж амттай ирэх",
+    "hanja": "苦盡甘來",
+    "pos": "숙어",
+    "cefr": "C1"
+  },
+  {
+    "word": "고진하다",
+    "translation": "хүнд хэцүү",
+    "hanja": "苦盡하다",
+    "pos": "adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "고질",
+    "translation": "хуучин дадал",
+    "hanja": "痼疾",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고질병",
+    "translation": "хуучин өвчин, удаан хугацааны өвчин",
+    "hanja": "痼疾病",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고질적",
+    "translation": "удаан хугацааны",
+    "hanja": "痼疾的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고집",
+    "translation": "Зөрүүд",
+    "hanja": "固執",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고집부리다",
+    "translation": "зөрүүдлэх",
+    "hanja": "固執---",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고집불통",
+    "translation": "зөрүүд",
+    "hanja": "固執不通",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고집스럽다",
+    "translation": "зөрүүд",
+    "hanja": "固執스럽다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "고집스레",
+    "translation": "зөрүүд, гөжүүд",
+    "hanja": "固執스레",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고집쟁이",
+    "translation": "г stubborn person",
+    "hanja": "고집쟁이",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고집하다",
+    "translation": "зөрүүдлэх",
+    "hanja": "固執하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고차원",
+    "translation": "өндөр түвшний",
+    "hanja": "高次元",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고차원적",
+    "translation": "Өндөр түвшний",
+    "hanja": "高次元的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "고착",
+    "translation": "бэхлэх, тогтох",
+    "hanja": "固着",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고착되다",
+    "translation": "Бэхжих, тогтох",
+    "hanja": "固着되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고착화",
+    "translation": "бэхжих, тогтворжих",
+    "hanja": "固着化",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고착화되다",
+    "translation": "хэвшил болох",
+    "hanja": "固着化되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고착화하다",
+    "translation": "засах, тогтворжуулах",
+    "hanja": "固着化하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고찰",
+    "translation": "эртний хийд",
+    "hanja": "古刹",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고찰하다",
+    "translation": "судлах",
+    "hanja": "考察하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "고참",
+    "translation": "ахмад",
+    "hanja": "古參",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고창",
+    "translation": "Кочан (지명); өндөр дуу хоолой",
+    "hanja": "高敞",
+    "pos": "고유명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고척",
+    "translation": "Гучок (газрын нэр)",
+    "hanja": "고척(高尺)",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고철",
+    "translation": "хуучин төмөр, төмрийн хаягдал",
+    "hanja": "故鐵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고체",
+    "translation": "хатуу биет",
+    "hanja": "固體",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고쳐먹다",
+    "translation": "засах, өөрчлөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고쳐쓰기",
+    "translation": "дахин бичих, засаж бичих",
+    "hanja": "고쳐쓰기",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고초",
+    "translation": "Зовлон, бэрхшээл",
+    "hanja": "苦楚",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고추",
+    "translation": "амтлагч, чинжүү",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고추기름",
+    "translation": "чихэрлэг перцтэй тос",
+    "hanja": "고추기름",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고추냉이",
+    "translation": "васаби",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고추다",
+    "translation": "Засах, өөрчлөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고추잠자리",
+    "translation": "хоншоортой хүүрэн",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고추잡채",
+    "translation": "Гүчү завагчэ (Солонгос хоол)",
+    "hanja": "고추잡채",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고추장",
+    "translation": "гочужан (халуун чинжүүний соус)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "고춧가루",
+    "translation": "улаан чинжүүний нунтаг",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고춧대",
+    "translation": "Чинжүүний иш",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고춧잎",
+    "translation": "Чилийн навч",
+    "hanja": "고춧잎",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고충",
+    "translation": "хүнд хэцүү байдал, бэрхшээл",
+    "hanja": "苦衷",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고취",
+    "translation": "урамшуулах, өдөөх",
+    "hanja": "鼓吹",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고취되다",
+    "translation": "урамших, сүнслэг болох",
+    "hanja": "鼓吹되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고취하다",
+    "translation": "урамшуулах",
+    "hanja": "鼓吹하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "고층",
+    "translation": "өндөр давхар",
+    "hanja": "高層",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고치다",
+    "translation": "Засварлах",
+    "hanja": "고치다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고침",
+    "translation": "өндөр дэр",
+    "hanja": "高枕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고카트",
+    "translation": "гокарт",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고코",
+    "translation": "Коко (хүний нэр)",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "고퀄리티",
+    "translation": "өндөр чанартай",
+    "hanja": "高quality",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고키",
+    "translation": "харх (япон үг)",
+    "hanja": "고키",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고타",
+    "translation": "нокаут",
+    "hanja": "KO",
+    "pos": "name",
+    "cefr": "B1"
+  },
+  {
+    "word": "고탁",
+    "translation": "Эртний ширээ",
+    "hanja": "高卓",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고택",
+    "translation": "хуучин байшин",
+    "hanja": "古宅",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고토",
+    "translation": "эртний нутаг, эх орон",
+    "hanja": "故土",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고통",
+    "translation": "зовлон",
+    "hanja": "苦痛",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고통스럽다",
+    "translation": "зовлонтой",
+    "hanja": "苦痛스럽다",
+    "pos": "adj",
+    "cefr": "B2"
+  },
+  {
+    "word": "고투",
+    "translation": "тэмцэл",
+    "hanja": "苦闘",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고트",
+    "translation": "готик",
+    "hanja": "―",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고티",
+    "translation": "Готи (загвар)",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "고퍼",
+    "translation": "гофеэр (амьтан)",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고평가되다",
+    "translation": "өндрөөр үнэлэгдэх",
+    "hanja": "高評價되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고평가하다",
+    "translation": "өндрөөр үнэлэх, хэт үнэлэх",
+    "hanja": "高評價하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고품질",
+    "translation": "өндөр чанар",
+    "hanja": "高品質",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고풍스럽다",
+    "translation": "эртний хэв маягтай",
+    "hanja": "古風스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고프다",
+    "translation": "өлсөх",
+    "hanja": "",
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고프레",
+    "translation": "Гопре",
+    "hanja": "Gopre",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고프코어",
+    "translation": "Гоупкор",
+    "hanja": "gorpcore",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고피다",
+    "translation": "ганхах, нахиалах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": null
+  },
+  {
+    "word": "고하",
+    "translation": "үндсэн",
+    "hanja": "高下",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "고하다",
+    "translation": "Мэдэгдэх, хэлэх",
+    "hanja": "告하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고학",
+    "translation": "Өөрөө сурах, өөрийн хүчээр сурах",
+    "hanja": "苦學",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고학년",
+    "translation": "Ахлах анги",
+    "hanja": "高학년",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고학생",
+    "translation": "ядуу оюутан",
+    "hanja": "苦學生",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고함",
+    "translation": "хашгирах",
+    "hanja": "高喊",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고함지르다",
+    "translation": "хашгирах",
+    "hanja": "高喊지르다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "고함치다",
+    "translation": "Хашгирах, чанга дуугарах",
+    "hanja": "고함치다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "고항",
+    "translation": "Урт нарийн хоолой",
+    "hanja": "鼓項",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고해",
+    "translation": "хуучлах, өчил өгөх",
+    "hanja": "告解",
+    "pos": "명",
+    "cefr": "C2"
+  },
+  {
+    "word": "고해바치다",
+    "translation": "гэмээ наминчлах, хүлээх",
+    "hanja": "告解바치다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고해하다",
+    "translation": "илчлэх",
+    "hanja": "告解하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고행",
+    "translation": "чанга хатуу амьдрал, бэрхшээл",
+    "hanja": "苦行",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고행하다",
+    "translation": "хатуужлыг үргэлжлүүлэх, чанд сахих",
+    "hanja": "苦行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고향",
+    "translation": "төрсөн нутаг",
+    "hanja": "故鄕",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "고향집",
+    "translation": "төрсөн гэр",
+    "hanja": "故鄕집",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "고헤이",
+    "translation": "Гохэй (Японы сүмийн хэрэгсэл)",
+    "hanja": null,
+    "pos": "н.н",
+    "cefr": "C2"
+  },
+  {
+    "word": "고현",
+    "translation": "эртний онгоц",
+    "hanja": "古峴",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "고혈",
+    "translation": "зохицуулалтгүй цусан даралт",
+    "hanja": "膏血",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "고혈압",
+    "translation": "Цусны даралт ихсэх өвчин",
+    "hanja": "高血壓",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "고형",
+    "translation": "Хатуу хэлбэр/бүтэц",
+    "hanja": "固形",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "고혹적",
+    "translation": "сэтгэл татам",
+    "hanja": "蠱惑的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고혹하다",
+    "translation": "сэтгэлийг татах",
+    "hanja": "蠱惑하다",
+    "pos": "Verb",
+    "cefr": "C2"
+  },
+  {
+    "word": "고화",
+    "translation": "хуучин зураг",
+    "hanja": "古畫",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고화질",
+    "translation": "өндөр нягтрал",
+    "hanja": "高畫質",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "고환",
+    "translation": "Төмсгөн",
+    "hanja": "睾丸",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "고효율",
+    "translation": "өндөр үр ашигтай",
+    "hanja": "高效率",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고후",
+    "translation": "Гохү",
+    "hanja": "甲府",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고흐",
+    "translation": "Гог",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "고흥",
+    "translation": "Гохын",
+    "hanja": "高興",
+    "pos": "place name",
+    "cefr": "C2"
+  },
+  {
+    "word": "고희",
+    "translation": "далан нас",
+    "hanja": "古稀",
+    "pos": "명사",
+    "cefr": "C1"
+  }
+]

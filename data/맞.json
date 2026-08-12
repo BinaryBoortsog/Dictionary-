@@ -1,0 +1,366 @@
+[
+  {
+    "word": "맞",
+    "translation": "зөв",
+    "hanja": "null",
+    "pos": "adj",
+    "cefr": "A1"
+  },
+  {
+    "word": "맞고발하다",
+    "translation": "хариу нэхэмжлэх",
+    "hanja": "맞고발하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞고소",
+    "translation": "эсрэг нэхэмжлэл",
+    "hanja": "맞告訴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "맞고소하다",
+    "translation": "хариу нэхэмжлэх",
+    "hanja": "맞고소하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "맞교환하다",
+    "translation": "солилцох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞나다",
+    "translation": "таарах, тохирох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞다",
+    "translation": "зөв",
+    "hanja": null,
+    "pos": "adjective",
+    "cefr": "A1"
+  },
+  {
+    "word": "맞닥뜨리다",
+    "translation": "Тулах, учирах",
+    "hanja": "맞닥—",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞닥트리다",
+    "translation": "гэнэт таарах, тулгарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞담배",
+    "translation": "хамт тамхи татах",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞닿다",
+    "translation": "хүрэх",
+    "hanja": "맞닿다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞대결",
+    "translation": "халз тулаан, шууд өрсөлдөөн",
+    "hanja": "맞대결",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞대결하다",
+    "translation": "тулгарч өрсөлдөх",
+    "hanja": "맞對決하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞대다",
+    "translation": "тулгах",
+    "hanja": "맞대다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞대응",
+    "translation": "хариу үйлдэл",
+    "hanja": "맞對應",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞대응하다",
+    "translation": "Хариу үйлдэл хийх",
+    "hanja": "맞對應하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞들다",
+    "translation": "хамт өргөх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞먹다",
+    "translation": "Үүнтэй тэнцэх, ижил байх",
+    "hanja": "맞먹다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞물다",
+    "translation": "хоорондоо шүдэлцсэн",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞물리다",
+    "translation": "хоорондоо нийлэх",
+    "hanja": "맞물리다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞바꾸다",
+    "translation": "солих, хувьцаа солилцох",
+    "hanja": "맞바꾸다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞바람",
+    "translation": "Сөрөг салхи",
+    "hanja": "맞바람",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞받다",
+    "translation": "хариу өгөх",
+    "hanja": "None",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞받아치다",
+    "translation": "Хариу цохих, хариулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞벌이",
+    "translation": "хоёулаа ажилладаг хос",
+    "hanja": "맞벌이",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞벌이하다",
+    "translation": "хоёр тал ажиллах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞부딪치다",
+    "translation": "мөргөлдөх, тулгарах",
+    "hanja": "맞부딪치다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞부딪히다",
+    "translation": "Мөргөлдөх, тулгарах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞붙다",
+    "translation": "тулгарах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞붙이다",
+    "translation": "Наах, нийлүүлэх, мөргөлдүүлэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞사다",
+    "translation": "худалдан авах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞상대",
+    "translation": "өрсөлдөгч",
+    "hanja": "對相對",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞상대하다",
+    "translation": "эсрэг талтай харьцах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞서다",
+    "translation": "тулгарах",
+    "hanja": "null",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞선",
+    "translation": "танилцуулга",
+    "hanja": "맞선",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞수",
+    "translation": "Өрсөлдөгч",
+    "hanja": "맞수",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞아들이다",
+    "translation": "хүлээн авах, хүлээн зөвшөөрөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞아떨어지다",
+    "translation": "Таарах, тохирох",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞은쪽",
+    "translation": "эсрэг тал",
+    "hanja": "맞은쪽",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "맞은편",
+    "translation": "эcрэг тал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "맞이하다",
+    "translation": "Угтах, хүлээн авах",
+    "hanja": "맞이하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞잡다",
+    "translation": "барих, барьж авах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞장",
+    "translation": "шил толь, мэтгэлцэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞장구",
+    "translation": "дэмжих үг, зөвшөөрөх үг",
+    "hanja": "맞장구",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞장구치다",
+    "translation": "Дэмжих",
+    "hanja": "맞장구치다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "맞절",
+    "translation": "харилцан бөхийх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞추다",
+    "translation": "Тааруулах, тохируулах, нийцүүлэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞춤",
+    "translation": "Тохирох, захиалга",
+    "hanja": "맞춤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞춤법",
+    "translation": "зөв бичих дүрэм",
+    "hanja": "맞춤법",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞춤하다",
+    "translation": "тохирох",
+    "hanja": "null",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "맞팔",
+    "translation": "харилцан follow хийх",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "맞히다",
+    "translation": "зөв олох",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "A2"
+  }
+]

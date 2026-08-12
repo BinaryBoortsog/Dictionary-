@@ -1,0 +1,583 @@
+[
+  {
+    "word": "임",
+    "translation": "Хайртай хүн, эзэн",
+    "hanja": "임",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "임계",
+    "translation": "хязгаар, босго",
+    "hanja": "臨界",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "임관",
+    "translation": "томилогдох",
+    "hanja": "任官",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "임관하다",
+    "translation": "албан тушаалд томилогдох",
+    "hanja": "任官하다",
+    "pos": "동사 (Verb)",
+    "cefr": "C1"
+  },
+  {
+    "word": "임군",
+    "translation": "хаан, эзэн",
+    "hanja": "任君",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임금",
+    "translation": "цалин",
+    "hanja": "賃金",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "임기",
+    "translation": "албан тушаалын хугацаа",
+    "hanja": "任期",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "임기응변",
+    "translation": "нөхцөл байдалд тохируулах",
+    "hanja": "臨機應變",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "임나",
+    "translation": "Имна (эртний улсын нэр)",
+    "hanja": "任那",
+    "pos": "고유명사",
+    "cefr": null
+  },
+  {
+    "word": "임나일본부설",
+    "translation": "Имна-Японгийн засаг захиргааны онол",
+    "hanja": "任那日本府說",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "임단협",
+    "translation": "Цалин, хамтын хэлэлцээр",
+    "hanja": "賃團協",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임대",
+    "translation": "түрээслэх",
+    "hanja": "賃貸",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임대되다",
+    "translation": "түрээслэгдэх",
+    "hanja": "賃貸되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임대료",
+    "translation": "түрээсийн төлбөр",
+    "hanja": "賃貸料",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "임대하다",
+    "translation": "түрээслэх",
+    "hanja": "賃貸하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "임도",
+    "translation": "ойн зам",
+    "hanja": "林道",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임란",
+    "translation": "Японы довтолгоо",
+    "hanja": "壬亂",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "임마",
+    "translation": "чи",
+    "hanja": null,
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임마누엘",
+    "translation": "Эммануэль",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "임명",
+    "translation": "Томилгоо",
+    "hanja": "任命",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "임명권",
+    "translation": "томилох эрх",
+    "hanja": "任命權",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임명되다",
+    "translation": "томилогдох",
+    "hanja": "임명되다(任命되다)",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "임명장",
+    "translation": "томилгооны бичиг",
+    "hanja": "임명장(任命狀)",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "임명하다",
+    "translation": "Томилох",
+    "hanja": "任命하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "임모",
+    "translation": "үс, хилэн",
+    "hanja": "荏毛",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임무",
+    "translation": "үүрэг",
+    "hanja": "任務",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "임무하다",
+    "translation": "үүрэг гүйцэтгэх",
+    "hanja": "任拇하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "임박",
+    "translation": "дөхөж ирэх",
+    "hanja": "臨박",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "임박하다",
+    "translation": "ойртох, дөхөх",
+    "hanja": "臨迫하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "임방",
+    "translation": "түр хороо",
+    "hanja": "臨放",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "임베디드",
+    "translation": "Суурилуулсан",
+    "hanja": "임베디드",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임병",
+    "translation": "임병 (нэр)",
+    "hanja": "任炳",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임보",
+    "translation": "түр асрамж, түр халамжлах",
+    "hanja": "임보",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임부",
+    "translation": "жирэмсэн эмэгтэй",
+    "hanja": "姙婦",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임사",
+    "translation": "нөхцөл байдал, тохиолдол",
+    "hanja": "臨事",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임산부",
+    "translation": "Жирэмсэн эмэгтэй",
+    "hanja": "妊産婦",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임상",
+    "translation": "клиник",
+    "hanja": "臨床",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "임소",
+    "translation": "томилгоо",
+    "hanja": "任所",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "임수",
+    "translation": "үүрэг гүйцэтгэх",
+    "hanja": "任數",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "임스",
+    "translation": "Иймс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임시",
+    "translation": "Түр зуурын",
+    "hanja": "臨時",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "임시방편",
+    "translation": "түр зуурын арга",
+    "hanja": "臨時方便",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임시직",
+    "translation": "Түр ажлын байр",
+    "hanja": "臨時職",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "임신",
+    "translation": "Жирэмслэлт",
+    "hanja": "임신 (妊娠)",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임신되다",
+    "translation": "жирэмслэх",
+    "hanja": "妊娠되다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "임신부",
+    "translation": "жирэмсэн эмэгтэй",
+    "hanja": "姙娠婦",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "임신하다",
+    "translation": "Жирэмслэх",
+    "hanja": "임신하다 (妊娠하다)",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임실",
+    "translation": "Имсил",
+    "hanja": "任實",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "임씨",
+    "translation": "Им овогт",
+    "hanja": "任氏",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임야",
+    "translation": "ойн талбай, ой мод",
+    "hanja": "林野",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "임업",
+    "translation": "ойн аж ахуй",
+    "hanja": "林業",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "임연",
+    "translation": "тохой хүрх",
+    "hanja": "臨淵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "임연수",
+    "translation": "лимёнсу",
+    "hanja": "임연수(林延壽)",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임영",
+    "translation": "Имён (Нэр)",
+    "hanja": "任影",
+    "pos": "Proper Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "임용",
+    "translation": "томилгоо",
+    "hanja": "任用",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임용되다",
+    "translation": "Томилогдох",
+    "hanja": "任用되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "임용하다",
+    "translation": "томилох",
+    "hanja": "任用하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "임원",
+    "translation": "удирдлага",
+    "hanja": "任員",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임의",
+    "translation": "дур зоргоороо",
+    "hanja": "任意",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "임의적",
+    "translation": "дур зоргын, санамсаргүй",
+    "hanja": "任意的",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임자",
+    "translation": "эзэн, эрх засагч",
+    "hanja": "任者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임장",
+    "translation": "газар дээр нь очих",
+    "hanja": "臨場",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임장하다",
+    "translation": "байлцах",
+    "hanja": "臨場하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임재",
+    "translation": "байх, орших",
+    "hanja": "臨在",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임전",
+    "translation": "тулалдаанд орохын өмнө",
+    "hanja": "臨戰",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "임정",
+    "translation": "түр засгийн газар",
+    "hanja": "臨時政府",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "임종",
+    "translation": "үхэл, амьсгал хураах мөч",
+    "hanja": "臨終",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "임종하다",
+    "translation": "нас барах",
+    "hanja": "臨終하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "임지",
+    "translation": "албан тушаал",
+    "hanja": "任地",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임직원",
+    "translation": "ажилтан",
+    "hanja": "任職員",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "임차",
+    "translation": "түрээс",
+    "hanja": "賃借",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "임차하다",
+    "translation": "түрээслэх",
+    "hanja": "賃借하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "임철",
+    "translation": "им Чол",
+    "hanja": "林喆",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임충",
+    "translation": "Линь Чонг",
+    "hanja": "林冲",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "임테기",
+    "translation": "жирэмслэлтийн тест",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "임파",
+    "translation": "тунгалагийн судлын шингэн",
+    "hanja": "淋巴",
+    "pos": "noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "임팔라",
+    "translation": "импала",
+    "hanja": "임팔라",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임팩트",
+    "translation": "нөлөө, нөлөөлөл",
+    "hanja": "impact",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임펄스",
+    "translation": "Импульс",
+    "hanja": "임펄스",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "임페리움",
+    "translation": "эзэнт гүрэн",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임플란트",
+    "translation": "Суулгац",
+    "hanja": "임플란트",
+    "pos": "мөн",
+    "cefr": "B1"
+  },
+  {
+    "word": "임피던스",
+    "translation": "импеданс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "임하다",
+    "translation": "нүүрлэх",
+    "hanja": "臨하다",
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

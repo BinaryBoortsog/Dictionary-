@@ -1,0 +1,709 @@
+[
+  {
+    "word": "집",
+    "translation": "гэр",
+    "hanja": "집",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "집값",
+    "translation": "байшингийн үнэ",
+    "hanja": "집값",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "집강",
+    "translation": "номын багш, удирдагч",
+    "hanja": "執綱",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집게",
+    "translation": "хямсаа",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "집게손가락",
+    "translation": "хуруу",
+    "hanja": "집게손가락",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "집결",
+    "translation": "цуглуулах",
+    "hanja": "集結",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "집결되다",
+    "translation": "цуглуулах",
+    "hanja": "集結되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집결시키다",
+    "translation": "цуглуулах",
+    "hanja": "集結시키다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집결지",
+    "translation": "цугларах газар",
+    "hanja": "集結地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집결하다",
+    "translation": "Цугларах, хуран цугларах",
+    "hanja": "集結하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집계",
+    "translation": "нийт дүн",
+    "hanja": "集計",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집계되다",
+    "translation": "нэгтгэгдэх, тооцогдох",
+    "hanja": "集計되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집계하다",
+    "translation": "Тоолж нэгтгэх",
+    "hanja": "集計하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집구석",
+    "translation": "гэрийн булан; гэр орон",
+    "hanja": "집구석",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "집권",
+    "translation": "эрх мэдэл",
+    "hanja": "執權",
+    "pos": "NOUN",
+    "cefr": "C1"
+  },
+  {
+    "word": "집권당",
+    "translation": "удирдлагын нам",
+    "hanja": "執權黨",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집권자",
+    "translation": "эрх баригч",
+    "hanja": "執權者",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집권층",
+    "translation": "төрийн эрх баригчид",
+    "hanja": "執權層",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "집권하다",
+    "translation": "Засгийн эрх барих",
+    "hanja": "執權하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "집념",
+    "translation": "туйлын хичээл зүтгэл",
+    "hanja": "執念",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집다",
+    "translation": "чиглүүлэх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "집단",
+    "translation": "бүлэг, баг",
+    "hanja": "集團",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "집단생활",
+    "translation": "хамтын амьдрал",
+    "hanja": "集團生活",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "집단적",
+    "translation": "бөөнөөр, хамтын",
+    "hanja": "集團的",
+    "pos": "관형사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집단화되다",
+    "translation": "хамтдаа болох",
+    "hanja": "集團化되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "집대성",
+    "translation": "цуглуулга",
+    "hanja": "集大成",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집대성되다",
+    "translation": "цуглуулагдах, нэгтгэгдэх",
+    "hanja": "集大成되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집대성하다",
+    "translation": "Бүхнийг нэгтгэн дүгнэх",
+    "hanja": "集大成하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "집도",
+    "translation": "Мэс засал хийх",
+    "hanja": "執刀",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집도하다",
+    "translation": "мэс засал хийх",
+    "hanja": "執刀하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "집들이",
+    "translation": "шинэ байшингийн баяр",
+    "hanja": "집들이",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "집들이하다",
+    "translation": "байшингийн нүүдлийн баяр хийх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "집락",
+    "translation": "колони",
+    "hanja": "集落",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집무",
+    "translation": "албан үүрэг",
+    "hanja": "執務",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집무실",
+    "translation": "албан өрөө",
+    "hanja": "執務室",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집문서",
+    "translation": "Газрын баримт",
+    "hanja": "집文書",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "집배원",
+    "translation": "шууданч",
+    "hanja": "集配員",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "집사",
+    "translation": "Зарц, үйлчлэгч",
+    "hanja": "執事",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "집사람",
+    "translation": "эхнэр",
+    "hanja": "집사람",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "집성촌",
+    "translation": "Угсаа нэгтний суурин",
+    "hanja": "集姓村",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집세",
+    "translation": "Байрны түрээс",
+    "hanja": "집貰",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "집수",
+    "translation": "цуглуулах",
+    "hanja": "集水",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집수리",
+    "translation": "гэрийн засвар",
+    "hanja": "집수리",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "집시",
+    "translation": "цыган",
+    "hanja": "집시",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집안",
+    "translation": "гэр дотор",
+    "hanja": "",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "집안일",
+    "translation": "гэрийн ажил",
+    "hanja": "집안일",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "집안일하다",
+    "translation": "гэрийн ажил хийх",
+    "hanja": "집안일하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "집약",
+    "translation": "төвлөрөл",
+    "hanja": "集約",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집약되다",
+    "translation": "төвлөрсөн, нэгдсэн",
+    "hanja": "集約되다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "집약적",
+    "translation": "интенсив",
+    "hanja": "集約的",
+    "pos": "관형사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집약하다",
+    "translation": "нэгтгэх",
+    "hanja": "集約하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집어",
+    "translation": "авах, шүүрэх",
+    "hanja": "집어",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "집어내다",
+    "translation": "шүүрдэн гаргах",
+    "hanja": "---",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "집어넣다",
+    "translation": "хийх, оруулах",
+    "hanja": "집어넣다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "집어던지다",
+    "translation": "шидэх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "집어먹다",
+    "translation": "Авч идэх",
+    "hanja": "집어먹다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "집어삼키다",
+    "translation": "залгих",
+    "hanja": "집어삼키다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "집어치우다",
+    "translation": "болих",
+    "hanja": "집어치우다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집옥재",
+    "translation": "Жибожэ (Gyeongbokgung-ийн нэгэн барилга)",
+    "hanja": "集玉齋",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "집요하다",
+    "translation": "гуйвшгүй, шаргуу",
+    "hanja": "執拗하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집장",
+    "translation": "цуглуулга",
+    "hanja": "集藏",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집적",
+    "translation": "хуримтлал",
+    "hanja": "集積",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "집적거리다",
+    "translation": "Оролдох, саад хийх, ямар нэгэн зүйл хийж оролдох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집적대다",
+    "translation": "бөөнөөр орших",
+    "hanja": "集積대다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "집적되다",
+    "translation": "хуримтлагдах",
+    "hanja": "集積되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집전",
+    "translation": "Сандал, сандал дээр сууж буй хүн",
+    "hanja": "執典",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "집전하다",
+    "translation": "Хамтран удирдлага хийх",
+    "hanja": "執典하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집정",
+    "translation": "засаглах",
+    "hanja": "執政",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집주다",
+    "translation": "барих",
+    "hanja": "집주다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "집주인",
+    "translation": "байшингийн эзэн",
+    "hanja": "집主人",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "집중",
+    "translation": "төвлөрөл",
+    "hanja": "集中",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "집중되다",
+    "translation": "төвлөрсөн, бөөгнөрсөн",
+    "hanja": "集中되다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "집중력",
+    "translation": "төвлөрөл",
+    "hanja": "集中力",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "집중시키다",
+    "translation": "төвлөрүүлэх",
+    "hanja": "集中시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집중적",
+    "translation": "төвлөрсөн, эрчимтэй",
+    "hanja": "集中的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "집중포화",
+    "translation": "төвлөрсөн их бууны гал",
+    "hanja": "集中砲火",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "집중하다",
+    "translation": "집중하다",
+    "hanja": "集中하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "집중화",
+    "translation": "Төвлөрөл",
+    "hanja": "集中化",
+    "pos": "명사 (Noun)",
+    "cefr": "B2"
+  },
+  {
+    "word": "집집",
+    "translation": "айл бүр, гэр бүр",
+    "hanja": " 집집",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "집짓기",
+    "translation": "байшин барих",
+    "hanja": "NaN",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "집착",
+    "translation": "харамсал",
+    "hanja": "執着",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집착하다",
+    "translation": "баримтлах",
+    "hanja": "執着하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집창촌",
+    "translation": "биелэг үйлдвэрлэх газар",
+    "hanja": "集娼村",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "집채",
+    "translation": "байшингийн хэмжээтэй",
+    "hanja": "집채",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집콕하다",
+    "translation": "гэртээ байх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "집터",
+    "translation": "байшингийн суурь",
+    "hanja": "집터",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "집필되다",
+    "translation": "бичигдсэн",
+    "hanja": "執筆되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집필하다",
+    "translation": "бичих, зохиох",
+    "hanja": "執筆하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집합",
+    "translation": "цуглуулах, цугларалт",
+    "hanja": "集合",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "집합시키다",
+    "translation": "цуглуулах",
+    "hanja": "集合시키다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집합체",
+    "translation": "цуглуулга, нийтлэг",
+    "hanja": "集合體",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집합하다",
+    "translation": "цугларах",
+    "hanja": "集合하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "집행",
+    "translation": "гүйцэтгэл",
+    "hanja": "執行",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집행되다",
+    "translation": "Биелэгдэх",
+    "hanja": "執行되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집행부",
+    "translation": "гүйцэтгэх захиргаа",
+    "hanja": "執行部",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집행자",
+    "translation": "Гүйцэтгэгч",
+    "hanja": "執行者",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "집행하다",
+    "translation": "Гүйцэтгэх",
+    "hanja": "執行하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "집현전",
+    "translation": "жипхёнжон (Солонгосын түүхэн байгууллага)",
+    "hanja": "集賢殿",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "집회",
+    "translation": "цуглаан",
+    "hanja": "集會",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "집회하다",
+    "translation": "Цугларах",
+    "hanja": "集會하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "집히다",
+    "translation": "Баригдах, атгуулах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  }
+]

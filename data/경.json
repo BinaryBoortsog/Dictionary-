@@ -1,0 +1,1486 @@
+[
+  {
+    "word": "경",
+    "translation": "хүндэтгэсэн",
+    "hanja": "卿",
+    "pos": "접미사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경각심",
+    "translation": "Согог, анхаарал хандуулах",
+    "hanja": "警覺心",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경감",
+    "translation": "хөнгөрүүлэх, бууруулах",
+    "hanja": "輕減",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경감되다",
+    "translation": "Буурах",
+    "hanja": "輕減되다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "경감하다",
+    "translation": "бууруулах, хөнгөвчлөх",
+    "hanja": "輕減하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경갑",
+    "translation": "хөнгөн хуяг",
+    "hanja": "輕甲",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경거망동",
+    "translation": "яс хаях, үг үйлдэл эелдэг бус байх",
+    "hanja": "輕舉妄動",
+    "pos": "м.н.",
+    "cefr": "C1"
+  },
+  {
+    "word": "경거망동하다",
+    "translation": "Бодлогогүй үйлдэх",
+    "hanja": "輕擧妄動하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경건하다",
+    "translation": "сэтгэл ариун байх, бишрэлтэй байх",
+    "hanja": "敬虔하다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경건히",
+    "translation": "үндэслэлтэй, хүндэтгэлтэйгээр",
+    "hanja": "敬虔히",
+    "pos": "부사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경계",
+    "translation": "хил хязгаар",
+    "hanja": "境界",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경계경보",
+    "translation": "сэрэмжлүүлэг, анхааруулга",
+    "hanja": "경계경보(警戒警報)",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경계선",
+    "translation": "хүрээ",
+    "hanja": "境界線",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경계심",
+    "translation": "сонор сэрэмж",
+    "hanja": "警戒心",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경계하다",
+    "translation": "сэрэмжлэх",
+    "hanja": "警戒하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경고",
+    "translation": "анхааруулга",
+    "hanja": "警告",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경고문",
+    "translation": "Анхааруулга",
+    "hanja": "警告文",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "경고하다",
+    "translation": "анхааруулах",
+    "hanja": "警告하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경공업",
+    "translation": "хөнгөн үйлдвэр",
+    "hanja": "輕工業",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경과",
+    "translation": "үр дүн",
+    "hanja": "經過",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경과되다",
+    "translation": "өнгөрөх",
+    "hanja": "經過되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경과하다",
+    "translation": "Өнгөрөх, дайран өнгөрөх",
+    "hanja": "經過하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "경국지색",
+    "translation": "үндэсний гоо үзэсгэлэн",
+    "hanja": "傾國之色",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "경극",
+    "translation": "Бээжингийн дуурь",
+    "hanja": "京劇",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경기도",
+    "translation": "Кёнги аймаг",
+    "hanja": "京畿道",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "경기장",
+    "translation": "ц stadium",
+    "hanja": "競技場",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "경기하다",
+    "translation": "тэмцээнд оролцох",
+    "hanja": "競技하다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "경난",
+    "translation": "бэрхшээл",
+    "hanja": "經難",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경남",
+    "translation": "Кённам (Өмнөд Кёнсан аймаг)",
+    "hanja": "慶南",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경도되다",
+    "translation": "татах, урвуулах",
+    "hanja": "傾倒되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경락",
+    "translation": "судас",
+    "hanja": "經絡",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경락하다",
+    "translation": "суваг дамжуулах, дулааны энерги дамжуулах",
+    "hanja": "經絡하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경량급",
+    "translation": "хөнгөн жин",
+    "hanja": "輕量級",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경량화하다",
+    "translation": "хөнгөн болгох",
+    "hanja": "輕量化하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경력",
+    "translation": "туршлага",
+    "hanja": "經歷",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "경력자",
+    "translation": "туршлагатай хүн",
+    "hanja": "經歷者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경련",
+    "translation": "Таталт, агшилт",
+    "hanja": "痙攣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경련하다",
+    "translation": "таталт өгөх",
+    "hanja": "痙攣하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경례",
+    "translation": "ёслох",
+    "hanja": "敬禮",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "경례하다",
+    "translation": "ёслох, мэндлэх",
+    "hanja": "敬禮하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "경로",
+    "translation": "зам, чиглэл",
+    "hanja": "經路",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경로당",
+    "translation": "ахмадын клуб",
+    "hanja": "敬老堂",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경로석",
+    "translation": "ахмад настангуудад зориулсан суудал",
+    "hanja": "敬老席",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경로잔치",
+    "translation": "ахмадын баяр",
+    "hanja": "敬老잔치",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경륜",
+    "translation": "туршлага, овсгоо",
+    "hanja": "經綸",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경망스럽다",
+    "translation": "Бодлогогүй",
+    "hanja": "輕妄스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경매되다",
+    "translation": "дуудагдах",
+    "hanja": "競賣되다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "경매하다",
+    "translation": "дуудлага худалдаа хийх",
+    "hanja": "競賣하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경면",
+    "translation": "толины гадаргуу",
+    "hanja": "鏡面",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경멸",
+    "translation": "жигших, үл тоох",
+    "hanja": "輕蔑",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경멸스럽다",
+    "translation": "жигшмээр",
+    "hanja": "輕蔑스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경멸적",
+    "translation": "жигшүүртэй",
+    "hanja": "輕蔑的",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "경멸하다",
+    "translation": "Үл тоомсорлох",
+    "hanja": "輕蔑하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "경무관",
+    "translation": "Цагдаагийн комиссар",
+    "hanja": "警務官",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경미하다",
+    "translation": "Хөнгөн",
+    "hanja": "輕微하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경박스럽다",
+    "translation": "хөнгөмсөг",
+    "hanja": "輕薄스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경박하다",
+    "translation": "хөнгөмсөг",
+    "hanja": "輕薄하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경배하다",
+    "translation": "бишрэх, шүтэх",
+    "hanja": "敬拜하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경범죄",
+    "translation": "хөнгөн гэмт хэрэг",
+    "hanja": "輕犯罪",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경보음",
+    "translation": "анхааруулах дуу",
+    "hanja": "警報音",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "경보장치",
+    "translation": "дохиоллын төхөөрөмж",
+    "hanja": "警報裝置",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경보하다",
+    "translation": "сэрэмжлүүлэх",
+    "hanja": "警報하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경복궁",
+    "translation": "Кёнбок ордон",
+    "hanja": "景福宮",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "경북",
+    "translation": "Кёнбүк",
+    "hanja": "慶北",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "경비",
+    "translation": "харуул хамгаалалт",
+    "hanja": "경비(警備)",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경비대",
+    "translation": "хамгаалалтын алба",
+    "hanja": "警備隊",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "경비병",
+    "translation": "харуул хамгаалалтын цэрэг",
+    "hanja": "警備兵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경비실",
+    "translation": "харуул хамгаалалтын өрөө",
+    "hanja": "警備室",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경비원",
+    "translation": "Харуулын ажилтан, хамгаалагч",
+    "hanja": "警備員",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "경비하다",
+    "translation": "харуул хамгаалалт хийх",
+    "hanja": "警備하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경비행기",
+    "translation": "хөнгөн онгоц",
+    "hanja": "輕飛行機",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경사노위",
+    "translation": "Эдийн засаг, нийгмийн хөдөлмөрийн зөвлөл",
+    "hanja": "經社勞委",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "경사로",
+    "translation": "налуу зам",
+    "hanja": "傾斜路",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "경사면",
+    "translation": "налуу гадаргуу",
+    "hanja": "傾斜面",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경사스럽다",
+    "translation": "Баяртай, сайхан",
+    "hanja": "慶事스럽다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경사지다",
+    "translation": "налуу байх",
+    "hanja": "傾斜지다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경산",
+    "translation": "Кёнсан (хот)",
+    "hanja": "慶山",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경상남도",
+    "translation": "Кёнсаннамду муж",
+    "hanja": "慶尙南道",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경상도",
+    "translation": "Кёнсан-до мужийн",
+    "hanja": "慶尙道",
+    "pos": "고유명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경상북도",
+    "translation": "Кёнсанбукдо (аймаг)",
+    "hanja": "慶尙北道",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "경색",
+    "translation": "цус харвах, бөглөрөх",
+    "hanja": "梗塞",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경색되다",
+    "translation": "түгжрэх, зогсонги байдалд орох",
+    "hanja": "梗塞되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경서",
+    "translation": "ном судар",
+    "hanja": "經書",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경선하다",
+    "translation": "өрсөлдөх",
+    "hanja": "競選하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경성하다",
+    "translation": "сэрэмжтэй байх",
+    "hanja": "警醒하다",
+    "pos": "동사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경솔하다",
+    "translation": "хөнгөн хийсвэр",
+    "hanja": "輕率하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경숙",
+    "translation": "Кёнсук (нэр)",
+    "hanja": "慶淑",
+    "pos": "고유명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "경시하다",
+    "translation": "хөнгөн үзэх",
+    "hanja": "輕視하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경신",
+    "translation": "Шинэчлэх",
+    "hanja": "更新",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경신되다",
+    "translation": "шинэчлэгдэх",
+    "hanja": "更新되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경신수야",
+    "translation": "Шинэчлэх, шинэчлэх үйл явц",
+    "hanja": "更新수야",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경신하다",
+    "translation": "шинэчлэх, рекорд эвдэх",
+    "hanja": "更新-",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "경실련",
+    "translation": "Хорооны эдийн засгийн шударга ёсны иргэдийн эвсэл",
+    "hanja": "經實聯",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경심",
+    "translation": "гудас",
+    "hanja": "經心, 經甚",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경아",
+    "translation": "Кён-а (хүний нэр)",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경악",
+    "translation": "аймшигтай, гайхшрал",
+    "hanja": "驚愕",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경악스럽다",
+    "translation": "гайхамшигтай",
+    "hanja": "驚愕스럽다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경악하다",
+    "translation": "цочирдон гайхах, айх",
+    "hanja": "驚愕하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경애",
+    "translation": "хүндэтгэх",
+    "hanja": "敬愛",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "경애하다",
+    "translation": "Хүндэтгэн хайрлах",
+    "hanja": "敬愛하다",
+    "pos": "Verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "경양식",
+    "translation": "хөнгөн европ хоол",
+    "hanja": "輕洋食",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경어",
+    "translation": "хүндэтгэлийн үг",
+    "hanja": "敬語",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경연장",
+    "translation": "Уралдаан тэмцээний талбар",
+    "hanja": "競演場",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경연하다",
+    "translation": "өрсөлдөх",
+    "hanja": "競演하다",
+    "pos": "verb",
+    "cefr": "B2"
+  },
+  {
+    "word": "경영계",
+    "translation": "бизнесийн хүрээнийхэн",
+    "hanja": "經營界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경영권",
+    "translation": "удирдлагын эрх",
+    "hanja": "經營權",
+    "pos": "м.н.",
+    "cefr": "C2"
+  },
+  {
+    "word": "경영인",
+    "translation": "менежер, удирдах ажилтан",
+    "hanja": "經營人",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경영자",
+    "translation": "менежер",
+    "hanja": "經營者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경영진",
+    "translation": "удирдлага",
+    "hanja": "經營陣",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경영하다",
+    "translation": "Удирдах, эрхлэх",
+    "hanja": "經營하다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "경영학",
+    "translation": "Бизнесийн удирдлага",
+    "hanja": "経営学",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경옥",
+    "translation": "цайвар хаш",
+    "hanja": "硬玉",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경외감",
+    "translation": "гайхамшиг, дээдлэх мэдрэмж",
+    "hanja": "敬畏感",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "경외하다",
+    "translation": "Бишрэх",
+    "hanja": "敬畏하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "경우",
+    "translation": "тохиолдол",
+    "hanja": "境遇",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "경운기",
+    "translation": "Трактор",
+    "hanja": "耕耘機",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경위서",
+    "translation": "тайлбар бичиг",
+    "hanja": "경위서",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경유",
+    "translation": "дамжин",
+    "hanja": "經由",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경유지",
+    "translation": "дамжлага газар",
+    "hanja": "經由地",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경유하다",
+    "translation": "дамжин өнгөрөх",
+    "hanja": "經由하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경윤",
+    "translation": "Кён-юн (хүний нэр эсвэл компаний нэр)",
+    "hanja": "慶潤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경윳값",
+    "translation": "дизель түлшний үнэ",
+    "hanja": "輕油값",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경음악",
+    "translation": "Хөгжмийн хөнгөн ая",
+    "hanja": "輕音樂",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경의",
+    "translation": "хүндэтгэл",
+    "hanja": "敬意",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경이감",
+    "translation": "Гайхамшигтай мэдрэмж",
+    "hanja": "驚異感",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경이롭다",
+    "translation": "гайхамшигтай, гайхалтай",
+    "hanja": "驚異롭다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경작되다",
+    "translation": "тариалагдах, боловсруулагдах",
+    "hanja": "耕作되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경작지",
+    "translation": "тариалангийн талбай",
+    "hanja": "耕作地",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경작하다",
+    "translation": "тариалах, боловсруулах",
+    "hanja": "耕作하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경쟁",
+    "translation": "Өрсөлдөөн",
+    "hanja": "競爭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경쟁국",
+    "translation": "Өрсөлдөгч улс",
+    "hanja": "競爭國",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경쟁력",
+    "translation": "өрсөлдөх чадвар",
+    "hanja": "競爭力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경쟁률",
+    "translation": "өрсөлдөөний түвшин",
+    "hanja": "競爭率",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경쟁심",
+    "translation": "өрсөлдөх сэтгэл",
+    "hanja": "競爭心",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경쟁의식",
+    "translation": "өрсөлдөх сэтгэлгээ",
+    "hanja": "競爭意識",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경쟁자",
+    "translation": "Өрсөлдөгч",
+    "hanja": "競爭者",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경쟁적",
+    "translation": "Өрсөлдөөнтэй",
+    "hanja": "競爭的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경쟁하다",
+    "translation": "Өрсөлдөх",
+    "hanja": "競爭하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "경전철",
+    "translation": "хөнгөн метро",
+    "hanja": "輕電鐵",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경제",
+    "translation": "Эдийн засаг",
+    "hanja": "經濟",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "경제계",
+    "translation": "Эдийн засгийн хүрээ",
+    "hanja": "經濟界",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경제관",
+    "translation": "эдийн засгийн үзэл бодол",
+    "hanja": "經濟觀",
+    "pos": "NNG",
+    "cefr": "B2"
+  },
+  {
+    "word": "경제관념",
+    "translation": "Эдийн засгийн ойлголт",
+    "hanja": "經濟觀念",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경제권",
+    "translation": "эдийн засгийн хүрээ",
+    "hanja": "經濟圈",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경제난",
+    "translation": "эдийн засгийн хүндрэл",
+    "hanja": "經濟難",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경제력",
+    "translation": "Эдийн засгийн чадавх",
+    "hanja": "經濟力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경제부장",
+    "translation": "эдийн засгийн хэлтсийн дарга",
+    "hanja": "經濟部長",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경제성",
+    "translation": "эдийн засгийн үр ашиг",
+    "hanja": "經濟性",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경제적",
+    "translation": "эдийн засгийн",
+    "hanja": "經濟的",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경제학",
+    "translation": "эдийн засаг",
+    "hanja": "經濟學",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경제학자",
+    "translation": "Эдийн засагч",
+    "hanja": "經濟學者",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경주",
+    "translation": "уралдаан",
+    "hanja": "競走",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "경주장",
+    "translation": "уралдааны талбай",
+    "hanja": "競走場",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "경주하다",
+    "translation": "уралдах",
+    "hanja": "競走하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경증",
+    "translation": "хөнгөн хэлбэр",
+    "hanja": "輕症",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경직",
+    "translation": "хатуурах",
+    "hanja": "硬直",
+    "pos": "нэр үг",
+    "cefr": "B2"
+  },
+  {
+    "word": "경직되다",
+    "translation": "хөших",
+    "hanja": "硬直되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경직성",
+    "translation": "Хатуу ширүүн байдал; Хөшүүн байдал",
+    "hanja": "硬直性",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경직하다",
+    "translation": "хатуурах",
+    "hanja": "硬直하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경진",
+    "translation": "өрсөлдөөн",
+    "hanja": "競進",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경질되다",
+    "translation": "хоригдох, албан тушаалаас халагдах",
+    "hanja": "更迭되다",
+    "pos": "동사 (Verb)",
+    "cefr": "C1"
+  },
+  {
+    "word": "경질하다",
+    "translation": "халж солих, албан тушаалаас буулгах",
+    "hanja": "更迭하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경찰",
+    "translation": "цагдаа",
+    "hanja": "警察",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "경찰관",
+    "translation": "цагдаагийн ажилтан",
+    "hanja": "警察官",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "경찰권",
+    "translation": "цагдаагийн эрх мэдэл",
+    "hanja": "警察權",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경찰력",
+    "translation": "цагдаагийн хүч",
+    "hanja": "警察力",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경찰봉",
+    "translation": "цагдаагийн таяг",
+    "hanja": "警察棒",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경찰서",
+    "translation": "цагдаагийн газар",
+    "hanja": "警察署",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "경찰차",
+    "translation": "Цагдаагийн машин",
+    "hanja": "警察車",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "경찰청",
+    "translation": "Цагдаагийн газар",
+    "hanja": "警察廳",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경찰하다",
+    "translation": "цагдаагийн албан хаагч",
+    "hanja": "警察하다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경책하다",
+    "translation": "зэмлэх",
+    "hanja": "警責하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경철",
+    "translation": "хөнгөн төмөр",
+    "hanja": "輕鐵",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경청",
+    "translation": "анхааралтай сонсох",
+    "hanja": "傾聽",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "경청하다",
+    "translation": "анхааралтай сонсох",
+    "hanja": "傾聽하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경축일",
+    "translation": "баяр ёслолын өдөр",
+    "hanja": "慶祝日",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "경축하다",
+    "translation": "баяр хүргэх",
+    "hanja": "慶祝하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경칩",
+    "translation": "хүүрийн хугацаа",
+    "hanja": "驚蟄",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경쾌하다",
+    "translation": "хөнгөн хөдөлгөөнтэй, хөнгөн гуятай",
+    "hanja": "輕快하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경탄하다",
+    "translation": "Бишрэх, гайхах",
+    "hanja": "驚歎하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경표",
+    "translation": "Хил/зааг тэмдэг",
+    "hanja": "境標",
+    "pos": "명사",
+    "cefr": "null"
+  },
+  {
+    "word": "경하다",
+    "translation": "хөнгөн, хүндэтгэх",
+    "hanja": "輕하다",
+    "pos": "Adjective",
+    "cefr": "C1"
+  },
+  {
+    "word": "경하하다",
+    "translation": "баяр хүргэх",
+    "hanja": "慶賀하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경학",
+    "translation": "номын ухаан, сонгодог хичээл",
+    "hanja": "經學",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경합하다",
+    "translation": "Өрсөлдөх",
+    "hanja": "競合하다",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "경향",
+    "translation": "хандлага",
+    "hanja": "傾向",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경향성",
+    "translation": "хандлага",
+    "hanja": "傾向性",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경허",
+    "translation": "Гёнхо (Солонгосын буддын шашны лам)",
+    "hanja": "鏡虛",
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경험",
+    "translation": "туршлага",
+    "hanja": "經驗",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "경험담",
+    "translation": "туршлага",
+    "hanja": "經驗談",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경험되다",
+    "translation": "туршлагажих",
+    "hanja": "經驗되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경험론",
+    "translation": "туршлагын онол",
+    "hanja": "經驗論",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경험자",
+    "translation": "туршлагатай хүн",
+    "hanja": "經驗者",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "경험적",
+    "translation": "туршлагат",
+    "hanja": "經驗的",
+    "pos": "Adjective",
+    "cefr": "C2"
+  },
+  {
+    "word": "경험하다",
+    "translation": "мэдэх",
+    "hanja": "經驗하다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "경현",
+    "translation": "гэрчлэх",
+    "hanja": "景賢",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경혈",
+    "translation": "Судас, цэг (зүү тавих цэг)",
+    "hanja": "經穴",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경협",
+    "translation": "эдийн засгийн хамтын ажиллагаа",
+    "hanja": "經協",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경호실",
+    "translation": "хамгаалалтын алба",
+    "hanja": "警護室",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경호원",
+    "translation": "хамгаалагч",
+    "hanja": "警護員",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경호하다",
+    "translation": "хамгаалах",
+    "hanja": "警護하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경홀히",
+    "translation": "Хөнгөн хуумгай, хайхрамжгүй",
+    "hanja": "輕忽히",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경화",
+    "translation": "Хатгуулах",
+    "hanja": "硬化",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경화되다",
+    "translation": "хатуурах",
+    "hanja": "硬化되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경화증",
+    "translation": "склероз",
+    "hanja": "硬化症",
+    "pos": "Noun",
+    "cefr": "C2"
+  },
+  {
+    "word": "경황",
+    "translation": "Нөхцөл байдал",
+    "hanja": "景況",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경황없다",
+    "translation": "цаг завгүй байх, байдал эвгүй",
+    "hanja": "景況없다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "경황없이",
+    "translation": "сандрангуй, эргэлзэж тээнэгэлзэх",
+    "hanja": "景況없이",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "경후",
+    "translation": "хүндэтгэлтэй захидал",
+    "hanja": "敬候",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "경희",
+    "translation": "гэрэл, баяр хөөр",
+    "hanja": "慶熙",
+    "pos": "н.",
+    "cefr": "null"
+  },
+  {
+    "word": "경희궁",
+    "translation": "Кёнхи тайтгай",
+    "hanja": "慶熙宮",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "경히",
+    "translation": "хөнгөнөөр, үл тоомсорлох",
+    "hanja": "輕視",
+    "pos": "부사",
+    "cefr": "C1"
+  }
+]

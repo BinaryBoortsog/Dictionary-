@@ -1,0 +1,65 @@
+[
+  {
+    "word": "킥",
+    "translation": "Өшиглөх",
+    "hanja": "킥",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "킥복싱",
+    "translation": "кикбокс",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "킥볼",
+    "translation": "Кикбол",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "킥스",
+    "translation": "хөл бөмбөг",
+    "hanja": "킥스",
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "킥오프",
+    "translation": "хөлбөмбөгийн эхлэх цохилт",
+    "hanja": "킥오프",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "translation": "инээх",
+    "hanja": "N/A",
+    "pos": "부사",
+    "cefr": "A2",
+    "word": "킥킥"
+  },
+  {
+    "word": "킥킥거리다",
+    "translation": "инээх, хийх (дуу)",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "킥킥대다",
+    "translation": "чихэлдэх, инээх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "킥하다",
+    "translation": "өшиглөх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  }
+]

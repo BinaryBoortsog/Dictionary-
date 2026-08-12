@@ -1,0 +1,786 @@
+[
+  {
+    "word": "돌",
+    "translation": "чулуу",
+    "hanja": "돌",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "돌개바람",
+    "translation": "хуй салхи",
+    "hanja": "돌개바람",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌게",
+    "translation": "далайн хавч",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌격",
+    "translation": "довтлогоо, дайралт",
+    "hanja": "突擊",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌격대",
+    "translation": "Дайрагч анги",
+    "hanja": "突擊隊",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌격하다",
+    "translation": "Дайрах",
+    "hanja": "突擊하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌계단",
+    "translation": "чулуун шат",
+    "hanja": "돌階段",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌고래",
+    "translation": "далайн гахай",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌궐",
+    "translation": "Түрэг (ард түмэн)",
+    "hanja": "突厥",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌기둥",
+    "translation": "чулуун багана",
+    "hanja": "돌기둥",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌길",
+    "translation": "чулуун зам",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌다",
+    "translation": "Эргэх, тойрох",
+    "hanja": "돌다",
+    "pos": "동사",
+    "cefr": "A1"
+  },
+  {
+    "word": "돌다리",
+    "translation": "чулуун гүүр",
+    "hanja": "-",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌다보다",
+    "translation": "Эргэж харах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌담",
+    "translation": "чулуун хана",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌대가리",
+    "translation": "тэнэг толгой, мулгуу",
+    "hanja": "NULL",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌덩어리",
+    "translation": "том чулуу, чулуун бөөрөнхий",
+    "hanja": "돌덩어리",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌덩이",
+    "translation": "чулуун талст",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌돌",
+    "translation": "Эргүүлж",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌돌하다",
+    "translation": "ухаалаг",
+    "hanja": "똘똘하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌려깎기",
+    "translation": "тойруулж хадах",
+    "hanja": "돌려깎기",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌려내다",
+    "translation": "буцааж авах",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌려막다",
+    "translation": "эргүүлж хаах",
+    "hanja": "돌려막다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌려먹다",
+    "translation": "эргүүлж идэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌려받다",
+    "translation": "буцааж авах",
+    "hanja": "돌려받다",
+    "pos": "verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌려보내다",
+    "translation": "буцаах",
+    "hanja": "돌려보내다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌려세우다",
+    "translation": "эргүүлэн зогсоох",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌려쓰다",
+    "translation": "Давтан ашиглах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌리",
+    "translation": "Долли",
+    "hanja": "Dolly",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "돌리다",
+    "translation": "Эргүүлэх",
+    "hanja": "돌리다",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌림",
+    "translation": "эргүүлэх",
+    "hanja": "돌림",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌림병",
+    "translation": "тархах өвчин",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌림자",
+    "translation": "үндсэн үсэг, ээлжийн үсэг",
+    "hanja": "돌림字",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌머리",
+    "translation": "мулгуу толгой",
+    "hanja": null,
+    "pos": "м.н. (доромж)",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌멩이",
+    "translation": "чулуу",
+    "hanja": "돌멩이",
+    "pos": "NOUN",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌무더기",
+    "translation": "чулуун овоолго",
+    "hanja": "돌무더기",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌무덤",
+    "translation": "чулуун овоо",
+    "hanja": "돌무덤",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌무지덧널무덤",
+    "translation": "чулуун овоолгын бунхан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "돌무지무덤",
+    "translation": "чулуун овоолгын булш",
+    "hanja": "돌무지무덤",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌바람",
+    "translation": "хайрганы салхи",
+    "hanja": "돌바람",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌발",
+    "translation": "гэнэтийн, огцом",
+    "hanja": "突發",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌발적",
+    "translation": "гэнэтийн",
+    "hanja": "突發的",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌밭",
+    "translation": "чулуутай талбай",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌배나무",
+    "translation": "зэрлэг лийрний мод",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌벽",
+    "translation": "чулуун хана",
+    "hanja": "돌壁",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌변",
+    "translation": "гэнэтийн өөрчлөлт",
+    "hanja": "突變",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌변하다",
+    "translation": "Гэнэт өөрчлөгдөх",
+    "hanja": "突變하다",
+    "pos": "verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌보다",
+    "translation": "асарч тойрох",
+    "hanja": "",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌보미",
+    "translation": "асрагч",
+    "hanja": "돌보미",
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌봄",
+    "translation": "асрамж",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌부리",
+    "translation": "чулууны орой, бул чулуу",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌부처",
+    "translation": "чулуун бурхан",
+    "hanja": "돌부처",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌비",
+    "translation": "Долби",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌사자",
+    "translation": "чулуун арслан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌산",
+    "translation": "Чулуун уул",
+    "hanja": "돌山",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌상",
+    "translation": "хүүхдийн нэг насны ойгоор тавих ширээ",
+    "hanja": "돌床",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌섬",
+    "translation": "чулуун арал",
+    "hanja": "돌섬",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌솥",
+    "translation": "чулуун сав",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌시",
+    "translation": "Дорси (хүний нэр)",
+    "hanja": "돌시",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌싱",
+    "translation": "Гэр бүлээ цуцлуулсан ганц бие хүн",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌아가시다",
+    "translation": "Таалал төгсөх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌아내리다",
+    "translation": "бууж ирэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌아눕다",
+    "translation": "хажуугаар хэвтэх",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌아다니다",
+    "translation": "хэсэж явах, тойрон явах",
+    "hanja": "",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌아다보다",
+    "translation": "эргэж харах",
+    "hanja": "돌아다보다",
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌아댕기다",
+    "translation": "тойрон алхах",
+    "hanja": "No Hanja",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌아들다",
+    "translation": "Эргэж орох",
+    "hanja": "돌아들다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌아서다",
+    "translation": "эргэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌아앉다",
+    "translation": "эргэж суух",
+    "hanja": "No Hanja",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌아치다",
+    "translation": "эргэж ирэх, тойрох",
+    "hanja": "돌아치다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌어가다",
+    "translation": "буцаж очих",
+    "hanja": "돌어가다",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌어오다",
+    "translation": "буцаж ирэх",
+    "hanja": "NaN",
+    "pos": "Verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌연",
+    "translation": "гэнэт",
+    "hanja": "突然",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌연변이",
+    "translation": "Хувирал",
+    "hanja": "突然變異",
+    "pos": "Noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌연사",
+    "translation": "Гэнэтийн үхэл",
+    "hanja": "突然死",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌연사하다",
+    "translation": "гэнэт нас барах",
+    "hanja": " đột然死하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌연하다",
+    "translation": "гэнэтийн",
+    "hanja": " đột nhiên",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌연히",
+    "translation": "гэнэт",
+    "hanja": " đột nhiên",
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌이",
+    "translation": "чулуу",
+    "hanja": "돌이",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "돌이키다",
+    "translation": "Эргэж харах, буцаах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌입",
+    "translation": "нэвтрэх",
+    "hanja": "突入",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌입하다",
+    "translation": "Орох, эхлэх",
+    "hanja": "突入—",
+    "pos": "Verb",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌잔치",
+    "translation": "хүүхдийн нэг насны тэмдэглэл",
+    "hanja": "돌잔치",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌잡이",
+    "translation": "нэг насны баяр",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌조각",
+    "translation": "чулууны хэлтэрхий, чулуун баримал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌주먹",
+    "translation": "чулуун нударга",
+    "hanja": "돌주먹",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌진",
+    "translation": "давшилт, урагш дайрах",
+    "hanja": "突進",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌진하다",
+    "translation": "Урагш давших",
+    "hanja": "突進하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌쩌귀",
+    "translation": "нугас, түгжээ",
+    "hanja": "돌쩌귀",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌체",
+    "translation": "Дольче",
+    "hanja": "돌체",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "돌출",
+    "translation": "Түрж гаралт",
+    "hanja": "突出",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌출되다",
+    "translation": "цухуйх",
+    "hanja": "突出되다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌출부",
+    "translation": "овгор хэсэг",
+    "hanja": "突出部",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌출하다",
+    "translation": "түймрэн гарах",
+    "hanja": "突出하다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌층계",
+    "translation": "чулуун шат",
+    "hanja": "돌층계",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌탄",
+    "translation": "чулуун нүүрс",
+    "hanja": "돌炭",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌탑",
+    "translation": "чулуун цамхаг",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌턴",
+    "translation": "Далтон",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "돌투성이",
+    "translation": "чулуугаар дүүрэн",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌파",
+    "translation": "Нэвтлэх",
+    "hanja": "突破",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌파구",
+    "translation": "хувьсгал, шинэ шийдэл",
+    "hanja": "突破口",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌파되다",
+    "translation": "нэвтрэн орох",
+    "hanja": "突破되다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌파력",
+    "translation": "нээлт хийх чадвар (бэрхшээлийг)",
+    "hanja": "突破力",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌파하다",
+    "translation": "нэвтлэх, давж гарах",
+    "hanja": "突破하다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌판",
+    "translation": "чулуун хавтан",
+    "hanja": "돌판",
+    "pos": "нэр үг",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌팔매",
+    "translation": "чулуу шидэх",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌팔매질",
+    "translation": "чулуу шидэх",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌팔이",
+    "translation": "хуурамч эмч, шаар",
+    "hanja": "돌팔이",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "돌풍",
+    "translation": "ширүүн салхи",
+    "hanja": "突風",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌피",
+    "translation": "тарваган татаар",
+    "hanja": null,
+    "pos": "noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "돌핀",
+    "translation": "делфин",
+    "hanja": "dolphin",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "돌하르방",
+    "translation": "Чулуун өвөө",
+    "hanja": "돌하르방",
+    "pos": "명사",
+    "cefr": "B1"
+  }
+]

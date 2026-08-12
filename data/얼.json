@@ -1,0 +1,618 @@
+[
+  {
+    "word": "얼",
+    "translation": "Сэтгэл, ухаан",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "얼간이",
+    "translation": "тэнэг",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼갈이",
+    "translation": "ургамлын навч (голчлон намар эсвэл өвөл хураасан)",
+    "hanja": "null",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼개",
+    "translation": "бүтэц",
+    "hanja": "얼개",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼결",
+    "translation": "санамсаргүй байдал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼굴",
+    "translation": "нүүр",
+    "hanja": "얼굴",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "얼굴값",
+    "translation": "царайны үнэ",
+    "hanja": "얼굴값",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼굴빛",
+    "translation": "царайны өнгө",
+    "hanja": "---",
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "얼굴상",
+    "translation": "царайны төрх",
+    "hanja": "얼굴像",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼굴색",
+    "translation": "царайны өнгө",
+    "hanja": "얼굴色",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "얼굴형",
+    "translation": "Нүүрний хэлбэр",
+    "hanja": "얼굴型",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼기설기",
+    "translation": "Эрээн мяраан, сүлжих, орооцолдох",
+    "hanja": "얼기설기",
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼다",
+    "translation": "хөлдөх",
+    "hanja": null,
+    "pos": "Verb",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼떨결",
+    "translation": "Төөрөгдөл, самуурсан байдал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "얼떨떨하다",
+    "translation": "Бүтэлгүй байх",
+    "hanja": "얼떨떨하다",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼뚱",
+    "translation": "хачин",
+    "hanja": "얼뚱",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼라",
+    "translation": "жаахан хүүхэд",
+    "hanja": "얼라",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "얼라이언스",
+    "translation": "холбоо, нэгдэл",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "얼라인",
+    "translation": "Тэгшлэх, нийцүүлэх (англи alignment-ээс)",
+    "hanja": "얼라인",
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼라인먼트",
+    "translation": "тэгшлэх, нийцүүлэлт",
+    "hanja": "N/A",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼랑",
+    "translation": "Эрлан",
+    "hanja": null,
+    "pos": "고유명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "얼렁",
+    "translation": "хуурамчаар",
+    "hanja": "",
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "얼렁뚱땅",
+    "translation": "хайнга",
+    "hanja": "얼렁뚱땅",
+    "pos": "Adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼렁뚱땅하다",
+    "translation": "Мундаг, яруу найрагч",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "얼레",
+    "translation": "ээлж, дараалал",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼레리꼴레리",
+    "translation": "хөөрхөн хөөрхөн (~гэж 놀리다)",
+    "hanja": "얼레리꼴레리",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼려먹다",
+    "translation": "хөлдөөж идэх",
+    "hanja": "얼려먹다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼루다",
+    "translation": "толботох, хачирладаг",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼룩",
+    "translation": "толбо",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "얼룩덜룩",
+    "translation": "толботой, эрээн мяраан",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼룩덜룩하다",
+    "translation": "Толботой, алаг эрээг",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼룩말",
+    "translation": "Тахь",
+    "hanja": "얼룩말",
+    "pos": "Noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "얼룩무늬",
+    "translation": "Толботой хээ, алаг цоог",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "얼룩지다",
+    "translation": "толботох, бузрах",
+    "hanja": "얼룩지다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼룩투성이",
+    "translation": "толботой",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼르다",
+    "translation": "Зөөлөн илэх",
+    "hanja": "얼르다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼른얼른",
+    "translation": "Түргэн түргэн",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "얼릉",
+    "translation": "хурдан, яаран",
+    "hanja": "NaN",
+    "pos": "Adverb",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼리",
+    "translation": "хөлдөөх",
+    "hanja": null,
+    "pos": "verb",
+    "cefr": "A2"
+  },
+  {
+    "word": "얼리다",
+    "translation": "Хөлдөөх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "A2"
+  },
+  {
+    "word": "얼마",
+    "translation": "хэд",
+    "hanja": "얼마",
+    "pos": "adv",
+    "cefr": "A1"
+  },
+  {
+    "word": "얼마간",
+    "translation": "Хэсэг хугацаанд",
+    "hanja": "null",
+    "pos": "부사",
+    "cefr": "A2"
+  },
+  {
+    "word": "얼마나",
+    "translation": "хэр их, ямар их",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "A1"
+  },
+  {
+    "word": "얼마만하다",
+    "translation": "얼마만이다",
+    "hanja": null,
+    "pos": "형용사",
+    "cefr": "A2"
+  },
+  {
+    "word": "얼매",
+    "translation": "хүүхдийн тоглоом",
+    "hanja": "",
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "얼버무리다",
+    "translation": "Бүдаглах",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "얼비치다",
+    "translation": "Бүдэгхэн харагдах",
+    "hanja": "얼비치다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼빠",
+    "translation": "царайгаар ах дүү болгох",
+    "hanja": "얼빠",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼빠지다",
+    "translation": "сүнсгүй болох",
+    "hanja": "얼빠지다",
+    "pos": "형용사",
+    "cefr": "C1"
+  },
+  {
+    "word": "얼빡",
+    "translation": "Нүүрний зураг (олон нийтийн хэллэг)",
+    "hanja": "얼빡",
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼사",
+    "translation": "мөсөн сум, мөсөн тулгуур",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼싸안다",
+    "translation": "тэврэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼쑤",
+    "translation": "уухай, баярлалаа",
+    "hanja": "얼쑤",
+    "pos": "Interjection",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼씨",
+    "translation": "тийм ээ, үнэн",
+    "hanja": "얼씨",
+    "pos": "Interjection",
+    "cefr": "A2"
+  },
+  {
+    "word": "얼씨구",
+    "translation": "хөөх",
+    "hanja": "얼씨구",
+    "pos": "감탄사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼씬",
+    "translation": "Эргэлдэх, үзэгдэх",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼씬거리다",
+    "translation": "ойр хавьд эргэлдэх, үзэгдэх",
+    "hanja": "얼씬거리다",
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "얼씬대다",
+    "translation": "гарч ирэх",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼씬하다",
+    "translation": "гэнэт гарч ирэх",
+    "hanja": null,
+    "pos": "동사",
+    "cefr": "C1"
+  },
+  {
+    "word": "얼어붙다",
+    "translation": "хөлдөх, царцах",
+    "hanja": "얼어붙다",
+    "pos": "동사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼얼하다",
+    "translation": "Ээжэх, чимчигнэх",
+    "hanja": "얼얼하다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼음",
+    "translation": "мөс",
+    "hanja": "얼음",
+    "pos": "noun",
+    "cefr": "A1"
+  },
+  {
+    "word": "얼음귀신",
+    "translation": "мөсөн чөтгөр",
+    "hanja": "無",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼음낚시",
+    "translation": "мөсөн загасчлал",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼음덩이",
+    "translation": "мөсөн талст",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼음물",
+    "translation": "Мөстэй ус",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A1"
+  },
+  {
+    "word": "얼음장",
+    "translation": "мөсөн хуудас",
+    "hanja": "얼음장",
+    "pos": "м",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼음집",
+    "translation": "мөсөн байшин",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "A2"
+  },
+  {
+    "word": "얼음칼",
+    "translation": "мөсөн хутга",
+    "hanja": "null",
+    "pos": "명사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼음판",
+    "translation": "мөсөн талбай",
+    "hanja": "얼음판",
+    "pos": "noun",
+    "cefr": "A2"
+  },
+  {
+    "word": "얼자",
+    "translation": "хөлдөх, хөлрөх",
+    "hanja": "孽子",
+    "pos": "명사",
+    "cefr": "C2"
+  },
+  {
+    "word": "얼죽아",
+    "translation": "мөстэй кофе уудаг хүн (хүйтэн байсан ч)",
+    "hanja": null,
+    "pos": "신조어",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼죽코",
+    "translation": "мөстэй кофе уух",
+    "hanja": null,
+    "pos": "Noun",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼쩡거리다",
+    "translation": "орчин тойронд эргэлдэх",
+    "hanja": "얼쩡거리다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼쩡대다",
+    "translation": "эсвэлзэх, бэлчих, эргэлдэх",
+    "hanja": "얼쩡대다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼차려",
+    "translation": "шившигтэй байдалд оруулах, шийтгэх",
+    "hanja": "얼차려",
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼척",
+    "translation": "ухаан алдах, барьц алдах",
+    "hanja": null,
+    "pos": "명사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼척없다",
+    "translation": "Утгагүй, галзуу",
+    "hanja": "얼척없다",
+    "pos": "형용사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼추",
+    "translation": "бараг",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼크다",
+    "translation": "орооцолдох, холилдох",
+    "hanja": "null",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼큰이",
+    "translation": "том нүүртэй хүн",
+    "hanja": "null",
+    "pos": "noun",
+    "cefr": "C1"
+  },
+  {
+    "word": "얼큰하다",
+    "translation": "Халуунавтгай",
+    "hanja": "얼큰하다",
+    "pos": "형용사",
+    "cefr": "B1"
+  },
+  {
+    "word": "얼키설키",
+    "translation": "орооцолдсон, замбараагүй",
+    "hanja": null,
+    "pos": "부사",
+    "cefr": "C1"
+  },
+  {
+    "word": "얼타다",
+    "translation": "самуурах, сандрах",
+    "hanja": "얼타다",
+    "pos": "동사",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼태기",
+    "translation": "Царайны хямрал",
+    "hanja": "얼倦期",
+    "pos": "명사",
+    "cefr": "C1"
+  },
+  {
+    "word": "얼토당토않다",
+    "translation": "утга учиргүй, үндэслэлгүй",
+    "hanja": "말도당착",
+    "pos": "Adjective",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼핏",
+    "translation": "ганцхан харвал",
+    "hanja": "얼핏",
+    "pos": "adverb",
+    "cefr": "B2"
+  },
+  {
+    "word": "얼핏얼핏",
+    "translation": "гэнэт гэнэт, нэг харвал",
+    "hanja": "얼핏얼핏",
+    "pos": "Adverb",
+    "cefr": "B2"
+  }
+]
